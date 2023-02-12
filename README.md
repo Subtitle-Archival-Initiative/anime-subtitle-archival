@@ -20,6 +20,12 @@ In the event of an untagged release, it will be given a special directory inside
 The subtitles are then split up by episode number and versioning (if applicable).
 Should a file exceed 100MB (GitHub limitation), it will be split into however many parts are necessary.
 
+## Are the files modified?
+
+In most ideal scenarios, they are not.
+They should reflect the original subtitles as much as reasonably possible.
+However, changes may be made to ensure it still renders correctly with modern subtitle renders.
+
 ## Contributions
 
 Want to contribute? Please leave an [Issue] or create a [Pull Request]!
