@@ -1,9 +1,9 @@
 # Staff
 
-| Role        | Staff    |
-|-------------|----------|
-| Translation | Vale     |
-| Editing     | cheshyre |
-| Typesetting | cheshyre |
-| Timing      | ?        |
-| Encoding    | ?        |
+| Role        | Staff     |
+|-------------|-----------|
+| Translation | valerauko |
+| Editing     | cheshyre  |
+| Typesetting | cheshyre  |
+| Timing      | ?         |
+| Encoding    | ?         |
