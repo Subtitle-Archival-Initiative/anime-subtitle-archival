@@ -10,9 +10,9 @@
 
 ## Release Info
 
-|             |           |
-|-------------|-----------|
-| Status      | Complete  |
-| Bach Status | -         |
-| Source      | TVRip     |
-| Resolution  | 1280x720  |
+|              |           |
+|--------=-----|-----------|
+| Status       | Complete  |
+| Batch Status | -         |
+| Source       | TVRip     |
+| Resolution   | 1280x720  |

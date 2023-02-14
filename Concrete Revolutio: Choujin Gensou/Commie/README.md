@@ -10,9 +10,9 @@
 
 ## Release Info
 
-|             |            |
-|-------------|------------|
-| Status      | Incomplete |
-| Bach Status | -          |
-| Source      | WEBRip     |
-| Resolution  | 1280x720   |
+|              |            |
+|--------------|------------|
+| Status       | Incomplete |
+| Batch Status | -          |
+| Source       | WEBRip     |
+| Resolution   | 1280x720   |

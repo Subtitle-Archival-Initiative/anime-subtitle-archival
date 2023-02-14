@@ -11,9 +11,9 @@
 
 ## Release Info
 
-|             |            |
-|-------------|------------|
-| Status      | Incomplete |
-| Bach Status | -          |
-| Source      | TVRip      |
-| Resolution  | 1280x720   |
+|              |            |
+|--------------|------------|
+| Status       | Incomplete |
+| Batch Status | -          |
+| Source       | TVRip      |
+| Resolution   | 1280x720   |
