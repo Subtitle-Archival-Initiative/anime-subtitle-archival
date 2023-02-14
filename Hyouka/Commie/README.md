@@ -11,7 +11,7 @@
 ## Release Info
 
 |              |           |
-|--------=-----|-----------|
+|--------------|-----------|
 | Status       | Complete  |
 | Batch Status | -         |
 | Source       | TVRip     |
