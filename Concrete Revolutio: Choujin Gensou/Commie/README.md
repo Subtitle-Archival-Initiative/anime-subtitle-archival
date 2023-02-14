@@ -1,12 +1,13 @@
 ## Staff
 
-| Role        | Staff     |
-|-------------|-----------|
-| Translation | valerauko |
-| Editing     | cheshyre  |
-| Typesetting | cheshyre  |
-| Timing      | ?         |
-| Encoding    | ?         |
+| Role            | Staff     |
+|-----------------|-----------|
+| Translation     | valerauko |
+| Editing         | Ephemere  |
+| Typesetting     | Ephemere  |
+| Timing          | skiddisk  |
+| Encoding        | ?         |
+| Quality Control | Fyurie    |
 
 ## Release Info
 
