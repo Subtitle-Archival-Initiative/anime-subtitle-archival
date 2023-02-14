@@ -1,0 +1,520 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Last Style Storage: Default
+Audio File: ?video
+Video File: Documents\My FTPRush Downloads\hyouka-03-premux.mkv
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 36666
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Corinthian Medium,48,&H00FFFFFF,&H000000FF,&H0027201C,&HAA000000,0,0,0,0,100,100,0,0,1,2.5,1.3,2,150,150,45,1
+Style: Sign,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Show Title,Danton,95,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,5,10,10,10,1
+Style: Ending_TL,From Where You Are,48,&H00DE8BE0,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,30,1
+Style: Ending_Kana,@FC行楷書体,30,&H00DE8BE0,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,270,1,1.8,0,5,0,0,0,128
+Style: Ending_TL2,From Where You Are,48,&HFFFFFFFF,&H000000FF,&H00CE73D0,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,30,1
+Style: Ending_Kana2,@FC行楷書体,30,&HFFFFFFFF,&H000000FF,&H00CE73D0,&H00000000,0,0,0,0,100,100,0,270,1,3.3,0,5,0,0,0,128
+Style: Alt,Corinthian Medium,48,&H00FFFFFF,&H000000FF,&H000B2E1A,&HAA000000,0,0,0,0,100,100,0,0,1,2.5,1.3,2,150,150,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.72,0:00:19.15,Default,,0000,0000,0000,,Owner.
+Dialogue: 0,0:00:19.15,0:00:20.86,Default,,0000,0000,0000,,One more cup of coffee, please.
+Dialogue: 0,0:00:24.28,0:00:25.54,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:00:26.17,0:00:27.88,Default,,0000,0000,0000,,Actually, I...
+Dialogue: 0,0:00:32.75,0:00:36.51,Default,,0000,0000,0000,,I have a favor to ask of you!
+Dialogue: 0,0:00:38.26,0:00:39.19,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:00:42.25,0:00:42.77,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:00:43.45,0:00:44.34,Default,,0000,0000,0000,,A favor?
+Dialogue: 0,0:00:44.34,0:00:45.40,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:00:45.93,0:00:52.53,Default,,0000,0000,0000,,This is my problem, so I shouldn't be asking for your help...
+Dialogue: 0,0:00:53.35,0:00:56.35,Default,,0000,0000,0000,,but could you listen to what I have to say?
+Dialogue: 0,0:00:59.82,0:01:01.58,Default,,0000,0000,0000,,Well, if I only have to listen...
+Dialogue: 0,0:01:03.33,0:01:09.84,Show Title,,0000,0000,0000,,{\fad(943,0)\blur3\be1\pos(1090,395)}Hyouka
+Dialogue: 0,0:01:06.75,0:01:07.56,Default,,0000,0000,0000,,Great!
+Dialogue: 0,0:01:11.17,0:01:16.09,Sign,,0000,0000,0000,,{\fad(1224,513)\fs36\bord0.7\blur3\b1\fnKozuka Mincho Pro-Hyouka B\c&HF7F8FD&\pos(794,575)}Troubled Descendant of the Classic Literature Club
+Dialogue: 0,0:01:12.08,0:01:16.68,Default,,0000,0000,0000,,{\an8}I had an uncle named Sekitani Jun.
+Dialogue: 0,0:01:17.47,0:01:22.60,Default,,0000,0000,0000,,Would you help me remember what he told me?
+Dialogue: 0,0:01:23.53,0:01:25.69,Default,,0000,0000,0000,,I don't really understand.
+Dialogue: 0,0:01:25.69,0:01:28.37,Default,,0000,0000,0000,,I'm sorry! I jumped the gun...
+Dialogue: 0,0:01:28.37,0:01:30.61,Default,,0000,0000,0000,,I'll explain everything.
+Dialogue: 0,0:01:31.37,0:01:35.49,Default,,0000,0000,0000,,My uncle went to India seven years ago,
+Dialogue: 0,0:01:35.49,0:01:37.99,Default,,0000,0000,0000,,and went missing.
+Dialogue: 0,0:01:37.99,0:01:40.32,Alt,,0000,0000,0000,,{\an8}Sign: Japanese Citizen Gone Missing
+Dialogue: 0,0:01:37.99,0:01:42.46,Default,,0000,0000,0000,,When I was a little girl, I was very attached to my uncle.
+Dialogue: 0,0:01:42.46,0:01:46.10,Default,,0000,0000,0000,,He would answer whatever ridiculous questions I had.
+Dialogue: 0,0:01:46.10,0:01:49.47,Default,,0000,0000,0000,,It was like he knew absolutely everything.
+Dialogue: 0,0:01:51.34,0:01:55.50,Default,,0000,0000,0000,,When I was in kindergarten, I learned that he was in the Classic Literature Club,
+Dialogue: 0,0:01:55.50,0:01:57.97,Default,,0000,0000,0000,,which made me very curious.
+Dialogue: 0,0:01:57.97,0:02:02.54,Default,,0000,0000,0000,,I suppose it's because it rhymed with the basic mixture kelp we always had in home.
+Dialogue: 0,0:02:02.54,0:02:04.20,Default,,0000,0000,0000,,Was that a pun?
+Dialogue: 0,0:02:04.20,0:02:09.90,Default,,0000,0000,0000,,One day, I asked my uncle something about the club.
+Dialogue: 0,0:02:09.90,0:02:14.48,Default,,0000,0000,0000,,That was the only time he was ever reluctant to answer my question.
+Dialogue: 0,0:02:14.48,0:02:16.07,Default,,0000,0000,0000,,He was reluctant?
+Dialogue: 0,0:02:16.63,0:02:17.60,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:02:17.60,0:02:22.85,Default,,0000,0000,0000,,I kept nagging him until he finally caved.
+Dialogue: 0,0:02:23.83,0:02:26.47,Default,,0000,0000,0000,,When I heard his answer, I...
+Dialogue: 0,0:02:26.47,0:02:27.46,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:02:28.61,0:02:30.46,Default,,0000,0000,0000,,...cried.
+Dialogue: 0,0:02:30.46,0:02:33.53,Default,,0000,0000,0000,,I don't remember if I was scared or sad,
+Dialogue: 0,0:02:33.53,0:02:34.98,Default,,0000,0000,0000,,but I broke into tears.
+Dialogue: 0,0:02:34.98,0:02:35.80,Default,,0000,0000,0000,,You cried?
+Dialogue: 0,0:02:35.80,0:02:39.86,Default,,0000,0000,0000,,My mom was shocked, and rushed by my side,
+Dialogue: 0,0:02:39.86,0:02:43.87,Default,,0000,0000,0000,,but my uncle didn't even try to comfort me.
+Dialogue: 0,0:02:44.39,0:02:48.43,Default,,0000,0000,0000,,Only the shock of the event remains in my memory now,
+Dialogue: 0,0:02:48.43,0:02:50.44,Default,,0000,0000,0000,,and I can't remember any other details.
+Dialogue: 0,0:02:50.87,0:02:54.77,Default,,0000,0000,0000,,It started to bother me when I became a middle schooler,
+Dialogue: 0,0:02:55.14,0:02:58.28,Default,,0000,0000,0000,,and I started to wonder why my uncle was reluctant to tell me,
+Dialogue: 0,0:02:58.28,0:03:00.95,Default,,0000,0000,0000,,and why he didn't comfort me.
+Dialogue: 0,0:03:03.65,0:03:09.41,Default,,0000,0000,0000,,I think I've done everything I can do.
+Dialogue: 0,0:03:10.03,0:03:14.84,Default,,0000,0000,0000,,I even approached the introverted{secretive} Sekitani Family as best as I could.
+Dialogue: 0,0:03:14.84,0:03:17.84,Default,,0000,0000,0000,,But I couldn't find anything to help me remember.
+Dialogue: 0,0:03:32.32,0:03:38.57,Default,,0000,0000,0000,,That's why I thought the Classic Literature Club was my last hope when I became a Kamiyama High student.
+Dialogue: 0,0:03:38.57,0:03:41.86,Default,,0000,0000,0000,,So that's what your "personal" reason was, huh?
+Dialogue: 0,0:03:43.25,0:03:47.37,Default,,0000,0000,0000,,Unfortunately, I didn't know the club was on verge of disbanding.
+Dialogue: 0,0:03:47.86,0:03:50.13,Default,,0000,0000,0000,,I asked around in the staff room,
+Dialogue: 0,0:03:50.13,0:03:55.25,Default,,0000,0000,0000,,{oji ga}but no one knew what happened when my uncle was a student 45 years ago.
+Dialogue: 0,0:03:55.25,0:03:59.13,Default,,0000,0000,0000,,{de naze}So why are you asking {\i1}me{\i0\fscx50} {\fscx100} for help?
+Dialogue: 0,0:04:00.00,0:04:01.32,Default,,0000,0000,0000,,It's because...
+Dialogue: 0,0:04:01.32,0:04:06.99,Default,,0000,0000,0000,,...you might be able to come up with a conclusion beyond my imagination!
+Dialogue: 0,0:04:06.99,0:04:09.18,Default,,0000,0000,0000,,Like with the locked door or book mysteries...
+Dialogue: 0,0:04:09.18,0:04:12.14,Default,,0000,0000,0000,,and the recruitment note too!
+Dialogue: 0,0:04:12.52,0:04:17.36,Default,,0000,0000,0000,,I know you'll lead me to an answer!
+Dialogue: 0,0:04:17.73,0:04:19.84,Default,,0000,0000,0000,,You give me too much credit.
+Dialogue: 0,0:04:19.84,0:04:21.90,Default,,0000,0000,0000,,They were all just luck.
+Dialogue: 0,0:04:21.90,0:04:24.16,Default,,0000,0000,0000,,Let me bet on your luck, then!
+Dialogue: 0,0:04:24.16,0:04:25.72,Default,,0000,0000,0000,,It's too much effort.
+Dialogue: 0,0:04:29.39,0:04:36.73,Default,,0000,0000,0000,,I can tell that this problem will eventually turn into a life-changing revelation for Chitanda,
+Dialogue: 0,0:04:37.26,0:04:42.28,Default,,0000,0000,0000,,{sonna}but does she really think an energy conserver like me would want to take part in it?
+Dialogue: 0,0:04:42.28,0:04:43.72,Default,,0000,0000,0000,,She must be joking.
+Dialogue: 0,0:04:45.22,0:04:47.85,Default,,0000,0000,0000,,Why are you asking me for help?
+Dialogue: 0,0:04:47.85,0:04:50.39,Default,,0000,0000,0000,,There must someone more useful that can help you.
+Dialogue: 0,0:04:51.27,0:04:53.60,Default,,0000,0000,0000,,You just have to use the wisdom of the crowd.
+Dialogue: 0,0:04:53.60,0:04:57.33,Default,,0000,0000,0000,,Why don't you ask your friends?
+Dialogue: 0,0:04:59.29,0:05:00.63,Default,,0000,0000,0000,,Oreki.
+Dialogue: 0,0:05:00.63,0:05:04.61,Default,,0000,0000,0000,,I'm not the type of person who goes around telling people about my past.
+Dialogue: 0,0:05:06.42,0:05:10.49,Default,,0000,0000,0000,,This isn't something I could just tell anyone.
+Dialogue: 0,0:05:13.17,0:05:14.13,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:05:27.40,0:05:30.05,Default,,0000,0000,0000,,I know I'm being unreasonable.
+Dialogue: 0,0:05:30.91,0:05:35.60,Default,,0000,0000,0000,,I know I shouldn't drag you along with my quest for lost memories.
+Dialogue: 0,0:05:36.14,0:05:37.67,Default,,0000,0000,0000,,Even so,
+Dialogue: 0,0:05:37.67,0:05:42.15,Default,,0000,0000,0000,,you're far less cooperative than my uncle, but you've come through for me too!
+Dialogue: 0,0:05:42.55,0:05:44.92,Default,,0000,0000,0000,,{\i1}Sorry{\i0\fscx50} {\fscx100} for being uncooperative.
+Dialogue: 0,0:05:44.92,0:05:49.65,Default,,0000,0000,0000,,You might've just reminded me of my uncle.
+Dialogue: 0,0:05:51.61,0:05:53.87,Default,,0000,0000,0000,,We have three more years left of high school.
+Dialogue: 0,0:05:53.87,0:05:55.91,Default,,0000,0000,0000,,{sono aida}Just take your time looking for clues.
+Dialogue: 0,0:05:59.15,0:06:04.59,Default,,0000,0000,0000,,I want to reclaim my memory before my uncle dies.
+Dialogue: 0,0:06:04.59,0:06:06.05,Default,,0000,0000,0000,,Before he dies?
+Dialogue: 0,0:06:06.05,0:06:07.55,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:07.55,0:06:11.49,Default,,0000,0000,0000,,Legally speaking, if someone's whereabouts are unknown for seven years,
+Dialogue: 0,0:06:11.49,0:06:14.75,Default,,0000,0000,0000,,they will be declared dead.
+Dialogue: 0,0:06:14.75,0:06:16.14,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:06:19.02,0:06:23.23,Default,,0000,0000,0000,,My uncle's family had planned to settle this matter too.
+Dialogue: 0,0:06:23.79,0:06:27.16,Default,,0000,0000,0000,,They're also planning a small funeral for him.
+Dialogue: 0,0:06:27.63,0:06:29.08,Default,,0000,0000,0000,,That's why...
+Dialogue: 0,0:06:29.08,0:06:34.48,Default,,0000,0000,0000,,I want to keep what he told me in my heart...
+Dialogue: 0,0:06:34.48,0:06:38.21,Default,,0000,0000,0000,,...for the funeral.
+Dialogue: 0,0:06:38.59,0:06:39.83,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:06:56.92,0:06:57.81,Default,,0000,0000,0000,,"Houtarou,
+Dialogue: 0,0:06:58.20,0:07:00.50,Default,,0000,0000,0000,,"It's not like you're interested in anything else, right?"
+Dialogue: 0,0:07:04.73,0:07:08.75,Default,,0000,0000,0000,,I can't bear that responsibility for you.
+Dialogue: 0,0:07:08.75,0:07:13.01,Default,,0000,0000,0000,,That's why I can't tell you that I'm accepting your request.
+Dialogue: 0,0:07:13.01,0:07:15.92,Default,,0000,0000,0000,,But I'll remember what you've told me,
+Dialogue: 0,0:07:15.92,0:07:18.35,Default,,0000,0000,0000,,{hinto ni}and if I ever come across any hints,
+Dialogue: 0,0:07:18.35,0:07:19.71,Default,,0000,0000,0000,,I'll definitely let you know.
+Dialogue: 0,0:07:20.20,0:07:22.50,Default,,0000,0000,0000,,If you're having trouble analyzing the information,
+Dialogue: 0,0:07:22.50,0:07:24.09,Default,,0000,0000,0000,,{sono toki}then I'll help you out.
+Dialogue: 0,0:07:25.73,0:07:26.42,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:07:27.79,0:07:30.51,Default,,0000,0000,0000,,If that's fine with you, then I'll help you.
+Dialogue: 0,0:07:33.92,0:07:35.91,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:07:35.91,0:07:38.22,Default,,0000,0000,0000,,I really appreciate it.
+Dialogue: 0,0:07:39.13,0:07:40.05,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:07:49.82,0:07:54.31,Default,,0000,0000,0000,,Living a high school life isn't all fun and roses.
+Dialogue: 0,0:07:54.99,0:07:56.71,Default,,0000,0000,0000,,Take the midterms for example.
+Dialogue: 0,0:07:57.24,0:08:01.33,Default,,0000,0000,0000,,First term midterms have started in Kamiyama High.
+Dialogue: 0,0:08:02.10,0:08:05.87,Default,,0000,0000,0000,,All club activities are on hold during this period.
+Dialogue: 0,0:08:05.87,0:08:08.48,Default,,0000,0000,0000,,The Classic Literature Club is no exception,
+Dialogue: 0,0:08:08.48,0:08:13.31,Default,,0000,0000,0000,,but we weren't doing anything in the first place, {maybe split shoujiki if triple liner}so it doesn't really make any difference.
+Dialogue: 0,0:08:10.80,0:08:11.55,Sign,,0000,0000,0000,,{\fs30\c&H395B62&\pos(644,251)\fnArial Rounded MT\blur0.6\b1}Library
+Dialogue: 0,0:08:13.31,0:08:16.83,Default,,0000,0000,0000,,We shouldn't be forced to change our routine either, but...
+Dialogue: 0,0:08:16.83,0:08:20.02,Default,,0000,0000,0000,,there was nothing we could do without access to the room.
+Dialogue: 0,0:08:21.39,0:08:22.89,Sign,,0000,0000,0000,,{\pos(638,133)\c&H15161A&\blur0.5\fs40\frz0.009\frx-2.8}First Term Midterm Examination Schedule
+Dialogue: 0,0:08:21.39,0:08:22.89,Sign,,0000,0000,0000,,{\c&H15161A&\blur0.5\fs26\frz0.009\frx355\pos(446,285)}Modern Lit.
+Dialogue: 0,0:08:21.39,0:08:22.89,Sign,,0000,0000,0000,,{\c&H15161A&\blur0.5\fs26\frz0.009\frx355\pos(603,283)}Social Science
+Dialogue: 0,0:08:21.39,0:08:22.89,Sign,,0000,0000,0000,,{\c&H15161A&\blur0.5\fs26\frx355\pos(767,284)\frz359.354}English I
+Dialogue: 0,0:08:21.39,0:08:22.89,Sign,,0000,0000,0000,,{\c&H15161A&\blur0.5\fs26\frx355\frz358.84\pos(922,285)}Math A
+Dialogue: 0,0:08:21.39,0:08:22.89,Sign,,0000,0000,0000,,{\c&H15161A&\blur0.5\fs26\frx355\pos(601,374)\frz0.86}Math I
+Dialogue: 0,0:08:21.39,0:08:22.89,Sign,,0000,0000,0000,,{\c&H15161A&\blur0.5\fs26\frx355\frz359.44\pos(767,375)}World History B
+Dialogue: 0,0:08:21.39,0:08:22.89,Sign,,0000,0000,0000,,{\c&H15161A&\blur0.5\fs26\frx355\frz359.44\pos(919,373)}Science
+Dialogue: 0,0:08:21.39,0:08:22.89,Sign,,0000,0000,0000,,{\c&H15161A&\blur0.5\fs26\frx355\frz359.44\pos(764,467)}Classic Lit.
+Dialogue: 0,0:08:24.60,0:08:25.81,Sign,,0000,0000,0000,,{\fs58\fnProfile\blur0.6\c&HB0D6D1&\frz0.56\pos(508,114)}First Term Midterm Examination
+Dialogue: 0,0:08:24.60,0:08:25.81,Sign,,0000,0000,0000,,{\fs58\fnProfile\blur0.6\frz0.56\pos(609,512)\c&HB4D7D2&}Math I
+Dialogue: 0,0:08:26.77,0:08:27.77,Sign,,0000,0000,0000,,{\fs58\fnProfile\blur0.6\c&HB0D6D1&\frz0.56\pos(508,114)}First Term Midterm Examination
+Dialogue: 0,0:08:26.77,0:08:27.77,Sign,,0000,0000,0000,,{\fs58\fnProfile\blur0.6\c&HB4D7D2&\pos(644,514)\frz1.252}World History B
+Dialogue: 0,0:08:28.86,0:08:31.36,Sign,,0000,0000,0000,,{\fs58\fnProfile\blur0.6\c&HB0D6D1&\frz0.56\pos(508,114)}First Term Midterm Examination
+Dialogue: 0,0:08:28.86,0:08:31.36,Sign,,0000,0000,0000,,{\fs58\fnProfile\blur0.6\c&HB4D7D2&\frz1.252\pos(597,514)}Science
+Dialogue: 0,0:08:31.49,0:08:32.78,Default,,0000,0000,0000,,Okay, time's up.
+Dialogue: 0,0:08:43.29,0:08:45.34,Default,,0000,0000,0000,,The midterms are finally over.
+Dialogue: 0,0:08:45.34,0:08:46.91,Default,,0000,0000,0000,,What a drag.
+Dialogue: 0,0:08:58.80,0:09:00.20,Default,,0000,0000,0000,,"Dear Oreki Houtarou,
+Dialogue: 0,0:09:00.20,0:09:03.23,Default,,0000,0000,0000,,"I'm currently in Istanbul.
+Dialogue: 0,0:09:03.23,0:09:06.35,Default,,0000,0000,0000,,"I didn't really plan it out, so I'm suffering from jet lag after visiting Japan.
+Dialogue: 0,0:09:06.35,0:09:08.65,Default,,0000,0000,0000,,{machi no}"so I haven't taken a tour of the city yet."
+Dialogue: 0,0:09:09.31,0:09:11.19,Default,,0000,0000,0000,,What's she up to now?
+Dialogue: 0,0:09:11.67,0:09:13.77,Default,,0000,0000,0000,,"This journey is really interesting.
+Dialogue: 0,0:09:13.77,0:09:17.28,Default,,0000,0000,0000,,"I'm certain that I won't regret these days when I look back in ten years.
+Dialogue: 0,0:09:18.88,0:09:20.92,Default,,0000,0000,0000,,"By the way, how's the Classic Literature Club?
+Dialogue: 0,0:09:20.92,0:09:22.65,Default,,0000,0000,0000,,"Did you get more members to join?
+Dialogue: 0,0:09:22.65,0:09:26.53,Default,,0000,0000,0000,,"There's something I thought would be important, so I'll include it in this letter.
+Dialogue: 0,0:09:26.53,0:09:28.39,Default,,0000,0000,0000,,"Are you interested in making an anthology?
+Dialogue: 0,0:09:30.31,0:09:33.55,Default,,0000,0000,0000,,"Our club used to make one for the culture festival every year.
+Dialogue: 0,0:09:33.55,0:09:35.75,Default,,0000,0000,0000,,"Is the tradition is still going strong?
+Dialogue: 0,0:09:35.75,0:09:40.71,Default,,0000,0000,0000,,"I figured that you might not know how to make one.
+Dialogue: 0,0:09:40.71,0:09:43.73,Default,,0000,0000,0000,,"You won't find our anthologies in the library.
+Dialogue: 0,0:09:43.73,0:09:45.53,Default,,0000,0000,0000,,"You should be looking for it in the club room.
+Dialogue: 0,0:09:46.88,0:09:49.87,Default,,0000,0000,0000,,"There's an unused drug safe inside,
+Dialogue: 0,0:09:49.87,0:09:51.52,Default,,0000,0000,0000,,"and the archives are inside.
+Dialogue: 0,0:09:51.52,0:09:53.44,Default,,0000,0000,0000,,"It's not locked.
+Dialogue: 0,0:09:54.09,0:09:57.24,Default,,0000,0000,0000,,"I'll call you when I get to Pristina.
+Dialogue: 0,0:09:57.65,0:09:58.57,Default,,0000,0000,0000,,"Best regards,
+Dialogue: 0,0:09:58.57,0:10:00.07,Default,,0000,0000,0000,,"Oreki Tomoe."
+Dialogue: 0,0:10:01.10,0:10:02.54,Default,,0000,0000,0000,,A drug safe?
+Dialogue: 0,0:10:03.46,0:10:05.75,Default,,0000,0000,0000,,Your timing couldn't have been better.
+Dialogue: 0,0:10:05.75,0:10:07.70,Sign,,0000,0000,0000,,{\fad(0,500)\blur2\bord0.8\an4\3c&H141514&\fnCicle Semi\fs76\b1\3c&H34445F&\c&H141514&\pos(524,357)}Shouman
+Dialogue: 0,0:10:05.75,0:10:07.70,Sign,,0000,0000,0000,,{\fad(0,500)\blur0.8\an4\3c&H141514&\fnCicle Semi\fs76\b1\c&H141514&\pos(524,357)}Shouman
+Dialogue: 0,0:10:05.75,0:10:08.75,Show Title,,0000,0000,0000,,{\blur2\bord0.4\an4\3c&H141514&\fnCicle Semi\fs36\3c&H34445F&\c&H141514&\pos(301,567)}When everything shines under the sunlight, lush green fills the view
+Dialogue: 0,0:10:05.75,0:10:08.75,Show Title,,0000,0000,0000,,{\blur0.8\an4\c&H141514&\fs36\fnCicle Semi\pos(301,567)}When everything shines under the sunlight, lush green fills the view
+Dialogue: 0,0:10:07.19,0:10:08.75,Show Title,,0000,0000,0000,,{\fad(500,0)\blur2\bord0.8\an4\3c&H141514&\fs76\b1\3c&H34445F&\c&H141514&\pos(523,361)}Hyouka
+Dialogue: 0,0:10:07.19,0:10:08.75,Show Title,,0000,0000,0000,,{\fad(500,0)\blur2\bord0.8\an4\3c&H141514&\fs76\b1\3c&H34445F&\c&H141514&\pos(522,361)}Hyouka
+Dialogue: 0,0:10:11.71,0:10:13.30,Sign,,0000,0000,0000,,{\an2\blur1\fnArial Rounded MT\fs85\fscx45\fscy43.75\frx358\fry0\frz0.158\c&H0B0E0D&\pos(640,252)}Geography Storage Room
+Dialogue: 0,0:10:11.71,0:10:13.30,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:10:15.55,0:10:16.71,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:16.71,0:10:18.89,Default,,0000,0000,0000,,I brought her letter too.
+Dialogue: 0,0:10:19.27,0:10:22.19,Default,,0000,0000,0000,,I see. A drug safe, huh?
+Dialogue: 0,0:10:23.39,0:10:23.81,Default,,0000,0000,0000,,{Hmm?}
+Dialogue: 0,0:10:23.81,0:10:24.93,Default,,0000,0000,0000,,It's not here.
+Dialogue: 0,0:10:26.12,0:10:28.71,Default,,0000,0000,0000,,Right, I didn't see one!
+Dialogue: 0,0:10:28.71,0:10:31.95,Default,,0000,0000,0000,,Wh-Where are the anthologies? Where are they?!
+Dialogue: 0,0:10:31.95,0:10:33.94,Default,,0000,0000,0000,,Come on, calm down, Chii.
+Dialogue: 0,0:10:33.94,0:10:35.11,Default,,0000,0000,0000,,"Chii"?
+Dialogue: 0,0:10:35.52,0:10:41.33,Default,,0000,0000,0000,,Chitanda, the letter only says the drug safe is in the clubroom.
+Dialogue: 0,0:10:41.33,0:10:44.37,Default,,0000,0000,0000,,My sister graduated two years ago.
+Dialogue: 0,0:10:44.37,0:10:47.32,Default,,0000,0000,0000,,The clubroom changed while she was gone.
+Dialogue: 0,0:10:47.32,0:10:48.39,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:10:48.39,0:10:50.15,Default,,0000,0000,0000,,So that's why.
+Dialogue: 0,0:10:50.15,0:10:54.27,Default,,0000,0000,0000,,So do you know where it was two years ago?
+Dialogue: 0,0:10:54.27,0:10:56.40,Default,,0000,0000,0000,,I asked our club advisor.
+Dialogue: 0,0:10:56.40,0:10:58.09,Default,,0000,0000,0000,,It's in the biology storage room.
+Dialogue: 0,0:10:58.09,0:10:59.51,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:10:59.51,0:11:01.73,Default,,0000,0000,0000,,You're actually prepared today.
+Dialogue: 0,0:11:01.73,0:11:03.54,Default,,0000,0000,0000,,I only increased my efficiency.
+Dialogue: 0,0:11:04.56,0:11:06.28,Default,,0000,0000,0000,,You're really excited about this.
+Dialogue: 0,0:11:06.28,0:11:08.35,Default,,0000,0000,0000,,That's not true.
+Dialogue: 0,0:11:08.35,0:11:10.31,Default,,0000,0000,0000,,I'm never excited.
+Dialogue: 0,0:11:11.40,0:11:13.39,Default,,0000,0000,0000,,Let's go, then!
+Dialogue: 0,0:11:18.30,0:11:20.53,Default,,0000,0000,0000,,By the way, where's Fukube?
+Dialogue: 0,0:11:20.53,0:11:22.05,Default,,0000,0000,0000,,Oh, he's with the Sewing Club.
+Dialogue: 0,0:11:22.05,0:11:26.01,Default,,0000,0000,0000,,He said he's researching on the latest summer fashion trends or something...
+Dialogue: 0,0:11:26.49,0:11:27.92,Default,,0000,0000,0000,,Oreki!
+Dialogue: 0,0:11:43.15,0:11:45.77,Default,,0000,0000,0000,,Huh? It's locked.
+Dialogue: 0,0:11:48.01,0:11:50.71,Default,,0000,0000,0000,,Is anyone there?
+Dialogue: 0,0:11:56.77,0:11:58.53,Default,,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:11:58.53,0:12:00.74,Default,,0000,0000,0000,,I locked the door.
+Dialogue: 0,0:12:00.74,0:12:03.36,Default,,0000,0000,0000,,Do you want to join the Wall Newspaper Club?
+Dialogue: 0,0:12:03.36,0:12:05.12,Default,,0000,0000,0000,,No, that's not why we're here.
+Dialogue: 0,0:12:05.12,0:12:09.20,Default,,0000,0000,0000,,This is the Wall Newspaper Club's room?
+Dialogue: 0,0:12:09.20,0:12:11.16,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:12:12.07,0:12:13.37,Default,,0000,0000,0000,,This smell...
+Dialogue: 0,0:12:13.37,0:12:14.42,Default,,0000,0000,0000,,Is it cologne?
+Dialogue: 0,0:12:14.42,0:12:16.82,Default,,0000,0000,0000,,No, it's air freshener?
+Dialogue: 0,0:12:17.59,0:12:19.78,Default,,0000,0000,0000,,Did you need me for something?
+Dialogue: 0,0:12:22.13,0:12:24.88,Default,,0000,0000,0000,,Um... I'm the leader of the Classic Literature Club,
+Dialogue: 0,0:12:24.88,0:12:26.39,Default,,0000,0000,0000,,Chitanda Eru.
+Dialogue: 0,0:12:26.81,0:12:30.14,Default,,0000,0000,0000,,You're Tougaito, right? From Class 3-E.
+Dialogue: 0,0:12:31.27,0:12:32.94,Default,,0000,0000,0000,,How do you know my name?
+Dialogue: 0,0:12:32.94,0:12:37.71,Default,,0000,0000,0000,,I saw you at the Manninbashi estate last year.
+Dialogue: 0,0:12:37.71,0:12:39.87,Default,,0000,0000,0000,,At the Manninbashi estate?
+Dialogue: 0,0:12:39.87,0:12:43.22,Default,,0000,0000,0000,,Wait, are you Chitanda from the family of farm owners{ affiliated with the shrine}?
+Dialogue: 0,0:12:43.22,0:12:45.93,Default,,0000,0000,0000,,Yes. Your family has been very kind to my father.
+Dialogue: 0,0:12:47.74,0:12:49.80,Default,,0000,0000,0000,,Uh... Likewise.
+Dialogue: 0,0:12:49.80,0:12:51.83,Default,,0000,0000,0000,,I see, Chitanda family's...
+Dialogue: 0,0:12:51.83,0:12:53.54,Default,,0000,0000,0000,,What's bothering him?
+Dialogue: 0,0:12:53.54,0:12:55.38,Default,,0000,0000,0000,,So why are you here?
+Dialogue: 0,0:12:55.38,0:12:56.53,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:12:56.53,0:13:02.72,Default,,0000,0000,0000,,I heard Classic Literature Club's archives are stored in the biology store room.
+Dialogue: 0,0:13:02.72,0:13:05.92,Default,,0000,0000,0000,,This room used to be the Classic Literature Club's room, right?
+Dialogue: 0,0:13:05.92,0:13:07.85,Default,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:13:07.85,0:13:10.51,Default,,0000,0000,0000,,I think it was back when I was a freshman.
+Dialogue: 0,0:13:10.51,0:13:11.31,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:13:11.31,0:13:14.25,Default,,0000,0000,0000,,So have you seen the anthologies?
+Dialogue: 0,0:13:16.47,0:13:17.77,Default,,0000,0000,0000,,Uh... I haven't.
+Dialogue: 0,0:13:17.77,0:13:19.19,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:13:19.19,0:13:21.07,Default,,0000,0000,0000,,Thank you for your help.
+Dialogue: 0,0:13:21.32,0:13:22.15,Default,,0000,0000,0000,,Don't leave!
+Dialogue: 0,0:13:22.15,0:13:25.51,Default,,0000,0000,0000,,Please! It should be in this room.
+Dialogue: 0,0:13:25.51,0:13:27.36,Default,,0000,0000,0000,,Please let us search inside.
+Dialogue: 0,0:13:27.36,0:13:30.56,Default,,0000,0000,0000,,Sorry, but I told you that I haven't see it.
+Dialogue: 0,0:13:30.56,0:13:31.66,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:13:31.66,0:13:33.51,Default,,0000,0000,0000,,Let's go back.
+Dialogue: 0,0:13:34.91,0:13:37.25,Default,,0000,0000,0000,,Don't you think something fishy is going on?
+Dialogue: 0,0:13:37.25,0:13:38.41,Default,,0000,0000,0000,,I do.
+Dialogue: 0,0:13:38.88,0:13:40.91,Default,,0000,0000,0000,,Don't leave, then!
+Dialogue: 0,0:13:40.91,0:13:43.93,Default,,0000,0000,0000,,I'm sorry, but please look elsewhere.
+Dialogue: 0,0:13:43.93,0:13:47.69,Default,,0000,0000,0000,,But we have information stating that it's in here!
+Dialogue: 0,0:13:47.69,0:13:51.64,Default,,0000,0000,0000,,If it's not in here, then we'll have to search the entire school!
+Dialogue: 0,0:13:51.64,0:13:52.89,Default,,0000,0000,0000,,The entire school?
+Dialogue: 0,0:13:52.89,0:13:54.10,Default,,0000,0000,0000,,No way in hell!
+Dialogue: 0,0:13:54.10,0:13:56.23,Default,,0000,0000,0000,,We won't take very long,
+Dialogue: 0,0:13:56.23,0:13:57.66,Default,,0000,0000,0000,,so please let us search inside.
+Dialogue: 0,0:13:57.66,0:13:58.56,Default,,0000,0000,0000,,I'm begging you too.
+Dialogue: 0,0:13:59.06,0:14:01.77,Default,,0000,0000,0000,,I don't want outsiders entering here.
+Dialogue: 0,0:14:01.77,0:14:06.65,Default,,0000,0000,0000,,But this is a classroom before it's a clubroom.
+Dialogue: 0,0:14:07.53,0:14:08.28,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:14:08.69,0:14:10.78,Default,,0000,0000,0000,,Ibara Mayaka of the Classic Literature Club.
+Dialogue: 0,0:14:13.39,0:14:14.87,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:14:15.38,0:14:17.33,Default,,0000,0000,0000,,Go ahead.
+Dialogue: 0,0:14:17.33,0:14:19.83,Default,,0000,0000,0000,,But don't go snooping around everywhere.
+Dialogue: 0,0:14:29.61,0:14:31.60,Default,,0000,0000,0000,,Where are other club members?
+Dialogue: 0,0:14:31.60,0:14:34.40,Default,,0000,0000,0000,,Oh, they took the day off.
+Dialogue: 0,0:14:34.40,0:14:37.35,Default,,0000,0000,0000,,I was thinking about the article for the June issue.
+Dialogue: 0,0:14:37.35,0:14:40.77,Sign,,0000,0000,0000,,{\fs24\c&H395B52&\blur0.8\fnNotepad\b0\fax0.4\pos(599,125)}Kami High Monthly Report Vol. 496
+Dialogue: 0,0:14:37.35,0:14:40.77,Sign,,0000,0000,0000,,{\fs22\c&H395B52&\blur0.8\fnNotepad\b0\fax0.4\pos(526,174)}Juniors field trip
+Dialogue: 0,0:14:37.35,0:14:40.77,Sign,,0000,0000,0000,,{\fs22\c&H395B52&\blur0.8\fnNotepad\b0\fax0.4\pos(517,213)}General assemby
+Dialogue: 0,0:14:37.35,0:14:40.77,Sign,,0000,0000,0000,,{\fs22\c&H395B52&\blur0.8\fnNotepad\b0\fax0.4\pos(566,251)}Student Council Elections
+Dialogue: 0,0:14:37.35,0:14:40.77,Sign,,0000,0000,0000,,{\fs22\c&H395B52&\blur0.8\fnNotepad\b0\fax0.4\pos(561,290)}About community service
+Dialogue: 0,0:14:37.35,0:14:40.77,Sign,,0000,0000,0000,,{\fs22\c&H395B52&\blur0.8\fnNotepad\b0\fax0.4\frz5.3\pos(785,307)}One article per day
+Dialogue: 0,0:14:37.35,0:14:40.77,Sign,,0000,0000,0000,,{\fs22\blur0.8\fnNotepad\b0\fax0.4\c&H467186&\pos(499,366)}Plans for June
+Dialogue: 0,0:14:37.35,0:14:39.75,Default,,0000,0000,0000,,It's called Kami High Monthly Report.
+Dialogue: 0,0:14:39.75,0:14:42.57,Default,,0000,0000,0000,,We've been around for a long time, and we've published about 500 volumes.
+Dialogue: 0,0:14:42.57,0:14:45.19,Default,,0000,0000,0000,,It doesn't look like it's in this clubroom.
+Dialogue: 0,0:14:45.19,0:14:47.40,Default,,0000,0000,0000,,So it wasn't here...
+Dialogue: 0,0:14:49.03,0:14:50.32,Default,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:14:51.25,0:14:52.15,Default,,0000,0000,0000,,Oreki?
+Dialogue: 0,0:14:57.96,0:14:59.36,Default,,0000,0000,0000,,Tougaishi.
+Dialogue: 0,0:14:59.36,0:15:03.81,Default,,0000,0000,0000,,Did you take anything in or out of here when they changed rooms?
+Dialogue: 0,0:15:06.96,0:15:10.22,Default,,0000,0000,0000,,Now that you mention it, I remember carrying a few cardboard boxes.
+Dialogue: 0,0:15:10.64,0:15:12.34,Default,,0000,0000,0000,,Cardboard boxes?
+Dialogue: 0,0:15:12.34,0:15:12.97,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:13.38,0:15:15.22,Default,,0000,0000,0000,,That means...
+Dialogue: 0,0:15:18.31,0:15:21.72,Default,,0000,0000,0000,,But it's going to be pretty difficult trying to get our hands on it.
+Dialogue: 0,0:15:22.24,0:15:24.57,Default,,0000,0000,0000,,I guess I can try to corner him.
+Dialogue: 0,0:15:24.57,0:15:28.63,Default,,0000,0000,0000,,Sorry, but there are so many things in this room.
+Dialogue: 0,0:15:28.63,0:15:30.66,Default,,0000,0000,0000,,{sagasu}I think searching this place is going to take some time.
+Dialogue: 0,0:15:31.15,0:15:35.95,Default,,0000,0000,0000,,I want to get our club advisor for a thorough search of this place.
+Dialogue: 0,0:15:35.95,0:15:37.66,Default,,0000,0000,0000,,Is that all right with you?
+Dialogue: 0,0:15:38.76,0:15:40.11,Default,,0000,0000,0000,,No, it's not.
+Dialogue: 0,0:15:40.11,0:15:42.58,Default,,0000,0000,0000,,I told you not to snoop around.
+Dialogue: 0,0:15:42.58,0:15:45.96,Default,,0000,0000,0000,,But we won't have any more clues if it's not here!
+Dialogue: 0,0:15:45.96,0:15:49.16,Default,,0000,0000,0000,,I promise we'll put everything back in place.
+Dialogue: 0,0:15:49.16,0:15:49.76,Default,,0000,0000,0000,,Pleas{\fscx200}-
+Dialogue: 0,0:15:50.12,0:15:52.11,Default,,0000,0000,0000,,I said no, god dammit!
+Dialogue: 0,0:15:53.03,0:15:54.14,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:15:54.14,0:15:56.43,Default,,0000,0000,0000,,I'm busy.
+Dialogue: 0,0:15:56.43,0:15:58.43,Default,,0000,0000,0000,,Thorough search my ass!
+Dialogue: 0,0:15:58.92,0:16:01.14,Default,,0000,0000,0000,,Your stupid anthologies aren't here!
+Dialogue: 0,0:16:01.58,0:16:03.92,Default,,0000,0000,0000,,Got it? Now get lost!
+Dialogue: 0,0:16:07.03,0:16:08.07,Default,,0000,0000,0000,,Bingo.
+Dialogue: 0,0:16:08.62,0:16:09.95,Default,,0000,0000,0000,,Tougaishi.
+Dialogue: 0,0:16:09.95,0:16:13.87,Default,,0000,0000,0000,,We're interested in what's inside the drug cabinet.
+Dialogue: 0,0:16:13.87,0:16:14.91,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:14.91,0:16:18.24,Default,,0000,0000,0000,,The anthologies should be inside.
+Dialogue: 0,0:16:18.24,0:16:22.58,Default,,0000,0000,0000,,We won't bother you as long as we can find them.
+Dialogue: 0,0:16:24.22,0:16:27.25,Default,,0000,0000,0000,,By the way, we have to stop by the library now.
+Dialogue: 0,0:16:27.25,0:16:30.86,Default,,0000,0000,0000,,If you find the anthologies while we're gone,
+Dialogue: 0,0:16:30.86,0:16:33.96,Default,,0000,0000,0000,,can you leave them in the Geography storage room for us?
+Dialogue: 0,0:16:33.96,0:16:35.18,Default,,0000,0000,0000,,The door's open.
+Dialogue: 0,0:16:35.18,0:16:39.60,Default,,0000,0000,0000,,A-Are you... Are you trying to...
+Dialogue: 0,0:16:39.60,0:16:40.89,Default,,0000,0000,0000,,Trying to?
+Dialogue: 0,0:16:48.06,0:16:49.62,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:16:49.62,0:16:51.57,Default,,0000,0000,0000,,If I find them, I'll bring them to you.
+Dialogue: 0,0:16:51.94,0:16:53.32,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:16:53.82,0:16:55.52,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:16:58.45,0:16:59.82,Default,,0000,0000,0000,,Hey, freshman.
+Dialogue: 0,0:17:00.34,0:17:02.85,Default,,0000,0000,0000,,You haven't told me your name yet. {Everyone else already told me their names.}
+Dialogue: 0,0:17:04.62,0:17:06.59,Default,,0000,0000,0000,,Oreki Houtarou.
+Dialogue: 0,0:17:06.59,0:17:08.69,Default,,0000,0000,0000,,I do feel bad about this.
+Dialogue: 0,0:17:11.26,0:17:12.80,Default,,0000,0000,0000,,Hey, Oreki.
+Dialogue: 0,0:17:12.80,0:17:15.32,Default,,0000,0000,0000,,Why are we waiting here?
+Dialogue: 0,0:17:15.95,0:17:16.93,Default,,0000,0000,0000,,Energy conservation.
+Dialogue: 0,0:17:16.93,0:17:18.86,Default,,0000,0000,0000,,What's that supposed to mean?
+Dialogue: 0,0:17:18.86,0:17:20.38,Default,,0000,0000,0000,,By the way, Chitanda.
+Dialogue: 0,0:17:20.38,0:17:24.25,Default,,0000,0000,0000,,What is the Tougaito Family known for?
+Dialogue: 0,0:17:24.25,0:17:25.95,Default,,0000,0000,0000,,Let's see...
+Dialogue: 0,0:17:25.95,0:17:29.17,Default,,0000,0000,0000,,They're very influencial in secondary education,
+Dialogue: 0,0:17:29.17,0:17:32.80,Default,,0000,0000,0000,,and they're a family with many members working in the field of education.
+Dialogue: 0,0:17:33.76,0:17:35.12,Default,,0000,0000,0000,,No wonder.
+Dialogue: 0,0:17:36.81,0:17:38.28,Default,,0000,0000,0000,,It's been five minutes.
+Dialogue: 0,0:17:39.43,0:17:41.08,Default,,0000,0000,0000,,Let's head back.
+Dialogue: 0,0:17:42.41,0:17:43.12,Default,,0000,0000,0000,,Oh, there they are.
+Dialogue: 0,0:17:51.63,0:17:53.27,Default,,0000,0000,0000,,These are the anthologies.
+Dialogue: 0,0:17:59.00,0:18:00.35,Default,,0000,0000,0000,,Hey, Oreki!
+Dialogue: 0,0:18:00.35,0:18:02.03,Default,,0000,0000,0000,,How did you make this happen?
+Dialogue: 0,0:18:02.03,0:18:03.87,Default,,0000,0000,0000,,Did you know something?
+Dialogue: 0,0:18:03.87,0:18:06.17,Default,,0000,0000,0000,,Well, I just threatened him a bit.
+Dialogue: 0,0:18:06.17,0:18:07.29,Default,,0000,0000,0000,,Threatened him?
+Dialogue: 0,0:18:08.73,0:18:11.82,Default,,0000,0000,0000,,Ibara, how good are you at keeping secrets?
+Dialogue: 0,0:18:11.82,0:18:15.20,Default,,0000,0000,0000,,Why do you ask? I'll keep it secret if you ask me to.
+Dialogue: 0,0:18:15.20,0:18:16.36,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:18:17.29,0:18:19.41,Default,,0000,0000,0000,,Let's take it from the top.
+Dialogue: 0,0:18:19.41,0:18:24.45,Default,,0000,0000,0000,,He was clearly alarmed about us when he came out of the room.
+Dialogue: 0,0:18:24.90,0:18:25.54,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:18:25.54,0:18:27.58,Default,,0000,0000,0000,,What about the inside of the room?
+Dialogue: 0,0:18:28.28,0:18:30.67,Default,,0000,0000,0000,,The windows were open and he had the fan on,
+Dialogue: 0,0:18:31.17,0:18:35.53,Default,,0000,0000,0000,,but the setup would've blown his manuscripts away.
+Dialogue: 0,0:18:35.53,0:18:37.76,Default,,0000,0000,0000,,Maybe he just wanted to ventilate the room.
+Dialogue: 0,0:18:37.76,0:18:38.68,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:18:38.68,0:18:42.09,Default,,0000,0000,0000,,Why did he want to ventilate the room?
+Dialogue: 0,0:18:42.09,0:18:46.94,Default,,0000,0000,0000,,To elaborate, why did he go through the trouble of locking the room and setting up infrared sensors for...
+Dialogue: 0,0:18:47.41,0:18:48.70,Default,,0000,0000,0000,,S-Stop right there!
+Dialogue: 0,0:18:48.70,0:18:51.43,Default,,0000,0000,0000,,What do you mean by infrared sensors?
+Dialogue: 0,0:18:52.27,0:18:55.44,Default,,0000,0000,0000,,Oh, I saw small, strange boxes on the hallway walls.
+Dialogue: 0,0:18:55.83,0:19:00.77,Default,,0000,0000,0000,,I assumed the thing with an antenna was the receiver.
+Dialogue: 0,0:19:00.77,0:19:02.85,Default,,0000,0000,0000,,When someone walks by,
+Dialogue: 0,0:19:02.85,0:19:05.07,Default,,0000,0000,0000,,it probably sets off an alarm.
+Dialogue: 0,0:19:05.87,0:19:08.67,Default,,0000,0000,0000,,I can't believe you actually figured that out.
+Dialogue: 0,0:19:08.67,0:19:11.75,Default,,0000,0000,0000,,It's basically just analyzing your surroundings.
+Dialogue: 0,0:19:11.75,0:19:19.70,Default,,0000,0000,0000,,The question is, why would he take such precautions and try to ventilate the room in a hurry?
+Dialogue: 0,0:19:19.70,0:19:21.93,Default,,0000,0000,0000,,To get rid of some smell?
+Dialogue: 0,0:19:21.93,0:19:24.05,Default,,0000,0000,0000,,That's the most logical answer.
+Dialogue: 0,0:19:24.05,0:19:27.26,Default,,0000,0000,0000,,He smelled like air fresheners too.
+Dialogue: 0,0:19:27.26,0:19:32.20,Default,,0000,0000,0000,,The smell you want to hide that much would be...
+Dialogue: 0,0:19:32.20,0:19:33.57,Default,,0000,0000,0000,,Cigarettes.
+Dialogue: 0,0:19:34.17,0:19:37.52,Default,,0000,0000,0000,,When you're the son of a family known in the field of education,
+Dialogue: 0,0:19:37.52,0:19:42.73,Default,,0000,0000,0000,,then you have conceal illegal activities no matter what.
+Dialogue: 0,0:19:42.73,0:19:44.08,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:19:44.08,0:19:50.42,Default,,0000,0000,0000,,I'm sure Chitanda would've noticed it right away if she didn't have a cold.
+Dialogue: 0,0:19:50.42,0:19:51.99,Default,,0000,0000,0000,,Hold on!
+Dialogue: 0,0:19:51.99,0:19:54.27,Default,,0000,0000,0000,,Where were the anthologies anyway?
+Dialogue: 0,0:19:54.27,0:19:56.43,Default,,0000,0000,0000,,They were inside the safe. Where else?
+Dialogue: 0,0:19:57.29,0:20:00.14,Default,,0000,0000,0000,,Oreki!
+Dialogue: 0,0:20:00.14,0:20:03.10,Default,,0000,0000,0000,,I-I'm not trying to tease you.
+Dialogue: 0,0:20:03.10,0:20:07.27,Default,,0000,0000,0000,,The drug safe was under the makeshift table.
+Dialogue: 0,0:20:07.27,0:20:11.17,Default,,0000,0000,0000,,He must have hidden his cigarettes and lighter inside.
+Dialogue: 0,0:20:11.76,0:20:15.67,Default,,0000,0000,0000,,That's why, when I asked him for permission to search the place with a teacher,
+Dialogue: 0,0:20:15.67,0:20:17.94,Default,,0000,0000,0000,,he panicked the way he did.
+Dialogue: 0,0:20:22.09,0:20:24.07,Default,,0000,0000,0000,,You really are a weirdo.
+Dialogue: 0,0:20:24.07,0:20:27.73,Default,,0000,0000,0000,,Why are you saying that to the epitome of the average person?
+Dialogue: 0,0:20:27.73,0:20:29.41,Default,,0000,0000,0000,,Guys!
+Dialogue: 0,0:20:30.35,0:20:32.37,Default,,0000,0000,0000,,Sunflower!
+Dialogue: 0,0:20:33.50,0:20:34.78,Default,,0000,0000,0000,,Satoshi.
+Dialogue: 0,0:20:34.78,0:20:36.96,Default,,0000,0000,0000,,We found the archives for the anthologies.
+Dialogue: 0,0:20:36.96,0:20:37.90,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:38.37,0:20:39.90,Default,,0000,0000,0000,,Oh, you're right.
+Dialogue: 0,0:20:41.17,0:20:44.08,Default,,0000,0000,0000,,Wow, this is how it was?
+Dialogue: 0,0:20:44.08,0:20:48.35,Default,,0000,0000,0000,,They sure look handmade when they're 40 years old!
+Dialogue: 0,0:20:46.64,0:20:48.35,Alt,,0000,0000,0000,,{STACK}What's up, Chitanda?
+Dialogue: 0,0:20:48.35,0:20:49.81,Alt,,0000,0000,0000,,{\an8}It's called stencil printing.
+Dialogue: 0,0:20:50.19,0:20:54.19,Alt,,0000,0000,0000,,{\an8}More accurately, it's printed by a mimeograph machine invented in the Meiji Era.
+Dialogue: 0,0:20:54.56,0:20:55.34,Default,,0000,0000,0000,,What's up? {2 miss}
+Dialogue: 0,0:20:55.34,0:20:59.82,Alt,,0000,0000,0000,,{\an8}I guess schools still didn't have Xerox machines in school in the '70s.
+Dialogue: 0,0:20:58.83,0:20:59.83,Default,,0000,0000,0000,,Oreki...
+Dialogue: 0,0:20:59.82,0:21:03.17,Alt,,0000,0000,0000,,{\an8}Look, this one was printed using a photocopier.
+Dialogue: 0,0:21:01.27,0:21:02.26,Default,,0000,0000,0000,,Come here.
+Dialogue: 0,0:21:03.17,0:21:04.84,Alt,,0000,0000,0000,,{\an8}Oh, this one is...
+Dialogue: 0,0:21:04.84,0:21:06.24,Default,,0000,0000,0000,,This is it.
+Dialogue: 0,0:21:06.24,0:21:08.08,Default,,0000,0000,0000,,Hyouka...
+Dialogue: 0,0:21:08.08,0:21:09.99,Default,,0000,0000,0000,,Volume two?
+Dialogue: 0,0:21:10.54,0:21:14.06,Default,,0000,0000,0000,,This is the one I found when I was little.
+Dialogue: 0,0:21:14.06,0:21:16.88,Default,,0000,0000,0000,,I brought it to my uncle,
+Dialogue: 0,0:21:16.88,0:21:18.63,Default,,0000,0000,0000,,and asked him what it was for.
+Dialogue: 0,0:21:19.12,0:21:20.34,Default,,0000,0000,0000,,You remember it now?
+Dialogue: 0,0:21:24.32,0:21:25.84,Default,,0000,0000,0000,,Please take a look inside.
+Dialogue: 0,0:21:26.29,0:21:28.97,Default,,0000,0000,0000,,Things about my uncle are written inside.
+Dialogue: 0,0:21:28.97,0:21:31.00,Default,,0000,0000,0000,,Something must have happened.
+Dialogue: 0,0:21:31.00,0:21:34.00,Default,,0000,0000,0000,,45 years ago, in this very club.
+Dialogue: 0,0:21:36.94,0:21:40.41,Default,,0000,0000,0000,,"The Cultural Festival is upon us once more.
+Dialogue: 0,0:21:40.41,0:21:43.70,Default,,0000,0000,0000,,"It's been a year since Sekitani graduated.
+Dialogue: 0,0:21:43.70,0:21:48.08,Default,,0000,0000,0000,,"In a single year, he turned from a hero into a legend.
+Dialogue: 0,0:21:48.76,0:21:50.75,Default,,0000,0000,0000,,"Unfortunately, all our disputes and sacrifices,
+Dialogue: 0,0:21:50.75,0:21:56.13,Default,,0000,0000,0000,,"and even his smile are starting to be covered in sands of time.
+Dialogue: 0,0:21:56.13,0:21:58.46,Default,,0000,0000,0000,,"Actually, it is probaly for the best.
+Dialogue: 0,0:21:58.92,0:22:00.95,Default,,0000,0000,0000,,"We mustn't remember,
+Dialogue: 0,0:22:00.95,0:22:05.93,Default,,0000,0000,0000,,"because it was not a heroic tale in any way.
+Dialogue: 0,0:22:05.93,0:22:08.39,Default,,0000,0000,0000,,"All objective accounts are gone,
+Dialogue: 0,0:22:08.39,0:22:12.39,Default,,0000,0000,0000,,"and everything gradually turn into a piece of classic literature from a historical perspective.
+Dialogue: 0,0:22:12.39,0:22:17.91,Default,,0000,0000,0000,,"As our records may one day become a piece of classic literature to readers of the future.
+Dialogue: 0,0:22:17.91,0:22:21.47,Default,,0000,0000,0000,,"October 13th, 1968.
+Dialogue: 0,0:22:21.47,0:22:22.94,Default,,0000,0000,0000,,"Kouriyama Youko."
+Dialogue: 0,0:22:24.50,0:22:27.95,Default,,0000,0000,0000,,The "last year" they refer to is 45 years ago.
+Dialogue: 0,0:22:28.73,0:22:32.95,Default,,0000,0000,0000,,In that case, that Sekitani in the Classic Literature Club must be my uncle.
+Dialogue: 0,0:22:32.95,0:22:36.41,Sign,,0000,0000,0000,,{\fs112\blur1.6\fnNotepad\b0\fax0.4\c&H131C22&\frz24.742\pos(957,250)}Sekitani
+Dialogue: 0,0:22:33.43,0:22:38.80,Default,,0000,0000,0000,,The answer to my question was also related to the club.
+Dialogue: 0,0:22:39.67,0:22:41.54,Default,,0000,0000,0000,,You have enough clues now.
+Dialogue: 0,0:22:42.53,0:22:44.55,Default,,0000,0000,0000,,But I just can't remember.
+Dialogue: 0,0:22:45.00,0:22:48.47,Default,,0000,0000,0000,,I'm so close... I'm so close, yet...
+Dialogue: 0,0:22:48.47,0:22:52.18,Default,,0000,0000,0000,,What did he tell me on that day?
+Dialogue: 0,0:22:52.18,0:22:55.06,Sign,,0000,0000,0000,,{\fs122\blur1.6\fnNotepad\b0\fax0.4\c&H131C22&\frz24.742\pos(1088,363)}Sekitani
+Dialogue: 0,0:22:52.18,0:22:55.89,Default,,0000,0000,0000,,What exactly happened to my uncle 45 years ago?
+Dialogue: 0,0:23:02.70,0:23:04.65,Default,,0000,0000,0000,,All you have to do is check.
+Dialogue: 0,0:23:04.65,0:23:08.74,Default,,0000,0000,0000,,But it says his tales shouldn't be remembered.
+Dialogue: 0,0:23:09.23,0:23:13.16,Default,,0000,0000,0000,,Maybe the answer would only lead to sorrow.
+Dialogue: 0,0:23:13.82,0:23:18.21,Default,,0000,0000,0000,,Some things are better left unknown, right?
+Dialogue: 0,0:23:18.71,0:23:21.04,Default,,0000,0000,0000,,Even if it's something that happened 45 years ago?
+Dialogue: 0,0:23:24.14,0:23:26.01,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:23:26.01,0:23:27.24,Default,,0000,0000,0000,,I am.
+Dialogue: 0,0:23:28.11,0:23:29.88,Default,,0000,0000,0000,,It's written right here.
+Dialogue: 0,0:23:30.37,0:23:36.22,Default,,0000,0000,0000,,"Everything gradually turn into a piece of classic literature from a historical perspective."
+Dialogue: 0,0:23:37.87,0:23:39.85,Default,,0000,0000,0000,,It means we'll only find the facts.
+Dialogue: 0,0:23:43.39,0:23:44.19,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:23:45.31,0:23:47.90,Default,,0000,0000,0000,,Besides, it says "last year" in volume two.
+Dialogue: 0,0:23:47.90,0:23:52.28,Default,,0000,0000,0000,,so all we have to do is check volume one...
+Dialogue: 0,0:23:52.28,0:23:54.26,Default,,0000,0000,0000,,Wait, what?!
+Dialogue: 0,0:23:54.26,0:23:56.61,Default,,0000,0000,0000,,All of them are here except for volume one!
+Dialogue: 0,0:24:03.71,0:24:10.21,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\pos(70,360)\3c&HC55D3F&}今夜恋に変わる　幸せな夢で会おう
+Dialogue: 0,0:24:03.71,0:24:10.21,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\org(0,0)\3c&HC55D3F&}I'll see you tonight in a happy dream, where it turns into love
+Dialogue: 0,0:24:03.71,0:24:10.21,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)\c&HDE644E&}今夜恋に変わる　幸せな夢で会おう
+Dialogue: 0,0:24:03.71,0:24:10.21,Ending_TL,,0000,0000,0000,,{\fad(150,150)\c&HDE644E&}I'll see you tonight in a happy dream, where it turns into love
+Dialogue: 0,0:24:10.42,0:24:14.22,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\pos(70,360)\3c&H4193E7&}きっとね　見つけてね
+Dialogue: 0,0:24:10.42,0:24:14.22,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\org(0,0)\3c&H4193E7&}Please come and find me
+Dialogue: 0,0:24:10.42,0:24:14.22,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)\c&H73B4F6&}きっとね　見つけてね
+Dialogue: 0,0:24:10.42,0:24:14.22,Ending_TL,,0000,0000,0000,,{\fad(150,150)\c&H73B4F6&}Please come and find me
+Dialogue: 0,0:24:14.47,0:24:19.31,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)\3c&HAD4638&}{\pos(70,360)}微睡みの約束
+Dialogue: 0,0:24:14.47,0:24:19.31,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\org(0,0)\3c&HAD4638&}It's a dreamy promise
+Dialogue: 0,0:24:14.47,0:24:19.31,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)\c&HDC4C22&}微睡みの約束
+Dialogue: 0,0:24:14.47,0:24:19.31,Ending_TL,,0000,0000,0000,,{\fad(150,150)\c&HDC4C22&}It's a dreamy promise
+Dialogue: 0,0:24:32.03,0:24:40.54,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\pos(70,360)}芽生えてた温もり　暖かくて戸惑う
+Dialogue: 0,0:24:32.03,0:24:40.54,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\org(0,0)}I'm at a loss to this warmth growing inside me
+Dialogue: 0,0:24:32.03,0:24:40.54,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)}芽生えてた温もり　暖かくて戸惑う
+Dialogue: 0,0:24:32.03,0:24:40.54,Ending_TL,,0000,0000,0000,,{\fad(150,150)}I'm at a loss to this warmth growing inside me
+Dialogue: 0,0:24:42.79,0:24:51.55,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\pos(70,360)\3c&H2759BD&}こんな気持ちをまだ　あなたは分からないの
+Dialogue: 0,0:24:42.79,0:24:51.55,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\org(0,0)\3c&H2759BD&}You're still oblivious to my feelings
+Dialogue: 0,0:24:42.79,0:24:51.55,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)\c&H4193E7&}こんな気持ちをまだ　あなたは分からないの
+Dialogue: 0,0:24:42.79,0:24:51.55,Ending_TL,,0000,0000,0000,,{\fad(150,150)\c&H4193E7&}You're still oblivious to my feelings
+Dialogue: 0,0:24:52.13,0:24:57.64,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\pos(70,360)\3c&HC55D3F&}その視線には意味なんて別にないはず
+Dialogue: 0,0:24:52.13,0:24:57.64,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)\3c&HC55D3F&}{\org(0,0)}I'm sure your gaze doesn't mean anything
+Dialogue: 0,0:24:52.13,0:24:57.64,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)\c&HC55D3F&}その視線には意味なんて別にないはず
+Dialogue: 0,0:24:52.13,0:24:57.64,Ending_TL,,0000,0000,0000,,{\fad(150,150)\c&HDE644E&}I'm sure your gaze doesn't mean anything
+Dialogue: 0,0:24:57.64,0:25:02.39,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)\3c&H2759BD&}{\pos(70,360)}だって友達にしてるのと同じ
+Dialogue: 0,0:24:57.64,0:25:02.39,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\org(0,0)\3c&H2759BD&}Because you look the same way at your friends
+Dialogue: 0,0:24:57.64,0:25:02.39,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)\c&H4193E7&}だって友達にしてるのと同じ
+Dialogue: 0,0:24:57.64,0:25:02.39,Ending_TL,,0000,0000,0000,,{\fad(150,150)\c&H4193E7&}Because you look the same way at your friends
+Dialogue: 0,0:25:03.02,0:25:08.48,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\pos(70,360)\3c&HFEED11&}明け方に消えてく　小さな願い星
+Dialogue: 0,0:25:03.02,0:25:08.48,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\org(0,0)\3c&HFEED11&}The tiny wishing stars disappear into the dawn
+Dialogue: 0,0:25:03.02,0:25:08.48,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)\c&HFD8416&}明け方に消えてく　小さな願い星
+Dialogue: 0,0:25:03.02,0:25:08.48,Ending_TL,,0000,0000,0000,,{\fad(150,150)\c&HFD8416&}The tiny wishing stars disappear into the dawn
+Dialogue: 0,0:25:08.82,0:25:13.40,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)\3c&HA85027&}{\pos(70,360)}夜の間だけの魔法
+Dialogue: 0,0:25:08.82,0:25:13.40,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)\3c&HA85027&}{\org(0,0)}Our magic only lasts until daybreak
+Dialogue: 0,0:25:08.82,0:25:13.40,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)\c&HFD8416&}夜の間だけの魔法
+Dialogue: 0,0:25:08.82,0:25:13.40,Ending_TL,,0000,0000,0000,,{\fad(150,150)\c&HFD8416&}Our magic only lasts until daybreak
+Dialogue: 0,0:25:13.74,0:25:20.12,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)\3c&HA64071&}{\pos(70,360)}今夜恋に変わる　幸せな夢で会おう
+Dialogue: 0,0:25:13.74,0:25:20.12,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)\3c&HA64071&}{\org(0,0)}I'll see you tonight in a happy dream, where it turns into love
+Dialogue: 0,0:25:13.74,0:25:20.12,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)\c&HF360A7&}今夜恋に変わる　幸せな夢で会おう
+Dialogue: 0,0:25:13.74,0:25:20.12,Ending_TL,,0000,0000,0000,,{\fad(150,150)\c&HF360A7&}I'll see you tonight in a happy dream, where it turns into love
+Dialogue: 0,0:25:20.54,0:25:24.29,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\pos(70,360)}きっとね見つけてね
+Dialogue: 0,0:25:20.54,0:25:24.29,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\org(0,0)}Please come find me
+Dialogue: 0,0:25:20.54,0:25:24.29,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)}きっとね見つけてね
+Dialogue: 0,0:25:20.54,0:25:24.29,Ending_TL,,0000,0000,0000,,{\fad(150,150)}Please come find me
+Dialogue: 0,0:25:24.58,0:25:29.34,Ending_Kana2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\pos(70,360)}微睡みの約束
+Dialogue: 0,0:25:24.58,0:25:29.34,Ending_TL2,,0000,0000,0000,,{\be2\blur3}{\fad(150,150)}{\org(0,0)}It's a dreamy promise
+Dialogue: 0,0:25:24.58,0:25:29.34,Ending_Kana,,0000,0000,0000,,{\fad(150,150)}{\pos(70,360)}微睡みの約束
+Dialogue: 0,0:25:24.58,0:25:29.34,Ending_TL,,0000,0000,0000,,{\fad(150,150)}It's a dreamy promise
+Dialogue: 0,0:25:34.96,0:25:38.21,Default,,0000,0000,0000,,Next week: "Glorious Olden Days of the Classic Literature Club."
+Dialogue: 0,0:25:35.97,0:25:39.50,Sign,,0000,0000,0000,,{\fad(320,0)\bord0\fs36\blur7\3c&HFFFFFF&\t(0,148,\be2\blur0\bord1.5\3c&H000000&)\fnDFPMincho-UB-Hyouka\pos(581,566)}Glorious Olden Days of the Classic Literature Club
