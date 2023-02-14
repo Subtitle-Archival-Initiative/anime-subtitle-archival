@@ -5,7 +5,7 @@
 | Translation     | valerauko |
 | Editing         | Ephemere  |
 | Typesetting     | Ephemere  |
-| Timing          | skiddisk  |
+| Timing          | skiddiks  |
 | Encoding        | ?         |
 | Quality Control | Fyurie    |
 
