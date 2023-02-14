@@ -1,0 +1,786 @@
+﻿[Script Info]
+Title: Hyouka 18
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Last Style Storage: Default
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 744
+Active Line: 666
+Video Zoom Percent: 1
+Audio URI: hyouka18_premux.mkv
+Video File: hyouka18_premux.mkv
+Video Aspect Ratio: c1.77778
+Video Position: 27620
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Caxton Std Book,50,&H00F1F4F9,&H000000FF,&H000F1115,&H96000000,-1,0,0,0,97,100,1,0,1,2.2,0.6,2,80,80,35,1
+Style: Title,Janda Curlygirl Chunky,80,&H00010001,&H000000FF,&H000F1115,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: ep title,Century,40,&H00EEF0EF,&H000000FF,&H000F201B,&H96000000,-1,0,0,0,95,100,0,0,1,1.2,0,8,10,10,10,1
+Style: next episode,Century,50,&H00EEF0EF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
+Style: eyecatch big,Century Gothic,60,&H00000000,&H000000FF,&H001B1C2D,&H96000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: eyecatch small,Sansation,25,&H00000000,&H000000FF,&H001B1C2D,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: signs,Caxton Std Book,50,&H00F1F4F9,&H000000FF,&H000F1115,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: OP,FV Granada,50,&H00F5EFEE,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,1.8,0.5,7,30,30,15,1
+Style: ED,LondonTwo,50,&H00FFFFFE,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,2,0.5,3,20,20,10,1
+Style: ED top,LondonTwo,50,&H00FFFFFE,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,2,0.5,9,20,20,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.39,0:00:04.40,signs,,0,0,0,,{\fad(525,438)\fsp-2\fscx95\bord2\q2\fnCartoGothic Std\b1\c&HFDFCFF&\3c&H000709&\pos(640,532)}This is a work of fiction. \N\N\N\NAny resemblance to real persons, groups or events is purely coincidental.
+Dialogue: 0,0:00:06.30,0:00:07.84,Default,,0,0,0,,Yes, that's right!
+Dialogue: 0,0:00:07.84,0:00:10.81,Default,,0,0,0,,When I put on a classical music record, our shiitake mushrooms
+Dialogue: 0,0:00:10.81,0:00:13.29,Default,,0,0,0,,started growing at an amazing speed!
+Dialogue: 0,0:00:13.90,0:00:15.29,Default,,0,0,0,,Really?
+Dialogue: 0,0:00:15.29,0:00:19.33,Default,,0,0,0,,I heard that electricity from artificial lightning makes them grow even more.
+Dialogue: 0,0:00:19.33,0:00:20.58,Default,,0,0,0,,Electricity?
+Dialogue: 0,0:00:20.58,0:00:23.37,Default,,0,0,0,,Yeah. The mushrooms feel threatened by the strong electric current,
+Dialogue: 0,0:00:23.69,0:00:29.29,Default,,0,0,0,,so their filaments start growing rapidly to leave descendants behind.
+Dialogue: 0,0:00:29.92,0:00:32.76,Default,,0,0,0,,Just shut up and do your homework.
+Dialogue: 0,0:00:51.57,0:00:52.53,Default,,0,0,0,,A helicopter, huh?
+Dialogue: 0,0:00:58.56,0:01:03.54,Default,,0,0,0,,That reminds me of Ogi. He liked helicopters.
+Dialogue: 0,0:01:04.87,0:01:04.91,Default,,0,0,0,,{op}
+Dialogue: 0,0:01:18.88,0:01:25.10,OP,,0,0,0,,{\fad(233,200}Today is a real mess, but I get over it with a sigh
+Dialogue: 0,0:01:25.68,0:01:28.18,OP,,0,0,0,,{\fad(200,200)}You get the idea, right?
+Dialogue: 0,0:01:28.18,0:01:31.02,OP,,0,0,0,,{\fad(200,200)}What do you wanna do?
+Dialogue: 0,0:01:31.89,0:01:35.15,OP,,0,0,0,,{\fad(200,200)}You act as if nothing happened
+Dialogue: 0,0:01:35.15,0:01:38.48,OP,,0,0,0,,{\fad(200,200)}As if your heart didn't ache
+Dialogue: 0,0:01:38.48,0:01:41.86,OP,,0,0,0,,{\fad(200,200)}It almost feels encouraging,
+Dialogue: 0,0:01:41.86,0:01:44.40,OP,,0,0,0,,{\fad(200,200)}the way you're rushing me
+Dialogue: 0,0:01:44.40,0:01:47.64,OP,,0,0,0,,{\fad(200,200)}Hold it and let it overflow
+Dialogue: 0,0:01:47.64,0:01:51.04,OP,,0,0,0,,{\fad(200,200)}We're all imperfect
+Dialogue: 0,0:01:51.04,0:01:54.29,OP,,0,0,0,,{\fad(200,200)}I can't see it well in the light,
+Dialogue: 0,0:01:54.29,0:02:00.38,OP,,0,0,0,,{\fad(200,350)}but if we can change our future selves
+Dialogue: 0,0:02:00.88,0:02:04.02,OP,,0,0,0,,{\fad(200,200)}Wake up and run
+Dialogue: 0,0:02:04.02,0:02:07.47,OP,,0,0,0,,{\fad(200,200)}Go and surpass the mirage
+Dialogue: 0,0:02:07.47,0:02:10.76,OP,,0,0,0,,{\fad(200,200)}Try to change and run
+Dialogue: 0,0:02:10.76,0:02:13.77,OP,,0,0,0,,{\fad(200,200)}with the discomfort of freedom
+Dialogue: 0,0:02:14.06,0:02:17.56,OP,,0,0,0,,{\fad(100,200)}We can reach that shining light
+Dialogue: 0,0:02:17.56,0:02:21.01,OP,,0,0,0,,{\fad(200,200)}Follow it into the present
+Dialogue: 0,0:02:21.44,0:02:24.32,OP,,0,0,0,,{\fad(200,200)}Don't hesitate to act
+Dialogue: 0,0:02:24.32,0:02:29.53,OP,,0,0,0,,{\fad(200,200)}Deep or quick, just keep breathing
+Dialogue: 0,0:02:34.16,0:02:34.92,Title,,0,0,0,,{\blur0.5\fs35\c&H283D2E&\frz3.45\pos(760,138)}Hyouka
+Dialogue: 0,0:02:35.97,0:02:39.59,Default,,0,0,20,,Ogi? You mean Ogi Takahiro from class 2-B?
+Dialogue: 0,0:02:36.30,0:02:41.01,ep title,,0,0,0,,{\fad(1250,475)\blur2\clip(30,556,69,650)\t(0,1482,\clip(30,556,800,650)\t(4575,5090,\clip(800,566,800,650)))\3c&H0D0D15&\t(4200,4750,\clip(800,556,800,600))\pos(299.571,568)}Does the Sun Shine on the Peaks?
+Dialogue: 0,0:02:39.86,0:02:40.98,Default,,0,0,20,,Who's that supposed to be?
+Dialogue: 0,0:02:40.98,0:02:43.07,Default,,0,0,20,,I told you, he's in class 2-B.
+Dialogue: 0,0:02:43.07,0:02:45.32,Default,,0,0,20,,I'm talking about an Ogi you don't know.
+Dialogue: 0,0:02:45.32,0:02:47.32,Default,,0,0,20,,He was our English teacher in junior high.
+Dialogue: 0,0:02:47.32,0:02:48.98,Default,,0,0,20,,You know, right, Satoshi?
+Dialogue: 0,0:02:49.56,0:02:54.96,Default,,0,0,0,,Of course I know Mr. Ogi. But I didn't know he liked helicopters.
+Dialogue: 0,0:02:54.96,0:02:59.12,Default,,0,0,0,,I thought everyone knew he loved them.
+Dialogue: 0,0:02:59.12,0:03:01.17,Default,,0,0,0,,Did you know, Ibara?
+Dialogue: 0,0:03:01.17,0:03:01.95,Default,,0,0,0,,Nope.
+Dialogue: 0,0:03:01.95,0:03:03.38,Default,,0,0,0,,{\i1}That's weird.
+Dialogue: 0,0:03:03.38,0:03:06.90,Default,,0,0,0,,{\i1}How come I know but they don't?
+Dialogue: 0,0:03:06.90,0:03:09.08,Default,,0,0,0,,{\i1}We've been together since Kaburaya Junior High,
+Dialogue: 0,0:03:09.08,0:03:12.42,Default,,0,0,0,,{\i1}and Ibara and I have been in the same class all along as well.
+Dialogue: 0,0:03:12.42,0:03:14.35,Default,,0,0,0,,{\i1}There's no way she wouldn't know.
+Dialogue: 0,0:03:14.35,0:03:18.34,Default,,0,0,0,,So what about this Mr. Ogi?
+Dialogue: 0,0:03:18.64,0:03:22.42,Default,,0,0,0,,Well... Ibara, don't you remember?
+Dialogue: 0,0:03:22.42,0:03:26.39,Default,,0,0,0,,That time when a helicopter flew over Kaburaya Junior High.
+Dialogue: 0,0:03:26.57,0:03:28.31,Default,,0,0,0,,A few dozen times as I recall, but yeah.
+Dialogue: 0,0:03:29.92,0:03:36.52,Default,,0,0,0,,One of those times, Ogi rushed to the window in the middle of class to look at the sky.
+Dialogue: 0,0:03:37.29,0:03:40.05,Default,,0,0,0,,He kept watching until the helicopter disappeared into the distance.
+Dialogue: 0,0:03:40.05,0:03:44.28,Default,,0,0,0,,He just smiled and said something like, "Oh, I love helicopters,"
+Dialogue: 0,0:03:44.59,0:03:46.78,Default,,0,0,0,,by way of explanation when he resumed class.
+Dialogue: 0,0:03:47.94,0:03:52.46,Default,,0,0,0,,Yeah, now that you've described it in detail, I remember there being something like that.
+Dialogue: 0,0:03:52.46,0:03:53.79,Default,,0,0,0,,Was that Ogi?
+Dialogue: 0,0:03:54.11,0:03:55.57,Default,,0,0,0,,It was.
+Dialogue: 0,0:03:55.57,0:03:58.22,Default,,0,0,0,,{\i1}I'm glad my memory wasn't just playing tricks on me.
+Dialogue: 0,0:03:58.22,0:03:59.96,Default,,0,0,0,,That's weird.
+Dialogue: 0,0:04:00.22,0:04:03.60,Default,,0,0,0,,It might be weird, but it happened all the same.
+Dialogue: 0,0:04:03.60,0:04:07.53,Default,,0,0,0,,But what about when that squadron of JSDF helicopters flew by?
+Dialogue: 0,0:04:07.53,0:04:09.31,Default,,0,0,0,,That was quite a sight,
+Dialogue: 0,0:04:09.83,0:04:13.73,Default,,0,0,0,,but I don't recall Ogi reacting like that.
+Dialogue: 0,0:04:13.73,0:04:15.67,Default,,0,0,0,,What's a squadron?
+Dialogue: 0,0:04:15.67,0:04:16.44,Default,,0,0,0,,A group of aircraft.
+Dialogue: 0,0:04:16.87,0:04:18.90,Default,,0,0,0,,How did you know it was the JSDF?
+Dialogue: 0,0:04:19.33,0:04:23.65,Default,,0,0,0,,Can you think of any other helicopters that would fly in formation?
+Dialogue: 0,0:04:25.41,0:04:28.12,Default,,0,0,0,,And you're sure Ogi was there at the time?
+Dialogue: 0,0:04:28.48,0:04:29.66,Default,,0,0,0,,Pretty much.
+Dialogue: 0,0:04:30.29,0:04:36.08,Default,,0,0,0,,I remember I looked up the word AGM in my English dictionary when I saw the helicopters.
+Dialogue: 0,0:04:36.26,0:04:37.76,Default,,0,0,0,,AGM?
+Dialogue: 0,0:04:37.76,0:04:39.30,Default,,0,0,0,,What's that?
+Dialogue: 0,0:04:39.30,0:04:41.60,Default,,0,0,0,,It's short for "air-to-ground missile".
+Dialogue: 0,0:04:42.16,0:04:44.84,Default,,0,0,0,,But yeah, if something like that had happened,
+Dialogue: 0,0:04:44.84,0:04:47.85,Default,,0,0,0,,surely Ogi would be out on the grounds dancing with joy.
+Dialogue: 0,0:04:47.85,0:04:49.89,Default,,0,0,0,,Well, I doubt he'd actually be dancing.
+Dialogue: 0,0:04:49.89,0:04:51.53,Default,,0,0,0,,It was a figure of speech.
+Dialogue: 0,0:04:53.41,0:04:56.66,Default,,0,0,0,,So it was Mr. Ogi who was so happy about seeing that helicopter.
+Dialogue: 0,0:04:57.20,0:05:00.38,Default,,0,0,0,,But then, it must've been not long after we entered junior high.
+Dialogue: 0,0:05:00.89,0:05:06.03,Default,,0,0,0,,Now that you mention it, I thought, "There are some weird teachers in this school".
+Dialogue: 0,0:05:06.38,0:05:12.29,Default,,0,0,0,,Fuku's right, though. I don't recall seeing him ever take notice of a helicopter since then.
+Dialogue: 0,0:05:12.96,0:05:16.85,Default,,0,0,0,,{\i1}Three years ago, huh? My memory's vague.
+Dialogue: 0,0:05:17.56,0:05:23.46,Default,,0,0,0,,{\i1}But now that I think about it, I don't remember Ogi doing the same thing ever again.
+Dialogue: 0,0:05:23.81,0:05:28.76,Default,,0,0,0,,There are legends about him with way more impact, though.
+Dialogue: 0,0:05:29.55,0:05:31.26,Default,,0,0,0,,{Episode One: }The Mr. Ogi Menace!
+Dialogue: 0,0:05:31.70,0:05:33.42,Default,,0,0,0,,Now you're just making stuff up.
+Dialogue: 0,0:05:33.42,0:05:38.26,Default,,0,0,0,,No, it's the truth! Ogi told us himself.{up to 'honnin ga ittetanda'}
+Dialogue: 0,0:05:39.73,0:05:44.76,Default,,0,0,0,,He said... Well, I have some doubts myself,
+Dialogue: 0,0:05:44.76,0:05:47.11,Default,,0,0,0,,and you probably wouldn't even believe me if I told you,
+Dialogue: 0,0:05:48.02,0:05:50.13,Default,,0,0,0,,but it could well be possible.
+Dialogue: 0,0:05:50.13,0:05:51.58,Default,,0,0,0,,Spit it out already.
+Dialogue: 0,0:05:52.25,0:05:53.62,Default,,0,0,0,,He said that in his life so far,
+Dialogue: 0,0:05:54.11,0:05:57.76,Default,,0,0,0,,he's been struck by lightning three times!
+Dialogue: 0,0:05:58.66,0:06:00.79,Default,,0,0,0,,Lightning? You mean {\i1}lightning{\i0}, lightning?
+Dialogue: 0,0:06:01.22,0:06:03.73,Default,,0,0,0,,Yeah. Thunder!
+Dialogue: 0,0:06:07.46,0:06:10.22,Default,,0,0,0,,Three times... It's amazing he's still in one piece.
+Dialogue: 0,0:06:10.64,0:06:12.60,Default,,0,0,0,,It wouldn't have been much fun-der!{i refuse to pun for this show (sandaa sando)}
+Dialogue: 0,0:06:12.90,0:06:15.64,Default,,0,0,0,,Three times... It's amazing he's still in one piece.
+Dialogue: 0,0:06:15.92,0:06:18.64,Default,,0,0,0,,{\i1}Even Chitanda's figured out how to handle Satoshi.
+Dialogue: 0,0:06:19.47,0:06:24.86,Default,,0,0,0,,He wasn't directly hit, but he wasn't unhurt either.
+Dialogue: 0,0:06:25.29,0:06:30.75,Default,,0,0,0,,He said he passed out once, and he has burn marks on his body too.
+Dialogue: 0,0:06:32.31,0:06:36.25,Default,,0,0,0,,But he's still alive, so he's quite lucky it wasn't worse.
+Dialogue: 0,0:06:36.25,0:06:37.79,Default,,0,0,0,,That's true.
+Dialogue: 0,0:06:38.46,0:06:40.79,Default,,0,0,0,,I don't remember any apparent scars though.
+Dialogue: 0,0:06:47.54,0:06:48.82,Default,,0,0,0,,{\i1}Struck by lightning...
+Dialogue: 0,0:06:49.84,0:06:51.55,Default,,0,0,0,,{\i1}Three times?
+Dialogue: 0,0:06:51.88,0:06:53.80,Default,,0,0,0,,{\i1}Is that even possible?
+Dialogue: 0,0:06:54.21,0:06:58.13,Default,,0,0,0,,{\i1}Kamiyama doesn't get many lightning strikes to begin with,
+Dialogue: 0,0:06:58.13,0:07:01.63,Default,,0,0,0,,{\i1}and yet you say Ogi got hit three times alone?
+Dialogue: 0,0:07:01.63,0:07:04.55,Default,,0,0,0,,{\i1}It doesn't seem like Satoshi would be lying.
+Dialogue: 0,0:07:04.55,0:07:07.74,Default,,0,0,0,,{\i1}He even said straight out that he didn't make it up.
+Dialogue: 0,0:07:07.74,0:07:07.78,signs,,0,0,0,,{\pos(1219.00,144.00)\frz213.4\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.74,0:07:07.78,signs,,0,0,0,,{\pos(1134.00,25.00)\frz35.65\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.74,0:07:07.78,signs,,0,0,0,,{\pos(71.00,477.00)\frz162.5\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.74,0:07:07.78,signs,,0,0,0,,{\pos(137.00,312.00)\frz343.5\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.78,0:07:07.82,signs,,0,0,0,,{\pos(1217.84,144.78)\frz212.02\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.78,0:07:07.82,signs,,0,0,0,,{\pos(1135.72,23.77)\frz34.27\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.78,0:07:07.82,signs,,0,0,0,,{\pos(68.51,476.27)\frz160.89\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.78,0:07:07.82,signs,,0,0,0,,{\pos(139.13,313.19)\frz341.89\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.82,0:07:07.86,signs,,0,0,0,,{\pos(1216.56,145.65)\frz210.78\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.82,0:07:07.86,signs,,0,0,0,,{\pos(1137.08,22.89)\frz33.03\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.82,0:07:07.86,signs,,0,0,0,,{\pos(66.22,475.60)\frz159.29\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.82,0:07:07.86,signs,,0,0,0,,{\pos(141.35,314.55)\frz340.29\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.86,0:07:07.90,signs,,0,0,0,,{\pos(1215.28,146.47)\frz209.42\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.86,0:07:07.90,signs,,0,0,0,,{\pos(1138.74,21.86)\frz31.67\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.86,0:07:07.90,signs,,0,0,0,,{\pos(63.98,474.80)\frz157.69\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.86,0:07:07.90,signs,,0,0,0,,{\pos(143.57,315.91)\frz338.69\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.90,0:07:07.94,signs,,0,0,0,,{\pos(1213.91,147.40)\frz208.14\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.90,0:07:07.94,signs,,0,0,0,,{\pos(1140.18,21.11)\frz30.39\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.90,0:07:07.94,signs,,0,0,0,,{\pos(61.65,473.95)\frz156.06\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.90,0:07:07.94,signs,,0,0,0,,{\pos(145.74,317.39)\frz337.06\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.94,0:07:07.99,signs,,0,0,0,,{\pos(1212.42,148.18)\frz206.89\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.94,0:07:07.99,signs,,0,0,0,,{\pos(1141.46,20.31)\frz29.14\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.94,0:07:07.99,signs,,0,0,0,,{\pos(59.35,472.97)\frz154.46\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.94,0:07:07.99,signs,,0,0,0,,{\pos(147.77,318.82)\frz335.46\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.99,0:07:08.03,signs,,0,0,0,,{\pos(1210.98,148.89)\frz205.61\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.99,0:07:08.03,signs,,0,0,0,,{\pos(1142.89,19.46)\frz27.86\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:07.99,0:07:08.03,signs,,0,0,0,,{\pos(56.91,471.90)\frz152.82\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:07.99,0:07:08.03,signs,,0,0,0,,{\pos(149.71,320.35)\frz333.82\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.03,0:07:08.07,signs,,0,0,0,,{\pos(1209.63,149.57)\frz204.47\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.03,0:07:08.07,signs,,0,0,0,,{\pos(1144.13,18.82)\frz26.72\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.03,0:07:08.07,signs,,0,0,0,,{\pos(54.67,470.83)\frz151.22\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.03,0:07:08.07,signs,,0,0,0,,{\pos(151.68,321.93)\frz332.22\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.05,0:07:10.74,Default,,0,0,0,,{\i1}But then, was Ogi lying?
+Dialogue: 0,0:07:08.07,0:07:08.11,signs,,0,0,0,,{\pos(1208.27,150.23)\frz203.14\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.07,0:07:08.11,signs,,0,0,0,,{\pos(1145.81,18.00)\frz25.39\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.07,0:07:08.11,signs,,0,0,0,,{\pos(52.38,469.71)\frz149.59\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.07,0:07:08.11,signs,,0,0,0,,{\pos(153.56,323.62)\frz330.59\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.11,0:07:08.15,signs,,0,0,0,,{\pos(1207.02,150.87)\frz201.73\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.11,0:07:08.15,signs,,0,0,0,,{\pos(1147.84,17.14)\frz23.98\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.11,0:07:08.15,signs,,0,0,0,,{\pos(49.94,468.28)\frz147.9\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.11,0:07:08.15,signs,,0,0,0,,{\pos(155.41,325.25)\frz328.9\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.15,0:07:08.19,signs,,0,0,0,,{\pos(1205.52,151.51)\frz200.43\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.15,0:07:08.19,signs,,0,0,0,,{\pos(1149.40,16.47)\frz22.68\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.15,0:07:08.19,signs,,0,0,0,,{\pos(47.94,467.13)\frz146.32\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.15,0:07:08.19,signs,,0,0,0,,{\pos(157.29,327.04)\frz327.32\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.19,0:07:08.24,signs,,0,0,0,,{\pos(1203.93,152.07)\frz199.15\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.19,0:07:08.24,signs,,0,0,0,,{\pos(1150.84,15.81)\frz21.4\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.19,0:07:08.24,signs,,0,0,0,,{\pos(45.63,465.64)\frz144.65\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.19,0:07:08.24,signs,,0,0,0,,{\pos(159.02,328.81)\frz325.65\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.24,0:07:08.28,signs,,0,0,0,,{\pos(1202.53,152.68)\frz197.75\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.24,0:07:08.28,signs,,0,0,0,,{\pos(1152.78,15.16)\frz20\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.24,0:07:08.28,signs,,0,0,0,,{\pos(43.50,464.18)\frz143.04\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.24,0:07:08.28,signs,,0,0,0,,{\pos(160.71,330.60)\frz324.04\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.28,0:07:08.32,signs,,0,0,0,,{\pos(1201.11,153.21)\frz196.4\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.28,0:07:08.32,signs,,0,0,0,,{\pos(1154.62,14.55)\frz18.65\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.28,0:07:08.32,signs,,0,0,0,,{\pos(41.52,462.76)\frz141.44\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.28,0:07:08.32,signs,,0,0,0,,{\pos(162.41,332.51)\frz322.44\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.32,0:07:08.36,signs,,0,0,0,,{\pos(1199.59,153.79)\frz195.08\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.32,0:07:08.36,signs,,0,0,0,,{\pos(1156.30,14.10)\frz17.33\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.32,0:07:08.36,signs,,0,0,0,,{\pos(39.50,461.16)\frz139.8\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.32,0:07:08.36,signs,,0,0,0,,{\pos(164.07,334.42)\frz320.8\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.36,0:07:08.40,signs,,0,0,0,,{\pos(1198.11,154.23)\frz193.75\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.36,0:07:08.40,signs,,0,0,0,,{\pos(1158.06,13.58)\frz16\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.36,0:07:08.40,signs,,0,0,0,,{\pos(37.62,459.69)\frz138.22\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.36,0:07:08.40,signs,,0,0,0,,{\pos(165.62,336.42)\frz319.22\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.40,0:07:08.44,signs,,0,0,0,,{\pos(1196.54,154.67)\frz192.55\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.40,0:07:08.44,signs,,0,0,0,,{\pos(1159.46,13.21)\frz14.8\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.40,0:07:08.44,signs,,0,0,0,,{\pos(35.78,458.04)\frz136.61\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.40,0:07:08.44,signs,,0,0,0,,{\pos(167.21,338.42)\frz317.61\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.44,0:07:08.49,signs,,0,0,0,,{\pos(1195.00,155.13)\frz191.19\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.44,0:07:08.49,signs,,0,0,0,,{\pos(1161.30,12.82)\frz13.44\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.44,0:07:08.49,signs,,0,0,0,,{\pos(33.84,456.25)\frz134.95\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.44,0:07:08.49,signs,,0,0,0,,{\pos(168.67,340.48)\frz315.95\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.49,0:07:08.53,signs,,0,0,0,,{\pos(1193.52,155.43)\frz189.93\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.49,0:07:08.53,signs,,0,0,0,,{\pos(1162.95,12.42)\frz12.18\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.49,0:07:08.53,signs,,0,0,0,,{\pos(32.12,454.54)\frz133.36\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.49,0:07:08.53,signs,,0,0,0,,{\pos(170.12,342.56)\frz314.36\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.53,0:07:08.57,signs,,0,0,0,,{\pos(1191.93,155.76)\frz188.59\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.53,0:07:08.57,signs,,0,0,0,,{\pos(1164.71,12.08)\frz10.84\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.53,0:07:08.57,signs,,0,0,0,,{\pos(30.34,452.66)\frz131.71\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.53,0:07:08.57,signs,,0,0,0,,{\pos(171.50,344.71)\frz312.71\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.57,0:07:08.61,signs,,0,0,0,,{\pos(1190.51,156.09)\frz187.31\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.57,0:07:08.61,signs,,0,0,0,,{\pos(1166.50,11.83)\frz9.56\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.57,0:07:08.61,signs,,0,0,0,,{\pos(28.80,450.95)\frz130.14\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.57,0:07:08.61,signs,,0,0,0,,{\pos(172.86,346.89)\frz311.14\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.61,0:07:08.65,signs,,0,0,0,,{\pos(1189.03,156.41)\frz186.03\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.61,0:07:08.65,signs,,0,0,0,,{\pos(1168.24,11.66)\frz8.28\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.61,0:07:08.65,signs,,0,0,0,,{\pos(27.02,448.93)\frz128.48\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.61,0:07:08.65,signs,,0,0,0,,{\pos(174.03,349.09)\frz309.48\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.65,0:07:08.69,signs,,0,0,0,,{\pos(1187.49,156.61)\frz184.76\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.65,0:07:08.69,signs,,0,0,0,,{\pos(1169.93,11.43)\frz7.01\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.65,0:07:08.69,signs,,0,0,0,,{\pos(25.54,447.13)\frz126.89\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.65,0:07:08.69,signs,,0,0,0,,{\pos(175.27,351.41)\frz307.89\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.69,0:07:08.74,signs,,0,0,0,,{\pos(1185.93,156.84)\frz183.42\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.69,0:07:08.74,signs,,0,0,0,,{\pos(1171.76,11.29)\frz5.67\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.69,0:07:08.74,signs,,0,0,0,,{\pos(24.06,445.28)\frz125.31\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.69,0:07:08.74,signs,,0,0,0,,{\pos(176.37,353.72)\frz306.31\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.74,0:07:08.78,signs,,0,0,0,,{\pos(1184.39,157.05)\frz181.99\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.74,0:07:08.78,signs,,0,0,0,,{\pos(1173.87,11.19)\frz4.24\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.74,0:07:08.78,signs,,0,0,0,,{\pos(22.60,443.26)\frz123.7\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.74,0:07:08.78,signs,,0,0,0,,{\pos(177.43,356.04)\frz304.7\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.78,0:07:08.82,signs,,0,0,0,,{\pos(1182.83,157.22)\frz180.79\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.78,0:07:08.82,signs,,0,0,0,,{\pos(1175.35,11.17)\frz3.04\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.78,0:07:08.82,signs,,0,0,0,,{\pos(21.16,441.14)\frz122.06\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.78,0:07:08.82,signs,,0,0,0,,{\pos(178.43,358.38)\frz303.06\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.82,0:07:08.86,signs,,0,0,0,,{\pos(1181.15,157.32)\frz179.47\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.82,0:07:08.86,signs,,0,0,0,,{\pos(1177.04,11.14)\frz1.72\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.82,0:07:08.86,signs,,0,0,0,,{\pos(19.71,438.80)\frz120.4\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.82,0:07:08.86,signs,,0,0,0,,{\pos(179.30,360.62)\frz301.4\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.86,0:07:08.90,signs,,0,0,0,,{\pos(1179.63,157.39)\frz178.17\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.86,0:07:08.90,signs,,0,0,0,,{\pos(1178.84,11.16)\frz0.42\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.86,0:07:08.90,signs,,0,0,0,,{\pos(18.42,436.65)\frz118.77\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.86,0:07:08.90,signs,,0,0,0,,{\pos(180.17,363.05)\frz299.77\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.90,0:07:08.95,signs,,0,0,0,,{\pos(1178.12,157.45)\frz176.77\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.90,0:07:08.95,signs,,0,0,0,,{\pos(1180.92,11.24)\frz-0.98\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.90,0:07:08.95,signs,,0,0,0,,{\pos(17.22,434.44)\frz117.15\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.90,0:07:08.95,signs,,0,0,0,,{\pos(180.98,365.42)\frz298.15\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.95,0:07:08.99,signs,,0,0,0,,{\pos(1176.31,157.44)\frz175.56\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.95,0:07:08.99,signs,,0,0,0,,{\pos(1182.17,11.32)\frz-2.19\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.95,0:07:08.99,signs,,0,0,0,,{\pos(16.10,432.43)\frz115.57\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.95,0:07:08.99,signs,,0,0,0,,{\pos(181.71,367.98)\frz296.57\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.99,0:07:09.03,signs,,0,0,0,,{\pos(1174.83,157.40)\frz174.24\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.99,0:07:09.03,signs,,0,0,0,,{\pos(1184.06,11.45)\frz-3.51\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:08.99,0:07:09.03,signs,,0,0,0,,{\pos(15.03,430.24)\frz113.98\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:08.99,0:07:09.03,signs,,0,0,0,,{\pos(182.36,370.39)\frz294.98\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.03,0:07:09.07,signs,,0,0,0,,{\pos(1173.31,157.36)\frz172.96\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.03,0:07:09.07,signs,,0,0,0,,{\pos(1185.81,11.65)\frz-4.79\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.03,0:07:09.07,signs,,0,0,0,,{\pos(14.09,428.14)\frz112.42\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.03,0:07:09.07,signs,,0,0,0,,{\pos(182.99,372.89)\frz293.42\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.07,0:07:09.11,signs,,0,0,0,,{\pos(1171.78,157.31)\frz171.62\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.07,0:07:09.11,signs,,0,0,0,,{\pos(1187.70,11.94)\frz-6.13\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.07,0:07:09.11,signs,,0,0,0,,{\pos(13.13,425.88)\frz110.8\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.07,0:07:09.11,signs,,0,0,0,,{\pos(183.53,375.40)\frz291.8\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.11,0:07:09.15,signs,,0,0,0,,{\pos(1170.36,157.20)\frz170.24\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.11,0:07:09.15,signs,,0,0,0,,{\pos(1189.75,12.25)\frz-7.51\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.11,0:07:09.15,signs,,0,0,0,,{\pos(12.20,423.37)\frz109.15\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.11,0:07:09.15,signs,,0,0,0,,{\pos(183.97,377.83)\frz290.15\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.15,0:07:09.20,signs,,0,0,0,,{\pos(1168.78,157.13)\frz168.83\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.15,0:07:09.20,signs,,0,0,0,,{\pos(1191.75,12.70)\frz-8.92\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.15,0:07:09.20,signs,,0,0,0,,{\pos(11.42,421.24)\frz107.58\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.15,0:07:09.20,signs,,0,0,0,,{\pos(184.37,380.41)\frz288.58\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.20,0:07:09.24,signs,,0,0,0,,{\pos(1167.12,156.89)\frz167.58\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.20,0:07:09.24,signs,,0,0,0,,{\pos(1193.22,13.00)\frz-10.17\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.20,0:07:09.24,signs,,0,0,0,,{\pos(10.69,418.94)\frz105.97\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.20,0:07:09.24,signs,,0,0,0,,{\pos(184.73,382.98)\frz286.97\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.24,0:07:09.28,signs,,0,0,0,,{\pos(1165.58,156.67)\frz166.31\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.24,0:07:09.28,signs,,0,0,0,,{\pos(1194.88,13.40)\frz-11.44\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.24,0:07:09.28,signs,,0,0,0,,{\pos(10.05,416.64)\frz104.38\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.24,0:07:09.28,signs,,0,0,0,,{\pos(185.02,385.55)\frz285.38\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.28,0:07:09.32,signs,,0,0,0,,{\pos(1164.07,156.47)\frz164.99\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.28,0:07:09.32,signs,,0,0,0,,{\pos(1196.66,13.91)\frz-12.76\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.28,0:07:09.32,signs,,0,0,0,,{\pos(9.42,414.20)\frz102.75\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.28,0:07:09.32,signs,,0,0,0,,{\pos(185.20,388.08)\frz283.75\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.32,0:07:09.36,signs,,0,0,0,,{\pos(1162.60,156.20)\frz163.73\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.32,0:07:09.36,signs,,0,0,0,,{\pos(1198.31,14.39)\frz-14.02\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.32,0:07:09.36,signs,,0,0,0,,{\pos(8.86,411.89)\frz101.19\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.32,0:07:09.36,signs,,0,0,0,,{\pos(185.29,390.59)\frz282.19\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.36,0:07:09.40,signs,,0,0,0,,{\pos(1161.02,155.92)\frz162.32\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.36,0:07:09.40,signs,,0,0,0,,{\pos(1200.20,15.03)\frz-15.43\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.36,0:07:09.40,signs,,0,0,0,,{\pos(8.39,409.61)\frz99.61\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.36,0:07:09.40,signs,,0,0,0,,{\pos(185.34,393.18)\frz280.61\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.40,0:07:09.45,signs,,0,0,0,,{\pos(1159.60,155.59)\frz161.04\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.40,0:07:09.45,signs,,0,0,0,,{\pos(1201.92,15.61)\frz-16.71\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.40,0:07:09.45,signs,,0,0,0,,{\pos(7.94,407.11)\frz97.99\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.40,0:07:09.45,signs,,0,0,0,,{\pos(185.28,395.69)\frz278.99\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.45,0:07:09.49,signs,,0,0,0,,{\pos(1158.07,155.22)\frz159.68\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.45,0:07:09.49,signs,,0,0,0,,{\pos(1203.69,16.28)\frz-18.07\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.45,0:07:09.49,signs,,0,0,0,,{\pos(7.62,404.63)\frz96.35\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.45,0:07:09.49,signs,,0,0,0,,{\pos(185.22,398.28)\frz277.35\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.49,0:07:09.53,signs,,0,0,0,,{\pos(1156.68,154.90)\frz158.28\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.49,0:07:09.53,signs,,0,0,0,,{\pos(1205.70,17.12)\frz-19.47\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.49,0:07:09.53,signs,,0,0,0,,{\pos(7.37,402.26)\frz94.76\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.49,0:07:09.53,signs,,0,0,0,,{\pos(185.08,400.85)\frz275.76\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.53,0:07:09.57,signs,,0,0,0,,{\pos(1155.14,154.50)\frz156.97\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.53,0:07:09.57,signs,,0,0,0,,{\pos(1207.29,17.87)\frz-20.78\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.53,0:07:09.57,signs,,0,0,0,,{\pos(7.18,399.85)\frz93.15\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.53,0:07:09.57,signs,,0,0,0,,{\pos(184.85,403.41)\frz274.15\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.57,0:07:09.61,signs,,0,0,0,,{\pos(1153.71,154.03)\frz155.64\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.57,0:07:09.61,signs,,0,0,0,,{\pos(1209.02,18.65)\frz-22.11\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.57,0:07:09.61,signs,,0,0,0,,{\pos(7.02,397.50)\frz91.57\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.57,0:07:09.61,signs,,0,0,0,,{\pos(184.53,405.97)\frz272.57\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.61,0:07:09.65,signs,,0,0,0,,{\pos(1152.34,153.58)\frz154.2\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.61,0:07:09.65,signs,,0,0,0,,{\pos(1211.03,19.63)\frz-23.55\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.61,0:07:09.65,signs,,0,0,0,,{\pos(6.94,395.11)\frz89.97\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.61,0:07:09.65,signs,,0,0,0,,{\pos(184.14,408.55)\frz270.97\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.65,0:07:09.70,signs,,0,0,0,,{\pos(1150.97,153.13)\frz152.81\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.65,0:07:09.70,signs,,0,0,0,,{\pos(1212.89,20.65)\frz-24.94\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.65,0:07:09.70,signs,,0,0,0,,{\pos(6.93,392.70)\frz88.37\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.65,0:07:09.70,signs,,0,0,0,,{\pos(183.69,411.06)\frz269.37\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.70,0:07:09.74,signs,,0,0,0,,{\pos(1149.46,152.56)\frz151.55\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.70,0:07:09.74,signs,,0,0,0,,{\pos(1214.29,21.47)\frz-26.2\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.70,0:07:09.74,signs,,0,0,0,,{\pos(6.99,390.46)\frz86.82\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.70,0:07:09.74,signs,,0,0,0,,{\pos(183.19,413.61)\frz267.82\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.74,0:07:09.78,signs,,0,0,0,,{\pos(1148.09,152.06)\frz150.08\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.74,0:07:09.78,signs,,0,0,0,,{\pos(1216.26,22.68)\frz-27.67\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.74,0:07:09.78,signs,,0,0,0,,{\pos(7.14,388.02)\frz85.19\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.74,0:07:09.78,signs,,0,0,0,,{\pos(182.61,416.15)\frz266.19\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.78,0:07:09.82,signs,,0,0,0,,{\pos(1146.79,151.52)\frz148.79\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.78,0:07:09.82,signs,,0,0,0,,{\pos(1217.85,23.71)\frz-28.96\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.78,0:07:09.82,signs,,0,0,0,,{\pos(7.38,385.48)\frz83.55\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.78,0:07:09.82,signs,,0,0,0,,{\pos(181.97,418.62)\frz264.55\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.82,0:07:09.86,signs,,0,0,0,,{\pos(1145.30,150.81)\frz147.37\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.82,0:07:09.86,signs,,0,0,0,,{\pos(1219.51,24.80)\frz-30.38\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.82,0:07:09.86,signs,,0,0,0,,{\pos(7.62,383.17)\frz81.98\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.82,0:07:09.86,signs,,0,0,0,,{\pos(181.24,421.11)\frz262.98\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.86,0:07:09.90,signs,,0,0,0,,{\pos(1143.96,150.10)\frz146.04\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.86,0:07:09.90,signs,,0,0,0,,{\pos(1221.08,25.85)\frz-31.71\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.86,0:07:09.90,signs,,0,0,0,,{\pos(7.96,380.75)\frz80.37\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.86,0:07:09.90,signs,,0,0,0,,{\pos(180.44,423.55)\frz261.37\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.90,0:07:09.95,signs,,0,0,0,,{\pos(1142.61,149.47)\frz144.59\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.90,0:07:09.95,signs,,0,0,0,,{\pos(1222.83,27.21)\frz-33.16\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.90,0:07:09.95,signs,,0,0,0,,{\pos(8.33,378.38)\frz78.78\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.90,0:07:09.95,signs,,0,0,0,,{\pos(179.56,425.94)\frz259.78\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.95,0:07:09.99,signs,,0,0,0,,{\pos(1141.28,148.76)\frz143.28\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.95,0:07:09.99,signs,,0,0,0,,{\pos(1224.29,28.36)\frz-34.47\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.95,0:07:09.99,signs,,0,0,0,,{\pos(8.81,375.93)\frz77.14\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.95,0:07:09.99,signs,,0,0,0,,{\pos(178.62,428.36)\frz258.14\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.99,0:07:10.03,signs,,0,0,0,,{\pos(1140.01,148.10)\frz141.98\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.99,0:07:10.03,signs,,0,0,0,,{\pos(1225.72,29.61)\frz-35.77\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:09.99,0:07:10.03,signs,,0,0,0,,{\pos(9.34,373.61)\frz75.56\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:09.99,0:07:10.03,signs,,0,0,0,,{\pos(177.63,430.70)\frz256.56\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.03,0:07:10.07,signs,,0,0,0,,{\pos(1138.69,147.38)\frz140.68\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.03,0:07:10.07,signs,,0,0,0,,{\pos(1227.08,30.87)\frz-37.07\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.03,0:07:10.07,signs,,0,0,0,,{\pos(9.93,371.27)\frz73.96\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.03,0:07:10.07,signs,,0,0,0,,{\pos(176.56,433.04)\frz254.96\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.07,0:07:10.11,signs,,0,0,0,,{\pos(1137.43,146.63)\frz139.44\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.07,0:07:10.11,signs,,0,0,0,,{\pos(1228.31,32.06)\frz-38.31\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.07,0:07:10.11,signs,,0,0,0,,{\pos(10.62,368.90)\frz72.34\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.07,0:07:10.11,signs,,0,0,0,,{\pos(175.43,435.37)\frz253.34\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.11,0:07:10.15,signs,,0,0,0,,{\pos(1136.13,145.77)\frz138.08\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.11,0:07:10.15,signs,,0,0,0,,{\pos(1229.71,33.38)\frz-39.67\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.11,0:07:10.15,signs,,0,0,0,,{\pos(11.30,366.70)\frz70.77\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.11,0:07:10.15,signs,,0,0,0,,{\pos(174.23,437.67)\frz251.77\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.15,0:07:10.20,signs,,0,0,0,,{\pos(1134.79,144.92)\frz136.7\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.15,0:07:10.20,signs,,0,0,0,,{\pos(1231.05,34.82)\frz-41.05\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.15,0:07:10.20,signs,,0,0,0,,{\pos(12.08,364.39)\frz69.17\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.15,0:07:10.20,signs,,0,0,0,,{\pos(172.96,439.88)\frz250.17\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.20,0:07:10.24,signs,,0,0,0,,{\pos(1133.59,144.08)\frz135.29\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.20,0:07:10.24,signs,,0,0,0,,{\pos(1232.52,36.38)\frz-42.46\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.20,0:07:10.24,signs,,0,0,0,,{\pos(12.95,362.11)\frz67.56\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.20,0:07:10.24,signs,,0,0,0,,{\pos(171.65,442.06)\frz248.56\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.24,0:07:10.28,signs,,0,0,0,,{\pos(1132.39,143.30)\frz133.9\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.24,0:07:10.28,signs,,0,0,0,,{\pos(1233.91,38.04)\frz-43.85\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.24,0:07:10.28,signs,,0,0,0,,{\pos(13.85,359.95)\frz65.97\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.24,0:07:10.28,signs,,0,0,0,,{\pos(170.27,444.29)\frz246.97\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.28,0:07:10.32,signs,,0,0,0,,{\pos(1131.22,142.44)\frz132.55\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.28,0:07:10.32,signs,,0,0,0,,{\pos(1235.19,39.59)\frz-45.2\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.28,0:07:10.32,signs,,0,0,0,,{\pos(14.85,357.70)\frz64.35\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.28,0:07:10.32,signs,,0,0,0,,{\pos(168.83,446.42)\frz245.35\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.32,0:07:10.36,signs,,0,0,0,,{\pos(1130.11,141.59)\frz131.27\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.32,0:07:10.36,signs,,0,0,0,,{\pos(1236.35,41.10)\frz-46.48\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.32,0:07:10.36,signs,,0,0,0,,{\pos(15.93,355.46)\frz62.72\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.32,0:07:10.36,signs,,0,0,0,,{\pos(167.33,448.51)\frz243.72\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.36,0:07:10.40,signs,,0,0,0,,{\pos(1128.87,140.51)\frz129.82\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.36,0:07:10.40,signs,,0,0,0,,{\pos(1237.61,42.73)\frz-47.92\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.36,0:07:10.40,signs,,0,0,0,,{\pos(17.07,353.28)\frz61.11\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.36,0:07:10.40,signs,,0,0,0,,{\pos(165.79,450.56)\frz242.11\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.40,0:07:10.45,signs,,0,0,0,,{\pos(1127.80,139.60)\frz128.56\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.40,0:07:10.45,signs,,0,0,0,,{\pos(1238.67,44.25)\frz-49.19\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.40,0:07:10.45,signs,,0,0,0,,{\pos(18.32,350.97)\frz59.47\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.40,0:07:10.45,signs,,0,0,0,,{\pos(164.19,452.48)\frz240.47\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.45,0:07:10.49,signs,,0,0,0,,{\pos(1126.76,138.65)\frz127.18\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.45,0:07:10.49,signs,,0,0,0,,{\pos(1239.89,45.98)\frz-50.57\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.45,0:07:10.49,signs,,0,0,0,,{\pos(19.45,349.03)\frz57.91\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.45,0:07:10.49,signs,,0,0,0,,{\pos(162.50,454.46)\frz238.91\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.49,0:07:10.53,signs,,0,0,0,,{\pos(1125.63,137.67)\frz125.76\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.49,0:07:10.53,signs,,0,0,0,,{\pos(1241.02,47.83)\frz-51.99\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.49,0:07:10.53,signs,,0,0,0,,{\pos(20.80,346.92)\frz56.29\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.49,0:07:10.53,signs,,0,0,0,,{\pos(160.82,456.35)\frz237.29\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.53,0:07:10.57,signs,,0,0,0,,{\pos(1124.59,136.74)\frz124.39\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.53,0:07:10.57,signs,,0,0,0,,{\pos(1242.10,49.69)\frz-53.36\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.53,0:07:10.57,signs,,0,0,0,,{\pos(22.01,345.06)\frz54.73\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.53,0:07:10.57,signs,,0,0,0,,{\pos(158.99,458.28)\frz235.73\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.57,0:07:10.61,signs,,0,0,0,,{\pos(1123.59,135.69)\frz123.16\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.57,0:07:10.61,signs,,0,0,0,,{\pos(1242.94,51.19)\frz-54.59\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.57,0:07:10.61,signs,,0,0,0,,{\pos(23.44,343.04)\frz53.11\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.57,0:07:10.61,signs,,0,0,0,,{\pos(157.17,460.08)\frz234.11\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.61,0:07:10.66,signs,,0,0,0,,{\pos(1122.63,134.68)\frz121.83\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.61,0:07:10.66,signs,,0,0,0,,{\pos(1243.91,52.98)\frz-55.92\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.61,0:07:10.66,signs,,0,0,0,,{\pos(24.94,341.02)\frz51.48\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.61,0:07:10.66,signs,,0,0,0,,{\pos(155.29,461.81)\frz232.48\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.66,0:07:10.70,signs,,0,0,0,,{\pos(1121.67,133.67)\frz120.5\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.66,0:07:10.70,signs,,0,0,0,,{\pos(1244.82,54.79)\frz-57.25\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.66,0:07:10.70,signs,,0,0,0,,{\pos(26.36,339.24)\frz49.92\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.66,0:07:10.70,signs,,0,0,0,,{\pos(153.35,463.55)\frz230.92\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.70,0:07:10.74,signs,,0,0,0,,{\pos(1120.77,132.58)\frz119.29\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.70,0:07:10.74,signs,,0,0,0,,{\pos(1245.55,56.32)\frz-58.46\c&H06091B&\fs50\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:10.70,0:07:10.74,signs,,0,0,0,,{\pos(27.86,337.46)\frz48.33\c&H00061B&\fs55\blur1\fnOld Rubber Stamp\b1}Truth
+Dialogue: 0,0:07:10.70,0:07:10.74,signs,,0,0,0,,{\pos(151.38,465.22)\frz229.33\c&H00061B&\fs65\blur1\fnOld Rubber Stamp\b1}Lie
+Dialogue: 0,0:07:11.04,0:07:13.24,Default,,0,0,0,,{\i1}It's too obvious a lie to really be one.
+Dialogue: 0,0:07:27.78,0:07:28.70,Default,,0,0,0,,Wait a moment.
+Dialogue: 0,0:07:30.34,0:07:33.83,Default,,0,0,0,,Satoshi, there were some old newspapers in the public library, right?
+Dialogue: 0,0:07:33.83,0:07:36.02,Default,,0,0,0,,Yeah. A few.
+Dialogue: 0,0:07:36.56,0:07:38.82,Default,,0,0,0,,There are a few in the school's library too.
+Dialogue: 0,0:07:38.82,0:07:41.23,Default,,0,0,0,,Though only for articles related to Kami High.
+Dialogue: 0,0:07:41.57,0:07:43.23,Default,,0,0,0,,That won't do.
+Dialogue: 0,0:07:43.74,0:07:44.66,Default,,0,0,0,,I'm going home.
+Dialogue: 0,0:07:49.80,0:07:52.15,Default,,0,0,0,,I'll drop by the library. You coming too?
+Dialogue: 0,0:07:54.69,0:07:58.37,Default,,0,0,0,,Houtarou... it looks like Houtarou is actually serious about this!
+Dialogue: 0,0:07:59.22,0:08:03.41,Default,,0,0,0,,No! I just... How should I put it...
+Dialogue: 0,0:08:04.88,0:08:06.04,Default,,0,0,0,,Can't stop thinking about it.{lol}
+Dialogue: 0,0:08:10.54,0:08:13.47,Default,,0,0,0,,Houtarou! You're Houtarou, right?
+Dialogue: 0,0:08:13.89,0:08:16.48,Default,,0,0,0,,That Oreki Houtarou who's always saving energy, right?
+Dialogue: 0,0:08:16.48,0:08:18.43,Default,,0,0,0,,Are you being controlled by aliens?
+Dialogue: 0,0:08:18.43,0:08:21.27,Default,,0,0,0,,Or were you possessed by Chitanda?
+Dialogue: 0,0:08:21.27,0:08:22.18,Default,,0,0,0,,Cut it out!
+Dialogue: 0,0:08:22.18,0:08:23.55,Default,,0,0,0,,Oreki...
+Dialogue: 0,0:08:23.55,0:08:25.19,Default,,0,0,0,,You should go home soon.
+Dialogue: 0,0:08:25.94,0:08:27.94,Default,,0,0,0,,Go to bed early and tuck yourself in under a warm blanket.
+Dialogue: 0,0:08:28.34,0:08:30.44,Default,,0,0,0,,I'm sure you'll be right as rain by tomorrow.
+Dialogue: 0,0:08:30.84,0:08:32.02,Default,,0,0,0,,You're being rude!
+Dialogue: 0,0:08:32.02,0:08:35.20,Default,,0,0,0,,Is it that unusual for me to be doing something out of my own free will?
+Dialogue: 0,0:08:35.61,0:08:37.83,Default,,0,0,0,,{\i1}Whatever. Let's just get this over with already.
+Dialogue: 0,0:08:38.10,0:08:38.78,Default,,0,0,0,,Oreki!
+Dialogue: 0,0:08:38.78,0:08:39.71,Default,,0,0,0,,What?
+Dialogue: 0,0:08:39.71,0:08:41.71,Default,,0,0,0,,You can't stop thinking about it?
+Dialogue: 0,0:08:42.40,0:08:43.50,Default,,0,0,0,,Kinda.
+Dialogue: 0,0:08:43.50,0:08:45.13,Default,,0,0,0,,Are you going to investigate it?
+Dialogue: 0,0:08:45.13,0:08:47.54,Default,,0,0,0,,I might not be able to find anything.
+Dialogue: 0,0:08:47.86,0:08:48.71,Default,,0,0,0,,I can't stop thinking about that!
+Dialogue: 0,0:08:49.14,0:08:51.42,Default,,0,0,0,,Wh... What?
+Dialogue: 0,0:08:51.86,0:08:55.68,Default,,0,0,0,,There's something in this world that can tickle even {\i1}your{\i0} curiosity!
+Dialogue: 0,0:08:55.97,0:08:58.97,Default,,0,0,0,,I can't stop thinking about what that could be!
+Dialogue: 0,0:09:01.18,0:09:03.41,Default,,0,0,0,,{\i1}She isn't exactly polite either.
+Dialogue: 0,0:09:05.27,0:09:09.48,Default,,0,0,0,,Satoshi said he had homework and couldn't come.
+Dialogue: 0,0:09:10.31,0:09:13.55,Default,,0,0,0,,Having the assistant librarian Ibara around would've been helpful,
+Dialogue: 0,0:09:14.24,0:09:16.14,Default,,0,0,0,,but I couldn't bring myself to ask her.
+Dialogue: 0,0:09:23.73,0:09:25.31,Default,,0,0,0,,Sorry to keep you waiting!
+Dialogue: 0,0:09:29.77,0:09:31.63,Default,,0,0,0,,Should we get going, then?
+Dialogue: 0,0:09:36.30,0:09:37.30,Default,,0,0,0,,You go ahead.
+Dialogue: 0,0:09:40.32,0:09:41.97,Default,,0,0,0,,You can ride on the back.
+Dialogue: 0,0:09:49.14,0:09:50.69,Default,,0,0,0,,{\i1}Nope.
+Dialogue: 0,0:09:52.72,0:09:54.44,Default,,0,0,0,,{\i1}Not a chance.
+Dialogue: 0,0:09:54.82,0:09:56.66,Default,,0,0,0,,Please just go ahead.
+Dialogue: 0,0:09:57.14,0:09:58.95,Default,,0,0,0,,Okay then.
+Dialogue: 0,0:10:01.23,0:10:02.33,Default,,0,0,0,,Chitanda!
+Dialogue: 0,0:10:02.77,0:10:03.37,Default,,0,0,0,,Yes?
+Dialogue: 0,0:10:03.67,0:10:06.78,Default,,0,0,0,,If there's a way to search old articles,
+Dialogue: 0,0:10:06.78,0:10:10.42,Default,,0,0,0,,look for the name Ogi Masakiyo.
+Dialogue: 0,0:10:10.42,0:10:13.71,Default,,0,0,0,,It's written as, "a small tree, true and pure". Ogi Masakiyo.
+Dialogue: 0,0:10:14.16,0:10:17.01,Default,,0,0,0,,Okay. See you later then.
+Dialogue: 1,0:10:23.89,0:10:26.89,eyecatch small,,0,0,0,,{\blur0.7\pos(237,169)}As shadows grow and the air cools, \Npearl strings of dew appear.
+Dialogue: 1,0:10:23.89,0:10:25.47,eyecatch big,,0,0,0,,{\fad(0,641)\blur1.5\pos(640,62)}Cold Dew
+Dialogue: 0,0:10:23.89,0:10:25.47,eyecatch big,,0,0,0,,{\fad(0,641)\bord0\blur1.5\pos(640,62)\t(1446,1670,\blur5)}Cold Dew
+Dialogue: 0,0:10:25.47,0:10:26.89,Title,,0,0,0,,{\fs70\fad(777,0)\blur5\c&H000000&\b1\t(0,400,\blur1)\pos(640,54)}Hyouka
+Dialogue: 0,0:10:46.88,0:10:50.62,Default,,0,0,0,,{\i1}According to my sister, who's been to the Kamikakiuchi mountains,
+Dialogue: 0,0:10:51.77,0:10:57.13,Default,,0,0,0,,{\i1}those 3000 meter high peaks cut off even the flow of the air,
+Dialogue: 0,0:10:57.53,0:11:02.50,Default,,0,0,0,,{\i1}so the weather on this side and the other side is totally different.
+Dialogue: 0,0:11:06.05,0:11:09.00,Default,,0,0,0,,{\i1}I shouldn't make Chitanda wait too long.
+Dialogue: 0,0:11:10.14,0:11:12.65,signs,,0,0,0,,{\fscx80\fax-0.1\an5\c&HDFF0ED&\shad1\fs30\blur0.6\4c&H0E2322&\b1\frz4.593\pos(1069,205)}Kamiyama
+Dialogue: 0,0:11:10.14,0:11:12.65,signs,,0,0,0,,{\an5\fscy110\shad1.5\fs30\blur0.6\4c&H0E2322&\b1\c&HB4C3BE&\fscx70\pos(1069,673)\frx346\fry8\frz1.045}City Library
+Dialogue: 0,0:11:21.50,0:11:22.48,Default,,0,0,0,,Oreki!
+Dialogue: 0,0:11:24.73,0:11:26.91,Default,,0,0,0,,I've found something about Mr Ogi!
+Dialogue: 0,0:11:32.24,0:11:36.17,Default,,0,0,0,,"Cleaning the passes across the Kamikakiuchi mountains."
+Dialogue: 0,0:11:36.68,0:11:39.92,Default,,0,0,0,,Mr. Ogi was a mountaineer.
+Dialogue: 0,0:11:40.61,0:11:44.66,Default,,0,0,0,,On the 26th, the Kamiyama rangers{山岳会} organized
+Dialogue: 0,0:11:44.66,0:11:47.73,Default,,0,0,0,,the cleaning of a path on the Abumi cliff.
+Dialogue: 0,0:11:47.73,0:11:50.24,Default,,0,0,0,,Eleven people, including volunteers, took part in
+Dialogue: 0,0:11:50.24,0:11:52.44,Default,,0,0,0,,picking up trash near the mountain path.
+Dialogue: 0,0:11:53.12,0:11:57.94,Default,,0,0,0,,The leader of the Kamiyama rangers, Ogi Masakiyo (39) said:
+Dialogue: 0,0:11:57.94,0:12:01.20,Default,,0,0,0,,{from touzanbuumu}"Due to the mountaineering boom, there are many people who don't know the basic rules."
+Dialogue: 0,0:12:01.41,0:12:06.45,Default,,0,0,0,,"I want to make it clear that when you're in the mountains, it's a matter of life and death."
+Dialogue: 0,0:12:08.42,0:12:10.08,Default,,0,0,0,,I see. So I was right.
+Dialogue: 0,0:12:12.48,0:12:15.14,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:12:15.60,0:12:16.59,Default,,0,0,0,,Nothing.
+Dialogue: 0,0:12:17.21,0:12:20.21,Default,,0,0,0,,Could you search through all the old papers?
+Dialogue: 0,0:12:21.52,0:12:25.22,Default,,0,0,0,,You can see for yourself at the second floor counter.
+Dialogue: 0,0:12:32.60,0:12:37.14,Default,,0,0,0,,{\i1}I'd prefer it if my predictions ended up being wrong this time...
+Dialogue: 0,0:12:44.40,0:12:48.29,Default,,0,0,0,,Excuse me. We'd like to search for some newspaper articles.
+Dialogue: 0,0:12:48.29,0:12:50.91,Default,,0,0,0,,All right. What are you looking for?
+Dialogue: 0,0:12:50.91,0:12:55.50,Default,,0,0,0,,Articles from three years ago, between March and May.
+Dialogue: 0,0:12:55.50,0:12:57.25,Default,,0,0,0,,Any particular keywords?
+Dialogue: 0,0:13:01.09,0:13:03.26,Default,,0,0,0,,Look for "accident", please.
+Dialogue: 0,0:13:07.12,0:13:10.66,Default,,0,0,0,,There are twelve results. Would you like to refine the search?
+Dialogue: 0,0:13:11.64,0:13:13.77,Default,,0,0,0,,That's not too many. Can we see them all?
+Dialogue: 0,0:13:14.64,0:13:15.52,Default,,0,0,0,,Sure, go on.
+Dialogue: 0,0:13:21.53,0:13:21.78,signs,,0,0,0,,{\fs40\fscx88\fscy102\fsp-0.5\blur0.6\an7\c&H344529&\fnLato\pos(423,18)}Ongoing accidents among 60-70 year old people\N\N\N\NAccident in Alaska - 5 dead\N\N\N\N7 doctors suffer accident\N\N\N\NLife: Ten years since the accident\N\N\N\NKamikakiuchi accidents, the most casualties yet: 11 wounded, 2 dead\N\N\N\NKamikakiuchi accident victim saved by helicopter\N\N\N\NMan fell in the Kamikakiuchi mountains
+Dialogue: 0,0:13:21.78,0:13:22.03,signs,,0,0,0,,{\fs40\fscx88\fscy103\fsp-0.5\blur0.6\an7\c&H344529&\fnLato\pos(423,17)}Accident in Alaska - 5 dead\N\N\N\N7 doctors suffer accident\N\N\N\NLife: Ten years since the accident\N\N\N\NKamikakiuchi accidents, the most casualties yet: 11 wounded, 2 dead\N\N\N\NKamikakiuchi accident victim saved by helicopter\N\N\N\NMan fell in the Kamikakiuchi mountains\N\N\N\NAccident in the Kamikakiuchi mts - search in progress
+Dialogue: 0,0:13:22.03,0:13:22.53,signs,,0,0,0,,{\fs40\fscx88\fscy103\fsp-0.5\blur0.6\an7\c&H344529&\fnLato\pos(423,10)}7 doctors suffer accident\N\N\N\NLife: Ten years since the accident\N\N\N\NKamikakiuchi accidents, the most casualties yet: 11 wounded, 2 dead\N\N\N\NKamikakiuchi accident victim saved by helicopter\N\N\N\NMan fell in the Kamikakiuchi mountains\N\N\N\NAccident in the Kamikakiuchi mts - search in progress\N\N\N\NGuidebook to prevent accidents in the Kamikakiuchi mountains
+Dialogue: 0,0:13:22.53,0:13:23.28,signs,,0,0,0,,{\fs40\fscx88\fscy103\fsp-0.5\blur0.6\an7\c&H344529&\fnLato\pos(423,4)}Life: Ten years since the accident\N\N\N\NKamikakiuchi accidents, the most casualties yet: 11 wounded, 2 dead\N\N\N\NKamikakiuchi accident victim saved by helicopter\N\N\N\NMan fell in the Kamikakiuchi mountains\N\N\N\NAccident in the Kamikakiuchi mts - search in progress\N\N\N\NGuidebook to prevent accidents in the Kamikakiuchi mountains\N\N\N\N\NAccident in North America, 8 dead, 2 unconscious
+Dialogue: 0,0:13:23.28,0:13:24.24,signs,,0,0,0,,{\fs40\fscx88\fscy103\fsp-0.5\blur0.6\an7\c&H344529&\fnLato\pos(423,12)}Kamikakiuchi accidents, the most casualties yet: 11 wounded, 2 dead\N\N\N\NKamikakiuchi accident victim saved by helicopter\N\N\N\NMan fell in the Kamikakiuchi mountains\N\N\N\NAccident in the Kamikakiuchi mts - search in progress\N\N\N\NGuidebook to prevent accidents in the Kamikakiuchi mountains\N\N\N\N\NAccident in North America, 8 dead, 2 unconscious\N\N\N\N\NMountain accident: 8 missing, also 4 veteran mountaineers
+Dialogue: 0,0:13:24.24,0:13:24.53,signs,,0,0,0,,{\fs40\fscx88\fscy103\fsp-0.5\blur0.6\an7\c&H344529&\fnLato\pos(423,41)}Kamikakiuchi accident victim saved by helicopter\N\N\N\NMan fell in the Kamikakiuchi mountains\N\N\N\NAccident in the Kamikakiuchi mts - search in progress\N\N\N\NGuidebook to prevent accidents in the Kamikakiuchi mountains\N\N\N\N\NAccident in North America, 8 dead, 2 unconscious\N\N\N\N\NMountain accident: 8 missing, also 4 veteran mountaineers
+Dialogue: 0,0:13:24.82,0:13:25.53,Default,,0,0,0,,{\i1}Found it.
+Dialogue: 0,0:13:25.53,0:13:29.53,signs,,0,0,0,,{\fs70\q2\blur0.8\an5\c&H2F541B&\fnLato\move(915,281,562,281,25,3987)}Accident in the Kamikakiuchi mts - search in progress
+Dialogue: 0,0:13:26.58,0:13:28.90,Default,,0,0,0,,It's from May 9th, right?
+Dialogue: 0,0:13:30.02,0:13:34.19,Default,,0,0,0,,Excuse me, could we read these articles?
+Dialogue: 0,0:13:35.52,0:13:37.71,Default,,0,0,0,,{\i1}Chitanda's on to it too.
+Dialogue: 0,0:13:37.93,0:13:40.66,Default,,0,0,0,,Maruto, could you help for a moment?
+Dialogue: 0,0:13:40.66,0:13:41.59,Default,,0,0,0,,What's it?
+Dialogue: 0,0:13:43.48,0:13:48.79,Default,,0,0,0,,We'd like to see newspaper articles from May 9th, three years ago.
+Dialogue: 0,0:13:48.79,0:13:50.43,Default,,0,0,0,,Three years ago?
+Dialogue: 0,0:13:50.43,0:13:51.67,Default,,0,0,0,,Sure, be right back.
+Dialogue: 0,0:13:52.42,0:13:53.67,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:13:53.67,0:13:58.40,Default,,0,0,0,,Ah, it'll probably take about half an hour to get the articles. Is that okay?
+Dialogue: 0,0:13:58.89,0:14:00.26,Default,,0,0,0,,Sure.
+Dialogue: 0,0:14:00.26,0:14:02.53,Default,,0,0,0,,I'll let you know when it's done.
+Dialogue: 0,0:14:02.53,0:14:04.08,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:14:07.81,0:14:12.60,Default,,0,0,0,,Oreki, now that we're here, want to have a look around?
+Dialogue: 0,0:14:13.25,0:14:14.16,Default,,0,0,0,,I guess we could.
+Dialogue: 0,0:14:22.53,0:14:25.73,Default,,0,0,0,,Ah, it's a Taira-no-Kiyomori special this time.
+Dialogue: 0,0:14:26.94,0:14:28.30,Default,,0,0,0,,The cover's so pretty!
+Dialogue: 0,0:14:28.97,0:14:34.37,Default,,0,0,0,,In this special he's portrayed as the son of the Shirakawa emperor.
+Dialogue: 0,0:14:34.37,0:14:37.18,Default,,0,0,0,,There are people who believe that he is.
+Dialogue: 0,0:14:40.28,0:14:42.06,Default,,0,0,0,,Whoa, nice one.
+Dialogue: 0,0:14:44.58,0:14:50.11,Default,,0,0,0,,It's the Itsukushima shrine at Miyajima. I'd like to go there one day.{i've been to miyajima!}
+Dialogue: 0,0:14:50.11,0:14:51.20,signs,,0,0,0,,{\fnBubbleGum\c&H658382&\blur0.5\fs30\pos(632,25)}Vegetables {\c&H404EC1&}Made Exciting
+Dialogue: 0,0:14:59.66,0:15:01.83,Default,,0,0,0,,Look at all the cabbages!{seriously lollin' at this part}
+Dialogue: 0,0:15:01.83,0:15:03.50,Default,,0,0,0,,They're such a nice color!
+Dialogue: 0,0:15:04.51,0:15:06.51,Default,,0,0,0,,And there's so many tomatoes!
+Dialogue: 0,0:15:06.98,0:15:09.01,Default,,0,0,0,,They all look so delicious!
+Dialogue: 0,0:15:09.45,0:15:14.14,Default,,0,0,0,,That reminds me, Oreki! Our shiitake harvest was quite good this year.
+Dialogue: 0,0:15:14.69,0:15:16.45,Default,,0,0,0,,Would you like some?
+Dialogue: 0,0:15:18.41,0:15:20.56,Default,,0,0,0,,Look! Books about bugs, Oreki!
+Dialogue: 0,0:15:20.56,0:15:21.02,signs,,0,0,0,,{\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1\pos(606,-6)}Honeybee Journal
+Dialogue: 0,0:15:20.56,0:15:21.02,signs,,0,0,0,,{\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1\pos(615,184)}A Bee's Life
+Dialogue: 0,0:15:20.56,0:15:21.02,signs,,0,0,0,,{\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1\pos(784,243)}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.02,0:15:21.06,signs,,0,0,0,,{\pos(606.00,-6.00)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.02,0:15:21.06,signs,,0,0,0,,{\pos(615.00,184.00)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.02,0:15:21.06,signs,,0,0,0,,{\pos(784.00,243.00)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.06,0:15:21.10,signs,,0,0,0,,{\pos(600.37,-5.99)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.06,0:15:21.10,signs,,0,0,0,,{\pos(609.38,184.00)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.06,0:15:21.10,signs,,0,0,0,,{\pos(778.38,243.00)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.10,0:15:21.15,signs,,0,0,0,,{\pos(582.96,-5.99)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.10,0:15:21.15,signs,,0,0,0,,{\pos(591.96,184.00)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.10,0:15:21.15,signs,,0,0,0,,{\pos(760.96,243.00)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.15,0:15:21.19,signs,,0,0,0,,{\pos(552.94,-5.98)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.15,0:15:21.19,signs,,0,0,0,,{\pos(561.95,184.01)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.15,0:15:21.19,signs,,0,0,0,,{\pos(730.94,242.99)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.19,0:15:21.23,signs,,0,0,0,,{\pos(509.87,-5.97)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.19,0:15:21.23,signs,,0,0,0,,{\pos(518.88,184.02)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.19,0:15:21.23,signs,,0,0,0,,{\pos(687.87,242.99)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.23,0:15:21.27,signs,,0,0,0,,{\pos(453.94,-5.97)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.23,0:15:21.27,signs,,0,0,0,,{\pos(462.95,184.02)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.23,0:15:21.27,signs,,0,0,0,,{\pos(631.94,242.98)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.27,0:15:21.31,signs,,0,0,0,,{\pos(386.13,-5.96)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.27,0:15:21.31,signs,,0,0,0,,{\pos(395.14,184.03)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.27,0:15:21.31,signs,,0,0,0,,{\pos(564.13,242.98)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.27,0:15:21.31,signs,,0,0,0,,{\pos(1353.00,101.00)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.31,0:15:21.35,signs,,0,0,0,,{\pos(308.25,-5.95)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.31,0:15:21.35,signs,,0,0,0,,{\pos(317.28,184.04)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.31,0:15:21.35,signs,,0,0,0,,{\pos(486.25,242.98)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.31,0:15:21.35,signs,,0,0,0,,{\pos(1275.16,100.99)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.35,0:15:21.40,signs,,0,0,0,,{\pos(223.27,-5.95)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.35,0:15:21.40,signs,,0,0,0,,{\pos(232.30,184.04)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.35,0:15:21.40,signs,,0,0,0,,{\pos(401.28,242.98)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.35,0:15:21.40,signs,,0,0,0,,{\pos(1190.18,100.99)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.40,0:15:21.44,signs,,0,0,0,,{\pos(134.64,-5.95)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.40,0:15:21.44,signs,,0,0,0,,{\pos(143.67,184.04)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.40,0:15:21.44,signs,,0,0,0,,{\pos(312.64,242.97)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.40,0:15:21.44,signs,,0,0,0,,{\pos(1101.54,100.99)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.44,0:15:21.48,signs,,0,0,0,,{\pos(45.97,-5.94)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.44,0:15:21.48,signs,,0,0,0,,{\pos(55.03,184.05)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.44,0:15:21.48,signs,,0,0,0,,{\pos(223.98,242.97)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.44,0:15:21.48,signs,,0,0,0,,{\pos(1012.91,100.99)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.48,0:15:21.52,signs,,0,0,0,,{\pos(-39.41,-5.93)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.48,0:15:21.52,signs,,0,0,0,,{\pos(-30.36,184.05)\c&H586666&\fs35\fscy120\blur0.6\fnGaramond\b1}A Bee's Life
+Dialogue: 0,0:15:21.48,0:15:21.52,signs,,0,0,0,,{\pos(138.60,242.96)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.48,0:15:21.52,signs,,0,0,0,,{\pos(927.53,100.98)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.52,0:15:21.56,signs,,0,0,0,,{\pos(-119.06,-5.92)\c&H4F5A58&\fs55\fscy120\blur0.6\fnGaramond\b1}Honeybee Journal
+Dialogue: 0,0:15:21.52,0:15:21.56,signs,,0,0,0,,{\pos(58.97,242.96)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.52,0:15:21.56,signs,,0,0,0,,{\pos(847.87,100.98)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.56,0:15:21.60,signs,,0,0,0,,{\pos(-13.24,242.96)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.56,0:15:21.60,signs,,0,0,0,,{\pos(775.71,100.97)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.60,0:15:21.65,signs,,0,0,0,,{\pos(-76.98,242.96)\c&H586666&\fs30\fscy120\blur0.6\fnGaramond\b1}Yamamoto Chiyoko
+Dialogue: 0,0:15:21.60,0:15:21.65,signs,,0,0,0,,{\pos(711.98,100.98)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.65,0:15:21.69,signs,,0,0,0,,{\pos(657.01,100.98)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.69,0:15:21.73,signs,,0,0,0,,{\pos(610.81,100.98)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.73,0:15:21.77,signs,,0,0,0,,{\pos(573.07,100.98)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.77,0:15:21.81,signs,,0,0,0,,{\pos(543.33,100.97)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.81,0:15:21.85,signs,,0,0,0,,{\pos(521.09,100.97)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.85,0:15:21.90,signs,,0,0,0,,{\pos(505.86,100.97)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.90,0:15:21.94,signs,,0,0,0,,{\pos(497.04,100.96)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:21.94,0:15:23.19,signs,,0,0,0,,{\pos(494.16,100.96)\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.19,0:15:23.23,signs,,0,0,0,,{\pos(494.16,100.96)\fscx2500\fscy2500\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.23,0:15:23.27,signs,,0,0,0,,{\pos(493.62,100.83)\fscx2498.36\fscy2498.36\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.27,0:15:23.31,signs,,0,0,0,,{\pos(493.61,100.84)\fscx2498.55\fscy2498.55\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.31,0:15:23.36,signs,,0,0,0,,{\pos(493.59,100.84)\fscx2498.73\fscy2498.73\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.36,0:15:23.40,signs,,0,0,0,,{\pos(493.57,100.83)\fscx2498.92\fscy2498.92\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.40,0:15:23.44,signs,,0,0,0,,{\pos(493.56,100.82)\fscx2499.09\fscy2499.09\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.44,0:15:23.48,signs,,0,0,0,,{\pos(493.54,100.82)\fscx2499.3\fscy2499.3\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.48,0:15:23.52,signs,,0,0,0,,{\pos(493.53,100.83)\fscx2499.32\fscy2499.32\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.52,0:15:23.56,signs,,0,0,0,,{\pos(493.54,100.83)\fscx2499.09\fscy2499.09\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.56,0:15:23.61,signs,,0,0,0,,{\pos(493.54,100.83)\fscx2499.07\fscy2499.07\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.61,0:15:23.65,signs,,0,0,0,,{\pos(493.55,100.83)\fscx2498.84\fscy2498.84\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.65,0:15:23.69,signs,,0,0,0,,{\pos(493.55,100.83)\fscx2498.83\fscy2498.83\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.69,0:15:23.73,signs,,0,0,0,,{\pos(493.55,100.83)\fscx2498.86\fscy2498.86\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.73,0:15:23.77,signs,,0,0,0,,{\pos(487.94,77.27)\fscx2582.5\fscy2582.5\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.77,0:15:23.81,signs,,0,0,0,,{\pos(487.96,77.26)\fscx2582.38\fscy2582.38\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.79,0:15:25.69,Default,,0,0,0,,This one's about dung beetles.
+Dialogue: 0,0:15:23.81,0:15:23.86,signs,,0,0,0,,{\pos(487.96,77.27)\fscx2582.25\fscy2582.25\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.86,0:15:23.90,signs,,0,0,0,,{\pos(484.05,64.43)\fscx2595.43\fscy2595.43\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.90,0:15:23.94,signs,,0,0,0,,{\pos(484.07,64.43)\fscx2595.03\fscy2595.03\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.94,0:15:23.98,signs,,0,0,0,,{\pos(484.06,64.43)\fscx2595.25\fscy2595.25\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:23.98,0:15:24.02,signs,,0,0,0,,{\pos(483.37,54.17)\fscx2612.23\fscy2612.23\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.02,0:15:24.06,signs,,0,0,0,,{\pos(483.36,54.17)\fscx2612.23\fscy2612.23\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.06,0:15:24.11,signs,,0,0,0,,{\pos(483.36,54.17)\fscx2612.28\fscy2612.28\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.11,0:15:24.15,signs,,0,0,0,,{\pos(478.53,33.81)\fscx2733.83\fscy2733.83\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.15,0:15:24.19,signs,,0,0,0,,{\pos(478.51,33.81)\fscx2734.13\fscy2734.13\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.19,0:15:24.23,signs,,0,0,0,,{\pos(478.50,33.80)\fscx2734.38\fscy2734.38\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.23,0:15:24.27,signs,,0,0,0,,{\pos(476.83,22.75)\fscx2816.15\fscy2816.15\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.27,0:15:24.31,signs,,0,0,0,,{\pos(476.82,22.75)\fscx2816.4\fscy2816.4\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.31,0:15:24.36,signs,,0,0,0,,{\pos(476.80,22.74)\fscx2816.58\fscy2816.58\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.36,0:15:24.40,signs,,0,0,0,,{\pos(475.39,17.53)\fscx2852.43\fscy2852.43\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.40,0:15:24.44,signs,,0,0,0,,{\pos(475.38,17.52)\fscx2852.53\fscy2852.53\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:24.44,0:15:24.48,signs,,0,0,0,,{\pos(475.37,17.52)\fscx2852.63\fscy2852.63\fs2\c&H535B59&\b1\blur0.7}Dung Beetles
+Dialogue: 0,0:15:29.38,0:15:30.55,Default,,0,0,0,,They're so cute!{lolwut}{someone introduce her to aikawa ayumu, stat}
+Dialogue: 0,0:15:31.72,0:15:33.59,Default,,0,0,0,,{\i1}Why did you pick {\i0}that{\i1} one?
+Dialogue: 0,0:15:33.59,0:15:36.58,Default,,0,0,0,,Is there anything you'd like to see, Oreki?
+Dialogue: 0,0:15:40.41,0:15:42.42,signs,,0,0,0,,{\b1\fs30\c&H344CDA&\shad1.5\blur0.6\4c&H292E60&\pos(471,16)}Famous Castles of\N{\fs80\shad2.5\blur0.6\c&H354EDD&} Japan
+Dialogue: 0,0:15:40.69,0:15:42.42,Default,,0,0,0,,Well...
+Dialogue: 0,0:15:46.43,0:15:48.51,Default,,0,0,0,,Wow, isn't that castle huge? It's majestic.
+Dialogue: 0,0:15:48.91,0:15:51.76,Default,,0,0,0,,Your home's quite big too.
+Dialogue: 0,0:15:51.76,0:15:54.55,Default,,0,0,0,,Not quite this big.
+Dialogue: 0,0:15:54.91,0:15:58.02,Default,,0,0,0,,Maybe just a little bigger than average.
+Dialogue: 0,0:15:58.59,0:16:01.02,Default,,0,0,0,,{\i1}What exactly do you define as average?
+Dialogue: 0,0:16:05.73,0:16:06.57,Default,,0,0,0,,Any luck?
+Dialogue: 0,0:16:07.81,0:16:11.78,Default,,0,0,0,,They're in this file. Please take a look through it.
+Dialogue: 0,0:16:11.78,0:16:13.49,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:16:14.58,0:16:16.53,Default,,0,0,0,,Whoa, it's heavy.
+Dialogue: 0,0:16:28.49,0:16:29.97,Default,,0,0,0,,There's quite a few.
+Dialogue: 0,0:16:41.06,0:16:42.73,Default,,0,0,0,,This is the newspaper from May 9th!
+Dialogue: 0,0:16:43.19,0:16:49.00,Default,,0,0,0,,This is probably the day on which Ogi said he loved helicopters.
+Dialogue: 0,0:16:50.48,0:16:50.61,signs,,0,0,0,,{\c&H383D3C&\frz270\fs45\blur0.7\pos(763,364)\clip(m 752 665 l 746 642 736 593 723 544 716 511 635 522 602 662)}Two Kamiyama rangers in accident
+Dialogue: 0,0:16:50.61,0:16:50.86,signs,,0,0,0,,{\c&H383D3C&\frz270\fs45\blur0.7\pos(763,364)}Two Kamiyama rangers in accident
+Dialogue: 0,0:16:50.86,0:16:51.61,signs,,0,0,0,,{\c&H555C5B&\frz270\fs45\blur0.7\pos(763,364)}Two Kamiyama rangers in accident
+Dialogue: 0,0:16:51.23,0:16:51.61,Default,,0,0,0,,There.
+Dialogue: 0,0:16:51.61,0:16:55.45,signs,,0,0,0,,{\c&H555C5B&\q2\fs160\blur1.2\frz270.3\move(932,1157,932,-357,26,3821)}Two Kamiyama rangers in accident
+Dialogue: 0,0:16:59.31,0:17:02.67,Default,,0,0,0,,So... what does this mean?
+Dialogue: 0,0:17:03.74,0:17:07.83,Default,,0,0,0,,It means that Ogi had no particular love for helicopters.
+Dialogue: 0,0:17:15.67,0:17:20.72,Default,,0,0,0,,It's probably true that Ogi's been struck by lightning three times,{up to hanashi darou}
+Dialogue: 0,0:17:21.22,0:17:27.39,Default,,0,0,0,,but can you imagine that happening to an English teacher in this town?
+Dialogue: 0,0:17:28.07,0:17:30.56,Default,,0,0,0,,That's true.{up to sou desu ne}
+Dialogue: 0,0:17:31.39,0:17:33.81,Default,,0,0,0,,So I thought,
+Dialogue: 0,0:17:33.81,0:17:37.24,Default,,0,0,0,,what if he often goes somewhere with lots of lightning strikes?
+Dialogue: 0,0:17:38.90,0:17:40.74,Default,,0,0,0,,Up in the mountains, right?
+Dialogue: 0,0:17:44.58,0:17:47.49,Default,,0,0,0,,Is that what you guessed?
+Dialogue: 0,0:17:48.80,0:17:49.75,Default,,0,0,0,,Kind of.
+Dialogue: 0,0:17:51.82,0:17:56.62,Default,,0,0,0,,I thought, what if he wasn't just a teacher, but a mountaineer as well?
+Dialogue: 0,0:17:58.85,0:18:02.81,Default,,0,0,0,,I came here to make sure.
+Dialogue: 0,0:18:03.15,0:18:06.27,Default,,0,0,0,,Why would Ogi have paid special attention to that helicopter on that day?
+Dialogue: 0,0:18:07.12,0:18:09.94,Default,,0,0,0,,Because it must've had some special significance.
+Dialogue: 0,0:18:13.39,0:18:17.57,Default,,0,0,0,,Ogi was waiting for a helicopter to fly by.
+Dialogue: 0,0:18:17.92,0:18:19.82,Default,,0,0,0,,Which means?
+Dialogue: 0,0:18:20.45,0:18:26.56,Default,,0,0,0,,He must've been very nervous as to whether or not the helicopter would fly out.
+Dialogue: 0,0:18:27.17,0:18:30.83,Default,,0,0,0,,That's why he rushed to the window the moment he heard the noise.
+Dialogue: 0,0:18:31.60,0:18:36.17,Default,,0,0,0,,An English teacher being worried about a helicopter doesn't mean much.
+Dialogue: 0,0:18:37.73,0:18:42.18,Default,,0,0,0,,But if he was a mountaineer as well, that's a whole different story.
+Dialogue: 0,0:18:42.71,0:18:49.09,Default,,0,0,0,,Kamiyama is bordered by the Kamikakiuchi mountains,
+Dialogue: 0,0:18:50.64,0:18:54.37,Default,,0,0,0,,A mountaineer from the city was worried about a helicopter.
+Dialogue: 0,0:18:55.30,0:19:00.78,Default,,0,0,0,,It could've been for aerial photography, transporting supplies, or...{de nakareba}
+Dialogue: 0,0:19:01.35,0:19:03.03,Default,,0,0,0,,Or?
+Dialogue: 0,0:19:03.41,0:19:05.04,Default,,0,0,0,,An emergency.
+Dialogue: 0,0:19:08.58,0:19:11.04,signs,,0,0,0,,{\c&H719897&\fscy110\blur1.2\b1\frz303.1\pos(833.143,344.857)}...sudden {\c&H638F8E&}change in {\c&H54807F&}weather for the {\c&H3A6B6A&}worse...
+Dialogue: 0,0:19:09.76,0:19:11.04,Default,,0,0,0,,An emergency...
+Dialogue: 0,0:19:11.52,0:19:17.04,Default,,0,0,0,,This article says that on the 8th, the weather was so bad that helicopters couldn't fly.
+Dialogue: 0,0:19:18.60,0:19:20.05,Default,,0,0,0,,Yeah...
+Dialogue: 0,0:19:20.78,0:19:23.55,Default,,0,0,0,,Ogi was worried about whether the prefectural police helicopter would fly over us.
+Dialogue: 0,0:19:24.25,0:19:29.54,Default,,0,0,0,,Even during class, he had the weather conditions in the Kamikakiuchi mountains on his mind.
+Dialogue: 0,0:19:31.35,0:19:33.70,Default,,0,0,0,,If helicopters were able to fly, that meant the weather had improved.
+Dialogue: 0,0:19:33.70,0:19:37.57,Default,,0,0,0,,And if the weather had improved, the victims of the accident had a much greater chance of survival.
+Dialogue: 0,0:19:38.70,0:19:41.95,Default,,0,0,0,,I wonder how he must have felt at the time.
+Dialogue: 0,0:19:48.72,0:19:56.31,Default,,0,0,0,,I don't know how he felt, but I think I saw him smile.
+Dialogue: 0,0:19:59.90,0:20:04.39,Default,,0,0,0,,We had a look through the papers from the next few days too.
+Dialogue: 0,0:20:04.39,0:20:08.48,Default,,0,0,0,,The bodies of the two victims of the accident were found.
+Dialogue: 0,0:20:09.60,0:20:12.35,Default,,0,0,0,,And it was the prefectural police helicopter that found them.
+Dialogue: 0,0:20:27.36,0:20:28.44,Default,,0,0,0,,Um...
+Dialogue: 0,0:20:28.81,0:20:29.56,Default,,0,0,0,,Hm?
+Dialogue: 0,0:20:32.58,0:20:35.37,Default,,0,0,0,,Can I ask you a question?
+Dialogue: 0,0:20:36.00,0:20:37.00,Default,,0,0,0,,Go on.
+Dialogue: 0,0:20:37.60,0:20:39.63,Default,,0,0,0,,Why did you get so interested in this?
+Dialogue: 0,0:20:42.62,0:20:45.89,Default,,0,0,0,,Is it so strange for me to want to look something up myself?
+Dialogue: 0,0:20:46.14,0:20:51.58,Default,,0,0,0,,Well, yeah. I was thinking it wasn't like you at all.
+Dialogue: 0,0:20:51.58,0:20:57.19,Default,,0,0,0,,I guess. After all, I don't usually do anything I don't have to.
+Dialogue: 0,0:21:00.40,0:21:02.57,Default,,0,0,0,,Oh, that's not what I meant.
+Dialogue: 0,0:21:02.96,0:21:06.57,Default,,0,0,0,,{\i1}Damn, she just straight-out ignored my cool motto.
+Dialogue: 0,0:21:09.04,0:21:13.18,Default,,0,0,0,,You can work hard for other people's sakes.
+Dialogue: 0,0:21:13.18,0:21:15.84,Default,,0,0,0,,You've helped me a bunch of times as well.
+Dialogue: 0,0:21:15.84,0:21:17.73,Default,,0,0,0,,{\i1}This is a terrible misunderstanding you have here.
+Dialogue: 0,0:21:17.73,0:21:22.01,Default,,0,0,0,,But you don't really care about yourself, right?
+Dialogue: 0,0:21:22.23,0:21:26.47,Default,,0,0,0,,Then why did you bother confirming your own hunch today?
+Dialogue: 0,0:21:28.80,0:21:30.35,Default,,0,0,0,,Sorry,
+Dialogue: 0,0:21:30.71,0:21:33.31,Default,,0,0,0,,but I can't stop thinking about it!
+Dialogue: 0,0:21:38.50,0:21:43.07,Default,,0,0,0,,When I heard the lightning story from Satoshi, I had a bad feeling.
+Dialogue: 0,0:21:43.07,0:21:45.44,Default,,0,0,0,,Yes, you said that.
+Dialogue: 0,0:21:45.44,0:21:48.87,Default,,0,0,0,,So, I wanted to check if my intuition was correct.
+Dialogue: 0,0:21:49.20,0:21:53.41,Default,,0,0,0,,That's why I went to the library to investigate.{toshokan sa}
+Dialogue: 0,0:21:54.02,0:21:58.05,Default,,0,0,0,,It would've been different if it'd needed a week-long investigation or something,
+Dialogue: 0,0:21:58.05,0:22:01.81,Default,,0,0,0,,but looking through old newspapers isn't a big deal.
+Dialogue: 0,0:22:03.02,0:22:04.59,Default,,0,0,0,,I even had help.
+Dialogue: 0,0:22:05.09,0:22:08.85,Default,,0,0,0,,If my hunch was right, we'd need to be careful.
+Dialogue: 0,0:22:09.62,0:22:12.10,Default,,0,0,0,,Careful?
+Dialogue: 0,0:22:16.13,0:22:22.86,Default,,0,0,0,,If something like that had happened, Ogi couldn't just say he loved helicopters that easily.
+Dialogue: 0,0:22:23.33,0:22:27.07,Default,,0,0,0,,Unless he was really that insensitive. It's best to be careful with people like that.
+Dialogue: 0,0:22:32.18,0:22:34.18,Default,,0,0,0,,{\i1}Was it that difficult to understand?
+Dialogue: 0,0:22:37.55,0:22:40.17,Default,,0,0,0,,Insensitive as in,{are da}
+Dialogue: 0,0:22:40.97,0:22:43.67,Default,,0,0,0,,he has no idea how other people are feeling.
+Dialogue: 0,0:22:44.34,0:22:46.42,Default,,0,0,0,,Though I'll probably never meet him again,
+Dialogue: 0,0:22:47.00,0:22:49.01,Default,,0,0,0,,so it's not much of a concern.
+Dialogue: 0,0:22:51.15,0:22:52.38,Default,,0,0,0,,Oreki!
+Dialogue: 0,0:22:53.79,0:22:56.27,Default,,0,0,0,,That's... so...
+Dialogue: 0,0:23:02.85,0:23:04.27,Default,,0,0,0,,I can't put in words...
+Dialogue: 0,0:23:04.69,0:23:07.54,Default,,0,0,0,,{\i1}What's she trying to say?{ma ika}
+Dialogue: 0,0:23:07.54,0:23:12.66,Default,,0,0,0,,{\i1}If she can't put it in words, she wouldn't be able to tell me even if I asked.
+Dialogue: 0,0:23:13.15,0:23:14.93,Default,,0,0,0,,All right, let's call it a day.
+Dialogue: 0,0:23:14.93,0:23:17.07,Default,,0,0,0,,Thanks for your help.
+Dialogue: 0,0:23:17.07,0:23:18.66,Default,,0,0,0,,You're welcome.
+Dialogue: 0,0:23:20.97,0:23:24.92,Default,,0,0,0,,I'm glad I could see an unexpected side of you.
+Dialogue: 0,0:23:25.36,0:23:27.78,Default,,0,0,0,,Give me a break.
+Dialogue: 0,0:23:27.78,0:23:28.76,Default,,0,0,0,,Sorry...
+Dialogue: 0,0:23:33.59,0:23:35.14,Default,,0,0,0,,See you tomorrow!
+Dialogue: 0,0:23:40.62,0:23:44.40,Default,,0,0,0,,It'll be totally dark by the time she gets home.
+Dialogue: 0,0:23:46.40,0:23:51.01,Default,,0,0,0,,She came along of her own free will. I didn't ask her to.
+Dialogue: 0,0:23:51.73,0:23:52.66,Default,,0,0,0,,But still...
+Dialogue: 0,0:23:53.50,0:23:56.88,Default,,0,0,0,,I guess I owe her one.
+Dialogue: 0,0:23:59.79,0:23:59.83,Default,,0,0,0,,{ED}
+Dialogue: 0,0:24:14.01,0:24:18.72,ED,,0,0,0,,{\fad(0,300)}The situation is unscientific
+Dialogue: 0,0:24:19.68,0:24:22.69,ED,,0,0,0,,{\fad(150,0)}A montage of emotions
+Dialogue: 0,0:24:22.69,0:24:25.27,ED,,0,0,0,,Who's calling who?
+Dialogue: 0,0:24:25.27,0:24:29.48,ED,,0,0,0,,You look away when our eyes are about to meet
+Dialogue: 0,0:24:29.48,0:24:31.32,ED top,,0,0,0,,I can feel it
+Dialogue: 0,0:24:31.32,0:24:33.57,ED,,0,0,0,,Am I just imagining things? It's so cold of you
+Dialogue: 0,0:24:33.57,0:24:39.12,ED,,0,0,0,,It takes talent to read minds
+Dialogue: 0,0:24:39.12,0:24:40.29,ED,,0,0,0,,{\fad(0,250)}You know
+Dialogue: 0,0:24:39.99,0:24:41.62,ED top,,0,0,0,,{\fad(200,200)}You know
+Dialogue: 0,0:24:41.08,0:24:43.04,ED,,0,0,0,,{\fad(200,200)}I wanna know
+Dialogue: 0,0:24:42.83,0:24:44.67,ED top,,0,0,0,,{\fad(200,200)}Don't you?
+Dialogue: 0,0:24:44.08,0:24:53.80,ED,,0,0,0,,{\fad(200,300)}I'll fix the fire of youth in your heart while I can
+Dialogue: 0,0:24:50.88,0:24:55.64,ED top,,0,0,0,,{\fad(200,300)}If we can do it today why leave it for tomorrow
+Dialogue: 0,0:24:55.64,0:25:01.22,ED,,0,0,0,,I want to solve your mystery
+Dialogue: 0,0:25:01.22,0:25:06.52,ED,,0,0,0,,{\fad(0,300)}Look for the back of the boy, burdened with secrets
+Dialogue: 0,0:25:05.94,0:25:07.61,ED top,,0,0,0,,{\fad(200,200)}Even today
+Dialogue: 0,0:25:06.90,0:25:12.19,ED,,0,0,0,,{\fad(150,0)}You are a fantasy and I'm drawn to you
+Dialogue: 0,0:25:12.19,0:25:16.36,ED,,0,0,0,,This growing curiosity
+Dialogue: 0,0:25:16.36,0:25:19.16,ED,,0,0,0,,There's no twist in the story
+Dialogue: 0,0:25:19.16,0:25:20.58,ED,,0,0,0,,I can't stop thinking about it
+Dialogue: 0,0:25:20.58,0:25:23.58,ED,,0,0,0,,It's so interesting
+Dialogue: 0,0:25:23.58,0:25:26.12,ED,,0,0,0,,{\fad(0,350)}But why?
+Dialogue: 0,0:25:34.84,0:25:38.14,Default,,0,0,0,,Next time: Those Whom It May Concern.
+Dialogue: 0,0:25:36.05,0:25:39.76,next episode,,0,0,0,,{\fad(402,0)\blur1.3\c&HFFFFF8&\pos(640,270)}Those Whom It May Concern

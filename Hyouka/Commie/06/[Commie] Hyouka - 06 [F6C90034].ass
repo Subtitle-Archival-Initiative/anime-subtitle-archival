@@ -1,0 +1,505 @@
+﻿[Script Info]
+Title: Hyouka 06
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 0
+Active Line: 0
+Audio URI: hyouka06_premux.mkv
+Video File: hyouka06_premux.mkv
+Video Aspect Ratio: c1.77778
+Video Position: 31
+Last Style Storage: Default
+Keyframes File: keyframe.log
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Caxton Std Book,50,&H00F1F4F9,&H000000FF,&H000F1115,&H96000000,-1,0,0,0,97,100,1,0,1,2.2,0.6,2,80,80,35,1
+Style: Title,Janda Curlygirl Chunky,80,&H00010001,&H000000FF,&H000F1115,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: ep title,Century,40,&H00EEF0EF,&H000000FF,&H000F201B,&H96000000,-1,0,0,0,95,100,0,0,1,1.2,0,8,10,10,10,1
+Style: next episode,Century,50,&H00EEF0EF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
+Style: eyecatch big,Century Gothic,60,&H00000000,&H000000FF,&H001B1C2D,&H96000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: eyecatch small,Sansation,25,&H00000000,&H000000FF,&H001B1C2D,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: signs,Caxton Std Book,50,&H00F1F4F9,&H000000FF,&H000F1115,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: OP,NewBaskerville,50,&H00F1F4F9,&H000000FF,&H000F1115,&H96000000,0,0,0,0,100,100,0,0,1,2,0,2,50,50,25,1
+Style: ED,second breakfast,60,&H00FFFFFF,&H000000FF,&H00C8625B,&H96000000,0,0,0,0,100,100,0,0,1,2,0,2,40,40,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.27,0:00:03.06,Default,,0,0,0,,So, under the Roman Republic,
+Dialogue: 0,0:00:03.31,0:00:08.19,Default,,0,0,0,,the tribes occupied the important government offices.
+Dialogue: 0,0:00:08.44,0:00:11.90,Default,,0,0,0,,In Rome there was a clear difference between the two castes:
+Dialogue: 0,0:00:11.90,0:00:15.32,Default,,0,0,0,,the nobles, called the "patricians",
+Dialogue: 0,0:00:14.95,0:00:16.24,Default,,0,0,0,,{\an8\i1}I'm bored.
+Dialogue: 0,0:00:15.32,0:00:18.24,Default,,0,0,0,,and the common folk and farmers, called the "plebs".
+Dialogue: 0,0:00:18.79,0:00:24.42,Default,,0,0,0,,The two consuls, the dictator and the three hundred senators
+Dialogue: 0,0:00:24.42,0:00:27.09,Default,,0,0,0,,were all chosen from the ranks of the nobles.
+Dialogue: 0,0:00:27.09,0:00:30.80,Default,,0,0,0,,The Senate was the highest institute of legislation,
+Dialogue: 0,0:00:30.80,0:00:31.88,Default,,0,0,0,,and the popularity of the Sena—
+Dialogue: 0,0:00:32.84,0:00:33.80,Default,,0,0,0,,What?
+Dialogue: 0,0:00:34.84,0:00:37.43,Default,,0,0,0,,Is that Mr. Omichi from Class A?
+Dialogue: 0,0:00:37.43,0:00:38.89,Default,,0,0,0,,I'd say so.
+Dialogue: 0,0:00:44.39,0:00:47.11,Default,,0,0,0,,It really is Class A. I wonder what happened?
+Dialogue: 0,0:00:47.11,0:00:49.77,Default,,0,0,0,,Who knows? I guess Omichi is just going nuts again.
+Dialogue: 0,0:01:03.71,0:01:05.42,Default,,0,0,0,,{\i1}Is that... Chitanda?
+Dialogue: 0,0:01:14.88,0:01:16.34,Default,,0,0,0,,Right.
+Dialogue: 0,0:01:16.68,0:01:18.97,Default,,0,0,0,,Let's continue with the class.
+Dialogue: 0,0:01:19.35,0:01:21.43,Default,,0,0,0,,Where was I again?
+Dialogue: 0,0:01:21.89,0:01:23.31,Default,,0,0,0,,Ah, the Senate.
+Dialogue: 0,0:01:24.14,0:01:27.90,Default,,0,0,0,,The Senate was the highest institute of legislation...
+Dialogue: 0,0:01:27.90,0:01:27.90,Default,,0,0,0,,{OP}
+Dialogue: 0,0:01:28.77,0:01:34.24,OP,,0,0,0,,{\fad(150,250)}Bored, sitting on the windowsill,
+Dialogue: 0,0:01:34.24,0:01:42.37,OP,,0,0,0,,{\fad(0,250)}I frown at the wind to hide my awkwardness
+Dialogue: 0,0:01:42.58,0:01:50.46,Title,,0,0,0,,{\fad(280,0)\blur3\t(0,989,2,\blur0.5)}Hyouka
+Dialogue: 0,0:01:50.46,0:01:55.55,OP,,0,0,0,,{\fad(0,250)}I nod uncertainly as I shape
+Dialogue: 0,0:01:55.88,0:02:01.26,OP,,0,0,0,,the future in my hands feeling mighty
+Dialogue: 0,0:02:01.26,0:02:06.43,OP,,0,0,0,,{\fad(0,250)}I feel that the wind is bringing change
+Dialogue: 0,0:02:06.81,0:02:11.52,OP,,0,0,0,,I guess that's your fault for calling out to my heart
+Dialogue: 0,0:02:13.27,0:02:18.61,OP,,0,0,0,,{\fad(150,250)}The cloudy sky tells a tale of what's to come
+Dialogue: 0,0:02:18.61,0:02:27.12,OP,,0,0,0,,{\fad(150,0)}Spread our wings with more courage than ever before
+Dialogue: 0,0:02:27.12,0:02:31.71,OP,,0,0,0,,Light and dark are still vague in the distance
+Dialogue: 0,0:02:31.71,0:02:38.01,OP,,0,0,0,,but still we want to know the reason behind kindness
+Dialogue: 0,0:02:38.01,0:02:42.55,OP,,0,0,0,,No one so far has ever reached
+Dialogue: 0,0:02:42.55,0:02:45.43,OP,,0,0,0,,the shining distance far beyond
+Dialogue: 0,0:02:45.43,0:02:54.02,OP,,0,0,0,,{\fad(0,350)}Let's get there before the past takes it all
+Dialogue: 0,0:02:58.70,0:03:02.82,ep title,,0,0,0,,{\fad(1063,221)\blur2\clip(30,556,69,599)\t(0,1482,\clip(30,556,800,599)\t(4575,5090,\clip(800,566,800,599)))\3c&H303035&\pos(228,552)\t(3732,4130,\clip(305,556,450,600)}To Commit a Grave Sin
+Dialogue: 0,0:02:59.11,0:03:00.24,signs,,0,0,0,,{\fs35\fax0.72\fnComfortaa\b1\c&H253235&\blur0.7\org(851,312)\frz335.3\pos(631,310)\frx18\fry12}Earth {\fax0.7\c&H212C2B&}Sci. Prep. {\fax0.6\c&H1F292C&}room
+Dialogue: 0,0:03:00.53,0:03:03.16,Default,,0,0,0,,This was all your idea to start with, Fuku!
+Dialogue: 0,0:03:05.95,0:03:08.50,Default,,0,0,0,,Mayaka, please calm down.
+Dialogue: 0,0:03:08.50,0:03:10.00,Default,,0,0,0,,You shut up, Chi.
+Dialogue: 0,0:03:10.58,0:03:13.38,Default,,0,0,0,,I don't care if you had a reason! This is going too far!
+Dialogue: 0,0:03:12.46,0:03:16.75,Default,,0,0,0,,{\an8}{chi}Oh right, Mayaka, would you like some cookies?
+Dialogue: 0,0:03:13.38,0:03:15.96,Default,,0,0,0,,{ma}At least pick up the damn phone!
+Dialogue: 0,0:03:15.96,0:03:19.17,Default,,0,0,0,,{ma}You can back out if you have to, just give me a call or something!
+Dialogue: 0,0:03:18.38,0:03:20.63,Default,,0,0,0,,{\an8}{chi}Uh... Umm...
+Dialogue: 0,0:03:19.17,0:03:20.63,Default,,0,0,0,,{ma}You {\i1}do{\i0} have a phone, don't you?
+Dialogue: 0,0:03:20.63,0:03:22.76,Default,,0,0,0,,{\an8}{chi}Should I go get some milk, then?
+Dialogue: 0,0:03:20.63,0:03:24.01,Default,,0,0,0,,{ma}If it were just me then I wouldn't really care!
+Dialogue: 0,0:03:24.01,0:03:26.18,Default,,0,0,0,,{ma}Don't make that face! Just listen to me, dammit!
+Dialogue: 0,0:03:26.64,0:03:28.56,Default,,0,0,0,,{ma}Don't you get the big picture here?!
+Dialogue: 0,0:03:27.64,0:03:30.48,Default,,0,0,0,,{\an8\i1}{ho}A reckless person... Chitanda Eru.
+Dialogue: 0,0:03:28.56,0:03:30.85,Default,,0,0,0,,{ma}Just apologizing to me isn't gonna make this right!
+Dialogue: 0,0:03:31.27,0:03:36.48,Default,,0,0,0,,{ma}It's ridiculous that someone so smart lacks the most basic consideration!
+Dialogue: 0,0:03:33.65,0:03:34.81,Default,,0,0,0,,{\an8\i1}{ho}You can't do a thing about it.
+Dialogue: 0,0:03:36.48,0:03:38.78,Default,,0,0,0,,{ma}You knew what was going to happen, and still you said nothing!
+Dialogue: 0,0:03:39.15,0:03:43.57,Default,,0,0,0,,{ma}It was raining, and windy, and it even started to hail!
+Dialogue: 0,0:03:43.95,0:03:46.87,Default,,0,0,0,,{ma}I bet you wouldn't have noticed even if you showed up,
+Dialogue: 0,0:03:46.87,0:03:49.45,Default,,0,0,0,,{ma}but I actually bothered to pick some clothes out,
+Dialogue: 0,0:03:49.45,0:03:51.46,Default,,0,0,0,,{ma}and then I got soaked! Soaked! Do you get that?!
+Dialogue: 0,0:03:51.46,0:03:54.00,Default,,0,0,0,,{ma}And this is all {\i1}whose{\i0} fault? Guess who! It's yours!
+Dialogue: 0,0:03:53.04,0:03:54.00,Default,,0,0,0,,{\an8}Aren't you tired yet?
+Dialogue: 0,0:03:55.50,0:03:56.42,Default,,0,0,0,,I kinda am.
+Dialogue: 0,0:03:56.42,0:03:58.00,Default,,0,0,0,,At least stop to breathe in between.
+Dialogue: 0,0:03:58.00,0:03:59.05,Default,,0,0,0,,Will do.
+Dialogue: 0,0:04:04.39,0:04:06.55,Default,,0,0,0,,{\i1}I didn't do that for {\i0}your{\i1} sake.
+Dialogue: 0,0:04:07.18,0:04:10.31,Default,,0,0,0,,Wow, you sure know how to get mad.
+Dialogue: 0,0:04:10.31,0:04:12.23,Default,,0,0,0,,Is this how you relieve your stress?
+Dialogue: 0,0:04:12.23,0:04:16.61,Default,,0,0,0,,If you showed a little consideration I wouldn't get stressed to begin with.
+Dialogue: 0,0:04:16.61,0:04:17.98,Default,,0,0,0,,Ah, well...
+Dialogue: 0,0:04:17.98,0:04:20.65,Default,,0,0,0,,Still, you should take lessons from Chitanda.
+Dialogue: 0,0:04:20.65,0:04:22.15,Default,,0,0,0,,I've never even seen her get angry.
+Dialogue: 0,0:04:23.74,0:04:31.91,Default,,0,0,0,,Now that you mention it, I've never seen you or Oreki get angry either.
+Dialogue: 0,0:04:31.91,0:04:33.66,Default,,0,0,0,,Fuku does get angry.
+Dialogue: 0,0:04:33.66,0:04:35.21,Default,,0,0,0,,Satoshi can get really angry.
+Dialogue: 0,0:04:37.75,0:04:39.05,Default,,0,0,0,,Really?
+Dialogue: 0,0:04:39.59,0:04:41.05,Default,,0,0,0,,I guess.
+Dialogue: 0,0:04:41.05,0:04:43.63,Default,,0,0,0,,I don't do it as enthusiastically as Mayaka,
+Dialogue: 0,0:04:43.63,0:04:44.51,Default,,0,0,0,,but sometimes I blow my top.
+Dialogue: 0,0:04:45.13,0:04:48.76,Default,,0,0,0,,I can't really imagine you actually getting angry...
+Dialogue: 0,0:04:48.76,0:04:50.77,Default,,0,0,0,,I'm only human, you know?
+Dialogue: 0,0:04:50.77,0:04:52.06,Default,,0,0,0,,Sometimes I get mad.
+Dialogue: 0,0:04:52.06,0:04:56.35,Default,,0,0,0,,{\i1}He just acts all uppity and tries to hide his emotions.
+Dialogue: 0,0:04:53.10,0:04:54.60,Default,,0,0,0,,{\an8}Really?
+Dialogue: 0,0:04:57.06,0:04:59.36,Default,,0,0,0,,Even when he gets mad, he's not scary at all.
+Dialogue: 0,0:04:59.36,0:05:00.53,Default,,0,0,0,,Not at all?
+Dialogue: 0,0:05:01.19,0:05:02.94,Default,,0,0,0,,Taking me lightly, huh?
+Dialogue: 0,0:05:03.53,0:05:06.49,Default,,0,0,0,,I might be... interested in that.
+Dialogue: 0,0:05:07.28,0:05:13.00,Default,,0,0,0,,{\i1}I can totally imagine Chitanda coming up with some scheme to make Satoshi angry.
+Dialogue: 0,0:05:13.33,0:05:14.33,Default,,0,0,0,,{\i1}I expect great things.
+Dialogue: 0,0:05:14.83,0:05:16.37,Default,,0,0,0,,Do you get angry too, Oreki?
+Dialogue: 0,0:05:18.38,0:05:20.38,Default,,0,0,0,,Oreki? Angry? No way in hell.
+Dialogue: 0,0:05:20.38,0:05:22.17,Default,,0,0,0,,Because he's a nice guy, right?
+Dialogue: 0,0:05:23.21,0:05:26.84,Default,,0,0,0,,Because he's so pitifully dull that he can't even summon the energy to get angry.
+Dialogue: 0,0:05:27.09,0:05:30.35,Default,,0,0,0,,{\i1}Hey, isn't that a bit too harsh?
+Dialogue: 0,0:05:30.35,0:05:32.06,Default,,0,0,0,,{\i1}Oh, I got angry at that!
+Dialogue: 0,0:05:32.64,0:05:35.23,Default,,0,0,0,,Well, Houtarou's lack of emotions aside,
+Dialogue: 0,0:05:35.23,0:05:38.94,Default,,0,0,0,,Chitanda's on a totally different level when it comes to not getting angry.
+Dialogue: 0,0:05:39.36,0:05:42.69,Default,,0,0,0,,I don't know if it's just a matter of tolerance, but you should try to be
+Dialogue: 0,0:05:42.69,0:05:45.07,Default,,0,0,0,,more calm, just like Chitanda.
+Dialogue: 0,0:05:45.07,0:05:48.61,Default,,0,0,0,,That's a lot easier said than done.
+Dialogue: 0,0:05:49.07,0:05:50.70,Default,,0,0,0,,I could never be as calm as Chi.
+Dialogue: 0,0:05:50.99,0:05:53.83,Default,,0,0,0,,Um... You're not praising me, right?
+Dialogue: 0,0:05:54.20,0:05:56.25,Default,,0,0,0,,Well, I'd say we kind of are.
+Dialogue: 0,0:05:56.25,0:05:59.21,Default,,0,0,0,,They're just making observations. It's not a matter of "good" or "bad".
+Dialogue: 0,0:05:59.21,0:06:02.13,Default,,0,0,0,,Actually, as long as it's not because you {\i1}can't{\i0} get angry,
+Dialogue: 0,0:06:02.13,0:06:04.30,Default,,0,0,0,,being able to stay calm is a good thing.
+Dialogue: 0,0:06:04.92,0:06:07.34,Default,,0,0,0,,Anger is a grave sin.{title ref}
+Dialogue: 0,0:06:07.34,0:06:10.01,Default,,0,0,0,,You should treat me better than that, Mayaka.
+Dialogue: 0,0:06:10.47,0:06:11.01,Default,,0,0,0,,A sin?
+Dialogue: 0,0:06:11.35,0:06:13.39,Default,,0,0,0,,It's one of the seven deadly sins.
+Dialogue: 0,0:06:13.39,0:06:15.89,Default,,0,0,0,,That's it! Nice one, Chitanda!
+Dialogue: 0,0:06:15.89,0:06:18.90,Default,,0,0,0,,They're pretty famous, so I bet you've heard about them too, right, Mayaka?
+Dialogue: 0,0:06:19.35,0:06:22.11,Default,,0,0,0,,Yeah, I know that much at least.
+Dialogue: 0,0:06:22.11,0:06:24.23,Default,,0,0,0,,Weren't there 108 sins?
+Dialogue: 0,0:06:24.61,0:06:26.32,Default,,0,0,0,,You're thinking of worldly desires.
+Dialogue: 0,0:06:26.32,0:06:27.45,Default,,0,0,0,,Whatever.
+Dialogue: 0,0:06:27.45,0:06:28.15,Default,,0,0,0,,Um...
+Dialogue: 0,0:06:28.65,0:06:31.74,Default,,0,0,0,,Anger, pride, gluttony, greed...
+Dialogue: 0,0:06:33.16,0:06:35.87,Default,,0,0,0,,Envy, lust and sloth{ and 8thSin}{w}, right?
+Dialogue: 0,0:06:35.87,0:06:36.45,Default,,0,0,0,,That's it!
+Dialogue: 0,0:06:36.95,0:06:38.54,Default,,0,0,0,,Sloth, huh?
+Dialogue: 0,0:06:38.83,0:06:40.21,Default,,0,0,0,,{\i1}What're you looking at {\i0}me{\i1} for?
+Dialogue: 0,0:06:40.42,0:06:42.59,Default,,0,0,0,,But then you're perfect, Chi!
+Dialogue: 0,0:06:43.38,0:06:45.55,Default,,0,0,0,,You're hard-working, you don't eat much...
+Dialogue: 0,0:06:45.55,0:06:47.01,Default,,0,0,0,,Oh, c'mon...
+Dialogue: 0,0:06:47.01,0:06:49.84,Default,,0,0,0,,I can't imagine you being greedy, and you're very diligent.
+Dialogue: 0,0:06:49.84,0:06:50.59,Default,,0,0,0,,But...
+Dialogue: 0,0:06:50.59,0:06:53.51,Default,,0,0,0,,And you're not... lewd, either.
+Dialogue: 0,0:06:53.51,0:06:54.47,Default,,0,0,0,,But...
+Dialogue: 0,0:06:54.47,0:06:56.72,Default,,0,0,0,,And you show no signs of envy.
+Dialogue: 0,0:06:57.10,0:06:58.73,Default,,0,0,0,,{\i1}They're not praising her anymore.
+Dialogue: 0,0:06:58.73,0:07:01.10,Default,,0,0,0,,{\i1}It's more like they're making fun of how perfect she is.
+Dialogue: 0,0:07:01.35,0:07:02.77,Default,,0,0,0,,Please, stop that!
+Dialogue: 0,0:07:02.98,0:07:06.19,Default,,0,0,0,,Besides, sometimes when I get hungry I eat a whole lot!
+Dialogue: 0,0:07:03.15,0:07:05.23,Default,,0,0,0,,{\an8}Yeah, envy doesn't fit her at all.
+Dialogue: 0,0:07:06.53,0:07:07.40,Default,,0,0,0,,{\i1}That's no surprise.
+Dialogue: 0,0:07:07.74,0:07:09.61,Default,,0,0,0,,It's time we welcomed Saint Eru!
+Dialogue: 0,0:07:10.15,0:07:12.99,Default,,0,0,0,,Her name even sounds like an angel's, right?
+Dialogue: 0,0:07:13.45,0:07:16.16,Default,,0,0,0,,Uriel, Gabriel, Chitanda Eriel...
+Dialogue: 0,0:07:18.75,0:07:20.00,Default,,0,0,0,,Please, stop it!
+Dialogue: 0,0:07:21.96,0:07:23.17,Default,,0,0,0,,She got angry.
+Dialogue: 0,0:07:23.17,0:07:25.21,Default,,0,0,0,,She told us off.
+Dialogue: 0,0:07:25.75,0:07:27.76,Default,,0,0,0,,Sorry, sorry, Chi!
+Dialogue: 0,0:07:27.76,0:07:28.84,Default,,0,0,0,,Whatever.
+Dialogue: 0,0:07:29.88,0:07:33.43,Default,,0,0,0,,See, now you've gone and made her mad!
+Dialogue: 0,0:07:33.43,0:07:35.89,Default,,0,0,0,,You were totally into it as well!
+Dialogue: 0,0:07:38.18,0:07:41.48,Default,,0,0,0,,I don't think that people should never get angry.
+Dialogue: 0,0:07:42.19,0:07:44.69,Default,,0,0,0,,That applies to the other deadly sins as well.
+Dialogue: 0,0:07:46.65,0:07:49.57,Default,,0,0,0,,For example, I think that pride and greed are also important.
+Dialogue: 0,0:07:50.03,0:07:50.82,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:07:51.57,0:07:54.28,Default,,0,0,0,,If someone didn't have any pride,
+Dialogue: 0,0:07:54.28,0:07:56.74,Default,,0,0,0,,wouldn't they also be lacking in self-confidence?
+Dialogue: 0,0:07:57.33,0:07:59.70,Default,,0,0,0,,If someone was free of greed,
+Dialogue: 0,0:07:59.70,0:08:03.17,Default,,0,0,0,,wouldn't they have trouble supporting their family?
+Dialogue: 0,0:08:04.08,0:08:07.25,Default,,0,0,0,,And if people didn't envy one another,
+Dialogue: 0,0:08:07.25,0:08:10.17,Default,,0,0,0,,wouldn't they stop inventing new things?
+Dialogue: 0,0:08:12.38,0:08:16.80,Default,,0,0,0,,Um... You don't have to pay such close attention...
+Dialogue: 0,0:08:17.81,0:08:19.56,Default,,0,0,0,,I see. That's pretty interesting.
+Dialogue: 0,0:08:19.81,0:08:22.10,Default,,0,0,0,,Moderation in all things, right?
+Dialogue: 0,0:08:22.56,0:08:30.53,Default,,0,0,0,,I don't think the concept of "deadly sins" can be applied to our lives that simply.
+Dialogue: 0,0:08:30.53,0:08:34.32,Default,,0,0,0,,So you think that getting angry isn't a bad thing?
+Dialogue: 0,0:08:34.32,0:08:35.24,Default,,0,0,0,,Yes.
+Dialogue: 0,0:08:35.70,0:08:38.08,Default,,0,0,0,,Wouldn't you say that if you can't get angry about anything,
+Dialogue: 0,0:08:38.08,0:08:40.58,Default,,0,0,0,,you can't really love anything either?
+Dialogue: 0,0:08:40.91,0:08:42.54,Default,,0,0,0,,{\i1}I can get angry.
+Dialogue: 0,0:08:43.96,0:08:47.50,Default,,0,0,0,,But if that's the case, how come you don't get angry?
+Dialogue: 0,0:08:47.50,0:08:48.75,Default,,0,0,0,,It's too tiring.
+Dialogue: 0,0:08:49.09,0:08:50.63,Default,,0,0,0,,I'd rather save my energy.
+Dialogue: 0,0:09:01.56,0:09:04.69,Default,,0,0,0,,Chi-Chitanda's been infected by Houtarou!
+Dialogue: 0,0:09:04.69,0:09:08.40,Default,,0,0,0,,An evil spirit is haunting Kamiyama High!
+Dialogue: 0,0:09:08.40,0:09:10.40,Default,,0,0,0,,It's known only as... "the low-energy lifestyle"!
+Dialogue: 0,0:09:10.40,0:09:12.19,Default,,0,0,0,,Chi, please come to your senses!
+Dialogue: 0,0:09:12.19,0:09:14.24,Default,,0,0,0,,{\i1}Feel free to shut up any time.
+Dialogue: 0,0:09:14.78,0:09:15.91,Default,,0,0,0,,I'm just kidding.
+Dialogue: 0,0:09:17.87,0:09:18.95,Default,,0,0,0,,I'm just kidding.
+Dialogue: 0,0:09:21.66,0:09:22.87,Default,,0,0,0,,{\i1}Kidding, huh?
+Dialogue: 0,0:09:22.87,0:09:25.71,Default,,0,0,0,,{\i1}And here I thought I'd found my soulmate.
+Dialogue: 0,0:09:26.12,0:09:28.58,Default,,0,0,0,,Sorry. It was a spur-of-the-moment thing.
+Dialogue: 0,0:09:31.34,0:09:33.26,Default,,0,0,0,,It's not like I never get angry.
+Dialogue: 0,0:09:33.26,0:09:34.47,Default,,0,0,0,,I can get angry.
+Dialogue: 0,0:09:36.05,0:09:38.97,Default,,0,0,0,,Let's see, for example...
+Dialogue: 0,0:09:42.18,0:09:44.98,Default,,0,0,0,,I get angry if I see people wasting food!
+Dialogue: 0,0:09:44.98,0:09:47.65,Default,,0,0,0,,Each grain of rice is a drop of sweat!{proverb}
+Dialogue: 0,0:09:49.06,0:09:51.98,Default,,0,0,0,,{\i1}She's from a family of farmers all right.
+Dialogue: 0,0:09:51.98,0:09:53.19,Default,,0,0,0,,{\i1}That reminds me...
+Dialogue: 0,0:09:53.78,0:09:55.15,Default,,0,0,0,,Speaking of getting angry,
+Dialogue: 0,0:09:55.15,0:09:58.53,Default,,0,0,0,,weren't you the one who got angry in Omichi's class during fifth period?
+Dialogue: 0,0:10:02.62,0:10:03.37,Default,,0,0,0,,That's right!
+Dialogue: 0,0:10:04.62,0:10:06.54,Default,,0,0,0,,How could I even forget?
+Dialogue: 0,0:10:07.67,0:10:11.67,Default,,0,0,0,,I meant to ask you about it!
+Dialogue: 0,0:10:11.67,0:10:12.63,Default,,0,0,0,,{\i1}Damn.
+Dialogue: 0,0:10:12.88,0:10:22.85,Default,,0,0,0,,Can't stop thinking... Can't stop thinking...{loop}
+Dialogue: 0,0:10:25.14,0:10:26.81,Default,,0,0,0,,Well, I'm gonna head home.
+Dialogue: 0,0:10:29.27,0:10:32.48,Default,,0,0,0,,I meant to ask you about it!
+Dialogue: 0,0:10:36.61,0:10:38.11,Default,,0,0,0,,Did something happen?
+Dialogue: 0,0:10:38.11,0:10:39.03,Default,,0,0,0,,Yes!
+Dialogue: 0,0:10:39.49,0:10:42.28,Default,,0,0,0,,During my fifth period math class,
+Dialogue: 0,0:10:42.70,0:10:44.79,Default,,0,0,0,,I got angry!
+Dialogue: 0,0:10:46.12,0:10:47.75,Default,,0,0,0,,You did?
+Dialogue: 0,0:10:47.75,0:10:53.42,Default,,0,0,0,,But I don't understand what made me get angry.
+Dialogue: 0,0:10:53.67,0:10:56.21,Default,,0,0,0,,That almost never happens to me at all,
+Dialogue: 0,0:10:56.84,0:11:00.26,Default,,0,0,0,,so something must have set me off.
+Dialogue: 0,0:11:00.26,0:11:03.22,Default,,0,0,0,,But I don't know what it was!
+Dialogue: 0,0:11:05.97,0:11:06.77,Default,,0,0,0,,What?
+Dialogue: 0,0:11:07.02,0:11:09.94,Default,,0,0,0,,I don't understand what—
+Dialogue: 0,0:11:13.36,0:11:15.65,Default,,0,0,0,,Anyway, I can't stop thinking about it!
+Dialogue: 1,0:11:16.90,0:11:19.90,eyecatch small,,0,0,0,,{\blur0.7\pos(272,192)}A prelude to the scorching days of {mid}summer.
+Dialogue: 1,0:11:16.90,0:11:18.49,eyecatch big,,0,0,0,,{\fad(0,641)\blur1.5\pos(644,62)}Gentle Heat
+Dialogue: 0,0:11:16.90,0:11:18.49,eyecatch big,,0,0,0,,{\fad(0,641)\bord0\blur1.5\pos(644,62)\t(1446,1670,\blur5)}Gentle Heat
+Dialogue: 0,0:11:18.49,0:11:19.90,Title,,0,0,0,,{\fs70\fad(777,0)\blur5\c&H000000&\b1\t(0,400,\blur1)\pos(635,54)}Hyouka
+Dialogue: 0,0:11:22.91,0:11:25.49,Default,,0,0,0,,I had math class during fifth period today.
+Dialogue: 0,0:11:25.99,0:11:27.91,Default,,0,0,0,,Mr. Omichi is the teacher.
+Dialogue: 0,0:11:28.41,0:11:33.63,Default,,0,0,0,,Oreki and Fukube know what kind of a person he is, I think,
+Dialogue: 0,0:11:34.04,0:11:36.42,Default,,0,0,0,,but I'll explain from the beginning anyway.
+Dialogue: 0,0:11:36.88,0:11:37.80,Default,,0,0,0,,Um...
+Dialogue: 0,0:11:38.67,0:11:42.84,Default,,0,0,0,,He arrived to class right when the bell rung.
+Dialogue: 0,0:11:42.84,0:11:44.85,signs,,0,0,0,,{\an7\pos(0,0)\bord0\blur1\p1\c&H5CE3E2&}m 797 217 l 797 223 l 791 218 l 781 228 l 780 230 l 774 240 l 769 255 l 767 260 l 764 271 l 764 278 l 764 289 l 764 296 l 764 307 l 766 322 l 767 327 l 769 336 l 774 351 l 780 362 l 788 371 l 798 372 l 811 354 l 816 341 l 819 328 l 820 316 l 820 313 l 821 300 l 821 296 l 821 283 l 819 260 l 817 245 l 809 227
+Dialogue: 1,0:11:42.84,0:11:44.85,signs,,0,0,0,,{\an5\fs38\blur0.8\c&H3C4745&\fnObelixPro\frz265.6\frx6\fry16\pos(793,291)}Omichi
+Dialogue: 0,0:11:43.09,0:11:46.97,Default,,0,0,0,,Before he entered the classroom, he paused for a moment
+Dialogue: 0,0:11:44.85,0:11:47.06,signs,,0,0,0,,{\an7\pos(0,0)\bord0\blur1\p1\c&H5CE3E2&}m 857 216 l 849 216 l 844 218 l 838 222 l 823 240 l 819 248 l 817 252 l 814 261 l 811 270 l 809 282 l 807 301 l 807 315 l 813 341 l 817 349 l 822 353 l 848 352 l 852 348 l 856 343 l 864 332 l 869 322 l 875 309 l 880 293 l 884 266 l 884 248 l 877 229 l 866 219
+Dialogue: 1,0:11:44.85,0:11:47.06,signs,,0,0,0,,{\an5\fs38\blur0.8\c&H3C4745&\fnObelixPro\frx6\fry16\frz252.7\pos(846,281)}Omichi
+Dialogue: 0,0:11:46.97,0:11:48.97,Default,,0,0,0,,to check the sign outside.
+Dialogue: 0,0:11:49.60,0:11:52.10,Default,,0,0,0,,That's not the first time he's done that, though.
+Dialogue: 0,0:11:53.40,0:11:57.02,Default,,0,0,0,,Firstly, he wrote a quadratic equation on the blackboard.
+Dialogue: 0,0:11:57.78,0:11:59.03,Default,,0,0,0,,Oh, right.
+Dialogue: 0,0:11:59.03,0:12:01.28,Default,,0,0,0,,The equation was quite simple,
+Dialogue: 0,0:12:00.90,0:12:05.74,signs,,0,0,0,,{\fs80\blur1.2\1a&H30&\fnpencilPete FONT\b1\c&HBCCAC1&\frz12.09\pos(954,544)}Range
+Dialogue: 0,0:12:01.28,0:12:05.37,Default,,0,0,0,,but the range of {\i1}x{\i0} was restricted.
+Dialogue: 0,0:12:05.74,0:12:05.99,signs,,0,0,0,,{\an7\pos(0,0)\bord0\blur1\p1\c&H59CECC&}m 879 218 l 868 217 l 860 221 l 854 227 l 848 238 l 846 245 l 845 253 l 845 262 l 850 275 l 853 282 l 875 292 l 884 292 l 893 288 l 899 282 l 904 270 l 905 264 l 906 254 l 906 251 l 902 244 l 895 232 l 883 220
+Dialogue: 1,0:12:05.74,0:12:05.99,signs,,0,0,0,,{\an5\fs20\blur0.7\c&H3C4745&\fnObelixPro\frz265.6\frx6\fry16\pos(875,255)}Omichi
+Dialogue: 0,0:12:05.99,0:12:12.62,Default,,0,0,0,,Then, he called on Kawasaki to draw the range of {\i1}y{\i0} on the plane.
+Dialogue: 0,0:12:05.99,0:12:06.99,signs,,0,0,0,,{\an7\bord0\blur1\p1\c&H59CECC&\pos(0,0)}m 890 216 l 877 216 l 868 221 l 860 227 l 854 237 l 853 247 l 853 255 l 853 262 l 857 274 l 861 281 l 876 292 l 892 292 l 903 285 l 907 280 l 911 268 l 912 261 l 912 252 l 911 249 l 909 242 l 901 230
+Dialogue: 1,0:12:05.99,0:12:06.99,signs,,0,0,0,,{\an5\fs20\blur0.7\c&H3C4745&\fnObelixPro\frz265.6\frx6\fry16\pos(883,254)}Omichi
+Dialogue: 0,0:12:06.99,0:12:07.99,signs,,0,0,0,,{\an7\bord0\blur1\p1\c&H59CECC&\pos(-3,-1)}m 890 216 l 877 216 l 868 221 l 860 227 l 854 237 l 853 247 l 853 255 l 853 262 l 857 274 l 861 281 l 876 292 l 892 292 l 903 285 l 907 280 l 911 268 l 912 261 l 912 252 l 911 249 l 909 242 l 901 230
+Dialogue: 1,0:12:06.99,0:12:07.99,signs,,0,0,0,,{\an5\fs20\blur0.7\c&H3C4745&\fnObelixPro\frz265.6\frx6\fry16\pos(880,253)}Omichi
+Dialogue: 0,0:12:07.99,0:12:08.99,signs,,0,0,0,,{\an7\bord0\blur1\p1\c&H59CECC&\pos(0,0)}m 890 216 l 877 216 l 868 221 l 860 227 l 854 237 l 853 247 l 853 255 l 853 262 l 857 274 l 861 281 l 876 292 l 892 292 l 903 285 l 907 280 l 911 268 l 912 261 l 912 252 l 911 249 l 909 242 l 901 230
+Dialogue: 1,0:12:07.99,0:12:08.99,signs,,0,0,0,,{\an5\fs20\blur0.7\c&H3C4745&\fnObelixPro\frz265.6\frx6\fry16\pos(883,254)}Omichi
+Dialogue: 0,0:12:08.99,0:12:10.00,signs,,0,0,0,,{\an7\bord0\blur1\p1\c&H59CECC&\pos(-3,-1)}m 890 216 l 877 216 l 868 221 l 860 227 l 854 237 l 853 247 l 853 255 l 853 262 l 857 274 l 861 281 l 876 292 l 892 292 l 903 285 l 907 280 l 911 268 l 912 261 l 912 252 l 911 249 l 909 242 l 901 230
+Dialogue: 1,0:12:08.99,0:12:10.00,signs,,0,0,0,,{\an5\fs20\blur0.7\c&H3C4745&\fnObelixPro\frz265.6\frx6\fry16\pos(880,253)}Omichi
+Dialogue: 0,0:12:10.00,0:12:11.00,signs,,0,0,0,,{\an7\bord0\blur1\p1\c&H59CECC&\pos(-1,0)}m 890 216 l 877 216 l 868 221 l 860 227 l 854 237 l 853 247 l 853 255 l 853 262 l 857 274 l 861 281 l 876 292 l 892 292 l 903 285 l 907 280 l 911 268 l 912 261 l 912 252 l 911 249 l 909 242 l 901 230
+Dialogue: 1,0:12:10.00,0:12:11.00,signs,,0,0,0,,{\an5\fs20\blur0.7\c&H3C4745&\fnObelixPro\frz265.6\frx6\fry16\pos(882,254)}Omichi
+Dialogue: 0,0:12:11.00,0:12:12.00,signs,,0,0,0,,{\an7\bord0\blur1\p1\c&H59CECC&\pos(-3,-1)}m 890 216 l 877 216 l 868 221 l 860 227 l 854 237 l 853 247 l 853 255 l 853 262 l 857 274 l 861 281 l 876 292 l 892 292 l 903 285 l 907 280 l 911 268 l 912 261 l 912 252 l 911 249 l 909 242 l 901 230
+Dialogue: 1,0:12:11.00,0:12:12.00,signs,,0,0,0,,{\an5\fs20\blur0.7\c&H3C4745&\fnObelixPro\frz265.6\frx6\fry16\pos(880,253)}Omichi
+Dialogue: 0,0:12:12.00,0:12:12.62,signs,,0,0,0,,{\an7\bord0\blur1\p1\c&H59CECC&\pos(-1,0)}m 890 216 l 877 216 l 868 221 l 860 227 l 854 237 l 853 247 l 853 255 l 853 262 l 857 274 l 861 281 l 876 292 l 892 292 l 903 285 l 907 280 l 911 268 l 912 261 l 912 252 l 911 249 l 909 242 l 901 230
+Dialogue: 1,0:12:12.00,0:12:12.62,signs,,0,0,0,,{\an5\fs20\blur0.7\c&H3C4745&\fnObelixPro\frz265.6\frx6\fry16\pos(882,254)}Omichi
+Dialogue: 0,0:12:13.08,0:12:15.96,Default,,0,0,0,,Kawasaki clearly had trouble with it.
+Dialogue: 0,0:12:15.96,0:12:17.09,Default,,0,0,0,,Which made sense,
+Dialogue: 0,0:12:17.09,0:12:21.01,Default,,0,0,0,,because we hadn't even covered range in class yet.
+Dialogue: 0,0:12:22.05,0:12:25.14,Default,,0,0,0,,Kawasaki said he didn't know.
+Dialogue: 0,0:12:25.59,0:12:29.97,Default,,0,0,0,,The teacher got angry when he heard that and started railing at us.
+Dialogue: 0,0:12:30.85,0:12:34.60,Default,,0,0,0,,The next person he called was Tamura, who's really good at math,
+Dialogue: 0,0:12:34.90,0:12:37.90,Default,,0,0,0,,but he didn't know either.
+Dialogue: 0,0:12:38.32,0:12:43.90,Default,,0,0,0,,That was when I realized that he'd forgotten where our class was up to.
+Dialogue: 0,0:12:44.53,0:12:48.41,Default,,0,0,0,,The others realized it too, and the classroom got a bit noisy.
+Dialogue: 0,0:12:48.83,0:12:52.87,Default,,0,0,0,,The teacher got even angrier and launched into a harsh tirade.
+Dialogue: 0,0:12:54.04,0:12:55.17,Default,,0,0,0,,That's right,
+Dialogue: 0,0:12:55.17,0:12:58.59,Default,,0,0,0,,he kept hitting the blackboard as if to punctuate his rant.
+Dialogue: 0,0:12:59.42,0:13:03.38,Default,,0,0,0,,I think there were people in my class who could've solved the problem,
+Dialogue: 0,0:13:03.38,0:13:05.34,Default,,0,0,0,,but everyone kept quiet.
+Dialogue: 0,0:13:06.09,0:13:11.43,Default,,0,0,0,,Then he called Tamura again, told him to stand up and started yelling at him.
+Dialogue: 0,0:13:12.02,0:13:14.44,Default,,0,0,0,,That's when I stood up.
+Dialogue: 0,0:13:14.77,0:13:19.69,Default,,0,0,0,,I asked him to double-check where we were up to in the curriculum.
+Dialogue: 0,0:13:19.98,0:13:20.77,Default,,0,0,0,,Right,
+Dialogue: 0,0:13:20.77,0:13:23.11,Default,,0,0,0,,that's when I got angry.
+Dialogue: 0,0:13:24.95,0:13:26.82,Default,,0,0,0,,Then what happened?
+Dialogue: 0,0:13:26.82,0:13:30.12,Default,,0,0,0,,Well, he looked at his book,
+Dialogue: 0,0:13:30.12,0:13:33.79,Default,,0,0,0,,mumbled "Oh, I see," and a few words of apology,
+Dialogue: 0,0:13:33.79,0:13:37.79,Default,,0,0,0,,told Tamura to sit down, and the rest of the class went on as normal.
+Dialogue: 0,0:13:38.38,0:13:40.59,Default,,0,0,0,,He's that kind of teacher, huh?
+Dialogue: 0,0:13:40.59,0:13:47.01,Default,,0,0,0,,You can't even imagine how much trouble he caused me after the midterms!
+Dialogue: 0,0:13:47.01,0:13:50.72,Default,,0,0,0,,We had teachers like him in elementary and junior high too.
+Dialogue: 0,0:13:50.72,0:13:52.85,Default,,0,0,0,,He's not a bad teacher.
+Dialogue: 0,0:13:53.10,0:13:55.98,Default,,0,0,0,,And your poor grades aren't his fault.
+Dialogue: 0,0:13:55.98,0:13:57.31,Default,,0,0,0,,Try to shape up before finals.
+Dialogue: 0,0:13:59.31,0:14:01.82,Default,,0,0,0,,So that's my story. What do you think?
+Dialogue: 0,0:14:04.69,0:14:06.99,Default,,0,0,0,,What's strange about it?
+Dialogue: 0,0:14:12.95,0:14:18.58,Default,,0,0,0,,Right, I wanted to ask you why he'd make a mistake like that!
+Dialogue: 0,0:14:18.58,0:14:21.63,Default,,0,0,0,,He's usually a lot more careful.
+Dialogue: 0,0:14:22.38,0:14:23.71,Default,,0,0,0,,That's true.
+Dialogue: 0,0:14:23.71,0:14:28.43,Default,,0,0,0,,Omichi is hard on his students, but he's hard on himself as well.
+Dialogue: 0,0:14:28.43,0:14:31.39,Default,,0,0,0,,So why would he make such a mistake?
+Dialogue: 0,0:14:31.39,0:14:32.64,Default,,0,0,0,,I don't get it.
+Dialogue: 0,0:14:32.97,0:14:34.85,Default,,0,0,0,,Neither do I.
+Dialogue: 0,0:14:35.10,0:14:35.89,Default,,0,0,0,,Oreki!
+Dialogue: 0,0:14:36.14,0:14:36.93,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:14:36.93,0:14:41.98,Default,,0,0,0,,If you want to know, go ask him if you can take a look inside his head.
+Dialogue: 0,0:14:41.98,0:14:44.02,Default,,0,0,0,,I would've done that already if I could!
+Dialogue: 0,0:14:44.02,0:14:46.57,Default,,0,0,0,,I see. Too bad.
+Dialogue: 0,0:14:46.57,0:14:47.61,Default,,0,0,0,,Better give up.
+Dialogue: 0,0:14:47.61,0:14:49.53,Default,,0,0,0,,But I can't stop thinking about it!
+Dialogue: 0,0:14:49.53,0:14:51.49,Default,,0,0,0,,You should think about it as well!
+Dialogue: 0,0:14:51.49,0:14:52.87,Default,,0,0,0,,{\i1}Why me?
+Dialogue: 0,0:14:53.24,0:14:57.12,Default,,0,0,0,,I just know you'll be able to figure it out!
+Dialogue: 0,0:14:57.79,0:15:00.46,Default,,0,0,0,,Get rid of that can-do attitude.
+Dialogue: 0,0:15:00.71,0:15:04.38,Default,,0,0,0,,There's no point expecting so much from him, Chi.
+Dialogue: 0,0:15:04.38,0:15:06.46,Default,,0,0,0,,He was a grasshopper in his previous life.
+Dialogue: 0,0:15:07.05,0:15:09.05,Default,,0,0,0,,Mayaka, you know about people's past lives?
+Dialogue: 0,0:15:09.38,0:15:11.14,Default,,0,0,0,,{\i1}That got her attention! Good one, Ibara!
+Dialogue: 0,0:15:11.97,0:15:14.35,Default,,0,0,0,,But right now, I'm still wondering about today's class.
+Dialogue: 0,0:15:14.60,0:15:16.06,Default,,0,0,0,,{\i1}Dammit. There's no shaking her.
+Dialogue: 0,0:15:16.52,0:15:18.73,Default,,0,0,0,,I can't stop thinking about it!
+Dialogue: 0,0:15:26.57,0:15:30.49,Default,,0,0,0,,I often see him writing in his notebook after class.
+Dialogue: 0,0:15:30.49,0:15:32.61,Default,,0,0,0,,Why do you think he does that?
+Dialogue: 0,0:15:32.61,0:15:36.41,Default,,0,0,0,,I think he must be noting down where the class is up to.
+Dialogue: 0,0:15:36.41,0:15:37.74,Default,,0,0,0,,I agree.
+Dialogue: 0,0:15:37.74,0:15:42.12,Default,,0,0,0,,That's why he double-checks which class is written on the sign beforehand.
+Dialogue: 0,0:15:42.62,0:15:47.13,Default,,0,0,0,,It sounds like a foolproof system, so how could he have made that mistake?
+Dialogue: 0,0:15:47.13,0:15:48.88,Default,,0,0,0,,{\i1}If he's taking notes,
+Dialogue: 0,0:15:49.34,0:15:54.55,Default,,0,0,0,,{\i1}I suppose he'd write something like "Page 15, 1st July, Class A".
+Dialogue: 0,0:15:54.55,0:15:58.56,Default,,0,0,0,,{\i1}Otherwise, he'd forget where they were up to.
+Dialogue: 0,0:15:58.56,0:16:00.52,Default,,0,0,0,,What if he just read the wrong day's entry?
+Dialogue: 0,0:16:01.10,0:16:04.61,Default,,0,0,0,,Then he'd revisit old material, not something new.
+Dialogue: 0,0:16:04.61,0:16:05.94,Default,,0,0,0,,Use your brain.
+Dialogue: 0,0:16:07.27,0:16:08.73,Default,,0,0,0,,{\i1}That's right.
+Dialogue: 0,0:16:09.65,0:16:11.99,Default,,0,0,0,,Do you mind if I ask you something?
+Dialogue: 0,0:16:11.99,0:16:13.24,Default,,0,0,0,,Sure, go on.
+Dialogue: 0,0:16:13.61,0:16:16.37,Default,,0,0,0,,I understand why you'd get angry,
+Dialogue: 0,0:16:16.37,0:16:20.91,Default,,0,0,0,,but even then you wouldn't normally speak out against a teacher like him.
+Dialogue: 0,0:16:20.91,0:16:22.37,Default,,0,0,0,,So why'd you do it?
+Dialogue: 0,0:16:22.87,0:16:24.54,Default,,0,0,0,,I got angry,
+Dialogue: 0,0:16:24.54,0:16:28.55,Default,,0,0,0,,but I don't think it was because of how mean he was.
+Dialogue: 0,0:16:29.05,0:16:31.97,Default,,0,0,0,,Then, was it because the students who could've solved it stayed quiet too?
+Dialogue: 0,0:16:31.97,0:16:32.80,Default,,0,0,0,,No,
+Dialogue: 0,0:16:33.51,0:16:37.51,Default,,0,0,0,,I don't think anyone would have volunteered at a time like that.
+Dialogue: 0,0:16:37.51,0:16:41.06,Default,,0,0,0,,Then, was it because no one else told him that he was wrong?
+Dialogue: 0,0:16:41.85,0:16:42.48,Default,,0,0,0,,No...
+Dialogue: 0,0:16:45.48,0:16:47.81,Default,,0,0,0,,Could it be because you felt sorry for Tamura?
+Dialogue: 0,0:16:50.03,0:16:52.32,Default,,0,0,0,,I did feel sorry for him,
+Dialogue: 0,0:16:52.32,0:16:55.82,Default,,0,0,0,,but that wouldn't have made me angry.
+Dialogue: 0,0:16:55.82,0:16:58.45,Default,,0,0,0,,After all, it'd be understandable for a teacher to tell off a student
+Dialogue: 0,0:16:58.45,0:17:02.83,Default,,0,0,0,,who didn't seem to have learned anything from the previous class.{from the teacher's point of view}
+Dialogue: 0,0:17:03.33,0:17:06.50,Default,,0,0,0,,But I don't know why I got angry.
+Dialogue: 0,0:17:09.84,0:17:12.09,Default,,0,0,0,,It's hard to analyze myself like that.
+Dialogue: 0,0:17:13.55,0:17:14.34,Default,,0,0,0,,I guess.
+Dialogue: 0,0:17:14.88,0:17:18.35,Default,,0,0,0,,{\i1}What makes Chitanda angry, and what makes her happy?
+Dialogue: 0,0:17:18.89,0:17:22.85,Default,,0,0,0,,{\i1}I don't know her well enough to judge that.
+Dialogue: 0,0:17:23.35,0:17:25.19,Default,,0,0,0,,What do you think, Oreki?
+Dialogue: 0,0:17:28.27,0:17:33.74,Default,,0,0,0,,{\i1}Omichi probably does take notes of the class's progress in his book.
+Dialogue: 0,0:17:34.19,0:17:36.28,Default,,0,0,0,,{\i1}And yet, he still made a mistake.
+Dialogue: 0,0:17:36.91,0:17:38.82,Default,,0,0,0,,{\i1}He was ahead of the class,
+Dialogue: 0,0:17:38.82,0:17:41.03,Default,,0,0,0,,{\i1}which means there must have been a note saying the class
+Dialogue: 0,0:17:41.03,0:17:43.87,Default,,0,0,0,,{\i1}was up to a page further on in the textbook.
+Dialogue: 0,0:17:44.54,0:17:49.08,Default,,0,0,0,,Your class hasn't studied range yet, right?
+Dialogue: 0,0:17:49.63,0:17:51.21,Default,,0,0,0,,That's right.
+Dialogue: 0,0:17:51.50,0:17:54.46,Default,,0,0,0,,What if you actually had?
+Dialogue: 0,0:17:55.51,0:17:57.09,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:17:57.55,0:18:00.51,Default,,0,0,0,,Omichi teaches math every year.
+Dialogue: 0,0:18:00.51,0:18:03.02,Default,,0,0,0,,Last year's 1-A must've learned it by this point.
+Dialogue: 0,0:18:04.31,0:18:08.48,Default,,0,0,0,,Sadly, simply getting the year wrong won't cut it as an explanation here.
+Dialogue: 0,0:18:08.77,0:18:10.23,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:18:10.23,0:18:13.82,Default,,0,0,0,,The teachers are issued new textbooks every year.
+Dialogue: 0,0:18:14.40,0:18:18.74,Default,,0,0,0,,They need to keep up with any minor changes made to the students' editions, after all.
+Dialogue: 0,0:18:19.36,0:18:22.99,Default,,0,0,0,,Omichi is using the fourth edition, which was published this year.
+Dialogue: 0,0:18:23.70,0:18:25.41,Default,,0,0,0,,I see.
+Dialogue: 0,0:18:25.41,0:18:28.08,Default,,0,0,0,,You're a real cornucopia of useless facts, aren't you?
+Dialogue: 0,0:18:28.58,0:18:29.83,Default,,0,0,0,,Please, call me a database.
+Dialogue: 0,0:18:33.50,0:18:38.51,Default,,0,0,0,,{\i1}What if Omichi took so many notes that he simply got them mixed up?
+Dialogue: 0,0:18:38.51,0:18:42.30,Default,,0,0,0,,{\i1}No, Chitanda wouldn't believe that.
+Dialogue: 0,0:18:46.22,0:18:48.35,Default,,0,0,0,,I don't understand this "range" thing either, though.
+Dialogue: 0,0:18:48.98,0:18:53.57,Default,,0,0,0,,I have a hard enough time just writing {\i1}x{\i0} and {\i1}y{\i0} on a plane.
+Dialogue: 0,0:18:54.19,0:18:57.36,Default,,0,0,0,,I'd have a pretty hard time if Omichi called me out.
+Dialogue: 0,0:18:57.99,0:18:58.57,Default,,0,0,0,,Wait a moment.
+Dialogue: 0,0:18:59.49,0:19:02.32,Default,,0,0,0,,Class D's already learning about range?
+Dialogue: 0,0:19:02.82,0:19:04.24,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:19:04.70,0:19:08.04,Default,,0,0,0,,{\i1}So Satoshi's class is already up to range,
+Dialogue: 0,0:19:08.04,0:19:11.67,Default,,0,0,0,,{\i1}but not Chitanda's class or mine.
+Dialogue: 0,0:19:12.50,0:19:13.92,Default,,0,0,0,,I see.
+Dialogue: 0,0:19:15.25,0:19:18.59,Default,,0,0,0,,Your face says you figured something out.
+Dialogue: 0,0:19:18.59,0:19:19.59,Default,,0,0,0,,I guess.
+Dialogue: 0,0:19:20.22,0:19:21.05,Default,,0,0,0,,Chitanda.
+Dialogue: 0,0:19:21.05,0:19:21.68,Default,,0,0,0,,Yes?
+Dialogue: 0,0:19:21.68,0:19:27.06,Default,,0,0,0,,We can say for sure that there was a note specifying a later page in the book.
+Dialogue: 0,0:19:27.39,0:19:28.81,Default,,0,0,0,,Yeah, I agree.
+Dialogue: 0,0:19:28.81,0:19:34.56,Default,,0,0,0,,And we know that the note related to the progress of a class from this year.
+Dialogue: 0,0:19:34.94,0:19:35.69,Default,,0,0,0,,Yes.{goddamn individually wrapped biscuits}
+Dialogue: 0,0:19:36.94,0:19:41.07,Default,,0,0,0,,Then, what if the note wasn't about your class at all?
+Dialogue: 0,0:19:41.57,0:19:45.08,Default,,0,0,0,,What if it was meant to record the progress of Satoshi's class?
+Dialogue: 0,0:19:45.08,0:19:45.99,Default,,0,0,0,,My class?
+Dialogue: 0,0:19:50.12,0:19:54.79,Default,,0,0,0,,Omichi is teaching classes A, B, C, and D.
+Dialogue: 0,0:19:54.79,0:19:56.67,Default,,0,0,0,,Just because it wasn't A or B,
+Dialogue: 0,0:19:57.17,0:19:59.46,Default,,0,0,0,,doesn't mean it had to be D.
+Dialogue: 0,0:19:59.46,0:20:02.72,Default,,0,0,0,,And what's so special about D?
+Dialogue: 0,0:20:04.01,0:20:07.81,Default,,0,0,0,,I wouldn't be surprised if he mistook D for A.
+Dialogue: 0,0:20:09.47,0:20:12.23,Default,,0,0,0,,There's no way you could mistake the letter C for an A, though.
+Dialogue: 0,0:20:12.23,0:20:15.36,Default,,0,0,0,,Huh? You're just talking nonsense again.
+Dialogue: 0,0:20:15.36,0:20:17.73,Default,,0,0,0,,You couldn't mistake the letter D for an A either.
+Dialogue: 0,0:20:17.73,0:20:19.86,Default,,0,0,0,,Omichi is a math teacher.
+Dialogue: 0,0:20:19.86,0:20:20.61,Default,,0,0,0,,So what?
+Dialogue: 0,0:20:21.74,0:20:26.41,Default,,0,0,0,,A math teacher would be more likely to mistake the letter D for A.
+Dialogue: 0,0:20:26.62,0:20:27.49,Default,,0,0,0,,Huh?
+Dialogue: 0,0:20:29.33,0:20:50.97,signs,,0,0,0,,{\blur0.5\c&H636364&\fnThrow My Hands Up in the Air\pos(997,522)}Oreki Houtarou's drawing
+Dialogue: 0,0:20:29.79,0:20:38.13,Default,,0,0,0,,Let's say Omichi wrote "Page 10, 1st July, A" and "Page 15, 1st July, D"...
+Dialogue: 0,0:20:38.13,0:20:40.30,Default,,0,0,0,,What if he did?
+Dialogue: 0,0:20:40.30,0:20:42.47,Default,,0,0,0,,There's still no room for mistake there.
+Dialogue: 0,0:20:42.47,0:20:47.05,Default,,0,0,0,,If he got the A and D confused, that would explain it.
+Dialogue: 0,0:20:48.56,0:20:50.97,Default,,0,0,0,,It would, but how could he?
+Dialogue: 0,0:20:50.97,0:20:53.85,Default,,0,0,0,,Because a math teacher would write them like this.
+Dialogue: 0,0:20:58.02,0:21:00.48,Default,,0,0,0,,Ah, he'd write A and D in lowercase!
+Dialogue: 0,0:21:00.86,0:21:01.78,Default,,0,0,0,,I see!
+Dialogue: 0,0:21:03.57,0:21:05.16,Default,,0,0,0,,That's possible.
+Dialogue: 0,0:21:05.16,0:21:10.49,Default,,0,0,0,,I lost marks on my English exam because the teacher couldn't tell them apart.
+Dialogue: 0,0:21:10.83,0:21:12.62,Default,,0,0,0,,Oh? You too, Mayaka?
+Dialogue: 0,0:21:13.12,0:21:16.29,Default,,0,0,0,,Though, it was N and H for me.
+Dialogue: 0,0:21:16.29,0:21:19.17,Default,,0,0,0,,Yeah. That's definitely possible!
+Dialogue: 0,0:21:19.75,0:21:20.92,Default,,0,0,0,,{\i1}I guess that's it.
+Dialogue: 0,0:21:24.47,0:21:25.59,Default,,0,0,0,,A and D...
+Dialogue: 0,0:21:26.22,0:21:28.47,Default,,0,0,0,,I can't blame him for getting them confused.
+Dialogue: 0,0:21:28.47,0:21:33.23,Default,,0,0,0,,I was too harsh on him, I guess.
+Dialogue: 0,0:21:33.23,0:21:35.44,Default,,0,0,0,,I was in the wrong.
+Dialogue: 0,0:21:37.19,0:21:39.73,Default,,0,0,0,,Eh, why do you say that?
+Dialogue: 0,0:21:39.73,0:21:43.28,Default,,0,0,0,,{\i1}He{\i0} was in the wrong! You were right to tell him off!
+Dialogue: 0,0:21:43.28,0:21:44.44,Default,,0,0,0,,To begin with, you're—
+Dialogue: 0,0:21:44.44,0:21:45.70,Default,,0,0,0,,Come on.
+Dialogue: 0,0:21:45.70,0:21:46.91,Default,,0,0,0,,It's already rather late.
+Dialogue: 0,0:21:47.32,0:21:48.91,Default,,0,0,0,,Should we get going?
+Dialogue: 0,0:21:49.95,0:21:51.12,Default,,0,0,0,,But, Fuku!
+Dialogue: 0,0:21:51.12,0:21:52.74,Default,,0,0,0,,Come on, Mayaka.
+Dialogue: 0,0:21:52.74,0:21:54.45,Default,,0,0,0,,The mystery's been solved, after all.
+Dialogue: 0,0:21:54.45,0:21:56.33,Default,,0,0,0,,That's not it!
+Dialogue: 0,0:21:56.71,0:21:57.87,Default,,0,0,0,,Fuku!
+Dialogue: 0,0:21:59.17,0:22:01.46,Default,,0,0,0,,{\i1}Chitanda got angry despite herself,
+Dialogue: 0,0:22:01.46,0:22:03.46,Default,,0,0,0,,{\i1}and wanted to know the reason why.
+Dialogue: 0,0:22:04.05,0:22:06.88,Default,,0,0,0,,{\i1}Despite what she said before about anger not being a bad thing,
+Dialogue: 0,0:22:07.34,0:22:11.89,Default,,0,0,0,,{\i1}in truth, she doesn't want to get angry herself.
+Dialogue: 0,0:22:12.64,0:22:15.85,Default,,0,0,0,,{\an8}Houtarou, Chiatanda, let's get going!
+Dialogue: 0,0:22:12.93,0:22:15.85,Default,,0,0,0,,{\i1}She wanted to know why
+Dialogue: 0,0:22:15.85,0:22:17.94,Default,,0,0,0,,{\i1}because she believed there must have been a reason for Omichi's anger,
+Dialogue: 0,0:22:16.39,0:22:18.56,Default,,0,0,0,,{\an8}Right, I'll tidy up!
+Dialogue: 0,0:22:18.48,0:22:22.98,Default,,0,0,0,,{\i1}and wanted to consider her own anger to be her fault alone.
+Dialogue: 0,0:22:23.94,0:22:27.40,Default,,0,0,0,,{\i1}That's the kind of thing Chitanda Eru would do, right?
+Dialogue: 0,0:22:28.11,0:22:29.20,Default,,0,0,0,,{\i1}Nah,
+Dialogue: 0,0:22:30.12,0:22:33.24,Default,,0,0,0,,{\i1}what do I even know about Chitanda in the first place?
+Dialogue: 0,0:22:35.29,0:22:37.96,Default,,0,0,0,,{\i1}Even if I can predict what she'll do,
+Dialogue: 0,0:22:38.42,0:22:41.59,Default,,0,0,0,,{\i1}I can't actually figure out what's going on in her head.
+Dialogue: 0,0:22:42.25,0:22:43.55,Default,,0,0,0,,{\i1}I know what this is all about.
+Dialogue: 0,0:22:44.21,0:22:46.17,Default,,0,0,0,,{\i1}One of the seven deadly sins...
+Dialogue: 0,0:22:46.84,0:22:48.30,Default,,0,0,0,,{\i1}Pride.
+Dialogue: 0,0:22:48.93,0:22:51.22,Default,,0,0,0,,{\i1}I gotta remember to be more careful.
+Dialogue: 0,0:22:52.10,0:22:54.39,Default,,0,0,0,,{\i1}How many times has she surprised me
+Dialogue: 0,0:22:54.39,0:22:57.35,Default,,0,0,0,,{\i1}just in this one day?
+Dialogue: 0,0:22:57.35,0:22:58.35,Default,,0,0,0,,Oreki!
+Dialogue: 0,0:22:59.02,0:23:00.15,Default,,0,0,0,,Aren't you going home?
+Dialogue: 0,0:23:00.73,0:23:02.94,Default,,0,0,0,,Oh, right. I am.
+Dialogue: 0,0:23:04.57,0:23:05.53,Default,,0,0,0,,Oreki,
+Dialogue: 0,0:23:06.57,0:23:08.19,Default,,0,0,0,,thank you.
+Dialogue: 0,0:23:09.32,0:23:12.74,Default,,0,0,0,,You're always helping me out with my troubles.
+Dialogue: 0,0:23:14.08,0:23:16.12,Default,,0,0,0,,Now if only someone could help me with mine...
+Dialogue: 0,0:23:20.37,0:23:22.54,Default,,0,0,0,,What are you two doing?
+Dialogue: 0,0:23:22.54,0:23:23.42,Default,,0,0,0,,Aren't you coming as well?
+Dialogue: 0,0:23:24.88,0:23:26.67,Default,,0,0,0,,Yeah, we're leaving now!
+Dialogue: 0,0:23:27.30,0:23:28.55,Default,,0,0,0,,Shall we?
+Dialogue: 0,0:23:35.47,0:23:38.35,Default,,0,0,0,,{\i1}I'll just deal with the rest tomorrow.
+Dialogue: 0,0:23:38.93,0:23:40.14,Default,,0,0,0,,Oreki!
+Dialogue: 0,0:23:40.64,0:23:44.40,Default,,0,0,0,,{sa}That's true for you, Mayaka, but think about it for a moment.
+Dialogue: 0,0:23:47.86,0:23:51.86,Default,,0,0,0,,{\i1}And thus, another day of my high school life was wasted.
+Dialogue: 0,0:23:52.74,0:23:54.78,Default,,0,0,0,,{\i1}As for my deadly sins,
+Dialogue: 0,0:23:54.78,0:23:57.45,Default,,0,0,0,,{\i1}sloth is more than enough for me.
+Dialogue: 0,0:23:58.70,0:23:58.75,Default,,0,0,0,,{ED}
+Dialogue: 0,0:24:00.79,0:24:07.55,ED,,0,0,0,,{\fad(100,300)\blur2}Let us meet in a blissful dream tonight, let it be our love
+Dialogue: 0,0:24:07.55,0:24:11.55,ED,,0,0,0,,{\fad(100,200)\blur2}Find me, I beg you
+Dialogue: 0,0:24:11.55,0:24:16.64,ED,,0,0,0,,{\fad(100,350)\blur2}We promised to meet, drifting in and out of sleep
+Dialogue: 0,0:24:29.03,0:24:37.78,ED,,0,0,0,,{\fad(100,200)\blur2}This sprouting warmth confuses us
+Dialogue: 0,0:24:39.87,0:24:48.71,ED,,0,0,0,,{\fad(100,150)\blur2}Don't you understand this feeling yet?
+Dialogue: 0,0:24:49.30,0:24:54.80,ED,,0,0,0,,{\fad(100,150)\blur2}Normally such random glances hold no meaning
+Dialogue: 0,0:24:54.80,0:25:00.14,ED,,0,0,0,,{\fad(100,450)\blur2}Isn't it the same when making friends?
+Dialogue: 0,0:25:00.14,0:25:05.90,ED,,0,0,0,,{\fad(100,150)\blur2}The little shooting stars we wish upon, vanishing into the dawn
+Dialogue: 0,0:25:05.90,0:25:10.86,ED,,0,0,0,,{\fad(100,150)\blur2}are a magic that only unfolds in the night
+Dialogue: 0,0:25:10.86,0:25:17.66,ED,,0,0,0,,{\fad(100,150)\blur2}Let us meet in a blissful dream tonight, let it be our love
+Dialogue: 0,0:25:17.66,0:25:21.66,ED,,0,0,0,,{\fad(200,150)\blur2}Find me, I beg you
+Dialogue: 0,0:25:21.66,0:25:26.62,ED,,0,0,0,,{\fad(100,350)\blur2}We promised to meet, drifting in and out of sleep
+Dialogue: 0,0:25:35.47,0:25:37.59,Default,,0,0,0,,Next time: True Colors.{true form, true identity of something/someone, truth about a matter, there're just too many possible}
+Dialogue: 0,0:25:36.59,0:25:39.80,next episode,,0,0,0,,{\fad(313,0)\blur1.3\c&HFFFFF8&\pos(640,280)}True Colors
