@@ -8,3 +8,12 @@
 | Song Styling | koda (OP), kusion (ED) |
 | Timing       | Sutai                  |
 | Encoding     | Plorkyeran             |
+
+## Release Info
+
+|             |            |
+|-------------|------------|
+| Status      | Incomplete |
+| Bach Status | -          |
+| Source      | TVRip      |
+| Resolution  | 1280x720   |

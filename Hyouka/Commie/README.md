@@ -7,3 +7,12 @@
 | Typesetting | herkz     |
 | Timing      | Konbu     |
 | Encoding    | ?         |
+
+## Release Info
+
+|             |           |
+|-------------|-----------|
+| Status      | Complete  |
+| Bach Status | -         |
+| Source      | TVRip     |
+| Resolution  | 1280x720  |
