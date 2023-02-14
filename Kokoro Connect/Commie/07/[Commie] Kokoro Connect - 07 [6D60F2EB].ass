@@ -1,0 +1,833 @@
+﻿[Script Info]
+Title: Commie - Kokoro Connect 7
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: kc07_premux.mkv
+Scroll Position: 746
+Active Line: 751
+Video File: kc07_premux.mkv
+Video Aspect Ratio: c1.77778
+Video Position: 31535
+Last Style Storage: Kokoro Connect
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PT Sans,52,&H00FFFFFF,&H000000FF,&H004B222A,&HC82E132B,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,90,90,32,1
+Style: Alternative,PT Sans,52,&H00FFFFFF,&H000000FF,&H0037244F,&HC82E132B,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,90,90,32,1
+Style: OP,Ruzicka TypeK,45,&H00FFFFFF,&H000000FF,&H00D68BF0,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,9,30,30,20,1
+Style: ED2,Rosario,40,&H00FFFCFB,&H000000FF,&H00BA9F77,&H28295F74,0,0,0,0,100,100,0,0,1,2,0,9,32,32,28,1
+Style: Chalkboard Shenanigans,EraserDust,40,&H00F2EFE9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Additional Shenanigans,DK Crayon Crumble,40,&H00F2EFE9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Kizu Random,Rexlia Free,55,&H007FA722,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,90,120,0,180,1,0,0,2,10,10,10,1
+Style: Ep Titles,SwaggerBold,50,&H008CD8C0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: SuCkS,Shazi Hand,50,&H004C5353,&H000000FF,&H004C5353,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: both other fonts looked crap okay,KG Ten Thousand Reasons,60,&H00F2EFE9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Slice the Mountain,Arabic Typesetting,30,&H002A3C4E,&H000000FF,&H00000000,&H00000000,0,0,0,0,110,90,2,0,1,0,0,2,10,10,10,1
+Style: phoning it in,Alte Haas Grotesk,60,&H00585858,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:21:31.17,0:21:35.17,phoning it in,,0,0,0,,{\fs2\fscx3100\fscy3000\blur1\fax-0.04\c&H819098&\frz350.7\pos(618,56)}{21:33} Yui
+Comment: 0,0:21:31.17,0:21:35.17,phoning it in,,0,0,0,,{\fs2\fscx3100\fscy3000\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(708,178)}{21:33} (No Subject)
+Comment: 0,0:21:31.17,0:21:35.17,phoning it in,,0,0,0,,{\fs2\fscx3100\fscy3000\fax-0.04\blur1\c&H648189&\frz350.7\pos(468,404)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:12.22,0:00:14.37,Default,Mom,0,0,0,,Yui, are you still in bed?
+Dialogue: 0,0:00:17.00,0:00:18.24,Default,Mom,0,0,0,,Are you feeling okay?
+Dialogue: 0,0:00:18.24,0:00:19.36,Default,Mom,0,0,0,,Want to stay home again?
+Dialogue: 0,0:00:23.50,0:00:23.50,OP,,0,0,0,,{OP} {First frame with pink kanji fully faded in}
+Dialogue: 1,0:00:38.39,0:00:44.03,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}When the little openings in our hearts connect
+Dialogue: 0,0:00:38.39,0:00:44.03,OP,,0,0,0,,{\blur3\fad(150,150)}When the little openings in our hearts connect
+Dialogue: 1,0:00:44.03,0:00:50.15,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}and produce new things at the speed of little {\fsp2}f{\fsp0}lashes
+Dialogue: 0,0:00:44.03,0:00:50.15,OP,,0,0,0,,{\blur4\fad(150,150)}and produce new things at the speed of little {\fsp2}f{\fsp0}lashes
+Dialogue: 1,0:00:50.15,0:00:56.00,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}then these days that seem to {\fsp2}f{\fsp0}ly by keep us in their embrace
+Dialogue: 0,0:00:50.15,0:00:56.00,OP,,0,0,0,,{\fad(150,150)\blur3}then these days that seem to {\fsp2}f{\fsp0}ly by keep us in their embrace
+Dialogue: 1,0:00:56.00,0:01:02.20,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}and the strength we thought was gone comes back
+Dialogue: 0,0:00:56.00,0:01:02.20,OP,,0,0,0,,{\fad(150,150)\blur3}and the strength we thought was gone comes back
+Dialogue: 1,0:01:02.20,0:01:07.96,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}If my feelings are clear when I look at you
+Dialogue: 0,0:01:02.20,0:01:07.96,OP,,0,0,0,,{\fad(150,150)\blur3}If my feelings are clear when I look at you
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(1109,367)\frz357.7}{right side:} Yaegashi Taichi
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HFFFDEA&\frz343.6\pos(1074,617)}{lower right:} Laugh more
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz336\fscx90\pos(965,234)}{blue, top right:} {\c&HA08161&}Freshman, class 3
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HA389B0&\frz337\pos(952,276)}{pink, with smiley:} Laugh more
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(575,102)}{white, middle:} {\c&HE7E2D5&}Dumb wrestling nut
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs40\pos(666,703)\c&HFFFEEC&}{white, middle:}Quit beating\N around the bush!
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(922,521)\frz351.8}{below smiley:} {\c&H93DAD1&}How about laughing more?
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H7EB8AA&\frz340.4\pos(770,191)}{left of class sign:} Gonna go have\N fun tomorrow
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(1029,671)}{center, white, 3 lines:} {no idea, the last is otaku, but the rest?}
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H91759F&\pos(209,155)\frz1.855}{pink, left of head:} Loves his little sister
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H856647&\pos(249,93)\frz2.554}{tope left, blue:} Rice? Bread?
+Dialogue: 0,0:01:02.20,0:01:05.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HC3A1CA&\frz4.366\pos(831,600)}Hurry up and give it back!
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\pos(286,377)}{left:} Nagase Iori
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HAE91AF&\frz11.03\pos(243,113)}{top left, pink:} Won't do anything\N dirty at all
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs30\pos(478,182)\c&HA98966&}{right of that:} Freshman\Nclass 3
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H88D1C2&\frz29.07\pos(384,501)}{down left, yellow:}Best Smile Ever
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz354.7\pos(379,709)}{white, crossed out:} Go out with me
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz86.97\fscy900\pos(548,702)\c&HBEA3B4&})
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H85C2B3&\fs90\pos(566,430)}{center:} Cute
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(561,625)\frz350.5\c&HF7F4E0&}{below cute:} Iori, I love you
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs25\pos(648,103)\frz350.8}{top, white:} That comic was pretty cool.\N Time for some curry.
+Dialogue: 0,0:01:05.08,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HA187A6&\pos(674,246)\frz356.3}{top right, red:} Cutest girl in all of Yamaboshi High
+Dialogue: 0,0:01:05.08,0:01:07.00,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HB094B6&\fs30\frz344.9\pos(653,540)}{top right, red:} Let's go to the\N sale tomorrow
+Dialogue: 0,0:01:07.00,0:01:07.09,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HB094B6&\fs30\frz344.9\pos(653,540)\clip(m 586 523 l 649 542 667 547 672 536 703 551 709 548 702 540 688 519 686 510 690 506 701 513 704 522 718 538 725 536 714 502 720 492 743 543 733 484 685 474 676 469 596 428)}{top right, red:} Let's go to the\N sale tomorrow
+Dialogue: 0,0:01:07.09,0:01:07.96,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HB094B6&\fs30\frz344.9\pos(653,540)}{top right, red:} Let's go to the\N sale tomorrow
+Dialogue: 1,0:01:07.96,0:01:15.97,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}then the illusion is dispelled
+Dialogue: 0,0:01:07.96,0:01:15.97,OP,,0,0,0,,{\fad(150,150)\blur3}then the illusion is dispelled
+Dialogue: 0,0:01:07.96,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(124,144)\c&HA67A4D&\frz4.205}{top left, blue:} Scary
+Dialogue: 0,0:01:07.96,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H96D7CD&\frz347.6\pos(128,420)}{yellow, below:} Sorry
+Dialogue: 0,0:01:07.96,0:01:10.88,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz17.15\pos(322,476)\fs38}{bottom left:} {\c&HC6A6D2&}Sorry! I'll bring you\N some fruit milk
+Dialogue: 0,0:01:07.96,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HB397BB&\fs70\frz343.2\pos(253,329)}{center:}Inabaaaan
+Dialogue: 0,0:01:07.96,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HFFF4E3&\fs40\frz352.7\pos(220,682)}{bottom left:}Sorry I was even born
+Dialogue: 0,0:01:07.96,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H90789F&\frz12.13\pos(886,105)}{top right, multicolor:} La{\c&H67AFA9&}u{\c&HEDE8DA&}gh
+Dialogue: 0,0:01:07.96,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HBCBAAD&\pos(895,209)\frz357.3}{below that:} Fresh{\c&H92779E&}man, {\c&HBCBAAD&}class {\c&H92779F&}3
+Dialogue: 0,0:01:07.96,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H60B3B0&\frz348.6\pos(1068,107)}{top right, yellow:} Curry hot pot
+Dialogue: 0,0:01:07.96,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\pos(946,280)}{right hand side, each character diff color:} {\c&H53A5A3&}Ina{\c&H8B729A&}ba {\c&HA06936&}Hime{\c&HBCB9A9&}ko
+Dialogue: 0,0:01:07.96,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs30\c&H89633E&\pos(1073,649)\frz352.5}{bottom right:}but I still like her
+Dialogue: 0,0:01:10.88,0:01:10.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz17.15\pos(322,476)\fs38\clip(m 193 442 l 406 381 410 409 439 504 205 525)}{bottom left:} {\c&HC6A6D2&}Sorry! I'll bring you\N some fruit milk
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz17.78\pos(124,249)}{top left, arrow:} {\c&H58988B&}me{\c&H6F5A81&} yui
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz10.38\pos(321,133)}{top, white, pink:} We should get {\c&H967CAA&}married
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H8CC6B7&\fs50\frz348.4\pos(488,264)}{center, multicolored, left of two:} I love yo{\c&H9C7FAC&}u{\c&HCFCDC6&}u{\c&H6FB2A9&}u{\c&HD4CEC3&}u{\c&H8F6F57&}u
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\frz344.2\c&HB28FB0&\pos(715,286)}{center, multicolored, right of two:} I love you, {\c&HF3F2E2&}Yui
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(669,85)\frz9.935}{top, right of marriage:} Let's go out
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HAC8F70&\frz7.264\pos(862,102)}{below that, blue:} Screw that
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz340.9\pos(1054,159)}{top right, white pink:} {\c&HAA8EB9&}Fresh{\c&HDFD5CD&}man, {\c&HAA8EB9&}class {\c&HDFD5CD&}1
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs30\frz340.4\pos(813,414)}{bigass white yellow thing:} I want to have\N {\c&H98D9D0&}curry hot pot.\N {\c&HFFFFF5&}What do you say?
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz348.3\pos(941,487)}{below that, white orange blue:} The {\c&HCFADC5&}who{\c&HD8B084&}le {\c&HFFFFF5&}world
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HFFFFF1&\frz340.2\an4\pos(753,607)}{yellow white, bottom:} Let's go\N\h\h{\c&HB1EBD8&}to Disneyland
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\frz352.9\pos(1163,392)}{right side:} {\c&H8BCEC4&}Kiriy{\c&HC4A47E&}ama {\c&HD4B5CC&}Yui
+Dialogue: 0,0:01:10.92,0:01:13.59,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(1029,696)\frz344.3}{below that, white, yellow:} {\c&HFFFFE6&}Con{\c&HB6F9EC&}cei{\c&HFFFFE6&}ted
+Dialogue: 0,0:01:13.59,0:01:15.93,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\pos(336,326)\frz0.9467}{left:} A{\c&HFDFCF6&}oki Yoshifumi
+Dialogue: 0,0:01:13.59,0:01:15.93,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HA27E60&\frz15.78\pos(264,84)}{right of that, yellow:} Freshman, class 1
+Dialogue: 0,0:01:13.59,0:01:15.93,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HAFECDB&\pos(284,692)}{Blue, big center, starting right to left:}Sorry, I can't\N go out with you.\NSeriously.
+Dialogue: 0,0:01:13.59,0:01:15.93,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs32\frz15.02\pos(637,506)\c&HFDFCFB&}{bottom  right, white:} Done tomorrow's\N homework?
+Dialogue: 0,0:01:13.59,0:01:15.93,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(785,170)}{top, pink:} {\c&H9478A5&}I want to eat curry
+Dialogue: 0,0:01:13.59,0:01:15.93,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz336.3\pos(1177,160)}{top right, white:} {\c&HF2ECDF&}If I do my best
+Dialogue: 0,0:01:13.59,0:01:15.93,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H87CAC2&\pos(554,40)}{right, yellow:} Don't give up if you're a man!
+Dialogue: 1,0:01:16.68,0:01:19.93,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Suddenly the world that connects us changes
+Dialogue: 0,0:01:16.68,0:01:19.93,OP,,0,0,0,,{\fad(150,150)\blur3}Suddenly the world that connects us changes
+Dialogue: 1,0:01:19.93,0:01:22.60,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Peeking through a glass marble
+Dialogue: 0,0:01:19.93,0:01:22.60,OP,,0,0,0,,{\fad(150,150)\blur3}Peeking through a glass marble
+Dialogue: 1,0:01:22.60,0:01:26.15,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}the world looks so much more radiant than before
+Dialogue: 0,0:01:22.60,0:01:26.15,OP,,0,0,0,,{\fad(150,150)\blur3}the world looks so much more radiant than before
+Dialogue: 1,0:01:26.19,0:01:28.69,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}What would I see from there?
+Dialogue: 0,0:01:26.19,0:01:28.69,OP,,0,0,0,,{\fad(150,150)\blur3}What would I see from there?
+Dialogue: 1,0:01:28.69,0:01:32.15,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}When our link shakes, all changes again
+Dialogue: 0,0:01:28.69,0:01:32.15,OP,,0,0,0,,{\fad(150,150)\blur3}When our link shakes, all changes again
+Dialogue: 1,0:01:32.15,0:01:34.70,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Time is multifaceted
+Dialogue: 0,0:01:32.15,0:01:34.70,OP,,0,0,0,,{\fad(150,150)\blur3}Time is multifaceted
+Dialogue: 1,0:01:34.70,0:01:36.03,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Did you hear that?
+Dialogue: 0,0:01:34.70,0:01:36.03,OP,,0,0,0,,{\fad(150,150)\blur3}Did you hear that?
+Dialogue: 0,0:01:35.45,0:01:36.03,Additional Shenanigans,,0,0,0,,{\fscx120\fscy110\fs90\blur0.7\c&HF1E9D0&\fry7\org(436,286)\fax0.04\frz1.093\pos(1049,367)}{top:}De{\fs88}ad{\fs87}lin{\fs86}e: {\fs85}Eve{\fs84}ry {\fs83}mon{\fs83}th {\fs82}on {\fs81}the{\fs80} 25th
+Dialogue: 0,0:01:35.45,0:01:36.03,Additional Shenanigans,,0,0,0,,{\fs100\blur0.7\c&HF2EDD4&\fax-0.03\fry5\org(510,367)\frz4.292\pos(590,689)}{bottom, right:} Don't be late!!
+Dialogue: 1,0:01:36.45,0:01:38.20,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}It signals the beginning
+Dialogue: 0,0:01:36.45,0:01:38.20,OP,,0,0,0,,{\fad(150,150)\blur3}It signals the beginning
+Dialogue: 1,0:01:38.20,0:01:43.96,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Don't let it pass unheard
+Dialogue: 0,0:01:38.20,0:01:43.96,OP,,0,0,0,,{\fad(150,150)\blur3}Don't let it pass unheard
+Dialogue: 1,0:01:46.71,0:01:51.21,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}It signals the future we have chosen
+Dialogue: 0,0:01:46.71,0:01:51.21,OP,,0,0,0,,{\fad(150,150)\blur3}It signals the future we have chosen
+Dialogue: 0,0:02:08.54,0:02:09.52,Default,Wata,0,0,0,,Hey, Yaegashi!
+Dialogue: 0,0:02:10.36,0:02:12.44,Default,Wata,0,0,0,,Finally decided to grace us with your presence?
+Dialogue: 0,0:02:12.44,0:02:13.98,Default,Tai,0,0,0,,Yeah, something came up.
+Dialogue: 0,0:02:13.98,0:02:16.73,Default,Wata,0,0,0,,I feel sorry for you, man.
+Dialogue: 0,0:02:16.73,0:02:20.35,Default,Wata,0,0,0,,You missed out on seeing your darling's big scene.
+Dialogue: 0,0:02:20.35,0:02:22.16,Default,Wata,0,0,0,,Yeah, it was awesome.
+Dialogue: 0,0:02:22.80,0:02:24.57,Default,Tai,0,0,0,,My darling?
+Dialogue: 0,0:02:24.57,0:02:26.59,Default,Wata,0,0,0,,The girl in your club.
+Dialogue: 0,0:02:26.59,0:02:27.66,Default,Tai,0,0,0,,You mean Nagase?
+Dialogue: 0,0:02:28.14,0:02:31.29,Default,Wata,0,0,0,,Oh, so you've got your sights set on Nagase.
+Dialogue: 0,0:02:31.48,0:02:33.51,Default,Tai,0,0,0,,Wh-Why would you say that?!
+Dialogue: 0,0:02:33.51,0:02:37.44,Default,Wata,0,0,0,,You, Inaba, and Nagase are the\N only SCS members in our class.
+Dialogue: 0,0:02:37.44,0:02:40.10,Default,Wata,0,0,0,,And when I mentioned your darling,
+Dialogue: 0,0:02:40.10,0:02:43.24,Default,Wata,0,0,0,,you immediately brought up Nagase.
+Dialogue: 0,0:02:44.26,0:02:45.47,Default,Tai,0,0,0,,You tricked me!
+Dialogue: 0,0:02:45.71,0:02:46.75,Default,A,0,0,0,,Watase!
+Dialogue: 0,0:02:46.75,0:02:50.00,Default,,0,0,0,,The soccer team's supposed to assemble in the locker room for a meeting.
+Dialogue: 0,0:02:50.70,0:02:53.13,Default,Wata,0,0,0,,Ugh, it's lunchtime.
+Dialogue: 0,0:02:53.47,0:02:56.02,Default,Wata,0,0,0,,Well, you know where to find me if you need relationship advice.
+Dialogue: 0,0:02:56.02,0:02:57.19,Default,Wata,0,0,0,,You can always rely on me. Later!
+Dialogue: 0,0:02:57.19,0:02:58.27,Default,Tai,0,0,0,,H-Hey! {Come back, I haven't finished being embarrassed}
+Dialogue: 0,0:02:59.15,0:03:01.41,Default,Tai,0,0,0,,Big scene?
+Dialogue: 0,0:03:03.68,0:03:04.87,Default,Ina,0,0,0,,Taichi,
+Dialogue: 0,0:03:05.32,0:03:06.98,Default,,0,0,0,,why were you late?
+Dialogue: 0,0:03:06.98,0:03:07.87,Default,Ina,0,0,0,,Did something happen?
+Dialogue: 0,0:03:08.23,0:03:09.18,Default,Tai,0,0,0,,Yeah.
+Dialogue: 0,0:03:09.65,0:03:12.29,Default,Tai,0,0,0,,I probably had one of my desires unleashed—
+Dialogue: 0,0:03:12.56,0:03:14.49,Default,Ina,0,0,0,,Other people can hear us, idiot!
+Dialogue: 0,0:03:15.02,0:03:18.13,Default,Tai,0,0,0,,Can you try reprimanding me in a less painful fashion?
+Dialogue: 0,0:03:18.35,0:03:21.71,Default,Ina,0,0,0,,There wouldn't be any pain\N if you didn't do anything stupid.
+Dialogue: 0,0:03:21.71,0:03:25.06,Default,Ina,0,0,0,,I've never used violence without just cause.
+Dialogue: 0,0:03:25.06,0:03:25.87,Default,Tai,0,0,0,,What?
+Dialogue: 0,0:03:25.87,0:03:27.06,Default,Tai,0,0,0,,Really?
+Dialogue: 0,0:03:27.29,0:03:27.94,Default,Ina,0,0,0,,Huh?
+Dialogue: 0,0:03:27.94,0:03:29.62,Default,Tai,0,0,0,,Never mind.
+Dialogue: 0,0:03:29.62,0:03:32.85,Default,Ina,0,0,0,,So what desire was unleashed?
+Dialogue: 0,0:03:33.97,0:03:34.98,Default,Tai,0,0,0,,I'm guessing it was...
+Dialogue: 0,0:03:40.73,0:03:41.99,Default,Tai,0,0,0,,...my desire to sleep.
+Dialogue: 0,0:03:45.07,0:03:45.72,Default,Ina,0,0,0,,Huh?
+Dialogue: 0,0:03:48.05,0:03:48.87,Default,Tai,0,0,0,,What?
+Dialogue: 0,0:03:48.86,0:03:51.82,Ep Titles,,0,0,0,,{\pos(640,442)}{3:50} Falling Apart
+Dialogue: 0,0:03:49.00,0:03:49.94,Default,Tai,0,0,0,,Ow!
+Dialogue: 0,0:03:51.98,0:03:55.37,Default,Ina,0,0,0,,Don't scare me like that over something so stupid.
+Dialogue: 0,0:03:55.47,0:03:57.85,Default,Tai,0,0,0,,It was pretty serious!
+Dialogue: 0,0:03:57.85,0:04:00.37,Default,Tai,0,0,0,,Well, I was asleep, so I don't remember any of it.
+Dialogue: 0,0:04:07.79,0:04:11.43,Default,Rina,0,0,0,,Hey, wake up! You'll be late.
+Dialogue: 0,0:04:11.43,0:04:13.38,Default,Rina,0,0,0,,C'mon already!
+Dialogue: 0,0:04:19.53,0:04:21.71,Default,Rina,0,0,0,,Wake up! Wake up!{onii-chan! onii-chan!}
+Dialogue: 0,0:04:26.72,0:04:27.86,Default,Rina,0,0,0,,Oh no!{onii-chan!}
+Dialogue: 0,0:04:28.11,0:04:30.31,Default,Rina,0,0,0,,Wake up, Taichi!
+Dialogue: 0,0:04:33.38,0:04:36.95,Default,Tai,0,0,0,,My mom had to calm my sister down before she would go to school.
+Dialogue: 0,0:04:37.70,0:04:40.51,Default,Tai,0,0,0,,I heard everything from my mom when I woke up.
+Dialogue: 0,0:04:40.51,0:04:42.76,Default,Ina,0,0,0,,They didn't call the hospital?
+Dialogue: 0,0:04:42.76,0:04:46.72,Default,Tai,0,0,0,,If I hadn't woken up, they would've called an ambulance.
+Dialogue: 0,0:04:46.72,0:04:48.76,Default,Tai,0,0,0,,I'll need to apologize to my sister.
+Dialogue: 0,0:04:49.26,0:04:51.38,Default,Tai,0,0,0,,I sent her an e-mail,
+Dialogue: 0,0:04:51.38,0:04:52.59,Default,Tai,0,0,0,,but I should get her something...
+Dialogue: 0,0:04:52.59,0:04:53.74,Default,Ina,0,0,0,,Shut up, sister lover!
+Dialogue: 0,0:04:53.74,0:04:56.31,Default,Tai,0,0,0,,It's only natural for a brother to love his sister!{i like this guy's thinking!}{I don't. You're such a pervert, brainchild}
+Dialogue: 0,0:04:56.43,0:04:58.90,Default,Ina,0,0,0,,If she couldn't wake you up,
+Dialogue: 0,0:04:58.90,0:05:01.44,Default,,0,0,0,,your desire must've been unleashed.
+Dialogue: 0,0:05:01.44,0:05:04.00,Default,Ina,0,0,0,,While you were asleep, something happened,
+Dialogue: 0,0:05:04.00,0:05:09.35,Default,Ina,0,0,0,,and your desire to sleep a little\N longer was unleashed, I guess.
+Dialogue: 0,0:05:10.12,0:05:13.48,Default,Tai,0,0,0,,I've been wondering...
+Dialogue: 0,0:05:13.97,0:05:17.15,Default,Tai,0,0,0,,Was Nagase's desire to sleep also unleashed?
+Dialogue: 0,0:05:19.33,0:05:21.32,Default,Ina,0,0,0,,Taichi wants an answer.
+Dialogue: 0,0:05:24.55,0:05:26.70,Default,Iori,0,0,0,,Hey, Taichi...
+Dialogue: 0,0:05:26.70,0:05:34.25,Default,Iori,0,0,0,,Have you ever had the urge to break the tension when everyone's acting really serious?
+Dialogue: 0,0:05:34.25,0:05:36.61,Default,Tai,0,0,0,,Not really.
+Dialogue: 0,0:05:36.61,0:05:37.39,Default,Tai,0,0,0,,Don't tell me...
+Dialogue: 0,0:05:37.72,0:05:41.70,Default,Iori,0,0,0,,There was a quiz this morning, so everyone was on edge.
+Dialogue: 0,0:05:41.70,0:05:43.94,Default,Iori,0,0,0,,And suddenly I had an urge to shout...
+Dialogue: 0,0:05:47.75,0:05:49.99,Default,Iori,0,0,0,,Yahoo!
+Dialogue: 0,0:05:53.31,0:05:57.28,both other fonts looked crap okay,,0,0,0,,{\blur0.8\fs60\fsp8\pos(967,345)\c&HD7DAC4&}{5:58} Quiz
+Dialogue: 0,0:06:04.48,0:06:06.58,Default,Iori,0,0,0,,Yahoo...
+Dialogue: 0,0:06:07.58,0:06:11.30,Default,Iori,0,0,0,,I managed to convince everyone that I was half asleep at the time.
+Dialogue: 0,0:06:11.58,0:06:14.36,Default,Ina,0,0,0,,The class thought it was hilarious.
+Dialogue: 0,0:06:14.36,0:06:17.85,Default,Ina,0,0,0,,Plus, they seemed to write it off as Iori being herself.
+Dialogue: 0,0:06:17.85,0:06:20.55,Default,Iori,0,0,0,,That was the worst part!
+Dialogue: 0,0:06:20.55,0:06:23.15,Default,Iori,0,0,0,,If everyone thinks I'm being myself when I suddenly shout,
+Dialogue: 0,0:06:23.15,0:06:25.30,Default,Iori,0,0,0,,"Yahoo!" in the middle of class, what does that say?!
+Dialogue: 0,0:06:25.55,0:06:28.12,Default,Tai,0,0,0,,That you're the kind of person who likes to shout,
+Dialogue: 0,0:06:28.12,0:06:30.26,Default,,0,0,0,,"Yahoo!" in the middle of class?
+Dialogue: 0,0:06:30.26,0:06:31.56,Default,Iori,0,0,0,,Don't join them!
+Dialogue: 0,0:06:31.78,0:06:34.64,Default,Ina,0,0,0,,Anyway, you guys have some tame desires.{I'll say. What happened to the rape-y desires?}
+Dialogue: 0,0:06:42.27,0:06:45.32,Default,Iori,0,0,0,,Yui didn't come to school?
+Dialogue: 0,0:06:45.32,0:06:47.52,Default,Ina,0,0,0,,I told her about Heartseed.
+Dialogue: 0,0:06:48.15,0:06:50.45,Default,Ina,0,0,0,,I mentioned that the five of us needed to talk together.
+Dialogue: 0,0:06:50.99,0:06:55.96,Default,Aoki,0,0,0,,I called Yui earlier and said we might drop by.
+Dialogue: 0,0:06:57.36,0:06:58.79,Default,Yui,0,0,0,,{\i0}Don't bother.{\i1}
+Dialogue: 0,0:06:58.79,0:07:01.29,Default,,0,0,0,,{\i0}I'll be back at school by the end of the week.{\i1}
+Dialogue: 0,0:07:01.87,0:07:06.13,Default,Yui,0,0,0,,{\i0}By then, everybody will have gotten over{\i1} {\i0}what happened yesterday.{\i1}
+Dialogue: 0,0:07:06.13,0:07:07.11,Default,Aoki,0,0,0,,{\i0}Yui...{\i1}
+Dialogue: 0,0:07:14.07,0:07:15.15,Default,Aoki,0,0,0,,Damn...
+Dialogue: 0,0:07:15.15,0:07:18.54,Default,Aoki,0,0,0,,Heartseed's messing everything up again.{You mean Balloon-vine, right?}
+Dialogue: 0,0:07:19.38,0:07:21.02,Default,Aoki,0,0,0,,If he makes Yui cry again,
+Dialogue: 0,0:07:22.15,0:07:23.40,Default,,0,0,0,,I'll make him pay!
+Dialogue: 0,0:07:24.70,0:07:25.64,Default,Ina,0,0,0,,Aoki!
+Dialogue: 0,0:07:25.64,0:07:27.70,Default,,0,0,0,,Name five good things about Kiriyama Yui!
+Dialogue: 0,0:07:27.95,0:07:30.07,Default,Aoki,0,0,0,,Cute! Cheerful! Strong! Super cute!
+Dialogue: 0,0:07:30.07,0:07:31.56,Default,,0,0,0,,Pretty hair! Small! Innocent!
+Dialogue: 0,0:07:31.56,0:07:33.28,Default,,0,0,0,,Childish, but in a good way.
+Dialogue: 0,0:07:33.28,0:07:35.58,Default,Aoki,0,0,0,,Wait! I need more than five!
+Dialogue: 0,0:07:36.08,0:07:38.47,Default,Tai,0,0,0,,You shouldn't've used "cute" twice, then.
+Dialogue: 0,0:07:38.67,0:07:40.71,Default,Ina,0,0,0,,So, did that help you calm down?
+Dialogue: 0,0:07:41.02,0:07:41.68,Default,Aoki,0,0,0,,Huh?
+Dialogue: 0,0:07:42.34,0:07:44.88,Default,Ina,0,0,0,,Avoid intense emotional outbursts.
+Dialogue: 0,0:07:44.88,0:07:47.11,Default,Ina,0,0,0,,It won't matter if your desires are unleashed
+Dialogue: 0,0:07:47.11,0:07:49.09,Default,,0,0,0,,if you don't have any meaningful desires.
+Dialogue: 0,0:07:49.84,0:07:51.56,Default,Aoki,0,0,0,,You're right.
+Dialogue: 0,0:07:51.98,0:07:52.97,Default,Aoki,0,0,0,,But I can't help it.
+Dialogue: 0,0:07:53.26,0:07:56.33,Default,Tai,0,0,0,,Yeah, if all it makes you do is shout, "Yahoo!"{i'm sure having no comma here will kill you on the inside, but long live american english!}
+Dialogue: 0,0:07:56.33,0:07:58.00,Default,,0,0,0,,then we can all laugh it off.
+Dialogue: 0,0:07:58.00,0:07:59.19,Default,Iori,0,0,0,,Wait, Taichi.
+Dialogue: 0,0:07:59.19,0:08:00.56,Default,Iori,0,0,0,,Is this a new form of bullying?
+Dialogue: 0,0:08:00.56,0:08:01.48,Default,Iori,0,0,0,,Are you bullying me?
+Dialogue: 0,0:08:01.82,0:08:04.48,Default,Aoki,0,0,0,,So when I get irritated or angry,
+Dialogue: 0,0:08:04.48,0:08:08.23,Default,,0,0,0,,I should think about Yui and calm down.
+Dialogue: 0,0:08:08.59,0:08:10.74,Default,Ina,0,0,0,,Yeah, that works in your case.
+Dialogue: 0,0:08:10.90,0:08:13.35,Default,Iori,0,0,0,,But I'm still worried about Yui.
+Dialogue: 0,0:08:13.35,0:08:16.74,Default,Iori,0,0,0,,She's probably still in shock after beating up those guys.
+Dialogue: 0,0:08:23.34,0:08:24.50,Default,Tai,0,0,0,,{\i1\fad(100,0)}I have to help her!{\i0}{T H E  W H I T E  K N I G H T  R I S E S}
+Dialogue: 0,0:08:30.67,0:08:31.75,Default,Tai,0,0,0,,I have to go.
+Dialogue: 0,0:08:32.48,0:08:33.51,Default,Aoki,0,0,0,,Wait, Taichi?
+Dialogue: 0,0:08:33.78,0:08:34.64,Default,Ina,0,0,0,,Not good!
+Dialogue: 0,0:08:34.64,0:08:35.38,Default,Ina,0,0,0,,His desire was unleashed!
+Dialogue: 0,0:08:35.48,0:08:36.76,Default,Iori,0,0,0,,Wait, Taichi!
+Dialogue: 0,0:08:36.76,0:08:38.03,Default,Iori,0,0,0,,Wait! Wait!
+Dialogue: 0,0:08:38.03,0:08:39.14,Default,Aoki,0,0,0,,Get a hold of yourself, Taichi!
+Dialogue: 0,0:08:39.14,0:08:40.73,Default,Taichi,0,0,0,,I have to go help her!
+Dialogue: 0,0:08:40.73,0:08:42.52,Default,Taichi,0,0,0,,I have to go help Kiriyama!
+Dialogue: 0,0:08:42.93,0:08:46.03,Default,Ina,0,0,0,,You really like to help people, huh?
+Dialogue: 0,0:08:46.03,0:08:46.90,Default,Ina,0,0,0,,It's kinda creepy.
+Dialogue: 0,0:08:47.03,0:08:48.81,Default,Tai,0,0,0,,Let me go! Let me go!
+Dialogue: 0,0:08:49.10,0:08:50.27,Default,Aoki,0,0,0,,Wake up, Taichi!
+Dialogue: 0,0:08:50.55,0:08:52.03,Default,Iori,0,0,0,,Calm down!
+Dialogue: 0,0:08:52.35,0:08:53.34,Default,Ina,0,0,0,,Okay, Iori!
+Dialogue: 0,0:08:53.34,0:08:54.28,Default,Ina,0,0,0,,Throw yourself on Taichi!
+Dialogue: 0,0:08:54.28,0:08:55.20,Default,Iori,0,0,0,,Gotcha!
+Dialogue: 0,0:08:55.20,0:08:56.57,Default,Iori,0,0,0,,Wait, why me?!
+Dialogue: 0,0:08:56.57,0:08:58.11,Default,Iori,0,0,0,,Aoki's stronger!
+Dialogue: 0,0:08:58.32,0:09:03.58,Default,Ina,0,0,0,,No, we might be able to change things up or stop this
+Dialogue: 0,0:09:03.58,0:09:05.71,Default,,0,0,0,,if we override his current desire with a stronger one.
+Dialogue: 0,0:09:05.84,0:09:07.67,Default,Iori,0,0,0,,Are you sure that'll work?
+Dialogue: 0,0:09:07.78,0:09:09.50,Default,Ina,0,0,0,,It's worth a shot.
+Dialogue: 0,0:09:09.50,0:09:13.30,Default,Ina,0,0,0,,Do something like crawling up his body to awaken his dirty side!
+Dialogue: 0,0:09:13.30,0:09:14.32,Default,Iori,0,0,0,,Wait, wait.
+Dialogue: 0,0:09:14.32,0:09:16.30,Default,Iori,0,0,0,,Well, I don't really mind...
+Dialogue: 0,0:09:16.30,0:09:19.30,Default,Aoki,0,0,0,,Iori, do it for Taichi's sake!
+Dialogue: 0,0:09:19.30,0:09:21.72,Default,Tai,0,0,0,,Hey, stop messing around!
+Dialogue: 0,0:09:22.92,0:09:23.85,Default,Ina,0,0,0,,Got a problem?
+Dialogue: 0,0:09:24.94,0:09:27.01,Default,Ina,0,0,0,,It would've been dangerous to let you go.
+Dialogue: 0,0:09:27.61,0:09:30.60,Default,Ina,0,0,0,,Of course the white knight rises for those in need.
+Dialogue: 0,0:09:30.74,0:09:33.14,Default,Iori,0,0,0,,Hey, did he calm down?
+Dialogue: 0,0:09:33.14,0:09:33.48,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:09:35.05,0:09:35.76,Default,Tai,0,0,0,,Oh...
+Dialogue: 0,0:09:36.37,0:09:37.15,Default,Tai,0,0,0,,Yeah...
+Dialogue: 0,0:09:41.80,0:09:45.87,Default,Iori,0,0,0,,I guess our desires aren't unleashed for that long.
+Dialogue: 0,0:09:46.49,0:09:51.11,Default,Iori,0,0,0,,Nothing will happen if it's something that can't be done right away.
+Dialogue: 0,0:09:51.11,0:09:56.10,Default,Aoki,0,0,0,,But generally, spur-of-the-moment desires are driven by your current circumstances, right?
+Dialogue: 0,0:09:56.10,0:09:58.95,Default,Aoki,0,0,0,,Your mind tends to focus on your surroundings.
+Dialogue: 0,0:09:58.95,0:10:00.88,Default,Yui,0,0,0,,Aoki made a valid point!
+Dialogue: 0,0:10:01.09,0:10:02.89,Default,Aoki,0,0,0,,Why are you so surprised?!
+Dialogue: 0,0:10:02.89,0:10:04.80,Default,Aoki,0,0,0,,I have my moments!
+Dialogue: 0,0:10:05.14,0:10:08.81,Default,Tai,0,0,0,,What's Heartseed up to this time?
+Dialogue: 0,0:10:09.18,0:10:11.83,Default,Ina,0,0,0,,It's the same as when we were swapping bodies.
+Dialogue: 0,0:10:11.83,0:10:14.81,Default,Ina,0,0,0,,He wants to watch us and be entertained.
+Dialogue: 0,0:10:14.81,0:10:17.32,Default,Ina,0,0,0,,This phenomenon just serves as a catalyst.
+Dialogue: 0,0:10:20.56,0:10:22.41,Default,Ina,0,0,0,,Don't ogle me.
+Dialogue: 0,0:10:22.41,0:10:24.73,Default,Tai,0,0,0,,I wasn't ogling you!
+Dialogue: 0,0:10:24.73,0:10:26.08,Default,Tai,0,0,0,,Wait.
+Dialogue: 0,0:10:26.08,0:10:28.89,Default,Tai,0,0,0,,Do I look like I'm ogling people by default?
+Dialogue: 0,0:10:30.23,0:10:33.21,Default,Ina,0,0,0,,I'd say that you're in the most danger this time around.
+Dialogue: 0,0:10:33.78,0:10:34.66,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:10:34.66,0:10:35.83,Default,Tai,0,0,0,,What do you mean?
+Dialogue: 0,0:10:36.41,0:10:40.84,Default,Ina,0,0,0,,Well, you were willing to die for Iori when you were in your right mind.{shoutout to p4arena! they use "in your/his/etc right mind" all the damn time}
+Dialogue: 0,0:10:41.86,0:10:45.64,Default,Ina,0,0,0,,What if that desire was unleashed?
+Dialogue: 0,0:10:46.48,0:10:47.50,Default,Ina,0,0,0,,You might...
+Dialogue: 0,0:10:48.87,0:10:50.85,Default,,0,0,0,,actually die this time around.
+Dialogue: 0,0:11:10.03,0:11:14.08,Default,Iori,0,0,0,,I checked Class 1, but Yui was absent again.
+Dialogue: 0,0:11:14.93,0:11:18.21,Default,Iori,0,0,0,,She said she was okay when I called her yesterday.
+Dialogue: 0,0:11:18.77,0:11:21.46,Default,Ina,0,0,0,,I hope she's not letting this get to her.
+Dialogue: 0,0:11:21.79,0:11:23.96,Default,Tai,0,0,0,,What do you mean by that?
+Dialogue: 0,0:11:24.71,0:11:26.89,Default,Ina,0,0,0,,Just like last time,
+Dialogue: 0,0:11:26.89,0:11:29.34,Default,,0,0,0,,one of us could break at any moment.
+Dialogue: 0,0:11:31.29,0:11:34.14,Default,Iori,0,0,0,,We need to go to Yui's house today.
+Dialogue: 0,0:11:34.14,0:11:35.10,Default,Tai,0,0,0,,Yeah.
+Dialogue: 0,0:11:36.66,0:11:39.70,Default,Ina,0,0,0,,Lose the long faces.
+Dialogue: 0,0:11:39.70,0:11:44.07,Default,Ina,0,0,0,,If you show up looking so grim,\N Yui might end up feeling worse.
+Dialogue: 0,0:11:49.04,0:11:49.57,Default,Yui,0,0,0,,Yes?{I have laryngitis}
+Dialogue: 0,0:11:50.09,0:11:53.61,Default,Iori,0,0,0,,Kiriyama, let's play!
+Dialogue: 0,0:11:53.61,0:11:55.26,Default,Yui,0,0,0,,Huh? Wait, Iori?
+Dialogue: 0,0:11:55.26,0:11:56.64,Default,Yui,0,0,0,,No way, why?
+Dialogue: 0,0:11:56.64,0:11:58.89,Default,Aoki,0,0,0,,And I'm here, too!
+Dialogue: 0,0:11:58.89,0:12:00.77,Default,Aoki,0,0,0,,Along with Inaba and Taichi!
+Dialogue: 0,0:12:00.77,0:12:02.12,Default,Tai,0,0,0,,There aren't any cameras.
+Dialogue: 0,0:12:02.12,0:12:10.51,Slice the Mountain,,0,0,0,,{\pos(594,316)\blur0.6}{12:02} Kiriyama
+Dialogue: 0,0:12:02.47,0:12:03.68,Default,Yui,0,0,0,,Everybody's here?
+Dialogue: 0,0:12:03.68,0:12:05.91,Default,Ina,0,0,0,,Yeah, all of the SCS members are here.
+Dialogue: 0,0:12:05.91,0:12:07.55,Default,Iori,0,0,0,,We came to see you.
+Dialogue: 0,0:12:07.55,0:12:08.66,Default,,0,0,0,,Can we come inside?
+Dialogue: 0,0:12:08.66,0:12:10.51,Default,Iori,0,0,0,,Is someone else there right now?
+Dialogue: 0,0:12:11.98,0:12:13.77,Default,Yui,0,0,0,,No one else is home.
+Dialogue: 0,0:12:14.35,0:12:15.40,Default,Yui,0,0,0,,But you can't come in.
+Dialogue: 0,0:12:15.40,0:12:16.51,Default,Yui,0,0,0,,Please leave.
+Dialogue: 0,0:12:16.81,0:12:18.36,Default,Iori,0,0,0,,You don't want any boys inside?
+Dialogue: 0,0:12:18.36,0:12:20.30,Default,Iori,0,0,0,,Is it okay if only Inaban and I come in?
+Dialogue: 0,0:12:20.30,0:12:21.85,Default,Yui,0,0,0,,That's not it.
+Dialogue: 0,0:12:21.85,0:12:22.80,Default,Yui,0,0,0,,Just...
+Dialogue: 0,0:12:22.80,0:12:23.77,Default,Mom,0,0,0,,Oh.
+Dialogue: 0,0:12:24.19,0:12:26.87,Default,Mom,0,0,0,,Are you Yui's friends?
+Dialogue: 0,0:12:29.34,0:12:31.37,Default,Mom,0,0,0,,Come on, Yui. Open the door.
+Dialogue: 0,0:12:31.37,0:12:33.18,Default,Mom,0,0,0,,Your friends are here.
+Dialogue: 0,0:12:33.18,0:12:34.44,Default,Yui,0,0,0,,Tell them to leave.
+Dialogue: 0,0:12:35.98,0:12:37.75,Default,Mom,0,0,0,,I'm sorry.
+Dialogue: 0,0:12:37.75,0:12:39.95,Default,Mom,0,0,0,,She's locked herself in her room\N and refuses to come out.
+Dialogue: 0,0:12:40.38,0:12:42.60,Default,Ina,0,0,0,,It's okay, ma'am.
+Dialogue: 0,0:12:42.60,0:12:45.54,Default,Ina,0,0,0,,She's just a little upset right now.
+Dialogue: 0,0:12:45.89,0:12:47.38,Default,Ina,0,0,0,,I'm sure she'll cheer up soon.
+Dialogue: 0,0:12:47.55,0:12:49.51,Default,Aoki,0,0,0,,Yes, "Mom"!
+Dialogue: 0,0:12:49.51,0:12:50.71,Default,Aoki,0,0,0,,Let us handle this!
+Dialogue: 0,0:12:51.25,0:12:53.97,Default,Mom,0,0,0,,Thank you for being so good to my daughter.
+Dialogue: 0,0:12:54.11,0:12:55.50,Default,All,0,0,0,,It's nothing.
+Dialogue: 0,0:12:55.50,0:12:57.90,Default,Mom,0,0,0,,Let me know if you need anything.{A LOCK OF HER HAIR}
+Dialogue: 0,0:13:02.92,0:13:06.23,Default,Iori,0,0,0,,Yui, you shouldn't make your mom sad.
+Dialogue: 0,0:13:08.84,0:13:12.04,Default,Aoki,0,0,0,,Anyway, can we talk for a bit?
+Dialogue: 0,0:13:12.04,0:13:13.98,Default,Aoki,0,0,0,,We've got big trouble.
+Dialogue: 0,0:13:16.42,0:13:17.95,Default,Yui,0,0,0,,Please leave.
+Dialogue: 0,0:13:17.95,0:13:20.08,Default,Yui,0,0,0,,I appreciate your concern.
+Dialogue: 0,0:13:20.66,0:13:23.12,Default,Yui,0,0,0,,I'll be back at school soon.
+Dialogue: 0,0:13:25.02,0:13:26.71,Default,Ina,0,0,0,,This is a pain.
+Dialogue: 0,0:13:26.71,0:13:28.10,Default,Tai,0,0,0,,Are you gonna do something?
+Dialogue: 0,0:13:28.10,0:13:32.85,Default,Ina,0,0,0,,No, I'm just going to say the magic words to make this door open.{"Open the fucking door, you two-bit, attention-starved bint"?}
+Dialogue: 0,0:13:32.85,0:13:34.88,Default,Tai,0,0,0,,What are you, exactly?
+Dialogue: 0,0:13:35.17,0:13:36.45,Default,Ina,0,0,0,,Okay then.
+Dialogue: 0,0:13:36.45,0:13:40.49,Default,Ina,0,0,0,,I'm going to reveal Kiriyama Yui's secrets now.
+Dialogue: 0,0:13:40.49,0:13:42.89,Default,Ina,0,0,0,,First, her BWH is an A—
+Dialogue: 0,0:13:43.40,0:13:44.77,Default,Yui,0,0,0,,Stop! Stop! Stop!
+Dialogue: 0,0:13:44.77,0:13:45.81,Default,Yui,0,0,0,,I'll let you in, so stop!
+Dialogue: 0,0:13:46.97,0:13:49.97,Default,Ina,0,0,0,,It would've been more fun if I got to say more stuff.
+Dialogue: 0,0:13:49.97,0:13:51.74,Default,Iori,0,0,0,,You're too scary, Inaban.{Scarier than syphilis}
+Dialogue: 0,0:13:54.64,0:13:56.74,Default,Iori,0,0,0,,Sorry about dropping in without warning.
+Dialogue: 0,0:13:56.74,0:13:57.29,Default,Iori,0,0,0,,But...
+Dialogue: 0,0:13:57.29,0:13:58.61,Default,Yui,0,0,0,,No, it's okay.
+Dialogue: 0,0:13:58.61,0:13:59.90,Default,Yui,0,0,0,,I should be the one to apologize.
+Dialogue: 0,0:13:59.90,0:14:01.43,Default,Aoki,0,0,0,,Are you feeling sick or something?
+Dialogue: 0,0:14:01.43,0:14:03.42,Default,Aoki,0,0,0,,We can go if you are.
+Dialogue: 0,0:14:03.42,0:14:04.15,Default,Aoki,0,0,0,,Wait...
+Dialogue: 0,0:14:04.15,0:14:05.33,Default,Aoki,0,0,0,,There's a big zit on your forehead...
+Dialogue: 0,0:14:05.33,0:14:06.50,Default,Yui,0,0,0,,Wait! Wait! Wait!
+Dialogue: 0,0:14:06.50,0:14:08.70,Default,Yui,0,0,0,,Don't look! I made a huge mistake!{I used an oil-based moisturiser!}
+Dialogue: 0,0:14:09.32,0:14:11.08,Default,Ina,0,0,0,,Did you go on a binge?
+Dialogue: 0,0:14:13.11,0:14:14.71,Default,Yui,0,0,0,,Th-That's not it!
+Dialogue: 0,0:14:14.71,0:14:18.86,Default,Yui,0,0,0,,Yesterday, I suddenly had the urge\N to gorge myself on sweets.{Did you rub fries onto your face?}
+Dialogue: 0,0:14:18.86,0:14:22.23,Default,Yui,0,0,0,,I wanted to die when I started\N counting all the calories.
+Dialogue: 0,0:14:22.23,0:14:24.55,Default,Iori,0,0,0,,Wow, that's terrifying.
+Dialogue: 0,0:14:24.82,0:14:27.90,Default,Tai,0,0,0,,You must've had an episode\N while you were hungry.
+Dialogue: 0,0:14:27.90,0:14:31.02,Default,Aoki,0,0,0,,You wouldn't've stayed home\N from school because of that zit?
+Dialogue: 0,0:14:31.02,0:14:33.52,Default,Yui,0,0,0,,I'm not {\i1}that{\i0} stupid!
+Dialogue: 0,0:14:33.52,0:14:37.36,Default,Ina,0,0,0,,Then it's because Heartseed's\N been unleashing your desires?
+Dialogue: 0,0:14:43.20,0:14:44.85,Default,Ina,0,0,0,,That's silly.
+Dialogue: 0,0:14:44.85,0:14:47.09,Default,Ina,0,0,0,,We're all in the same boat.
+Dialogue: 0,0:14:47.50,0:14:48.82,Default,Yui,0,0,0,,But...
+Dialogue: 0,0:14:48.82,0:14:51.10,Default,Yui,0,0,0,,I don't want to hurt anyone else.
+Dialogue: 0,0:14:52.21,0:14:56.71,Default,Yui,0,0,0,,When I saw those girls surrounded by a bunch of guys,
+Dialogue: 0,0:14:56.71,0:14:59.08,Default,Yui,0,0,0,,I really wanted to help them.
+Dialogue: 0,0:14:59.71,0:15:02.09,Default,Yui,0,0,0,,Then I went berserk.
+Dialogue: 0,0:15:02.39,0:15:05.84,Default,Iori,0,0,0,,That was because Heartseed did something funny to you.
+Dialogue: 0,0:15:06.36,0:15:11.22,Default,Yui,0,0,0,,But I was the one who wanted\N to hurt those guys so badly.
+Dialogue: 0,0:15:11.77,0:15:15.24,Default,Yui,0,0,0,,All because I have a strong hatred for men.{yes, yes! let anger and hatred guide your blows!}
+Dialogue: 0,0:15:15.24,0:15:17.23,Default,Yui,0,0,0,,Who knows what might happen next time?
+Dialogue: 0,0:15:17.89,0:15:19.69,Default,Yui,0,0,0,,I can't go outside like this!
+Dialogue: 0,0:15:21.29,0:15:23.19,Default,Ina,0,0,0,,Stop playing the victim.
+Dialogue: 0,0:15:24.72,0:15:25.92,Default,Iori,0,0,0,,Inaban?
+Dialogue: 0,0:15:25.92,0:15:28.45,Default,Ina,0,0,0,,You don't get to be the only\N one who hides in her room.
+Dialogue: 0,0:15:28.76,0:15:32.20,Default,Yui,0,0,0,,Well, if I don't run into anyone, I can't hurt them.
+Dialogue: 0,0:15:32.52,0:15:35.08,Default,Ina,0,0,0,,Do you understand the current situation?
+Dialogue: 0,0:15:35.08,0:15:36.42,Default,Ina,0,0,0,,Obviously not.
+Dialogue: 0,0:15:36.42,0:15:38.21,Default,Tai,0,0,0,,Hey, Inaba...
+Dialogue: 0,0:15:38.36,0:15:41.01,Default,Ina,0,0,0,,Nothing can go wrong if you\N stay away from everyone else.
+Dialogue: 0,0:15:41.01,0:15:43.20,Default,Ina,0,0,0,,Sure, I considered trying that.
+Dialogue: 0,0:15:43.20,0:15:47.47,Default,Ina,0,0,0,,But the problem is that Heartseed might not be amused.
+Dialogue: 0,0:15:47.89,0:15:50.41,Default,Ina,0,0,0,,He's looking for entertainment.
+Dialogue: 0,0:15:50.41,0:15:53.52,Default,Ina,0,0,0,,And if need be, he'll take steps to make sure he gets it.
+Dialogue: 0,0:15:53.52,0:15:55.97,Default,Ina,0,0,0,,Like having one of us jump in the river,
+Dialogue: 0,0:15:56.24,0:15:58.48,Default,Ina,0,0,0,,or something even worse!
+Dialogue: 0,0:15:58.64,0:16:01.98,Default,Ina,0,0,0,,All five of us may be put in danger!
+Dialogue: 0,0:16:06.46,0:16:10.65,Default,Ina,0,0,0,,Do you realize how much worse it is for everyone else if you bail?!
+Dialogue: 0,0:16:11.05,0:16:12.41,Default,Ina,0,0,0,,Well?!
+Dialogue: 0,0:16:13.34,0:16:15.79,Default,Yui,0,0,0,,I don't know...
+Dialogue: 0,0:16:15.79,0:16:17.16,Default,Yui,0,0,0,,What should I do?
+Dialogue: 0,0:16:17.35,0:16:19.00,Default,Ina,0,0,0,,Take control!{take control! we're giving gotham back... to the people...}
+Dialogue: 0,0:16:19.00,0:16:21.44,Default,Ina,0,0,0,,Don't expect someone else\N to help you out if you cry!
+Dialogue: 0,0:16:21.44,0:16:21.91,Default,Iori,0,0,0,,Inaban!
+Dialogue: 0,0:16:31.33,0:16:33.31,Default,Ina,0,0,0,,Sorry, Yui.
+Dialogue: 0,0:16:33.31,0:16:35.86,Default,Ina,0,0,0,,I didn't mean to be so hard on you.
+Dialogue: 0,0:16:35.86,0:16:37.81,Default,Ina,0,0,0,,I must've had an episode.
+Dialogue: 0,0:16:37.96,0:16:40.81,Default,Yui,0,0,0,,But that's how you really feel.
+Dialogue: 0,0:17:15.71,0:17:16.91,Default,Iori,0,0,0,,How would {\i1}I{\i0} know?!
+Dialogue: 0,0:17:16.91,0:17:18.43,Default,Iori,0,0,0,,Don't ask me!
+Dialogue: 0,0:17:18.98,0:17:19.69,Default,Seto,0,0,0,,What?
+Dialogue: 0,0:17:19.69,0:17:23.14,Default,,0,0,0,,I just wanted to know what was\N going on with that Kiriyama girl.
+Dialogue: 0,0:17:23.54,0:17:25.39,Default,Iori,0,0,0,,That's what I wanna know!
+Dialogue: 0,0:17:32.37,0:17:35.55,Default,Seto,0,0,0,,What are you snapping at me for?
+Dialogue: 0,0:17:35.55,0:17:38.00,Default,Iori,0,0,0,,Oh, um...
+Dialogue: 0,0:17:38.00,0:17:39.12,Default,Iori,0,0,0,,No.
+Dialogue: 0,0:17:39.12,0:17:40.50,Default,Iori,0,0,0,,Well, I didn't mean to yell at—
+Dialogue: 0,0:17:40.50,0:17:43.62,Default,Seto,0,0,0,,You think you're better than me\N because you have a cute face?{idk man, you're kinda cute too}
+Dialogue: 0,0:17:44.59,0:17:46.08,Default,Iori,0,0,0,,I don't.
+Dialogue: 0,0:17:46.51,0:17:48.48,Default,Wata,0,0,0,,Hey, shouldn't you help out?
+Dialogue: 0,0:18:04.49,0:18:05.95,Default,Fuji,0,0,0,,Stop, that's enough.
+Dialogue: 0,0:18:05.95,0:18:06.43,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:18:06.73,0:18:08.74,Default,Fuji,0,0,0,,Sorry, Setouchi.
+Dialogue: 0,0:18:08.74,0:18:12.71,Default,Fuji,0,0,0,,Kiriyama's absence is sort of a sensitive issue.
+Dialogue: 0,0:18:12.71,0:18:17.00,Default,Fuji,0,0,0,,She lashed out at you because everyone keeps asking her the same question.
+Dialogue: 0,0:18:17.00,0:18:18.29,Default,Fuji,0,0,0,,Isn't that right, Nagase?
+Dialogue: 0,0:18:18.29,0:18:19.06,Default,Iori,0,0,0,,Huh?
+Dialogue: 0,0:18:19.06,0:18:20.17,Default,Iori,0,0,0,,Oh, yeah.
+Dialogue: 0,0:18:20.17,0:18:21.94,Default,Iori,0,0,0,,I'm worried about her too, so I just...
+Dialogue: 0,0:18:23.25,0:18:24.35,Default,Iori,0,0,0,,I'm sorry.
+Dialogue: 0,0:18:24.35,0:18:25.91,Default,Iori,0,0,0,,It was all my fault.{Excellent. Make it look like you were the one wronged.}
+Dialogue: 0,0:18:27.30,0:18:29.80,Default,Seto,0,0,0,,You don't have to apologize.
+Dialogue: 0,0:18:29.80,0:18:32.79,Default,Seto,0,0,0,,I was the one who kinda\N embarrassed myself at the end.{That's how Dick Cheney got away with shooting someone in the face at point-blank range}
+Dialogue: 0,0:18:33.64,0:18:35.19,Default,Seto,0,0,0,,I'm sorry.
+Dialogue: 0,0:18:37.85,0:18:40.09,Default,Wata,0,0,0,,Fujishima is so awesome.
+Dialogue: 0,0:18:43.03,0:18:44.14,Default,Tai,0,0,0,,Inaba...
+Dialogue: 0,0:19:04.24,0:19:05.11,Default,Tai,0,0,0,,Inaba...
+Dialogue: 0,0:19:06.75,0:19:08.24,Default,Ina,0,0,0,,I'm going home.
+Dialogue: 0,0:19:08.24,0:19:08.70,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:19:08.70,0:19:09.12,Default,Ina,0,0,0,,Bye.
+Dialogue: 0,0:19:09.64,0:19:11.06,Default,Tai,0,0,0,,Wait, Inaba.
+Dialogue: 0,0:19:11.06,0:19:12.25,Default,Tai,0,0,0,,Why are you leaving?
+Dialogue: 0,0:19:12.25,0:19:13.18,Default,Tai,0,0,0,,Do you have something to do?
+Dialogue: 0,0:19:13.18,0:19:13.62,Default,Ina,0,0,0,,Not really.
+Dialogue: 0,0:19:13.93,0:19:15.57,Default,Tai,0,0,0,,Not really?
+Dialogue: 0,0:19:15.57,0:19:17.98,Default,Tai,0,0,0,,Kiriyama was absent again.
+Dialogue: 0,0:19:17.98,0:19:19.14,Default,Ina,0,0,0,,So?
+Dialogue: 0,0:19:19.14,0:19:21.63,Default,Tai,0,0,0,,We need to go see her again today.
+Dialogue: 0,0:19:22.80,0:19:25.84,Default,Ina,0,0,0,,My presence would be detrimental.
+Dialogue: 0,0:19:26.47,0:19:28.61,Default,Tai,0,0,0,,Is that why you stayed out of it
+Dialogue: 0,0:19:28.61,0:19:30.92,Default,,0,0,0,,when Nagase got in a fight?
+Dialogue: 0,0:19:30.92,0:19:34.39,Default,Ina,0,0,0,,I can't afford to do anything\N that makes the situation worse.
+Dialogue: 0,0:19:35.26,0:19:37.14,Default,Ina,0,0,0,,So I won't be going to the clubroom.
+Dialogue: 0,0:19:37.41,0:19:40.30,Default,Tai,0,0,0,,But Kiriyama's hurting right now.
+Dialogue: 0,0:19:40.30,0:19:43.15,Default,Tai,0,0,0,,Sure, I understand that\N yesterday was hard on you...
+Dialogue: 0,0:19:43.15,0:19:44.65,Default,Tai,0,0,0,,{\i1}That's no excuse.{\i0}
+Dialogue: 0,0:19:46.20,0:19:48.55,Default,Tai,0,0,0,,How can you just give up?!
+Dialogue: 0,0:19:48.55,0:19:50.53,Default,Tai,0,0,0,,We have to do something!
+Dialogue: 0,0:19:50.98,0:19:55.95,Default,Ina,0,0,0,,Not everyone puts other people\N before themselves the way you do.
+Dialogue: 0,0:19:56.38,0:19:59.61,Default,Ina,0,0,0,,There are times when I'm too\N busy with my own problems.
+Dialogue: 0,0:19:59.61,0:20:02.67,Default,Tai,0,0,0,,That doesn't make it okay to\N ignore someone who's suffering!
+Dialogue: 0,0:20:03.89,0:20:06.76,Default,Ina,0,0,0,,You can't force other people\N to follow your sick ideals!
+Dialogue: 0,0:20:07.29,0:20:09.46,Default,Tai,0,0,0,,I'm disappointed in you, Inaba.{i think you know how it was for me to not fuck with this line}
+Dialogue: 0,0:20:09.46,0:20:11.26,Default,Tai,0,0,0,,I never thought you'd give up on your friends.
+Dialogue: 0,0:20:13.84,0:20:16.47,Default,Tai,0,0,0,,I thought you were better than that.
+Dialogue: 0,0:20:34.83,0:20:38.48,Default,Ina,0,0,0,,I guess I'm not good enough for you.
+Dialogue: 0,0:20:54.38,0:20:56.64,SuCkS,,0,0,0,,{\frx-12\pos(641,511)\c&H314B50&\blur0.8\frz0.7}{20:55}Student{\c&H354E55&} Cultu{\c&H3B585E&}ral{\c&H3D6069&} Society
+Dialogue: 0,0:20:57.33,0:21:01.27,Default,Iori,0,0,0,,Inaban, Taichi, and me... \Nwe all have the worst timing.
+Dialogue: 0,0:21:01.62,0:21:05.08,Default,Tai,0,0,0,,I've been trying to call Inaba,\N but she won't answer.
+Dialogue: 0,0:21:05.08,0:21:07.48,Default,Tai,0,0,0,,I'll apologize when I see her\N tomorrow morning.
+Dialogue: 0,0:21:07.48,0:21:12.80,Default,Aoki,0,0,0,,Yeah, the best response would be\N to apologize and move on.
+Dialogue: 0,0:21:12.80,0:21:16.28,Default,Aoki,0,0,0,,Inaba knows that you meant no harm.
+Dialogue: 0,0:21:19.13,0:21:22.54,Default,Iori,0,0,0,,Okay, it'll just be the three of us visiting Yui today.
+Dialogue: 0,0:21:22.91,0:21:26.60,Default,Aoki,0,0,0,,Yeah, Yui should be feeling better now.
+Dialogue: 0,0:21:31.17,0:21:31.21,phoning it in,,0,0,0,,{\fs2\fscx3100\t(0,100,\fscx3100)\fscy3000\t(0,100,\fscy3000)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618,56)}{21:33} Yui
+Dialogue: 0,0:21:31.17,0:21:31.21,phoning it in,,0,0,0,,{\fs2\fscx3100\t(0,100,\fscx3100)\fscy3000\t(0,100,\fscy3000)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(708,178)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.17,0:21:31.21,phoning it in,,0,0,0,,{\fs2\fscx3100\t(0,100,\fscx3100)\fscy3000\t(0,100,\fscy3000)\fax-0.04\blur1\c&H648189&\frz350.7\pos(468,404)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.21,0:21:31.25,phoning it in,,0,0,0,,{\fs2\fscx3097\t(-73,26,\fscx3098)\fscy2997\t(-80,19,\fscy2998)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.04,56.21)}{21:33} Yui
+Dialogue: 0,0:21:31.21,0:21:31.25,phoning it in,,0,0,0,,{\fs2\fscx3097\t(-73,26,\fscx3098)\fscy2997\t(-80,19,\fscy2998)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.98,178.12)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.21,0:21:31.25,phoning it in,,0,0,0,,{\fs2\fscx3097\t(-73,26,\fscx3098)\fscy2997\t(-80,19,\fscy2998)\fax-0.04\blur1\c&H648189&\frz350.7\pos(468.15,403.95)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.25,0:21:31.29,phoning it in,,0,0,0,,{\fs2\fscx3094\t(-15,84,\fscx3095)\fscy2994\t(-34,65,\fscy2995)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.06,56.55)}{21:33} Yui
+Dialogue: 0,0:21:31.25,0:21:31.29,phoning it in,,0,0,0,,{\fs2\fscx3094\t(-15,84,\fscx3095)\fscy2994\t(-34,65,\fscy2995)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.89,178.32)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.25,0:21:31.29,phoning it in,,0,0,0,,{\fs2\fscx3094\t(-15,84,\fscx3095)\fscy2994\t(-34,65,\fscy2995)\fax-0.04\blur1\c&H648189&\frz350.7\pos(468.34,403.89)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.29,0:21:31.34,phoning it in,,0,0,0,,{\fs2\fscx3090\t(-59,40,\fscx3091)\fscy2990\t(-88,11,\fscy2991)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.08,56.91)}{21:33} Yui
+Dialogue: 0,0:21:31.29,0:21:31.34,phoning it in,,0,0,0,,{\fs2\fscx3090\t(-59,40,\fscx3091)\fscy2990\t(-88,11,\fscy2991)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.81,178.54)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.29,0:21:31.34,phoning it in,,0,0,0,,{\fs2\fscx3090\t(-59,40,\fscx3091)\fscy2990\t(-88,11,\fscy2991)\fax-0.04\blur1\c&H648189&\frz350.7\pos(468.54,403.85)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.34,0:21:31.38,phoning it in,,0,0,0,,{\fs2\fscx3087\t(-76,23,\fscx3088)\fscy2988\t(-15,84,\fscy2989)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.11,57.17)}{21:33} Yui
+Dialogue: 0,0:21:31.34,0:21:31.38,phoning it in,,0,0,0,,{\fs2\fscx3087\t(-76,23,\fscx3088)\fscy2988\t(-15,84,\fscy2989)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.75,178.69)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.34,0:21:31.38,phoning it in,,0,0,0,,{\fs2\fscx3087\t(-76,23,\fscx3088)\fscy2988\t(-15,84,\fscy2989)\fax-0.04\blur1\c&H648189&\frz350.7\pos(468.7,403.8)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.38,0:21:31.42,phoning it in,,0,0,0,,{\fs2\fscx3084\t(-84,15,\fscx3085)\fscy2985\t(-32,67,\fscy2986)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.14,57.45)}{21:33} Yui
+Dialogue: 0,0:21:31.38,0:21:31.42,phoning it in,,0,0,0,,{\fs2\fscx3084\t(-84,15,\fscx3085)\fscy2985\t(-32,67,\fscy2986)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.7,178.85)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.38,0:21:31.42,phoning it in,,0,0,0,,{\fs2\fscx3084\t(-84,15,\fscx3085)\fscy2985\t(-32,67,\fscy2986)\fax-0.04\blur1\c&H648189&\frz350.7\pos(468.87,403.75)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.42,0:21:31.46,phoning it in,,0,0,0,,{\fs2\fscx3081\t(-17,82,\fscx3082)\fscy2981\t(-78,21,\fscy2982)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.16,57.81)}{21:33} Yui
+Dialogue: 0,0:21:31.42,0:21:31.46,phoning it in,,0,0,0,,{\fs2\fscx3081\t(-17,82,\fscx3082)\fscy2981\t(-78,21,\fscy2982)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.61,179.07)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.42,0:21:31.46,phoning it in,,0,0,0,,{\fs2\fscx3081\t(-17,82,\fscx3082)\fscy2981\t(-78,21,\fscy2982)\fax-0.04\blur1\c&H648189&\frz350.7\pos(469.07,403.7)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.46,0:21:31.50,phoning it in,,0,0,0,,{\fs2\fscx3077\t(-92,7,\fscx3078)\fscy2978\t(-63,36,\fscy2979)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.18,58.14)}{21:33} Yui
+Dialogue: 0,0:21:31.46,0:21:31.50,phoning it in,,0,0,0,,{\fs2\fscx3077\t(-92,7,\fscx3078)\fscy2978\t(-63,36,\fscy2979)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.54,179.27)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.46,0:21:31.50,phoning it in,,0,0,0,,{\fs2\fscx3077\t(-92,7,\fscx3078)\fscy2978\t(-63,36,\fscy2979)\fax-0.04\blur1\c&H648189&\frz350.7\pos(469.25,403.67)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.50,0:21:31.54,phoning it in,,0,0,0,,{\fs2\fscx3074\t(-65,34,\fscx3075)\fscy2975\t(-48,51,\fscy2976)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.19,58.46)}{21:33} Yui
+Dialogue: 0,0:21:31.50,0:21:31.54,phoning it in,,0,0,0,,{\fs2\fscx3074\t(-65,34,\fscx3075)\fscy2975\t(-48,51,\fscy2976)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.46,179.46)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.50,0:21:31.54,phoning it in,,0,0,0,,{\fs2\fscx3074\t(-65,34,\fscx3075)\fscy2975\t(-48,51,\fscy2976)\fax-0.04\blur1\c&H648189&\frz350.7\pos(469.42,403.61)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.54,0:21:31.59,phoning it in,,0,0,0,,{\fs2\fscx3071\t(-78,21,\fscx3072)\fscy2972\t(-69,30,\fscy2973)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.24,58.74)}{21:33} Yui
+Dialogue: 0,0:21:31.54,0:21:31.59,phoning it in,,0,0,0,,{\fs2\fscx3071\t(-78,21,\fscx3072)\fscy2972\t(-69,30,\fscy2973)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.42,179.63)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.54,0:21:31.59,phoning it in,,0,0,0,,{\fs2\fscx3071\t(-78,21,\fscx3072)\fscy2972\t(-69,30,\fscy2973)\fax-0.04\blur1\c&H648189&\frz350.7\pos(469.6,403.57)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.59,0:21:31.63,phoning it in,,0,0,0,,{\fs2\fscx3068\t(-73,26,\fscx3069)\fscy2969\t(-75,25,\fscy2970)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.26,59.03)}{21:33} Yui
+Dialogue: 0,0:21:31.59,0:21:31.63,phoning it in,,0,0,0,,{\fs2\fscx3068\t(-73,26,\fscx3069)\fscy2969\t(-75,25,\fscy2970)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.35,179.8)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.59,0:21:31.63,phoning it in,,0,0,0,,{\fs2\fscx3068\t(-73,26,\fscx3069)\fscy2969\t(-75,25,\fscy2970)\fax-0.04\blur1\c&H648189&\frz350.7\pos(469.77,403.52)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.63,0:21:31.67,phoning it in,,0,0,0,,{\fs2\fscx3065\t(-51,48,\fscx3066)\fscy2966\t(-63,36,\fscy2967)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.3,59.35)}{21:33} Yui
+Dialogue: 0,0:21:31.63,0:21:31.67,phoning it in,,0,0,0,,{\fs2\fscx3065\t(-51,48,\fscx3066)\fscy2966\t(-63,36,\fscy2967)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.3,179.99)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.63,0:21:31.67,phoning it in,,0,0,0,,{\fs2\fscx3065\t(-51,48,\fscx3066)\fscy2966\t(-63,36,\fscy2967)\fax-0.04\blur1\c&H648189&\frz350.7\pos(469.97,403.48)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.67,0:21:31.71,phoning it in,,0,0,0,,{\fs2\fscx3062\t(-21,78,\fscx3063)\fscy2963\t(-42,57,\fscy2964)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.31,59.66)}{21:33} Yui
+Dialogue: 0,0:21:31.67,0:21:31.71,phoning it in,,0,0,0,,{\fs2\fscx3062\t(-21,78,\fscx3063)\fscy2963\t(-42,57,\fscy2964)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.21,180.18)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.67,0:21:31.71,phoning it in,,0,0,0,,{\fs2\fscx3062\t(-21,78,\fscx3063)\fscy2963\t(-42,57,\fscy2964)\fax-0.04\blur1\c&H648189&\frz350.7\pos(470.14,403.42)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.71,0:21:31.75,phoning it in,,0,0,0,,{\fs2\fscx3059\t(-1,98,\fscx3060)\fscy2960\t(-32,67,\fscy2961)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.34,59.98)}{21:33} Yui
+Dialogue: 0,0:21:31.71,0:21:31.75,phoning it in,,0,0,0,,{\fs2\fscx3059\t(-1,98,\fscx3060)\fscy2960\t(-32,67,\fscy2961)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.15,180.37)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.71,0:21:31.75,phoning it in,,0,0,0,,{\fs2\fscx3059\t(-1,98,\fscx3060)\fscy2960\t(-32,67,\fscy2961)\fax-0.04\blur1\c&H648189&\frz350.7\pos(470.33,403.38)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.75,0:21:31.79,phoning it in,,0,0,0,,{\fs2\fscx3055\t(-98,1,\fscx3056)\fscy2957\t(-40,59,\fscy2958)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.36,60.28)}{21:33} Yui
+Dialogue: 0,0:21:31.75,0:21:31.79,phoning it in,,0,0,0,,{\fs2\fscx3055\t(-98,1,\fscx3056)\fscy2957\t(-40,59,\fscy2958)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.08,180.55)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.75,0:21:31.79,phoning it in,,0,0,0,,{\fs2\fscx3055\t(-98,1,\fscx3056)\fscy2957\t(-40,59,\fscy2958)\fax-0.04\blur1\c&H648189&\frz350.7\pos(470.49,403.34)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.79,0:21:31.84,phoning it in,,0,0,0,,{\fs2\fscx3052\t(-76,23,\fscx3053)\fscy2954\t(-28,71,\fscy2955)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.39,60.59)}{21:33} Yui
+Dialogue: 0,0:21:31.79,0:21:31.84,phoning it in,,0,0,0,,{\fs2\fscx3052\t(-76,23,\fscx3053)\fscy2954\t(-28,71,\fscy2955)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(707.01,180.73)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.79,0:21:31.84,phoning it in,,0,0,0,,{\fs2\fscx3052\t(-76,23,\fscx3053)\fscy2954\t(-28,71,\fscy2955)\fax-0.04\blur1\c&H648189&\frz350.7\pos(470.67,403.29)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.84,0:21:31.88,phoning it in,,0,0,0,,{\fs2\fscx3049\t(-19,80,\fscx3050)\fscy2950\t(-84,15,\fscy2951)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.4,60.94)}{21:33} Yui
+Dialogue: 0,0:21:31.84,0:21:31.88,phoning it in,,0,0,0,,{\fs2\fscx3049\t(-19,80,\fscx3050)\fscy2950\t(-84,15,\fscy2951)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.92,180.94)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.84,0:21:31.88,phoning it in,,0,0,0,,{\fs2\fscx3049\t(-19,80,\fscx3050)\fscy2950\t(-84,15,\fscy2951)\fax-0.04\blur1\c&H648189&\frz350.7\pos(470.85,403.24)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.88,0:21:31.92,phoning it in,,0,0,0,,{\fs2\fscx3046\t(-40,59,\fscx3047)\fscy2948\t(-13,86,\fscy2949)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.44,61.21)}{21:33} Yui
+Dialogue: 0,0:21:31.88,0:21:31.92,phoning it in,,0,0,0,,{\fs2\fscx3046\t(-40,59,\fscx3047)\fscy2948\t(-13,86,\fscy2949)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.88,181.1)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.88,0:21:31.92,phoning it in,,0,0,0,,{\fs2\fscx3046\t(-40,59,\fscx3047)\fscy2948\t(-13,86,\fscy2949)\fax-0.04\blur1\c&H648189&\frz350.7\pos(471.03,403.19)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.92,0:21:31.96,phoning it in,,0,0,0,,{\fs2\fscx3043\t(-3,96,\fscx3044)\fscy2944\t(-88,11,\fscy2945)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.46,61.54)}{21:33} Yui
+Dialogue: 0,0:21:31.92,0:21:31.96,phoning it in,,0,0,0,,{\fs2\fscx3043\t(-3,96,\fscx3044)\fscy2944\t(-88,11,\fscy2945)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.81,181.3)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.92,0:21:31.96,phoning it in,,0,0,0,,{\fs2\fscx3043\t(-3,96,\fscx3044)\fscy2944\t(-88,11,\fscy2945)\fax-0.04\blur1\c&H648189&\frz350.7\pos(471.22,403.15)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:31.96,0:21:32.00,phoning it in,,0,0,0,,{\fs2\fscx3039\t(-86,13,\fscx3040)\fscy2941\t(-80,19,\fscy2942)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.49,61.86)}{21:33} Yui
+Dialogue: 0,0:21:31.96,0:21:32.00,phoning it in,,0,0,0,,{\fs2\fscx3039\t(-86,13,\fscx3040)\fscy2941\t(-80,19,\fscy2942)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.74,181.5)}{21:33} (No Subject)
+Dialogue: 0,0:21:31.96,0:21:32.00,phoning it in,,0,0,0,,{\fs2\fscx3039\t(-86,13,\fscx3040)\fscy2941\t(-80,19,\fscy2942)\fax-0.04\blur1\c&H648189&\frz350.7\pos(471.4,403.11)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.00,0:21:32.05,phoning it in,,0,0,0,,{\fs2\fscx3036\t(-80,19,\fscx3037)\fscy2938\t(-84,15,\fscy2939)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.52,62.15)}{21:33} Yui
+Dialogue: 0,0:21:32.00,0:21:32.05,phoning it in,,0,0,0,,{\fs2\fscx3036\t(-80,19,\fscx3037)\fscy2938\t(-84,15,\fscy2939)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.69,181.67)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.00,0:21:32.05,phoning it in,,0,0,0,,{\fs2\fscx3036\t(-80,19,\fscx3037)\fscy2938\t(-84,15,\fscy2939)\fax-0.04\blur1\c&H648189&\frz350.7\pos(471.58,403.06)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.05,0:21:32.09,phoning it in,,0,0,0,,{\fs2\fscx3033\t(-78,21,\fscx3034)\fscy2935\t(-92,7,\fscy2936)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.55,62.44)}{21:33} Yui
+Dialogue: 0,0:21:32.05,0:21:32.09,phoning it in,,0,0,0,,{\fs2\fscx3033\t(-78,21,\fscx3034)\fscy2935\t(-92,7,\fscy2936)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.63,181.83)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.05,0:21:32.09,phoning it in,,0,0,0,,{\fs2\fscx3033\t(-78,21,\fscx3034)\fscy2935\t(-92,7,\fscy2936)\fax-0.04\blur1\c&H648189&\frz350.7\pos(471.75,403)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.09,0:21:32.13,phoning it in,,0,0,0,,{\fs2\fscx3030\t(-48,51,\fscx3031)\fscy2932\t(-73,26,\fscy2933)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.57,62.76)}{21:33} Yui
+Dialogue: 0,0:21:32.09,0:21:32.13,phoning it in,,0,0,0,,{\fs2\fscx3030\t(-48,51,\fscx3031)\fscy2932\t(-73,26,\fscy2933)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.55,182.03)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.09,0:21:32.13,phoning it in,,0,0,0,,{\fs2\fscx3030\t(-48,51,\fscx3031)\fscy2932\t(-73,26,\fscy2933)\fax-0.04\blur1\c&H648189&\frz350.7\pos(471.93,402.96)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.13,0:21:32.17,phoning it in,,0,0,0,,{\fs2\fscx3026\t(-98,1,\fscx3027)\fscy2929\t(-34,65,\fscy2930)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.6,63.11)}{21:33} Yui
+Dialogue: 0,0:21:32.13,0:21:32.17,phoning it in,,0,0,0,,{\fs2\fscx3026\t(-98,1,\fscx3027)\fscy2929\t(-34,65,\fscy2930)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.48,182.24)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.13,0:21:32.17,phoning it in,,0,0,0,,{\fs2\fscx3026\t(-98,1,\fscx3027)\fscy2929\t(-34,65,\fscy2930)\fax-0.04\blur1\c&H648189&\frz350.7\pos(472.13,402.92)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.17,0:21:32.21,phoning it in,,0,0,0,,{\fs2\fscx3023\t(-84,15,\fscx3024)\fscy2926\t(-30,69,\fscy2927)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.61,63.42)}{21:33} Yui
+Dialogue: 0,0:21:32.17,0:21:32.21,phoning it in,,0,0,0,,{\fs2\fscx3023\t(-84,15,\fscx3024)\fscy2926\t(-30,69,\fscy2927)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.4,182.42)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.17,0:21:32.21,phoning it in,,0,0,0,,{\fs2\fscx3023\t(-84,15,\fscx3024)\fscy2926\t(-30,69,\fscy2927)\fax-0.04\blur1\c&H648189&\frz350.7\pos(472.3,402.87)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.21,0:21:32.25,phoning it in,,0,0,0,,{\fs2\fscx3020\t(-65,34,\fscx3021)\fscy2923\t(-21,78,\fscy2924)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.63,63.72)}{21:33} Yui
+Dialogue: 0,0:21:32.21,0:21:32.25,phoning it in,,0,0,0,,{\fs2\fscx3020\t(-65,34,\fscx3021)\fscy2923\t(-21,78,\fscy2924)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.33,182.6)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.21,0:21:32.25,phoning it in,,0,0,0,,{\fs2\fscx3020\t(-65,34,\fscx3021)\fscy2923\t(-21,78,\fscy2924)\fax-0.04\blur1\c&H648189&\frz350.7\pos(472.47,402.81)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.25,0:21:32.30,phoning it in,,0,0,0,,{\fs2\fscx3017\t(-40,59,\fscx3018)\fscy2920\t(-7,92,\fscy2921)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.65,64.04)}{21:33} Yui
+Dialogue: 0,0:21:32.25,0:21:32.30,phoning it in,,0,0,0,,{\fs2\fscx3017\t(-40,59,\fscx3018)\fscy2920\t(-7,92,\fscy2921)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.25,182.79)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.25,0:21:32.30,phoning it in,,0,0,0,,{\fs2\fscx3017\t(-40,59,\fscx3018)\fscy2920\t(-7,92,\fscy2921)\fax-0.04\blur1\c&H648189&\frz350.7\pos(472.65,402.77)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.30,0:21:32.34,phoning it in,,0,0,0,,{\fs2\fscx3014\t(-42,57,\fscx3015)\fscy2917\t(-17,82,\fscy2918)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.68,64.35)}{21:33} Yui
+Dialogue: 0,0:21:32.30,0:21:32.34,phoning it in,,0,0,0,,{\fs2\fscx3014\t(-42,57,\fscx3015)\fscy2917\t(-17,82,\fscy2918)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.2,182.98)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.30,0:21:32.34,phoning it in,,0,0,0,,{\fs2\fscx3014\t(-42,57,\fscx3015)\fscy2917\t(-17,82,\fscy2918)\fax-0.04\blur1\c&H648189&\frz350.7\pos(472.82,402.74)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.34,0:21:32.38,phoning it in,,0,0,0,,{\fs2\fscx3010\t(-94,5,\fscx3011)\fscy2913\t(-82,17,\fscy2914)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.69,64.68)}{21:33} Yui
+Dialogue: 0,0:21:32.34,0:21:32.38,phoning it in,,0,0,0,,{\fs2\fscx3010\t(-94,5,\fscx3011)\fscy2913\t(-82,17,\fscy2914)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.1,183.18)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.34,0:21:32.38,phoning it in,,0,0,0,,{\fs2\fscx3010\t(-94,5,\fscx3011)\fscy2913\t(-82,17,\fscy2914)\fax-0.04\blur1\c&H648189&\frz350.7\pos(473,402.68)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.38,0:21:32.42,phoning it in,,0,0,0,,{\fs2\fscx3008\t(-9,90,\fscx3009)\fscy2911\t(-7,92,\fscy2912)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.73,64.95)}{21:33} Yui
+Dialogue: 0,0:21:32.38,0:21:32.42,phoning it in,,0,0,0,,{\fs2\fscx3008\t(-9,90,\fscx3009)\fscy2911\t(-7,92,\fscy2912)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(706.06,183.33)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.38,0:21:32.42,phoning it in,,0,0,0,,{\fs2\fscx3008\t(-9,90,\fscx3009)\fscy2911\t(-7,92,\fscy2912)\fax-0.04\blur1\c&H648189&\frz350.7\pos(473.17,402.63)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.42,0:21:32.46,phoning it in,,0,0,0,,{\fs2\fscx3004\t(-73,26,\fscx3005)\fscy2907\t(-80,19,\fscy2908)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.74,65.28)}{21:33} Yui
+Dialogue: 0,0:21:32.42,0:21:32.46,phoning it in,,0,0,0,,{\fs2\fscx3004\t(-73,26,\fscx3005)\fscy2907\t(-80,19,\fscy2908)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.97,183.53)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.42,0:21:32.46,phoning it in,,0,0,0,,{\fs2\fscx3004\t(-73,26,\fscx3005)\fscy2907\t(-80,19,\fscy2908)\fax-0.04\blur1\c&H648189&\frz350.7\pos(473.35,402.59)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.46,0:21:32.50,phoning it in,,0,0,0,,{\fs2\fscx3001\t(-44,55,\fscx3002)\fscy2904\t(-61,38,\fscy2905)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.77,65.62)}{21:33} Yui
+Dialogue: 0,0:21:32.46,0:21:32.50,phoning it in,,0,0,0,,{\fs2\fscx3001\t(-44,55,\fscx3002)\fscy2904\t(-61,38,\fscy2905)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.91,183.74)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.46,0:21:32.50,phoning it in,,0,0,0,,{\fs2\fscx3001\t(-44,55,\fscx3002)\fscy2904\t(-61,38,\fscy2905)\fax-0.04\blur1\c&H648189&\frz350.7\pos(473.54,402.56)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.50,0:21:32.55,phoning it in,,0,0,0,,{\fs2\fscx2997\t(-94,5,\fscx2998)\fscy2901\t(-23,76,\fscy2902)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.79,65.95)}{21:33} Yui
+Dialogue: 0,0:21:32.50,0:21:32.55,phoning it in,,0,0,0,,{\fs2\fscx2997\t(-94,5,\fscx2998)\fscy2901\t(-23,76,\fscy2902)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.82,183.93)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.50,0:21:32.55,phoning it in,,0,0,0,,{\fs2\fscx2997\t(-94,5,\fscx2998)\fscy2901\t(-23,76,\fscy2902)\fax-0.04\blur1\c&H648189&\frz350.7\pos(473.72,402.49)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.55,0:21:32.59,phoning it in,,0,0,0,,{\fs2\fscx2994\t(-76,23,\fscx2995)\fscy2898\t(-15,84,\fscy2899)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.82,66.24)}{21:33} Yui
+Dialogue: 0,0:21:32.55,0:21:32.59,phoning it in,,0,0,0,,{\fs2\fscx2994\t(-76,23,\fscx2995)\fscy2898\t(-15,84,\fscy2899)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.77,184.1)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.55,0:21:32.59,phoning it in,,0,0,0,,{\fs2\fscx2994\t(-76,23,\fscx2995)\fscy2898\t(-15,84,\fscy2899)\fax-0.04\blur1\c&H648189&\frz350.7\pos(473.92,402.43)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.59,0:21:32.63,phoning it in,,0,0,0,,{\fs2\fscx2991\t(-78,21,\fscx2992)\fscy2895\t(-28,71,\fscy2896)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.84,66.55)}{21:33} Yui
+Dialogue: 0,0:21:32.59,0:21:32.63,phoning it in,,0,0,0,,{\fs2\fscx2991\t(-78,21,\fscx2992)\fscy2895\t(-28,71,\fscy2896)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.7,184.29)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.59,0:21:32.63,phoning it in,,0,0,0,,{\fs2\fscx2991\t(-78,21,\fscx2992)\fscy2895\t(-28,71,\fscy2896)\fax-0.04\blur1\c&H648189&\frz350.7\pos(474.07,402.4)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.63,0:21:32.67,phoning it in,,0,0,0,,{\fs2\fscx2988\t(-28,71,\fscx2989)\fscy2891\t(-90,9,\fscy2892)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.85,66.9)}{21:33} Yui
+Dialogue: 0,0:21:32.63,0:21:32.67,phoning it in,,0,0,0,,{\fs2\fscx2988\t(-28,71,\fscx2989)\fscy2891\t(-90,9,\fscy2892)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.61,184.5)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.63,0:21:32.67,phoning it in,,0,0,0,,{\fs2\fscx2988\t(-28,71,\fscx2989)\fscy2891\t(-90,9,\fscy2892)\fax-0.04\blur1\c&H648189&\frz350.7\pos(474.26,402.36)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.67,0:21:32.71,phoning it in,,0,0,0,,{\fs2\fscx2985\t(-28,71,\fscx2986)\fscy2888\t(-98,1,\fscy2889)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.89,67.19)}{21:33} Yui
+Dialogue: 0,0:21:32.67,0:21:32.71,phoning it in,,0,0,0,,{\fs2\fscx2985\t(-28,71,\fscx2986)\fscy2888\t(-98,1,\fscy2889)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.56,184.67)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.67,0:21:32.71,phoning it in,,0,0,0,,{\fs2\fscx2985\t(-28,71,\fscx2986)\fscy2888\t(-98,1,\fscy2889)\fax-0.04\blur1\c&H648189&\frz350.7\pos(474.44,402.31)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.71,0:21:32.75,phoning it in,,0,0,0,,{\fs2\fscx2982\t(-36,63,\fscx2983)\fscy2886\t(-15,84,\fscy2887)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.92,67.46)}{21:33} Yui
+Dialogue: 0,0:21:32.71,0:21:32.75,phoning it in,,0,0,0,,{\fs2\fscx2982\t(-36,63,\fscx2983)\fscy2886\t(-15,84,\fscy2887)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.51,184.83)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.71,0:21:32.75,phoning it in,,0,0,0,,{\fs2\fscx2982\t(-36,63,\fscx2983)\fscy2886\t(-15,84,\fscy2887)\fax-0.04\blur1\c&H648189&\frz350.7\pos(474.62,402.25)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.75,0:21:32.80,phoning it in,,0,0,0,,{\fs2\fscx2979\t(-13,86,\fscx2980)\fscy2883\t(-3,96,\fscy2884)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.95,67.78)}{21:33} Yui
+Dialogue: 0,0:21:32.75,0:21:32.80,phoning it in,,0,0,0,,{\fs2\fscx2979\t(-13,86,\fscx2980)\fscy2883\t(-3,96,\fscy2884)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.44,185.02)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.75,0:21:32.80,phoning it in,,0,0,0,,{\fs2\fscx2979\t(-13,86,\fscx2980)\fscy2883\t(-3,96,\fscy2884)\fax-0.04\blur1\c&H648189&\frz350.7\pos(474.8,402.21)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.80,0:21:32.84,phoning it in,,0,0,0,,{\fs2\fscx2975\t(-80,19,\fscx2976)\fscy2879\t(-80,19,\fscy2880)\blur1\fax-0.04\c&H819098&\frz350.7\pos(618.98,68.12)}{21:33} Yui
+Dialogue: 0,0:21:32.80,0:21:32.84,phoning it in,,0,0,0,,{\fs2\fscx2975\t(-80,19,\fscx2976)\fscy2879\t(-80,19,\fscy2880)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.37,185.24)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.80,0:21:32.84,phoning it in,,0,0,0,,{\fs2\fscx2975\t(-80,19,\fscx2976)\fscy2879\t(-80,19,\fscy2880)\fax-0.04\blur1\c&H648189&\frz350.7\pos(474.99,402.18)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.84,0:21:32.88,phoning it in,,0,0,0,,{\fs2\fscx2972\t(-53,46,\fscx2973)\fscy2876\t(-65,34,\fscy2877)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619,68.43)}{21:33} Yui
+Dialogue: 0,0:21:32.84,0:21:32.88,phoning it in,,0,0,0,,{\fs2\fscx2972\t(-53,46,\fscx2973)\fscy2876\t(-65,34,\fscy2877)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.3,185.41)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.84,0:21:32.88,phoning it in,,0,0,0,,{\fs2\fscx2972\t(-53,46,\fscx2973)\fscy2876\t(-65,34,\fscy2877)\fax-0.04\blur1\c&H648189&\frz350.7\pos(475.16,402.12)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.88,0:21:32.92,phoning it in,,0,0,0,,{\fs2\fscx2969\t(-65,34,\fscx2970)\fscy2873\t(-84,15,\fscy2874)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.02,68.71)}{21:33} Yui
+Dialogue: 0,0:21:32.88,0:21:32.92,phoning it in,,0,0,0,,{\fs2\fscx2969\t(-65,34,\fscx2970)\fscy2873\t(-84,15,\fscy2874)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.24,185.58)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.88,0:21:32.92,phoning it in,,0,0,0,,{\fs2\fscx2969\t(-65,34,\fscx2970)\fscy2873\t(-84,15,\fscy2874)\fax-0.04\blur1\c&H648189&\frz350.7\pos(475.33,402.08)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.92,0:21:32.96,phoning it in,,0,0,0,,{\fs2\fscx2966\t(-57,42,\fscx2967)\fscy2870\t(-88,11,\fscy2871)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.05,69.02)}{21:33} Yui
+Dialogue: 0,0:21:32.92,0:21:32.96,phoning it in,,0,0,0,,{\fs2\fscx2966\t(-57,42,\fscx2967)\fscy2870\t(-88,11,\fscy2871)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.18,185.77)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.92,0:21:32.96,phoning it in,,0,0,0,,{\fs2\fscx2966\t(-57,42,\fscx2967)\fscy2870\t(-88,11,\fscy2871)\fax-0.04\blur1\c&H648189&\frz350.7\pos(475.51,402.05)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:32.96,0:21:33.00,phoning it in,,0,0,0,,{\fs2\fscx2962\t(-82,17,\fscx2963)\fscy2867\t(-25,75,\fscy2868)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.07,69.38)}{21:33} Yui
+Dialogue: 0,0:21:32.96,0:21:33.00,phoning it in,,0,0,0,,{\fs2\fscx2962\t(-82,17,\fscx2963)\fscy2867\t(-25,75,\fscy2868)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.09,185.99)}{21:33} (No Subject)
+Dialogue: 0,0:21:32.96,0:21:33.00,phoning it in,,0,0,0,,{\fs2\fscx2962\t(-82,17,\fscx2963)\fscy2867\t(-25,75,\fscy2868)\fax-0.04\blur1\c&H648189&\frz350.7\pos(475.71,401.99)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.00,0:21:33.05,phoning it in,,0,0,0,,{\fs2\fscx2959\t(-71,28,\fscx2960)\fscy2864\t(-23,76,\fscy2865)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.1,69.68)}{21:33} Yui
+Dialogue: 0,0:21:33.00,0:21:33.05,phoning it in,,0,0,0,,{\fs2\fscx2959\t(-71,28,\fscx2960)\fscy2864\t(-23,76,\fscy2865)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(705.03,186.16)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.00,0:21:33.05,phoning it in,,0,0,0,,{\fs2\fscx2959\t(-71,28,\fscx2960)\fscy2864\t(-23,76,\fscy2865)\fax-0.04\blur1\c&H648189&\frz350.7\pos(475.89,401.93)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.05,0:21:33.09,phoning it in,,0,0,0,,{\fs2\fscx2956\t(-84,15,\fscx2957)\fscy2861\t(-46,53,\fscy2862)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.14,69.95)}{21:33} Yui
+Dialogue: 0,0:21:33.05,0:21:33.09,phoning it in,,0,0,0,,{\fs2\fscx2956\t(-84,15,\fscx2957)\fscy2861\t(-46,53,\fscy2862)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.98,186.32)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.05,0:21:33.09,phoning it in,,0,0,0,,{\fs2\fscx2956\t(-84,15,\fscx2957)\fscy2861\t(-46,53,\fscy2862)\fax-0.04\blur1\c&H648189&\frz350.7\pos(476.07,401.88)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.09,0:21:33.13,phoning it in,,0,0,0,,{\fs2\fscx2953\t(-57,42,\fscx2954)\fscy2858\t(-30,69,\fscy2859)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.16,70.28)}{21:33} Yui
+Dialogue: 0,0:21:33.09,0:21:33.13,phoning it in,,0,0,0,,{\fs2\fscx2953\t(-57,42,\fscx2954)\fscy2858\t(-30,69,\fscy2859)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.91,186.51)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.09,0:21:33.13,phoning it in,,0,0,0,,{\fs2\fscx2953\t(-57,42,\fscx2954)\fscy2858\t(-30,69,\fscy2859)\fax-0.04\blur1\c&H648189&\frz350.7\pos(476.24,401.84)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.13,0:21:33.17,phoning it in,,0,0,0,,{\fs2\fscx2949\t(-90,9,\fscx2950)\fscy2854\t(-73,26,\fscy2855)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.16,70.65)}{21:33} Yui
+Dialogue: 0,0:21:33.13,0:21:33.17,phoning it in,,0,0,0,,{\fs2\fscx2949\t(-90,9,\fscx2950)\fscy2854\t(-73,26,\fscy2855)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.81,186.74)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.13,0:21:33.17,phoning it in,,0,0,0,,{\fs2\fscx2949\t(-90,9,\fscx2950)\fscy2854\t(-73,26,\fscy2855)\fax-0.04\blur1\c&H648189&\frz350.7\pos(476.43,401.8)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.17,0:21:33.21,phoning it in,,0,0,0,,{\fs2\fscx2947\t(-19,80,\fscx2948)\fscy2852\t(-11,88,\fscy2853)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.21,70.9)}{21:33} Yui
+Dialogue: 0,0:21:33.17,0:21:33.21,phoning it in,,0,0,0,,{\fs2\fscx2947\t(-19,80,\fscx2948)\fscy2852\t(-11,88,\fscy2853)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.77,186.89)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.17,0:21:33.21,phoning it in,,0,0,0,,{\fs2\fscx2947\t(-19,80,\fscx2948)\fscy2852\t(-11,88,\fscy2853)\fax-0.04\blur1\c&H648189&\frz350.7\pos(476.6,401.75)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.21,0:21:33.25,phoning it in,,0,0,0,,{\fs2\fscx2944\t(-1,98,\fscx2945)\fscy2849\t(-5,94,\fscy2850)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.23,71.2)}{21:33} Yui
+Dialogue: 0,0:21:33.21,0:21:33.25,phoning it in,,0,0,0,,{\fs2\fscx2944\t(-1,98,\fscx2945)\fscy2849\t(-5,94,\fscy2850)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.7,187.07)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.21,0:21:33.25,phoning it in,,0,0,0,,{\fs2\fscx2944\t(-1,98,\fscx2945)\fscy2849\t(-5,94,\fscy2850)\fax-0.04\blur1\c&H648189&\frz350.7\pos(476.78,401.69)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.25,0:21:33.30,phoning it in,,0,0,0,,{\fs2\fscx2940\t(-98,1,\fscx2941)\fscy2846\t(-11,88,\fscy2847)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.26,71.5)}{21:33} Yui
+Dialogue: 0,0:21:33.25,0:21:33.30,phoning it in,,0,0,0,,{\fs2\fscx2940\t(-98,1,\fscx2941)\fscy2846\t(-11,88,\fscy2847)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.64,187.25)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.25,0:21:33.30,phoning it in,,0,0,0,,{\fs2\fscx2940\t(-98,1,\fscx2941)\fscy2846\t(-11,88,\fscy2847)\fax-0.04\blur1\c&H648189&\frz350.7\pos(476.95,401.65)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.30,0:21:33.34,phoning it in,,0,0,0,,{\fs2\fscx2937\t(-69,30,\fscx2938)\fscy2842\t(-92,7,\fscy2843)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.28,71.85)}{21:33} Yui
+Dialogue: 0,0:21:33.30,0:21:33.34,phoning it in,,0,0,0,,{\fs2\fscx2937\t(-69,30,\fscx2938)\fscy2842\t(-92,7,\fscy2843)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.56,187.46)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.30,0:21:33.34,phoning it in,,0,0,0,,{\fs2\fscx2937\t(-69,30,\fscx2938)\fscy2842\t(-92,7,\fscy2843)\fax-0.04\blur1\c&H648189&\frz350.7\pos(477.13,401.63)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.34,0:21:33.38,phoning it in,,0,0,0,,{\fs2\fscx2934\t(-30,69,\fscx2935)\fscy2839\t(-65,34,\fscy2840)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.29,72.16)}{21:33} Yui
+Dialogue: 0,0:21:33.34,0:21:33.38,phoning it in,,0,0,0,,{\fs2\fscx2934\t(-30,69,\fscx2935)\fscy2839\t(-65,34,\fscy2840)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.48,187.64)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.34,0:21:33.38,phoning it in,,0,0,0,,{\fs2\fscx2934\t(-30,69,\fscx2935)\fscy2839\t(-65,34,\fscy2840)\fax-0.04\blur1\c&H648189&\frz350.7\pos(477.31,401.56)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.38,0:21:33.42,phoning it in,,0,0,0,,{\fs2\fscx2931\t(-38,61,\fscx2932)\fscy2836\t(-82,17,\fscy2837)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.32,72.44)}{21:33} Yui
+Dialogue: 0,0:21:33.38,0:21:33.42,phoning it in,,0,0,0,,{\fs2\fscx2931\t(-38,61,\fscx2932)\fscy2836\t(-82,17,\fscy2837)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.43,187.8)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.38,0:21:33.42,phoning it in,,0,0,0,,{\fs2\fscx2931\t(-38,61,\fscx2932)\fscy2836\t(-82,17,\fscy2837)\fax-0.04\blur1\c&H648189&\frz350.7\pos(477.48,401.51)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.42,0:21:33.46,phoning it in,,0,0,0,,{\fs2\fscx2928\t(-32,67,\fscx2929)\fscy2833\t(-86,13,\fscy2834)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.35,72.75)}{21:33} Yui
+Dialogue: 0,0:21:33.42,0:21:33.46,phoning it in,,0,0,0,,{\fs2\fscx2928\t(-32,67,\fscx2929)\fscy2833\t(-86,13,\fscy2834)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.36,188)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.42,0:21:33.46,phoning it in,,0,0,0,,{\fs2\fscx2928\t(-32,67,\fscx2929)\fscy2833\t(-86,13,\fscy2834)\fax-0.04\blur1\c&H648189&\frz350.7\pos(477.65,401.48)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.46,0:21:33.50,phoning it in,,0,0,0,,{\fs2\fscx2924\t(-88,11,\fscx2925)\fscy2830\t(-53,46,\fscy2831)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.38,73.09)}{21:33} Yui
+Dialogue: 0,0:21:33.46,0:21:33.50,phoning it in,,0,0,0,,{\fs2\fscx2924\t(-88,11,\fscx2925)\fscy2830\t(-53,46,\fscy2831)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.3,188.2)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.46,0:21:33.50,phoning it in,,0,0,0,,{\fs2\fscx2924\t(-88,11,\fscx2925)\fscy2830\t(-53,46,\fscy2831)\fax-0.04\blur1\c&H648189&\frz350.7\pos(477.85,401.43)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.50,0:21:33.55,phoning it in,,0,0,0,,{\fs2\fscx2921\t(-65,34,\fscx2922)\fscy2827\t(-40,59,\fscy2828)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.4,73.4)}{21:33} Yui
+Dialogue: 0,0:21:33.50,0:21:33.55,phoning it in,,0,0,0,,{\fs2\fscx2921\t(-65,34,\fscx2922)\fscy2827\t(-40,59,\fscy2828)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.22,188.38)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.50,0:21:33.55,phoning it in,,0,0,0,,{\fs2\fscx2921\t(-65,34,\fscx2922)\fscy2827\t(-40,59,\fscy2828)\fax-0.04\blur1\c&H648189&\frz350.7\pos(478.03,401.38)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.55,0:21:33.59,phoning it in,,0,0,0,,{\fs2\fscx2918\t(-48,51,\fscx2919)\fscy2824\t(-34,65,\fscy2825)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.42,73.71)}{21:33} Yui
+Dialogue: 0,0:21:33.55,0:21:33.59,phoning it in,,0,0,0,,{\fs2\fscx2918\t(-48,51,\fscx2919)\fscy2824\t(-34,65,\fscy2825)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.15,188.56)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.55,0:21:33.59,phoning it in,,0,0,0,,{\fs2\fscx2918\t(-48,51,\fscx2919)\fscy2824\t(-34,65,\fscy2825)\fax-0.04\blur1\c&H648189&\frz350.7\pos(478.2,401.33)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.59,0:21:33.63,phoning it in,,0,0,0,,{\fs2\fscx2915\t(-44,55,\fscx2916)\fscy2821\t(-38,61,\fscy2822)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.46,74.01)}{21:33} Yui
+Dialogue: 0,0:21:33.59,0:21:33.63,phoning it in,,0,0,0,,{\fs2\fscx2915\t(-44,55,\fscx2916)\fscy2821\t(-38,61,\fscy2822)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.11,188.74)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.59,0:21:33.63,phoning it in,,0,0,0,,{\fs2\fscx2915\t(-44,55,\fscx2916)\fscy2821\t(-38,61,\fscy2822)\fax-0.04\blur1\c&H648189&\frz350.7\pos(478.39,401.29)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.63,0:21:33.67,phoning it in,,0,0,0,,{\fs2\fscx2912\t(-26,73,\fscx2913)\fscy2818\t(-30,69,\fscy2819)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.48,74.33)}{21:33} Yui
+Dialogue: 0,0:21:33.63,0:21:33.67,phoning it in,,0,0,0,,{\fs2\fscx2912\t(-26,73,\fscx2913)\fscy2818\t(-30,69,\fscy2819)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(704.03,188.94)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.63,0:21:33.67,phoning it in,,0,0,0,,{\fs2\fscx2912\t(-26,73,\fscx2913)\fscy2818\t(-30,69,\fscy2819)\fax-0.04\blur1\c&H648189&\frz350.7\pos(478.56,401.25)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.67,0:21:33.71,phoning it in,,0,0,0,,{\fs2\fscx2908\t(-53,46,\fscx2909)\fscy2814\t(-71,28,\fscy2815)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.49,74.7)}{21:33} Yui
+Dialogue: 0,0:21:33.67,0:21:33.71,phoning it in,,0,0,0,,{\fs2\fscx2908\t(-53,46,\fscx2909)\fscy2814\t(-71,28,\fscy2815)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.93,189.16)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.67,0:21:33.71,phoning it in,,0,0,0,,{\fs2\fscx2908\t(-53,46,\fscx2909)\fscy2814\t(-71,28,\fscy2815)\fax-0.04\blur1\c&H648189&\frz350.7\pos(478.75,401.2)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.71,0:21:33.76,phoning it in,,0,0,0,,{\fs2\fscx2905\t(-69,30,\fscx2906)\fscy2811\t(-96,3,\fscy2812)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.52,74.96)}{21:33} Yui
+Dialogue: 0,0:21:33.71,0:21:33.76,phoning it in,,0,0,0,,{\fs2\fscx2905\t(-69,30,\fscx2906)\fscy2811\t(-96,3,\fscy2812)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.88,189.31)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.71,0:21:33.76,phoning it in,,0,0,0,,{\fs2\fscx2905\t(-69,30,\fscx2906)\fscy2811\t(-96,3,\fscy2812)\fax-0.04\blur1\c&H648189&\frz350.7\pos(478.93,401.14)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.76,0:21:33.80,phoning it in,,0,0,0,,{\fs2\fscx2902\t(-36,63,\fscx2903)\fscy2808\t(-73,26,\fscy2809)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.54,75.28)}{21:33} Yui
+Dialogue: 0,0:21:33.76,0:21:33.80,phoning it in,,0,0,0,,{\fs2\fscx2902\t(-36,63,\fscx2903)\fscy2808\t(-73,26,\fscy2809)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.8,189.5)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.76,0:21:33.80,phoning it in,,0,0,0,,{\fs2\fscx2902\t(-36,63,\fscx2903)\fscy2808\t(-73,26,\fscy2809)\fax-0.04\blur1\c&H648189&\frz350.7\pos(479.1,401.09)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.80,0:21:33.84,phoning it in,,0,0,0,,{\fs2\fscx2898\t(-80,19,\fscx2899)\fscy2805\t(-30,69,\fscy2806)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.56,75.64)}{21:33} Yui
+Dialogue: 0,0:21:33.80,0:21:33.84,phoning it in,,0,0,0,,{\fs2\fscx2898\t(-80,19,\fscx2899)\fscy2805\t(-30,69,\fscy2806)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.72,189.72)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.80,0:21:33.84,phoning it in,,0,0,0,,{\fs2\fscx2898\t(-80,19,\fscx2899)\fscy2805\t(-30,69,\fscy2806)\fax-0.04\blur1\c&H648189&\frz350.7\pos(479.29,401.06)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.84,0:21:33.88,phoning it in,,0,0,0,,{\fs2\fscx2896\t(0,100,\fscx2896)\fscy2802\t(-57,42,\fscy2803)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.6,75.91)}{21:33} Yui
+Dialogue: 0,0:21:33.84,0:21:33.88,phoning it in,,0,0,0,,{\fs2\fscx2896\t(0,100,\fscx2896)\fscy2802\t(-57,42,\fscy2803)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.68,189.88)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.84,0:21:33.88,phoning it in,,0,0,0,,{\fs2\fscx2896\t(0,100,\fscx2896)\fscy2802\t(-57,42,\fscy2803)\fax-0.04\blur1\c&H648189&\frz350.7\pos(479.47,401)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.88,0:21:33.92,phoning it in,,0,0,0,,{\fs2\fscx2893\t(-25,75,\fscx2894)\fscy2799\t(-92,7,\fscy2800)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.61,76.17)}{21:33} Yui
+Dialogue: 0,0:21:33.88,0:21:33.92,phoning it in,,0,0,0,,{\fs2\fscx2893\t(-25,75,\fscx2894)\fscy2799\t(-92,7,\fscy2800)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.61,190.03)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.88,0:21:33.92,phoning it in,,0,0,0,,{\fs2\fscx2893\t(-25,75,\fscx2894)\fscy2799\t(-92,7,\fscy2800)\fax-0.04\blur1\c&H648189&\frz350.7\pos(479.61,400.96)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.92,0:21:33.96,phoning it in,,0,0,0,,{\fs2\fscx2889\t(-67,32,\fscx2890)\fscy2796\t(-44,55,\fscy2797)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.64,76.53)}{21:33} Yui
+Dialogue: 0,0:21:33.92,0:21:33.96,phoning it in,,0,0,0,,{\fs2\fscx2889\t(-67,32,\fscx2890)\fscy2796\t(-44,55,\fscy2797)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.53,190.25)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.92,0:21:33.96,phoning it in,,0,0,0,,{\fs2\fscx2889\t(-67,32,\fscx2890)\fscy2796\t(-44,55,\fscy2797)\fax-0.04\blur1\c&H648189&\frz350.7\pos(479.81,400.92)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:33.96,0:21:34.01,phoning it in,,0,0,0,,{\fs2\fscx2886\t(-13,86,\fscx2887)\fscy2793\t(-3,96,\fscy2794)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.65,76.89)}{21:33} Yui
+Dialogue: 0,0:21:33.96,0:21:34.01,phoning it in,,0,0,0,,{\fs2\fscx2886\t(-13,86,\fscx2887)\fscy2793\t(-3,96,\fscy2794)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.44,190.47)}{21:33} (No Subject)
+Dialogue: 0,0:21:33.96,0:21:34.01,phoning it in,,0,0,0,,{\fs2\fscx2886\t(-13,86,\fscx2887)\fscy2793\t(-3,96,\fscy2794)\fax-0.04\blur1\c&H648189&\frz350.7\pos(480,400.88)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.01,0:21:34.05,phoning it in,,0,0,0,,{\fs2\fscx2882\t(-96,3,\fscx2883)\fscy2789\t(-96,3,\fscy2790)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.68,77.18)}{21:33} Yui
+Dialogue: 0,0:21:34.01,0:21:34.05,phoning it in,,0,0,0,,{\fs2\fscx2882\t(-96,3,\fscx2883)\fscy2789\t(-96,3,\fscy2790)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.38,190.64)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.01,0:21:34.05,phoning it in,,0,0,0,,{\fs2\fscx2882\t(-96,3,\fscx2883)\fscy2789\t(-96,3,\fscy2790)\fax-0.04\blur1\c&H648189&\frz350.7\pos(480.18,400.82)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.05,0:21:34.09,phoning it in,,0,0,0,,{\fs2\fscx2879\t(-92,7,\fscx2880)\fscy2787\t(-3,96,\fscy2788)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.71,77.47)}{21:33} Yui
+Dialogue: 0,0:21:34.05,0:21:34.09,phoning it in,,0,0,0,,{\fs2\fscx2879\t(-92,7,\fscx2880)\fscy2787\t(-3,96,\fscy2788)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.32,190.81)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.05,0:21:34.09,phoning it in,,0,0,0,,{\fs2\fscx2879\t(-92,7,\fscx2880)\fscy2787\t(-3,96,\fscy2788)\fax-0.04\blur1\c&H648189&\frz350.7\pos(480.36,400.77)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.09,0:21:34.13,phoning it in,,0,0,0,,{\fs2\fscx2876\t(-88,11,\fscx2877)\fscy2784\t(-7,92,\fscy2785)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.73,77.77)}{21:33} Yui
+Dialogue: 0,0:21:34.09,0:21:34.13,phoning it in,,0,0,0,,{\fs2\fscx2876\t(-88,11,\fscx2877)\fscy2784\t(-7,92,\fscy2785)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.25,190.99)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.09,0:21:34.13,phoning it in,,0,0,0,,{\fs2\fscx2876\t(-88,11,\fscx2877)\fscy2784\t(-7,92,\fscy2785)\fax-0.04\blur1\c&H648189&\frz350.7\pos(480.53,400.72)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.13,0:21:34.17,phoning it in,,0,0,0,,{\fs2\fscx2873\t(-61,38,\fscx2874)\fscy2780\t(-92,7,\fscy2781)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.77,78.11)}{21:33} Yui
+Dialogue: 0,0:21:34.13,0:21:34.17,phoning it in,,0,0,0,,{\fs2\fscx2873\t(-61,38,\fscx2874)\fscy2780\t(-92,7,\fscy2781)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.2,191.2)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.13,0:21:34.17,phoning it in,,0,0,0,,{\fs2\fscx2873\t(-61,38,\fscx2874)\fscy2780\t(-92,7,\fscy2781)\fax-0.04\blur1\c&H648189&\frz350.7\pos(480.73,400.7)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.17,0:21:34.21,phoning it in,,0,0,0,,{\fs2\fscx2870\t(-44,55,\fscx2871)\fscy2777\t(-86,13,\fscy2778)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.79,78.4)}{21:33} Yui
+Dialogue: 0,0:21:34.17,0:21:34.21,phoning it in,,0,0,0,,{\fs2\fscx2870\t(-44,55,\fscx2871)\fscy2777\t(-86,13,\fscy2778)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.12,191.37)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.17,0:21:34.21,phoning it in,,0,0,0,,{\fs2\fscx2870\t(-44,55,\fscx2871)\fscy2777\t(-86,13,\fscy2778)\fax-0.04\blur1\c&H648189&\frz350.7\pos(480.89,400.64)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.21,0:21:34.26,phoning it in,,0,0,0,,{\fs2\fscx2867\t(-61,38,\fscx2868)\fscy2775\t(-11,88,\fscy2776)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.82,78.68)}{21:33} Yui
+Dialogue: 0,0:21:34.21,0:21:34.26,phoning it in,,0,0,0,,{\fs2\fscx2867\t(-61,38,\fscx2868)\fscy2775\t(-11,88,\fscy2776)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(703.07,191.53)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.21,0:21:34.26,phoning it in,,0,0,0,,{\fs2\fscx2867\t(-61,38,\fscx2868)\fscy2775\t(-11,88,\fscy2776)\fax-0.04\blur1\c&H648189&\frz350.7\pos(481.06,400.59)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.26,0:21:34.30,phoning it in,,0,0,0,,{\fs2\fscx2864\t(-11,88,\fscx2865)\fscy2771\t(-73,26,\fscy2772)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.83,79.03)}{21:33} Yui
+Dialogue: 0,0:21:34.26,0:21:34.30,phoning it in,,0,0,0,,{\fs2\fscx2864\t(-11,88,\fscx2865)\fscy2771\t(-73,26,\fscy2772)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.99,191.74)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.26,0:21:34.30,phoning it in,,0,0,0,,{\fs2\fscx2864\t(-11,88,\fscx2865)\fscy2771\t(-73,26,\fscy2772)\fax-0.04\blur1\c&H648189&\frz350.7\pos(481.25,400.55)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.30,0:21:34.34,phoning it in,,0,0,0,,{\fs2\fscx2860\t(-61,38,\fscx2861)\fscy2768\t(-32,67,\fscy2769)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.86,79.37)}{21:33} Yui
+Dialogue: 0,0:21:34.30,0:21:34.34,phoning it in,,0,0,0,,{\fs2\fscx2860\t(-61,38,\fscx2861)\fscy2768\t(-32,67,\fscy2769)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.91,191.95)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.30,0:21:34.34,phoning it in,,0,0,0,,{\fs2\fscx2860\t(-61,38,\fscx2861)\fscy2768\t(-32,67,\fscy2769)\fax-0.04\blur1\c&H648189&\frz350.7\pos(481.44,400.5)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.34,0:21:34.38,phoning it in,,0,0,0,,{\fs2\fscx2857\t(-44,55,\fscx2858)\fscy2765\t(-28,71,\fscy2766)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.88,79.67)}{21:33} Yui
+Dialogue: 0,0:21:34.34,0:21:34.38,phoning it in,,0,0,0,,{\fs2\fscx2857\t(-44,55,\fscx2858)\fscy2765\t(-28,71,\fscy2766)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.84,192.13)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.34,0:21:34.38,phoning it in,,0,0,0,,{\fs2\fscx2857\t(-44,55,\fscx2858)\fscy2765\t(-28,71,\fscy2766)\fax-0.04\blur1\c&H648189&\frz350.7\pos(481.62,400.44)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.38,0:21:34.42,phoning it in,,0,0,0,,{\fs2\fscx2854\t(-50,50,\fscx2855)\fscy2762\t(-42,57,\fscy2763)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.9,79.96)}{21:33} Yui
+Dialogue: 0,0:21:34.38,0:21:34.42,phoning it in,,0,0,0,,{\fs2\fscx2854\t(-50,50,\fscx2855)\fscy2762\t(-42,57,\fscy2763)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.78,192.3)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.38,0:21:34.42,phoning it in,,0,0,0,,{\fs2\fscx2854\t(-50,50,\fscx2855)\fscy2762\t(-42,57,\fscy2763)\fax-0.04\blur1\c&H648189&\frz350.7\pos(481.78,400.4)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.42,0:21:34.46,phoning it in,,0,0,0,,{\fs2\fscx2851\t(-34,65,\fscx2852)\fscy2759\t(-36,63,\fscy2760)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.93,80.27)}{21:33} Yui
+Dialogue: 0,0:21:34.42,0:21:34.46,phoning it in,,0,0,0,,{\fs2\fscx2851\t(-34,65,\fscx2852)\fscy2759\t(-36,63,\fscy2760)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.71,192.48)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.42,0:21:34.46,phoning it in,,0,0,0,,{\fs2\fscx2851\t(-34,65,\fscx2852)\fscy2759\t(-36,63,\fscy2760)\fax-0.04\blur1\c&H648189&\frz350.7\pos(481.96,400.35)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.46,0:21:34.51,phoning it in,,0,0,0,,{\fs2\fscx2847\t(-94,5,\fscx2848)\fscy2756\t(-7,92,\fscy2757)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.95,80.61)}{21:33} Yui
+Dialogue: 0,0:21:34.46,0:21:34.51,phoning it in,,0,0,0,,{\fs2\fscx2847\t(-94,5,\fscx2848)\fscy2756\t(-7,92,\fscy2757)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.63,192.69)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.46,0:21:34.51,phoning it in,,0,0,0,,{\fs2\fscx2847\t(-94,5,\fscx2848)\fscy2756\t(-7,92,\fscy2757)\fax-0.04\blur1\c&H648189&\frz350.7\pos(482.15,400.31)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.51,0:21:34.55,phoning it in,,0,0,0,,{\fs2\fscx2845\t(-3,96,\fscx2846)\fscy2753\t(-26,73,\fscy2754)\blur1\fax-0.04\c&H819098&\frz350.7\pos(619.98,80.89)}{21:33} Yui
+Dialogue: 0,0:21:34.51,0:21:34.55,phoning it in,,0,0,0,,{\fs2\fscx2845\t(-3,96,\fscx2846)\fscy2753\t(-26,73,\fscy2754)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.58,192.86)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.51,0:21:34.55,phoning it in,,0,0,0,,{\fs2\fscx2845\t(-3,96,\fscx2846)\fscy2753\t(-26,73,\fscy2754)\fax-0.04\blur1\c&H648189&\frz350.7\pos(482.32,400.27)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.55,0:21:34.59,phoning it in,,0,0,0,,{\fs2\fscx2841\t(-78,21,\fscx2842)\fscy2750\t(-11,88,\fscy2751)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.01,81.2)}{21:33} Yui
+Dialogue: 0,0:21:34.55,0:21:34.59,phoning it in,,0,0,0,,{\fs2\fscx2841\t(-78,21,\fscx2842)\fscy2750\t(-11,88,\fscy2751)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.52,193.04)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.55,0:21:34.59,phoning it in,,0,0,0,,{\fs2\fscx2841\t(-78,21,\fscx2842)\fscy2750\t(-11,88,\fscy2751)\fax-0.04\blur1\c&H648189&\frz350.7\pos(482.51,400.21)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.59,0:21:34.63,phoning it in,,0,0,0,,{\fs2\fscx2838\t(-69,30,\fscx2839)\fscy2747\t(-11,88,\fscy2748)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.02,81.51)}{21:33} Yui
+Dialogue: 0,0:21:34.59,0:21:34.63,phoning it in,,0,0,0,,{\fs2\fscx2838\t(-69,30,\fscx2839)\fscy2747\t(-11,88,\fscy2748)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.44,193.22)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.59,0:21:34.63,phoning it in,,0,0,0,,{\fs2\fscx2838\t(-69,30,\fscx2839)\fscy2747\t(-11,88,\fscy2748)\fax-0.04\blur1\c&H648189&\frz350.7\pos(482.67,400.17)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.63,0:21:34.67,phoning it in,,0,0,0,,{\fs2\fscx2835\t(-36,63,\fscx2836)\fscy2743\t(-90,9,\fscy2744)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.07,81.84)}{21:33} Yui
+Dialogue: 0,0:21:34.63,0:21:34.67,phoning it in,,0,0,0,,{\fs2\fscx2835\t(-36,63,\fscx2836)\fscy2743\t(-90,9,\fscy2744)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.39,193.43)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.63,0:21:34.67,phoning it in,,0,0,0,,{\fs2\fscx2835\t(-36,63,\fscx2836)\fscy2743\t(-90,9,\fscy2744)\fax-0.04\blur1\c&H648189&\frz350.7\pos(482.87,400.13)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.67,0:21:34.71,phoning it in,,0,0,0,,{\fs2\fscx2832\t(-36,63,\fscx2833)\fscy2741\t(-1,98,\fscy2742)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.09,82.13)}{21:33} Yui
+Dialogue: 0,0:21:34.67,0:21:34.71,phoning it in,,0,0,0,,{\fs2\fscx2832\t(-36,63,\fscx2833)\fscy2741\t(-1,98,\fscy2742)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.32,193.59)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.67,0:21:34.71,phoning it in,,0,0,0,,{\fs2\fscx2832\t(-36,63,\fscx2833)\fscy2741\t(-1,98,\fscy2742)\fax-0.04\blur1\c&H648189&\frz350.7\pos(483.04,400.08)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.71,0:21:34.76,phoning it in,,0,0,0,,{\fs2\fscx2829\t(-44,55,\fscx2830)\fscy2738\t(-17,82,\fscy2739)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.12,82.4)}{21:33} Yui
+Dialogue: 0,0:21:34.71,0:21:34.76,phoning it in,,0,0,0,,{\fs2\fscx2829\t(-44,55,\fscx2830)\fscy2738\t(-17,82,\fscy2739)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.26,193.76)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.71,0:21:34.76,phoning it in,,0,0,0,,{\fs2\fscx2829\t(-44,55,\fscx2830)\fscy2738\t(-17,82,\fscy2739)\fax-0.04\blur1\c&H648189&\frz350.7\pos(483.21,400.03)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.76,0:21:34.80,phoning it in,,0,0,0,,{\fs2\fscx2825\t(-96,3,\fscx2826)\fscy2734\t(-80,19,\fscy2735)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.13,82.76)}{21:33} Yui
+Dialogue: 0,0:21:34.76,0:21:34.80,phoning it in,,0,0,0,,{\fs2\fscx2825\t(-96,3,\fscx2826)\fscy2734\t(-80,19,\fscy2735)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.18,193.97)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.76,0:21:34.80,phoning it in,,0,0,0,,{\fs2\fscx2825\t(-96,3,\fscx2826)\fscy2734\t(-80,19,\fscy2735)\fax-0.04\blur1\c&H648189&\frz350.7\pos(483.39,400)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.80,0:21:34.84,phoning it in,,0,0,0,,{\fs2\fscx2823\t(-11,88,\fscx2824)\fscy2732\t(-3,96,\fscy2733)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.17,83.03)}{21:33} Yui
+Dialogue: 0,0:21:34.80,0:21:34.84,phoning it in,,0,0,0,,{\fs2\fscx2823\t(-11,88,\fscx2824)\fscy2732\t(-3,96,\fscy2733)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.13,194.14)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.80,0:21:34.84,phoning it in,,0,0,0,,{\fs2\fscx2823\t(-11,88,\fscx2824)\fscy2732\t(-3,96,\fscy2733)\fax-0.04\blur1\c&H648189&\frz350.7\pos(483.57,399.95)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.84,0:21:34.88,phoning it in,,0,0,0,,{\fs2\fscx2819\t(-19,80,\fscx2820)\fscy2728\t(-26,73,\fscy2729)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.17,83.4)}{21:33} Yui
+Dialogue: 0,0:21:34.84,0:21:34.88,phoning it in,,0,0,0,,{\fs2\fscx2819\t(-19,80,\fscx2820)\fscy2728\t(-26,73,\fscy2729)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(702.02,194.35)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.84,0:21:34.88,phoning it in,,0,0,0,,{\fs2\fscx2819\t(-19,80,\fscx2820)\fscy2728\t(-26,73,\fscy2729)\fax-0.04\blur1\c&H648189&\frz350.7\pos(483.76,399.88)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.88,0:21:34.92,phoning it in,,0,0,0,,{\fs2\fscx2816\t(-51,48,\fscx2817)\fscy2725\t(-65,34,\fscy2726)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.21,83.67)}{21:33} Yui
+Dialogue: 0,0:21:34.88,0:21:34.92,phoning it in,,0,0,0,,{\fs2\fscx2816\t(-51,48,\fscx2817)\fscy2725\t(-65,34,\fscy2726)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(701.98,194.51)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.88,0:21:34.92,phoning it in,,0,0,0,,{\fs2\fscx2816\t(-51,48,\fscx2817)\fscy2725\t(-65,34,\fscy2726)\fax-0.04\blur1\c&H648189&\frz350.7\pos(483.93,399.85)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.92,0:21:34.96,phoning it in,,0,0,0,,{\fs2\fscx2812\t(-88,11,\fscx2813)\fscy2722\t(-13,86,\fscy2723)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.24,84.03)}{21:33} Yui
+Dialogue: 0,0:21:34.92,0:21:34.96,phoning it in,,0,0,0,,{\fs2\fscx2812\t(-88,11,\fscx2813)\fscy2722\t(-13,86,\fscy2723)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(701.9,194.73)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.92,0:21:34.96,phoning it in,,0,0,0,,{\fs2\fscx2812\t(-88,11,\fscx2813)\fscy2722\t(-13,86,\fscy2723)\fax-0.04\blur1\c&H648189&\frz350.7\pos(484.13,399.8)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:34.96,0:21:35.01,phoning it in,,0,0,0,,{\fs2\fscx2810\t(-5,94,\fscx2811)\fscy2719\t(-42,57,\fscy2720)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.26,84.31)}{21:33} Yui
+Dialogue: 0,0:21:34.96,0:21:35.01,phoning it in,,0,0,0,,{\fs2\fscx2810\t(-5,94,\fscx2811)\fscy2719\t(-42,57,\fscy2720)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(701.85,194.9)}{21:33} (No Subject)
+Dialogue: 0,0:21:34.96,0:21:35.01,phoning it in,,0,0,0,,{\fs2\fscx2810\t(-5,94,\fscx2811)\fscy2719\t(-42,57,\fscy2720)\fax-0.04\blur1\c&H648189&\frz350.7\pos(484.29,399.77)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:35.01,0:21:35.05,phoning it in,,0,0,0,,{\fs2\fscx2806\t(-92,7,\fscx2807)\fscy2716\t(-38,61,\fscy2717)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.3,84.62)}{21:33} Yui
+Dialogue: 0,0:21:35.01,0:21:35.05,phoning it in,,0,0,0,,{\fs2\fscx2806\t(-92,7,\fscx2807)\fscy2716\t(-38,61,\fscy2717)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(701.79,195.08)}{21:33} (No Subject)
+Dialogue: 0,0:21:35.01,0:21:35.05,phoning it in,,0,0,0,,{\fs2\fscx2806\t(-92,7,\fscx2807)\fscy2716\t(-38,61,\fscy2717)\fax-0.04\blur1\c&H648189&\frz350.7\pos(484.48,399.72)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:35.05,0:21:35.09,phoning it in,,0,0,0,,{\fs2\fscx2803\t(-67,32,\fscx2804)\fscy2713\t(-23,76,\fscy2714)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.31,84.93)}{21:33} Yui
+Dialogue: 0,0:21:35.05,0:21:35.09,phoning it in,,0,0,0,,{\fs2\fscx2803\t(-67,32,\fscx2804)\fscy2713\t(-23,76,\fscy2714)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(701.71,195.27)}{21:33} (No Subject)
+Dialogue: 0,0:21:35.05,0:21:35.09,phoning it in,,0,0,0,,{\fs2\fscx2803\t(-67,32,\fscx2804)\fscy2713\t(-23,76,\fscy2714)\fax-0.04\blur1\c&H648189&\frz350.7\pos(484.65,399.67)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:35.09,0:21:35.13,phoning it in,,0,0,0,,{\fs2\fscx2800\t(-61,38,\fscx2801)\fscy2710\t(-28,71,\fscy2711)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.34,85.24)}{21:33} Yui
+Dialogue: 0,0:21:35.09,0:21:35.13,phoning it in,,0,0,0,,{\fs2\fscx2800\t(-61,38,\fscx2801)\fscy2710\t(-28,71,\fscy2711)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(701.65,195.46)}{21:33} (No Subject)
+Dialogue: 0,0:21:35.09,0:21:35.13,phoning it in,,0,0,0,,{\fs2\fscx2800\t(-61,38,\fscx2801)\fscy2710\t(-28,71,\fscy2711)\fax-0.04\blur1\c&H648189&\frz350.7\pos(484.83,399.63)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:35.13,0:21:35.17,phoning it in,,0,0,0,,{\fs2\fscx2797\t(-36,63,\fscx2798)\fscy2707\t(-13,86,\fscy2708)\blur1\fax-0.04\c&H819098&\frz350.7\pos(620.38,85.56)}{21:33} Yui
+Dialogue: 0,0:21:35.13,0:21:35.17,phoning it in,,0,0,0,,{\fs2\fscx2797\t(-36,63,\fscx2798)\fscy2707\t(-13,86,\fscy2708)\fax-0.04\blur1\c&H8390A2&\frz350.7\pos(701.59,195.65)}{21:33} (No Subject)
+Dialogue: 0,0:21:35.13,0:21:35.17,phoning it in,,0,0,0,,{\fs2\fscx2797\t(-36,63,\fscx2798)\fscy2707\t(-13,86,\fscy2708)\fax-0.04\blur1\c&H648189&\frz350.7\pos(485.02,399.59)}{21:33} Don't come {\c&H63707C&}over {\c&H617074&}today.
+Dialogue: 0,0:21:51.10,0:21:54.57,Ep Titles,,0,0,0,,{\pos(640,250)\c&H1FCE8C&}{21:54}Next Time
+Dialogue: 0,0:21:51.10,0:21:54.57,Ep Titles,,0,0,0,,{\pos(640,440)}{21:52} And Then There Were None
+Dialogue: 0,0:21:54.66,0:21:57.05,Default,Yui,0,0,0,,I told you guys to cut it out!
+Dialogue: 0,0:21:56.26,0:21:58.03,Alternative,Tai,0,0,0,,{\an8}Today, I'm doing things my way.
+Dialogue: 0,0:21:57.61,0:22:01.16,Default,Aoki,0,0,0,,You're just a sick white knight who doesn't want to see Yui look sad!
+Dialogue: 0,0:22:01.16,0:22:03.60,Default,Iori,0,0,0,,It's getting lonely.
+Dialogue: 0,0:22:03.60,0:22:05.14,Default,Ina,0,0,0,,Well, you were right.
+Dialogue: 0,0:22:05.14,0:22:08.33,Default,Fuji,0,0,0,,I've always thought that humans are supposed to hurt each other.
+Dialogue: 1,0:22:25.72,0:22:29.93,ED2,,0,0,0,,{\fad(150,150)\blur0.4}I see you're busy shakin' out that thin red velvet cloth{starts on first frame of Inaba in bed}
+Dialogue: 0,0:22:25.72,0:22:29.93,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}I see you're busy shakin' out that thin red velvet cloth
+Dialogue: 1,0:22:29.93,0:22:34.23,ED2,,0,0,0,,{\fad(150,150)\blur0.4}But before you take your leave, might I ask where you're off to?
+Dialogue: 0,0:22:29.93,0:22:34.23,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}But before you take your leave, might I ask where you're off to?
+Dialogue: 1,0:22:34.23,0:22:40.94,ED2,,0,0,0,,{\fad(150,150)\blur0.4}Me, I'm headed for the morning, travelin' to the west
+Dialogue: 0,0:22:34.23,0:22:40.94,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}Me, I'm headed for the morning, travelin' to the west
+Dialogue: 1,0:22:40.94,0:22:43.82,ED2,,0,0,0,,{\fad(150,150)\blur0.4}Then may God be with you
+Dialogue: 0,0:22:40.94,0:22:43.82,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}Then may God be with you
+Dialogue: 1,0:22:43.82,0:22:47.12,ED2,,0,0,0,,{\fad(150,150)\blur0.4}Your eyes, reflecting up to me from the teacup
+Dialogue: 0,0:22:43.82,0:22:47.12,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}Your eyes, reflecting up to me from the teacup
+Dialogue: 1,0:22:47.12,0:22:50.62,ED2,,0,0,0,,{\fad(150,150)\blur0.4}look just like a rabbit's in a cage
+Dialogue: 0,0:22:47.12,0:22:50.62,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}look just like a rabbit's in a cage
+Dialogue: 1,0:22:50.62,0:22:55.67,ED2,,0,0,0,,{\fad(150,150)\blur0.4}Must be because we forgot to add the sugar
+Dialogue: 0,0:22:50.62,0:22:55.67,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}Must be because we forgot to add the sugar
+Dialogue: 1,0:22:55.67,0:22:58.96,ED2,,0,0,0,,{\fad(150,150)\blur0.4}But who cares about that
+Dialogue: 0,0:22:55.67,0:22:58.96,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}But who cares about that
+Dialogue: 1,0:22:58.96,0:23:01.42,ED2,,0,0,0,,{\fad(150,150)\blur0.4}Your love is sweet enough
+Dialogue: 0,0:22:58.96,0:23:01.42,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}Your love is sweet enough
+Dialogue: 1,0:23:01.42,0:23:05.47,ED2,,0,0,0,,{\fad(150,150)\blur0.4}I cry out, again and again to the dawning sky
+Dialogue: 0,0:23:01.42,0:23:05.47,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}I cry out, again and again to the dawning sky
+Dialogue: 1,0:23:05.47,0:23:09.76,ED2,,0,0,0,,{\fad(150,150)\blur0.4}Are there really things in this world that I truly cherish?
+Dialogue: 0,0:23:05.47,0:23:09.76,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}Are there really things in this world that I truly cherish?
+Dialogue: 1,0:23:09.76,0:23:14.23,ED2,,0,0,0,,{\fad(150,150)\blur0.4}This aching in my heart, and the place where I belong
+Dialogue: 0,0:23:09.76,0:23:14.23,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}This aching in my heart, and the place where I belong
+Dialogue: 1,0:23:14.23,0:23:19.98,ED2,,0,0,0,,{\fad(150,150)\blur0.4}Maybe even those are things that I hold dear all the same
+Dialogue: 0,0:23:14.23,0:23:19.98,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}Maybe even those are things that I hold dear all the same
+Dialogue: 1,0:23:22.86,0:23:25.32,ED2,,0,0,0,,{\fad(150,150)\blur0.4}Cry out
+Dialogue: 0,0:23:22.86,0:23:25.32,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}Cry out
+Dialogue: 1,0:23:27.16,0:23:30.95,ED2,,0,0,0,,{\fad(150,150)\blur0.4}Cry out
+Dialogue: 0,0:23:27.16,0:23:30.95,ED2,,0,0,0,,{\fad(150,150)\3c&HEBEAAD&\blur2\bord3}Cry out
+Dialogue: 0,0:23:32.58,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\fad(330,0)\p1\fscx58\fscy91\frz315.2\pos(248,607)\c&HFEFEFF&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:32.58,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\fad(330,0)\p1\fscx58\fscy91\frz315.2\c&HFEFEFF&\pos(849.778,605.222)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:32.58,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\fad(330,0)\p1\frz315.2\c&HFEFEFF&\pos(1007.11,606.111)\fscx74\fscy87\clip(m 999 579 l 1000 608 1062 600 1055 536 1017 544)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:32.58,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\fad(330,0)\p1\frz315.2\c&HFEFEFF&\fscx70\fscy88\pos(402,611)\clip(m 369 585 l 410 626 445 601 460 603 455 588 480 558 440 529)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:32.58,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\fad(330,0)\p1\frz315.2\c&HFEFEFF&\fscx70\fscy88\pos(541.556,598.556)\clip(m 564 614 l 597 595 626 562 589 532 568 547 548 547 555 606)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:32.58,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\fad(330,0)\p1\frz315.2\c&HFEFEFF&\fscx70\fscy88\pos(690.001,602.111)\clip(m 698 612 l 720 614 773 562 738 528 717 547 702 546 699 570)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:32.99,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\an5\fad(330,0)\t(0,330,\frz360)\pos(280.000,574.000)}ki
+Dialogue: 0,0:23:32.99,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\an5\fad(330,0)\t(0,330,\frz360)\pos(430.000,574.000)}zu
+Dialogue: 0,0:23:32.99,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\an5\fad(330,0)\t(0,330,\frz360)\pos(578.000,574.000)}ra
+Dialogue: 0,0:23:32.99,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\an5\fad(330,0)\t(0,330,\frz360)\pos(726.000,574.000)}n
+Dialogue: 0,0:23:32.99,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\an5\fad(330,0)\t(0,330,\frz360)\pos(875.000,574.000)}do
+Dialogue: 0,0:23:32.99,0:23:36.04,Kizu Random,,0,0,0,,{\blur0.6\an5\fad(330,0)\t(0,330,\frz360)\pos(1032.000,575.000)}m

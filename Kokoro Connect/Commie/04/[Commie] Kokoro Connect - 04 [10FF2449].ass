@@ -1,0 +1,749 @@
+﻿[Script Info]
+Title: Commie - Kokoro Connect 04
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: kc04_premux.mkv
+Scroll Position: 656
+Active Line: 660
+Video File: kc04_premux.mkv
+Video Aspect Ratio: c1.77778
+Video Position: 29893
+Last Style Storage: Kokoro Connect
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PT Sans,52,&H00FFFFFF,&H000000FF,&H004B222A,&HC82E132B,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,90,90,32,1
+Style: Alternative,PT Sans,52,&H00FFFFFF,&H000000FF,&H0037244F,&HC82E132B,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,90,90,32,1
+Style: OP,Ruzicka TypeK,45,&H00FFFFFF,&H000000FF,&H00D68BF0,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,9,30,30,20,1
+Style: ED,Sweeep,40,&H00ECFFFF,&H000000FF,&H004477AA,&H28295F74,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Hito Random - bottom,PT Sans,50,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,40,0,2,10,10,10,1
+Style: Hito Random - top,Rexlia Free,60,&H008B27A8,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,90,120,0,0,1,0,0,2,10,10,10,1
+Style: Chalkboard Shenanigans,EraserDust,40,&H00F2EFE9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Additional Shenanigans,DK Crayon Crumble,40,&H00F2EFE9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Ep Titles,SwaggerBold,50,&H00BE96ED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: SuCkS,Shazi Hand,45,&H00454340,&H000000FF,&H004C5353,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: i swear this sign is in every anime,Garamond,45,&H00626457,&H000000FF,&H0043423E,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Style: Dried Mountain,Garamond,30,&H007F8289,&H000000FF,&H0037392D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.98,0:00:04.02,i swear this sign is in every anime,*bord,0,0,0,,{\fax-0.15\pos(651,247)\fs4\frz5.341\fscx1000\fscy1000}{0:01} Nur{\fscx990\fscy990}se{\fax-0.12}'s{\fscx980\fscy980} Off{\fscx970\fscy970}ice
+Comment: 0,0:00:00.98,0:00:04.02,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651,247)\fs4\frz5.341\fscx1000\fscy1000}{0:01} Nur{\fscx990\fscy990}se{\fax-0.12}'s{\fscx980\fscy980} Off{\fscx970\fscy970}ice
+Comment: 1,0:00:00.98,0:00:04.02,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651,247)\fs4\frz5.341\fscx1000\fscy1000}{0:01} Nur{\fscx990\fscy990}se{\fax-0.12}'s{\fscx980\fscy980} Off{\fscx970\fscy970}ice
+Comment: 0,0:10:21.85,0:10:21.89,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1279 467 l 1188 471 1192 488 1187 503 1287 501)}{10:23} Yamaboshi Academy
+Comment: 0,0:10:21.89,0:10:22.01,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1279 467 l 1177 471 1182 488 1176 502 1287 501)}{10:23} Yamaboshi Academy
+Comment: 0,0:10:22.01,0:10:24.77,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7}{10:23} Yamaboshi Academy
+Comment: 0,0:11:02.43,0:11:02.47,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1279 467 l 1177 471 1182 488 1176 502 1287 501)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:02.47,0:11:03.35,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7}{11:03} Yamaboshi Academy
+Comment: 0,0:11:03.35,0:11:03.47,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1157 469 l 1252 474 1251 500 1145 500)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:03.47,0:11:03.60,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1151 464 l 1225 467 1223 500 1143 502)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:03.60,0:11:03.72,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1129 469 l 1197 469 1196 500 1133 502)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:03.72,0:11:03.85,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1144 454 l 1175 456 1171 504 1138 501)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:04.10,0:11:04.22,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1288 445 l 1278 516 1272 514 1266 451)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:04.22,0:11:04.35,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1288 445 l 1278 516 1248 513 1241 472 1252 442)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:04.35,0:11:04.47,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1232 442 l 1220 474 1225 500 1279 500 1289 441)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:04.47,0:11:04.60,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1206 443 l 1196 476 1200 501 1279 500 1289 443)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:04.60,0:11:04.72,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7\clip(m 1278 441 l 1279 499 1181 502 1176 482 1188 444)}{11:03} Yamaboshi Academy
+Comment: 0,0:11:04.72,0:11:05.31,Dried Mountain,*bord,0,0,0,,{\pos(1288,499)\blur0.7}{11:03} Yamaboshi Academy
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.98,0:00:01.02,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651,247)\fs4\frz5.341\fscx1000\t(0,100,\fscx1000)\fscy1000\t(0,100,\fscy1000)}{0:01} Nur{\fscx990\t(0,100,\fscx990)\fscy990\t(0,100,\fscy990)}se{\fax-0.12}'s{\fscx980\t(0,100,\fscx980)\fscy980\t(0,100,\fscy980)} Off{\fscx970\t(0,100,\fscx970)\fscy970\t(0,100,\fscy970)}ice
+Dialogue: 1,0:00:00.98,0:00:01.02,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651,247)\fs4\frz5.341\fscx1000\t(0,100,\fscx1000)\fscy1000\t(0,100,\fscy1000)}{0:01} Nur{\fscx990\t(0,100,\fscx990)\fscy990\t(0,100,\fscy990)}se{\fax-0.12}'s{\fscx980\t(0,100,\fscx980)\fscy980\t(0,100,\fscy980)} Off{\fscx970\t(0,100,\fscx970)\fscy970\t(0,100,\fscy970)}ice
+Dialogue: 0,0:00:01.02,0:00:01.06,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651,246.89)\fs4\frz5.341\fscx1000\t(-89,10,\fscx1001)\fscy1000\t(-89,10,\fscy1001)}{0:01} Nur{\fscx990\t(-88,11,\fscx991)\fscy990\t(-88,11,\fscy991)}se{\fax-0.12}'s{\fscx980\t(-87,12,\fscx981)\fscy980\t(-87,12,\fscy981)} Off{\fscx970\t(-87,12,\fscx971)\fscy970\t(-87,12,\fscy971)}ice
+Dialogue: 1,0:00:01.02,0:00:01.06,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651,246.89)\fs4\frz5.341\fscx1000\t(-89,10,\fscx1001)\fscy1000\t(-89,10,\fscy1001)}{0:01} Nur{\fscx990\t(-88,11,\fscx991)\fscy990\t(-88,11,\fscy991)}se{\fax-0.12}'s{\fscx980\t(-87,12,\fscx981)\fscy980\t(-87,12,\fscy981)} Off{\fscx970\t(-87,12,\fscx971)\fscy970\t(-87,12,\fscy971)}ice
+Dialogue: 0,0:00:01.06,0:00:01.10,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.01,246.82)\fs4\frz5.341\fscx1001\t(-48,51,\fscx1002)\fscy1001\t(-48,51,\fscy1002)}{0:01} Nur{\fscx991\t(-47,52,\fscx992)\fscy991\t(-47,52,\fscy992)}se{\fax-0.12}'s{\fscx981\t(-45,54,\fscx982)\fscy981\t(-45,54,\fscy982)} Off{\fscx971\t(-44,55,\fscx972)\fscy971\t(-44,55,\fscy972)}ice
+Dialogue: 1,0:00:01.06,0:00:01.10,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.01,246.82)\fs4\frz5.341\fscx1001\t(-48,51,\fscx1002)\fscy1001\t(-48,51,\fscy1002)}{0:01} Nur{\fscx991\t(-47,52,\fscx992)\fscy991\t(-47,52,\fscy992)}se{\fax-0.12}'s{\fscx981\t(-45,54,\fscx982)\fscy981\t(-45,54,\fscy982)} Off{\fscx971\t(-44,55,\fscx972)\fscy971\t(-44,55,\fscy972)}ice
+Dialogue: 0,0:00:01.10,0:00:01.14,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.02,246.74)\fs4\frz5.341\fscx1002\t(-19,80,\fscx1003)\fscy1002\t(-19,80,\fscy1003)}{0:01} Nur{\fscx992\t(-16,83,\fscx993)\fscy992\t(-16,83,\fscy993)}se{\fax-0.12}'s{\fscx982\t(-14,85,\fscx983)\fscy982\t(-14,85,\fscy983)} Off{\fscx972\t(-12,87,\fscx973)\fscy972\t(-12,87,\fscy973)}ice
+Dialogue: 1,0:00:01.10,0:00:01.14,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.02,246.74)\fs4\frz5.341\fscx1002\t(-19,80,\fscx1003)\fscy1002\t(-19,80,\fscy1003)}{0:01} Nur{\fscx992\t(-16,83,\fscx993)\fscy992\t(-16,83,\fscy993)}se{\fax-0.12}'s{\fscx982\t(-14,85,\fscx983)\fscy982\t(-14,85,\fscy983)} Off{\fscx972\t(-12,87,\fscx973)\fscy972\t(-12,87,\fscy973)}ice
+Dialogue: 0,0:00:01.14,0:00:01.18,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.03,246.65)\fs4\frz5.341\fscx1003\t(-1,98,\fscx1004)\fscy1003\t(-1,98,\fscy1004)}{0:01} Nur{\fscx993\fscy993}se{\fax-0.12}'s{\fscx982\t(-96,3,\fscx983)\fscy982\t(-96,3,\fscy983)} Off{\fscx972\t(-92,7,\fscx973)\fscy972\t(-92,7,\fscy973)}ice
+Dialogue: 1,0:00:01.14,0:00:01.18,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.03,246.65)\fs4\frz5.341\fscx1003\t(-1,98,\fscx1004)\fscy1003\t(-1,98,\fscy1004)}{0:01} Nur{\fscx993\fscy993}se{\fax-0.12}'s{\fscx982\t(-96,3,\fscx983)\fscy982\t(-96,3,\fscy983)} Off{\fscx972\t(-92,7,\fscx973)\fscy972\t(-92,7,\fscy973)}ice
+Dialogue: 0,0:00:01.18,0:00:01.23,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.03,246.53)\fs4\frz5.341\fscx1004\t(-10,89,\fscx1005)\fscy1004\t(-10,89,\fscy1005)}{0:01} Nur{\fscx994\t(-5,94,\fscx995)\fscy994\t(-5,94,\fscy995)}se{\fax-0.12}'s{\fscx984\t(-1,98,\fscx985)\fscy984\t(-1,98,\fscy985)} Off{\fscx973\t(-98,1,\fscx974)\fscy973\t(-98,1,\fscy974)}ice
+Dialogue: 1,0:00:01.18,0:00:01.23,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.03,246.53)\fs4\frz5.341\fscx1004\t(-10,89,\fscx1005)\fscy1004\t(-10,89,\fscy1005)}{0:01} Nur{\fscx994\t(-5,94,\fscx995)\fscy994\t(-5,94,\fscy995)}se{\fax-0.12}'s{\fscx984\t(-1,98,\fscx985)\fscy984\t(-1,98,\fscy985)} Off{\fscx973\t(-98,1,\fscx974)\fscy973\t(-98,1,\fscy974)}ice
+Dialogue: 0,0:00:01.23,0:00:01.27,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.04,246.46)\fs4\frz5.341\fscx1004\t(-76,23,\fscx1005)\fscy1004\t(-76,23,\fscy1005)}{0:01} Nur{\fscx994\t(-72,27,\fscx995)\fscy994\t(-72,27,\fscy995)}se{\fax-0.12}'s{\fscx984\t(-66,33,\fscx985)\fscy984\t(-66,33,\fscy985)} Off{\fscx974\t(-62,37,\fscx975)\fscy974\t(-62,37,\fscy975)}ice
+Dialogue: 1,0:00:01.23,0:00:01.27,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.04,246.46)\fs4\frz5.341\fscx1004\t(-76,23,\fscx1005)\fscy1004\t(-76,23,\fscy1005)}{0:01} Nur{\fscx994\t(-72,27,\fscx995)\fscy994\t(-72,27,\fscy995)}se{\fax-0.12}'s{\fscx984\t(-66,33,\fscx985)\fscy984\t(-66,33,\fscy985)} Off{\fscx974\t(-62,37,\fscx975)\fscy974\t(-62,37,\fscy975)}ice
+Dialogue: 0,0:00:01.27,0:00:01.31,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.05,246.35)\fs4\frz5.341\fscx1005\t(-70,29,\fscx1006)\fscy1005\t(-70,29,\fscy1006)}{0:01} Nur{\fscx995\t(-63,36,\fscx996)\fscy995\t(-63,36,\fscy996)}se{\fax-0.12}'s{\fscx985\t(-59,40,\fscx986)\fscy985\t(-59,40,\fscy986)} Off{\fscx975\t(-52,47,\fscx976)\fscy975\t(-52,47,\fscy976)}ice
+Dialogue: 1,0:00:01.27,0:00:01.31,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.05,246.35)\fs4\frz5.341\fscx1005\t(-70,29,\fscx1006)\fscy1005\t(-70,29,\fscy1006)}{0:01} Nur{\fscx995\t(-63,36,\fscx996)\fscy995\t(-63,36,\fscy996)}se{\fax-0.12}'s{\fscx985\t(-59,40,\fscx986)\fscy985\t(-59,40,\fscy986)} Off{\fscx975\t(-52,47,\fscx976)\fscy975\t(-52,47,\fscy976)}ice
+Dialogue: 0,0:00:01.31,0:00:01.35,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.05,246.26)\fs4\frz5.341\fscx1006\t(-61,38,\fscx1007)\fscy1006\t(-61,38,\fscy1007)}{0:01} Nur{\fscx996\t(-53,46,\fscx997)\fscy996\t(-53,46,\fscy997)}se{\fax-0.12}'s{\fscx986\t(-48,51,\fscx987)\fscy986\t(-48,51,\fscy987)} Off{\fscx976\t(-40,59,\fscx977)\fscy976\t(-40,59,\fscy977)}ice
+Dialogue: 1,0:00:01.31,0:00:01.35,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.05,246.26)\fs4\frz5.341\fscx1006\t(-61,38,\fscx1007)\fscy1006\t(-61,38,\fscy1007)}{0:01} Nur{\fscx996\t(-53,46,\fscx997)\fscy996\t(-53,46,\fscy997)}se{\fax-0.12}'s{\fscx986\t(-48,51,\fscx987)\fscy986\t(-48,51,\fscy987)} Off{\fscx976\t(-40,59,\fscx977)\fscy976\t(-40,59,\fscy977)}ice
+Dialogue: 0,0:00:01.35,0:00:01.39,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.05,246.16)\fs4\frz5.341\fscx1007\t(-48,51,\fscx1008)\fscy1007\t(-48,51,\fscy1008)}{0:01} Nur{\fscx997\t(-40,59,\fscx998)\fscy997\t(-40,59,\fscy998)}se{\fax-0.12}'s{\fscx987\t(-33,66,\fscx988)\fscy987\t(-33,66,\fscy988)} Off{\fscx977\t(-25,74,\fscx978)\fscy977\t(-25,74,\fscy978)}ice
+Dialogue: 1,0:00:01.35,0:00:01.39,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.05,246.16)\fs4\frz5.341\fscx1007\t(-48,51,\fscx1008)\fscy1007\t(-48,51,\fscy1008)}{0:01} Nur{\fscx997\t(-40,59,\fscx998)\fscy997\t(-40,59,\fscy998)}se{\fax-0.12}'s{\fscx987\t(-33,66,\fscx988)\fscy987\t(-33,66,\fscy988)} Off{\fscx977\t(-25,74,\fscx978)\fscy977\t(-25,74,\fscy978)}ice
+Dialogue: 0,0:00:01.39,0:00:01.43,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.06,246.07)\fs4\frz5.341\fscx1008\t(-22,77,\fscx1009)\fscy1008\t(-22,77,\fscy1009)}{0:01} Nur{\fscx998\t(-13,86,\fscx999)\fscy998\t(-13,86,\fscy999)}se{\fax-0.12}'s{\fscx988\t(-5,94,\fscx989)\fscy988\t(-5,94,\fscy989)} Off{\fscx977\t(-97,2,\fscx978)\fscy977\t(-97,2,\fscy978)}ice
+Dialogue: 1,0:00:01.39,0:00:01.43,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.06,246.07)\fs4\frz5.341\fscx1008\t(-22,77,\fscx1009)\fscy1008\t(-22,77,\fscy1009)}{0:01} Nur{\fscx998\t(-13,86,\fscx999)\fscy998\t(-13,86,\fscy999)}se{\fax-0.12}'s{\fscx988\t(-5,94,\fscx989)\fscy988\t(-5,94,\fscy989)} Off{\fscx977\t(-97,2,\fscx978)\fscy977\t(-97,2,\fscy978)}ice
+Dialogue: 0,0:00:01.43,0:00:01.48,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.07,245.98)\fs4\frz5.341\fscx1009\t(-4,95,\fscx1010)\fscy1009\t(-4,95,\fscy1010)}{0:01} Nur{\fscx998\t(-96,3,\fscx999)\fscy998\t(-96,3,\fscy999)}se{\fax-0.12}'s{\fscx988\t(-87,12,\fscx989)\fscy988\t(-87,12,\fscy989)} Off{\fscx978\t(-77,22,\fscx979)\fscy978\t(-77,22,\fscy979)}ice
+Dialogue: 1,0:00:01.43,0:00:01.48,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.07,245.98)\fs4\frz5.341\fscx1009\t(-4,95,\fscx1010)\fscy1009\t(-4,95,\fscy1010)}{0:01} Nur{\fscx998\t(-96,3,\fscx999)\fscy998\t(-96,3,\fscy999)}se{\fax-0.12}'s{\fscx988\t(-87,12,\fscx989)\fscy988\t(-87,12,\fscy989)} Off{\fscx978\t(-77,22,\fscx979)\fscy978\t(-77,22,\fscy979)}ice
+Dialogue: 0,0:00:01.48,0:00:01.52,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.08,245.88)\fs4\frz5.341\fscx1009\t(-86,13,\fscx1010)\fscy1009\t(-86,13,\fscy1010)}{0:01} Nur{\fscx999\t(-75,24,\fscx1000)\fscy999\t(-75,24,\fscy1000)}se{\fax-0.12}'s{\fscx989\t(-65,34,\fscx990)\fscy989\t(-65,34,\fscy990)} Off{\fscx979\t(-55,44,\fscx980)\fscy979\t(-55,44,\fscy980)}ice
+Dialogue: 1,0:00:01.48,0:00:01.52,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.08,245.88)\fs4\frz5.341\fscx1009\t(-86,13,\fscx1010)\fscy1009\t(-86,13,\fscy1010)}{0:01} Nur{\fscx999\t(-75,24,\fscx1000)\fscy999\t(-75,24,\fscy1000)}se{\fax-0.12}'s{\fscx989\t(-65,34,\fscx990)\fscy989\t(-65,34,\fscy990)} Off{\fscx979\t(-55,44,\fscx980)\fscy979\t(-55,44,\fscy980)}ice
+Dialogue: 0,0:00:01.52,0:00:01.56,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.08,245.79)\fs4\frz5.341\fscx1010\t(-64,35,\fscx1011)\fscy1010\t(-64,35,\fscy1011)}{0:01} Nur{\fscx1000\t(-53,46,\fscx1001)\fscy1000\t(-53,46,\fscy1001)}se{\fax-0.12}'s{\fscx990\t(-44,55,\fscx991)\fscy990\t(-44,55,\fscy991)} Off{\fscx980\t(-33,66,\fscx981)\fscy980\t(-33,66,\fscy981)}ice
+Dialogue: 1,0:00:01.52,0:00:01.56,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.08,245.79)\fs4\frz5.341\fscx1010\t(-64,35,\fscx1011)\fscy1010\t(-64,35,\fscy1011)}{0:01} Nur{\fscx1000\t(-53,46,\fscx1001)\fscy1000\t(-53,46,\fscy1001)}se{\fax-0.12}'s{\fscx990\t(-44,55,\fscx991)\fscy990\t(-44,55,\fscy991)} Off{\fscx980\t(-33,66,\fscx981)\fscy980\t(-33,66,\fscy981)}ice
+Dialogue: 0,0:00:01.56,0:00:01.60,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.09,245.7)\fs4\frz5.341\fscx1011\t(-49,50,\fscx1012)\fscy1011\t(-49,50,\fscy1012)}{0:01} Nur{\fscx1001\t(-37,62,\fscx1002)\fscy1001\t(-37,62,\fscy1002)}se{\fax-0.12}'s{\fscx991\t(-25,74,\fscx992)\fscy991\t(-25,74,\fscy992)} Off{\fscx981\t(-14,85,\fscx982)\fscy981\t(-14,85,\fscy982)}ice
+Dialogue: 1,0:00:01.56,0:00:01.60,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.09,245.7)\fs4\frz5.341\fscx1011\t(-49,50,\fscx1012)\fscy1011\t(-49,50,\fscy1012)}{0:01} Nur{\fscx1001\t(-37,62,\fscx1002)\fscy1001\t(-37,62,\fscy1002)}se{\fax-0.12}'s{\fscx991\t(-25,74,\fscx992)\fscy991\t(-25,74,\fscy992)} Off{\fscx981\t(-14,85,\fscx982)\fscy981\t(-14,85,\fscy982)}ice
+Dialogue: 0,0:00:01.60,0:00:01.64,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.1,245.6)\fs4\frz5.341\fscx1012\t(-36,63,\fscx1013)\fscy1012\t(-36,63,\fscy1013)}{0:01} Nur{\fscx1002\t(-24,75,\fscx1003)\fscy1002\t(-24,75,\fscy1003)}se{\fax-0.12}'s{\fscx992\t(-11,88,\fscx993)\fscy992\t(-11,88,\fscy993)} Off{\fscx982\fscy982}ice
+Dialogue: 1,0:00:01.60,0:00:01.64,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.1,245.6)\fs4\frz5.341\fscx1012\t(-36,63,\fscx1013)\fscy1012\t(-36,63,\fscy1013)}{0:01} Nur{\fscx1002\t(-24,75,\fscx1003)\fscy1002\t(-24,75,\fscy1003)}se{\fax-0.12}'s{\fscx992\t(-11,88,\fscx993)\fscy992\t(-11,88,\fscy993)} Off{\fscx982\fscy982}ice
+Dialogue: 0,0:00:01.64,0:00:01.68,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.11,245.5)\fs4\frz5.341\fscx1013\t(-22,77,\fscx1014)\fscy1013\t(-22,77,\fscy1014)}{0:01} Nur{\fscx1003\t(-9,90,\fscx1004)\fscy1003\t(-9,90,\fscy1004)}se{\fax-0.12}'s{\fscx992\t(-96,3,\fscx993)\fscy992\t(-96,3,\fscy993)} Off{\fscx982\t(-82,17,\fscx983)\fscy982\t(-82,17,\fscy983)}ice
+Dialogue: 1,0:00:01.64,0:00:01.68,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.11,245.5)\fs4\frz5.341\fscx1013\t(-22,77,\fscx1014)\fscy1013\t(-22,77,\fscy1014)}{0:01} Nur{\fscx1003\t(-9,90,\fscx1004)\fscy1003\t(-9,90,\fscy1004)}se{\fax-0.12}'s{\fscx992\t(-96,3,\fscx993)\fscy992\t(-96,3,\fscy993)} Off{\fscx982\t(-82,17,\fscx983)\fscy982\t(-82,17,\fscy983)}ice
+Dialogue: 0,0:00:01.68,0:00:01.73,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.11,245.41)\fs4\frz5.341\fscx1014\fscy1014}{0:01} Nur{\fscx1003\t(-85,14,\fscx1004)\fscy1003\t(-85,14,\fscy1004)}se{\fax-0.12}'s{\fscx993\t(-71,28,\fscx994)\fscy993\t(-71,28,\fscy994)} Off{\fscx983\t(-57,42,\fscx984)\fscy983\t(-57,42,\fscy984)}ice
+Dialogue: 1,0:00:01.68,0:00:01.73,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.11,245.41)\fs4\frz5.341\fscx1014\fscy1014}{0:01} Nur{\fscx1003\t(-85,14,\fscx1004)\fscy1003\t(-85,14,\fscy1004)}se{\fax-0.12}'s{\fscx993\t(-71,28,\fscx994)\fscy993\t(-71,28,\fscy994)} Off{\fscx983\t(-57,42,\fscx984)\fscy983\t(-57,42,\fscy984)}ice
+Dialogue: 0,0:00:01.73,0:00:01.77,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.12,245.32)\fs4\frz5.341\fscx1014\t(-78,21,\fscx1015)\fscy1014\t(-78,21,\fscy1015)}{0:01} Nur{\fscx1004\t(-63,36,\fscx1005)\fscy1004\t(-63,36,\fscy1005)}se{\fax-0.12}'s{\fscx994\t(-49,50,\fscx995)\fscy994\t(-49,50,\fscy995)} Off{\fscx984\t(-35,64,\fscx985)\fscy984\t(-35,64,\fscy985)}ice
+Dialogue: 1,0:00:01.73,0:00:01.77,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.12,245.32)\fs4\frz5.341\fscx1014\t(-78,21,\fscx1015)\fscy1014\t(-78,21,\fscy1015)}{0:01} Nur{\fscx1004\t(-63,36,\fscx1005)\fscy1004\t(-63,36,\fscy1005)}se{\fax-0.12}'s{\fscx994\t(-49,50,\fscx995)\fscy994\t(-49,50,\fscy995)} Off{\fscx984\t(-35,64,\fscx985)\fscy984\t(-35,64,\fscy985)}ice
+Dialogue: 0,0:00:01.77,0:00:01.81,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.13,245.22)\fs4\frz5.341\fscx1015\t(-67,32,\fscx1016)\fscy1015\t(-67,32,\fscy1016)}{0:01} Nur{\fscx1005\t(-51,48,\fscx1006)\fscy1005\t(-51,48,\fscy1006)}se{\fax-0.12}'s{\fscx995\t(-37,62,\fscx996)\fscy995\t(-37,62,\fscy996)} Off{\fscx985\t(-21,78,\fscx986)\fscy985\t(-21,78,\fscy986)}ice
+Dialogue: 1,0:00:01.77,0:00:01.81,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.13,245.22)\fs4\frz5.341\fscx1015\t(-67,32,\fscx1016)\fscy1015\t(-67,32,\fscy1016)}{0:01} Nur{\fscx1005\t(-51,48,\fscx1006)\fscy1005\t(-51,48,\fscy1006)}se{\fax-0.12}'s{\fscx995\t(-37,62,\fscx996)\fscy995\t(-37,62,\fscy996)} Off{\fscx985\t(-21,78,\fscx986)\fscy985\t(-21,78,\fscy986)}ice
+Dialogue: 0,0:00:01.81,0:00:01.85,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.14,245.12)\fs4\frz5.341\fscx1016\t(-63,36,\fscx1017)\fscy1016\t(-63,36,\fscy1017)}{0:01} Nur{\fscx1006\t(-47,52,\fscx1007)\fscy1006\t(-47,52,\fscy1007)}se{\fax-0.12}'s{\fscx996\t(-30,69,\fscx997)\fscy996\t(-30,69,\fscy997)} Off{\fscx986\t(-13,86,\fscx987)\fscy986\t(-13,86,\fscy987)}ice
+Dialogue: 1,0:00:01.81,0:00:01.85,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.14,245.12)\fs4\frz5.341\fscx1016\t(-63,36,\fscx1017)\fscy1016\t(-63,36,\fscy1017)}{0:01} Nur{\fscx1006\t(-47,52,\fscx1007)\fscy1006\t(-47,52,\fscy1007)}se{\fax-0.12}'s{\fscx996\t(-30,69,\fscx997)\fscy996\t(-30,69,\fscy997)} Off{\fscx986\t(-13,86,\fscx987)\fscy986\t(-13,86,\fscy987)}ice
+Dialogue: 0,0:00:01.85,0:00:01.89,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.14,245.01)\fs4\frz5.341\fscx1017\t(-62,37,\fscx1018)\fscy1017\t(-62,37,\fscy1018)}{0:01} Nur{\fscx1007\t(-45,54,\fscx1008)\fscy1007\t(-45,54,\fscy1008)}se{\fax-0.12}'s{\fscx997\t(-27,72,\fscx998)\fscy997\t(-27,72,\fscy998)} Off{\fscx987\t(-10,89,\fscx988)\fscy987\t(-10,89,\fscy988)}ice
+Dialogue: 1,0:00:01.85,0:00:01.89,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.14,245.01)\fs4\frz5.341\fscx1017\t(-62,37,\fscx1018)\fscy1017\t(-62,37,\fscy1018)}{0:01} Nur{\fscx1007\t(-45,54,\fscx1008)\fscy1007\t(-45,54,\fscy1008)}se{\fax-0.12}'s{\fscx997\t(-27,72,\fscx998)\fscy997\t(-27,72,\fscy998)} Off{\fscx987\t(-10,89,\fscx988)\fscy987\t(-10,89,\fscy988)}ice
+Dialogue: 0,0:00:01.89,0:00:01.94,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.15,244.91)\fs4\frz5.341\fscx1018\t(-50,49,\fscx1019)\fscy1018\t(-50,49,\fscy1019)}{0:01} Nur{\fscx1008\t(-32,67,\fscx1009)\fscy1008\t(-32,67,\fscy1009)}se{\fax-0.12}'s{\fscx998\t(-13,86,\fscx999)\fscy998\t(-13,86,\fscy999)} Off{\fscx987\t(-95,4,\fscx988)\fscy987\t(-95,4,\fscy988)}ice
+Dialogue: 1,0:00:01.89,0:00:01.94,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.15,244.91)\fs4\frz5.341\fscx1018\t(-50,49,\fscx1019)\fscy1018\t(-50,49,\fscy1019)}{0:01} Nur{\fscx1008\t(-32,67,\fscx1009)\fscy1008\t(-32,67,\fscy1009)}se{\fax-0.12}'s{\fscx998\t(-13,86,\fscx999)\fscy998\t(-13,86,\fscy999)} Off{\fscx987\t(-95,4,\fscx988)\fscy987\t(-95,4,\fscy988)}ice
+Dialogue: 0,0:00:01.94,0:00:01.98,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.15,244.8)\fs4\frz5.341\fscx1019\t(-50,49,\fscx1020)\fscy1019\t(-50,49,\fscy1020)}{0:01} Nur{\fscx1009\t(-30,69,\fscx1010)\fscy1009\t(-30,69,\fscy1010)}se{\fax-0.12}'s{\fscx999\t(-12,87,\fscx1000)\fscy999\t(-12,87,\fscy1000)} Off{\fscx988\t(-91,8,\fscx989)\fscy988\t(-91,8,\fscy989)}ice
+Dialogue: 1,0:00:01.94,0:00:01.98,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.15,244.8)\fs4\frz5.341\fscx1019\t(-50,49,\fscx1020)\fscy1019\t(-50,49,\fscy1020)}{0:01} Nur{\fscx1009\t(-30,69,\fscx1010)\fscy1009\t(-30,69,\fscy1010)}se{\fax-0.12}'s{\fscx999\t(-12,87,\fscx1000)\fscy999\t(-12,87,\fscy1000)} Off{\fscx988\t(-91,8,\fscx989)\fscy988\t(-91,8,\fscy989)}ice
+Dialogue: 0,0:00:01.98,0:00:02.02,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.16,244.7)\fs4\frz5.341\fscx1020\t(-41,58,\fscx1021)\fscy1020\t(-41,58,\fscy1021)}{0:01} Nur{\fscx1010\t(-22,77,\fscx1011)\fscy1010\t(-22,77,\fscy1011)}se{\fax-0.12}'s{\fscx1000\t(0,99,\fscx1001)\fscy1000\t(0,99,\fscy1001)} Off{\fscx989\t(-80,19,\fscx990)\fscy989\t(-80,19,\fscy990)}ice
+Dialogue: 1,0:00:01.98,0:00:02.02,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.16,244.7)\fs4\frz5.341\fscx1020\t(-41,58,\fscx1021)\fscy1020\t(-41,58,\fscy1021)}{0:01} Nur{\fscx1010\t(-22,77,\fscx1011)\fscy1010\t(-22,77,\fscy1011)}se{\fax-0.12}'s{\fscx1000\t(0,99,\fscx1001)\fscy1000\t(0,99,\fscy1001)} Off{\fscx989\t(-80,19,\fscx990)\fscy989\t(-80,19,\fscy990)}ice
+Dialogue: 0,0:00:02.02,0:00:02.06,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.16,244.61)\fs4\frz5.341\fscx1021\t(-24,75,\fscx1022)\fscy1021\t(-24,75,\fscy1022)}{0:01} Nur{\fscx1011\t(-2,97,\fscx1012)\fscy1011\t(-2,97,\fscy1012)}se{\fax-0.12}'s{\fscx1000\t(-82,17,\fscx1001)\fscy1000\t(-82,17,\fscy1001)} Off{\fscx990\t(-60,39,\fscx991)\fscy990\t(-60,39,\fscy991)}ice
+Dialogue: 1,0:00:02.02,0:00:02.06,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.16,244.61)\fs4\frz5.341\fscx1021\t(-24,75,\fscx1022)\fscy1021\t(-24,75,\fscy1022)}{0:01} Nur{\fscx1011\t(-2,97,\fscx1012)\fscy1011\t(-2,97,\fscy1012)}se{\fax-0.12}'s{\fscx1000\t(-82,17,\fscx1001)\fscy1000\t(-82,17,\fscy1001)} Off{\fscx990\t(-60,39,\fscx991)\fscy990\t(-60,39,\fscy991)}ice
+Dialogue: 0,0:00:02.06,0:00:02.10,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.17,244.52)\fs4\frz5.341\fscx1022\t(-8,91,\fscx1023)\fscy1022\t(-8,91,\fscy1023)}{0:01} Nur{\fscx1011\t(-86,13,\fscx1012)\fscy1011\t(-86,13,\fscy1012)}se{\fax-0.12}'s{\fscx1001\t(-63,36,\fscx1002)\fscy1001\t(-63,36,\fscy1002)} Off{\fscx991\t(-41,58,\fscx992)\fscy991\t(-41,58,\fscy992)}ice
+Dialogue: 1,0:00:02.06,0:00:02.10,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.17,244.52)\fs4\frz5.341\fscx1022\t(-8,91,\fscx1023)\fscy1022\t(-8,91,\fscy1023)}{0:01} Nur{\fscx1011\t(-86,13,\fscx1012)\fscy1011\t(-86,13,\fscy1012)}se{\fax-0.12}'s{\fscx1001\t(-63,36,\fscx1002)\fscy1001\t(-63,36,\fscy1002)} Off{\fscx991\t(-41,58,\fscx992)\fscy991\t(-41,58,\fscy992)}ice
+Dialogue: 0,0:00:02.10,0:00:02.14,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.17,244.41)\fs4\frz5.341\fscx1022\t(-97,2,\fscx1023)\fscy1022\t(-97,2,\fscy1023)}{0:01} Nur{\fscx1012\t(-74,25,\fscx1013)\fscy1012\t(-74,25,\fscy1013)}se{\fax-0.12}'s{\fscx1002\t(-50,49,\fscx1003)\fscy1002\t(-50,49,\fscy1003)} Off{\fscx992\t(-27,72,\fscx993)\fscy992\t(-27,72,\fscy993)}ice
+Dialogue: 1,0:00:02.10,0:00:02.14,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.17,244.41)\fs4\frz5.341\fscx1022\t(-97,2,\fscx1023)\fscy1022\t(-97,2,\fscy1023)}{0:01} Nur{\fscx1012\t(-74,25,\fscx1013)\fscy1012\t(-74,25,\fscy1013)}se{\fax-0.12}'s{\fscx1002\t(-50,49,\fscx1003)\fscy1002\t(-50,49,\fscy1003)} Off{\fscx992\t(-27,72,\fscx993)\fscy992\t(-27,72,\fscy993)}ice
+Dialogue: 0,0:00:02.14,0:00:02.19,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.18,244.34)\fs4\frz5.341\fscx1023\t(-63,36,\fscx1024)\fscy1023\t(-63,36,\fscy1024)}{0:01} Nur{\fscx1013\t(-39,60,\fscx1014)\fscy1013\t(-39,60,\fscy1014)}se{\fax-0.12}'s{\fscx1003\t(-16,83,\fscx1004)\fscy1003\t(-16,83,\fscy1004)} Off{\fscx992\t(-92,7,\fscx993)\fscy992\t(-92,7,\fscy993)}ice
+Dialogue: 1,0:00:02.14,0:00:02.19,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.18,244.34)\fs4\frz5.341\fscx1023\t(-63,36,\fscx1024)\fscy1023\t(-63,36,\fscy1024)}{0:01} Nur{\fscx1013\t(-39,60,\fscx1014)\fscy1013\t(-39,60,\fscy1014)}se{\fax-0.12}'s{\fscx1003\t(-16,83,\fscx1004)\fscy1003\t(-16,83,\fscy1004)} Off{\fscx992\t(-92,7,\fscx993)\fscy992\t(-92,7,\fscy993)}ice
+Dialogue: 0,0:00:02.19,0:00:02.23,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.19,244.23)\fs4\frz5.341\fscx1024\t(-61,38,\fscx1025)\fscy1024\t(-61,38,\fscy1025)}{0:01} Nur{\fscx1014\t(-37,62,\fscx1015)\fscy1014\t(-37,62,\fscy1015)}se{\fax-0.12}'s{\fscx1004\t(-12,87,\fscx1005)\fscy1004\t(-12,87,\fscy1005)} Off{\fscx993\t(-87,12,\fscx994)\fscy993\t(-87,12,\fscy994)}ice
+Dialogue: 1,0:00:02.19,0:00:02.23,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.19,244.23)\fs4\frz5.341\fscx1024\t(-61,38,\fscx1025)\fscy1024\t(-61,38,\fscy1025)}{0:01} Nur{\fscx1014\t(-37,62,\fscx1015)\fscy1014\t(-37,62,\fscy1015)}se{\fax-0.12}'s{\fscx1004\t(-12,87,\fscx1005)\fscy1004\t(-12,87,\fscy1005)} Off{\fscx993\t(-87,12,\fscx994)\fscy993\t(-87,12,\fscy994)}ice
+Dialogue: 0,0:00:02.23,0:00:02.27,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.2,244.14)\fs4\frz5.341\fscx1025\t(-41,58,\fscx1026)\fscy1025\t(-41,58,\fscy1026)}{0:01} Nur{\fscx1015\t(-15,84,\fscx1016)\fscy1015\t(-15,84,\fscy1016)}se{\fax-0.12}'s{\fscx1004\t(-89,10,\fscx1005)\fscy1004\t(-89,10,\fscy1005)} Off{\fscx994\t(-64,35,\fscx995)\fscy994\t(-64,35,\fscy995)}ice
+Dialogue: 1,0:00:02.23,0:00:02.27,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.2,244.14)\fs4\frz5.341\fscx1025\t(-41,58,\fscx1026)\fscy1025\t(-41,58,\fscy1026)}{0:01} Nur{\fscx1015\t(-15,84,\fscx1016)\fscy1015\t(-15,84,\fscy1016)}se{\fax-0.12}'s{\fscx1004\t(-89,10,\fscx1005)\fscy1004\t(-89,10,\fscy1005)} Off{\fscx994\t(-64,35,\fscx995)\fscy994\t(-64,35,\fscy995)}ice
+Dialogue: 0,0:00:02.27,0:00:02.31,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.2,244.03)\fs4\frz5.341\fscx1026\t(-43,56,\fscx1027)\fscy1026\t(-43,56,\fscy1027)}{0:01} Nur{\fscx1016\t(-16,83,\fscx1017)\fscy1016\t(-16,83,\fscy1017)}se{\fax-0.12}'s{\fscx1005\t(-89,10,\fscx1006)\fscy1005\t(-89,10,\fscy1006)} Off{\fscx995\t(-63,36,\fscx996)\fscy995\t(-63,36,\fscy996)}ice
+Dialogue: 1,0:00:02.27,0:00:02.31,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.2,244.03)\fs4\frz5.341\fscx1026\t(-43,56,\fscx1027)\fscy1026\t(-43,56,\fscy1027)}{0:01} Nur{\fscx1016\t(-16,83,\fscx1017)\fscy1016\t(-16,83,\fscy1017)}se{\fax-0.12}'s{\fscx1005\t(-89,10,\fscx1006)\fscy1005\t(-89,10,\fscy1006)} Off{\fscx995\t(-63,36,\fscx996)\fscy995\t(-63,36,\fscy996)}ice
+Dialogue: 0,0:00:02.31,0:00:02.35,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.21,243.94)\fs4\frz5.341\fscx1027\t(-25,75,\fscx1028)\fscy1027\t(-25,75,\fscy1028)}{0:01} Nur{\fscx1016\t(-98,1,\fscx1017)\fscy1016\t(-98,1,\fscy1017)}se{\fax-0.12}'s{\fscx1006\t(-71,28,\fscx1007)\fscy1006\t(-71,28,\fscy1007)} Off{\fscx996\t(-42,57,\fscx997)\fscy996\t(-42,57,\fscy997)}ice
+Dialogue: 1,0:00:02.31,0:00:02.35,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.21,243.94)\fs4\frz5.341\fscx1027\t(-25,75,\fscx1028)\fscy1027\t(-25,75,\fscy1028)}{0:01} Nur{\fscx1016\t(-98,1,\fscx1017)\fscy1016\t(-98,1,\fscy1017)}se{\fax-0.12}'s{\fscx1006\t(-71,28,\fscx1007)\fscy1006\t(-71,28,\fscy1007)} Off{\fscx996\t(-42,57,\fscx997)\fscy996\t(-42,57,\fscy997)}ice
+Dialogue: 0,0:00:02.35,0:00:02.39,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.22,243.84)\fs4\frz5.341\fscx1028\t(-8,91,\fscx1029)\fscy1028\t(-8,91,\fscy1029)}{0:01} Nur{\fscx1017\t(-80,19,\fscx1018)\fscy1017\t(-80,19,\fscy1018)}se{\fax-0.12}'s{\fscx1007\t(-52,47,\fscx1008)\fscy1007\t(-52,47,\fscy1008)} Off{\fscx997\t(-25,75,\fscx998)\fscy997\t(-25,75,\fscy998)}ice
+Dialogue: 1,0:00:02.35,0:00:02.39,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.22,243.84)\fs4\frz5.341\fscx1028\t(-8,91,\fscx1029)\fscy1028\t(-8,91,\fscy1029)}{0:01} Nur{\fscx1017\t(-80,19,\fscx1018)\fscy1017\t(-80,19,\fscy1018)}se{\fax-0.12}'s{\fscx1007\t(-52,47,\fscx1008)\fscy1007\t(-52,47,\fscy1008)} Off{\fscx997\t(-25,75,\fscx998)\fscy997\t(-25,75,\fscy998)}ice
+Dialogue: 0,0:00:02.39,0:00:02.44,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.22,243.74)\fs4\frz5.341\fscx1029\fscy1029}{0:01} Nur{\fscx1018\t(-70,29,\fscx1019)\fscy1018\t(-70,29,\fscy1019)}se{\fax-0.12}'s{\fscx1008\t(-40,59,\fscx1009)\fscy1008\t(-40,59,\fscy1009)} Off{\fscx998\t(-12,87,\fscx999)\fscy998\t(-12,87,\fscy999)}ice
+Dialogue: 1,0:00:02.39,0:00:02.44,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.22,243.74)\fs4\frz5.341\fscx1029\fscy1029}{0:01} Nur{\fscx1018\t(-70,29,\fscx1019)\fscy1018\t(-70,29,\fscy1019)}se{\fax-0.12}'s{\fscx1008\t(-40,59,\fscx1009)\fscy1008\t(-40,59,\fscy1009)} Off{\fscx998\t(-12,87,\fscx999)\fscy998\t(-12,87,\fscy999)}ice
+Dialogue: 0,0:00:02.44,0:00:02.48,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.23,243.65)\fs4\frz5.341\fscx1029\t(-79,20,\fscx1030)\fscy1029\t(-79,20,\fscy1030)}{0:01} Nur{\fscx1019\t(-50,50,\fscx1020)\fscy1019\t(-50,50,\fscy1020)}se{\fax-0.12}'s{\fscx1009\t(-20,79,\fscx1010)\fscy1009\t(-20,79,\fscy1010)} Off{\fscx998\t(-90,9,\fscx999)\fscy998\t(-90,9,\fscy999)}ice
+Dialogue: 1,0:00:02.44,0:00:02.48,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.23,243.65)\fs4\frz5.341\fscx1029\t(-79,20,\fscx1030)\fscy1029\t(-79,20,\fscy1030)}{0:01} Nur{\fscx1019\t(-50,50,\fscx1020)\fscy1019\t(-50,50,\fscy1020)}se{\fax-0.12}'s{\fscx1009\t(-20,79,\fscx1010)\fscy1009\t(-20,79,\fscy1010)} Off{\fscx998\t(-90,9,\fscx999)\fscy998\t(-90,9,\fscy999)}ice
+Dialogue: 0,0:00:02.48,0:00:02.52,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.23,243.54)\fs4\frz5.341\fscx1030\t(-79,20,\fscx1031)\fscy1030\t(-79,20,\fscy1031)}{0:01} Nur{\fscx1020\t(-49,50,\fscx1021)\fscy1020\t(-49,50,\fscy1021)}se{\fax-0.12}'s{\fscx1010\t(-17,82,\fscx1011)\fscy1010\t(-17,82,\fscy1011)} Off{\fscx999\t(-87,12,\fscx1000)\fscy999\t(-87,12,\fscy1000)}ice
+Dialogue: 1,0:00:02.48,0:00:02.52,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.23,243.54)\fs4\frz5.341\fscx1030\t(-79,20,\fscx1031)\fscy1030\t(-79,20,\fscy1031)}{0:01} Nur{\fscx1020\t(-49,50,\fscx1021)\fscy1020\t(-49,50,\fscy1021)}se{\fax-0.12}'s{\fscx1010\t(-17,82,\fscx1011)\fscy1010\t(-17,82,\fscy1011)} Off{\fscx999\t(-87,12,\fscx1000)\fscy999\t(-87,12,\fscy1000)}ice
+Dialogue: 0,0:00:02.52,0:00:02.56,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.24,243.44)\fs4\frz5.341\fscx1031\t(-70,29,\fscx1032)\fscy1031\t(-70,29,\fscy1032)}{0:01} Nur{\fscx1021\t(-37,62,\fscx1022)\fscy1021\t(-37,62,\fscy1022)}se{\fax-0.12}'s{\fscx1011\t(-7,92,\fscx1012)\fscy1011\t(-7,92,\fscy1012)} Off{\fscx1000\t(-75,25,\fscx1001)\fscy1000\t(-75,25,\fscy1001)}ice
+Dialogue: 1,0:00:02.52,0:00:02.56,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.24,243.44)\fs4\frz5.341\fscx1031\t(-70,29,\fscx1032)\fscy1031\t(-70,29,\fscy1032)}{0:01} Nur{\fscx1021\t(-37,62,\fscx1022)\fscy1021\t(-37,62,\fscy1022)}se{\fax-0.12}'s{\fscx1011\t(-7,92,\fscx1012)\fscy1011\t(-7,92,\fscy1012)} Off{\fscx1000\t(-75,25,\fscx1001)\fscy1000\t(-75,25,\fscy1001)}ice
+Dialogue: 0,0:00:02.56,0:00:02.60,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.25,243.35)\fs4\frz5.341\fscx1032\t(-53,46,\fscx1033)\fscy1032\t(-53,46,\fscy1033)}{0:01} Nur{\fscx1022\t(-21,78,\fscx1023)\fscy1022\t(-21,78,\fscy1023)}se{\fax-0.12}'s{\fscx1011\t(-88,11,\fscx1012)\fscy1011\t(-88,11,\fscy1012)} Off{\fscx1001\t(-55,44,\fscx1002)\fscy1001\t(-55,44,\fscy1002)}ice
+Dialogue: 1,0:00:02.56,0:00:02.60,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.25,243.35)\fs4\frz5.341\fscx1032\t(-53,46,\fscx1033)\fscy1032\t(-53,46,\fscy1033)}{0:01} Nur{\fscx1022\t(-21,78,\fscx1023)\fscy1022\t(-21,78,\fscy1023)}se{\fax-0.12}'s{\fscx1011\t(-88,11,\fscx1012)\fscy1011\t(-88,11,\fscy1012)} Off{\fscx1001\t(-55,44,\fscx1002)\fscy1001\t(-55,44,\fscy1002)}ice
+Dialogue: 0,0:00:02.60,0:00:02.64,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.25,243.24)\fs4\frz5.341\fscx1033\t(-42,57,\fscx1034)\fscy1033\t(-42,57,\fscy1034)}{0:01} Nur{\fscx1023\t(-9,90,\fscx1024)\fscy1023\t(-9,90,\fscy1024)}se{\fax-0.12}'s{\fscx1012\t(-75,25,\fscx1013)\fscy1012\t(-75,25,\fscy1013)} Off{\fscx1002\t(-41,58,\fscx1003)\fscy1002\t(-41,58,\fscy1003)}ice
+Dialogue: 1,0:00:02.60,0:00:02.64,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.25,243.24)\fs4\frz5.341\fscx1033\t(-42,57,\fscx1034)\fscy1033\t(-42,57,\fscy1034)}{0:01} Nur{\fscx1023\t(-9,90,\fscx1024)\fscy1023\t(-9,90,\fscy1024)}se{\fax-0.12}'s{\fscx1012\t(-75,25,\fscx1013)\fscy1012\t(-75,25,\fscy1013)} Off{\fscx1002\t(-41,58,\fscx1003)\fscy1002\t(-41,58,\fscy1003)}ice
+Dialogue: 0,0:00:02.64,0:00:02.69,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.26,243.14)\fs4\frz5.341\fscx1034\t(-36,63,\fscx1035)\fscy1034\t(-36,63,\fscy1035)}{0:01} Nur{\fscx1024\t(-2,97,\fscx1025)\fscy1024\t(-2,97,\fscy1025)}se{\fax-0.12}'s{\fscx1013\t(-67,32,\fscx1014)\fscy1013\t(-67,32,\fscy1014)} Off{\fscx1003\t(-34,65,\fscx1004)\fscy1003\t(-34,65,\fscy1004)}ice
+Dialogue: 1,0:00:02.64,0:00:02.69,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.26,243.14)\fs4\frz5.341\fscx1034\t(-36,63,\fscx1035)\fscy1034\t(-36,63,\fscy1035)}{0:01} Nur{\fscx1024\t(-2,97,\fscx1025)\fscy1024\t(-2,97,\fscy1025)}se{\fax-0.12}'s{\fscx1013\t(-67,32,\fscx1014)\fscy1013\t(-67,32,\fscy1014)} Off{\fscx1003\t(-34,65,\fscx1004)\fscy1003\t(-34,65,\fscy1004)}ice
+Dialogue: 0,0:00:02.69,0:00:02.73,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.27,243.03)\fs4\frz5.341\fscx1035\t(-30,69,\fscx1036)\fscy1035\t(-30,69,\fscy1036)}{0:01} Nur{\fscx1024\t(-96,3,\fscx1025)\fscy1024\t(-96,3,\fscy1025)}se{\fax-0.12}'s{\fscx1014\t(-60,39,\fscx1015)\fscy1014\t(-60,39,\fscy1015)} Off{\fscx1004\t(-25,75,\fscx1005)\fscy1004\t(-25,75,\fscy1005)}ice
+Dialogue: 1,0:00:02.69,0:00:02.73,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.27,243.03)\fs4\frz5.341\fscx1035\t(-30,69,\fscx1036)\fscy1035\t(-30,69,\fscy1036)}{0:01} Nur{\fscx1024\t(-96,3,\fscx1025)\fscy1024\t(-96,3,\fscy1025)}se{\fax-0.12}'s{\fscx1014\t(-60,39,\fscx1015)\fscy1014\t(-60,39,\fscy1015)} Off{\fscx1004\t(-25,75,\fscx1005)\fscy1004\t(-25,75,\fscy1005)}ice
+Dialogue: 0,0:00:02.73,0:00:02.77,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.27,242.94)\fs4\frz5.341\fscx1036\t(-20,79,\fscx1037)\fscy1036\t(-20,79,\fscy1037)}{0:01} Nur{\fscx1025\t(-83,16,\fscx1026)\fscy1025\t(-83,16,\fscy1026)}se{\fax-0.12}'s{\fscx1015\t(-48,51,\fscx1016)\fscy1015\t(-48,51,\fscy1016)} Off{\fscx1005\t(-11,88,\fscx1006)\fscy1005\t(-11,88,\fscy1006)}ice
+Dialogue: 1,0:00:02.73,0:00:02.77,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.27,242.94)\fs4\frz5.341\fscx1036\t(-20,79,\fscx1037)\fscy1036\t(-20,79,\fscy1037)}{0:01} Nur{\fscx1025\t(-83,16,\fscx1026)\fscy1025\t(-83,16,\fscy1026)}se{\fax-0.12}'s{\fscx1015\t(-48,51,\fscx1016)\fscy1015\t(-48,51,\fscy1016)} Off{\fscx1005\t(-11,88,\fscx1006)\fscy1005\t(-11,88,\fscy1006)}ice
+Dialogue: 0,0:00:02.73,0:00:04.02,Default,Iori,0,0,0,,Inaban...
+Dialogue: 0,0:00:02.77,0:00:02.81,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.28,242.83)\fs4\frz5.341\fscx1037\t(-6,93,\fscx1038)\fscy1037\t(-6,93,\fscy1038)}{0:01} Nur{\fscx1026\t(-70,29,\fscx1027)\fscy1026\t(-70,29,\fscy1027)}se{\fax-0.12}'s{\fscx1016\t(-33,66,\fscx1017)\fscy1016\t(-33,66,\fscy1017)} Off{\fscx1005\t(-96,3,\fscx1006)\fscy1005\t(-96,3,\fscy1006)}ice
+Dialogue: 1,0:00:02.77,0:00:02.81,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.28,242.83)\fs4\frz5.341\fscx1037\t(-6,93,\fscx1038)\fscy1037\t(-6,93,\fscy1038)}{0:01} Nur{\fscx1026\t(-70,29,\fscx1027)\fscy1026\t(-70,29,\fscy1027)}se{\fax-0.12}'s{\fscx1016\t(-33,66,\fscx1017)\fscy1016\t(-33,66,\fscy1017)} Off{\fscx1005\t(-96,3,\fscx1006)\fscy1005\t(-96,3,\fscy1006)}ice
+Dialogue: 0,0:00:02.81,0:00:02.85,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.29,242.72)\fs4\frz5.341\fscx1038\t(-7,92,\fscx1039)\fscy1038\t(-7,92,\fscy1039)}{0:01} Nur{\fscx1027\t(-70,29,\fscx1028)\fscy1027\t(-70,29,\fscy1028)}se{\fax-0.12}'s{\fscx1017\t(-32,67,\fscx1018)\fscy1017\t(-32,67,\fscy1018)} Off{\fscx1006\t(-94,5,\fscx1007)\fscy1006\t(-94,5,\fscy1007)}ice
+Dialogue: 1,0:00:02.81,0:00:02.85,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.29,242.72)\fs4\frz5.341\fscx1038\t(-7,92,\fscx1039)\fscy1038\t(-7,92,\fscy1039)}{0:01} Nur{\fscx1027\t(-70,29,\fscx1028)\fscy1027\t(-70,29,\fscy1028)}se{\fax-0.12}'s{\fscx1017\t(-32,67,\fscx1018)\fscy1017\t(-32,67,\fscy1018)} Off{\fscx1006\t(-94,5,\fscx1007)\fscy1006\t(-94,5,\fscy1007)}ice
+Dialogue: 0,0:00:02.85,0:00:02.89,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.29,242.62)\fs4\frz5.341\fscx1038\t(-95,4,\fscx1039)\fscy1038\t(-95,4,\fscy1039)}{0:01} Nur{\fscx1028\t(-55,44,\fscx1029)\fscy1028\t(-55,44,\fscy1029)}se{\fax-0.12}'s{\fscx1018\t(-16,83,\fscx1019)\fscy1018\t(-16,83,\fscy1019)} Off{\fscx1007\t(-77,22,\fscx1008)\fscy1007\t(-77,22,\fscy1008)}ice
+Dialogue: 1,0:00:02.85,0:00:02.89,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.29,242.62)\fs4\frz5.341\fscx1038\t(-95,4,\fscx1039)\fscy1038\t(-95,4,\fscy1039)}{0:01} Nur{\fscx1028\t(-55,44,\fscx1029)\fscy1028\t(-55,44,\fscy1029)}se{\fax-0.12}'s{\fscx1018\t(-16,83,\fscx1019)\fscy1018\t(-16,83,\fscy1019)} Off{\fscx1007\t(-77,22,\fscx1008)\fscy1007\t(-77,22,\fscy1008)}ice
+Dialogue: 0,0:00:02.89,0:00:02.94,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.3,242.52)\fs4\frz5.341\fscx1039\t(-84,15,\fscx1040)\fscy1039\t(-84,15,\fscy1040)}{0:01} Nur{\fscx1029\t(-45,54,\fscx1030)\fscy1029\t(-45,54,\fscy1030)}se{\fax-0.12}'s{\fscx1019\t(-4,95,\fscx1020)\fscy1019\t(-4,95,\fscy1020)} Off{\fscx1008\t(-64,35,\fscx1009)\fscy1008\t(-64,35,\fscy1009)}ice
+Dialogue: 1,0:00:02.89,0:00:02.94,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.3,242.52)\fs4\frz5.341\fscx1039\t(-84,15,\fscx1040)\fscy1039\t(-84,15,\fscy1040)}{0:01} Nur{\fscx1029\t(-45,54,\fscx1030)\fscy1029\t(-45,54,\fscy1030)}se{\fax-0.12}'s{\fscx1019\t(-4,95,\fscx1020)\fscy1019\t(-4,95,\fscy1020)} Off{\fscx1008\t(-64,35,\fscx1009)\fscy1008\t(-64,35,\fscy1009)}ice
+Dialogue: 0,0:00:02.94,0:00:02.98,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.31,242.42)\fs4\frz5.341\fscx1040\t(-75,24,\fscx1041)\fscy1040\t(-75,24,\fscy1041)}{0:01} Nur{\fscx1030\t(-34,65,\fscx1031)\fscy1030\t(-34,65,\fscy1031)}se{\fax-0.12}'s{\fscx1019\t(-94,5,\fscx1020)\fscy1019\t(-94,5,\fscy1020)} Off{\fscx1009\t(-53,46,\fscx1010)\fscy1009\t(-53,46,\fscy1010)}ice
+Dialogue: 1,0:00:02.94,0:00:02.98,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.31,242.42)\fs4\frz5.341\fscx1040\t(-75,24,\fscx1041)\fscy1040\t(-75,24,\fscy1041)}{0:01} Nur{\fscx1030\t(-34,65,\fscx1031)\fscy1030\t(-34,65,\fscy1031)}se{\fax-0.12}'s{\fscx1019\t(-94,5,\fscx1020)\fscy1019\t(-94,5,\fscy1020)} Off{\fscx1009\t(-53,46,\fscx1010)\fscy1009\t(-53,46,\fscy1010)}ice
+Dialogue: 0,0:00:02.98,0:00:03.02,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.32,242.31)\fs4\frz5.341\fscx1041\t(-68,31,\fscx1042)\fscy1041\t(-68,31,\fscy1042)}{0:01} Nur{\fscx1031\t(-25,74,\fscx1032)\fscy1031\t(-25,74,\fscy1032)}se{\fax-0.12}'s{\fscx1020\t(-85,14,\fscx1021)\fscy1020\t(-85,14,\fscy1021)} Off{\fscx1010\t(-42,57,\fscx1011)\fscy1010\t(-42,57,\fscy1011)}ice
+Dialogue: 1,0:00:02.98,0:00:03.02,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.32,242.31)\fs4\frz5.341\fscx1041\t(-68,31,\fscx1042)\fscy1041\t(-68,31,\fscy1042)}{0:01} Nur{\fscx1031\t(-25,74,\fscx1032)\fscy1031\t(-25,74,\fscy1032)}se{\fax-0.12}'s{\fscx1020\t(-85,14,\fscx1021)\fscy1020\t(-85,14,\fscy1021)} Off{\fscx1010\t(-42,57,\fscx1011)\fscy1010\t(-42,57,\fscy1011)}ice
+Dialogue: 0,0:00:03.02,0:00:03.06,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.32,242.21)\fs4\frz5.341\fscx1042\t(-55,44,\fscx1043)\fscy1042\t(-55,44,\fscy1043)}{0:01} Nur{\fscx1032\t(-13,86,\fscx1033)\fscy1032\t(-13,86,\fscy1033)}se{\fax-0.12}'s{\fscx1021\t(-71,28,\fscx1022)\fscy1021\t(-71,28,\fscy1022)} Off{\fscx1011\t(-27,72,\fscx1012)\fscy1011\t(-27,72,\fscy1012)}ice
+Dialogue: 1,0:00:03.02,0:00:03.06,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.32,242.21)\fs4\frz5.341\fscx1042\t(-55,44,\fscx1043)\fscy1042\t(-55,44,\fscy1043)}{0:01} Nur{\fscx1032\t(-13,86,\fscx1033)\fscy1032\t(-13,86,\fscy1033)}se{\fax-0.12}'s{\fscx1021\t(-71,28,\fscx1022)\fscy1021\t(-71,28,\fscy1022)} Off{\fscx1011\t(-27,72,\fscx1012)\fscy1011\t(-27,72,\fscy1012)}ice
+Dialogue: 0,0:00:03.06,0:00:03.10,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.33,242.12)\fs4\frz5.341\fscx1043\t(-35,64,\fscx1044)\fscy1043\t(-35,64,\fscy1044)}{0:01} Nur{\fscx1032\t(-93,6,\fscx1033)\fscy1032\t(-93,6,\fscy1033)}se{\fax-0.12}'s{\fscx1022\t(-49,50,\fscx1023)\fscy1022\t(-49,50,\fscy1023)} Off{\fscx1012\t(-5,94,\fscx1013)\fscy1012\t(-5,94,\fscy1013)}ice
+Dialogue: 1,0:00:03.06,0:00:03.10,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.33,242.12)\fs4\frz5.341\fscx1043\t(-35,64,\fscx1044)\fscy1043\t(-35,64,\fscy1044)}{0:01} Nur{\fscx1032\t(-93,6,\fscx1033)\fscy1032\t(-93,6,\fscy1033)}se{\fax-0.12}'s{\fscx1022\t(-49,50,\fscx1023)\fscy1022\t(-49,50,\fscy1023)} Off{\fscx1012\t(-5,94,\fscx1013)\fscy1012\t(-5,94,\fscy1013)}ice
+Dialogue: 0,0:00:03.10,0:00:03.14,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.34,242.02)\fs4\frz5.341\fscx1044\t(-20,79,\fscx1045)\fscy1044\t(-20,79,\fscy1045)}{0:01} Nur{\fscx1033\t(-75,24,\fscx1034)\fscy1033\t(-75,24,\fscy1034)}se{\fax-0.12}'s{\fscx1023\t(-32,67,\fscx1024)\fscy1023\t(-32,67,\fscy1024)} Off{\fscx1012\t(-87,12,\fscx1013)\fscy1012\t(-87,12,\fscy1013)}ice
+Dialogue: 1,0:00:03.10,0:00:03.14,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.34,242.02)\fs4\frz5.341\fscx1044\t(-20,79,\fscx1045)\fscy1044\t(-20,79,\fscy1045)}{0:01} Nur{\fscx1033\t(-75,24,\fscx1034)\fscy1033\t(-75,24,\fscy1034)}se{\fax-0.12}'s{\fscx1023\t(-32,67,\fscx1024)\fscy1023\t(-32,67,\fscy1024)} Off{\fscx1012\t(-87,12,\fscx1013)\fscy1012\t(-87,12,\fscy1013)}ice
+Dialogue: 0,0:00:03.14,0:00:03.19,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.35,241.92)\fs4\frz5.341\fscx1045\t(-13,86,\fscx1046)\fscy1045\t(-13,86,\fscy1046)}{0:01} Nur{\fscx1034\t(-68,31,\fscx1035)\fscy1034\t(-68,31,\fscy1035)}se{\fax-0.12}'s{\fscx1024\t(-23,76,\fscx1025)\fscy1024\t(-23,76,\fscy1025)} Off{\fscx1013\t(-77,22,\fscx1014)\fscy1013\t(-77,22,\fscy1014)}ice
+Dialogue: 1,0:00:03.14,0:00:03.19,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.35,241.92)\fs4\frz5.341\fscx1045\t(-13,86,\fscx1046)\fscy1045\t(-13,86,\fscy1046)}{0:01} Nur{\fscx1034\t(-68,31,\fscx1035)\fscy1034\t(-68,31,\fscy1035)}se{\fax-0.12}'s{\fscx1024\t(-23,76,\fscx1025)\fscy1024\t(-23,76,\fscy1025)} Off{\fscx1013\t(-77,22,\fscx1014)\fscy1013\t(-77,22,\fscy1014)}ice
+Dialogue: 0,0:00:03.19,0:00:03.23,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.36,241.82)\fs4\frz5.341\fscx1046\t(0,100,\fscx1046)\fscy1046\t(0,100,\fscy1046)}{0:01} Nur{\fscx1035\t(-53,46,\fscx1036)\fscy1035\t(-53,46,\fscy1036)}se{\fax-0.12}'s{\fscx1025\t(-7,92,\fscx1026)\fscy1025\t(-7,92,\fscy1026)} Off{\fscx1014\t(-62,37,\fscx1015)\fscy1014\t(-62,37,\fscy1015)}ice
+Dialogue: 1,0:00:03.19,0:00:03.23,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.36,241.82)\fs4\frz5.341\fscx1046\t(0,100,\fscx1046)\fscy1046\t(0,100,\fscy1046)}{0:01} Nur{\fscx1035\t(-53,46,\fscx1036)\fscy1035\t(-53,46,\fscy1036)}se{\fax-0.12}'s{\fscx1025\t(-7,92,\fscx1026)\fscy1025\t(-7,92,\fscy1026)} Off{\fscx1014\t(-62,37,\fscx1015)\fscy1014\t(-62,37,\fscy1015)}ice
+Dialogue: 0,0:00:03.23,0:00:03.27,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.36,241.71)\fs4\frz5.341\fscx1046\t(-92,7,\fscx1047)\fscy1046\t(-92,7,\fscy1047)}{0:01} Nur{\fscx1036\t(-45,54,\fscx1037)\fscy1036\t(-45,54,\fscy1037)}se{\fax-0.12}'s{\fscx1025\t(-98,1,\fscx1026)\fscy1025\t(-98,1,\fscy1026)} Off{\fscx1015\t(-50,49,\fscx1016)\fscy1015\t(-50,49,\fscy1016)}ice
+Dialogue: 1,0:00:03.23,0:00:03.27,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.36,241.71)\fs4\frz5.341\fscx1046\t(-92,7,\fscx1047)\fscy1046\t(-92,7,\fscy1047)}{0:01} Nur{\fscx1036\t(-45,54,\fscx1037)\fscy1036\t(-45,54,\fscy1037)}se{\fax-0.12}'s{\fscx1025\t(-98,1,\fscx1026)\fscy1025\t(-98,1,\fscy1026)} Off{\fscx1015\t(-50,49,\fscx1016)\fscy1015\t(-50,49,\fscy1016)}ice
+Dialogue: 0,0:00:03.27,0:00:03.31,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.37,241.63)\fs4\frz5.341\fscx1047\t(-74,25,\fscx1048)\fscy1047\t(-74,25,\fscy1048)}{0:01} Nur{\fscx1037\t(-25,74,\fscx1038)\fscy1037\t(-25,74,\fscy1038)}se{\fax-0.12}'s{\fscx1026\t(-78,21,\fscx1027)\fscy1026\t(-78,21,\fscy1027)} Off{\fscx1016\t(-30,69,\fscx1017)\fscy1016\t(-30,69,\fscy1017)}ice
+Dialogue: 1,0:00:03.27,0:00:03.31,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.37,241.63)\fs4\frz5.341\fscx1047\t(-74,25,\fscx1048)\fscy1047\t(-74,25,\fscy1048)}{0:01} Nur{\fscx1037\t(-25,74,\fscx1038)\fscy1037\t(-25,74,\fscy1038)}se{\fax-0.12}'s{\fscx1026\t(-78,21,\fscx1027)\fscy1026\t(-78,21,\fscy1027)} Off{\fscx1016\t(-30,69,\fscx1017)\fscy1016\t(-30,69,\fscy1017)}ice
+Dialogue: 0,0:00:03.31,0:00:03.35,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.38,241.5)\fs4\frz5.341\fscx1048\t(-82,17,\fscx1049)\fscy1048\t(-82,17,\fscy1049)}{0:01} Nur{\fscx1038\t(-33,66,\fscx1039)\fscy1038\t(-33,66,\fscy1039)}se{\fax-0.12}'s{\fscx1027\t(-84,15,\fscx1028)\fscy1027\t(-84,15,\fscy1028)} Off{\fscx1017\t(-37,62,\fscx1018)\fscy1017\t(-37,62,\fscy1018)}ice
+Dialogue: 1,0:00:03.31,0:00:03.35,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.38,241.5)\fs4\frz5.341\fscx1048\t(-82,17,\fscx1049)\fscy1048\t(-82,17,\fscy1049)}{0:01} Nur{\fscx1038\t(-33,66,\fscx1039)\fscy1038\t(-33,66,\fscy1039)}se{\fax-0.12}'s{\fscx1027\t(-84,15,\fscx1028)\fscy1027\t(-84,15,\fscy1028)} Off{\fscx1017\t(-37,62,\fscx1018)\fscy1017\t(-37,62,\fscy1018)}ice
+Dialogue: 0,0:00:03.35,0:00:03.39,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.38,241.4)\fs4\frz5.341\fscx1049\t(-71,28,\fscx1050)\fscy1049\t(-71,28,\fscy1050)}{0:01} Nur{\fscx1039\t(-21,78,\fscx1040)\fscy1039\t(-21,78,\fscy1040)}se{\fax-0.12}'s{\fscx1028\t(-72,27,\fscx1029)\fscy1028\t(-72,27,\fscy1029)} Off{\fscx1018\t(-22,77,\fscx1019)\fscy1018\t(-22,77,\fscy1019)}ice
+Dialogue: 1,0:00:03.35,0:00:03.39,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.38,241.4)\fs4\frz5.341\fscx1049\t(-71,28,\fscx1050)\fscy1049\t(-71,28,\fscy1050)}{0:01} Nur{\fscx1039\t(-21,78,\fscx1040)\fscy1039\t(-21,78,\fscy1040)}se{\fax-0.12}'s{\fscx1028\t(-72,27,\fscx1029)\fscy1028\t(-72,27,\fscy1029)} Off{\fscx1018\t(-22,77,\fscx1019)\fscy1018\t(-22,77,\fscy1019)}ice
+Dialogue: 0,0:00:03.39,0:00:03.44,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.39,241.3)\fs4\frz5.341\fscx1050\t(-59,40,\fscx1051)\fscy1050\t(-59,40,\fscy1051)}{0:01} Nur{\fscx1040\t(-8,91,\fscx1041)\fscy1040\t(-8,91,\fscy1041)}se{\fax-0.12}'s{\fscx1029\t(-58,41,\fscx1030)\fscy1029\t(-58,41,\fscy1030)} Off{\fscx1019\t(-8,91,\fscx1020)\fscy1019\t(-8,91,\fscy1020)}ice
+Dialogue: 1,0:00:03.39,0:00:03.44,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.39,241.3)\fs4\frz5.341\fscx1050\t(-59,40,\fscx1051)\fscy1050\t(-59,40,\fscy1051)}{0:01} Nur{\fscx1040\t(-8,91,\fscx1041)\fscy1040\t(-8,91,\fscy1041)}se{\fax-0.12}'s{\fscx1029\t(-58,41,\fscx1030)\fscy1029\t(-58,41,\fscy1030)} Off{\fscx1019\t(-8,91,\fscx1020)\fscy1019\t(-8,91,\fscy1020)}ice
+Dialogue: 0,0:00:03.44,0:00:03.48,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.4,241.2)\fs4\frz5.341\fscx1051\t(-43,56,\fscx1052)\fscy1051\t(-43,56,\fscy1052)}{0:01} Nur{\fscx1040\t(-92,7,\fscx1041)\fscy1040\t(-92,7,\fscy1041)}se{\fax-0.12}'s{\fscx1030\t(-40,59,\fscx1031)\fscy1030\t(-40,59,\fscy1031)} Off{\fscx1019\t(-88,11,\fscx1020)\fscy1019\t(-88,11,\fscy1020)}ice
+Dialogue: 1,0:00:03.44,0:00:03.48,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.4,241.2)\fs4\frz5.341\fscx1051\t(-43,56,\fscx1052)\fscy1051\t(-43,56,\fscy1052)}{0:01} Nur{\fscx1040\t(-92,7,\fscx1041)\fscy1040\t(-92,7,\fscy1041)}se{\fax-0.12}'s{\fscx1030\t(-40,59,\fscx1031)\fscy1030\t(-40,59,\fscy1031)} Off{\fscx1019\t(-88,11,\fscx1020)\fscy1019\t(-88,11,\fscy1020)}ice
+Dialogue: 0,0:00:03.48,0:00:03.52,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.4,241.09)\fs4\frz5.341\fscx1052\t(-45,54,\fscx1053)\fscy1052\t(-45,54,\fscy1053)}{0:01} Nur{\fscx1041\t(-93,6,\fscx1042)\fscy1041\t(-93,6,\fscy1042)}se{\fax-0.12}'s{\fscx1031\t(-40,59,\fscx1032)\fscy1031\t(-40,59,\fscy1032)} Off{\fscx1020\t(-87,12,\fscx1021)\fscy1020\t(-87,12,\fscy1021)}ice
+Dialogue: 1,0:00:03.48,0:00:03.52,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.4,241.09)\fs4\frz5.341\fscx1052\t(-45,54,\fscx1053)\fscy1052\t(-45,54,\fscy1053)}{0:01} Nur{\fscx1041\t(-93,6,\fscx1042)\fscy1041\t(-93,6,\fscy1042)}se{\fax-0.12}'s{\fscx1031\t(-40,59,\fscx1032)\fscy1031\t(-40,59,\fscy1032)} Off{\fscx1020\t(-87,12,\fscx1021)\fscy1020\t(-87,12,\fscy1021)}ice
+Dialogue: 0,0:00:03.52,0:00:03.56,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.41,240.99)\fs4\frz5.341\fscx1053\t(-32,67,\fscx1054)\fscy1053\t(-32,67,\fscy1054)}{0:01} Nur{\fscx1042\t(-79,20,\fscx1043)\fscy1042\t(-79,20,\fscy1043)}se{\fax-0.12}'s{\fscx1032\t(-25,74,\fscx1033)\fscy1032\t(-25,74,\fscy1033)} Off{\fscx1021\t(-73,26,\fscx1022)\fscy1021\t(-73,26,\fscy1022)}ice
+Dialogue: 1,0:00:03.52,0:00:03.56,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.41,240.99)\fs4\frz5.341\fscx1053\t(-32,67,\fscx1054)\fscy1053\t(-32,67,\fscy1054)}{0:01} Nur{\fscx1042\t(-79,20,\fscx1043)\fscy1042\t(-79,20,\fscy1043)}se{\fax-0.12}'s{\fscx1032\t(-25,74,\fscx1033)\fscy1032\t(-25,74,\fscy1033)} Off{\fscx1021\t(-73,26,\fscx1022)\fscy1021\t(-73,26,\fscy1022)}ice
+Dialogue: 0,0:00:03.56,0:00:03.60,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.42,240.9)\fs4\frz5.341\fscx1054\t(-9,90,\fscx1055)\fscy1054\t(-9,90,\fscy1055)}{0:01} Nur{\fscx1043\t(-55,44,\fscx1044)\fscy1043\t(-55,44,\fscy1044)}se{\fax-0.12}'s{\fscx1033\t(-1,98,\fscx1034)\fscy1033\t(-1,98,\fscy1034)} Off{\fscx1022\t(-48,51,\fscx1023)\fscy1022\t(-48,51,\fscy1023)}ice
+Dialogue: 1,0:00:03.56,0:00:03.60,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.42,240.9)\fs4\frz5.341\fscx1054\t(-9,90,\fscx1055)\fscy1054\t(-9,90,\fscy1055)}{0:01} Nur{\fscx1043\t(-55,44,\fscx1044)\fscy1043\t(-55,44,\fscy1044)}se{\fax-0.12}'s{\fscx1033\t(-1,98,\fscx1034)\fscy1033\t(-1,98,\fscy1034)} Off{\fscx1022\t(-48,51,\fscx1023)\fscy1022\t(-48,51,\fscy1023)}ice
+Dialogue: 0,0:00:03.60,0:00:03.65,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.43,240.77)\fs4\frz5.341\fscx1055\t(-21,78,\fscx1056)\fscy1055\t(-21,78,\fscy1056)}{0:01} Nur{\fscx1044\t(-66,33,\fscx1045)\fscy1044\t(-66,33,\fscy1045)}se{\fax-0.12}'s{\fscx1034\t(-10,89,\fscx1035)\fscy1034\t(-10,89,\fscy1035)} Off{\fscx1023\t(-54,45,\fscx1024)\fscy1023\t(-54,45,\fscy1024)}ice
+Dialogue: 1,0:00:03.60,0:00:03.65,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.43,240.77)\fs4\frz5.341\fscx1055\t(-21,78,\fscx1056)\fscy1055\t(-21,78,\fscy1056)}{0:01} Nur{\fscx1044\t(-66,33,\fscx1045)\fscy1044\t(-66,33,\fscy1045)}se{\fax-0.12}'s{\fscx1034\t(-10,89,\fscx1035)\fscy1034\t(-10,89,\fscy1035)} Off{\fscx1023\t(-54,45,\fscx1024)\fscy1023\t(-54,45,\fscy1024)}ice
+Dialogue: 0,0:00:03.65,0:00:03.69,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.43,240.68)\fs4\frz5.341\fscx1056\t(-1,98,\fscx1057)\fscy1056\t(-1,98,\fscy1057)}{0:01} Nur{\fscx1045\t(-46,53,\fscx1046)\fscy1045\t(-46,53,\fscy1046)}se{\fax-0.12}'s{\fscx1034\t(-90,9,\fscx1035)\fscy1034\t(-90,9,\fscy1035)} Off{\fscx1024\t(-33,66,\fscx1025)\fscy1024\t(-33,66,\fscy1025)}ice
+Dialogue: 1,0:00:03.65,0:00:03.69,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.43,240.68)\fs4\frz5.341\fscx1056\t(-1,98,\fscx1057)\fscy1056\t(-1,98,\fscy1057)}{0:01} Nur{\fscx1045\t(-46,53,\fscx1046)\fscy1045\t(-46,53,\fscy1046)}se{\fax-0.12}'s{\fscx1034\t(-90,9,\fscx1035)\fscy1034\t(-90,9,\fscy1035)} Off{\fscx1024\t(-33,66,\fscx1025)\fscy1024\t(-33,66,\fscy1025)}ice
+Dialogue: 0,0:00:03.69,0:00:03.73,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.44,240.58)\fs4\frz5.341\fscx1057\t(0,99,\fscx1058)\fscy1057\t(0,99,\fscy1058)}{0:01} Nur{\fscx1046\t(-44,55,\fscx1047)\fscy1046\t(-44,55,\fscy1047)}se{\fax-0.12}'s{\fscx1035\t(-86,13,\fscx1036)\fscy1035\t(-86,13,\fscy1036)} Off{\fscx1025\t(-29,70,\fscx1026)\fscy1025\t(-29,70,\fscy1026)}ice
+Dialogue: 1,0:00:03.69,0:00:03.73,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.44,240.58)\fs4\frz5.341\fscx1057\t(0,99,\fscx1058)\fscy1057\t(0,99,\fscy1058)}{0:01} Nur{\fscx1046\t(-44,55,\fscx1047)\fscy1046\t(-44,55,\fscy1047)}se{\fax-0.12}'s{\fscx1035\t(-86,13,\fscx1036)\fscy1035\t(-86,13,\fscy1036)} Off{\fscx1025\t(-29,70,\fscx1026)\fscy1025\t(-29,70,\fscy1026)}ice
+Dialogue: 0,0:00:03.73,0:00:03.77,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.45,240.46)\fs4\frz5.341\fscx1058\fscy1058}{0:01} Nur{\fscx1047\t(-41,58,\fscx1048)\fscy1047\t(-41,58,\fscy1048)}se{\fax-0.12}'s{\fscx1036\t(-82,17,\fscx1037)\fscy1036\t(-82,17,\fscy1037)} Off{\fscx1026\t(-25,75,\fscx1027)\fscy1026\t(-25,75,\fscy1027)}ice
+Dialogue: 1,0:00:03.73,0:00:03.77,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.45,240.46)\fs4\frz5.341\fscx1058\fscy1058}{0:01} Nur{\fscx1047\t(-41,58,\fscx1048)\fscy1047\t(-41,58,\fscy1048)}se{\fax-0.12}'s{\fscx1036\t(-82,17,\fscx1037)\fscy1036\t(-82,17,\fscy1037)} Off{\fscx1026\t(-25,75,\fscx1027)\fscy1026\t(-25,75,\fscy1027)}ice
+Dialogue: 0,0:00:03.77,0:00:03.81,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.45,240.36)\fs4\frz5.341\fscx1058\t(-95,4,\fscx1059)\fscy1058\t(-95,4,\fscy1059)}{0:01} Nur{\fscx1048\t(-35,64,\fscx1049)\fscy1048\t(-35,64,\fscy1049)}se{\fax-0.12}'s{\fscx1037\t(-76,23,\fscx1038)\fscy1037\t(-76,23,\fscy1038)} Off{\fscx1027\t(-18,81,\fscx1028)\fscy1027\t(-18,81,\fscy1028)}ice
+Dialogue: 1,0:00:03.77,0:00:03.81,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.45,240.36)\fs4\frz5.341\fscx1058\t(-95,4,\fscx1059)\fscy1058\t(-95,4,\fscy1059)}{0:01} Nur{\fscx1048\t(-35,64,\fscx1049)\fscy1048\t(-35,64,\fscy1049)}se{\fax-0.12}'s{\fscx1037\t(-76,23,\fscx1038)\fscy1037\t(-76,23,\fscy1038)} Off{\fscx1027\t(-18,81,\fscx1028)\fscy1027\t(-18,81,\fscy1028)}ice
+Dialogue: 0,0:00:03.81,0:00:03.85,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.46,240.25)\fs4\frz5.341\fscx1059\t(-88,11,\fscx1060)\fscy1059\t(-88,11,\fscy1060)}{0:01} Nur{\fscx1049\t(-27,72,\fscx1050)\fscy1049\t(-27,72,\fscy1050)}se{\fax-0.12}'s{\fscx1038\t(-68,31,\fscx1039)\fscy1038\t(-68,31,\fscy1039)} Off{\fscx1028\t(-7,92,\fscx1029)\fscy1028\t(-7,92,\fscy1029)}ice
+Dialogue: 1,0:00:03.81,0:00:03.85,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.46,240.25)\fs4\frz5.341\fscx1059\t(-88,11,\fscx1060)\fscy1059\t(-88,11,\fscy1060)}{0:01} Nur{\fscx1049\t(-27,72,\fscx1050)\fscy1049\t(-27,72,\fscy1050)}se{\fax-0.12}'s{\fscx1038\t(-68,31,\fscx1039)\fscy1038\t(-68,31,\fscy1039)} Off{\fscx1028\t(-7,92,\fscx1029)\fscy1028\t(-7,92,\fscy1029)}ice
+Dialogue: 0,0:00:03.85,0:00:03.90,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.47,240.16)\fs4\frz5.341\fscx1060\t(-63,36,\fscx1061)\fscy1060\t(-63,36,\fscy1061)}{0:01} Nur{\fscx1050\t(-1,98,\fscx1051)\fscy1050\t(-1,98,\fscy1051)}se{\fax-0.12}'s{\fscx1039\t(-42,57,\fscx1040)\fscy1039\t(-42,57,\fscy1040)} Off{\fscx1028\t(-80,19,\fscx1029)\fscy1028\t(-80,19,\fscy1029)}ice
+Dialogue: 1,0:00:03.85,0:00:03.90,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.47,240.16)\fs4\frz5.341\fscx1060\t(-63,36,\fscx1061)\fscy1060\t(-63,36,\fscy1061)}{0:01} Nur{\fscx1050\t(-1,98,\fscx1051)\fscy1050\t(-1,98,\fscy1051)}se{\fax-0.12}'s{\fscx1039\t(-42,57,\fscx1040)\fscy1039\t(-42,57,\fscy1040)} Off{\fscx1028\t(-80,19,\fscx1029)\fscy1028\t(-80,19,\fscy1029)}ice
+Dialogue: 0,0:00:03.90,0:00:03.94,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.48,240.06)\fs4\frz5.341\fscx1061\t(-49,50,\fscx1062)\fscy1061\t(-49,50,\fscy1062)}{0:01} Nur{\fscx1050\t(-88,11,\fscx1051)\fscy1050\t(-88,11,\fscy1051)}se{\fax-0.12}'s{\fscx1040\t(-25,74,\fscx1041)\fscy1040\t(-25,74,\fscy1041)} Off{\fscx1029\t(-65,34,\fscx1030)\fscy1029\t(-65,34,\fscy1030)}ice
+Dialogue: 1,0:00:03.90,0:00:03.94,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.48,240.06)\fs4\frz5.341\fscx1061\t(-49,50,\fscx1062)\fscy1061\t(-49,50,\fscy1062)}{0:01} Nur{\fscx1050\t(-88,11,\fscx1051)\fscy1050\t(-88,11,\fscy1051)}se{\fax-0.12}'s{\fscx1040\t(-25,74,\fscx1041)\fscy1040\t(-25,74,\fscy1041)} Off{\fscx1029\t(-65,34,\fscx1030)\fscy1029\t(-65,34,\fscy1030)}ice
+Dialogue: 0,0:00:03.94,0:00:03.98,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.49,239.95)\fs4\frz5.341\fscx1062\t(-38,61,\fscx1063)\fscy1062\t(-38,61,\fscy1063)}{0:01} Nur{\fscx1051\t(-75,24,\fscx1052)\fscy1051\t(-75,24,\fscy1052)}se{\fax-0.12}'s{\fscx1041\t(-13,86,\fscx1042)\fscy1041\t(-13,86,\fscy1042)} Off{\fscx1030\t(-50,49,\fscx1031)\fscy1030\t(-50,49,\fscy1031)}ice
+Dialogue: 1,0:00:03.94,0:00:03.98,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.49,239.95)\fs4\frz5.341\fscx1062\t(-38,61,\fscx1063)\fscy1062\t(-38,61,\fscy1063)}{0:01} Nur{\fscx1051\t(-75,24,\fscx1052)\fscy1051\t(-75,24,\fscy1052)}se{\fax-0.12}'s{\fscx1041\t(-13,86,\fscx1042)\fscy1041\t(-13,86,\fscy1042)} Off{\fscx1030\t(-50,49,\fscx1031)\fscy1030\t(-50,49,\fscy1031)}ice
+Dialogue: 0,0:00:03.98,0:00:04.02,i swear this sign is in every anime,bord,0,0,0,done,{\blur0.6\1c&H43423E&\bord1\fax-0.15\pos(651.51,239.79)\fs4\frz5.341\fscx1063\t(-92,7,\fscx1064)\fscy1063\t(-92,7,\fscy1064)}{0:01} Nur{\fscx1053\t(-27,72,\fscx1054)\fscy1053\t(-27,72,\fscy1054)}se{\fax-0.12}'s{\fscx1042\t(-64,35,\fscx1043)\fscy1042\t(-64,35,\fscy1043)} Off{\fscx1032\t(0,100,\fscx1032)\fscy1032\t(0,100,\fscy1032)}ice
+Dialogue: 1,0:00:03.98,0:00:04.02,i swear this sign is in every anime,bord,0,0,0,done,{\bord0\blur0.6\fax-0.15\pos(651.51,239.79)\fs4\frz5.341\fscx1063\t(-92,7,\fscx1064)\fscy1063\t(-92,7,\fscy1064)}{0:01} Nur{\fscx1053\t(-27,72,\fscx1054)\fscy1053\t(-27,72,\fscy1054)}se{\fax-0.12}'s{\fscx1042\t(-64,35,\fscx1043)\fscy1042\t(-64,35,\fscy1043)} Off{\fscx1032\t(0,100,\fscx1032)\fscy1032\t(0,100,\fscy1032)}ice
+Dialogue: 0,0:00:04.25,0:00:06.12,Default,Iori,0,0,0,,I thought you were a goner.
+Dialogue: 0,0:00:06.12,0:00:08.51,Default,Inaba,0,0,0,,I'm not gonna die from a little dizzy spell.{esuna, girl}
+Dialogue: 0,0:00:08.51,0:00:10.28,Default,Yui,0,0,0,,Still, I was so scared.
+Dialogue: 0,0:00:11.09,0:00:13.78,Default,Yui,0,0,0,,I thought he might've been responsible.
+Dialogue: 0,0:00:14.19,0:00:16.66,Default,Ina,0,0,0,,This has nothing to do with Heartseed.
+Dialogue: 0,0:00:16.66,0:00:19.12,Default,Ina,0,0,0,,I've been feeling a little under the weather.
+Dialogue: 0,0:00:20.09,0:00:23.20,Default,Ina,0,0,0,,Nothing I would've gone to the nurse's office for.
+Dialogue: 0,0:00:23.20,0:00:25.14,Default,Aoki,0,0,0,,Don't say that, Inaba.
+Dialogue: 0,0:00:25.14,0:00:26.96,Default,Aoki,0,0,0,,You need to take care of yourself.
+Dialogue: 0,0:00:27.47,0:00:30.26,Default,Ina,0,0,0,,Are you actually scolding me?
+Dialogue: 0,0:00:30.40,0:00:32.69,Default,Aoki,0,0,0,,I really mean it!
+Dialogue: 0,0:00:32.69,0:00:34.58,Default,Ina,0,0,0,,Yeah, whatever you say.
+Dialogue: 0,0:00:35.51,0:00:35.51,OP,,0,0,0,,{OP} {First frame with pink kanji fully faded in}
+Dialogue: 1,0:00:50.40,0:00:56.04,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}When the little openings in our hearts connect
+Dialogue: 0,0:00:50.40,0:00:56.04,OP,,0,0,0,,{\blur3\fad(150,150)}When the little openings in our hearts connect
+Dialogue: 1,0:00:56.04,0:01:02.16,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}and produce new things at the speed of little {\fsp2}f{\fsp0}lashes
+Dialogue: 0,0:00:56.04,0:01:02.16,OP,,0,0,0,,{\blur4\fad(150,150)}and produce new things at the speed of little {\fsp2}f{\fsp0}lashes
+Dialogue: 1,0:01:02.16,0:01:08.01,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}then these days that seem to {\fsp2}f{\fsp0}ly by keep us in their embrace
+Dialogue: 0,0:01:02.16,0:01:08.01,OP,,0,0,0,,{\fad(150,150)\blur3}then these days that seem to {\fsp2}f{\fsp0}ly by keep us in their embrace
+Dialogue: 1,0:01:08.01,0:01:14.22,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}and the strength we thought was gone comes back
+Dialogue: 0,0:01:08.01,0:01:14.22,OP,,0,0,0,,{\fad(150,150)\blur3}and the strength we thought was gone comes back
+Dialogue: 1,0:01:14.22,0:01:19.98,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}If my feelings are clear when I look at you
+Dialogue: 0,0:01:14.22,0:01:19.98,OP,,0,0,0,,{\fad(150,150)\blur3}If my feelings are clear when I look at you
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(1109,367)\frz357.7}{right side:} Yaegashi Taichi
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HFFFDEA&\frz343.6\pos(1074,617)}{lower right:} Laugh more
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz336\fscx90\pos(965,234)}{blue, top right:} {\c&HA08161&}Freshman, class 3
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HA389B0&\frz337\pos(952,276)}{pink, with smiley:} Laugh more
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(691,656)}{white, middle:} Dumb wrestling nut
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(922,521)\frz351.8}{below smiley:} {\c&H93DAD1&}What if you laugh more?
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H7EB8AA&\frz340.4\pos(770,191)}{left of class sign:} Gonna go have\N fun tomorrow
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(1029,671)}{center, white, 3 lines:} {no idea, the last is otaku, but the rest?}
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H91759F&\pos(209,155)\frz1.855}{pink, left of head:} Loves his little sister
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H856647&\pos(249,93)\frz2.554}{tope left, blue:} Rice? Bread?
+Dialogue: 0,0:01:14.22,0:01:17.10,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HC3A1CA&\frz4.366\pos(831,600)}Hurry up and give it back!
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\pos(286,377)}{left:} Nagase Iori
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HAE91AF&\frz11.03\pos(243,113)}{top left, pink:} Won't do anything\N dirty at all
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs30\pos(478,182)\c&HA98966&}{right of that:} Freshman\Nclass 3
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H88D1C2&\frz29.07\pos(384,501)}{down left, yellow:}Best Smile Ever
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz354.7\pos(379,709)}{white, crossed out:} Go out with me
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz86.97\fscy900\pos(548,702)\c&HBEA3B4&})
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H85C2B3&\fs90\pos(566,430)}{center:} Cute
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(561,625)\frz350.5\c&HF7F4E0&}{below cute:} Iori, I love you
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs25\pos(648,103)\frz350.8}{top, white:} The comic I read just now was cool.\N I want to eat curry now.
+Dialogue: 0,0:01:17.10,0:01:19.98,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HA187A6&\pos(674,246)\frz356.3}{top right, red:} Cutest girl in all of Yamaboshi High
+Dialogue: 1,0:01:19.98,0:01:27.98,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}then the illusion is dispelled
+Dialogue: 0,0:01:19.98,0:01:27.98,OP,,0,0,0,,{\fad(150,150)\blur3}then the illusion is dispelled
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(124,144)\c&HA67A4D&\frz4.205}{top left, blue:} Scary
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H96D7CD&\frz347.6\pos(128,420)}{yellow, below:} Sorry
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz17.15\pos(320,472)}{bottom left:} {\c&HB59DC4&}Sorry, you gotta\N drink more milk
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HB397BB&\fs70\frz343.2\pos(253,329)}{center:}Inabaaaan
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HFFF4E3&\fs40\frz352.7\pos(220,682)}{bottom left:}Sorry I was even born
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H90789F&\frz12.13\pos(886,105)}{top right, multicolor:} La{\c&H67AFA9&}u{\c&HEDE8DA&}gh
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HBCBAAD&\pos(895,209)\frz357.3}{below that:} Fresh{\c&H92779E&}man, {\c&HBCBAAD&}class {\c&H92779F&}3
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H60B3B0&\frz348.6\pos(1068,107)}{top right, yellow:} Cooks curry
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\pos(946,280)}{right hand side, each character diff color:} {\c&H53A5A3&}Ina{\c&H8B729A&}ba {\c&HA06936&}Hime{\c&HBCB9A9&}ko
+Dialogue: 0,0:01:19.98,0:01:22.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs30\c&H89633E&\pos(1073,649)\frz352.5}{bottom right:}but I still like her
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz17.78\pos(124,249)}{top left, arrow:} {\c&H58988B&}me{\c&H6F5A81&} yui
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz64.41\fs60\pos(67,385)}{left, diagonal:} {\c&H9C7FAC&}A{\c&HCFCDC6&}A{\c&H6FB2A9&}A{\c&HD4CEC3&}A{\c&H8F6F57&}A
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz10.38\pos(321,133)}{top, white, pink:} We should get {\c&H967CAA&}married
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H8CC6B7&\fs50\frz354.1\pos(507,272)}{center, multicolored, left of two:} I love you
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\frz344.2\c&HB28FB0&\pos(715,286)}{center, multicolored, right of two:} I love you, {\c&HF3F2E2&}Yui
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(669,85)\frz9.935}{top, right of marriage:} Let's go out
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HAC8F70&\frz7.264\pos(862,102)}{below that, blue:} Screw that
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz340.9\pos(1054,159)}{top right, white pink:} {\c&HAA8EB9&}Fresh{\c&HDFD5CD&}man, {\c&HAA8EB9&}class {\c&HDFD5CD&}1
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs30\frz340.4\pos(813,414)}{bigass white yellow thing:} I want to eat a\N {\c&H98D9D0&}pot of curry.\N {\c&HFFFFF5&}Wonder if I should.
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz348.3\pos(941,487)}{below that, white orange blue:} The {\c&HCFADC5&}who{\c&HD8B084&}le {\c&HFFFFF5&}world
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HFFFFF1&\frz340.2\pos(857,646)}{yellow white, bottom:} Let's go
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\frz352.9\pos(1163,392)}{right side:} {\c&H8BCEC4&}Kiriy{\c&HC4A47E&}ama {\c&HD4B5CC&}Yui
+Dialogue: 0,0:01:22.94,0:01:25.61,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(1029,696)\frz344.3}{below that, white, yellow:} {\c&HFFFFE6&}Con{\c&HB6F9EC&}cei{\c&HFFFFE6&}ted
+Dialogue: 0,0:01:25.61,0:01:27.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\pos(336,326)\frz0.9467}{left:} A{\c&HFDFCF6&}oki Yoshifumi
+Dialogue: 0,0:01:25.61,0:01:27.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HA27E60&\frz15.78\pos(264,84)}{right of that, yellow:} Freshman, class 1
+Dialogue: 0,0:01:25.61,0:01:27.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HAFECDB&\pos(288,709)}{Blue, big center, starting right to left:}Sorry\NI can't go out with you\NIt'd be bad
+Dialogue: 0,0:01:25.61,0:01:27.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs25\pos(643,488)\frz15.02}{bottom  right, white:} I don't have the homework\N for tomorrow
+Dialogue: 0,0:01:25.61,0:01:27.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(785,170)}{top, pink:} {\c&H9478A5&}I want to eat curry
+Dialogue: 0,0:01:25.61,0:01:27.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz336.3\pos(1177,160)}{top right, white:} {\c&HF2ECDF&}If I do my best
+Dialogue: 0,0:01:25.61,0:01:27.94,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H87CAC2&\pos(554,40)}{right, yellow:} Don't give up if you're a man!
+Dialogue: 1,0:01:28.69,0:01:31.95,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Suddenly the world that connects us changes
+Dialogue: 0,0:01:28.69,0:01:31.95,OP,,0,0,0,,{\fad(150,150)\blur3}Suddenly the world that connects us changes
+Dialogue: 1,0:01:31.95,0:01:34.62,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Peeking through a glass marble
+Dialogue: 0,0:01:31.95,0:01:34.62,OP,,0,0,0,,{\fad(150,150)\blur3}Peeking through a glass marble
+Dialogue: 1,0:01:34.62,0:01:38.16,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}the world looks so much more radiant than before
+Dialogue: 0,0:01:34.62,0:01:38.16,OP,,0,0,0,,{\fad(150,150)\blur3}the world looks so much more radiant than before
+Dialogue: 1,0:01:38.20,0:01:40.70,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}What would I see from there?
+Dialogue: 0,0:01:38.20,0:01:40.70,OP,,0,0,0,,{\fad(150,150)\blur3}What would I see from there?
+Dialogue: 1,0:01:40.70,0:01:44.17,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}When our link shakes, all changes again
+Dialogue: 0,0:01:40.70,0:01:44.17,OP,,0,0,0,,{\fad(150,150)\blur3}When our link shakes, all changes again
+Dialogue: 1,0:01:44.17,0:01:46.71,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Time is multifaceted
+Dialogue: 0,0:01:44.17,0:01:46.71,OP,,0,0,0,,{\fad(150,150)\blur3}Time is multifaceted
+Dialogue: 1,0:01:46.71,0:01:48.05,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Did you hear that?
+Dialogue: 0,0:01:46.71,0:01:48.05,OP,,0,0,0,,{\fad(150,150)\blur3}Did you hear that?
+Dialogue: 0,0:01:47.46,0:01:48.05,Additional Shenanigans,,0,0,0,,{\fscx120\fscy110\fs90\blur0.7\c&HF1E9D0&\fry7\org(436,286)\fax0.04\frz1.093\pos(1049,367)}{top:}De{\fs88}ad{\fs87}lin{\fs86}e: {\fs85}Eve{\fs84}ry {\fs83}mon{\fs83}th {\fs82}on {\fs81}the{\fs80} 25th
+Dialogue: 0,0:01:47.46,0:01:48.05,Additional Shenanigans,,0,0,0,,{\fs100\blur0.7\c&HF2EDD4&\fax-0.03\fry5\org(510,367)\frz4.292\pos(590,689)}{bottom, right:} Don't be late!!
+Dialogue: 1,0:01:48.46,0:01:50.21,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}It signals the beginning
+Dialogue: 0,0:01:48.46,0:01:50.21,OP,,0,0,0,,{\fad(150,150)\blur3}It signals the beginning
+Dialogue: 1,0:01:50.21,0:01:55.97,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Don't let it pass unheard
+Dialogue: 0,0:01:50.21,0:01:55.97,OP,,0,0,0,,{\fad(150,150)\blur3}Don't let it pass unheard
+Dialogue: 1,0:01:58.72,0:02:03.23,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}It signals the future we have chosen
+Dialogue: 0,0:01:58.72,0:02:03.23,OP,,0,0,0,,{\fad(150,150)\blur3}It signals the future we have chosen
+Dialogue: 0,0:02:06.14,0:02:08.27,Default,Ina,0,0,0,,You guys don't have to make a big deal out of this.
+Dialogue: 0,0:02:08.27,0:02:10.10,Default,Ina,0,0,0,,I can walk home by myself.
+Dialogue: 0,0:02:10.43,0:02:12.71,Default,Tai,0,0,0,,If we don't walk you home,
+Dialogue: 0,0:02:12.71,0:02:15.49,Default,,0,0,0,,Kiriyama will kick our asses tomorrow.{Kiriyama will hit us with a Galactic Punt tomorrow.}
+Dialogue: 0,0:02:15.49,0:02:19.52,Default,Iori,0,0,0,,Yep, especially since Yui and Aoki wanted to tag along but couldn't.
+Dialogue: 0,0:02:19.52,0:02:21.36,Default,Ina,0,0,0,,Screw that.
+Dialogue: 0,0:02:21.36,0:02:23.91,Default,Ina,0,0,0,,I don't need four people escorting me around.
+Dialogue: 0,0:02:24.93,0:02:26.41,Default,Ina,0,0,0,,So, Taichi...
+Dialogue: 0,0:02:26.88,0:02:31.54,Ep Title,Ina,0,0,0,,Why don't you tell us what really happened with Yui yesterday?
+Dialogue: 0,0:02:31.67,0:02:33.86,Default,Tai,0,0,0,,What kind of question is that?
+Dialogue: 0,0:02:33.86,0:02:35.40,Default,Tai,0,0,0,,That came out of nowhere.
+Dialogue: 0,0:02:35.40,0:02:37.64,Default,Ina,0,0,0,,Who cares?
+Dialogue: 0,0:02:37.64,0:02:40.46,Default,Ina,0,0,0,,If you don't answer the question,
+Dialogue: 0,0:02:40.46,0:02:42.51,Default,Ina,0,0,0,,I'll be so upset that I'll collapse on the spot.
+Dialogue: 0,0:02:43.48,0:02:46.02,Default,Tai,0,0,0,,It's not fair to use your poor health as an excuse.
+Dialogue: 0,0:02:46.02,0:02:48.36,Default,Iori,0,0,0,,I think I'm gonna faint from the shock.
+Dialogue: 0,0:02:48.36,0:02:48.77,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:02:49.14,0:02:53.64,Default,Iori,0,0,0,,You really have so little trust in us?
+Dialogue: 0,0:02:53.64,0:02:54.32,Default,Iori,0,0,0,,Boohoo.
+Dialogue: 0,0:02:54.82,0:02:56.09,Default,Iori,0,0,0,,Right, Inaban?
+Dialogue: 0,0:02:56.72,0:02:57.57,Default,Ina,0,0,0,,Yeah.
+Dialogue: 0,0:02:57.91,0:02:59.66,Default,Tai,0,0,0,,Okay, okay.
+Dialogue: 0,0:03:00.20,0:03:03.57,Default,Tai,0,0,0,,{But I can't tell you anything that's private.}But there are some things I can't tell you about.
+Dialogue: 0,0:03:03.57,0:03:06.58,Ep Titles,,0,0,0,,{\pos(640,456)\blur0.5}{3:05} Twin Feelings
+Dialogue: 0,0:03:08.96,0:03:13.28,Default,Ina,0,0,0,,How did you come up with {\i1}that{\i0} brilliant idea,\N you white knighting bastard?
+Dialogue: 0,0:03:13.28,0:03:15.21,Default,Tai,0,0,0,,It's not {\i1}that{\i0} funny.
+Dialogue: 0,0:03:15.35,0:03:18.95,Default,Ina,0,0,0,,So does it still hurt down there?
+Dialogue: 0,0:03:18.95,0:03:20.09,Default,Tai,0,0,0,,That's none of your business.
+Dialogue: 0,0:03:20.09,0:03:22.69,Default,Tai,0,0,0,,Help me out here, Nagase.
+Dialogue: 0,0:03:23.42,0:03:24.14,Default,Tai,0,0,0,,What's wrong?
+Dialogue: 0,0:03:26.11,0:03:28.27,Default,Iori,0,0,0,,I had no idea.
+Dialogue: 0,0:03:30.22,0:03:33.82,Default,Iori,0,0,0,,I knew that Yui didn't like boys,
+Dialogue: 0,0:03:34.43,0:03:37.28,Default,Iori,0,0,0,,but I never realized that she was actually scared of them.
+Dialogue: 0,0:03:41.58,0:03:42.91,Default,Tai,0,0,0,,Nagase,
+Dialogue: 0,0:03:42.91,0:03:46.70,Default,Tai,0,0,0,,I'm pretty sure that Kiriyama didn't want people to feel uncomfortable
+Dialogue: 0,0:03:46.70,0:03:49.29,Default,,0,0,0,,or start tiptoeing around her.
+Dialogue: 0,0:03:49.72,0:03:53.15,Default,Tai,0,0,0,,So try to act normal around her.
+Dialogue: 0,0:03:53.60,0:03:55.07,Default,Iori,0,0,0,,Act normal?
+Dialogue: 0,0:03:55.70,0:03:57.17,Default,Iori,0,0,0,,That's all I have to do?{It's the least you could fucking do}
+Dialogue: 0,0:03:57.70,0:03:59.80,Default,Tai,0,0,0,,Yeah, that's enough.
+Dialogue: 0,0:04:02.74,0:04:04.89,Default,Ina,0,0,0,,You two would make the perfect couple
+Dialogue: 0,0:04:05.33,0:04:08.37,Default,Ina,0,0,0,,since you need each other.
+Dialogue: 0,0:04:08.37,0:04:09.43,Default,Ina,0,0,0,,Isn't that right?
+Dialogue: 0,0:04:09.43,0:04:10.80,Default,Iori,0,0,0,,I-Inaban!
+Dialogue: 0,0:04:10.80,0:04:12.99,Default,Iori,0,0,0,,{Don't decide things like that on your own!}That's completely different from what you said before!
+Dialogue: 0,0:04:12.99,0:04:17.03,Default,Iori,0,0,0,,The other day, you were saying how Taichi and I were all...
+Dialogue: 0,0:04:17.03,0:04:20.05,Default,Iori,0,0,0,,...wink-wink, nudge-nudge, that kind of thing!
+Dialogue: 0,0:04:20.05,0:04:20.91,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:04:20.91,0:04:24.04,Default,Ina,0,0,0,,That's because you guys {\i1}are{\i0} like that.
+Dialogue: 0,0:04:25.18,0:04:29.62,Default,Ina,0,0,0,,Plus, I have a feeling that Yui's starting to fall for Taichi.
+Dialogue: 0,0:04:29.62,0:04:30.52,Default,Tai,0,0,0,,Wh-What?!
+Dialogue: 0,0:04:30.52,0:04:32.04,Default,Iori,0,0,0,,Inaban, you're too blunt.
+Dialogue: 0,0:04:32.68,0:04:40.34,Default,Ina,0,0,0,,The thing with white knights is that some girls can't resist 'em.
+Dialogue: 0,0:04:40.95,0:04:44.47,Default,Ina,0,0,0,,But never forget that kindness can hurt instead of help.
+Dialogue: 0,0:04:44.77,0:04:47.60,Default,Tai,0,0,0,,I won't.
+Dialogue: 0,0:04:49.95,0:04:51.38,Default,Ina,0,0,0,,Sorry about everything today.
+Dialogue: 0,0:04:51.38,0:04:52.52,Default,Tai,0,0,0,,Don't sweat it.
+Dialogue: 0,0:04:52.52,0:04:53.52,Default,Tai,0,0,0,,Get some rest.
+Dialogue: 0,0:04:53.99,0:04:57.29,Default,Iori,0,0,0,,Inaban, you should worry about your health
+Dialogue: 0,0:04:57.29,0:04:59.98,Default,,0,0,0,,before stressing over everyone else.
+Dialogue: 0,0:05:00.33,0:05:02.08,Default,Ina,0,0,0,,I'm okay.
+Dialogue: 0,0:05:04.00,0:05:05.27,Default,Ina,0,0,0,,Oh, that's right.
+Dialogue: 0,0:05:05.27,0:05:07.19,Default,Ina,0,0,0,,I almost forgot.
+Dialogue: 0,0:05:07.19,0:05:10.99,Default,Ina,0,0,0,,Iori, you should have Taichi exorcise your demons too.
+Dialogue: 0,0:05:11.28,0:05:11.91,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:05:15.45,0:05:19.50,Default,Iori,0,0,0,,Inaban, you promised not to tell anyone.
+Dialogue: 0,0:05:19.99,0:05:22.83,Default,Ina,0,0,0,,Taichi, I have faith in you.
+Dialogue: 0,0:05:22.83,0:05:24.01,Default,Ina,0,0,0,,Help her out.
+Dialogue: 0,0:05:30.80,0:05:32.65,Default,Iori,0,0,0,,Inaban thinks she knows everything.
+Dialogue: 0,0:05:32.65,0:05:33.81,Default,Iori,0,0,0,,But she doesn't.
+Dialogue: 0,0:05:34.81,0:05:37.69,Default,Iori,0,0,0,,I mean, I know that she's trying to help...
+Dialogue: 0,0:05:39.83,0:05:42.69,Default,Iori,0,0,0,,Do you want to know more about me, Taichi?
+Dialogue: 0,0:05:42.93,0:05:44.22,Default,Tai,0,0,0,,Well...
+Dialogue: 0,0:05:44.89,0:05:46.69,Default,Iori,0,0,0,,I'm willing to talk if you promise
+Dialogue: 0,0:05:46.69,0:05:50.41,Default,,0,0,0,,that nothing will change between us, no matter what I say.{I was born a man}
+Dialogue: 0,0:05:52.50,0:05:54.45,Default,Tai,0,0,0,,Okay, I promise.
+Dialogue: 0,0:05:55.55,0:05:58.46,Default,Iori,0,0,0,,I knew you'd say that.
+Dialogue: 0,0:06:07.53,0:06:09.09,Default,Iori,0,0,0,,Well, let's get started...
+Dialogue: 0,0:06:09.37,0:06:10.00,Default,Tai,0,0,0,,Okay.
+Dialogue: 0,0:06:10.86,0:06:12.34,Default,Iori,0,0,0,,But first...
+Dialogue: 0,0:06:13.13,0:06:14.77,Default,Iori,0,0,0,,I'll tell a joke.
+Dialogue: 0,0:06:14.77,0:06:15.73,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:06:15.73,0:06:19.08,Default,Iori,0,0,0,,Well, I always think it's a good idea
+Dialogue: 0,0:06:19.08,0:06:22.57,Default,,0,0,0,,to say something funny before the mood gets serious.
+Dialogue: 0,0:06:22.57,0:06:23.96,Default,Tai,0,0,0,,Don't bother.
+Dialogue: 0,0:06:23.96,0:06:25.55,Default,Tai,0,0,0,,Why would you think that?
+Dialogue: 0,0:06:25.55,0:06:27.80,Default,Iori,0,0,0,,But when I really need to,
+Dialogue: 0,0:06:27.80,0:06:29.61,Default,,0,0,0,,I can never think of anything funny!
+Dialogue: 0,0:06:29.61,0:06:31.37,Default,Tai,0,0,0,,All the more reason to not do it.
+Dialogue: 0,0:06:31.62,0:06:32.99,Default,Iori,0,0,0,,Just kidding.
+Dialogue: 0,0:06:33.31,0:06:37.56,Default,Iori,0,0,0,,The joke was that I couldn't come up with a joke when I needed one.
+Dialogue: 0,0:06:37.56,0:06:39.91,Default,Iori,0,0,0,,But I actually do have a joke.
+Dialogue: 0,0:06:39.91,0:06:43.05,Default,Iori,0,0,0,,I just chose to joke that I didn't have a joke.
+Dialogue: 0,0:06:43.05,0:06:44.13,Default,Iori,0,0,0,,Get it?
+Dialogue: 0,0:06:44.33,0:06:46.60,Default,Tai,0,0,0,,What is there to get?
+Dialogue: 0,0:06:46.60,0:06:49.05,Default,Tai,0,0,0,,You didn't need to joke that you didn't have a joke
+Dialogue: 0,0:06:49.05,0:06:50.93,Default,Tai,0,0,0,,because you didn't need to joke in the first place.
+Dialogue: 0,0:06:51.21,0:06:54.06,Default,Iori,0,0,0,,But you're actually playing along, Taichi.{japanese humor is so shit}
+Dialogue: 0,0:06:56.39,0:06:59.31,Default,Tai,0,0,0,,That seems to happen when I'm around you.
+Dialogue: 0,0:07:02.54,0:07:05.86,Default,Iori,0,0,0,,So, I have five dads.{Oh yeah! Slutmother}
+Dialogue: 0,0:07:07.87,0:07:11.56,Default,Iori,0,0,0,,But I guess only three of them were official.
+Dialogue: 0,0:07:12.18,0:07:16.95,Default,Tai,0,0,0,,Do you mean that your mother keeps getting divorced and remarried?
+Dialogue: 0,0:07:17.28,0:07:22.06,Default,Iori,0,0,0,,Yep, and my second dad was trouble.
+Dialogue: 0,0:07:22.83,0:07:26.21,Default,Iori,0,0,0,,Let's just say that he could get violent.
+Dialogue: 0,0:07:27.61,0:07:30.72,Default,Iori,0,0,0,,But nothing serious happened
+Dialogue: 0,0:07:31.05,0:07:33.92,Default,Iori,0,0,0,,because I made sure it didn't.
+Dialogue: 0,0:07:34.51,0:07:36.89,Default,Iori,0,0,0,,I learned to adopt a persona.{PERSONA 8/22 FFFFFFFF-}
+Dialogue: 0,0:07:36.89,0:07:38.72,Default,Iori,0,0,0,,One that fit his preferences.{gross}
+Dialogue: 0,0:07:39.04,0:07:39.76,Default,Tai,0,0,0,,What do you—
+Dialogue: 0,0:07:39.76,0:07:42.40,Default,Iori,0,0,0,,I was careful not to do anything that would make him angry.{I was hoping you cut his tendons or something. I AM DISAPPOINT WITH THIS G-RATED SHOW}
+Dialogue: 0,0:07:44.27,0:07:46.84,Default,Iori,0,0,0,,If I behaved like this or did that, he wouldn't get mad.
+Dialogue: 0,0:07:46.84,0:07:48.26,Default,Iori,0,0,0,,He might even praise me.
+Dialogue: 0,0:07:48.92,0:07:51.39,Default,Iori,0,0,0,,I changed my tastes to match.{The taste of sem— oh }
+Dialogue: 0,0:07:52.66,0:07:55.24,Default,Iori,0,0,0,,This was back when I was in first grade, I think.
+Dialogue: 0,0:07:55.94,0:08:00.10,Default,Iori,0,0,0,,Ever since then, I've been switching between personas.{the wild card?}
+Dialogue: 0,0:08:00.86,0:08:02.29,Default,Iori,0,0,0,,But in spring of last year,
+Dialogue: 0,0:08:02.29,0:08:05.86,Default,,0,0,0,,my fifth dad told me this on his deathbed:
+Dialogue: 0,0:08:06.71,0:08:08.95,Default,Iori,0,0,0,,"You need to start living your own life."
+Dialogue: 0,0:08:09.80,0:08:12.69,Default,Iori,0,0,0,,And after he died,
+Dialogue: 0,0:08:12.69,0:08:15.04,Default,Iori,0,0,0,,my mom said, "I'm sorry for being so selfish.
+Dialogue: 0,0:08:15.04,0:08:19.50,Default,Iori,0,0,0,,From now on, I'll work hard so you can do the things that {\i1}you {\i0}want,"
+Dialogue: 0,0:08:19.50,0:08:22.27,Default,Iori,0,0,0,,all while crying her eyes out.
+Dialogue: 0,0:08:22.79,0:08:24.48,Default,Iori,0,0,0,,And we lived happily ever after.{That's nice. Can I fuck you now?}
+Dialogue: 0,0:08:25.01,0:08:27.19,Default,Tai,0,0,0,,So you get along with your mom now?
+Dialogue: 0,0:08:29.26,0:08:33.65,Default,Iori,0,0,0,,But the real hell starts after that.
+Dialogue: 0,0:08:34.12,0:08:35.90,Default,Iori,0,0,0,,"Live your own life."
+Dialogue: 0,0:08:35.90,0:08:38.96,Default,Iori,0,0,0,,Those words left me stunned.
+Dialogue: 0,0:08:38.96,0:08:41.43,Default,Iori,0,0,0,,What did I like?
+Dialogue: 0,0:08:41.43,0:08:44.02,Default,Iori,0,0,0,,What did I want to do?
+Dialogue: 0,0:08:44.02,0:08:47.86,Default,Iori,0,0,0,,After spending most of my life trying to live for someone else,
+Dialogue: 0,0:08:47.86,0:08:51.55,Default,Iori,0,0,0,,I apparently forgot who I was.{So you're devoid of real personality and left only to study endlessly to pass exams? Sounds like a typical Asian student AMIRITE}
+Dialogue: 0,0:08:52.72,0:08:54.71,Default,Iori,0,0,0,,My mom told me to do what I wanted,
+Dialogue: 0,0:08:54.71,0:08:56.44,Default,,0,0,0,,but I didn't know what that was.
+Dialogue: 0,0:08:56.90,0:09:00.68,Default,Iori,0,0,0,,So I decided to just pick appropriate personas based on the situation.{lol}
+Dialogue: 0,0:09:01.66,0:09:07.85,Default,Iori,0,0,0,,Ironically enough, I prided myself on being able to guess what other people wanted.
+Dialogue: 0,0:09:08.62,0:09:11.82,Default,Iori,0,0,0,,But I've started to lose my touch.
+Dialogue: 0,0:09:12.29,0:09:14.86,Default,Iori,0,0,0,,I never realized that Yui had androphobia.
+Dialogue: 0,0:09:15.03,0:09:15.94,Default,Tai,0,0,0,,But that's...
+Dialogue: 0,0:09:15.94,0:09:19.24,Default,Iori,0,0,0,,And then, this personality swapping business started.
+Dialogue: 0,0:09:20.43,0:09:23.89,Default,Iori,0,0,0,,I barely had a grip on my personality as it was.
+Dialogue: 0,0:09:23.89,0:09:27.41,Default,Iori,0,0,0,,Once we began switching bodies, it only got worse.
+Dialogue: 0,0:09:27.41,0:09:31.35,Default,Iori,0,0,0,,Eventually, nobody will be able to recognize me.
+Dialogue: 0,0:09:31.90,0:09:34.13,Default,Iori,0,0,0,,I won't be able to recognize myself.
+Dialogue: 0,0:09:35.16,0:09:40.14,Default,Iori,0,0,0,,Then maybe, eventually, I'll just fade away...
+Dialogue: 0,0:09:43.06,0:09:45.39,Default,Tai,0,0,0,,That'll never happen!
+Dialogue: 0,0:09:45.81,0:09:48.27,Default,Tai,0,0,0,,Because no matter what happens,
+Dialogue: 0,0:09:48.27,0:09:50.14,Default,,0,0,0,,no matter how much you change,
+Dialogue: 0,0:09:50.14,0:09:53.28,Default,Tai,0,0,0,,I'll always be able to recognize you for who you are.
+Dialogue: 0,0:09:53.88,0:09:54.99,Default,Iori,0,0,0,,That's impossible.
+Dialogue: 0,0:09:55.38,0:09:56.47,Default,Tai,0,0,0,,It's not impossible.
+Dialogue: 0,0:09:56.47,0:09:58.33,Default,Iori,0,0,0,,How can you be so sure?
+Dialogue: 0,0:09:58.33,0:09:59.45,Default,Tai,0,0,0,,That's because...
+Dialogue: 0,0:10:00.38,0:10:01.58,Default,Tai,0,0,0,,{\i1}I'm in love with...{\i0}
+Dialogue: 0,0:10:02.01,0:10:03.33,Default,Ina,0,0,0,,{\i1}White knighting freak...{\i0}
+Dialogue: 0,0:10:04.95,0:10:07.30,Default,Tai,0,0,0,,A-Anyway, I'll be able to recognize you.
+Dialogue: 0,0:10:07.30,0:10:08.33,Default,Tai,0,0,0,,You can trust me.
+Dialogue: 0,0:10:09.15,0:10:10.35,Default,Iori,0,0,0,,Really?
+Dialogue: 0,0:10:11.39,0:10:14.34,Default,Iori,0,0,0,,If you're that confident, I guess I can trust you.
+Dialogue: 0,0:10:21.85,0:10:21.89,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1279 467 l 1188 471 1192 488 1187 503 1287 501)}{10:23} Yamaboshi Academy
+Dialogue: 1,0:10:21.85,0:10:21.89,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1279 467 l 1188 471 1192 488 1187 503 1287 501)}{10:23} Yamaboshi Academy
+Dialogue: 0,0:10:21.89,0:10:22.01,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1279 467 l 1177 471 1182 488 1176 502 1287 501)}{10:23} Yamaboshi Academy
+Dialogue: 1,0:10:21.89,0:10:22.01,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1279 467 l 1177 471 1182 488 1176 502 1287 501)}{10:23} Yamaboshi Academy
+Dialogue: 0,0:10:22.01,0:10:24.77,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7}{10:23} Yamaboshi Academy
+Dialogue: 1,0:10:22.01,0:10:24.77,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7}{10:23} Yamaboshi Academy
+Dialogue: 0,0:10:23.13,0:10:24.77,Default,Iori,0,0,0,,Morning, Taichi.
+Dialogue: 0,0:10:25.07,0:10:26.99,Default,Tai,0,0,0,,M-Morning, Nagase.
+Dialogue: 0,0:10:30.16,0:10:33.14,Default,Iori,0,0,0,,You swore that I could spill my guts\N and nothing would change!
+Dialogue: 0,0:10:33.14,0:10:36.04,Default,Iori,0,0,0,,You promised me, man to man!
+Dialogue: 0,0:10:36.04,0:10:37.42,Default,Tai,0,0,0,,Who are you supposed to be?
+Dialogue: 0,0:10:37.42,0:10:40.45,Default,Iori,0,0,0,,You swore that I could spill my guts\N and nothing would change!
+Dialogue: 0,0:10:40.45,0:10:43.03,Default,Iori,0,0,0,,You promised me, man to man!
+Dialogue: 0,0:10:43.30,0:10:45.07,Default,Tai,0,0,0,,Why are you repeating yourself?{Because you're as thick as a brick}
+Dialogue: 0,0:10:45.07,0:10:47.00,Default,Tai,0,0,0,,And you're not a man.
+Dialogue: 0,0:10:47.60,0:10:49.55,Default,Iori,0,0,0,,So why is it that when two guys talk,
+Dialogue: 0,0:10:49.55,0:10:52.29,Default,,0,0,0,,there's so much adrenaline {and sore anuses }involved?
+Dialogue: 0,0:10:52.78,0:10:54.55,Default,Tai,0,0,0,,Hell if I know.
+Dialogue: 0,0:10:54.55,0:10:56.05,Default,Tai,0,0,0,,Anyway, are you okay?
+Dialogue: 0,0:10:56.41,0:10:58.35,Default,Iori,0,0,0,,Yep, I'm fine.
+Dialogue: 0,0:10:58.35,0:11:02.43,Default,Iori,0,0,0,,{But that question should probably be directed at someone else.}But I'm not the one you should be asking.
+Dialogue: 0,0:11:02.43,0:11:02.47,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1279 467 l 1177 471 1182 488 1176 502 1287 501)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:02.43,0:11:02.47,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1279 467 l 1177 471 1182 488 1176 502 1287 501)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:02.47,0:11:03.35,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:02.47,0:11:03.35,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:03.35,0:11:03.47,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1157 469 l 1252 474 1251 500 1145 500)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:03.35,0:11:03.47,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1157 469 l 1252 474 1251 500 1145 500)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:03.47,0:11:03.60,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1151 464 l 1225 467 1223 500 1143 502)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:03.47,0:11:03.60,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1151 464 l 1225 467 1223 500 1143 502)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:03.60,0:11:03.72,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1129 469 l 1197 469 1196 500 1133 502)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:03.60,0:11:03.72,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1129 469 l 1197 469 1196 500 1133 502)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:03.72,0:11:03.85,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1144 454 l 1175 456 1171 504 1138 501)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:03.72,0:11:03.85,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1144 454 l 1175 456 1171 504 1138 501)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:04.10,0:11:04.22,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1288 445 l 1278 516 1272 514 1266 451)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:04.10,0:11:04.22,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1288 445 l 1278 516 1272 514 1266 451)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:04.22,0:11:04.35,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1288 445 l 1278 516 1248 513 1241 472 1252 442)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:04.22,0:11:04.35,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1288 445 l 1278 516 1248 513 1241 472 1252 442)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:04.35,0:11:04.47,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1232 442 l 1220 474 1225 500 1279 500 1289 441)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:04.35,0:11:04.47,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1232 442 l 1220 474 1225 500 1279 500 1289 441)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:04.47,0:11:04.60,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1206 443 l 1196 476 1200 501 1279 500 1289 443)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:04.47,0:11:04.60,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1206 443 l 1196 476 1200 501 1279 500 1289 443)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:04.60,0:11:04.72,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7\clip(m 1278 441 l 1279 499 1181 502 1176 482 1188 444)}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:04.60,0:11:04.72,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7\clip(m 1278 441 l 1279 499 1181 502 1176 482 1188 444)}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:04.72,0:11:05.31,Dried Mountain,bord,0,0,0,done,{\1c&H37392D&\bord2\pos(1288,499)\blur0.7}{11:03} Yamaboshi Academy
+Dialogue: 1,0:11:04.72,0:11:05.31,Dried Mountain,bord,0,0,0,done,{\bord0\pos(1288,499)\blur0.7}{11:03} Yamaboshi Academy
+Dialogue: 0,0:11:16.35,0:11:18.93,Default,TaiIna,0,0,0,,Are you me right now, Taichi?
+Dialogue: 0,0:11:18.93,0:11:21.09,Default,Iori,0,0,0,,Taichi! Are you okay, Taichi?
+Dialogue: 0,0:11:21.09,0:11:22.57,Default,TaiIna,0,0,0,,Just suck it up.
+Dialogue: 0,0:11:22.86,0:11:24.39,Default,TaiIna,0,0,0,,You're such a wimp.
+Dialogue: 0,0:11:25.26,0:11:29.42,Default,InaTai,0,0,0,,I don't think I can suck it all back up.
+Dialogue: 0,0:11:29.42,0:11:31.95,Default,TaiIna,0,0,0,,Iori, you can go back to the classroom.
+Dialogue: 0,0:11:31.95,0:11:33.04,Default,Iori,0,0,0,,What about you guys?
+Dialogue: 0,0:11:33.41,0:11:35.40,Default,TaiIna,0,0,0,,I'll make sure he gets some rest.
+Dialogue: 0,0:11:35.84,0:11:37.32,Default,TaiIna,0,0,0,,Don't worry.
+Dialogue: 0,0:11:37.32,0:11:39.55,Default,TaiIna,0,0,0,,I'm not going to hurt my own body.
+Dialogue: 0,0:11:39.55,0:11:41.01,SuCkS,,0,0,0,,{\blur0.6\frz1\pos(637,425)}{11:40} Student Cultural Society
+Dialogue: 0,0:11:45.55,0:11:46.53,Default,Tai,0,0,0,,I'm back.
+Dialogue: 0,0:11:46.53,0:11:47.49,Default,Ina,0,0,0,,Looks like it.
+Dialogue: 0,0:11:47.96,0:11:49.88,Default,Ina,0,0,0,,You can go back to the classroom.
+Dialogue: 0,0:11:49.88,0:11:52.65,Default,Tai,0,0,0,,I'm not going to leave you all alone while you're sick.
+Dialogue: 0,0:11:53.25,0:11:54.08,Default,Ina,0,0,0,,Sorry.
+Dialogue: 0,0:11:54.08,0:11:55.72,Default,Tai,0,0,0,,No, don't be.
+Dialogue: 0,0:11:56.40,0:11:58.88,Default,Tai,0,0,0,,You've been acting strangely lately.
+Dialogue: 0,0:11:58.88,0:12:00.65,Default,Ina,0,0,0,,I'm telling you that I'm fine.
+Dialogue: 0,0:12:00.94,0:12:03.32,Default,Tai,0,0,0,,You don't look fine to me.
+Dialogue: 0,0:12:03.91,0:12:05.41,Default,Tai,0,0,0,,Tell me what's wrong.
+Dialogue: 0,0:12:05.55,0:12:07.36,Default,Ina,0,0,0,,Keep it down.
+Dialogue: 0,0:12:07.36,0:12:08.41,Default,Ina,0,0,0,,You're giving me a headache.
+Dialogue: 0,0:12:08.71,0:12:10.05,Default,Tai,0,0,0,,Inaba!
+Dialogue: 0,0:12:10.05,0:12:11.41,Default,Tai,0,0,0,,I want to help you!
+Dialogue: 0,0:12:13.47,0:12:15.97,Default,Ina,0,0,0,,Why do you want to help me?
+Dialogue: 0,0:12:16.42,0:12:17.45,Default,Tai,0,0,0,,B-Because...
+Dialogue: 0,0:12:17.45,0:12:20.80,Default,Ina,0,0,0,,Don't say that it's because you want to help or because I'm one of you.
+Dialogue: 0,0:12:21.23,0:12:25.43,Default,Tai,0,0,0,,Well, you're always looking out for us.
+Dialogue: 0,0:12:25.89,0:12:27.46,Default,Tai,0,0,0,,You're always there for us when it counts.
+Dialogue: 0,0:12:27.46,0:12:31.31,Default,Ina,0,0,0,,So if I didn't look out for you,
+Dialogue: 0,0:12:31.31,0:12:32.43,Default,,0,0,0,,you wouldn't want to help me?
+Dialogue: 0,0:12:32.43,0:12:34.88,Default,Tai,0,0,0,,Not exactly...
+Dialogue: 0,0:12:34.88,0:12:37.34,Default,Tai,0,0,0,,That was kind of a mean way to put it.
+Dialogue: 0,0:12:37.34,0:12:38.59,Default,Ina,0,0,0,,It wasn't mean.
+Dialogue: 0,0:12:41.11,0:12:44.87,Default,Ina,0,0,0,,Why do you guys have to be so nice?
+Dialogue: 0,0:12:45.83,0:12:48.58,Default,Ina,0,0,0,,Why couldn't you be a little darker?
+Dialogue: 0,0:12:48.99,0:12:50.24,Default,Tai,0,0,0,,Darker?
+Dialogue: 0,0:12:50.24,0:12:52.55,Default,Ina,0,0,0,,No, I shouldn't say that.
+Dialogue: 0,0:12:53.36,0:12:55.58,Default,Ina,0,0,0,,I'm the one who needs to change.
+Dialogue: 0,0:12:56.07,0:12:57.75,Default,Tai,0,0,0,,Uh, Inaba...
+Dialogue: 0,0:12:57.75,0:12:59.03,Default,Tai,0,0,0,,Are you sure you're okay?
+Dialogue: 0,0:12:59.03,0:12:59.96,Default,Ina,0,0,0,,What are you asking about?
+Dialogue: 0,0:13:00.71,0:13:02.21,Default,Ina,0,0,0,,My body will be fine after a little rest.
+Dialogue: 0,0:13:02.73,0:13:04.13,Default,Tai,0,0,0,,I'm not talking about your body.
+Dialogue: 0,0:13:04.56,0:13:06.30,Default,Ina,0,0,0,,I'm not okay!
+Dialogue: 0,0:13:07.67,0:13:08.64,Default,Ina,0,0,0,,Wait.
+Dialogue: 0,0:13:08.64,0:13:10.14,Default,Ina,0,0,0,,I didn't mean that. Forget what I said.
+Dialogue: 0,0:13:10.88,0:13:11.60,Default,Tai,0,0,0,,Seriously?
+Dialogue: 0,0:13:11.95,0:13:14.16,Default,Ina,0,0,0,,I meant to say that—
+Dialogue: 0,0:13:14.16,0:13:18.65,Default,Tai,0,0,0,,You once said that we were in a hopeless situation.
+Dialogue: 0,0:13:20.43,0:13:24.99,Default,Tai,0,0,0,,Aren't you the one who's hurting the most because of this swapping business?
+Dialogue: 0,0:13:28.35,0:13:29.55,Default,Ina,0,0,0,,Crap.
+Dialogue: 0,0:13:30.19,0:13:32.43,Default,Ina,0,0,0,,I'm in horrible shape today.
+Dialogue: 0,0:13:32.43,0:13:34.50,Default,Ina,0,0,0,,I must look weak in front of my enemy.
+Dialogue: 0,0:13:35.06,0:13:37.18,Default,Tai,0,0,0,,You said something similar the other day.
+Dialogue: 0,0:13:37.64,0:13:39.88,Default,Tai,0,0,0,,Am I your enemy?
+Dialogue: 0,0:13:41.43,0:13:42.49,Default,Ina,0,0,0,,No!
+Dialogue: 0,0:13:42.49,0:13:44.34,Default,Ina,0,0,0,,That's not what I meant!
+Dialogue: 0,0:13:44.34,0:13:44.88,Default,Ina,0,0,0,,You guys are
+Dialogue: 0,0:13:46.19,0:13:49.70,Default,Ina,0,0,0,,my very best friends.
+Dialogue: 0,0:13:50.88,0:13:52.50,Default,Ina,0,0,0,,Which makes you my worst enemies.
+Dialogue: 0,0:13:52.50,0:13:53.39,Default,Tai,0,0,0,,That makes no...
+Dialogue: 0,0:13:53.81,0:13:56.36,Default,Ina,0,0,0,,I'm done talking.
+Dialogue: 0,0:13:56.36,0:13:57.39,Default,Ina,0,0,0,,Go back to the classroom.
+Dialogue: 0,0:13:57.96,0:14:01.31,Default,Tai,0,0,0,,If you can't tell us why you're in so much pain,
+Dialogue: 0,0:14:01.31,0:14:02.90,Default,Tai,0,0,0,,you don't think of us as friends.
+Dialogue: 0,0:14:08.91,0:14:10.77,Default,Ina,0,0,0,,Then I'll give it to you straight.
+Dialogue: 0,0:14:11.52,0:14:14.29,Default,Ina,0,0,0,,I can't trust you guys.
+Dialogue: 0,0:14:15.72,0:14:17.89,Default,Ina,0,0,0,,If two people switch bodies,
+Dialogue: 0,0:14:17.89,0:14:20.86,Default,Ina,0,0,0,,and one commits a crime or something,
+Dialogue: 0,0:14:20.86,0:14:24.13,Default,Ina,0,0,0,,the owner of that body is the one who's responsible.
+Dialogue: 0,0:14:24.13,0:14:26.23,Default,Ina,0,0,0,,That means you can do whatever you want.
+Dialogue: 0,0:14:26.23,0:14:28.68,Default,Tai,0,0,0,,You think we would do that?
+Dialogue: 0,0:14:29.47,0:14:31.81,Default,Ina,0,0,0,,Well, it may be unfair to say you'd commit a crime.
+Dialogue: 0,0:14:31.81,0:14:34.93,Default,Ina,0,0,0,,But you could swipe some change or something.{I'll reiterate: You think we would do that?}
+Dialogue: 0,0:14:35.69,0:14:37.69,Default,Tai,0,0,0,,I guess, but...{Don't fucking agree with her, you retard. The silly bint is clearly out of her mind.}
+Dialogue: 0,0:14:38.33,0:14:43.29,Default,Ina,0,0,0,,I can't help but think about the bad things you might be doing.
+Dialogue: 0,0:14:44.07,0:14:46.74,Default,Ina,0,0,0,,It's so scary that it keeps me up all night.
+Dialogue: 0,0:14:48.10,0:14:48.95,Default,Ina,0,0,0,,What's sad is that
+Dialogue: 0,0:14:49.93,0:14:54.25,Default,Ina,0,0,0,,I hate my own guts for being like this.
+Dialogue: 0,0:14:55.21,0:15:00.69,Default,Ina,0,0,0,,You, Iori, Yui, and Aoki all trust each other.
+Dialogue: 0,0:15:01.70,0:15:04.04,Default,Ina,0,0,0,,I'm the only one who's worrying about this stuff.
+Dialogue: 0,0:15:04.04,0:15:05.14,Default,Tai,0,0,0,,Inaba...
+Dialogue: 0,0:15:05.70,0:15:08.51,Default,Tai,0,0,0,,We won't think less of you for it—
+Dialogue: 0,0:15:08.51,0:15:13.22,Additional Shenanigans,,0,0,0,,{\fax0.03\fscx110\fscy110\fs70\alpha&H55&\blur1.1\frz358.8\fry3\move(641,342,678,358)}{15:10} De{\fs68}ad{\fs66}li{\fs64}ne: {\fs62}Ev{\fs60}er{\fs58}y m{\fs56}on{\fs54}th {\fs52}on{\fs50} th{\fs48}e {\fs46}25{\fs44}th
+Dialogue: 0,0:15:08.51,0:15:13.22,Additional Shenanigans,,0,0,0,,{\fscx120\fscy120\fs80\blur1.1\c&HD4CEBE&\fry3\fax-0.2\frz8.753\move(440,684,476,705)}Do{\fs77}n'{\fs75}t {\fs72}be {\fs69}la{\fs66}te!
+Dialogue: 0,0:15:08.51,0:15:12.51,Default,Ina,0,0,0,,{\an8}But this completely changes our relationship, right?
+Dialogue: 0,0:15:18.06,0:15:18.81,Default,Ina,0,0,0,,Taichi...
+Dialogue: 0,0:15:19.36,0:15:22.04,Default,Ina,0,0,0,,I don't trust anybody in this world.
+Dialogue: 0,0:15:22.04,0:15:23.94,Default,Ina,0,0,0,,That means everyone is an enemy.
+Dialogue: 0,0:15:23.94,0:15:31.01,Default,Ina,0,0,0,,And you're probably my worst enemy since, unless I'm mistaken,
+Dialogue: 0,0:15:31.01,0:15:34.62,Default,,0,0,0,,you trust me more than anyone else does.
+Dialogue: 0,0:15:35.33,0:15:38.70,Default,Ina,0,0,0,,I say that I don't trust anybody,
+Dialogue: 0,0:15:38.70,0:15:42.22,Default,,0,0,0,,but I still want to have fun with everyone.
+Dialogue: 0,0:15:42.93,0:15:47.38,Default,Ina,0,0,0,,That indecision is making every day pure agony for me.
+Dialogue: 0,0:15:49.05,0:15:51.92,Default,Ina,0,0,0,,I don't suffer the same way Yui and Iori do.
+Dialogue: 0,0:15:52.40,0:15:54.40,Default,Ina,0,0,0,,A lot of people end up with warped personalities
+Dialogue: 0,0:15:54.40,0:15:57.45,Default,,0,0,0,,after going through some crazy life experiences.
+Dialogue: 0,0:15:58.37,0:16:01.84,Default,Ina,0,0,0,,If you ask me, they should count themselves lucky
+Dialogue: 0,0:16:01.84,0:16:03.58,Default,Ina,0,0,0,,because at least {\i1}that {\i0}can be cured.{Rape can be cured? News to me!}
+Dialogue: 0,0:16:04.47,0:16:08.83,Default,Ina,0,0,0,,But what are you supposed to do when there {\i1}is{\i0} no traumatic experience?
+Dialogue: 0,0:16:09.51,0:16:13.28,Default,Ina,0,0,0,,I haven't been able to trust anyone\N since the day I was born.
+Dialogue: 0,0:16:14.48,0:16:16.42,Default,Ina,0,0,0,,If I try to change,
+Dialogue: 0,0:16:16.75,0:16:18.73,Default,,0,0,0,,I won't be the same person anymore.
+Dialogue: 0,0:16:19.23,0:16:21.16,Default,Tai,0,0,0,,Won't be the same person anymore?
+Dialogue: 0,0:16:21.85,0:16:23.39,Default,Ina,0,0,0,,In that sense,
+Dialogue: 0,0:16:23.39,0:16:26.60,Default,,0,0,0,,you're probably doomed to be the white knight{rises} forever.
+Dialogue: 0,0:16:27.37,0:16:29.83,Default,Ina,0,0,0,,Were you born that way?
+Dialogue: 0,0:16:30.47,0:16:35.80,Default,Tai,0,0,0,,Yeah, you can't help people\N who don't suffer from any trauma.{?}
+Dialogue: 0,0:16:37.92,0:16:41.18,Default,Tai,0,0,0,,But that's probably because they don't need help.
+Dialogue: 0,0:16:42.97,0:16:47.81,Default,Tai,0,0,0,,It really doesn't matter what you're born with.
+Dialogue: 0,0:16:48.74,0:16:53.43,Default,Ina,0,0,0,,Are you saying that it would be stupid to worry about that?
+Dialogue: 0,0:16:53.43,0:16:55.25,Default,Tai,0,0,0,,I didn't say that.
+Dialogue: 0,0:16:55.25,0:16:57.46,Default,Tai,0,0,0,,But maybe you're right.
+Dialogue: 0,0:16:59.79,0:17:00.67,Default,Ina,0,0,0,,Taichi!
+Dialogue: 0,0:17:00.67,0:17:03.72,Default,Tai,0,0,0,,I mean, I think you're fine the way you are.
+Dialogue: 0,0:17:03.72,0:17:04.57,Default,Ina,0,0,0,,Huh?
+Dialogue: 0,0:17:05.09,0:17:08.60,Default,Tai,0,0,0,,I'll admit that I'm sad you don't trust me,
+Dialogue: 0,0:17:09.05,0:17:11.92,Default,Tai,0,0,0,,but that doesn't mean you should force yourself to change.
+Dialogue: 0,0:17:12.62,0:17:15.46,Default,Tai,0,0,0,,I think everyone will still accept you.
+Dialogue: 0,0:17:15.46,0:17:17.93,Default,Tai,0,0,0,,Nagase, Kiriyama, Aoki,
+Dialogue: 0,0:17:18.31,0:17:19.75,Default,Tai,0,0,0,,and of course, me.
+Dialogue: 0,0:17:21.22,0:17:23.26,Default,Ina,0,0,0,,Are you retarded?!
+Dialogue: 0,0:17:23.26,0:17:25.19,Default,Ina,0,0,0,,It's not that simple!
+Dialogue: 0,0:17:25.66,0:17:28.60,Default,Tai,0,0,0,,We can't say that for sure.
+Dialogue: 0,0:17:28.60,0:17:31.21,Default,Tai,0,0,0,,So you should talk to everyone.
+Dialogue: 0,0:17:31.21,0:17:33.29,Default,Tai,0,0,0,,Tell them what you told me.
+Dialogue: 0,0:17:33.29,0:17:35.95,Default,Ina,0,0,0,,I can't take that risk!
+Dialogue: 0,0:17:36.58,0:17:38.65,Default,Ina,0,0,0,,What if they don't accept me—
+Dialogue: 0,0:17:38.65,0:17:39.20,Default,Tai,0,0,0,,In that case,
+Dialogue: 0,0:17:39.71,0:17:40.95,Default,Tai,0,0,0,,you'll still have me.
+Dialogue: 0,0:17:43.06,0:17:47.40,Default,Tai,0,0,0,,Anyway, you need to start by accepting who you are.
+Dialogue: 0,0:17:47.40,0:17:48.74,Default,Tai,0,0,0,,In my opinion, at least.
+Dialogue: 0,0:17:49.86,0:17:53.13,Default,Ina,0,0,0,,I-I can't do it.
+Dialogue: 0,0:17:53.13,0:17:55.72,Default,Ina,0,0,0,,The only consequences I can imagine are all negative.
+Dialogue: 0,0:17:57.09,0:17:58.43,Default,Tai,0,0,0,,Hey, Inaba.
+Dialogue: 0,0:17:58.93,0:18:02.55,Default,Tai,0,0,0,,When you're hiding a secret from the whole world,
+Dialogue: 0,0:18:02.55,0:18:05.60,Default,,0,0,0,,you can feel the weight on your shoulders.
+Dialogue: 0,0:18:06.24,0:18:11.59,Default,Tai,0,0,0,,So I'm going to tell you a secret that I was planning to take to the grave.
+Dialogue: 0,0:18:12.04,0:18:13.34,Default,Ina,0,0,0,,What do you mean?
+Dialogue: 0,0:18:13.99,0:18:16.03,Default,Ina,0,0,0,,You spill yours, so I have to spill mine?
+Dialogue: 0,0:18:16.03,0:18:16.74,Default,Tai,0,0,0,,Yeah.
+Dialogue: 0,0:18:17.49,0:18:19.61,Default,Tai,0,0,0,,If my secret gets out,
+Dialogue: 0,0:18:19.61,0:18:22.55,Default,,0,0,0,,I won't be able to survive in this school,
+Dialogue: 0,0:18:22.55,0:18:25.00,Default,Tai,0,0,0,,or in normal society, for that matter.
+Dialogue: 0,0:18:25.00,0:18:27.12,Default,Tai,0,0,0,,This is a deadly secret I'm hiding.
+Dialogue: 0,0:18:27.40,0:18:30.72,Default,Ina,0,0,0,,Are you insane or something?!
+Dialogue: 0,0:18:30.72,0:18:32.50,Default,Tai,0,0,0,,Inaba, y-you're too loud!
+Dialogue: 0,0:18:33.21,0:18:36.84,Default,Ina,0,0,0,,Whatever, just tell me this secret of yours.
+Dialogue: 0,0:18:36.84,0:18:39.05,Default,Ina,0,0,0,,I'll decide after that.
+Dialogue: 0,0:18:39.75,0:18:41.55,Default,Tai,0,0,0,,Okay, here I go...
+Dialogue: 0,0:18:43.33,0:18:44.47,Default,Tai,0,0,0,,I've...
+Dialogue: 0,0:18:47.97,0:18:50.48,Default,Tai,0,0,0,,I've masturbated to you before!
+Dialogue: 0,0:19:01.92,0:19:04.70,Default,Ina,0,0,0,,You mean that you've actually...
+Dialogue: 0,0:19:05.23,0:19:05.85,Default,Tai,0,0,0,,Yeah.
+Dialogue: 0,0:19:06.49,0:19:10.56,Default,Ina,0,0,0,,Which probably means you've also used Iori and Yui, right?
+Dialogue: 0,0:19:10.56,0:19:11.41,Default,Tai,0,0,0,,Yeah.
+Dialogue: 0,0:19:11.41,0:19:12.33,Default,Ina,0,0,0,,I see.
+Dialogue: 0,0:19:15.89,0:19:18.96,Default,Tai,0,0,0,,I-I want to make it clear that this isn't a regular thing!
+Dialogue: 0,0:19:18.96,0:19:20.59,Default,Tai,0,0,0,,I've hardly done it at all, actually!
+Dialogue: 0,0:19:20.84,0:19:22.05,Default,Tai,0,0,0,,Are you listening to me?
+Dialogue: 0,0:19:22.05,0:19:23.22,Default,Ina,0,0,0,,Perv!
+Dialogue: 0,0:19:23.61,0:19:24.91,Default,Ina,0,0,0,,Pervert!
+Dialogue: 0,0:19:24.91,0:19:26.17,Default,Ina,0,0,0,,Sicko! {\alpha&HFF&}Freak! Creep!
+Dialogue: 0,0:19:26.17,0:19:27.60,Default,Ina,0,0,0,,Sicko! Freak! {\alpha&HFF&}Creep!
+Dialogue: 0,0:19:27.60,0:19:28.91,Default,Ina,0,0,0,,Sicko! Freak! Creep!
+Dialogue: 0,0:19:30.96,0:19:31.73,Default,Ina,0,0,0,,Still...
+Dialogue: 0,0:19:32.36,0:19:34.23,Default,Ina,0,0,0,,I think you're fine the way you are.
+Dialogue: 0,0:19:34.59,0:19:35.36,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:19:36.98,0:19:39.18,Default,Ina,0,0,0,,This is all so stupid.
+Dialogue: 0,0:19:39.94,0:19:42.60,Default,Ina,0,0,0,,It's stupid that you revealed this secret to me!
+Dialogue: 0,0:19:42.60,0:19:45.33,Default,Ina,0,0,0,,That you thought it would convince me to change my mind!
+Dialogue: 0,0:19:45.33,0:19:48.37,Default,Ina,0,0,0,,It's stupid that you thought it was acceptable to say that out loud.
+Dialogue: 0,0:19:49.10,0:19:53.88,Default,Ina,0,0,0,,And what's really stupid is that I'm actually touched.{ACTUALLY HE WAS THE ONE BEING TOUCHED. AMIRITE}
+Dialogue: 0,0:19:55.72,0:19:56.88,Default,Tai,0,0,0,,Need a handkerchief?{not a good idea, inaba}
+Dialogue: 0,0:19:57.39,0:20:00.17,Default,Ina,0,0,0,,What's wrong with you?
+Dialogue: 0,0:20:01.77,0:20:03.91,Default,Ina,0,0,0,,You want me to fall for you too?
+Dialogue: 0,0:20:09.18,0:20:11.77,Default,Ina,0,0,0,,That's more or less it.
+Dialogue: 0,0:20:15.92,0:20:17.40,Default,Iori,0,0,0,,So Inaban, you're saying that...
+Dialogue: 0,0:20:19.84,0:20:21.40,Default,Iori,0,0,0,,...you worry too much?
+Dialogue: 0,0:20:23.37,0:20:24.78,Default,Ina,0,0,0,,W-Worry too much?
+Dialogue: 0,0:20:25.23,0:20:26.62,Default,Ina,0,0,0,,It's a lot more than—
+Dialogue: 0,0:20:26.62,0:20:27.83,Default,Yui,0,0,0,,I know what you mean.
+Dialogue: 0,0:20:28.62,0:20:30.86,Default,Yui,0,0,0,,Whenever Aoki and I switch,
+Dialogue: 0,0:20:30.86,0:20:32.89,Default,,0,0,0,,I give my body a thorough check as soon as I'm back.
+Dialogue: 0,0:20:32.89,0:20:33.64,Default,Aoki,0,0,0,,What?
+Dialogue: 0,0:20:33.64,0:20:36.37,Default,Yui,0,0,0,,And I make sure that none of my stuff is missing.
+Dialogue: 0,0:20:36.37,0:20:38.02,Default,Aoki,0,0,0,,That hurts!
+Dialogue: 0,0:20:38.02,0:20:39.42,Default,Aoki,0,0,0,,That really hurts!
+Dialogue: 0,0:20:40.22,0:20:41.88,Default,Aoki,0,0,0,,And it's only when you switch with me?!
+Dialogue: 0,0:20:41.88,0:20:42.98,Default,Aoki,0,0,0,,What about Taichi?!
+Dialogue: 0,0:20:42.98,0:20:46.30,Default,Ina,0,0,0,,Um, that's all you have to say?
+Dialogue: 0,0:20:46.76,0:20:52.55,Default,Yui,0,0,0,,Well, thinking we'd go out and commit crimes is a little out there.
+Dialogue: 0,0:20:52.55,0:20:54.17,Default,Yui,0,0,0,,But don't worry.
+Dialogue: 0,0:20:54.17,0:20:57.31,Default,Yui,0,0,0,,I won't use your body to do anything bad.
+Dialogue: 0,0:20:57.69,0:20:58.61,Default,Aoki,0,0,0,,Wait, Inaba.
+Dialogue: 0,0:20:58.61,0:21:01.42,Default,Aoki,0,0,0,,You're saying that you don't trust any of us, right?
+Dialogue: 0,0:21:01.42,0:21:02.93,Default,Aoki,0,0,0,,It's not just me, right?
+Dialogue: 0,0:21:02.93,0:21:05.13,Default,Ina,0,0,0,,{\i1}That's{\i0} what you're worried about?!
+Dialogue: 0,0:21:05.13,0:21:07.32,Default,Iori,0,0,0,,Anyway, let's eat.
+Dialogue: 0,0:21:07.96,0:21:09.83,Default,Iori,0,0,0,,Lunch'll be over soon.
+Dialogue: 0,0:21:10.28,0:21:13.08,Default,Yui,0,0,0,,Yeah, we can talk while we eat.
+Dialogue: 0,0:21:13.49,0:21:15.11,Default,,0,0,0,,What the...
+Dialogue: 0,0:21:17.64,0:21:20.63,Default,Ina,0,0,0,,Why was I ever worried?
+Dialogue: 0,0:21:20.63,0:21:22.96,Default,,0,0,0,,I made a fool out of myself for nothing.
+Dialogue: 0,0:21:22.96,0:21:26.93,Alternative,Aoki,0,0,0,,{\an8}Hey, I've never done anything bad while I was in your body, Yui.
+Dialogue: 0,0:21:24.19,0:21:27.76,Default,Ina,0,0,0,,Whatever, I know your secret now.
+Dialogue: 0,0:21:26.93,0:21:28.59,Alternative,Yui,0,0,0,,{\an8}I can't trust you.
+Dialogue: 0,0:21:27.76,0:21:31.08,Default,Tai,0,0,0,,Inaba, could you forget what I sa—
+Dialogue: 0,0:21:28.59,0:21:31.85,Alternative,Iori,0,0,0,,{\an8}Weren't you making creepy movies with Taichi the other day?
+Dialogue: 0,0:21:31.08,0:21:31.85,Default,Ina,0,0,0,,No way.
+Dialogue: 0,0:21:32.00,0:21:33.83,Alternative,Aoki,0,0,0,,{\an8}That's the only exception!
+Dialogue: 0,0:21:32.84,0:21:36.10,Default,Ina,0,0,0,,In return, I'll tell you my secret.
+Dialogue: 0,0:21:33.83,0:21:36.10,Alternative,Yui,0,0,0,,{\an8}What's she talking about?! What creepy movies?!
+Dialogue: 0,0:21:36.37,0:21:39.11,Default,Ina,0,0,0,,So we're in the same boat.
+Dialogue: 0,0:21:40.84,0:21:43.99,Default,Ina,0,0,0,,I've also masturbated to you before.
+Dialogue: 0,0:21:46.24,0:21:46.86,Default,Tai,0,0,0,,What?!
+Dialogue: 0,0:21:51.16,0:21:54.62,Ep Titles,,0,0,0,,{\pos(640,444)\blur0.5}{21:52} A Confession and Death...
+Dialogue: 0,0:21:51.16,0:21:54.62,Ep Titles,,0,0,0,,{\c&HA458F1&\pos(640,250)\blur0.5}{21:52} Next Time
+Dialogue: 0,0:21:54.77,0:21:56.10,Default,Ina,0,0,0,,That's a gentle way of going insane.
+Dialogue: 0,0:21:56.10,0:21:58.56,Default,Aoki,0,0,0,,I fell in love with you, and that hasn't changed.
+Dialogue: 0,0:21:58.56,0:22:01.73,Default,Ina,0,0,0,,So how do you feel about Iori, Taichi?
+Dialogue: 0,0:22:01.73,0:22:03.81,Default,Ina,0,0,0,,The white knight reveals his true colors!
+Dialogue: 0,0:22:03.81,0:22:04.67,Default,Tai,0,0,0,,Is that so wrong?!
+Dialogue: 0,0:22:05.34,0:22:05.92,Default,Tai,0,0,0,,Nagase!
+Dialogue: 0,0:22:06.05,0:22:06.05,ED,,0,0,0,,{ED}{First frame with those car barriers}
+Dialogue: 0,0:22:28.36,0:22:33.89,ED,,0,0,0,,{\blur1}{\fad(150,150)}My daily life, gone with the flow of time
+Dialogue: 0,0:22:33.89,0:22:38.25,ED,,0,0,0,,{\blur1}{\fad(150,150)}seemed like a dream beyond what my senses could appreciate
+Dialogue: 0,0:22:39.40,0:22:43.63,ED,,0,0,0,,{\blur1}{\fad(150,150)}I don't understand, I don't understand
+Dialogue: 0,0:22:43.63,0:22:50.92,ED,,0,0,0,,{\blur1}{\fad(150,150)}So I mumble, still little more than a child, and dream
+Dialogue: 0,0:22:55.00,0:22:56.75,ED,,0,0,0,,{\blur1}{\fad(150,150)}Maybe I'm a coward
+Dialogue: 0,0:22:57.88,0:23:00.50,ED,,0,0,0,,{\blur1}{\fad(150,150)}It shouldn't matter
+Dialogue: 0,0:23:00.50,0:23:06.01,ED,,0,0,0,,{\blur1}{\fad(150,150)}I wish I could be stronger
+Dialogue: 0,0:23:06.01,0:23:08.87,ED,,0,0,0,,{\blur1}{\fad(150,150)}Onto that sort of facade,
+Dialogue: 0,0:23:08.87,0:23:11.48,ED,,0,0,0,,{\blur1}{\fad(150,150)}my weak cries,
+Dialogue: 0,0:23:11.48,0:23:14.61,ED,,0,0,0,,{\blur1}{\fad(150,150)}scattered feelings,
+Dialogue: 0,0:23:14.61,0:23:16.99,ED,,0,0,0,,{\blur1}{\fad(150,150)}and changing intentions
+Dialogue: 0,0:23:16.99,0:23:18.69,ED,,0,0,0,,{\blur1}{\fad(150,150)}the sun shone
+Dialogue: 0,0:23:18.69,0:23:22.14,ED,,0,0,0,,{\blur1}{\fad(150,150)}You were the only one that mattered to me
+Dialogue: 0,0:23:22.14,0:23:27.27,ED,,0,0,0,,{\blur1}{\fad(150,150)}I knew that
+Dialogue: 0,0:23:27.67,0:23:31.51,ED,,0,0,0,,{\blur1}{\fad(150,150)}Maybe
+Dialogue: 0,0:23:31.51,0:23:36.10,Hito Random - bottom,,0,0,0,,{\pos(348,498)}.              .
+Dialogue: 1,0:23:31.51,0:23:36.10,Hito Random - top,,0,0,0,,{\pos(350,521)\blur0.5}hi  {\fsp1} {\fsp0}    to
+Dialogue: 1,0:23:31.51,0:23:36.10,Hito Random - top,,0,0,0,,{\blur0.5\pos(646,521)}ra  {\fsp1} {\fsp0}     n
+Dialogue: 1,0:23:31.51,0:23:36.10,Hito Random - top,,0,0,0,,{\blur0.5\pos(952,521)}do  {\fsp5}  {\fsp0}  m
+Dialogue: 0,0:23:31.51,0:23:36.10,Hito Random - bottom,,0,0,0,,{\pos(652,499)}.               .
+Dialogue: 0,0:23:31.51,0:23:36.10,Hito Random - bottom,,0,0,0,,{\pos(959,498)}.              .

@@ -1,0 +1,521 @@
+﻿[Script Info]
+Title: Commie - Kokoro Connect 05
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: kc05_premux.mkv
+Scroll Position: 430
+Active Line: 437
+Video File: kc05_premux.mkv
+Video Aspect Ratio: c1.77778
+Video Position: 30851
+Last Style Storage: Kokoro Connect
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PT Sans,52,&H00FFFFFF,&H000000FF,&H004B222A,&HC82E132B,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,90,90,32,1
+Style: Alternative,PT Sans,52,&H00FFFFFF,&H000000FF,&H0037244F,&HC82E132B,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,90,90,32,1
+Style: OP,Ruzicka TypeK,45,&H00FFFFFF,&H000000FF,&H00D68BF0,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,9,30,30,20,1
+Style: ED overlap,Sweeep,35,&H00F8FFFF,&H000000FF,&H004477AA,&H281D4660,0,0,0,0,100,100,0,0,1,1,2.2,9,10,35,30,1
+Style: Chalkboard Shenanigans,EraserDust,40,&H00F2EFE9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Additional Shenanigans,DK Crayon Crumble,40,&H00F2EFE9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Ep Titles,SwaggerBold,50,&H00BF9CE1,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: this sure is readable,Swis721 Md BT,15,&H001B130D,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: onore calligraphy,Phantasia,30,&H003A2B6A,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.22,0:00:04.02,Default,Aoki,0,0,0,,This might seem like weird timing,
+Dialogue: 0,0:00:04.02,0:00:05.23,Default,Aoki,0,0,0,,but I have to do this.
+Dialogue: 0,0:00:05.46,0:00:07.23,Default,Yui,0,0,0,,Wh-What is it?
+Dialogue: 0,0:00:08.36,0:00:11.31,Default,Aoki,0,0,0,,I love you, Kiriyama Yui.
+Dialogue: 0,0:00:11.90,0:00:13.49,Default,Aoki,0,0,0,,Please go out with me.
+Dialogue: 0,0:00:16.61,0:00:18.63,Default,Yui,0,0,0,,What are you doing?
+Dialogue: 0,0:00:18.63,0:00:20.50,Default,Yui,0,0,0,,I already turned you down.
+Dialogue: 0,0:00:20.73,0:00:23.48,Default,Aoki,0,0,0,,{But I still feel the same way about you,}My feelings for you haven't changed,
+Dialogue: 0,0:00:23.48,0:00:24.75,Default,Aoki,0,0,0,,{and you might've changed your mind...}but I was hoping yours might've—
+Dialogue: 0,0:00:24.95,0:00:26.21,Default,Yui,0,0,0,,No! Never!
+Dialogue: 0,0:00:28.45,0:00:30.76,Default,Yui,0,0,0,,Not yet...
+Dialogue: 0,0:00:31.22,0:00:32.47,Default,Tai,0,0,0,,Not yet?
+Dialogue: 0,0:00:32.72,0:00:36.21,Default,Yui,0,0,0,,I've been wondering, why me?
+Dialogue: 0,0:00:36.21,0:00:38.93,Default,Yui,0,0,0,,Iori's a lot cuter than I am.
+Dialogue: 0,0:00:38.93,0:00:40.47,Default,Yui,0,0,0,,Inaba's really pretty too.
+Dialogue: 0,0:00:40.78,0:00:43.46,Default,Aoki,0,0,0,,There's plenty to like about you.
+Dialogue: 0,0:00:43.46,0:00:45.60,Default,Aoki,0,0,0,,But {the biggest factor was intuition.}this is beyond reason.
+Dialogue: 0,0:00:46.44,0:00:49.48,Default,Aoki,0,0,0,,From the moment I first saw you, I knew you were special.
+Dialogue: 0,0:00:49.91,0:00:51.87,Default,Aoki,0,0,0,,I simply love you,
+Dialogue: 0,0:00:51.87,0:00:53.24,Default,Aoki,0,0,0,,and that hasn't changed.
+Dialogue: 0,0:00:58.49,0:00:58.49,OP,,0,0,0,,{OP} {First frame with pink kanji fully faded in}
+Dialogue: 1,0:01:13.38,0:01:19.02,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}When the little openings in our hearts connect
+Dialogue: 0,0:01:13.38,0:01:19.02,OP,,0,0,0,,{\blur3\fad(150,150)}When the little openings in our hearts connect
+Dialogue: 1,0:01:19.02,0:01:25.14,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}and produce new things at the speed of little {\fsp2}f{\fsp0}lashes
+Dialogue: 0,0:01:19.02,0:01:25.14,OP,,0,0,0,,{\blur4\fad(150,150)}and produce new things at the speed of little {\fsp2}f{\fsp0}lashes
+Dialogue: 1,0:01:25.14,0:01:30.99,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}then these days that seem to {\fsp2}f{\fsp0}ly by keep us in their embrace
+Dialogue: 0,0:01:25.14,0:01:30.99,OP,,0,0,0,,{\fad(150,150)\blur3}then these days that seem to {\fsp2}f{\fsp0}ly by keep us in their embrace
+Dialogue: 1,0:01:30.99,0:01:37.24,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}and the strength we thought was gone comes back
+Dialogue: 0,0:01:30.99,0:01:37.24,OP,,0,0,0,,{\fad(150,150)\blur3}and the strength we thought was gone comes back
+Dialogue: 1,0:01:37.24,0:01:42.95,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}If my feelings are clear when I look at you
+Dialogue: 0,0:01:37.24,0:01:42.95,OP,,0,0,0,,{\fad(150,150)\blur3}If my feelings are clear when I look at you
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(1109,367)\frz357.7}{right side:} Yaegashi Taichi
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HFFFDEA&\frz343.6\pos(1074,617)}{lower right:} Laugh more
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz336\fscx90\pos(965,234)}{blue, top right:} {\c&HA08161&}Freshman, class 3
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HA389B0&\frz337\pos(952,276)}{pink, with smiley:} Laugh more
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(575,102)}{white, middle:} {\c&HE7E2D5&}Dumb wrestling nut
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs40\pos(666,703)\c&HFFFEEC&}{white, middle:}Quit beating\N around the bush!
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(922,521)\frz351.8}{below smiley:} {\c&H93DAD1&}How about laughing more?
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H7EB8AA&\frz340.4\pos(770,191)}{left of class sign:} Gonna go have\N fun tomorrow
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(1029,671)}{center, white, 3 lines:} {no idea, the last is otaku, but the rest?}
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H91759F&\pos(209,155)\frz1.855}{pink, left of head:} Loves his little sister
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H856647&\pos(249,93)\frz2.554}{tope left, blue:} Rice? Bread?
+Dialogue: 0,0:01:37.24,0:01:40.07,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HC3A1CA&\frz4.366\pos(831,600)}Hurry up and give it back!
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\pos(286,377)}{left:} Nagase Iori
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HAE91AF&\frz11.03\pos(243,113)}{top left, pink:} Won't do anything\N dirty at all
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs30\pos(478,182)\c&HA98966&}{right of that:} Freshman\Nclass 3
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H88D1C2&\frz29.07\pos(384,501)}{down left, yellow:}Best Smile Ever
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz354.7\pos(379,709)}{white, crossed out:} Go out with me
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz86.97\fscy900\pos(548,702)\c&HBEA3B4&})
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H85C2B3&\fs90\pos(566,430)}{center:} Cute
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(561,625)\frz350.5\c&HF7F4E0&}{below cute:} Iori, I love you
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs25\pos(648,103)\frz350.8}{top, white:} That comic was pretty cool.\N Time for some curry.
+Dialogue: 0,0:01:40.07,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HA187A6&\pos(674,246)\frz356.3}{top right, red:} Cutest girl in all of Yamaboshi High
+Dialogue: 0,0:01:40.07,0:01:41.99,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HB094B6&\fs30\frz344.9\pos(653,540)}{top right, red:} Let's go to the\N sale tomorrow
+Dialogue: 0,0:01:41.99,0:01:42.08,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HB094B6&\fs30\frz344.9\pos(653,540)\clip(m 586 523 l 649 542 667 547 672 536 703 551 709 548 702 540 688 519 686 510 690 506 701 513 704 522 718 538 725 536 714 502 720 492 743 543 733 484 685 474 676 469 596 428)}{top right, red:} Let's go to the\N sale tomorrow
+Dialogue: 0,0:01:42.08,0:01:42.95,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HB094B6&\fs30\frz344.9\pos(653,540)}{top right, red:} Let's go to the\N sale tomorrow
+Dialogue: 1,0:01:42.95,0:01:50.96,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}then the illusion is dispelled
+Dialogue: 0,0:01:42.95,0:01:50.96,OP,,0,0,0,,{\fad(150,150)\blur3}then the illusion is dispelled
+Dialogue: 0,0:01:42.95,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(124,144)\c&HA67A4D&\frz4.205}{top left, blue:} Scary
+Dialogue: 0,0:01:42.95,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H96D7CD&\frz347.6\pos(128,420)}{yellow, below:} Sorry
+Dialogue: 0,0:01:42.95,0:01:45.87,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz17.15\pos(322,476)\fs38}{bottom left:} {\c&HC6A6D2&}Sorry! I'll bring you\N some fruit milk
+Dialogue: 0,0:01:42.95,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HB397BB&\fs70\frz343.2\pos(253,329)}{center:}Inabaaaan
+Dialogue: 0,0:01:42.95,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HFFF4E3&\fs40\frz352.7\pos(220,682)}{bottom left:}Sorry I was even born
+Dialogue: 0,0:01:42.95,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H90789F&\frz12.13\pos(886,105)}{top right, multicolor:} La{\c&H67AFA9&}u{\c&HEDE8DA&}gh
+Dialogue: 0,0:01:42.95,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HBCBAAD&\pos(895,209)\frz357.3}{below that:} Fresh{\c&H92779E&}man, {\c&HBCBAAD&}class {\c&H92779F&}3
+Dialogue: 0,0:01:42.95,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H60B3B0&\frz348.6\pos(1068,107)}{top right, yellow:} Curry hot pot
+Dialogue: 0,0:01:42.95,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\pos(946,280)}{right hand side, each character diff color:} {\c&H53A5A3&}Ina{\c&H8B729A&}ba {\c&HA06936&}Hime{\c&HBCB9A9&}ko
+Dialogue: 0,0:01:42.95,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs30\c&H89633E&\pos(1073,649)\frz352.5}{bottom right:}but I still like her
+Dialogue: 0,0:01:45.87,0:01:45.91,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz17.15\pos(322,476)\fs38\clip(m 193 442 l 406 381 410 409 439 504 205 525)}{bottom left:} {\c&HC6A6D2&}Sorry! I'll bring you\N some fruit milk
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz17.78\pos(124,249)}{top left, arrow:} {\c&H58988B&}me{\c&H6F5A81&} yui
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz10.38\pos(321,133)}{top, white, pink:} We should get {\c&H967CAA&}married
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H8CC6B7&\fs50\frz348.4\pos(488,264)}{center, multicolored, left of two:} I love yo{\c&H9C7FAC&}u{\c&HCFCDC6&}u{\c&H6FB2A9&}u{\c&HD4CEC3&}u{\c&H8F6F57&}u
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\frz344.2\c&HB28FB0&\pos(715,286)}{center, multicolored, right of two:} I love you, {\c&HF3F2E2&}Yui
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(669,85)\frz9.935}{top, right of marriage:} Let's go out
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HAC8F70&\frz7.264\pos(862,102)}{below that, blue:} Screw that
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz340.9\pos(1054,159)}{top right, white pink:} {\c&HAA8EB9&}Fresh{\c&HDFD5CD&}man, {\c&HAA8EB9&}class {\c&HDFD5CD&}1
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs30\frz340.4\pos(813,414)}{bigass white yellow thing:} I want to have\N {\c&H98D9D0&}curry hot pot.\N {\c&HFFFFF5&}What do you say?
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz348.3\pos(941,487)}{below that, white orange blue:} The {\c&HCFADC5&}who{\c&HD8B084&}le {\c&HFFFFF5&}world
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HFFFFF1&\frz340.2\an4\pos(753,607)}{yellow white, bottom:} Let's go\N\h\h{\c&HB1EBD8&}to Disneyland
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\frz352.9\pos(1163,392)}{right side:} {\c&H8BCEC4&}Kiriy{\c&HC4A47E&}ama {\c&HD4B5CC&}Yui
+Dialogue: 0,0:01:45.91,0:01:48.58,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(1029,696)\frz344.3}{below that, white, yellow:} {\c&HFFFFE6&}Con{\c&HB6F9EC&}cei{\c&HFFFFE6&}ted
+Dialogue: 0,0:01:48.58,0:01:50.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs50\pos(336,326)\frz0.9467}{left:} A{\c&HFDFCF6&}oki Yoshifumi
+Dialogue: 0,0:01:48.58,0:01:50.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HA27E60&\frz15.78\pos(264,84)}{right of that, yellow:} Freshman, class 1
+Dialogue: 0,0:01:48.58,0:01:50.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&HAFECDB&\pos(284,692)}{Blue, big center, starting right to left:}Sorry, I can't\N go out with you.\NSeriously.
+Dialogue: 0,0:01:48.58,0:01:50.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\fs32\frz15.02\pos(637,506)\c&HFDFCFB&}{bottom  right, white:} Done tomorrow's\N homework?
+Dialogue: 0,0:01:48.58,0:01:50.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\pos(785,170)}{top, pink:} {\c&H9478A5&}I want to eat curry
+Dialogue: 0,0:01:48.58,0:01:50.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz336.3\pos(1177,160)}{top right, white:} {\c&HF2ECDF&}If I do my best
+Dialogue: 0,0:01:48.58,0:01:50.92,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\c&H87CAC2&\pos(554,40)}{right, yellow:} Don't give up if you're a man!
+Dialogue: 1,0:01:51.67,0:01:54.92,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Suddenly the world that connects us changes
+Dialogue: 0,0:01:51.67,0:01:54.92,OP,,0,0,0,,{\fad(150,150)\blur3}Suddenly the world that connects us changes
+Dialogue: 1,0:01:54.92,0:01:57.59,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Peeking through a glass marble
+Dialogue: 0,0:01:54.92,0:01:57.59,OP,,0,0,0,,{\fad(150,150)\blur3}Peeking through a glass marble
+Dialogue: 1,0:01:57.59,0:02:01.14,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}the world looks so much more radiant than before
+Dialogue: 0,0:01:57.59,0:02:01.14,OP,,0,0,0,,{\fad(150,150)\blur3}the world looks so much more radiant than before
+Dialogue: 1,0:02:01.18,0:02:03.68,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}What would I see from there?
+Dialogue: 0,0:02:01.18,0:02:03.68,OP,,0,0,0,,{\fad(150,150)\blur3}What would I see from there?
+Dialogue: 1,0:02:03.68,0:02:07.14,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}When our link shakes, all changes again
+Dialogue: 0,0:02:03.68,0:02:07.14,OP,,0,0,0,,{\fad(150,150)\blur3}When our link shakes, all changes again
+Dialogue: 1,0:02:07.14,0:02:09.69,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Time is multifaceted
+Dialogue: 0,0:02:07.14,0:02:09.69,OP,,0,0,0,,{\fad(150,150)\blur3}Time is multifaceted
+Dialogue: 1,0:02:09.69,0:02:11.02,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Did you hear that?
+Dialogue: 0,0:02:09.69,0:02:11.02,OP,,0,0,0,,{\fad(150,150)\blur3}Did you hear that?
+Dialogue: 0,0:02:10.44,0:02:11.02,Additional Shenanigans,,0,0,0,,{\fscx120\fscy110\fs90\blur0.7\c&HF1E9D0&\fry7\org(436,286)\fax0.04\frz1.093\pos(1049,367)}{top:}De{\fs88}ad{\fs87}lin{\fs86}e: {\fs85}Eve{\fs84}ry {\fs83}mon{\fs83}th {\fs82}on {\fs81}the{\fs80} 25th
+Dialogue: 0,0:02:10.44,0:02:11.02,Additional Shenanigans,,0,0,0,,{\fs100\blur0.7\c&HF2EDD4&\fax-0.03\fry5\org(510,367)\frz4.292\pos(590,689)}{bottom, right:} Don't be late!!
+Dialogue: 1,0:02:11.44,0:02:13.19,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}It signals the beginning
+Dialogue: 0,0:02:11.44,0:02:13.19,OP,,0,0,0,,{\fad(150,150)\blur3}It signals the beginning
+Dialogue: 1,0:02:13.19,0:02:18.95,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}Don't let it pass unheard
+Dialogue: 0,0:02:13.19,0:02:18.95,OP,,0,0,0,,{\fad(150,150)\blur3}Don't let it pass unheard
+Dialogue: 1,0:02:21.70,0:02:26.20,OP,,0,0,0,,{\blur0.6\bord0\fad(150,150)\shad1.7\4c&HB558DB&\4a&H33&}It signals the future we have chosen
+Dialogue: 0,0:02:21.70,0:02:26.20,OP,,0,0,0,,{\fad(150,150)\blur3}It signals the future we have chosen
+Dialogue: 0,0:02:29.36,0:02:32.47,Default,Yui,0,0,0,,So why are you telling me this now?
+Dialogue: 0,0:02:33.19,0:02:36.17,Default,Aoki,0,0,0,,How do you feel about Taichi?
+Dialogue: 0,0:02:36.97,0:02:39.55,Default,Yui,0,0,0,,Taichi? Well...
+Dialogue: 0,0:02:41.30,0:02:42.22,Default,Yui,0,0,0,,I like him.
+Dialogue: 0,0:02:43.42,0:02:44.89,Default,Yui,0,0,0,,As a friend.
+Dialogue: 0,0:02:46.42,0:02:48.36,Default,Aoki,0,0,0,,Wh-What about me?
+Dialogue: 0,0:02:48.36,0:02:49.74,Default,Yui,0,0,0,,I hate you as a friend.
+Dialogue: 0,0:02:49.74,0:02:50.19,Default,Aoki,0,0,0,,No way!
+Dialogue: 0,0:02:50.49,0:02:52.15,Default,Yui,0,0,0,,You actually believed that?
+Dialogue: 0,0:02:52.15,0:02:54.10,Default,Yui,0,0,0,,Of course I like you.
+Dialogue: 0,0:02:54.10,0:02:56.44,Default,Yui,0,0,0,,Oh, but only as a friend, really!
+Dialogue: 0,0:02:58.19,0:03:01.12,Default,Yui,0,0,0,,That's the best I can do right now.
+Dialogue: 0,0:03:02.17,0:03:05.36,Default,Yui,0,0,0,,Sorry, it's not you.{FUCK YOU BITCH... WELL OKAY, AT LEAST IT'S A START}
+Dialogue: 0,0:03:05.36,0:03:07.70,Default,Yui,0,0,0,,I'm not ready to go out with anyone.
+Dialogue: 0,0:03:10.43,0:03:12.83,Default,Aoki,0,0,0,,Well, at least it sounds like I have a chance.
+Dialogue: 0,0:03:14.44,0:03:16.13,Default,Yui,0,0,0,,Are you satisfied now?
+Dialogue: 0,0:03:16.13,0:03:18.09,Default,Yui,0,0,0,,Can we go back to the classroom and have lunch?
+Dialogue: 0,0:03:18.09,0:03:20.44,Default,Aoki,0,0,0,,Are you inviting me to join you?
+Dialogue: 0,0:03:20.44,0:03:23.21,Default,Yui,0,0,0,,Hell no. My friends are waiting for me!
+Dialogue: 0,0:03:23.21,0:03:24.38,Default,Aoki,0,0,0,,Hey, wait!
+Dialogue: 0,0:03:24.38,0:03:27.17,Default,Yui,0,0,0,,Just so you know, you're way below
+Dialogue: 0,0:03:27.17,0:03:29.64,Alternative,,0,0,0,,{\an8}Taichi on my male friend list.
+Dialogue: 0,0:03:28.95,0:03:31.22,Default,Tai,0,0,0,,How did you know this was gonna happen?
+Dialogue: 0,0:03:29.64,0:03:32.98,Default,Aoki,0,0,0,,{\an8}What?! So Taichi is my biggest rival?!
+Dialogue: 0,0:03:31.22,0:03:36.07,Default,Ina,0,0,0,,I switched with Yui yesterday and\N happened to see the text from Aoki.
+Dialogue: 0,0:03:36.07,0:03:37.61,Default,Ina,0,0,0,,It was an accident.
+Dialogue: 0,0:03:37.86,0:03:42.86,Default,Ina,0,0,0,,But I figured it might help give you two a push.
+Dialogue: 0,0:03:43.12,0:03:44.37,Default,Tai,0,0,0,,A push?
+Dialogue: 0,0:03:46.25,0:03:48.66,Default,Ina,0,0,0,,Well, it's up to you from here.
+Dialogue: 0,0:03:48.66,0:03:49.87,Default,Ina,0,0,0,,See ya.
+Dialogue: 0,0:03:52.26,0:03:53.57,Default,Tai,0,0,0,,We should get going.
+Dialogue: 0,0:03:57.27,0:03:58.88,Default,Iori,0,0,0,,I'm okay.
+Dialogue: 0,0:04:01.38,0:04:04.39,Ep Titles,,0,0,0,,{\pos(640,454)}{4:04} A Confession and Death...
+Dialogue: 0,0:04:08.11,0:04:09.68,Default,Iori,0,0,0,,Just you today?
+Dialogue: 0,0:04:09.88,0:04:10.89,Default,Tai,0,0,0,,Yeah...
+Dialogue: 0,0:04:11.13,0:04:13.14,Default,Tai,0,0,0,,Are you Inaba?
+Dialogue: 0,0:04:13.36,0:04:15.21,Default,Iori,0,0,0,,Yeah, that's right.
+Dialogue: 0,0:04:15.21,0:04:17.57,Default,Iori,0,0,0,,Iori and I switched places.
+Dialogue: 0,0:04:17.83,0:04:18.87,Default,Iori,0,0,0,,So...
+Dialogue: 0,0:04:20.02,0:04:22.36,Default,Iori,0,0,0,,What did you think after seeing Aoki and Yui during lunch?
+Dialogue: 0,0:04:22.52,0:04:24.25,Default,Tai,0,0,0,,What did I think?
+Dialogue: 0,0:04:24.25,0:04:26.90,Default,Tai,0,0,0,,It felt like I was watching people from a different planet.
+Dialogue: 0,0:04:27.92,0:04:31.41,Default,Tai,0,0,0,,Why did you want us to watch them?
+Dialogue: 0,0:04:31.62,0:04:34.82,Default,Iori,0,0,0,,You can't seriously be so dense,
+Dialogue: 0,0:04:34.82,0:04:35.99,Default,Iori,0,0,0,,can you?
+Dialogue: 0,0:04:35.99,0:04:37.09,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:04:37.09,0:04:38.54,Default,Iori,0,0,0,,Forget it.
+Dialogue: 0,0:04:38.54,0:04:40.88,Default,Iori,0,0,0,,I'll cut to the chase.
+Dialogue: 0,0:04:40.88,0:04:44.68,Default,Iori,0,0,0,,How do you feel about Iori?
+Dialogue: 0,0:04:46.02,0:04:49.31,Default,Tai,0,0,0,,Nothing is ever off-limits to you.
+Dialogue: 0,0:04:49.85,0:04:53.77,Default,Tai,0,0,0,,And it's even more awkward when you look like Nagase.
+Dialogue: 0,0:04:53.77,0:04:55.69,Default,Iori,0,0,0,,Perfect timing, right?
+Dialogue: 0,0:04:55.89,0:04:57.64,Default,Tai,0,0,0,,Why would you think that?
+Dialogue: 0,0:04:57.64,0:04:59.50,Default,Tai,0,0,0,,Well, I guess...
+Dialogue: 0,0:04:59.94,0:05:04.30,Default,Tai,0,0,0,,I really like our current relationship,
+Dialogue: 0,0:05:04.30,0:05:07.45,Default,Tai,0,0,0,,and I don't want to ruin that.
+Dialogue: 0,0:05:07.58,0:05:08.60,Default,Tai,0,0,0,,But...
+Dialogue: 0,0:05:09.59,0:05:11.95,Default,Ina,0,0,0,,Hey, it's just you two?
+Dialogue: 0,0:05:11.95,0:05:13.70,Default,Iori,0,0,0,,You're too early, Inaban.
+Dialogue: 0,0:05:13.95,0:05:14.96,Default,Ina,0,0,0,,Huh?
+Dialogue: 0,0:05:19.81,0:05:21.63,Default,Iori,0,0,0,,Surprise...{I really fooled you.}
+Dialogue: 0,0:05:21.63,0:05:22.38,Additional Shenanigans,,0,0,0,,{\blur0.7\c&HC3C4BF&\fax0.1\fs45\pos(461,88)}{22:54}{\an4}Deadline: Every month on the 25th\N\h\h\h\h\h\h\h\hDon't be late!!
+Dialogue: 0,0:05:22.38,0:05:22.51,Additional Shenanigans,,0,0,0,,{\blur0.7\c&HC3C4BF&\fax0.1\fs45\pos(461,88)\clip(m 954 36 l 886 48 809 154 725 107 676 140 797 272 954 275)}{22:54}{\an4}Deadline: Every month on the 25th\N\h\h\h\h\h\h\h\hDon't be late!!
+Dialogue: 0,0:05:22.51,0:05:22.63,Additional Shenanigans,,0,0,0,,{\blur0.7\c&HC3C4BF&\fax0.1\fs45\pos(461,88)\clip(m 662 181 l 683 157 727 69 679 69 649 93 599 79 577 145 539 151 502 208)}{22:54}{\an4}Deadline: Every month on the 25th\N\h\h\h\h\h\h\h\hDon't be late!!
+Dialogue: 0,0:05:22.63,0:05:22.76,Additional Shenanigans,,0,0,0,,{\blur0.7\c&HC3C4BF&\fax0.1\fs45\pos(461,88)\clip(m 458 45 l 959 51 802 116 721 285 421 261)}{22:54}{\an4}Deadline: Every month on the 25th\N\h\h\h\h\h\h\h\hDon't be late!!
+Dialogue: 0,0:05:22.76,0:05:29.01,Additional Shenanigans,,0,0,0,,{\blur0.7\c&HC3C4BF&\fax0.1\fs45\pos(461,88)}{22:54}{\an4}Deadline: Every month on the 25th\N\h\h\h\h\h\h\h\hDon't be late!!
+Dialogue: 0,0:05:22.66,0:05:23.90,Default,Ina,0,0,0,,Iori!
+Dialogue: 0,0:05:23.90,0:05:25.64,Default,Ina,0,0,0,,Taichi, what did you do?!
+Dialogue: 0,0:05:25.64,0:05:26.85,Default,Tai,0,0,0,,Hell if I know!
+Dialogue: 0,0:05:26.85,0:05:29.01,Default,Tai,0,0,0,,Nagase was pretending she had switched with you.
+Dialogue: 0,0:05:29.33,0:05:31.64,Default,Ina,0,0,0,,What's {\i1}that{\i0} supposed to mean?
+Dialogue: 0,0:05:31.82,0:05:34.48,Default,Tai,0,0,0,,I don't get it either...
+Dialogue: 0,0:05:35.14,0:05:36.45,Default,Tai,0,0,0,,{\i0}Because no matter what happens,{\i1}
+Dialogue: 0,0:05:36.45,0:05:38.26,Default,,0,0,0,,{\i0}no matter how much you change,{\i1}
+Dialogue: 0,0:05:38.26,0:05:41.70,Default,Tai,0,0,0,,{\i0}I'll always be able to recognize you for who you are.{\i1}{A fithy, dirty liar?}
+Dialogue: 0,0:05:45.05,0:05:48.17,Default,Ina,0,0,0,,Looks like you have some idea.
+Dialogue: 0,0:05:48.17,0:05:51.87,Default,Tai,0,0,0,,Yeah, I realized that I'm pathetic.
+Dialogue: 0,0:05:52.59,0:05:55.58,Default,Tai,0,0,0,,She wanted to trust me.
+Dialogue: 0,0:05:56.87,0:05:59.38,Default,Ina,0,0,0,,Want me give you a good punch?{No. But you can beat me off}
+Dialogue: 0,0:05:59.64,0:06:01.46,Default,Tai,0,0,0,,Yeah, go ahe—
+Dialogue: 0,0:06:02.62,0:06:04.46,Default,Ina,0,0,0,,Go after her!
+Dialogue: 0,0:06:04.46,0:06:06.48,Default,Ina,0,0,0,,I'm not the hero she needs right now.
+Dialogue: 0,0:06:13.59,0:06:14.39,Default,Tai,0,0,0,,Fujishima!
+Dialogue: 0,0:06:14.39,0:06:15.68,Default,Fuji,0,0,0,,Yaegashi...
+Dialogue: 0,0:06:15.68,0:06:17.02,Default,Tai,0,0,0,,Did you see Nagase?
+Dialogue: 0,0:06:17.37,0:06:23.02,Default,Fuji,0,0,0,,Must we live in a world where a couple is defined as a man and a woman?
+Dialogue: 0,0:06:23.53,0:06:24.82,Default,Fuji,0,0,0,,What are your thoughts?
+Dialogue: 0,0:06:24.82,0:06:27.51,Default,Tai,0,0,0,,I don't have time to talk about that right now!
+Dialogue: 0,0:06:27.51,0:06:28.96,Default,Tai,0,0,0,,I'm looking for Nagase!
+Dialogue: 0,0:06:30.06,0:06:31.53,Default,Tai,0,0,0,,Move, Fujishi—
+Dialogue: 0,0:06:32.91,0:06:35.49,Default,Fuji,0,0,0,,Nagase ran out the front gate.
+Dialogue: 0,0:06:36.28,0:06:37.87,Default,Fuji,0,0,0,,I wasn't able to help her.
+Dialogue: 0,0:06:38.85,0:06:42.79,Default,Fuji,0,0,0,,I'm guessing you're the hero she deserves.
+Dialogue: 0,0:06:43.47,0:06:45.16,Default,Tai,0,0,0,,Fujishima...
+Dialogue: 0,0:06:45.16,0:06:45.84,Default,Tai,0,0,0,,Are you okay with that?
+Dialogue: 0,0:06:46.47,0:06:49.94,Default,Fuji,0,0,0,,If you're the hero Nagase needs right now,
+Dialogue: 0,0:06:49.94,0:06:51.43,Default,,0,0,0,,I won't stand in your way.
+Dialogue: 0,0:06:51.84,0:06:53.10,Default,Fuji,0,0,0,,Hurry up now.
+Dialogue: 0,0:06:57.45,0:06:58.68,Default,Tai,0,0,0,,{\i1}Nagase...{\i0}
+Dialogue: 0,0:06:59.09,0:07:01.78,Default,Tai,0,0,0,,{\i1}Where are you, Nagase?{\i0}
+Dialogue: 0,0:07:10.39,0:07:11.43,Default,Tai,0,0,0,,Nagase!
+Dialogue: 0,0:07:13.92,0:07:14.91,Default,Iori,0,0,0,,Taichi...
+Dialogue: 0,0:07:16.80,0:07:19.41,Default,Tai,0,0,0,,I'm really sorry I didn't notice it was you!
+Dialogue: 0,0:07:20.12,0:07:21.49,Default,Tai,0,0,0,,Especially after my promise...
+Dialogue: 0,0:07:24.29,0:07:26.19,Default,Iori,0,0,0,,What defines humans?
+Dialogue: 0,0:07:26.19,0:07:28.05,Default,Iori,0,0,0,,Defines {\i1}us?{\i0}
+Dialogue: 0,0:07:29.05,0:07:31.14,Default,Iori,0,0,0,,Nobody will notice a change on the inside
+Dialogue: 0,0:07:31.14,0:07:34.16,Default,,0,0,0,,if you look the same on the outside.
+Dialogue: 0,0:07:34.16,0:07:37.49,Default,Iori,0,0,0,,Oh, I'm not blaming you for anything, Taichi.
+Dialogue: 0,0:07:37.49,0:07:40.14,Default,Iori,0,0,0,,That was all my fault.
+Dialogue: 0,0:07:40.14,0:07:41.56,Default,Iori,0,0,0,,I'm sorry.
+Dialogue: 0,0:07:42.29,0:07:47.20,Default,Tai,0,0,0,,But you were trying to move on, right?
+Dialogue: 0,0:07:48.91,0:07:50.31,Default,Tai,0,0,0,,Thanks.
+Dialogue: 0,0:07:50.31,0:07:53.57,Default,Tai,0,0,0,,And now, it's my turn.
+Dialogue: 0,0:07:54.05,0:07:57.61,Default,Tai,0,0,0,,Uh, where to start...
+Dialogue: 0,0:07:57.61,0:08:00.79,Default,Tai,0,0,0,,I really admire you, Nagase.
+Dialogue: 0,0:08:01.46,0:08:02.83,Default,Iori,0,0,0,,You admire me?
+Dialogue: 0,0:08:03.11,0:08:06.75,Default,Tai,0,0,0,,I can't express myself the way you do.
+Dialogue: 0,0:08:06.75,0:08:09.38,Default,Tai,0,0,0,,I don't know how to show joy, anger, or sorrow.
+Dialogue: 0,0:08:10.02,0:08:15.85,Default,Tai,0,0,0,,That's why I admire the way you enjoy life.
+Dialogue: 0,0:08:17.47,0:08:22.27,Default,Iori,0,0,0,,That's because I keep switching personas.{:D}
+Dialogue: 0,0:08:22.56,0:08:24.80,Default,Tai,0,0,0,,You told me that the other day.
+Dialogue: 0,0:08:24.80,0:08:28.61,Default,Tai,0,0,0,,But is that really the case?
+Dialogue: 0,0:08:30.68,0:08:31.59,Default,Iori,0,0,0,,What do you mean?
+Dialogue: 0,0:08:32.22,0:08:33.56,Default,Iori,0,0,0,,What are you trying to say?
+Dialogue: 0,0:08:34.36,0:08:36.32,Default,Iori,0,0,0,,You must be confused.
+Dialogue: 0,0:08:37.80,0:08:39.73,Default,Tai,0,0,0,,Whether you joke around or play dumb,
+Dialogue: 0,0:08:39.73,0:08:41.50,Default,Tai,0,0,0,,get embarrassed or make dirty jokes,
+Dialogue: 0,0:08:42.47,0:08:46.08,Default,Tai,0,0,0,,do things spontaneously or plan everything out,
+Dialogue: 0,0:08:46.08,0:08:50.39,Default,Tai,0,0,0,,think too much or don't think at all,
+Dialogue: 0,0:08:50.39,0:08:54.86,Default,Tai,0,0,0,,tell a joke before a serious conversation
+Dialogue: 0,0:08:54.86,0:08:56.92,Default,Tai,0,0,0,,or act cold...
+Dialogue: 0,0:08:56.92,0:08:59.31,Default,Iori,0,0,0,,Um, what are you getting at?
+Dialogue: 0,0:08:59.66,0:09:01.18,Default,Tai,0,0,0,,In each case, you're still you.{you're me... and i'm you... (cue reverie)}
+Dialogue: 0,0:09:01.43,0:09:02.64,Default,Iori,0,0,0,,What's that mean?
+Dialogue: 0,0:09:03.13,0:09:04.85,Default,Tai,0,0,0,,You're still Nagase Iori!
+Dialogue: 0,0:09:05.96,0:09:08.48,Default,Iori,0,0,0,,There's no such person!{kinda shitty, but i like the double meaning: nagase iori doesn't exist, and no one else does this persona shit. SO DEEP}
+Dialogue: 0,0:09:08.48,0:09:10.86,Default,Iori,0,0,0,,One person can't wear all of those masks!
+Dialogue: 0,0:09:11.10,0:09:12.86,Default,Tai,0,0,0,,That's normal.
+Dialogue: 0,0:09:12.86,0:09:15.07,Default,Tai,0,0,0,,Everyone wears a mask at some point.{we all have a face that we hide away forever, and we take it out and show ourselves when everyone has gone...}
+Dialogue: 0,0:09:15.07,0:09:16.49,Default,Tai,0,0,0,,I don't do it often.
+Dialogue: 0,0:09:16.49,0:09:17.90,Default,Tai,0,0,0,,You do it a lot.
+Dialogue: 0,0:09:18.41,0:09:20.43,Default,Tai,0,0,0,,That's all there is to it.
+Dialogue: 0,0:09:20.43,0:09:22.90,Default,Iori,0,0,0,,But I behave differently around different people!
+Dialogue: 0,0:09:22.90,0:09:25.83,Default,Tai,0,0,0,,Lots of people change themselves to fit the situation.
+Dialogue: 0,0:09:25.97,0:09:29.18,Default,Iori,0,0,0,,But I'm always thinking about which persona to switch to!
+Dialogue: 0,0:09:29.18,0:09:33.13,Default,Tai,0,0,0,,Nobody's strong enough to ignore everyone else and be themselves.
+Dialogue: 0,0:09:33.13,0:09:36.35,Default,Iori,0,0,0,,But the things I like change with the situation!
+Dialogue: 0,0:09:36.35,0:09:38.17,Default,Iori,0,0,0,,I couldn't even choose a club for myself!
+Dialogue: 0,0:09:38.17,0:09:40.66,Default,Tai,0,0,0,,That just means you like a lot of things.
+Dialogue: 0,0:09:40.66,0:09:45.10,Default,Tai,0,0,0,,And you're no worse than the people who just choose whichever club looks easiest.
+Dialogue: 0,0:09:47.03,0:09:48.60,Default,Iori,0,0,0,,{That's pure sophistry.}That's complete BS.
+Dialogue: 0,0:09:49.36,0:09:52.61,Default,Tai,0,0,0,,{Yeah, not at first though.}I had you going, though.
+Dialogue: 0,0:10:03.24,0:10:04.62,Default,Iori,0,0,0,,You know,
+Dialogue: 0,0:10:04.84,0:10:07.51,Default,Iori,0,0,0,,I admire you, Taichi.
+Dialogue: 0,0:10:08.15,0:10:10.97,Default,Iori,0,0,0,,You're always true to yourself.
+Dialogue: 0,0:10:10.97,0:10:15.63,Default,Iori,0,0,0,,No matter who I become, you'll always be you.{Because he has no personality}
+Dialogue: 0,0:10:15.94,0:10:20.06,Default,Iori,0,0,0,,I admire that stability you project.
+Dialogue: 0,0:10:20.06,0:10:21.07,Default,Tai,0,0,0,,Nagase...
+Dialogue: 0,0:10:22.37,0:10:25.68,Default,Tai,0,0,0,,I love you, Nagase Iori.
+Dialogue: 0,0:10:25.68,0:10:26.56,Default,Tai,0,0,0,,Will you go out with me?
+Dialogue: 0,0:10:45.15,0:10:46.21,Default,Tai,0,0,0,,Uh...
+Dialogue: 0,0:10:48.66,0:10:49.79,Default,Heart,0,0,0,,Hello.
+Dialogue: 0,0:10:49.79,0:10:51.65,Default,Heart,0,0,0,,It's been a while.
+Dialogue: 0,0:10:51.65,0:10:55.17,Default,Heart,0,0,0,,You can probably guess who I am.
+Dialogue: 0,0:10:55.99,0:10:57.55,Default,Tai,0,0,0,,Heartseed...
+Dialogue: 0,0:10:57.86,0:10:59.26,Default,Iori,0,0,0,,Yes...
+Dialogue: 0,0:11:00.16,0:11:02.90,Default,Iori,0,0,0,,I'll apologize up front.
+Dialogue: 0,0:11:02.90,0:11:04.36,Default,Iori,0,0,0,,Sorry.
+Dialogue: 0,0:11:04.36,0:11:07.63,Default,Iori,0,0,0,,But in the end, you're the ones to blame.
+Dialogue: 0,0:11:07.63,0:11:11.31,Default,Iori,0,0,0,,You're all just a bit too boring.
+Dialogue: 0,0:11:24.81,0:11:26.58,Default,Tai,0,0,0,,Hey, what are you doing?
+Dialogue: 0,0:11:26.89,0:11:30.00,Default,Iori,0,0,0,,I already apologized.
+Dialogue: 0,0:11:35.50,0:11:36.17,Default,Tai,0,0,0,,Nagase!
+Dialogue: 0,0:11:40.93,0:11:43.18,this sure is readable,,0,0,0,,{\frx0\fax0.1\blur0.7\pos(657,300)\frz353.8}{11:42}Yamaboshi General {\fs14}Hospital
+Dialogue: 0,0:11:51.11,0:11:53.32,Default,Ina,0,0,0,,Yes, thank you.
+Dialogue: 0,0:11:54.48,0:11:55.48,Default,Tai,0,0,0,,What'd Mr. Go say?
+Dialogue: 0,0:11:55.76,0:11:57.25,Default,Ina,0,0,0,,He's almost here.
+Dialogue: 0,0:11:57.25,0:11:59.93,Default,Ina,0,0,0,,And they managed to get in touch with Iori's mom.
+Dialogue: 0,0:12:03.60,0:12:05.74,Default,Heart,0,0,0,,Hello there.
+Dialogue: 0,0:12:07.02,0:12:08.41,Default,Ina,0,0,0,,You bastard...
+Dialogue: 0,0:12:08.91,0:12:10.12,Default,Ina,0,0,0,,What do you want?
+Dialogue: 0,0:12:10.41,0:12:14.63,Default,Heart,0,0,0,,Nagase Iori's body will die soon.
+Dialogue: 0,0:12:15.88,0:12:17.71,Default,Ina,0,0,0,,What are you talking about?!
+Dialogue: 0,0:12:17.71,0:12:20.76,Default,Ina,0,0,0,,You think you can play God with our lives?
+Dialogue: 0,0:12:20.95,0:12:23.76,Default,Heart,0,0,0,,Of course not.
+Dialogue: 0,0:12:24.91,0:12:32.59,Default,Heart,0,0,0,,But the fact remains that I'm capable of many things.
+Dialogue: 0,0:12:33.66,0:12:36.65,Default,Yui,0,0,0,,Why should we believe you?
+Dialogue: 0,0:12:36.92,0:12:43.35,Default,Heart,0,0,0,,Well, it's up to you to decide if\N you want to believe me or not.
+Dialogue: 0,0:12:43.92,0:12:46.91,Default,Heart,0,0,0,,So, are you ready?
+Dialogue: 0,0:12:47.28,0:12:49.62,Default,Heart,0,0,0,,Listen carefully.
+Dialogue: 0,0:12:51.82,0:12:57.67,Default,Heart,0,0,0,,I want you to choose which personality will die with Nagase's body.
+Dialogue: 0,0:12:59.55,0:13:01.05,Default,Yui,0,0,0,,Huh? Do you mean...?
+Dialogue: 0,0:13:01.45,0:13:03.56,Default,Heart,0,0,0,,For the next 30 minutes,
+Dialogue: 0,0:13:03.56,0:13:10.06,Default,,0,0,0,,you'll be able to switch bodies whenever you wish. Just say the word.
+Dialogue: 0,0:13:11.49,0:13:13.02,Default,Heart,0,0,0,,There you have it.
+Dialogue: 0,0:13:14.11,0:13:17.69,Default,Tai,0,0,0,,Stop treating us like toys!
+Dialogue: 0,0:13:20.46,0:13:20.98,Default,Ina,0,0,0,,Taichi!
+Dialogue: 0,0:13:21.26,0:13:22.77,Default,Heart,0,0,0,,Understood?
+Dialogue: 0,0:13:22.77,0:13:25.45,Default,Heart,0,0,0,,You have 30 minutes.
+Dialogue: 0,0:13:33.75,0:13:38.67,Default,Aoki,0,0,0,,He's telling us to choose who dies.
+Dialogue: 0,0:13:38.67,0:13:42.53,Default,Yui,0,0,0,,But we don't know that Iori's going to die.
+Dialogue: 0,0:13:42.53,0:13:45.13,Default,Yui,0,0,0,,The doctors are doing their best.
+Dialogue: 0,0:13:45.37,0:13:48.93,Default,Ina,0,0,0,,Yeah, he could've been lying.
+Dialogue: 0,0:13:48.93,0:13:50.65,Default,Ina,0,0,0,,Or he could've been telling the truth.
+Dialogue: 0,0:13:51.53,0:13:54.64,Default,Ina,0,0,0,,Either way, we have to face reality.
+Dialogue: 0,0:13:55.45,0:13:56.89,Default,Ina,0,0,0,,As unsettling as it is...
+Dialogue: 0,0:13:58.47,0:13:59.37,Default,Tai,0,0,0,,If...
+Dialogue: 0,0:14:00.37,0:14:03.40,Default,Tai,0,0,0,,If someone has to make the sacrifice,
+Dialogue: 0,0:14:04.41,0:14:05.24,Default,Tai,0,0,0,,I'll do it.
+Dialogue: 0,0:14:07.02,0:14:09.20,Default,Ina,0,0,0,,That's a load of bullshit.
+Dialogue: 0,0:14:09.61,0:14:12.14,Default,Ina,0,0,0,,You're volunteering to be the sacrifice?!
+Dialogue: 0,0:14:12.14,0:14:15.44,Default,Ina,0,0,0,,Have you ever considered how\N it feels to be on the other side?
+Dialogue: 0,0:14:15.44,0:14:17.61,Default,Ina,0,0,0,,You act like you're concerned about others,
+Dialogue: 0,0:14:17.61,0:14:19.92,Default,,0,0,0,,but you only care about yourself!{Clearly he does, because he wants to die}
+Dialogue: 0,0:14:20.12,0:14:22.69,Default,Ina,0,0,0,,Those are the true colors of the white knight!{Ultraviolet!}
+Dialogue: 0,0:14:23.73,0:14:24.55,Default,Tai,0,0,0,,Is that so wrong?!
+Dialogue: 0,0:14:25.07,0:14:26.14,Default,Tai,0,0,0,,That's right!
+Dialogue: 0,0:14:26.14,0:14:29.55,Default,Tai,0,0,0,,I don't want to see anyone else suffer!
+Dialogue: 0,0:14:29.55,0:14:32.00,Default,Tai,0,0,0,,It hurts me more than I can imagine
+Dialogue: 0,0:14:32.00,0:14:35.02,Default,Tai,0,0,0,,when I think about the pain they must feel!
+Dialogue: 0,0:14:35.39,0:14:37.00,Default,Tai,0,0,0,,I can't stand it!
+Dialogue: 0,0:14:37.00,0:14:38.81,Default,Tai,0,0,0,,I'd rather suffer in their place!
+Dialogue: 0,0:14:39.38,0:14:41.48,Default,Tai,0,0,0,,At least then I'd know how much pain they endure.
+Dialogue: 0,0:14:41.48,0:14:43.19,Default,Tai,0,0,0,,That way, I could bear my own pain.
+Dialogue: 0,0:14:43.19,0:14:44.88,Default,Tai,0,0,0,,That's right.
+Dialogue: 0,0:14:44.88,0:14:47.59,Default,Tai,0,0,0,,I'm not doing this for anyone else.
+Dialogue: 0,0:14:48.82,0:14:52.47,Default,Tai,0,0,0,,I'm sacrificing myself for my own good!
+Dialogue: 0,0:14:55.08,0:14:56.43,Default,Ina,0,0,0,,Really...
+Dialogue: 0,0:14:56.43,0:14:58.54,Default,Ina,0,0,0,,Something's wrong with you.
+Dialogue: 0,0:15:02.18,0:15:03.59,Default,Ina,0,0,0,,Something's very wrong,
+Dialogue: 0,0:15:04.43,0:15:06.48,Default,,0,0,0,,but it's a gentle form of insanity.
+Dialogue: 0,0:15:07.09,0:15:10.97,Default,Ina,0,0,0,,Gentle, awkward, and stupid, really.
+Dialogue: 0,0:15:12.61,0:15:16.22,Default,Ina,0,0,0,,But you should understand our pain then.
+Dialogue: 0,0:15:17.50,0:15:22.99,Default,Aoki,0,0,0,,I believe that Iori should be the one\N who dies with her body.
+Dialogue: 0,0:15:22.99,0:15:24.55,Default,Yui,0,0,0,,How can you say that?!
+Dialogue: 0,0:15:24.55,0:15:27.65,Default,Aoki,0,0,0,,I didn't want to say it,
+Dialogue: 0,0:15:28.53,0:15:32.42,Default,Aoki,0,0,0,,but {\i1}someone{\i0} had to.
+Dialogue: 0,0:15:35.03,0:15:38.41,Default,Aoki,0,0,0,,Anyway, we need to tell Iori what's going on.
+Dialogue: 0,0:15:39.01,0:15:40.01,Default,Ina,0,0,0,,That's true.
+Dialogue: 0,0:15:40.72,0:15:43.59,Default,Aoki,0,0,0,,Since I brought it up, I'll switch.
+Dialogue: 0,0:15:45.50,0:15:50.59,Default,Aoki,0,0,0,,Please switch me, Aoki Yoshifumi, with Nagase Iori.
+Dialogue: 0,0:15:53.33,0:15:54.62,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:54.62,0:15:56.28,Default,AokiIori,0,0,0,,Why is everyone here?
+Dialogue: 0,0:15:56.99,0:16:01.35,Default,AokiIori,0,0,0,,I was talking with Taichi by the river...
+Dialogue: 0,0:16:01.68,0:16:04.15,Default,Ina,0,0,0,,Iori, listen carefully.
+Dialogue: 0,0:16:05.16,0:16:06.14,Default,Ina,0,0,0,,You're...
+Dialogue: 0,0:16:25.14,0:16:26.25,Default,AokiIori,0,0,0,,In that case,
+Dialogue: 0,0:16:27.09,0:16:28.84,Default,AokiIori,0,0,0,,I have to die.
+Dialogue: 0,0:16:29.11,0:16:31.26,Default,Tai,0,0,0,,Nagase, it's not over yet.
+Dialogue: 0,0:16:31.58,0:16:33.47,Default,AokiIori,0,0,0,,I could never bring myself
+Dialogue: 0,0:16:33.47,0:16:38.01,Default,,0,0,0,,to kill someone else and take over their body.{OR COULD YOU?}
+Dialogue: 0,0:16:39.43,0:16:41.77,Default,AokiIori,0,0,0,,I wouldn't be able to live with myself.
+Dialogue: 0,0:16:43.91,0:16:45.14,Default,AokiIori,0,0,0,,What about my mom?
+Dialogue: 0,0:16:45.14,0:16:47.81,Default,Ina,0,0,0,,She's supposed to be on her way here.
+Dialogue: 0,0:16:47.81,0:16:48.93,Default,AokiIori,0,0,0,,Oh...
+Dialogue: 0,0:16:49.79,0:16:51.15,Default,AokiIori,0,0,0,,Um...
+Dialogue: 0,0:16:52.27,0:16:53.40,Default,AokiIori,0,0,0,,Can I...
+Dialogue: 0,0:16:54.28,0:16:58.44,Default,,0,0,0,,talk with each of you individually, one last time?
+Dialogue: 0,0:17:27.90,0:17:28.87,Default,Yui,0,0,0,,Taichi,
+Dialogue: 0,0:17:29.73,0:17:31.29,Default,,0,0,0,,Iori wants to talk to you.
+Dialogue: 0,0:17:33.15,0:17:34.83,Default,InaIori,0,0,0,,'Sup, Taichi.
+Dialogue: 0,0:17:34.83,0:17:36.70,Default,Tai,0,0,0,,Hey, Nagase.
+Dialogue: 0,0:17:36.70,0:17:40.12,Default,InaTori,0,0,0,,Oh? You're the only one who doesn't seem too different.
+Dialogue: 0,0:17:40.38,0:17:42.66,Default,Tai,0,0,0,,That's because I'm supposed to be the stoic character.
+Dialogue: 0,0:17:44.08,0:17:46.86,Default,InaTori,0,0,0,,Anyway, Taichi, thanks.
+Dialogue: 0,0:17:47.45,0:17:49.48,Default,InaTori,0,0,0,,After talking to you,
+Dialogue: 0,0:17:49.48,0:17:52.33,Default,,0,0,0,,my problems don't seem so significant.
+Dialogue: 0,0:17:52.33,0:17:55.88,Default,InaTori,0,0,0,,I think I can learn to love myself.
+Dialogue: 0,0:17:57.78,0:18:01.64,Default,InaTori,0,0,0,,You said that you love me.
+Dialogue: 0,0:18:01.86,0:18:04.27,Default,InaTori,0,0,0,,I want to give a response now.
+Dialogue: 0,0:18:06.89,0:18:10.40,Default,InaTori,0,0,0,,But you're probably expecting a joke first, right?
+Dialogue: 0,0:18:10.40,0:18:14.07,Default,Tai,0,0,0,,Not really, but I figured you might drop one on me.
+Dialogue: 0,0:18:18.60,0:18:21.55,Default,InaAori,0,0,0,,Why are you the same as always?
+Dialogue: 0,0:18:21.55,0:18:24.04,Default,InaAori,0,0,0,,Everyone else looked so sad.
+Dialogue: 0,0:18:24.22,0:18:25.65,Default,Tai,0,0,0,,I {\i1}am{\i0} sad.
+Dialogue: 0,0:18:25.65,0:18:27.21,Default,Tai,0,0,0,,So sad I could die.
+Dialogue: 0,0:18:27.70,0:18:30.50,Default,Tai,0,0,0,,But you must feel even worse.
+Dialogue: 0,0:18:31.53,0:18:34.69,Default,Tai,0,0,0,,If I cry, you won't be able to.
+Dialogue: 0,0:18:45.33,0:18:47.52,Default,InaIori,0,0,0,,I don't want to die.
+Dialogue: 0,0:18:47.52,0:18:49.71,Default,InaIori,0,0,0,,I want to keep on living.
+Dialogue: 0,0:18:49.71,0:18:51.98,Default,InaIori,0,0,0,,I have so much to look forward to.
+Dialogue: 0,0:18:51.98,0:18:53.27,Default,InaIori,0,0,0,,Why?
+Dialogue: 0,0:18:53.27,0:18:56.92,Default,InaIori,0,0,0,,Why did this have to happen to me?
+Dialogue: 0,0:18:56.92,0:18:59.26,Default,InaIori,0,0,0,,What did I do wrong?
+Dialogue: 0,0:19:00.05,0:19:03.96,Default,InaIori,0,0,0,,Right after you told me that you love me...
+Dialogue: 0,0:19:06.58,0:19:10.10,Default,InaIori,0,0,0,,I love you too, Taichi.
+Dialogue: 0,0:19:11.10,0:19:14.84,Default,InaIori,0,0,0,,That's why I don't want you to go out with me.
+Dialogue: 0,0:19:14.84,0:19:16.05,Default,Tai,0,0,0,,Huh?
+Dialogue: 0,0:19:18.19,0:19:20.25,Default,InaIori,0,0,0,,I mean, I'm about to die.
+Dialogue: 0,0:19:20.25,0:19:23.51,Default,InaIori,0,0,0,,That wouldn't be much of a relationship.
+Dialogue: 0,0:19:23.79,0:19:25.81,Default,Tai,0,0,0,,How can you...
+Dialogue: 0,0:19:26.05,0:19:29.41,Default,InaIori,0,0,0,,Instead, I want a memory to remember you by.
+Dialogue: 0,0:19:30.93,0:19:34.82,Default,InaIori,0,0,0,,So let's kiss.
+Dialogue: 0,0:19:36.77,0:19:41.23,Default,InaIori,0,0,0,,I'm sure that Inaban will forgive me.
+Dialogue: 0,0:19:52.39,0:19:54.17,Default,Heart,0,0,0,,Are you ready?
+Dialogue: 0,0:19:54.49,0:19:55.89,Default,Heart,0,0,0,,Who will it be?
+Dialogue: 0,0:19:55.89,0:19:57.20,Default,InaIori,0,0,0,,Me.
+Dialogue: 0,0:19:57.20,0:20:01.20,Default,InaIori,0,0,0,,Nagase Iori will die with Nagase Iori's body.
+Dialogue: 0,0:20:02.67,0:20:06.43,Default,Heart,0,0,0,,Well, that would be the logical conclusion.
+Dialogue: 0,0:20:06.74,0:20:08.68,Default,InaIori,0,0,0,,Can I ask you a question?
+Dialogue: 0,0:20:09.21,0:20:12.19,Default,InaIori,0,0,0,,I need an answer now.
+Dialogue: 0,0:20:12.67,0:20:15.90,Default,InaIori,0,0,0,,You won't do this to anyone else, right?
+Dialogue: 0,0:20:17.90,0:20:19.40,Default,Heart,0,0,0,,Of course.
+Dialogue: 0,0:20:20.25,0:20:22.20,Default,Heart,0,0,0,,Oh, it's time.
+Dialogue: 0,0:20:23.27,0:20:24.45,Default,Ina,0,0,0,,Where's Iori?!
+Dialogue: 0,0:20:31.04,0:20:32.55,Default,Tai,0,0,0,,{\i1}Wait...{\i0}
+Dialogue: 0,0:20:32.55,0:20:33.90,Default,Tai,0,0,0,,{\i1}Don't let this end!{\i0}
+Dialogue: 0,0:20:37.67,0:20:39.43,Default,Doc,0,0,0,,Luck was on our side.
+Dialogue: 0,0:20:39.43,0:20:40.88,Default,Doc,0,0,0,,She's going to survive.{GODLIKE POWERS ARE NO MATCH FOR SCIENCE!!!}
+Dialogue: 0,0:20:41.14,0:20:41.92,Default,All,0,0,0,,Huh?
+Dialogue: 0,0:20:42.33,0:20:44.39,Default,Doc,0,0,0,,It appears that there won't be any permanent damage.
+Dialogue: 0,0:20:44.39,0:20:46.91,Default,Doc,0,0,0,,If you wait a little longer, you'll be able to see her.
+Dialogue: 0,0:20:52.59,0:20:55.94,Default,Heart,0,0,0,,Hello again, everyone, and good job.
+Dialogue: 0,0:20:56.28,0:20:57.57,Default,Heart,0,0,0,,Take this.
+Dialogue: 0,0:20:56.69,0:20:56.81,onore calligraphy,,0,0,0,,{\frx20\pos(516.560,37.020)\fax0.1\blur0.6}{20:59} Western Style\N Baked Sweets
+Dialogue: 0,0:20:56.81,0:20:56.94,onore calligraphy,,0,0,0,,{\frx20\pos(517.410,95.250)\fax0.1\blur0.6}{20:59} Western Style\N Baked Sweets
+Dialogue: 0,0:20:56.94,0:20:59.40,onore calligraphy,,0,0,0,,{\frx20\pos(517.570,110.400)\fax0.1\blur0.6}{20:59} Western Style\N Baked Sweets
+Dialogue: 0,0:20:57.57,0:20:59.40,Default,Heart,0,0,0,,Consider it my apology.
+Dialogue: 0,0:20:59.73,0:21:03.65,Default,Heart,0,0,0,,It also serves as a get well gift for Nagase.
+Dialogue: 0,0:21:05.27,0:21:07.06,Default,Ina,0,0,0,,You got us good.{By almost killing our friend! You old joker!}
+Dialogue: 0,0:21:07.63,0:21:10.27,Default,Ina,0,0,0,,Well, I knew it was a possibility.
+Dialogue: 0,0:21:10.27,0:21:12.32,Default,Yui,0,0,0,,So Iori's okay?
+Dialogue: 0,0:21:12.32,0:21:13.50,Default,Yui,0,0,0,,She's alive?
+Dialogue: 0,0:21:15.08,0:21:16.33,Default,Aoki,0,0,0,,That's wonderful.
+Dialogue: 0,0:21:18.86,0:21:21.92,Default,Ina,0,0,0,,Hey, how much of this was planned?
+Dialogue: 0,0:21:21.92,0:21:26.09,Default,Heart,0,0,0,,Well, I suppose you could say that\N everything is part of my plan.{No one dies in anime these days!}
+Dialogue: 0,0:21:26.74,0:21:29.21,Default,Heart,0,0,0,,That's one way to look at it,
+Dialogue: 0,0:21:29.84,0:21:35.35,Default,Heart,0,0,0,,since you people don't seem to realize what I'm capable of.
+Dialogue: 0,0:21:35.64,0:21:40.34,Default,Tai,0,0,0,,So you never intended to do anything to Nagase?
+Dialogue: 0,0:21:40.34,0:21:45.65,Default,Heart,0,0,0,,I would never cause any trouble for an innocent person.
+Dialogue: 0,0:21:46.41,0:21:49.91,Default,Heart,0,0,0,,I even made sure that her cell phone didn't get wet.
+Dialogue: 0,0:21:51.20,0:21:54.54,Default,Heart,0,0,0,,I'm not going to ask for your forgiveness,
+Dialogue: 0,0:21:55.18,0:21:58.38,Default,Heart,0,0,0,,but I hope that you won't hold a grudge
+Dialogue: 0,0:21:58.95,0:22:04.19,Default,Heart,0,0,0,,since you also benefited from the experience.
+Dialogue: 0,0:22:07.94,0:22:09.20,Default,Heart,0,0,0,,Until next time.
+Dialogue: 0,0:22:19.06,0:22:20.06,this sure is readable,,0,0,0,,{\frx0\fax0.1\blur0.7\frz353.8\move(650,661,650,740)}{22:22}Yamaboshi General {\fs14}Hospital
+Dialogue: 0,0:22:26.70,0:22:28.60,Default,All,0,0,0,,Welcome back!
+Dialogue: 0,0:22:27.21,0:22:32.74,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}My daily life, gone with the flow of time
+Dialogue: 0,0:22:28.60,0:22:29.70,Default,Iori,0,0,0,,Thanks!
+Dialogue: 0,0:22:29.94,0:22:32.62,Default,Iori,0,0,0,,Sorry to make everyone worry.
+Dialogue: 0,0:22:32.62,0:22:34.70,Default,Aoki,0,0,0,,Don't worry about that.
+Dialogue: 0,0:22:32.74,0:22:37.10,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}seemed like a dream beyond what my senses could appreciate
+Dialogue: 0,0:22:35.82,0:22:38.96,Default,Iori,0,0,0,,Anyway, did anything strange happen?
+Dialogue: 0,0:22:38.25,0:22:42.48,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}I don't understand, I don't understand
+Dialogue: 0,0:22:39.22,0:22:40.60,Default,Tai,0,0,0,,Nothing at all.
+Dialogue: 0,0:22:40.60,0:22:44.32,Default,,0,0,0,,There hasn't been any more body swapping.
+Dialogue: 0,0:22:42.48,0:22:49.77,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}So I mumble, still little more than a child, and dream
+Dialogue: 0,0:22:44.32,0:22:47.17,Default,Yui,0,0,0,,Looks like it's all over then.{at episode 5? so foolish}
+Dialogue: 0,0:22:48.12,0:22:49.84,Default,Ina,0,0,0,,I hope you're right.
+Dialogue: 0,0:22:50.10,0:22:51.76,Default,Yui,0,0,0,,Anyway, let's dig in.
+Dialogue: 0,0:22:51.76,0:23:02.61,Additional Shenanigans,,0,0,0,,{\blur0.7\c&HEBF0E0&\fax0.1\pos(402,93)}{22:54}{\an4}Deadline: Every month on the 25th\N\h\h\h\h\h\h\h\hDon't be late!!
+Dialogue: 0,0:22:52.10,0:22:53.91,Default,Yui,0,0,0,,Aoki, make some tea.
+Dialogue: 0,0:22:53.85,0:22:55.60,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}Maybe I'm a coward
+Dialogue: 0,0:22:53.91,0:22:57.06,Default,Aoki,0,0,0,,Sure. Have a seat, Iori.
+Dialogue: 0,0:22:56.73,0:22:59.35,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}It shouldn't matter
+Dialogue: 0,0:22:57.06,0:22:59.72,Default,Iori,0,0,0,,Thanks. Sorry about this.
+Dialogue: 0,0:22:59.35,0:23:04.86,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}I wish I could be stronger
+Dialogue: 0,0:22:59.72,0:23:02.61,Default,Yui,0,0,0,,Come on! Taichi, Inaba, get to work!
+Dialogue: 0,0:23:04.86,0:23:07.72,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}Onto that sort of facade,
+Dialogue: 0,0:23:05.96,0:23:06.61,Default,Ina,0,0,0,,Right.
+Dialogue: 0,0:23:06.89,0:23:09.55,Default,Ina,0,0,0,,I heard from Iori when I went to visit her.
+Dialogue: 0,0:23:07.72,0:23:10.33,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}my weak cries,
+Dialogue: 0,0:23:10.33,0:23:13.46,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}scattered feelings,
+Dialogue: 0,0:23:10.90,0:23:14.91,Default,Ina,0,0,0,,It sounds like you stole my first kiss?{AND MY FIRST WANK}
+Dialogue: 0,0:23:13.46,0:23:15.84,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}and changing intentions
+Dialogue: 0,0:23:15.84,0:23:17.54,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}the sun shone
+Dialogue: 0,0:23:15.85,0:23:19.20,Default,Ina,0,0,0,,That's going to cost you dearly.
+Dialogue: 0,0:23:17.54,0:23:20.99,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}You were the only one that mattered to me
+Dialogue: 0,0:23:20.99,0:23:26.12,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}I knew that
+Dialogue: 0,0:23:26.52,0:23:30.36,ED overlap,,0,0,0,,{\blur1}{\fad(150,150)}Maybe
+Dialogue: 0,0:23:31.43,0:23:34.93,Ep Titles,,0,0,0,,{\c&H85DDC0&\pos(640,500)}{23:33} A Story That Continued\N Before Anyone Realized It
+Dialogue: 0,0:23:31.43,0:23:34.93,Ep Titles,,0,0,0,,{\c&H1AD48E&\pos(640,246)}{23:33}Next Time
+Dialogue: 0,0:23:34.93,0:23:39.89,Chalkboard Shenanigans,,0,0,0,,{\frz16.65\pos(184,180)\fax-0.08\blur0.7\1a&33&}If we do our best
+Dialogue: 0,0:23:34.93,0:23:39.89,Chalkboard Shenanigans,,0,0,0,,{\fax-0.08\blur0.7\c&H68A6A1&\frz18.08\pos(377,371)}me {\c&H957AA2&}yui
+Dialogue: 0,0:23:34.93,0:23:39.89,Chalkboard Shenanigans,,0,0,0,,{\c&HA18BA2&\blur0.7\pos(217,512)\fax-0.08\frz332.4}I love my sister
+Dialogue: 0,0:23:34.93,0:23:39.89,Chalkboard Shenanigans,,0,0,0,,{\c&HB39AB3&\blur0.7\fax-0.08\frz14.11\pos(1040,634)}I wanna{\c&HB998B5&} eat {\c&HB99EAB&}cu{\c&HB79CB4&}rry.
+Dialogue: 0,0:23:34.93,0:23:39.89,Chalkboard Shenanigans,,0,0,0,,{\fs80\fax-0.08\blur0.7\pos(777,236)\1a&33&}Tune in next time!
+Dialogue: 0,0:23:34.93,0:23:39.89,Chalkboard Shenanigans,,0,0,0,,{\fs70\fax-0.08\blur0.7\pos(644,433)\frz0.3376\1a&33&}Inaba
+Dialogue: 0,0:23:34.93,0:23:39.89,Chalkboard Shenanigans,,0,0,0,,{\blur0.7\frz347\1a&33&\an4\pos(957,423)}Let's go\N\h\h{\c&H98CEBE&}to Disneyland!
