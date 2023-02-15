@@ -2,7 +2,7 @@
 
 | Role            | Staff                                            |
 |-----------------|--------------------------------------------------|
-| Base Script     | [Commie](../Commie), [GJM-eraser](../GJM-eraser) |
+| Base Script     | [Commie](../Commie) (WEB), [GJM-eraser](../GJM-eraser) |
 | Encoding        | motbob                                           |
 | Quality Control | motbob                                           |
 
