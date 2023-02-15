@@ -5,7 +5,7 @@ This repository serves as an archive of anime subtitles (both official and fan-m
 It contains subtitle files and attachments necessary to properly display them (such as fonts).
 This does NOT include video and/or audio files.
 
-Are your subtitles, fonts, or other properties found within the repo and you'd like us to remove them?
+Are your subtitles, fonts, or other properties found within the repo and would you like us to remove them?
 Please leave an issue detailing the exact paths to files we must remove,
 as well as a method through which we can identify you as the rightful owner.
 
@@ -15,7 +15,9 @@ Files are separated by anime, based on [aniDB].
 This should make finding all the subtitles related to specific anime and seasons a lot easier.
 
 Afterwards, they're split by group tag.
-In the event of an untagged release, it will be given a special directory inside of an "Untagged" directory.
+In the event of an untagged release, it will be given a special directory inside of an "Untagged" directory,
+unless they're Closed Captions (CCs) or official subtitles,
+in which case they'll be added to either an "Official" or "Closed Captions" directory.
 
 The subtitles are then split up by episode number and versioning (if applicable).
 Should a file exceed 100MB (GitHub limitation), it will be split into however many parts are necessary.
