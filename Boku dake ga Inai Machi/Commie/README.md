@@ -6,7 +6,7 @@
 | Editing         | Xythar    |
 | Typesetting     | herkz     |
 | Timing          | herkz     |
-| Encoding        | ?         |
+| Encoding        | herkz     |
 | Quality Control | herkz     |
 
 ## Release Info
