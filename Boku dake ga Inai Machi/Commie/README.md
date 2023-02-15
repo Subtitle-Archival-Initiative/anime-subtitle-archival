@@ -16,4 +16,4 @@
 | Status       | Complete  |
 | Batch Status | Complete  |
 | Source       | BDRip     |
-| Resolution   | 1920x1080 |
+| Resolution   | 1280x720  |
