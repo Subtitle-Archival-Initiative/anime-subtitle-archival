@@ -1,0 +1,446 @@
+﻿[Script Info]
+Title: [Mahora] Negima!? - Episode 20
+ScriptType: v4.00+
+PlayResX: 704
+PlayResY: 400
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,132,100,0,0,1,2,2,2,11,11,8,0
+Style: N_Neg,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H006164A2,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Mak,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00D474E4,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Sak,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00398294,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Mad,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00544E66,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_FF,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0091A4F3,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kae,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005B7873,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Nat,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0078794E,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Nab,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H004F60A5,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Lin,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00625252,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Yue,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00936D83,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Nod,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00966C65,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Har,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005B7664,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Yuu,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00376FA6,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Ako,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00B7ABB2,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Aki,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H002F4556,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kas,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0090A6B0,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Say,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00DFCEC6,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Set,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00424136,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kon,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H004C585D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kam,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H000B1F1B,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Chi,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005B81A5,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Hak,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00403B3D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Man,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00090E09,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Cha,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H009BCD7A,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Pri,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0085A7B1,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Any,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H008A90D8,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Sat,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00686492,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_2,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H000708FF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Tak,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0086A090,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Nek,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0085B9C9,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Eva,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005D7875,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Mis,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H009465AD,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Asu,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005992F9,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kaz,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005E51D8,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kuu,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0074B5C1,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Aya,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H003F96A9,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Zaz,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00C9CACE,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Spells,Pristina,50,&H00FFFFFF,&H0000FFFF,&H00A95309,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,0
+Style: N_Chiu,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H007850DE,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:22:18.42,0:22:19.84,N_Kaz,Asakura,0000,0000,0000,,Omoshiroi koto garu kamo
+Dialogue: 0,0:00:04.40,0:00:07.69,N_Tak,Takamichi,0000,0000,0000,,The students’ transformation that happened in the past few days…
+Dialogue: 0,0:00:07.69,0:00:10.51,N_Tak,Takamichi,0000,0000,0000,,…looks like it had something to do with the darkness.
+Dialogue: 0,0:00:11.57,0:00:14.11,N_Cha,Chachamaru,0000,0000,0000,,Did you notice anything related to it?
+Dialogue: 0,0:00:22.31,0:00:24.12,N_Cha,Chachamaru,0000,0000,0000,,There is a disturbance in the magnetic field.
+Dialogue: 0,0:00:24.37,0:00:27.63,N_Tak,Takamichi,0000,0000,0000,,I have a bad feeling about this world.
+Dialogue: 0,0:00:27.90,0:00:30.12,N_Cha,Chachamaru,0000,0000,0000,,Is it an omen?
+Dialogue: 0,0:00:30.12,0:00:31.35,N_Tak,Takamichi,0000,0000,0000,,I don’t know.
+Dialogue: 0,0:00:31.35,0:00:33.13,N_Tak,Takamichi,0000,0000,0000,,But we need to be careful.
+Dialogue: 0,0:00:38.72,0:00:39.47,N_Tak,Takamichi,0000,0000,0000,,Eva…
+Dialogue: 0,0:00:40.31,0:00:41.97,N_Eva,Eva,0000,0000,0000,,I’m going back to sleep.
+Dialogue: 0,0:00:43.59,0:00:45.57,N_Tak,Takamichi,0000,0000,0000,,Is she feeling ill or something?
+Dialogue: 0,0:00:45.57,0:00:47.90,N_Cha,Chachamaru,0000,0000,0000,,She has had a headache since this morning.
+Dialogue: 0,0:00:47.90,0:00:53.58,N_Pri,Narrator,0000,0000,0000,,Is this an omen of the terrible situation that was just mentioned?
+Dialogue: 0,0:00:53.58,0:00:59.20,N_Pri,Narrator,0000,0000,0000,,Perhaps Takamichi and Chachamaru don’t realize it. Well, in a good way.
+Dialogue: 0,0:00:59.99,0:01:04.12,N_Pri,Narrator,0000,0000,0000,,Hey Chachamaru-kun, are you sure it’s actually a headache?
+Dialogue: 0,0:01:04.62,0:01:05.91,N_Cha,Chachamaru,0000,0000,0000,,I’m sure of it.
+Dialogue: 0,0:02:37.47,0:02:38.92,N_Sat,Satsuki,0000,0000,0000,,by Satsuki
+Dialogue: 0,0:02:38.92,0:02:41.05,N_Neg,Negi,0000,0000,0000,,Darkness is on the move again?
+Dialogue: 0,0:02:41.05,0:02:42.36,N_Kam,Chamo,0000,0000,0000,,Really!?
+Dialogue: 0,0:02:42.36,0:02:44.89,N_Tak,Takamichi,0000,0000,0000,,I don’t know what’s going to happen from here on.
+Dialogue: 0,0:02:44.89,0:02:46.61,N_Tak,Takamichi,0000,0000,0000,,We should be careful.
+Dialogue: 0,0:02:48.50,0:02:50.41,N_Neg,Negi,0000,0000,0000,,Anyway, what is this?
+Dialogue: 0,0:02:50.41,0:02:52.56,N_Kam,Chamo,0000,0000,0000,,Does it have something to do with the investigation of The Darkness?
+Dialogue: 0,0:02:52.79,0:02:54.47,N_Tak,Takamichi,0000,0000,0000,,Nope, that’s not it.
+Dialogue: 0,0:02:54.47,0:02:56.32,N_Tak,Takamichi,0000,0000,0000,,I found it in the kitchen.
+Dialogue: 0,0:02:56.32,0:02:58.33,N_Kam,Chamo,0000,0000,0000,,Oh it’s food…
+Dialogue: 0,0:02:58.33,0:03:02.41,N_Tak,Takamichi,0000,0000,0000,,Squid Cutlets, pickles, oiled sardines, dried mullet roe, pistachio...
+Dialogue: 0,0:03:02.41,0:03:04.42,N_Kam,Chamo,0000,0000,0000,,It’s just a delicacy right?
+Dialogue: 0,0:03:04.42,0:03:09.04,N_Tak,Takamichi,0000,0000,0000,,I think I might be able to make the Worldwide Original Ramen.
+Dialogue: 0,0:03:09.04,0:03:10.30,N_2,Chamo&Negi,0000,0000,0000,,Ramen!?
+Dialogue: 0,0:03:10.30,0:03:10.89,N_Tak,Takamichi,0000,0000,0000,,Yep.
+Dialogue: 0,0:03:10.89,0:03:14.92,N_Tak,Takamichi,0000,0000,0000,,I’ll call it the World Ramen Delicacy. If I can make it taste nice, I’ll treat you guys to it.
+Dialogue: 0,0:03:14.92,0:03:18.13,N_Neg,Negi,0000,0000,0000,,Er… Yeah! I’ll look forward to it!
+Dialogue: 0,0:03:18.13,0:03:21.79,N_Kam,Chamo,0000,0000,0000,,The Darkness is still spreading, but you’re being so carefree…
+Dialogue: 0,0:03:25.96,0:03:29.21,N_Tak,Takamichi,0000,0000,0000,,A calm mind, is an important asset for all situations.
+Dialogue: 0,0:03:31.02,0:03:34.13,N_Hak,Hakase,0000,0000,0000,,Oh… Now that you say it, yeah… that seems to be the case.
+Dialogue: 0,0:03:34.54,0:03:38.57,N_Lin,LingShen,0000,0000,0000,,Yeah. The fairy in the fragment manipulated people in our class.
+Dialogue: 0,0:03:38.57,0:03:41.48,N_Lin,LingShen,0000,0000,0000,,I think Chisame was also manipulated before, right?
+Dialogue: 0,0:03:41.74,0:03:46.62,N_Chi,Chisame,0000,0000,0000,,That’s true, but when I was being manipulated, I didn’t realize what was going on.
+Dialogue: 0,0:03:47.12,0:03:52.79,N_Nab,Chizuru,0000,0000,0000,,I just thought of this. What kind of standards are we choosing anyway?
+Dialogue: 0,0:03:52.79,0:03:53.83,N_Chi,Chisame,0000,0000,0000,,Standards?
+Dialogue: 0,0:03:54.53,0:04:00.05,N_Hak,Hakase,0000,0000,0000,,Ah. I see. The people manipulated by the fairy may have some common traits.
+Dialogue: 0,0:04:00.51,0:04:06.26,N_Lin,LingShen,0000,0000,0000,,Hmm, that might be a hint to the puzzle of the fragments, eh?
+Dialogue: 0,0:04:06.26,0:04:09.22,N_Chi,Chisame,0000,0000,0000,,Common traits… like?
+Dialogue: 0,0:04:09.72,0:04:13.94,N_Nab,Chizuru,0000,0000,0000,,Everyone really wants to see Chisame-chan as a Net Idol!
+Dialogue: 0,0:04:14.87,0:04:19.19,N_Chi,Chisame,0000,0000,0000,,That’s wrong! I am not a Net Idol!
+Dialogue: 0,0:04:19.19,0:04:21.34,N_Hak,Hakase,0000,0000,0000,,Not a Net Idol, eh?
+Dialogue: 0,0:04:21.34,0:04:22.20,N_Nab,Chizuru,0000,0000,0000,,Really?
+Dialogue: 0,0:04:22.20,0:04:25.34,N_Nab,Chizuru,0000,0000,0000,,But the person in question has the same weight!
+Dialogue: 0,0:04:26.48,0:04:28.17,N_Hak,Hakase,0000,0000,0000,,Chizuru-san…
+Dialogue: 0,0:04:28.17,0:04:32.62,N_Nab,Chizuru,0000,0000,0000,,Oh yeah! Natsumi was also manipulated! Let’s hear it from her!
+Dialogue: 0,0:04:32.62,0:04:34.93,N_Hak,Hakase,0000,0000,0000,,Err, it’s not that important.
+Dialogue: 0,0:04:34.93,0:04:36.92,N_Lin,Lingshen,0000,0000,0000,,Yeah. Not that important.
+Dialogue: 0,0:04:37.12,0:04:38.74,N_Chi,Chisame,0000,0000,0000,,I don’t think that’s the case.
+Dialogue: 0,0:04:38.74,0:04:41.19,N_Nab,Chizuru,0000,0000,0000,,Ara, is that right? Hmm…
+Dialogue: 0,0:04:41.19,0:04:45.18,N_Nab,Chizuru,0000,0000,0000,,Aha, that’s right, if that’s the case, then I’m stupid!
+Dialogue: 0,0:04:49.23,0:04:50.56,N_Sat,Satsuki,0000,0000,0000,,Ah, you got mail.
+Dialogue: 0,0:04:51.14,0:04:52.27,N_Nat,Natsumi,0000,0000,0000,,It’s Chizu-nee!
+Dialogue: 0,0:04:54.27,0:04:55.84,N_Nat,Natsumi,0000,0000,0000,,Ehhhh!?
+Dialogue: 0,0:04:56.71,0:04:58.40,N_Sat,Satsuki,0000,0000,0000,,That’s quite cold of her…
+Dialogue: 0,0:05:00.10,0:05:02.57,N_Nek,Nekane,0000,0000,0000,,Hey, Misora-chan, this pose is…
+Dialogue: 0,0:05:02.78,0:05:03.94,N_Mis,Misora,0000,0000,0000,,Do not speak.
+Dialogue: 0,0:05:05.32,0:05:06.70,N_Nek,Nekane,0000,0000,0000,,Misora-chan, um…
+Dialogue: 0,0:05:06.95,0:05:08.07,N_Mis,Misora,0000,0000,0000,,Do not speak.
+Dialogue: 0,0:05:09.65,0:05:10.45,N_Nek,Nekane,0000,0000,0000,,Misora…
+Dialogue: 0,0:05:10.45,0:05:11.58,N_Mis,Misora,0000,0000,0000,,Don’t!
+Dialogue: 0,0:05:11.58,0:05:12.98,N_Mak,Makie,0000,0000,0000,,Huh!? No!?
+Dialogue: 0,0:05:12.98,0:05:14.01,N_Mak,Makie,0000,0000,0000,,I’m not good!?
+Dialogue: 0,0:05:14.01,0:05:15.25,N_Mak,Makie,0000,0000,0000,,I’m a failure!?
+Dialogue: 0,0:05:15.25,0:05:16.90,N_Aya,Ayaka,0000,0000,0000,,YES! You ARE a failure.
+Dialogue: 0,0:05:16.90,0:05:19.33,N_Aya,Ayaka,0000,0000,0000,,You, Sasaki Makie, fails at life!
+Dialogue: 0,0:05:20.50,0:05:22.96,N_Mis,Misora,0000,0000,0000,,You don’t have to force it into here you know…
+Dialogue: 0,0:05:22.96,0:05:25.23,N_Aya,Ayaka,0000,0000,0000,,Doing things halfway makes you feel bad doesn’t it?
+Dialogue: 0,0:05:25.23,0:05:27.54,N_Mak,Makie,0000,0000,0000,,Sasaki Makie fails!
+Dialogue: 0,0:05:28.61,0:05:31.13,N_Aya,Ayaka,0000,0000,0000,,Ah! Negi-sensei! Where are you going?
+Dialogue: 0,0:05:31.13,0:05:33.85,N_Neg,Negi,0000,0000,0000,,Ah! Class Rep! I’m just…
+Dialogue: 0,0:05:33.85,0:05:36.74,N_Kam,Chamo,0000,0000,0000,,Evangeline is sleeping with a headache.
+Dialogue: 0,0:05:36.74,0:05:37.97,N_Aya,Ayaka,0000,0000,0000,,Eva-san?
+Dialogue: 0,0:05:37.97,0:05:39.38,N_Neg,Negi,0000,0000,0000,,Don’t do that Chamo-kun!
+Dialogue: 0,0:05:39.38,0:05:42.59,N_Neg,Negi,0000,0000,0000,,We already promised Takamichi that we won’t tell anyone!
+Dialogue: 0,0:05:42.59,0:05:43.98,N_Kam,Chamo,0000,0000,0000,,Ah! I forgot!
+Dialogue: 0,0:05:43.98,0:05:46.29,N_Kam,Chamo,0000,0000,0000,,Hey Ane-san, please forget what I said just now.
+Dialogue: 0,0:05:46.29,0:05:47.99,N_Aya,Ayaka,0000,0000,0000,,You think I can just do that?
+Dialogue: 0,0:05:47.99,0:05:50.37,N_Nek,Nekane,0000,0000,0000,,Negi, are you going to see her?
+Dialogue: 0,0:05:50.37,0:05:51.58,N_Mis,Misora,0000,0000,0000,,Let’s go together!
+Dialogue: 0,0:05:51.58,0:05:53.13,N_Neg,Negi,0000,0000,0000,,Uh… okay!
+Dialogue: 0,0:05:53.13,0:05:55.60,N_Neg,Negi,0000,0000,0000,,See? You just made it a big deal.
+Dialogue: 0,0:05:55.60,0:05:56.50,N_Kam,Chamo,0000,0000,0000,,I’m sorry…
+Dialogue: 0,0:05:56.50,0:06:00.17,N_Nek,Nekane,0000,0000,0000,,Alright, let’s tell the others to come as well!
+Dialogue: 0,0:06:00.17,0:06:02.42,N_Mis,Misora,0000,0000,0000,,I wonder if it’s alright to let everyone else know…
+Dialogue: 0,0:06:02.69,0:06:04.63,N_Aya,Ayaka,0000,0000,0000,,Ah. That’s right…
+Dialogue: 0,0:06:04.63,0:06:07.38,N_Neg,Negi,0000,0000,0000,,I don’t think that would be a good idea…
+Dialogue: 0,0:06:07.38,0:06:09.13,N_Aya,Ayaka,0000,0000,0000,,Oh, I agree.
+Dialogue: 0,0:06:09.13,0:06:10.86,N_Aya,Ayaka,0000,0000,0000,,As expected of Negi-sensei.
+Dialogue: 0,0:06:10.86,0:06:13.06,N_Aya,Ayaka,0000,0000,0000,,We shouldn’t say things that may hurt people!
+Dialogue: 0,0:06:16.56,0:06:19.56,N_Mak,Makie,0000,0000,0000,,Sasaki Makie fails!
+Dialogue: 0,0:06:19.92,0:06:24.07,N_Cha,Chachamaru,0000,0000,0000,,Eva is just fine at the moment. It’s just the situation that we are in now.
+Dialogue: 0,0:06:25.03,0:06:26.38,N_Mis,Misora,0000,0000,0000,,“Just fine”?
+Dialogue: 0,0:06:26.38,0:06:28.64,N_Aya,Ayaka,0000,0000,0000,,What do you mean, Chachamaru-san?
+Dialogue: 0,0:06:28.64,0:06:31.69,N_Neg,Negi,0000,0000,0000,,Don’t tell me Eva-san’s condition has worsened?
+Dialogue: 0,0:06:31.69,0:06:34.37,N_Eva,Eva,0000,0000,0000,,No, my master is feeling very well.
+Dialogue: 0,0:06:35.20,0:06:36.62,N_Kam,Chamo,0000,0000,0000,,Then what’s up with the…
+Dialogue: 0,0:06:36.62,0:06:38.89,N_Cha,Chachamaru,0000,0000,0000,,Well, how should I put this…
+Dialogue: 0,0:06:51.04,0:06:53.97,N_Cha,Chachamaru,0000,0000,0000,,Well, the sleeping beauty grew up.
+Dialogue: 0,0:06:53.97,0:06:56.30,N_Nek,Nekane,0000,0000,0000,,Oh… She grew up…
+Dialogue: 0,0:06:56.30,0:06:57.65,N_Aya,Ayaka,0000,0000,0000,,That’s too much!
+Dialogue: 0,0:07:00.02,0:07:01.69,N_Kam,Chamo,0000,0000,0000,,Oh no she’s gonna blow!
+Dialogue: 0,0:07:06.86,0:07:09.57,N_Cha,Chachamaru,0000,0000,0000,,Ta{\fnArial}~{\r0}mayaa!
+Dialogue: 0,0:07:15.07,0:07:16.47,N_Mis,Misora,0000,0000,0000,,We’re saved…
+Dialogue: 0,0:07:16.47,0:07:18.19,N_Neg,Negi,0000,0000,0000,,Thanks, Oneechan.
+Dialogue: 0,0:07:18.19,0:07:19.81,N_Nek,Nekane,0000,0000,0000,,You’re welcome.
+Dialogue: 0,0:07:19.81,0:07:21.57,N_Aya,Ayaka,0000,0000,0000,,Even so…
+Dialogue: 0,0:07:23.24,0:07:25.23,N_Kam,Chamo,0000,0000,0000,,What the hell just happened!?
+Dialogue: 0,0:07:25.23,0:07:27.71,N_Neg,Negi,0000,0000,0000,,It’s the darkness, it must be the effects of the darkness…
+Dialogue: 0,0:07:31.51,0:07:33.85,N_Aya,Ayaka,0000,0000,0000,,Ah! She’s up and moving!
+Dialogue: 0,0:07:33.85,0:07:36.14,N_Nek,Nekane,0000,0000,0000,,I wonder where to?
+Dialogue: 0,0:07:41.73,0:07:44.40,N_Asu,Asuna,0000,0000,0000,,Wait up a minute!
+Dialogue: 0,0:07:45.90,0:07:48.45,N_FF,Fuuka,0000,0000,0000,,Are we really doing it?
+Dialogue: 0,0:07:48.45,0:07:50.58,N_FF,Fumika,0000,0000,0000,,It sounds embarrassing…
+Dialogue: 0,0:07:50.58,0:07:52.95,N_Asu,Asuna,0000,0000,0000,,It’s all good! Preparations OK!
+Dialogue: 0,0:07:53.19,0:07:55.09,N_Set,Setsuna,0000,0000,0000,,Should we run, Ojou-sama?
+Dialogue: 0,0:07:55.09,0:07:58.41,N_Kon,Konoka,0000,0000,0000,,We’ll get chased even if we run… I’m sure of it.
+Dialogue: 0,0:07:58.41,0:08:00.93,N_Asu,Asuna,0000,0000,0000,,Oh come on. Hurry up! Hurry up!
+Dialogue: 0,0:08:00.93,0:08:02.58,N_Kae,Kaede,0000,0000,0000,,She’s in high spirits isn’t she, de gozaru?
+Dialogue: 0,0:08:02.58,0:08:04.23,N_Kon,Konoka,0000,0000,0000,,We can’t do anything about it.
+Dialogue: 0,0:08:04.23,0:08:05.96,N_Kon,Konoka,0000,0000,0000,,Let’s go, everyone.
+Dialogue: 0,0:08:05.96,0:08:09.05,N_2,Everyone,0000,0000,0000,,Ahhh… Help us…
+Dialogue: 0,0:08:15.93,0:08:20.47,N_Asu,Asuna,0000,0000,0000,,The lush tea and whatever yada yada and the other stuff.
+Dialogue: 0,0:08:20.47,0:08:22.23,N_Kon,Konoka,0000,0000,0000,,How incoherent…
+Dialogue: 0,0:08:22.23,0:08:25.33,N_Asu,Asuna,0000,0000,0000,,I am The Black Rose Baron!
+Dialogue: 0,0:08:25.73,0:08:27.81,N_Kon,Konoka,0000,0000,0000,,Yes! Applause!
+Dialogue: 0,0:08:27.81,0:08:29.56,N_Asu,Asuna,0000,0000,0000,,Ah! Thank you, thank you…
+Dialogue: 0,0:08:29.56,0:08:30.65,N_Asu,Asuna,0000,0000,0000,,BLACK ROSE!
+Dialogue: 0,0:08:31.40,0:08:33.24,N_Neg,Negi,0000,0000,0000,,Everyone! There’s trouble!
+Dialogue: 0,0:08:34.79,0:08:35.99,N_Asu,Asuna (BRB),0000,0000,0000,,What is it?
+Dialogue: 0,0:08:35.99,0:08:38.42,N_Asu,Asuna (BRB),0000,0000,0000,,Is there a problem?
+Dialogue: 0,0:08:38.42,0:08:40.47,N_Neg,Negi,0000,0000,0000,,Err… um… well…
+Dialogue: 0,0:08:40.47,0:08:41.97,N_Asu,Asuna (BRB),0000,0000,0000,,Ah, Nekane-san!
+Dialogue: 0,0:08:41.97,0:08:42.79,N_Nek,Nekane,0000,0000,0000,,Yep!
+Dialogue: 0,0:08:42.79,0:08:43.54,N_Neg,Negi,0000,0000,0000,,This is…
+Dialogue: 0,0:08:43.76,0:08:44.92,N_Asu,Asuna,0000,0000,0000,,Black Rose!
+Dialogue: 0,0:08:44.92,0:08:46.33,N_Nek,Nekane,0000,0000,0000,,Black Rose!
+Dialogue: 0,0:08:46.33,0:08:48.89,N_Kam,Chamo,0000,0000,0000,,The Baron, when did another one come out!?
+Dialogue: 0,0:08:48.89,0:08:49.92,N_Neg,Negi,0000,0000,0000,,I don’t know…
+Dialogue: 0,0:08:49.92,0:08:52.34,N_Kon,Konoka,0000,0000,0000,,No, no, that’s not it, Negi-kun.
+Dialogue: 0,0:08:52.34,0:08:53.59,N_Kon,Konoka,0000,0000,0000,,This is a fake.
+Dialogue: 0,0:08:53.79,0:08:54.55,N_Neg,Negi,0000,0000,0000,,Fake?
+Dialogue: 0,0:08:55.05,0:08:56.09,N_Kon,Konoka,0000,0000,0000,,There!
+Dialogue: 0,0:08:56.54,0:08:57.80,N_Kam,Chamo,0000,0000,0000,,Ane-san!
+Dialogue: 0,0:08:57.80,0:09:01.51,N_Asu,Asuna,0000,0000,0000,,Owwh, don’t spoil it, Konoka!
+Dialogue: 0,0:09:01.51,0:09:04.11,N_Asu,Asuna,0000,0000,0000,,Don’t CALL ME A FAKE!
+Dialogue: 0,0:09:04.11,0:09:05.72,N_Kon,Konoka,0000,0000,0000,,But you’re still a fake…
+Dialogue: 0,0:09:05.72,0:09:07.43,N_Neg,Negi,0000,0000,0000,,Why are you dressed like this Asuna-san?
+Dialogue: 0,0:09:07.43,0:09:08.82,N_Set,Setsuna,0000,0000,0000,,Looks like she exchanged something for it.
+Dialogue: 0,0:09:08.82,0:09:09.65,N_Kam,Chamo,0000,0000,0000,,Exchanged?
+Dialogue: 0,0:09:09.65,0:09:11.58,N_FF,Fuuka,0000,0000,0000,,In exchange for a Chupa-Tee…
+Dialogue: 0,0:09:11.58,0:09:13.03,N_FF,Fumika,0000,0000,0000,,…she received the costume.
+Dialogue: 0,0:09:13.28,0:09:14.54,N_Neg,Negi,0000,0000,0000,,Chupa-Tee?
+Dialogue: 0,0:09:18.24,0:09:22.49,N_Kam,Chamo,0000,0000,0000,,Now that you say it, Nekane, you’ve been wearing that since the morning haven’t you?
+Dialogue: 0,0:09:22.49,0:09:24.58,N_Nek,Nekane,0000,0000,0000,,Huh? What’s wrong?
+Dialogue: 0,0:09:24.58,0:09:26.62,N_Neg,Negi,0000,0000,0000,,Uh… erm! Nothing!
+Dialogue: 0,0:09:26.82,0:09:30.88,N_Kae,Kaede,0000,0000,0000,,In any case, Negi-bouzu. What was the trouble you were about to tell us?
+Dialogue: 0,0:09:30.88,0:09:32.11,N_Neg,Negi,0000,0000,0000,,Oh! Right!
+Dialogue: 0,0:09:32.11,0:09:33.88,N_Kam,Chamo,0000,0000,0000,,Yeah! We are in a state of emergency!
+Dialogue: 0,0:09:33.88,0:09:35.84,N_2,Everyone,0000,0000,0000,,A state of emergency?
+Dialogue: 0,0:09:37.84,0:09:38.98,N_Set,Setsuna,0000,0000,0000,,This is…!?
+Dialogue: 0,0:09:39.43,0:09:39.97,N_Kae,Kaede,0000,0000,0000,,She…
+Dialogue: 0,0:09:40.68,0:09:41.39,N_Neg,Negi,0000,0000,0000,,…has come.
+Dialogue: 0,0:09:49.73,0:09:51.11,N_Kon,Konoka,0000,0000,0000,,It’s Eva-chan!
+Dialogue: 0,0:09:51.11,0:09:52.94,N_2,Fuuka&Fumika,0000,0000,0000,,Big!!
+Dialogue: 0,0:09:52.94,0:09:54.57,N_Neg,Negi,0000,0000,0000,,Everyone! Please run!
+Dialogue: 0,0:09:54.80,0:09:56.30,N_Asu,Asuna,0000,0000,0000,,You monster!
+Dialogue: 0,0:09:56.30,0:09:58.89,N_Asu,Asuna,0000,0000,0000,,Alright! From here on the Black Rose Baron will…
+Dialogue: 0,0:09:58.89,0:10:01.58,N_Neg,Negi,0000,0000,0000,,Asuna-san, please stop fooling around and get out of here!
+Dialogue: 0,0:10:01.58,0:10:02.78,N_Neg,Negi,0000,0000,0000,,It’s dangerous!
+Dialogue: 0,0:10:02.78,0:10:05.09,N_Asu,Asuna,0000,0000,0000,,I’m not fooling around. I’m serious!
+Dialogue: 0,0:10:05.09,0:10:06.54,N_Asu,Asuna,0000,0000,0000,,BLACK ROSE!
+Dialogue: 0,0:10:06.54,0:10:07.54,N_Nek,Nekane,0000,0000,0000,,Black Rose!
+Dialogue: 0,0:10:07.54,0:10:08.62,N_Kam,Chamo,0000,0000,0000,,Do you want to die!?
+Dialogue: 0,0:10:08.62,0:10:09.72,N_Neg,Negi,0000,0000,0000,,Come on, quickly!
+Dialogue: 0,0:10:09.72,0:10:12.92,N_Nek,Nekane,0000,0000,0000,,Huh? It’s okay if we don’t run.
+Dialogue: 0,0:10:13.43,0:10:16.05,N_Kam,Chamo,0000,0000,0000,,Nekane-san, what are you saying?
+Dialogue: 0,0:10:16.05,0:10:18.05,N_Nek,Nekane,0000,0000,0000,,Because it’s Eva-chan.
+Dialogue: 0,0:10:23.75,0:10:26.22,N_Set,Setsuna,0000,0000,0000,,All personnel! Take cover!!
+Dialogue: 0,0:10:29.31,0:10:31.32,N_Kam,Chamo,0000,0000,0000,,That was the right thing to do.
+Dialogue: 0,0:10:31.32,0:10:32.98,N_Neg,Negi,0000,0000,0000,,Asuna-san, get away, quick!
+Dialogue: 0,0:10:32.98,0:10:35.53,N_Asu,Asuna,0000,0000,0000,,I can’t let her pursue you!
+Dialogue: 0,0:10:46.62,0:10:49.12,N_Neg,Negi,0000,0000,0000,,Eva-san! It’s me! Negi!
+Dialogue: 0,0:10:49.12,0:10:49.78,N_Asu,Asuna,0000,0000,0000,,Negi?
+Dialogue: 0,0:10:49.78,0:10:51.15,N_Kam,Chamo,0000,0000,0000,,It’s dangerous, Aniki!
+Dialogue: 0,0:10:51.15,0:10:52.00,N_Neg,Negi,0000,0000,0000,,Eva-san!
+Dialogue: 0,0:11:00.39,0:11:01.38,N_Asu,Asuna,0000,0000,0000,,Negi!
+Dialogue: 0,0:11:01.63,0:11:02.39,N_Nek,Nekane,0000,0000,0000,,Negi!
+Dialogue: 0,0:11:02.39,0:11:03.67,N_Kam,Chamo,0000,0000,0000,,Aniki!
+Dialogue: 0,0:11:17.30,0:11:18.52,N_Neg,Negi,0000,0000,0000,,Asuna-san!
+Dialogue: 0,0:11:18.52,0:11:20.11,N_Asu,Asuna,0000,0000,0000,,R…run.
+Dialogue: 0,0:11:20.99,0:11:23.23,N_Asu,Asuna,0000,0000,0000,,She’s heavy so hurry up!
+Dialogue: 0,0:11:23.23,0:11:24.04,N_Neg,Negi,0000,0000,0000,,A…alright!
+Dialogue: 0,0:11:31.46,0:11:32.54,N_Kam,Chamo,0000,0000,0000,,Aniki!
+Dialogue: 0,0:11:32.54,0:11:34.03,N_Nek,Nekane,0000,0000,0000,,Are you alright?
+Dialogue: 0,0:11:36.25,0:11:38.83,N_Neg,Negi,0000,0000,0000,,Asuna-san! Thank you very much!
+Dialogue: 0,0:11:38.83,0:11:41.26,N_Asu,Asuna,0000,0000,0000,,What you gonna do if you get squished? Stupid Negi.
+Dialogue: 0,0:11:41.26,0:11:44.36,N_Neg,Negi,0000,0000,0000,,Waaaah! I’m so s…s…sorry!
+Dialogue: 0,0:11:46.93,0:11:48.74,N_Kam,Chamo,0000,0000,0000,,Can’t we do anything?
+Dialogue: 0,0:11:48.74,0:11:49.93,N_Neg,Negi,0000,0000,0000,,What can we do?
+Dialogue: 0,0:11:51.33,0:11:52.47,N_Neg,Negi,0000,0000,0000,,Chachamaru-san!
+Dialogue: 0,0:11:52.47,0:11:55.66,N_Cha,Chachamaru,0000,0000,0000,,How about we discuss this with Takahata-sensei?
+Dialogue: 0,0:11:55.66,0:11:56.77,N_Neg,Negi,0000,0000,0000,,That’s right.
+Dialogue: 0,0:11:57.98,0:11:59.98,N_Neg,Negi,0000,0000,0000,,Takamichi, we’ve got trouble!
+Dialogue: 0,0:12:01.57,0:12:02.82,N_Asu,Asuna,0000,0000,0000,,Takahata-sensei!
+Dialogue: 0,0:12:02.82,0:12:04.15,N_Cha,Chachamaru,0000,0000,0000,,Did something happen?
+Dialogue: 0,0:12:04.15,0:12:06.59,N_Tak,Takamichi,0000,0000,0000,,Ah? Yeah… nothing much…
+Dialogue: 0,0:12:06.59,0:12:07.74,N_Kam,Chamo,0000,0000,0000,,Ah! Don’t tell me…
+Dialogue: 0,0:12:07.74,0:12:09.70,N_Neg,Negi,0000,0000,0000,,It’s the Ramen Delicacy just now?
+Dialogue: 0,0:12:09.70,0:12:12.45,N_Tak,Takamichi,0000,0000,0000,,Aah… It failed, Negi-kun.
+Dialogue: 0,0:12:12.45,0:12:14.79,N_Tak,Takamichi,0000,0000,0000,,I’m still a long way from success, hahaha…
+Dialogue: 0,0:12:14.79,0:12:16.00,N_Neg,Negi,0000,0000,0000,,Takamichi…
+Dialogue: 0,0:12:16.23,0:12:17.34,N_Nek,Nekane,0000,0000,0000,,I wonder…
+Dialogue: 0,0:12:20.51,0:12:21.67,N_Neg,Negi,0000,0000,0000,,Onee-chan!!
+Dialogue: 0,0:12:21.67,0:12:23.09,N_Kam,Chamo,0000,0000,0000,,What the hell are you doing!?
+Dialogue: 0,0:12:26.09,0:12:27.05,N_Neg,Negi,0000,0000,0000,,Instinct?
+Dialogue: 0,0:12:27.27,0:12:33.55,N_Tak,Takamichi,0000,0000,0000,,Yeah. I think that Eva probably didn’t intentionally come to school, but rather by instinct.
+Dialogue: 0,0:12:33.55,0:12:36.45,N_Asu,Asuna,0000,0000,0000,,Evangeline likes the school?
+Dialogue: 0,0:12:36.45,0:12:38.77,N_Kam,Chamo,0000,0000,0000,,Nah. She hates it no matter what.
+Dialogue: 0,0:12:39.02,0:12:43.90,N_Tak,Takamichi,0000,0000,0000,,It doesn’t matter if she likes it or not, but it’s probably better if her body is the thing in control right now.
+Dialogue: 0,0:12:43.90,0:12:48.13,N_Cha,Chachamaru,0000,0000,0000,,Master has been in the school for the past 15 years, that’s why.
+Dialogue: 0,0:12:48.13,0:12:49.17,N_Asu,Asuna,0000,0000,0000,,15 years…
+Dialogue: 0,0:12:49.17,0:12:50.74,N_Kam,Chamo,0000,0000,0000,,That’s long…
+Dialogue: 0,0:13:00.62,0:13:04.28,N_Pri,Narrator,0000,0000,0000,,The Evangeline A.K. McDowell who has just become a giant…
+Dialogue: 0,0:13:04.28,0:13:09.06,N_Pri,Narrator,0000,0000,0000,,Due to the many years of going to school instinctively returned to school again…
+Dialogue: 0,0:13:11.67,0:13:15.39,N_Pri,Narrator,0000,0000,0000,,And, began to sleep on the roof as if she did it all the time.
+Dialogue: 0,0:13:21.19,0:13:24.01,N_Say,Sayo,0000,0000,0000,,She looks like she’s sleeping comfortably.
+Dialogue: 0,0:13:24.01,0:13:25.04,N_Cha,Chachamaru,0000,0000,0000,,Looks like it.
+Dialogue: 0,0:13:25.04,0:13:26.40,N_Neg,Negi,0000,0000,0000,,Is that right…?
+Dialogue: 0,0:13:26.40,0:13:29.13,N_Asu,Asuna,0000,0000,0000,,Won’t she return to her normal form?
+Dialogue: 0,0:13:29.13,0:13:32.42,N_Kon,Konoka,0000,0000,0000,,It’s not like she did anything bad.
+Dialogue: 0,0:13:32.42,0:13:34.41,N_Set,Setsuna,0000,0000,0000,,She is sleeping after all…
+Dialogue: 0,0:13:35.47,0:13:36.79,N_Neg,Negi,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:13:36.79,0:13:38.63,N_Kuu,Kufei,0000,0000,0000,,Negi-bouzu! We have a problem-aru!
+Dialogue: 0,0:13:44.13,0:13:45.37,N_Set,Setsuna,0000,0000,0000,,The building is…
+Dialogue: 0,0:13:45.37,0:13:47.95,N_Nat,Natsumi,0000,0000,0000,,Eva-chan’s body is too heavy!
+Dialogue: 0,0:13:47.95,0:13:49.16,N_Neg,Negi,0000,0000,0000,,This is a problem…
+Dialogue: 0,0:13:49.16,0:13:51.88,N_Asu,Asuna,0000,0000,0000,,I don’t think it would be a problem the school disappears.
+Dialogue: 0,0:13:51.88,0:13:52.78,N_Set,Setsuna,0000,0000,0000,,Hey, hey…
+Dialogue: 0,0:13:52.78,0:13:55.53,N_Kon,Konoka,0000,0000,0000,,I think it’s okay to let it collapse.
+Dialogue: 0,0:13:55.53,0:13:56.95,N_Set,Setsuna,0000,0000,0000,,Are you sure it’s alright, Ojou-sama!?
+Dialogue: 0,0:13:56.95,0:13:59.65,N_Kon,Konoka,0000,0000,0000,,If you think about it, won’t that make this place dangerous, too?
+Dialogue: 0,0:13:59.65,0:14:00.90,N_Sat,Satsuki,0000,0000,0000,,Oh that’s true.
+Dialogue: 0,0:14:00.90,0:14:03.05,N_Kuu,Kufei,0000,0000,0000,,If it collapses, we’ll be affected too-aru!
+Dialogue: 0,0:14:03.05,0:14:05.08,N_Nat,Natsumi,0000,0000,0000,,Everything will be broken together with it!
+Dialogue: 0,0:14:05.08,0:14:08.29,N_Asu,Asuna,0000,0000,0000,,Eeh!? If this place collapses that would be troublesome!
+Dialogue: 0,0:14:08.29,0:14:09.35,N_Kon,Konoka,0000,0000,0000,,Negi-kun…
+Dialogue: 0,0:14:09.35,0:14:11.57,N_Neg,Negi,0000,0000,0000,,Everyone, please get together!
+Dialogue: 0,0:14:17.07,0:14:19.04,N_Neg,Negi,0000,0000,0000,,This has become a problem.
+Dialogue: 0,0:14:19.04,0:14:20.90,N_Neg,Negi,0000,0000,0000,,Everyone, please give your opinions.
+Dialogue: 0,0:14:20.90,0:14:22.30,N_Kaz,Asakura,0000,0000,0000,,Yep, Negi-kun!
+Dialogue: 0,0:14:22.30,0:14:23.79,N_Neg,Negi,0000,0000,0000,,Yes, Asakura-san.
+Dialogue: 0,0:14:23.79,0:14:26.07,N_Kaz,Asakura,0000,0000,0000,,Can’t we do anything using magic?
+Dialogue: 0,0:14:26.07,0:14:28.39,N_Neg,Negi,0000,0000,0000,,Well, my magic is a little…
+Dialogue: 0,0:14:28.39,0:14:30.13,N_2,Cheerleaders,0000,0000,0000,,What about Takahata-sensei?
+Dialogue: 0,0:14:30.13,0:14:31.98,N_Asu,Asuna,0000,0000,0000,,He’s in bed because of a stomach ache.
+Dialogue: 0,0:14:31.98,0:14:34.28,N_2,Cheerleaders,0000,0000,0000,,Eh!? No way!
+Dialogue: 0,0:14:34.28,0:14:36.41,N_Kam,Chamo,0000,0000,0000,,Because of that silly World Delicacy Noodles…
+Dialogue: 0,0:14:36.41,0:14:38.06,N_2,Cheerleaders,0000,0000,0000,,World Delicacy Noodles?
+Dialogue: 0,0:14:38.29,0:14:40.13,N_Lin,Lingshen,0000,0000,0000,,Satsuki, what are those noodles?
+Dialogue: 0,0:14:40.13,0:14:41.99,N_Sat,Satsuki,0000,0000,0000,,I don’t know about that kind of noodle.
+Dialogue: 0,0:14:41.99,0:14:43.63,N_Aya,Ayaka,0000,0000,0000,,Anyway, what about Nekane-san?
+Dialogue: 0,0:14:43.63,0:14:45.56,N_Neg,Negi,0000,0000,0000,,I’m sorry, Oneechan is also…
+Dialogue: 0,0:14:45.56,0:14:48.20,N_Kam,Chamo,0000,0000,0000,,Also down from the World Delicacy Noodles.
+Dialogue: 0,0:14:48.20,0:14:50.57,N_2,Cheerleaders,0000,0000,0000,,World Delicacy Noodles you say!?
+Dialogue: 0,0:14:50.57,0:14:55.07,N_Aya,Ayaka,0000,0000,0000,,I see, that means we can’t do anything about Eva-san…
+Dialogue: 0,0:14:55.07,0:14:57.76,N_2,Cheerleaders,0000,0000,0000,,But, what about the World Delicacy Noodles!?
+Dialogue: 0,0:14:58.26,0:14:59.73,N_Neg,Negi,0000,0000,0000,,Yes, Mana-san?
+Dialogue: 0,0:14:59.73,0:15:01.08,N_Man,Mana,0000,0000,0000,,Removal by force.
+Dialogue: 0,0:15:03.10,0:15:05.55,N_Neg,Negi,0000,0000,0000,,A more peaceful idea, please.
+Dialogue: 0,0:15:05.55,0:15:09.76,N_Kam,Chamo,0000,0000,0000,,We might make her act violently! The school might collapse because of that!
+Dialogue: 0,0:15:09.76,0:15:12.64,N_2,Cheerleaders,0000,0000,0000,,But, what about the World Delicacy Noodles!?
+Dialogue: 0,0:15:14.21,0:15:18.93,N_Yuu,Yuuna,0000,0000,0000,,We can ask her to come down with a “GET DOWN HERE RIGHT NOW”.
+Dialogue: 0,0:15:18.93,0:15:21.51,N_Neg,Negi,0000,0000,0000,,I don’t think she’ll be able to hear you.
+Dialogue: 0,0:15:21.51,0:15:24.11,N_Kam,Chamo,0000,0000,0000,,Besides, that wasn’t a request. That sounded more like an order!
+Dialogue: 0,0:15:24.35,0:15:26.82,N_Aki,Akira,0000,0000,0000,,What about we find something she’s interested in?
+Dialogue: 0,0:15:26.82,0:15:28.41,N_Ako,Ako,0000,0000,0000,,Ah! That might work!
+Dialogue: 0,0:15:28.41,0:15:30.63,N_Ako,Ako,0000,0000,0000,,Let’s call the sky devil!
+Dialogue: 0,0:15:30.63,0:15:32.91,N_Zaz,Zazie,0000,0000,0000,,You mean the sky rock.
+Dialogue: 0,0:15:32.91,0:15:34.37,N_Ako,Ako,0000,0000,0000,,That was what I said.
+Dialogue: 0,0:15:34.37,0:15:35.37,N_Aki,Akira,0000,0000,0000,,30 Points.
+Dialogue: 0,0:15:35.37,0:15:36.39,N_Yuu,Yuuna,0000,0000,0000,,15 Points.
+Dialogue: 0,0:15:36.39,0:15:38.95,N_Zaz,Zazie,0000,0000,0000,,No way, that was right.
+Dialogue: 0,0:15:41.86,0:15:43.18,N_Neg,Negi,0000,0000,0000,,Yes, Asuna-san?
+Dialogue: 0,0:15:43.18,0:15:48.14,N_Asu,Asuna,0000,0000,0000,,Since she’s already up there, why don’t we just hang her up?
+Dialogue: 0,0:15:48.14,0:15:50.23,N_Har,Haruna,0000,0000,0000,,How do you do that up there?
+Dialogue: 0,0:15:50.23,0:15:52.22,N_Asu,Asuna,0000,0000,0000,,From an empty spot I suppose.
+Dialogue: 0,0:15:52.22,0:15:53.47,N_Har,Haruna,0000,0000,0000,,You suppose?
+Dialogue: 0,0:15:53.47,0:15:54.83,N_Asu,Asuna,0000,0000,0000,,Anything will do I suppose.
+Dialogue: 0,0:15:54.83,0:15:56.76,N_Neg,Negi,0000,0000,0000,,Geez, Asuna-san…
+Dialogue: 0,0:15:56.76,0:15:59.13,N_Nab,Chizuru,0000,0000,0000,,Natsumi, it’s your turn.
+Dialogue: 0,0:15:59.13,0:16:00.11,N_Nat,Natsumi,0000,0000,0000,,What?
+Dialogue: 0,0:16:00.11,0:16:06.81,N_Nat,Natsumi,0000,0000,0000,,Your bravery, I will never forget it in my lifetime. Thank you, Natsumi! Farewell…
+Dialogue: 0,0:16:06.81,0:16:09.81,N_Nat,Natsumi,0000,0000,0000,,I won’t do, I definitely won’t do!
+Dialogue: 0,0:16:09.81,0:16:11.03,N_Yue,Yue,0000,0000,0000,,Negi-sensei
+Dialogue: 0,0:16:11.03,0:16:12.29,N_Neg,Negi,0000,0000,0000,,Yes, Yue-san.
+Dialogue: 0,0:16:12.29,0:16:14.94,N_Yue,Yue,0000,0000,0000,,I think Nodoka has something to say.
+Dialogue: 0,0:16:14.94,0:16:15.95,N_Neg,Negi,0000,0000,0000,,Ah, yes!
+Dialogue: 0,0:16:15.95,0:16:17.40,N_Neg,Negi,0000,0000,0000,,Nodoka-san, what is it?
+Dialogue: 0,0:16:17.40,0:16:18.48,N_Nod,Nodoka,0000,0000,0000,,Ah yes!
+Dialogue: 0,0:16:18.48,0:16:23.29,N_Nod,Nodoka,0000,0000,0000,,My encyclopaedias might have the answer to this problem… I think.
+Dialogue: 0,0:16:27.75,0:16:29.96,N_Neg,Negi,0000,0000,0000,,Partner, Miyazaki Nodoka…
+Dialogue: 0,0:16:30.19,0:16:33.33,N_Neg,Negi,0000,0000,0000,,Show me the power within you!
+Dialogue: 0,0:16:36.14,0:16:37.39,N_Neg,Negi,0000,0000,0000,,Contract,
+Dialogue: 0,0:16:39.54,0:16:40.79,N_Neg,Negi,0000,0000,0000,,activate!
+Dialogue: 0,0:16:57.14,0:17:00.33,N_FF,Shichimi,0000,0000,0000,,Splendid! It’s an armor-card-mya.
+Dialogue: 0,0:17:00.33,0:17:03.94,N_Set,Setsuna,0000,0000,0000,,I see! If we use Nodoka-san’s encyclopaedias…
+Dialogue: 0,0:17:03.94,0:17:05.83,N_Kon,Konoka,0000,0000,0000,,We might just be able to find a solution!
+Dialogue: 0,0:17:05.83,0:17:08.30,N_Neg,Negi,0000,0000,0000,,Let’s do it, Nodoka-san.
+Dialogue: 0,0:17:08.30,0:17:09.16,N_Nod,Nodoka,0000,0000,0000,,Alright!
+Dialogue: 0,0:17:09.16,0:17:13.84,N_Nod,Nodoka,0000,0000,0000,,…what should we do with a giant Evangeline-san…
+Dialogue: 0,0:17:13.84,0:17:16.68,N_Kam,Chamo,0000,0000,0000,,Isn’t that a bit vague?
+Dialogue: 0,0:17:16.68,0:17:18.30,N_Nod,Nodoka,0000,0000,0000,,Ah! I got it!
+Dialogue: 0,0:17:18.30,0:17:19.30,N_Kam,Chamo,0000,0000,0000,,Huh, really!?
+Dialogue: 0,0:17:19.30,0:17:20.76,N_Asu,Asuna,0000,0000,0000,,What should we do?
+Dialogue: 0,0:17:20.76,0:17:24.38,N_Nod,Nodoka,0000,0000,0000,,In the meantime, we let her sleep quietly.
+Dialogue: 0,0:17:26.10,0:17:27.73,N_Har,Haruna,0000,0000,0000,,That’s too bad.
+Dialogue: 0,0:17:27.73,0:17:29.86,N_Yue,Yue,0000,0000,0000,,Life ain’t that easy.
+Dialogue: 0,0:17:29.86,0:17:31.27,N_Neg,Negi,0000,0000,0000,,It’s no use, eh?
+Dialogue: 0,0:17:31.27,0:17:32.69,N_Hak,Hakase,0000,0000,0000,,Negi-sensei
+Dialogue: 0,0:17:32.69,0:17:34.61,N_Neg,Negi,0000,0000,0000,,Hakase, Chisame-san!
+Dialogue: 0,0:17:34.61,0:17:36.74,N_Hak,Hakase,0000,0000,0000,,There is a way!
+Dialogue: 0,0:17:42.33,0:17:44.04,N_Hak,Hakase,0000,0000,0000,,The Mechacabra version 2!
+Dialogue: 0,0:17:44.04,0:17:47.28,N_Hak,Hakase,0000,0000,0000,,Chiu-chiu-san has added some power ups to it!
+Dialogue: 0,0:17:47.28,0:17:49.00,N_Chi,Chisame,0000,0000,0000,,Don’t call me Chiu-chiu!
+Dialogue: 0,0:17:49.00,0:17:51.21,N_Neg,Negi,0000,0000,0000,,Why me again…
+Dialogue: 0,0:17:51.21,0:17:53.30,N_Kon,Konoka,0000,0000,0000,,Anyway, what is the power up?
+Dialogue: 0,0:17:53.30,0:17:55.32,N_Hak,Hakase,0000,0000,0000,,The spikes are a different colour!
+Dialogue: 0,0:17:55.32,0:17:56.59,N_Chi,Chisame,0000,0000,0000,,I painted them.
+Dialogue: 0,0:17:56.59,0:17:59.29,N_Har,Haruna,0000,0000,0000,,So that’s what they call cooperation…
+Dialogue: 0,0:17:59.29,0:18:03.68,N_Kam,Chamo,0000,0000,0000,,Anything goes. Anyway, hurry up, we’re counting on you Hakase onee-san!
+Dialogue: 0,0:18:03.68,0:18:05.06,N_Hak,Hakase,0000,0000,0000,,Leave it to us!
+Dialogue: 0,0:18:05.06,0:18:09.60,N_Neg,Negi,0000,0000,0000,,Anyway, Hakase-san, how… I mean what does this Mechacabra do?
+Dialogue: 0,0:18:09.60,0:18:10.86,N_Hak,Hakase,0000,0000,0000,,Stand by!
+Dialogue: 0,0:18:12.71,0:18:16.29,N_Neg,Negi,0000,0000,0000,,AAAAAAH! It’s moving again!
+Dialogue: 0,0:18:16.94,0:18:18.45,N_Hak,Hakase,0000,0000,0000,,Launch!
+Dialogue: 0,0:18:38.17,0:18:39.51,N_Hak,Hakase,0000,0000,0000,,It failed, huh.
+Dialogue: 0,0:18:40.43,0:18:43.05,N_Kon,Konoka,0000,0000,0000,,Actually, that’s all it can do…
+Dialogue: 0,0:18:46.24,0:18:49.17,N_Nod,Nodoka,0000,0000,0000,,Eeeh… Negi-sensei!
+Dialogue: 0,0:18:49.17,0:18:50.88,N_Asu,Asuna,0000,0000,0000,,Are you okay, Negi?
+Dialogue: 0,0:18:50.88,0:18:52.40,N_Neg,Negi,0000,0000,0000,,Yeah… somehow…
+Dialogue: 0,0:18:57.06,0:18:58.60,N_Set,Setsuna,0000,0000,0000,,It’s already at its limit!
+Dialogue: 0,0:18:58.60,0:19:00.35,N_Kam,Chamo,0000,0000,0000,,The walls are cracking up!
+Dialogue: 0,0:19:00.98,0:19:02.17,N_Neg,Negi,0000,0000,0000,,It’s useless...
+Dialogue: 0,0:19:04.87,0:19:06.16,N_Kon,Konoka,0000,0000,0000,,Is that a band?
+Dialogue: 0,0:19:11.50,0:19:12.96,N_Neg,Negi,0000,0000,0000,,Chachamaru-san?
+Dialogue: 0,0:19:12.96,0:19:15.50,N_FF,Shichimi,0000,0000,0000,,That song is waking her up-mya.
+Dialogue: 0,0:19:29.85,0:19:31.05,N_Asu,Asuna,0000,0000,0000,,Eva is…
+Dialogue: 0,0:19:31.05,0:19:33.50,N_Kon,Konoka,0000,0000,0000,,Climbing down from the building!
+Dialogue: 0,0:19:33.50,0:19:34.48,N_Kam,Chamo,0000,0000,0000,,Why?
+Dialogue: 0,0:19:40.78,0:19:41.89,N_Har,Haruna,0000,0000,0000,,Alright!
+Dialogue: 0,0:19:41.89,0:19:43.61,N_Set,Setsuna,0000,0000,0000,,The school is saved!
+Dialogue: 0,0:19:47.12,0:19:49.33,N_Yue,Yue,0000,0000,0000,,She’s following the sound.
+Dialogue: 0,0:19:49.33,0:19:51.33,N_Nek,Nekane,0000,0000,0000,,That sounds like the Pipe of Hamelin.
+Dialogue: 0,0:19:52.58,0:19:54.94,N_Neg,Negi,0000,0000,0000,,Onee-chan! Takamichi!
+Dialogue: 0,0:19:54.94,0:19:57.35,N_Tak,Takamichi,0000,0000,0000,,I guess we found a solution after all.
+Dialogue: 0,0:19:57.35,0:20:00.76,N_Kon,Konoka,0000,0000,0000,,Takahata-sensei, what do you mean by that?
+Dialogue: 0,0:20:01.30,0:20:03.04,N_Tak,Takamichi,0000,0000,0000,,The Heart of Japan.
+Dialogue: 0,0:20:03.38,0:20:08.86,N_Tak,Takamichi,0000,0000,0000,,In the 15 years Eva stayed in Mahora Academy, there was only one thing she liked.
+Dialogue: 0,0:20:09.18,0:20:12.81,N_Tak,Takamichi,0000,0000,0000,,That is the culture of the Japanese people.
+Dialogue: 0,0:20:12.81,0:20:14.05,N_Neg,Negi,0000,0000,0000,,Culture?
+Dialogue: 0,0:20:23.54,0:20:28.08,N_Tak,Takamichi,0000,0000,0000,,Inside Eva, she thinks the school is the Heart of Japan, that’s why she returned.
+Dialogue: 0,0:20:28.08,0:20:29.96,N_Kon,Konoka,0000,0000,0000,,The Heart of Japan?
+Dialogue: 0,0:20:29.96,0:20:31.17,N_Neg,Negi,0000,0000,0000,,Eva-san…
+Dialogue: 0,0:20:31.17,0:20:32.48,N_Set,Setsuna,0000,0000,0000,,Amazing…
+Dialogue: 0,0:20:32.48,0:20:35.01,N_Set,Setsuna,0000,0000,0000,,That was such a beautiful story!
+Dialogue: 0,0:20:35.01,0:20:35.88,N_Set,Setsuna,0000,0000,0000,,I’m moved!
+Dialogue: 0,0:20:47.62,0:20:51.55,N_Pri,Narrator,0000,0000,0000,,And so, the school was saved from collapse by a hair’s breadth…
+Dialogue: 0,0:20:51.55,0:20:57.15,N_Pri,Narrator,0000,0000,0000,,BUT, the magic world is beginning to change again. A storm is coming.
+Dialogue: 0,0:20:57.15,0:20:59.61,N_Pri,Narrator,0000,0000,0000,,Watch it in the next episode!
+Dialogue: 0,0:21:03.11,0:21:05.32,N_Eva,Eva,0000,0000,0000,,Did anything happen today?
+Dialogue: 0,0:21:05.32,0:21:07.13,N_Cha,Chachamaru,0000,0000,0000,,No, nothing much.
+Dialogue: 0,0:21:07.13,0:21:09.15,N_Eva,Eva,0000,0000,0000,,I feel tired somehow…
+Dialogue: 0,0:21:17.86,0:21:20.58,N_Mak,Makie,0000,0000,0000,,Sasaki Makie fails…
+Dialogue: 0,0:22:50.84,0:22:53.89,N_Tak,Takamichi,0000,0000,0000,,Now, we have picked out a Chamo!
+Dialogue: 0,0:22:53.89,0:22:55.21,N_Kam,Chamo,0000,0000,0000,,I’m an ermine.
+Dialogue: 0,0:22:55.21,0:22:56.30,N_Tak,Takamichi,0000,0000,0000,,Be quiet.
+Dialogue: 0,0:22:56.30,0:23:00.97,N_Tak,Takamichi,0000,0000,0000,,Next time, “Takamichi, the Silent Ramen Man” by Takahata
+Dialogue: 0,0:23:00.97,0:23:03.29,N_Kam,Chamo,0000,0000,0000,,“What the hell is that!?” By Chamo.
+Dialogue: 0,0:23:03.29,0:23:04.98,N_Tak,Takamichi,0000,0000,0000,,Now we put it into the hat…
+Dialogue: 0,0:23:09.07,0:23:10.52,N_Tak,Takamichi,0000,0000,0000,,Ahhh! Wonderful!
+Dialogue: 0,0:23:10.52,0:23:12.75,N_Kam,Chamo,0000,0000,0000,,Chamo has just…
+Dialogue: 0,0:23:12.75,0:23:13.95,N_Kam,Chamo,0000,0000,0000,,…gone into a bowl of Ramen!
+Dialogue: 0,0:23:15.45,0:23:17.98,N_Nek,Nekane,0000,0000,0000,,Oh? Miss Ghost, eh?
+Dialogue: 0,0:23:17.98,0:23:19.67,N_Kaz,Asakura,0000,0000,0000,,Yeah! It’s amazing isn’t it?
+Dialogue: 0,0:23:21.14,0:23:23.17,N_Nek,Nekane,0000,0000,0000,,Do you explode?
+Dialogue: 0,0:23:23.17,0:23:25.46,N_Say,Sayo,0000,0000,0000,,Well, exploding is a bit…
+Dialogue: 0,0:23:25.46,0:23:27.46,N_Nek,Nekane,0000,0000,0000,,What about a big explosion?
+Dialogue: 0,0:23:32.40,0:23:33.49,N_Kaz,Asakura,0000,0000,0000,,Suicide bombing?

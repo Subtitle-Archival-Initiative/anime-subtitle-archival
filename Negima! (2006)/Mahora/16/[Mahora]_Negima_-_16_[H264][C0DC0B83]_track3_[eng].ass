@@ -1,0 +1,444 @@
+﻿[Script Info]
+Title: [Mahora] Negima!? - Episode 16
+ScriptType: v4.00+
+PlayResX: 704
+PlayResY: 400
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,132,100,0,0,1,2,2,2,11,11,8,0
+Style: N_Neg,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H006164A2,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Mak,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00D474E4,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Sak,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00398294,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Mad,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00544E66,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_FF,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H0091A4F3,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Kae,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H005B7873,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Nat,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H0078794E,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Nab,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H004F60A5,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Lin,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00625252,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Yue,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00936D83,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Nod,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00966C65,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Har,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H005B7664,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Yuu,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00376FA6,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Ako,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00B7ABB2,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Aki,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H002F4556,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Kas,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H0090A6B0,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Say,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00DFCEC6,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Set,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00424136,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Kon,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H004C585D,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Kam,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H000B1F1B,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Chi,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H005B81A5,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Hak,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00403B3D,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Man,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00090E09,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Cha,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H009BCD7A,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Pri,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H0085A7B1,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Any,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H008A90D8,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Sat,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00686492,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_2,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H000708FF,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Tak,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H0086A090,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Nek,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H0085B9C9,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Eva,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H005D7875,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Mis,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H009465AD,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Asu,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H005992F9,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Kaz,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H005E51D8,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Kuu,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H0074B5C1,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Aya,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H003F96A9,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Zaz,OldTypefaces,30,&H00FFFFFF,&H0000FFFF,&H00C9CACE,&H00000000,0,0,0,0,132,100,0,0,1,1.5,0,2,11,11,8,0
+Style: N_Spells,Pristina,42,&H00FFFFFF,&H0000FFFF,&H00A95309,&H00000000,0,0,0,0,132,100,0,0,1,2,1,2,11,11,8,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.27,0:00:04.95,N_2,Ayaka & Asuna,0000,0000,0000,,{\i1}Ready, and...
+Dialogue: 0,0:00:22.36,0:00:24.42,N_Neg,Ayaka's alarm clock,0000,0000,0000,,{\i1\fnBaar Sophia}Iinchou-san, it's morning.
+Dialogue: 0,0:00:25.37,0:00:27.15,N_Neg,Ayaka's alarm clock,0000,0000,0000,,{\i1\fnBaar Sophia}Good morning, Iinchou-san!
+Dialogue: 0,0:00:27.51,0:00:29.13,N_Neg,Ayaka's alarm clock,0000,0000,0000,,{\i1\fnBaar Sophia}Let's work hard today!
+Dialogue: 0,0:00:30.22,0:00:32.15,N_Aya,Ayaka,0000,0000,0000,,Good morning, Negi-sensei.
+Dialogue: 0,0:00:34.95,0:00:38.41,N_Aya,Ayaka,0000,0000,0000,,Ah... It's a good morning indeed.
+Dialogue: 0,0:00:38.41,0:00:40.13,N_Aya,Ayaka,0000,0000,0000,,Good morning, little birdie.
+Dialogue: 0,0:00:43.67,0:00:44.81,N_Aya,Ayaka,0000,0000,0000,,Little birdie?
+Dialogue: 0,0:00:45.73,0:00:49.83,N_Pri,Narrator,0000,0000,0000,,Yes. This is the Mahora Academy Town ruined by magic.
+Dialogue: 0,0:00:50.41,0:00:56.51,N_Pri,Narrator,0000,0000,0000,,The one that Negi and Class 3-A were transported to by some unknown force.
+Dialogue: 0,0:00:56.51,0:01:00.24,N_Pri,Narrator,0000,0000,0000,,It looks similar to the ordinary world, but something is different;
+Dialogue: 0,0:01:00.24,0:01:02.30,N_Pri,Narrator,0000,0000,0000,,It's a magic world!
+Dialogue: 0,0:01:03.89,0:01:06.20,N_Har,,0000,0000,0000,,{\pos(317,392)}Hu
+Dialogue: 0,0:01:04.84,0:01:06.20,N_Pri,,0000,0000,0000,,{\pos(364,392)}stle!
+Dialogue: 0,0:01:07.35,0:01:09.21,N_Pri,Narrator,0000,0000,0000,,The enemy's target is Negi!
+Dialogue: 0,0:01:09.21,0:01:13.67,N_Pri,Narrator,0000,0000,0000,,Really. Are his pupils able to make it back safely to their own world?
+Dialogue: 0,0:01:14.09,0:01:15.99,N_Har,Motsu,0000,0000,0000,,{\pos(317,392)}Hu
+Dialogue: 0,0:01:15.12,0:01:15.99,N_Pri,Narrator,0000,0000,0000,,{\pos(364,392)}stle!
+Dialogue: 0,0:02:46.79,0:02:49.77,N_Mis,Misa,0000,0000,0000,,"Yesterday's Enemy is Today's Friend", by Misa.
+Dialogue: 0,0:02:49.77,0:02:52.75,N_Mad,Madoka,0000,0000,0000,,"They're so Friendly, They Quarrel", by Madoka.
+Dialogue: 0,0:02:52.75,0:02:55.70,N_Sak,Sakurako,0000,0000,0000,,"Disagreeing is also Part of Love", by Sakurako!
+Dialogue: 0,0:02:55.84,0:02:58.85,N_Spells,Negi,0000,0000,0000,,{\fad(100,100)\pos(180,392)}Ras
+Dialogue: 0,0:02:56.14,0:02:58.85,N_Spells,,0000,0000,0000,,{\fad(100,100)\pos(234,392)}tel
+Dialogue: 0,0:02:56.73,0:02:58.85,N_Spells,,0000,0000,0000,,{\fad(100,100)\pos(292,392)}Ma
+Dialogue: 0,0:02:57.04,0:02:58.85,N_Spells,,0000,0000,0000,,{\fad(100,100)\pos(359,392)}Scir
+Dialogue: 0,0:02:57.73,0:02:58.85,N_Spells,,0000,0000,0000,,{\fad(100,100)\pos(460,392)}Magister
+Dialogue: 0,0:02:59.18,0:03:02.05,N_Spells,Negi,0000,0000,0000,,{\fad(100,100)\pos(163,392)}Binders of light,
+Dialogue: 0,0:03:00.27,0:03:02.05,N_Spells,,0000,0000,0000,,{\fad(100,100)\pos(469,392)}the exchangers of the oath…
+Dialogue: 0,0:03:03.67,0:03:05.77,N_Kam,Chamo,0000,0000,0000,,What are you doing, Aniki?
+Dialogue: 0,0:03:05.77,0:03:09.01,N_Neg,Negi,0000,0000,0000,,I'm thinking of memorising everyone's artifacts.
+Dialogue: 0,0:03:09.01,0:03:11.73,N_Neg,Negi,0000,0000,0000,,In this situation, if we only search for the appropriate artifact when something happens,
+Dialogue: 0,0:03:11.73,0:03:14.10,N_Neg,,0000,0000,0000,,then the situation would be difficult to manage.
+Dialogue: 0,0:03:14.32,0:03:15.74,N_Kam,Chamo,0000,0000,0000,,As expected from you, Aniki!
+Dialogue: 0,0:03:15.74,0:03:17.93,N_Kam,Chamo,0000,0000,0000,,You're getting closer to becoming a Magister Magi!
+Dialogue: 0,0:03:18.27,0:03:19.73,N_Neg,Negi,0000,0000,0000,,That would be great...
+Dialogue: 0,0:03:19.85,0:03:22.01,N_Neg,Negi,0000,0000,0000,,Alright, the next one is...
+Dialogue: 0,0:03:24.70,0:03:26.24,N_Set,Setsuna,0000,0000,0000,,As a result of yesterday's investigation,
+Dialogue: 0,0:03:26.24,0:03:29.42,N_Set,Setsuna,0000,0000,0000,,we now understand that the school and it's surroundings are not dangerous so far.
+Dialogue: 0,0:03:29.73,0:03:32.14,N_Say,Sayo,0000,0000,0000,,The problem is the outside world isn't it?
+Dialogue: 0,0:03:32.29,0:03:34.05,N_FF,Fuuka,0000,0000,0000,,Hey, Hey! Where's Asuna?
+Dialogue: 0,0:03:34.36,0:03:36.58,N_Kuu,Kufei,0000,0000,0000,,Oh? Now that you say it, she isn't here, aru.
+Dialogue: 0,0:03:36.95,0:03:39.61,N_Kae,Kaede,0000,0000,0000,,That's right. I think it's quieter without her around, de gozaru.
+Dialogue: 0,0:03:39.76,0:03:40.94,N_FF,Fuuka & Fumika,0000,0000,0000,,Sabotage?
+Dialogue: 0,0:03:41.40,0:03:43.87,N_Kuu,Kufei,0000,0000,0000,,You should say "Sabotenger", aru!
+Dialogue: 0,0:03:44.12,0:03:45.41,N_FF,Fuuka&Fumika,0000,0000,0000,,That's not what we wanted to say!
+Dialogue: 0,0:03:46.34,0:03:49.89,N_Kon,Konoka,0000,0000,0000,,Nah, I don't think Asuna would do that.
+Dialogue: 0,0:03:49.89,0:03:51.93,N_Say,Sayo,0000,0000,0000,,Is she still resting?
+Dialogue: 0,0:03:51.93,0:03:54.31,N_Say,Sayo,0000,0000,0000,,Yeah, it's been a long day for her.
+Dialogue: 0,0:03:54.58,0:03:58.60,N_Kaz,Asakura,0000,0000,0000,,Even though we were transported to a magic world, she doesn't feel anxious.
+Dialogue: 0,0:03:58.60,0:04:00.39,N_Kon,Konoka,0000,0000,0000,,Well, that's Asuna for you.
+Dialogue: 0,0:04:00.63,0:04:04.40,N_Zaz,Zazie,0000,0000,0000,,Anxiousness? If you want to cook rice, then use Binchotan.
+Dialogue: 0,0:04:04.77,0:04:06.22,N_Man,Mana,0000,0000,0000,,That's impossible to grade...
+Dialogue: 0,0:04:06.22,0:04:09.47,N_Kae,Kaede,0000,0000,0000,,No, really the stuff at Bincho is really nice to eat, de gozaru.
+Dialogue: 0,0:04:09.80,0:04:11.90,N_Zaz,Zazie,0000,0000,0000,,No, that's not what I meant.
+Dialogue: 0,0:04:12.21,0:04:14.37,N_Man,Mana,0000,0000,0000,,Kaede, minus 5 points.
+Dialogue: 0,0:04:18.14,0:04:20.43,N_Asu,Asuna,0000,0000,0000,,Survival Group, lunch please.
+Dialogue: 0,0:04:20.86,0:04:21.97,N_Mis,Misa,0000,0000,0000,,Oh, Asuna.
+Dialogue: 0,0:04:22.40,0:04:24.19,N_Mad,Madoka,0000,0000,0000,,You came here too late.
+Dialogue: 0,0:04:24.19,0:04:25.46,N_Sak,Sakurako,0000,0000,0000,,Just bear it 'till noon, okay?
+Dialogue: 0,0:04:26.88,0:04:29.29,N_Asu,Asuna,0000,0000,0000,,I can't stand it already.
+Dialogue: 0,0:04:35.28,0:04:36.73,N_Asu,Asuna,0000,0000,0000,,Nasty!
+Dialogue: 0,0:04:36.73,0:04:38.33,N_2,Cheerleaders,0000,0000,0000,,That's because it's raw.
+Dialogue: 0,0:04:38.33,0:04:39.72,N_Asu,Asuna,0000,0000,0000,,I’ll die!
+Dialogue: 0,0:04:39.72,0:04:41.17,N_2,Cheerleaders,0000,0000,0000,,Act yourself, hurt yourself.
+Dialogue: 0,0:04:43.46,0:04:44.38,N_Sat,Satsuki,0000,0000,0000,,Here ya go.
+Dialogue: 0,0:04:46.36,0:04:48.00,N_Sat,Satsuki,0000,0000,0000,,There's one left that we made.
+Dialogue: 0,0:04:48.65,0:04:51.89,N_Sat,Satsuki,0000,0000,0000,,Everyone ate the rest of it, so there aren't anymore left.
+Dialogue: 0,0:04:53.25,0:04:55.96,N_Asu,Asuna,0000,0000,0000,,Sacchan is a person like a wild chrysanthemum!
+Dialogue: 0,0:04:56.61,0:04:58.62,N_Sat,Satsuki,0000,0000,0000,,I don't quite understand that, but...
+Dialogue: 0,0:04:59.64,0:05:01.71,N_Asu,Asuna,0000,0000,0000,,Eh... Sacchan, that is...
+Dialogue: 0,0:05:02.08,0:05:03.40,N_Sat,Satsuki,0000,0000,0000,,Ah! This apron?
+Dialogue: 0,0:05:03.40,0:05:05.07,N_Sat,Satsuki,0000,0000,0000,,Iinchou gave it to us.
+Dialogue: 0,0:05:05.07,0:05:06.65,N_Asu,Asuna,0000,0000,0000,,Iinchou did?
+Dialogue: 0,0:05:06.65,0:05:08.31,N_2,Cheerleaders,0000,0000,0000,,Our Negi Aprons!
+Dialogue: 0,0:05:08.62,0:05:10.44,N_Asu,Asuna,0000,0000,0000,,Ugh, that Iinchou.
+Dialogue: 0,0:05:10.44,0:05:13.35,N_Asu,Asuna,0000,0000,0000,,Expanding her influence when I'm not around!
+Dialogue: 0,0:05:13.72,0:05:16.56,N_Asu,Asuna,0000,0000,0000,,Hey, everyone! Please wear the Chupa Tee, too!
+Dialogue: 0,0:05:16.92,0:05:18.16,N_2,,0000,0000,0000,,Are you giving it to us?
+Dialogue: 0,0:05:18.16,0:05:20.94,N_Asu,Asuna,0000,0000,0000,,Order one extra now and get a discount!
+Dialogue: 0,0:05:20.94,0:05:22.55,N_2,Cheerleaders,0000,0000,0000,,I don't want to buy it.
+Dialogue: 0,0:05:22.55,0:05:25.57,N_Asu,Asuna,0000,0000,0000,,I'm not a rich person like Iinchou is.
+Dialogue: 0,0:05:25.54,0:05:27.12,N_Asu,Asuna,0000,0000,0000,,Please buy it...
+Dialogue: 0,0:05:27.12,0:05:28.13,N_2,Cheerleaders,0000,0000,0000,,No!
+Dialogue: 0,0:05:28.13,0:05:29.59,N_Asu,Asuna,0000,0000,0000,,Cheapo!
+Dialogue: 0,0:05:30.14,0:05:30.45,N_Asu,Asuna,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:31.04,0:05:31.81,N_Asu,Asuna,0000,0000,0000,,It's gone!!
+Dialogue: 0,0:05:34.03,0:05:35.39,N_Asu,Asuna,0000,0000,0000,,Motsu!
+Dialogue: 0,0:05:37.30,0:05:38.97,N_Har,Motsu,0000,0000,0000,,Thank you for your kindness.
+Dialogue: 0,0:05:39.53,0:05:41.07,N_Sat,,0000,0000,0000,,You are most tolerant.
+Dialogue: 0,0:05:41.47,0:05:43.94,N_Asu,Asuna,0000,0000,0000,,My rice ball was...
+Dialogue: 0,0:05:47.03,0:05:48.14,N_2,Cheerleaders,0000,0000,0000,,Asuna!
+Dialogue: 0,0:05:48.94,0:05:50.12,N_Set,Setsuna,0000,0000,0000,,Ah, she’s here.
+Dialogue: 0,0:05:50.12,0:05:52.74,N_Kon,Konoka,0000,0000,0000,,We found Asuna! What's she doing?
+Dialogue: 0,0:05:53.30,0:05:55.55,N_Har,Motsu,0000,0000,0000,,Sleeping on the floor is not really mannerly.
+Dialogue: 0,0:05:56.66,0:05:58.36,N_Asu,Asuna,0000,0000,0000,,I’ll kill you someday.
+Dialogue: 0,0:06:01.70,0:06:03.52,N_Har,Haruna,0000,0000,0000,,Argh, my shoulders are stiff.
+Dialogue: 0,0:06:03.89,0:06:08.70,N_Yue,Yue,0000,0000,0000,,The relationship between magic and its effects are hard to understand.
+Dialogue: 0,0:00:00.00,0:00:00.00,N_Yue,Yue,0000,0000,0000,,We aren't getting anywhere...
+Dialogue: 0,0:06:09.14,0:06:11.58,N_Nod,Nodoka,0000,0000,0000,,I'm really tired...
+Dialogue: 0,0:06:12.56,0:06:15.96,N_Mak,Makie,0000,0000,0000,,But hey, if we can understand these fairy shards,
+Dialogue: 0,0:06:15.96,0:06:18.92,N_Mak,Makie,0000,0000,0000,,we might just be able to get out of this world!
+Dialogue: 0,0:06:19.20,0:06:20.07,N_Mak,Makie,0000,0000,0000,,So, let's work hard!
+Dialogue: 0,0:06:20.07,0:06:21.52,N_Har,Haruna,0000,0000,0000,,She's an optimist, huh?
+Dialogue: 0,0:06:21.52,0:06:23.62,N_Yue,Yue,0000,0000,0000,,However, her existence is pesimistic.
+Dialogue: 0,0:06:23.62,0:06:24.98,N_Mak,Makie,0000,0000,0000,,Eh? What did you say?
+Dialogue: 0,0:06:24.98,0:06:26.67,N_Yue,Yue,0000,0000,0000,,E-Err um, nothing!
+Dialogue: 0,0:06:27.04,0:06:28.74,N_Har,Haruna,0000,0000,0000,,Don't say things like that!
+Dialogue: 0,0:06:28.74,0:06:30.35,N_Yue,Yue,0000,0000,0000,,Sorry for troubling.
+Dialogue: 0,0:06:30.90,0:06:34.11,N_Aya,Ayaka,0000,0000,0000,,My, these knickerbockers are cool!
+Dialogue: 0,0:06:34.11,0:06:34.73,N_2,Everyone,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:35.23,0:06:37.23,N_Har,Haruna,0000,0000,0000,,Owh... Iinchou...
+Dialogue: 0,0:06:37.73,0:06:39.86,N_Yue,Yue,0000,0000,0000,,Do things seriously, please.
+Dialogue: 0,0:06:39.86,0:06:42.27,N_Aya,Ayaka,0000,0000,0000,,It’s just breathtaking, breathtaking…
+Dialogue: 0,0:06:42.61,0:06:44.95,N_Mak,Makie,0000,0000,0000,,Iinchou, what are knickerbockers?
+Dialogue: 0,0:06:44.95,0:06:46.03,N_Aya,Ayaka,0000,0000,0000,,They're these.
+Dialogue: 0,0:06:46.50,0:06:49.24,N_Aya,Ayaka,0000,0000,0000,,Don't you think they’d look good on, Negi-sensei?
+Dialogue: 0,0:06:51.62,0:06:52.70,N_Nod,Nodoka,0000,0000,0000,,They do look good!
+Dialogue: 0,0:06:52.70,0:06:54.18,N_Aya,Ayaka,0000,0000,0000,,Don't they?
+Dialogue: 0,0:06:54.18,0:06:56.96,N_Aya,Ayaka,0000,0000,0000,,I'm gonna get it the moment we get back to the real world.
+Dialogue: 0,0:06:57.30,0:06:58.66,N_Har,Haruna,0000,0000,0000,,Not again...
+Dialogue: 0,0:06:59.25,0:07:01.28,N_Neg,Negi,0000,0000,0000,,Everyone, how is everything going?
+Dialogue: 0,0:07:01.28,0:07:02.92,N_Aya,Ayaka,0000,0000,0000,,Ah! Negi-sensei!
+Dialogue: 0,0:07:02.92,0:07:06.47,N_Aya,Ayaka,0000,0000,0000,,As you can see, everyone under my supervision are doing their best!
+Dialogue: 0,0:07:06.47,0:07:08.42,N_Har,Haruna,0000,0000,0000,,It's the same mouth that said it. The same mouth.
+Dialogue: 0,0:07:09.37,0:07:12.06,N_Aya,Ayaka,0000,0000,0000,,We are merely having some small talk. Please sit down if you wish.
+Dialogue: 0,0:07:12.32,0:07:15.24,N_Neg,Negi,0000,0000,0000,,Oh, but I have to go to the exploration group later.
+Dialogue: 0,0:07:15.24,0:07:17.78,N_Kam,Chamo,0000,0000,0000,,It's okay, Aniki. Just for a little while.
+Dialogue: 0,0:07:18.03,0:07:20.82,N_Aya,Ayaka,0000,0000,0000,,Please go ahead and sit down if you wish, Negi-sensei.
+Dialogue: 0,0:07:20.82,0:07:23.29,N_Neg,Negi,0000,0000,0000,,Alright then, I'll stay here for a while.
+Dialogue: 0,0:07:24.60,0:07:26.36,N_Asu,Asuna,0000,0000,0000,,Negi, what are you doing?
+Dialogue: 0,0:07:26.36,0:07:27.97,N_Asu,Asuna,0000,0000,0000,,You should be with the exploration group.
+Dialogue: 0,0:07:29.00,0:07:30.03,N_Neg,Negi,0000,0000,0000,,Ah, yes…
+Dialogue: 0,0:07:30.42,0:07:31.29,N_Aya,Ayaka,0000,0000,0000,,No.
+Dialogue: 0,0:07:32.65,0:07:37.47,N_Aya,Ayaka,0000,0000,0000,,Negi-sensei shall not go with the Exploration group. He is having tea time with us.
+Dialogue: 0,0:07:37.67,0:07:39.45,N_Asu,Asuna,0000,0000,0000,,Tea time?
+Dialogue: 0,0:07:39.45,0:07:40.45,N_Asu,Asuna,0000,0000,0000,,Really?
+Dialogue: 0,0:07:40.45,0:07:41.93,N_Neg,Negi,0000,0000,0000,,Erm... Well...
+Dialogue: 0,0:07:41.93,0:07:44.66,N_Asu,Asuna,0000,0000,0000,,Then come after you're done. C'mon, let's go.
+Dialogue: 0,0:07:44.96,0:07:45.80,N_Aya,Ayaka,0000,0000,0000,,He shall not.
+Dialogue: 0,0:07:46.16,0:07:48.72,N_Asu,Asuna,0000,0000,0000,,That’s not what you can decide, is it?
+Dialogue: 0,0:07:48.72,0:07:52.93,N_Aya,Ayaka,0000,0000,0000,,No. It's my decision. I'm the Iinchou of Class A.
+Dialogue: 0,0:07:53.43,0:07:56.50,N_Asu,Asuna,0000,0000,0000,,I don't understand what you are saying, don't disturb us.
+Dialogue: 0,0:07:56.75,0:07:58.61,N_Aya,Ayaka,0000,0000,0000,,Who is the one disturbing?
+Dialogue: 0,0:07:58.61,0:08:00.70,N_Aya,Ayaka,0000,0000,0000,,Negi-sensei is having tea with us.
+Dialogue: 0,0:08:00.98,0:08:03.52,N_Kam,Chamo,0000,0000,0000,,Hey, hey what are you girls fighting over?
+Dialogue: 0,0:08:03.52,0:08:06.08,N_Kam,Chamo,0000,0000,0000,,Isn’t it quicker to ask to the one in question?
+Dialogue: 0,0:08:06.08,0:08:06.72,N_2,Asuna & Ayaka,0000,0000,0000,,SHUT UP!
+Dialogue: 0,0:08:06.72,0:08:09.36,N_Kam,Chamo,0000,0000,0000,,AAAH! Sorry!
+Dialogue: 0,0:08:09.75,0:08:11.70,N_Asu,Asuna,0000,0000,0000,,Negi is going exploring!
+Dialogue: 0,0:08:11.70,0:08:13.93,N_Aya,Ayaka,0000,0000,0000,,Negi is having tea with us!
+Dialogue: 0,0:08:14.21,0:08:15.87,N_Har,Haruna,0000,0000,0000,,What are they doing, anyway?
+Dialogue: 0,0:08:16.24,0:08:16.83,N_Asu,Asuna,0000,0000,0000,,Exploring!
+Dialogue: 0,0:08:17.16,0:08:17.83,N_Aya,Ayaka,0000,0000,0000,,Tea!
+Dialogue: 0,0:08:20.31,0:08:21.76,N_Neg,Negi,0000,0000,0000,,Please stop!
+Dialogue: 0,0:08:21.76,0:08:22.60,N_Neg,Negi,0000,0000,0000,,Please!
+Dialogue: 0,0:08:22.60,0:08:24.60,N_Neg,Negi,0000,0000,0000,,Please stop, the two of you!
+Dialogue: 0,0:08:25.24,0:08:27.25,N_Nod,Nodoka,0000,0000,0000,,Watch out! Negi-sensei!
+Dialogue: 0,0:08:31.51,0:08:32.76,N_2,Everyone,0000,0000,0000,,Negi-sensei!
+Dialogue: 0,0:08:32.76,0:08:33.63,N_2,,0000,0000,0000,,Negi-sensei!
+Dialogue: 0,0:08:38.33,0:08:40.03,N_Ako,Ako,0000,0000,0000,,Right! That'll do!
+Dialogue: 0,0:08:40.81,0:08:42.76,N_Neg,Negi,0000,0000,0000,,Thank you very much, Ako-san
+Dialogue: 0,0:08:42.76,0:08:45.13,N_FF,Shichimi,0000,0000,0000,,Negi-chan is alright, mya?
+Dialogue: 0,0:08:45.13,0:08:47.05,N_Ako,Ako,0000,0000,0000,,Yep! Just a bump!
+Dialogue: 0,0:08:47.44,0:08:48.72,N_Nod,Nodoka,0000,0000,0000,,What a relief...
+Dialogue: 0,0:08:48.72,0:08:50.45,N_Neg,Negi,0000,0000,0000,,Sorry for worrying you guys.
+Dialogue: 0,0:08:50.81,0:08:56.33,N_Asu,Asuna,0000,0000,0000,,Sheesh. That happened because you came between me and the Iinchou!
+Dialogue: 0,0:08:56.33,0:08:57.00,N_Neg,Negi,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:08:57.00,0:08:59.67,N_Aya,Ayaka,0000,0000,0000,,Wha... What are you talking about Asuna-san!?
+Dialogue: 0,0:08:59.67,0:09:03.71,N_Aya,Ayaka,0000,0000,0000,,He was trying to stop the both of us from fighting!
+Dialogue: 0,0:09:04.24,0:09:06.49,N_Aya,Ayaka,0000,0000,0000,,You don't have to talk like that, do you?
+Dialogue: 0,0:09:06.49,0:09:08.14,N_Asu,Asuna,0000,0000,0000,,Then, how SHOULD I talk!?
+Dialogue: 0,0:09:08.14,0:09:09.86,N_Kam,Chamo,0000,0000,0000,,Hey, hey, Ane-sans!
+Dialogue: 0,0:09:09.86,0:09:11.79,N_Har,Haruna,0000,0000,0000,,Yeah. Why don't you guys just chill?
+Dialogue: 0,0:09:11.79,0:09:12.57,N_Yue,Yue,0000,0000,0000,,Desu.
+Dialogue: 0,0:09:13.26,0:09:18.22,N_Kam,Chamo,0000,0000,0000,,Oh yeah, Aniki. Won't you be alright after a simple injection?
+Dialogue: 0,0:09:18.22,0:09:19.72,N_Kam,Chamo,0000,0000,0000,,You won't feel tired after that!
+Dialogue: 0,0:09:19.98,0:09:23.09,N_Neg,Negi,0000,0000,0000,,Err... An injection? Err, I... Injections...
+Dialogue: 0,0:09:23.09,0:09:25.77,N_Ako,Ako,0000,0000,0000,,Ah! If you want, I have this!
+Dialogue: 0,0:09:27.08,0:09:27.97,N_Nod,Nodoka,0000,0000,0000,,It's... big!
+Dialogue: 0,0:09:28.55,0:09:29.67,N_Har,Haruna,0000,0000,0000,,Yeah, it's too big...
+Dialogue: 0,0:09:30.09,0:09:32.54,N_Asu,Asuna,0000,0000,0000,,Let's go for it! Try giving him a shot of that!
+Dialogue: 0,0:09:32.54,0:09:34.68,N_Neg,Negi,0000,0000,0000,,What are you saying Asuna-san!
+Dialogue: 0,0:09:34.68,0:09:37.41,N_Aya,Ayaka,0000,0000,0000,,That's not right! That syringe looks way too horrible!
+Dialogue: 0,0:09:37.77,0:09:39.33,N_Har,Haruna,0000,0000,0000,,Ako-san, what's inside it?
+Dialogue: 0,0:09:39.33,0:09:41.87,N_Ako,Ako,0000,0000,0000,,Nutrients, I think... Maybe...
+Dialogue: 0,0:09:41.87,0:09:42.62,N_Har,Haruna,0000,0000,0000,,Maybe, huh...
+Dialogue: 0,0:09:42.95,0:09:44.51,N_Asu,Asuna,0000,0000,0000,,Shoot it! Shoot it!
+Dialogue: 0,0:09:44.51,0:09:47.77,N_Ako,Ako,0000,0000,0000,,Alright! Just be a man while I shoot it!
+Dialogue: 0,0:09:47.77,0:09:49.33,N_Neg,Negi,0000,0000,0000,,Heeeeyyyyyyyyyyyyyyyyy!!
+Dialogue: 0,0:09:48.28,0:09:49.33,N_Asu,Asuna,0000,0000,0000,,Go! Ako!!
+Dialogue: 0,0:09:49.72,0:09:51.56,N_Ako,Ako,0000,0000,0000,,Alright, here goes!
+Dialogue: 0,0:09:53.37,0:09:54.60,N_Aya,Ayaka,0000,0000,0000,,Stop it this instant!
+Dialogue: 0,0:10:03.93,0:10:05.07,N_Neg,Negi,0000,0000,0000,,Chamo-kun!
+Dialogue: 0,0:10:07.24,0:10:09.39,N_Kam,Chamo,0000,0000,0000,,I am ermine Kaba-Kaba!
+Dialogue: 0,0:10:10.78,0:10:13.09,N_Kam,Chamo,0000,0000,0000,,Chamomile Albert is my fake appearance.
+Dialogue: 0,0:10:13.09,0:10:19.33,N_Kam,Chamo,0000,0000,0000,,And my real form is a super-robust, powerful superhero!!
+Dialogue: 0,0:10:24.88,0:10:26.60,N_FF,Shichimi,0000,0000,0000,,He's gone, mya.
+Dialogue: 0,0:10:26.60,0:10:29.50,N_Yue,Yue,0000,0000,0000,,Luckily, Negi-sensei wasn't the one who got shot.
+Dialogue: 0,0:10:30.59,0:10:31.25,N_Neg,Negi,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:31.25,0:10:32.12,N_Asu,Asuna,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:32.23,0:10:33.87,N_Aya,Ayaka,0000,0000,0000,,That's the last straw!
+Dialogue: 0,0:10:33.87,0:10:35.91,N_Aya,Ayaka,0000,0000,0000,,My patience has worn out completely!
+Dialogue: 0,0:10:35.91,0:10:39.33,N_Aya,Ayaka,0000,0000,0000,,Asuna-san, I hereby propose a duel!
+Dialogue: 0,0:10:41.59,0:10:42.17,N_Asu,Asuna,0000,0000,0000,,Why?
+Dialogue: 0,0:10:42.56,0:10:44.23,N_Aya,Ayaka,0000,0000,0000,,Don't say "Why?"!
+Dialogue: 0,0:10:44.23,0:10:47.91,N_Aya,Ayaka,0000,0000,0000,,You have exposed Negi-sensei to danger not once, but twice already!!
+Dialogue: 0,0:10:47.91,0:10:50.14,N_Har,Haruna,0000,0000,0000,,You were involved in one of them too, right?
+Dialogue: 0,0:10:50.50,0:10:51.39,N_Aya,Ayaka,0000,0000,0000,,This is unforgivable.
+Dialogue: 0,0:10:52.28,0:10:53.90,N_Aya,Ayaka,0000,0000,0000,,I challenge you to a duel!
+Dialogue: 0,0:10:54.21,0:10:57.66,N_Asu,Asuna,0000,0000,0000,,Hohoh. You're really getting into it now.
+Dialogue: 0,0:10:58.83,0:11:00.84,N_Neg,Negi,0000,0000,0000,,Asuna-san! Iinchou-san!
+Dialogue: 0,0:11:00.84,0:11:04.76,N_Pri,Narrator,0000,0000,0000,,Next! The battle for pride...
+Dialogue: 0,0:11:05.32,0:11:06.52,N_Pri,Narrator,0000,0000,0000,,...has begun.
+Dialogue: 0,0:11:09.41,0:11:11.98,N_Neg,Negi,0000,0000,0000,,W-What am I gonna do!?
+Dialogue: 0,0:11:20.47,0:11:21.73,N_Pri,Narrator,0000,0000,0000,,Meanwhile, in this place...
+Dialogue: 0,0:11:25.96,0:11:27.58,N_Eva,Eva,0000,0000,0000,,How is it, Chachamaru?
+Dialogue: 0,0:11:27.85,0:11:29.39,N_Tak,Takamichi,0000,0000,0000,,Anything unfamiliar?
+Dialogue: 0,0:11:29.91,0:11:31.39,N_Cha,Chachamaru,0000,0000,0000,,Nothing in particular.
+Dialogue: 0,0:11:31.86,0:11:35.04,N_Eva,Eva,0000,0000,0000,,Isn't there a hint to something that we can see?
+Dialogue: 0,0:11:35.04,0:11:37.91,N_Tak,Takamichi,0000,0000,0000,,As we thought, it looks like there’s no other way but to wait until a move.
+Dialogue: 0,0:11:39.19,0:11:41.06,N_Eva,Eva,0000,0000,0000,,Huh? What is it, Chachamaru?
+Dialogue: 0,0:11:41.31,0:11:42.64,N_Tak,Takamichi,0000,0000,0000,,Have you found something?
+Dialogue: 0,0:11:45.85,0:11:46.74,N_Eva,Eva,0000,0000,0000,,Chachamaru!
+Dialogue: 0,0:11:46.74,0:11:47.60,N_Tak,Takamichi,0000,0000,0000,,Is it the darkness?
+Dialogue: 0,0:11:52.92,0:11:54.54,N_Cha,Chachamaru,0000,0000,0000,,That was a dangerous place.
+Dialogue: 0,0:11:55.26,0:11:57.24,N_Eva,Eva,0000,0000,0000,,That kind fool.
+Dialogue: 0,0:12:03.09,0:12:05.07,N_Yuu,Yuuna,0000,0000,0000,,Go! Move it! Move it!
+Dialogue: 0,0:12:05.07,0:12:06.93,N_Yuu,Yuuna,0000,0000,0000,,Show them the German spirit!!
+Dialogue: 0,0:12:07.66,0:12:08.63,N_Kas,Misora,0000,0000,0000,,Yuuna!
+Dialogue: 0,0:12:08.63,0:12:10.41,N_Kas,Misora,0000,0000,0000,,Stop playing and help us!
+Dialogue: 0,0:12:10.41,0:12:12.25,N_Yuu,Yuuna,0000,0000,0000,,Ahah, sorry!
+Dialogue: 0,0:12:12.25,0:12:14.43,N_Yuu,Yuuna,0000,0000,0000,,This just looked like a really nice battlefield!
+Dialogue: 0,0:12:14.84,0:12:17.18,N_Aki,Akira,0000,0000,0000,,Anyway, this is interesting isn't it?
+Dialogue: 0,0:12:17.38,0:12:18.16,N_Kas,Misora,0000,0000,0000,,Yeah, that's true.
+Dialogue: 0,0:12:18.38,0:12:20.36,N_Kas,Misora,0000,0000,0000,,As expected of a magical world.
+Dialogue: 0,0:12:20.80,0:12:23.56,N_Kas,Misora,0000,0000,0000,,If it's this easy, it won't be troublesome at all.
+Dialogue: 0,0:12:23.56,0:12:25.48,N_Aki,Akira,0000,0000,0000,,Viva la Magic World.
+Dialogue: 0,0:12:25.82,0:12:29.33,N_Yuu,Yuuna,0000,0000,0000,,Whoa! A magic tree! Watch out!
+Dialogue: 0,0:12:30.00,0:12:30.97,N_Kas,Misora,0000,0000,0000,,Yuuna!
+Dialogue: 0,0:12:31.25,0:12:32.59,N_Yuu,Yuuna,0000,0000,0000,,Sorry... Really...
+Dialogue: 0,0:12:34.01,0:12:38.55,N_Hak,,0000,0000,0000,,This piece of fairy shard under analysis: There's nothing strange about it.
+Dialogue: 0,0:12:38.74,0:12:41.70,N_Hak,Hakase,0000,0000,0000,,Chisame-san, please record that there is nothing strange about it.
+Dialogue: 0,0:12:41.70,0:12:42.84,N_Chi,Chisame,0000,0000,0000,,Yeah, I hear you I hear you.
+Dialogue: 0,0:12:47.35,0:12:48.10,N_Chi,Chisame,0000,0000,0000,,What!?
+Dialogue: 0,0:12:48.38,0:12:51.53,N_Nab,Chizuru,0000,0000,0000,,"Hello Hello! Is everyone alright?"
+Dialogue: 0,0:12:52.08,0:12:53.73,N_Chi,Chisame,0000,0000,0000,,Don't read, you stupid!
+Dialogue: 0,0:12:53.84,0:12:56.37,N_Nab,Chizuru,0000,0000,0000,,Being a net idol is difficult, huh?
+Dialogue: 0,0:12:56.37,0:12:59.33,N_Chi,Chisame,0000,0000,0000,,NO! I AM NOT A NET IDOL!
+Dialogue: 0,0:12:59.33,0:13:03.03,N_Hak,Hakase,0000,0000,0000,,Coming this far, and yet she's still trying to fool us...
+Dialogue: 0,0:13:03.31,0:13:04.79,N_Lin,LingShen,0000,0000,0000,,Something about Chisame, I suppose.
+Dialogue: 0,0:13:05.20,0:13:06.26,N_Nab,Chizuru,0000,0000,0000,,"Da pyonn!..."
+Dialogue: 0,0:13:05.93,0:13:07.35,N_Chi,Chisame,0000,0000,0000,,DON'T READ IT!!
+Dialogue: 0,0:13:08.91,0:13:11.83,N_Pri,Narrator,0000,0000,0000,,We apologize for the wait. Now, for the showdown.
+Dialogue: 0,0:13:12.22,0:13:14.23,N_Kon,Konoka,0000,0000,0000,,This has gotten interesting eh?
+Dialogue: 0,0:13:14.23,0:13:16.51,N_Neg,Negi,0000,0000,0000,,This isn't interesting at all, Konoka-san.
+Dialogue: 0,0:13:16.51,0:13:18.94,N_Har,Haruna,0000,0000,0000,,The prize is Negi-kun!
+Dialogue: 0,0:13:18.94,0:13:20.25,N_Har,Haruna,0000,0000,0000,,How nice...
+Dialogue: 0,0:13:20.25,0:13:22.33,N_Neg,Negi,0000,0000,0000,,Stop it, Haruna-san!
+Dialogue: 0,0:13:23.03,0:13:24.34,N_2,Ayaka & Asuna,0000,0000,0000,,I'll definitely win!
+Dialogue: 0,0:13:24.92,0:13:27.32,N_Pri,Narrator,0000,0000,0000,,Breath-Holding Contest.
+Dialogue: 0,0:13:27.77,0:13:30.30,N_Mak,Makie,0000,0000,0000,,and... BEGIN!
+Dialogue: 0,0:13:31.55,0:13:33.34,N_Kon,Konoka,0000,0000,0000,,Go for it, Asuna!
+Dialogue: 0,0:13:33.64,0:13:35.31,N_Har,Haruna,0000,0000,0000,,Don't lose, Iinchou!!
+Dialogue: 0,0:13:36.46,0:13:39.77,N_Zaz,Zazie,0000,0000,0000,,Negima, Negime, Negime, Negime, Negima...
+Dialogue: 0,0:13:39.97,0:13:40.58,N_Zaz,Zazie,0000,0000,0000,,Negima!?
+Dialogue: 0,0:13:44.39,0:13:45.23,N_Pri,Narrator,0000,0000,0000,,Draw.
+Dialogue: 0,0:13:46.12,0:13:48.24,N_Pri,Narrator,0000,0000,0000,,Clothes Peg Contest.
+Dialogue: 0,0:13:52.95,0:13:55.54,N_Nod,Nodoka,0000,0000,0000,,I apologize! Please start!
+Dialogue: 0,0:13:59.77,0:14:00.94,N_Neg,Negi,0000,0000,0000,,This is troublesome...
+Dialogue: 0,0:14:01.53,0:14:06.59,N_Neg,Negi,0000,0000,0000,,Asuna-san and Iinchou-san, why can't they get along?
+Dialogue: 0,0:14:06.76,0:14:09.55,N_Kon,Konoka,0000,0000,0000,,Those two do get along, Negi-kun.
+Dialogue: 0,0:14:09.55,0:14:10.13,N_Neg,Negi,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:10.80,0:14:13.22,N_Kon,Konoka,0000,0000,0000,,They were like that ever since primary school.
+Dialogue: 0,0:14:13.81,0:14:15.06,N_Aya,Ayaka,0000,0000,0000,,{\i1}What did you say!?
+Dialogue: 0,0:14:15.42,0:14:16.34,N_Asu,Asuna,0000,0000,0000,,{\i1}What?
+Dialogue: 0,0:14:16.76,0:14:18.46,N_Aya,Ayaka,0000,0000,0000,,{\i1}That is unforgivable!
+Dialogue: 0,0:14:18.46,0:14:20.27,N_Asu,Asuna,0000,0000,0000,,{\i1}Shut up!
+Dialogue: 0,0:14:32.81,0:14:34.50,N_Pri,Narrator,0000,0000,0000,,Draw due to injury.
+Dialogue: 0,0:14:37.93,0:14:39.77,N_Man,Baron,0000,0000,0000,,So, shouldn't we stop?
+Dialogue: 0,0:14:40.21,0:14:43.25,N_Har,Motsu,0000,0000,0000,,Really, no other choice other than to stop, huh?
+Dialogue: 0,0:14:43.50,0:14:45.17,N_FF,Shichimi,0000,0000,0000,,There's nothing we can do, mya.
+Dialogue: 0,0:14:46.43,0:14:51.38,N_Har,Motsu,0000,0000,0000,,I've finally gotten past the third round, but the son-in-law's nursery had a disaster.
+Dialogue: 0,0:14:51.63,0:14:53.50,N_FF,Shichimi,0000,0000,0000,,That's too bad, myuu.
+Dialogue: 0,0:14:53.50,0:14:55.40,N_Man,Baron,0000,0000,0000,,Son-in-law? Oy.
+Dialogue: 0,0:14:57.68,0:14:59.52,N_Neg,Negi,0000,0000,0000,,Come on, stop it already...
+Dialogue: 0,0:14:59.52,0:15:00.91,N_Asu,Asuna,0000,0000,0000,,This time, I will not lose!
+Dialogue: 0,0:15:01.41,0:15:02.53,N_Aya,Ayaka,0000,0000,0000,,Me too!
+Dialogue: 0,0:15:02.53,0:15:04.34,N_Aya,Ayaka,0000,0000,0000,,Alright. What's the next fight?
+Dialogue: 0,0:15:12.86,0:15:14.00,N_Asu,Asuna,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:15:14.28,0:15:16.76,N_Aya,Ayaka,0000,0000,0000,,No! Nothing's wrong.
+Dialogue: 0,0:15:16.76,0:15:19.49,N_Asu,Asuna,0000,0000,0000,,Haha... Feeling scared already?
+Dialogue: 0,0:15:19.49,0:15:20.63,N_Aya,Ayaka,0000,0000,0000,,Like hell I am!
+Dialogue: 0,0:15:24.25,0:15:26.59,N_Pri,Narrator,0000,0000,0000,,Terror-Bearing Contest.
+Dialogue: 0,0:15:27.37,0:15:29.96,N_Asu,Asuna,0000,0000,0000,,The first to run loses. Alright?
+Dialogue: 0,0:15:29.96,0:15:31.08,N_Aya,Ayaka,0000,0000,0000,,I will not lose!
+Dialogue: 0,0:15:31.63,0:15:33.86,N_Neg,Negi,0000,0000,0000,,Hey, can you guys please stop now?
+Dialogue: 0,0:15:33.86,0:15:35.95,N_Har,Haruna,0000,0000,0000,,This is expected of our class.
+Dialogue: 0,0:15:35.95,0:15:38.29,N_Nod,Nodoka,0000,0000,0000,,I think we are overdoing it...
+Dialogue: 0,0:15:38.54,0:15:40.27,N_Kon,Konoka,0000,0000,0000,,Perhaps it's too dangerous?
+Dialogue: 0,0:15:40.60,0:15:43.65,N_Set,Setsuna,0000,0000,0000,,I don't understand what kind of creature this is, but...
+Dialogue: 0,0:15:44.14,0:15:45.81,N_Yue,Yue,0000,0000,0000,,Is it a carnivore?
+Dialogue: 0,0:15:45.81,0:15:46.42,N_Mak,Makie,0000,0000,0000,,Dunno.
+Dialogue: 0,0:15:46.84,0:15:49.27,N_Neg,Negi,0000,0000,0000,,Asuna-san! Iinchou-san!
+Dialogue: 0,0:15:49.29,0:15:51.27,N_Asu,Asuna,0000,0000,0000,,Stop whining and start the contest now Negi!
+Dialogue: 0,0:15:51.60,0:15:53.89,N_Aya,Ayaka,0000,0000,0000,,There's no need to think too much about this, Negi-sensei.
+Dialogue: 0,0:15:53.89,0:15:55.42,N_Neg,,0000,0000,0000,,B-But...!
+Dialogue: 0,0:15:55.42,0:15:56.34,N_Asu,Asuna,0000,0000,0000,,Negi!
+Dialogue: 0,0:15:55.42,0:15:56.34,N_Aya,Ayaka,0000,0000,0000,,Negi-sensei!
+Dialogue: 0,0:15:56.62,0:15:58.01,N_Neg,Negi,0000,0000,0000,,Uh... err okay...
+Dialogue: 0,0:15:58.01,0:15:58.74,N_Neg,Negi,0000,0000,0000,,Argh...
+Dialogue: 0,0:16:01.99,0:16:04.97,N_Asu,Asuna,0000,0000,0000,,He... here it comes! Run! Quick!
+Dialogue: 0,0:16:05.45,0:16:06.73,N_Aya,Ayaka,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:16:06.73,0:16:10.55,N_Aya,Ayaka,0000,0000,0000,,You are the one who should run! It'll really enjoy it's meal if you don't!
+Dialogue: 0,0:16:10.94,0:16:12.44,N_Asu,Asuna,0000,0000,0000,,No! I won't run!
+Dialogue: 0,0:16:12.44,0:16:13.28,N_Aya,Ayaka,0000,0000,0000,,Me neither!
+Dialogue: 0,0:16:17.87,0:16:19.26,N_Asu,Asuna,0000,0000,0000,,B-But...
+Dialogue: 0,0:16:19.26,0:16:20.27,N_Aya,Ayaka,0000,0000,0000,,I'll... grin and bear it...
+Dialogue: 0,0:16:21.77,0:16:23.94,N_2,Ayaka & Asuna,0000,0000,0000,,It's impossible!!
+Dialogue: 0,0:16:24.81,0:16:26.70,N_Neg,Negi,0000,0000,0000,,Asuna-san! Iinchou!
+Dialogue: 0,0:16:27.09,0:16:29.49,N_Kon,Konoka,0000,0000,0000,,Oh well... I guess it was impossible after all.
+Dialogue: 0,0:16:29.49,0:16:30.88,N_Har,Haruna,0000,0000,0000,,It's good you guys are still alive.
+Dialogue: 0,0:16:31.27,0:16:32.52,N_Asu,Asuna,0000,0000,0000,,You...
+Dialogue: 0,0:16:32.52,0:16:34.89,N_Aya,Ayaka,0000,0000,0000,,I'll definitely win the next round!
+Dialogue: 0,0:16:34.89,0:16:36.51,N_Yue,Yue,0000,0000,0000,,You guys still want to fight?
+Dialogue: 0,0:16:36.51,0:16:37.37,N_Neg,Negi,0000,0000,0000,,Come on...
+Dialogue: 0,0:16:38.43,0:16:39.65,N_Nod,Nodoka,0000,0000,0000,,Huh? Everyone!
+Dialogue: 0,0:16:42.80,0:16:43.69,N_Neg,Negi,0000,0000,0000,,The darkness!?
+Dialogue: 0,0:16:47.65,0:16:49.04,N_Asu,Asuna,0000,0000,0000,,Negi! I'll do the fighting!
+Dialogue: 0,0:16:49.40,0:16:51.30,N_Asu,Asuna,0000,0000,0000,,Bring everyone to a safe place while I'm at it!
+Dialogue: 0,0:16:51.63,0:16:52.47,N_Neg,Negi,0000,0000,0000,,Alright!
+Dialogue: 0,0:16:53.02,0:16:55.25,N_Neg,Negi,0000,0000,0000,,Partner, Kagurazaka Asuna.
+Dialogue: 0,0:16:55.25,0:16:58.26,N_Neg,Negi,0000,0000,0000,,Show me the power within you!
+Dialogue: 0,0:17:02.97,0:17:05.33,N_Neg,Negi,0000,0000,0000,,Contract, Activate!
+Dialogue: 0,0:17:14.94,0:17:16.11,N_Kon,Konoka,0000,0000,0000,,It's a Cosplay card!
+Dialogue: 0,0:17:24.41,0:17:26.17,N_Neg,Negi,0000,0000,0000,,Everyone! Now!
+Dialogue: 0,0:17:30.12,0:17:31.24,N_Neg,Negi,0000,0000,0000,,Asuna-san!
+Dialogue: 0,0:17:32.55,0:17:34.28,N_Set,Setsuna,0000,0000,0000,,Apparently the Cosplay card isn't enough.
+Dialogue: 0,0:17:44.86,0:17:46.48,N_Aya,Negi,0000,0000,0000,,Asuna-san! I'm coming to save you!
+Dialogue: 0,0:17:46.48,0:17:47.92,N_Aya,Ayaka,0000,0000,0000,,Negi-sensei!
+Dialogue: 0,0:17:47.92,0:17:48.82,N_Neg,Negi,0000,0000,0000,,Iinchou-san!
+Dialogue: 0,0:17:51.32,0:17:53.02,N_Aya,Ayaka,0000,0000,0000,,Please let me go instead!
+Dialogue: 0,0:17:54.22,0:17:55.58,N_Aya,Ayaka,0000,0000,0000,,Please, transform me!
+Dialogue: 0,0:17:57.62,0:17:58.62,N_Neg,Negi,0000,0000,0000,,Alright!
+Dialogue: 0,0:17:59.26,0:18:01.46,N_Neg,Negi,0000,0000,0000,,Partner, Yukihiro Ayaka.
+Dialogue: 0,0:18:01.46,0:18:04.02,N_Neg,Negi,0000,0000,0000,,Show me the power within you!
+Dialogue: 0,0:18:21.21,0:18:22.94,N_Neg,Negi,0000,0000,0000,,Contract, Activate!
+Dialogue: 0,0:18:35.89,0:18:37.03,N_Kon,Konoka,0000,0000,0000,,It's an Armor card!
+Dialogue: 0,0:18:38.14,0:18:38.81,N_Aya,Ayaka,0000,0000,0000,,Asuna-san!
+Dialogue: 0,0:18:39.06,0:18:40.65,N_Asu,Asuna,0000,0000,0000,,Iin... chou...
+Dialogue: 0,0:18:52.18,0:18:52.96,N_Aya,Ayaka,0000,0000,0000,,I'm coming now!
+Dialogue: 0,0:19:03.16,0:19:04.22,N_Aya,Ayaka,0000,0000,0000,,Asuna-san!
+Dialogue: 0,0:19:19.37,0:19:21.93,N_Spells,Negi,0000,0000,0000,,{\fad(100,100)\pos(275,392)}Tel
+Dialogue: 0,0:19:20.29,0:19:21.93,N_Spells,,0000,0000,0000,,{\fad(100,100)\pos(337,392)}Ma
+Dialogue: 0,0:19:20.68,0:19:21.93,N_Spells,,0000,0000,0000,,{\fad(100,100)\pos(428,392)}Amoris!
+Dialogue: 0,0:19:31.71,0:19:33.66,N_Aya,Ayaka,0000,0000,0000,,{\i1}I found a round one!
+Dialogue: 0,0:19:35.33,0:19:36.33,N_Aya,Ayaka,0000,0000,0000,,{\i1}Aww...
+Dialogue: 0,0:19:36.86,0:19:38.73,N_Asu,Asuna,0000,0000,0000,,{\i1}Silly...
+Dialogue: 0,0:19:39.95,0:19:41.76,N_Asu,Asuna,0000,0000,0000,,{\i1}Try and be a bit more gentle!
+Dialogue: 0,0:19:42.46,0:19:43.94,N_Aya,Ayaka,0000,0000,0000,,{\i1}Shut up!
+Dialogue: 0,0:19:46.36,0:19:47.39,N_Asu,Asuna,0000,0000,0000,,{\i1}Here you go.
+Dialogue: 0,0:19:48.56,0:19:50.12,N_Aya,Ayaka,0000,0000,0000,,{\i1}Isn't that yours?
+Dialogue: 0,0:19:50.12,0:19:51.46,N_Asu,Asuna,0000,0000,0000,,{\i1}Just take it...
+Dialogue: 0,0:19:55.02,0:19:57.11,N_Aya,Ayaka,0000,0000,0000,,{\i1}Alright, let's just do it together.
+Dialogue: 0,0:19:58.73,0:19:59.84,N_Asu,Asuna,0000,0000,0000,,{\i1}Alright.
+Dialogue: 0,0:20:02.71,0:20:03.94,N_2,Ayaka and Asuna,0000,0000,0000,,{\i1}Ready, and...
+Dialogue: 0,0:20:20.09,0:20:21.62,N_Asu,Asuna,0000,0000,0000,,Thanks, Iinchou.
+Dialogue: 0,0:20:21.79,0:20:23.43,N_Aya,Ayaka,0000,0000,0000,,We gotta be a bit more gentle right?
+Dialogue: 0,0:20:27.42,0:20:28.67,N_Asu,Asuna,0000,0000,0000,,Iinchou...
+Dialogue: 0,0:20:41.01,0:20:42.82,N_Kon,Konoka,0000,0000,0000,,See? They get along, right?
+Dialogue: 0,0:20:43.35,0:20:44.46,N_Neg,Negi,0000,0000,0000,,Yes.
+Dialogue: 0,0:20:45.10,0:20:47.53,N_Pri,Narrator,0000,0000,0000,,Even though he is lost in a magical world filled with dangers,
+Dialogue: 0,0:20:47.53,0:20:51.62,N_Pri,Narrator,0000,0000,0000,,Negi now feels tranquility in the wilderness.
+Dialogue: 0,0:20:51.62,0:20:54.85,N_Pri,Narrator,0000,0000,0000,,With a novel heart, Hehe...
+Dialogue: 0,0:20:54.85,0:20:56.50,N_Pri,Narrator,0000,0000,0000,,Wait until the next time.
+Dialogue: 0,0:21:00.34,0:21:01.51,N_Nat,Natsumi,0000,0000,0000,,Ah! It's Chizu-nee!
+Dialogue: 0,0:21:05.33,0:21:06.27,N_Nat,Natsumi,0000,0000,0000,,What??
+Dialogue: 0,0:21:16.22,0:21:18.03,N_Kam,Chamo,0000,0000,0000,,Someone help me...
+Dialogue: 0,0:22:15.83,0:22:16.79,N_Aki,,0000,0000,0000,,{\an5\pos(352,345)}It's a secret!
+Dialogue: 0,0:22:48.55,0:22:51.28,N_Nab,Chizune,0000,0000,0000,,If you drink vinegar, blood circulation improves and,
+Dialogue: 0,0:22:51.28,0:22:54.57,N_Nab,Chizune,0000,0000,0000,,makes effect of beautiful skin!
+Dialogue: 0,0:22:54.57,0:22:59.78,N_Nab,Chizune,0000,0000,0000,,Next time is, "Natsumi, A family is the king of home runs in terms of relationships, after all."
+Dialogue: 0,0:23:00.06,0:23:01.17,N_Nab,,0000,0000,0000,,By Chizuru.
+Dialogue: 0,0:23:01.59,0:23:03.73,N_Nat,,0000,0000,0000,,"I really don't understand, Chizu-nee!"
+Dialogue: 0,0:23:03.93,0:23:05.24,N_Nat,,0000,0000,0000,,By Natsumi.
+Dialogue: 0,0:23:05.57,0:23:07.58,N_Nat,Natsumi,0000,0000,0000,,So, I have to drink this?
+Dialogue: 0,0:23:07.83,0:23:09.17,N_Nab,Chizuru,0000,0000,0000,,You can do it!
+Dialogue: 0,0:23:09.78,0:23:11.28,N_Nab,Chizuru,0000,0000,0000,,Believe in yourself!
+Dialogue: 0,0:23:11.28,0:23:13.90,N_Nat,Natsumi,0000,0000,0000,,I don't want to believe!
+Dialogue: 0,0:23:19.25,0:23:21.12,N_Kuu,Kufei,0000,0000,0000,,God, this is Kuu Fei-aru.
+Dialogue: 0,0:23:21.28,0:23:23.34,N_Pri,God,0000,0000,0000,,What's up?
+Dialogue: 0,0:23:23.54,0:23:24.79,N_Kuu,Kufei,0000,0000,0000,,I'm in a predicament...
+Dialogue: 0,0:23:24.79,0:23:28.02,N_Pri,God,0000,0000,0000,,Hmm? What predicament?
+Dialogue: 0,0:23:28.02,0:23:29.61,N_Kuu,Kufei,0000,0000,0000,,I have no worries!
+Dialogue: 0,0:23:29.61,0:23:30.98,N_Pri,God,0000,0000,0000,,Get outta here.
