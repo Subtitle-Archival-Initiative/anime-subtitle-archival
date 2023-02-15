@@ -3,7 +3,7 @@
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
 | Translation       | Aniplus                             |
-| Editing           | Duplex                              |
+| Editing           | duplex                              |
 | Translation Check | escro, Areki                        |
 | Typesetting       | Chickany                            |
 | Styling           | duplex (Dialogue), skiddiks (Songs) | 
