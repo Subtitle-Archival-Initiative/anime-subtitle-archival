@@ -3,7 +3,7 @@
 | Role            | Staff     |
 |-----------------|-----------|
 | Translation     | valerauko |
-| Editing         | ?         |
+| Editing         | irelia (Part A), fnord (Part B), Xythar (Part C) |
 | Typesetting     | Zwill     |
 | Timing          | Zwill     |
 | Encoding        | Sindalf   |
