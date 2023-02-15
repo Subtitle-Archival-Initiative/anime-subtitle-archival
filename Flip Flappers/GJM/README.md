@@ -20,4 +20,6 @@
 | Source       | BDRip      |
 | Resolution   | 1280x720   |
 
+### Notes
+
 BD version of the [WEB release](../GJM-DDY).
