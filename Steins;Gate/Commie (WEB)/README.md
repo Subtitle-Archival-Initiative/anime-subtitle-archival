@@ -1,10 +1,11 @@
 ## Staff
 
 | Role            | Staff                                                                    |
-|-----------------|--------------------------------------------------------------------------|
-| Translation     | ? |
-| Editing         | ? |
+|-----------------|-------------------------------|
+| Translation     | Crunchyroll, fnord (ED)       |
+| Editing         | Aethon (?)                    |
 | Typesetting     | ? |
+| Song Styling    | card\_phone (OP), fnord (ED?) |
 | Timing          | ? |
 | Encoding        | ? |
 
