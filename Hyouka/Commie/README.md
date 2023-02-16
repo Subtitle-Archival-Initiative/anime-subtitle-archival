@@ -6,7 +6,7 @@
 | Editing     | Xythar    |
 | Typesetting | herkz     |
 | Timing      | Konbu     |
-| Encoding    | ?         |
+| Encoding    | herkz     |
 
 ## Release Info
 

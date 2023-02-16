@@ -6,7 +6,7 @@
 | Editing         | Ephemere  |
 | Typesetting     | Ephemere  |
 | Timing          | skiddiks  |
-| Encoding        | ?         |
+| Encoding        | herkz     |
 | Quality Control | Fyurie    |
 
 ## Release Info
