@@ -1,18 +1,19 @@
 ## Staff
 
 | Role            | Staff                                                                    |
-|-----------------|--------------------------------------------------------------------------|
-| Translation     | ? |
-| Editing         | ? |
+|-----------------|-------------------------------|
+| Translation     | Crunchyroll, fnord (ED)       |
+| Editing         | Aethon (?)                    |
 | Typesetting     | ? |
+| Song Styling    | card\_phone (OP?), fnord (ED?) |
 | Timing          | ? |
 | Encoding        | ? |
 
 ## Release Info
 
-|              |          |
-|--------------|----------|
-| Status       | Complete |
-| Batch Status | -        |
-| Source       | BDRip    |
-| Resolution   | 1280x720 |
+|              |            |
+|--------------|------------|
+| Status       | Incomplete |
+| Batch Status | -          |
+| Source       | BDRip      |
+| Resolution   | 1280x720   |
