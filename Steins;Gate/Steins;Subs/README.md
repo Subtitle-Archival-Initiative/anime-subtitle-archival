@@ -2,7 +2,7 @@
 
 | Role            | Staff                                                                    |
 |-----------------|-------------|
-| Translation     | Crunchyroll |
+| Translation     | Crunchyroll, [UTW-Mazui](../UTW-Mazui) (Songs) |
 | Editing         | ? |
 | Typesetting     | ? |
 | Song Styling    | ? |
