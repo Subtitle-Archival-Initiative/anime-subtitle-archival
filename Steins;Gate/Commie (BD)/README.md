@@ -2,7 +2,7 @@
 
 | Role              | Staff            |
 |-------------------|------------------|
-| Translation       | Arnawion (S01)   |
+| Translation       | Arnavion (S01)   |
 | Editing           | brainchild (S01) |
 | Translation Check | valerauko (S01)  |
 | Typesetting       | herkz (S01)      |
