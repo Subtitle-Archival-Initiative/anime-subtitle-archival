@@ -5,7 +5,7 @@
 | Translation     | Crunchyroll, fnord (ED)       |
 | Editing         | Aethon (?)                    |
 | Typesetting     | ? |
-| Song Styling    | card\_phone (OP), fnord (ED?) |
+| Song Styling    | cardslash02 (OP), fnord (ED?) |
 | Timing          | ? |
 | Encoding        | ? |
 
