@@ -7,6 +7,7 @@
 | Typesetting     | motbob          |
 | Timing          | motbob          |
 | Encoding        | via Scum's Raws |
+| Quality Control | motbob          |
 
 ## Release Info
 
