@@ -7,7 +7,7 @@
 | Translation Check | valerauko (S01)  |
 | Typesetting       | herkz (S01)      |
 | Timing            | herkz (S01)      |
-| Encoding          | herkz(S01?)      |
+| Encoding          | herkz (S01?)     |
 
 ## Release Info
 
