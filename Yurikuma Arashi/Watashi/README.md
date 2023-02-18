@@ -2,7 +2,7 @@
 
 | Role              | Staff                   |
 |-------------------|-------------------------|
-| Translation       | shark0weed0             |
+| Translation       | shark0week0             |
 | Editing           | -                       | 
 | Translation Check | convexity               |
 | Typesetting       | conkerer, Chhotu\_uttam |
