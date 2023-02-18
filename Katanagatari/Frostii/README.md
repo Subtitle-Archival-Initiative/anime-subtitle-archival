@@ -1,12 +1,13 @@
 ## Staff
 
-| Role        | Staff                     |
-|-------------|---------------------------|
-| Translation | Sylf                      |
-| Editing     | Collectr (?), Ayanami (?) |
-| Typesetting | ?                         |
-| Timing      | ?                         |
-| Encoding    | ?                         |
+| Role            | Staff                                               |
+|-----------------|-----------------------------------------------------|
+| Translation     | Sylf                                                |
+| Editing         | Ayanami                                             |
+| Typesetting     | goof (?)                                            |
+| Timing          | Isako (?), LGDArmo (?)                              |
+| Encoding        | Skr (?)                                             |
+| Quality Control | Robo210 (?), Rosti (?), euronymous (?), tlynnec (?) |
 
 ## Release Info
 
