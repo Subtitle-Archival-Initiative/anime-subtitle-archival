@@ -8,7 +8,7 @@
 | Typesetting       | KmE                          |
 | Song Styling      | cardslash02                  |
 | Timing            | archdeco, KmE                |
-| Encoding          | Yuyu, Eiwn                   |
+| Encoding          | Yuyu, Eien                   |
 | Quality Control   | duplex                       |
 
 ## Release Info
