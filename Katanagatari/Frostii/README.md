@@ -1,12 +1,12 @@
 ## Staff
 
-| Role        | Staff |
-|-------------|-------|
-| Translation | ?     |
-| Editing     | ?     |
-| Typesetting | ?     |
-| Timing      | ?     |
-| Encoding    | ?     |
+| Role        | Staff                     |
+|-------------|---------------------------|
+| Translation | Sylf                      |
+| Editing     | Collectr (?), Ayanami (?) |
+| Typesetting | ?                         |
+| Timing      | ?                         |
+| Encoding    | ?                         |
 
 ## Release Info
 
