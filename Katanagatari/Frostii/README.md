@@ -3,7 +3,7 @@
 | Role            | Staff                                               |
 |-----------------|-----------------------------------------------------|
 | Translation     | Sylf                                                |
-| Editing         | Ayanami                                             |
+| Editing         | Collectr                                             |
 | Typesetting     | goof (?)                                            |
 | Timing          | Isako (?), LGDArmo (?)                              |
 | Encoding        | Skr (?)                                             |
