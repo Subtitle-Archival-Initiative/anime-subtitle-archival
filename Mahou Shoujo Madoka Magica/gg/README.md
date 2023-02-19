@@ -17,16 +17,3 @@
 | Batch Status | -         |
 | Source       | TVRip     |
 | Resolution   | 1280x720  |
-
-## Notes
-Track names for 01: ass
-Track names for 02: ass
-Track names for 03: ass
-Track names for 04: ass
-Track names for 05: ass
-Track names for 06: ass
-Track names for 07: Styled Subtitles
-Track names for 08: ass
-Track names for 09: English
-Track names for 11: ass
-Track names for 12: ass
