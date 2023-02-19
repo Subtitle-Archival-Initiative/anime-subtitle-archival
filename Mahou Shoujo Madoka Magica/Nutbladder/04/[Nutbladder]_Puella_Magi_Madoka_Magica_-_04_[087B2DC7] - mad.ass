@@ -1,0 +1,274 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Collisions: Normal
+Audio File: ?video
+Video File: ..\Downloads\Share\madomagi-04.mp4
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 34674
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: madoka-dialogue,MadokaRunes,50,&H00FFFFFF,&H000000FF,&H008268B7,&H00000000,-1,0,0,0,100,105,0,0,1,3.75,0,2,125,125,38,1
+Style: nextep,MadokaEpTitle,50,&H00FFFFFF,&H000000FF,&H00C0ACE5,&H00000000,-1,0,0,0,100,105,0,0,1,3.75,0,2,125,125,38,1
+Style: lolop,JanieHmk,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,90,100,0,0,1,0,2,8,80,80,20,1
+Style: loled,Baar Sophia,50,&H00700B47,&H000000FF,&H00F0F0F0,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,60,60,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,= SIGNS =
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,= OP =
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,= SHAFT FINALLY FINISHED THE ED =
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,= DIALOGUE =
+Comment: 0,0:18:48.19,0:18:54.38,madoka-dialogue,,0000,0000,0000,,{lolgerman}
+Dialogue: 1,0:03:18.42,0:03:21.18,nextep,,0000,0000,0000,,{\bord0\shad0\fs40\fad(225,0)\pos(654,493)}Episode 4 There are miracles and magic
+Dialogue: 0,0:03:18.42,0:03:21.18,nextep,,0000,0000,0000,,{\bord0\shad3\be5\fs40\fad(225,0)\pos(654,493)}Episode 4 There are miracles and magic
+Dialogue: 0,0:24:15.93,0:24:19.27,nextep,,0000,0000,0000,gradient @bf3 1,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,394,1279,406)\pos(640,450)\1c&H746FAA&}Episode 5 Absolutely no regrets
+Dialogue: 0,0:24:15.93,0:24:19.27,nextep,,0000,0000,0000,gradient @bf3 2,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,406,1279,419)\pos(640,450)\1c&H6C6BBD&}Episode 5 Absolutely no regrets
+Dialogue: 0,0:24:15.93,0:24:19.27,nextep,,0000,0000,0000,gradient @bf3 3,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,419,1279,431)\pos(640,450)\1c&H5C70CA&}Episode 5 Absolutely no regrets
+Dialogue: 0,0:24:15.93,0:24:19.27,nextep,,0000,0000,0000,gradient @bf3 4,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,431,1279,444)\pos(640,450)\1c&H628BD1&}Episode 5 Absolutely no regrets
+Dialogue: 0,0:24:15.93,0:24:19.27,nextep,,0000,0000,0000,gradient @bf3 5,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,444,1279,456)\pos(640,450)\1c&H7FB1D4&}Episode 5 Absolutely no regrets
+Dialogue: 0,0:24:04.50,0:24:19.27,madoka-dialogue,,0000,0000,0000,,{\bord0\shad2.5\fs30\pos(1065,700)}Illustration: Jin Kobayashi
+Dialogue: 0,0:01:52.96,0:01:58.84,lolop,,0000,0000,0000,,{\fad(400,0)}Close our eyes and recall the promises we shared
+Dialogue: 0,0:01:58.84,0:02:06.31,lolop,,0000,0000,0000,,Shake off the falling darkness and keep going
+Dialogue: 0,0:02:15.94,0:02:20.74,lolop,,0000,0000,0000,,Somehow I lost sight of the future I once had
+Dialogue: 0,0:02:20.74,0:02:26.20,lolop,,0000,0000,0000,,Can I still see it from here?
+Dialogue: 0,0:02:26.20,0:02:31.71,lolop,,0000,0000,0000,,My uneasiness welled up over and over
+Dialogue: 0,0:02:31.71,0:02:36.84,lolop,,0000,0000,0000,,But somehow I cut through it and kept moving forward
+Dialogue: 0,0:02:36.84,0:02:48.06,lolop,,0000,0000,0000,,The endless march of time announces a new beginning
+Dialogue: 0,0:02:48.06,0:02:58.69,lolop,,0000,0000,0000,,Following my unchanging emotions, I open that sealed door!
+Dialogue: 0,0:02:58.69,0:03:04.83,lolop,,0000,0000,0000,,My awakening heart rushes forth, to draw the future
+Dialogue: 0,0:03:04.83,0:03:09.66,lolop,,0000,0000,0000,,No matter how tough the path ahead is, I know
+Dialogue: 0,0:03:09.66,0:03:16.46,lolop,,0000,0000,0000,,a beautiful blue sky is waiting for me, so I'm not afraid
+Dialogue: 0,0:03:16.46,0:03:22.80,lolop,,0000,0000,0000,,No matter what, I won't give up!
+Dialogue: 0,0:22:43.92,0:22:50.01,loled,,0000,0000,0000,,{\be1}One day, perhaps the light of love shining in your eyes will
+Dialogue: 0,0:22:50.01,0:22:52.01,loled,,0000,0000,0000,,{\be1}(Go beyond the time)
+Dialogue: 0,0:22:52.01,0:22:57.69,loled,,0000,0000,0000,,{\be1}There is but one dream, of a world rushing toward its doom
+Dialogue: 0,0:22:57.69,0:22:59.66,loled,,0000,0000,0000,,{\be1}(Will it be destroyed?)
+Dialogue: 0,0:22:59.66,0:23:06.13,loled,,0000,0000,0000,,{\be1}Swallow your hesitation! What do you desire?
+Dialogue: 0,0:23:06.13,0:23:15.15,loled,,0000,0000,0000,,{\be1}Chasing these greedy desires, will the future fade away?
+Dialogue: 0,0:23:16.98,0:23:20.74,loled,,0000,0000,0000,,{\be1}When I was a girl, I dreamed of you
+Dialogue: 0,0:23:20.74,0:23:24.54,loled,,0000,0000,0000,,{\be1}Wielding something like unto ancient magic
+Dialogue: 0,0:23:24.54,0:23:28.19,loled,,0000,0000,0000,,{\be1}I want to be by your side as you smile,
+Dialogue: 0,0:23:28.19,0:23:32.39,loled,,0000,0000,0000,,{\be1}filled with the strength to smash even the darkness
+Dialogue: 0,0:23:32.39,0:23:36.08,loled,,0000,0000,0000,,{\be1}In my trembling hand, I grasp
+Dialogue: 0,0:23:36.08,0:23:39.88,loled,,0000,0000,0000,,{\be1}the courage of a plucked laurel
+Dialogue: 0,0:23:39.88,0:23:43.70,loled,,0000,0000,0000,,{\be1}Relying only on my emotions,
+Dialogue: 0,0:23:43.70,0:23:55.56,loled,,0000,0000,0000,,{\be1}my prayer awakens the light
+Dialogue: 0,0:00:18.33,0:00:21.08,madoka-dialogue,,0000,0000,0000,,Oh, are you here to see Kamijo?
+Dialogue: 0,0:00:22.62,0:00:23.83,madoka-dialogue,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:00:24.83,0:00:30.46,madoka-dialogue,,0000,0000,0000,,Sorry, we had to move up his examination, so he's seeing the rehabilitation counselor right now.
+Dialogue: 0,0:00:30.46,0:00:33.55,madoka-dialogue,,0000,0000,0000,,Oh... Thanks.
+Dialogue: 0,0:00:36.55,0:00:39.47,madoka-dialogue,,0000,0000,0000,,She comes to see him a lot.
+Dialogue: 0,0:00:39.47,0:00:42.68,madoka-dialogue,,0000,0000,0000,,I'm thankful. He's such a difficult patient.
+Dialogue: 0,0:00:43.06,0:00:45.69,madoka-dialogue,,0000,0000,0000,,Maybe she'll finally cheer him up.
+Dialogue: 0,0:00:46.23,0:00:50.65,madoka-dialogue,,0000,0000,0000,,Before his accident, he was a violin prodigy.
+Dialogue: 0,0:00:50.65,0:00:53.90,madoka-dialogue,,0000,0000,0000,,But now, even though he can walk again, his fingers...
+Dialogue: 0,0:00:54.28,0:00:57.57,madoka-dialogue,,0000,0000,0000,,He'll never play the violin again.
+Dialogue: 0,0:01:02.75,0:01:04.87,madoka-dialogue,,0000,0000,0000,,Why Kyosuke?
+Dialogue: 0,0:01:07.92,0:01:13.01,madoka-dialogue,,0000,0000,0000,,My fingers aren't good for anything, no matter what I do with them.
+Dialogue: 0,0:01:14.30,0:01:17.30,madoka-dialogue,,0000,0000,0000,,So why Kyosuke, and not me?
+Dialogue: 0,0:01:20.30,0:01:26.60,madoka-dialogue,,0000,0000,0000,,If I wished for his recovery, what would he think?
+Dialogue: 0,0:01:27.94,0:01:33.94,madoka-dialogue,,0000,0000,0000,,Would he just thank me? Or... something more?
+Dialogue: 0,0:01:37.11,0:01:40.78,madoka-dialogue,,0000,0000,0000,,I'm horrible.
+Dialogue: 0,0:01:42.24,0:01:47.08,madoka-dialogue,,0000,0000,0000,,Thinking back, I realize that at that point I understood nothing.
+Dialogue: 0,0:01:47.79,0:01:51.54,madoka-dialogue,,0000,0000,0000,,Of what it meant to wish for a miracle... Or what it would cost.
+Dialogue: 0,0:01:53.17,0:01:53.71,madoka-dialogue,,0000,0000,0000,,{op}
+Dialogue: 0,0:03:37.52,0:03:39.28,madoka-dialogue,,0000,0000,0000,,What is that, a mole? Ah, got it.
+Dialogue: 0,0:03:53.58,0:03:54.25,madoka-dialogue,,0000,0000,0000,,Madoka.
+Dialogue: 0,0:03:55.42,0:03:57.92,madoka-dialogue,,0000,0000,0000,,Hurry up and eat, you're gonna be late.
+Dialogue: 0,0:04:10.56,0:04:12.39,madoka-dialogue,,0000,0000,0000,,What's wrong, sis?
+Dialogue: 0,0:04:12.39,0:04:14.27,madoka-dialogue,,0000,0000,0000,,You don't like it?
+Dialogue: 0,0:04:16.69,0:04:20.15,madoka-dialogue,,0000,0000,0000,,No... It's really, really tasty...
+Dialogue: 0,0:04:20.44,0:04:25.28,madoka-dialogue,,0000,0000,0000,,Just being alive and able to eat your cooking...
+Dialogue: 0,0:04:26.74,0:04:32.08,madoka-dialogue,,0000,0000,0000,,Can you believe Yuka? She still hasn't picked up on it!
+Dialogue: 0,0:04:32.08,0:04:37.46,madoka-dialogue,,0000,0000,0000,,What? You think I said something weird again?
+Dialogue: 0,0:04:37.46,0:04:40.80,madoka-dialogue,,0000,0000,0000,,I'm already laughing my head off, why are you so serious!?
+Dialogue: 0,0:04:40.80,0:04:43.38,madoka-dialogue,,0000,0000,0000,,Sayaka, about yesterday...
+Dialogue: 0,0:04:43.38,0:04:47.14,madoka-dialogue,,0000,0000,0000,,Sorry, I don't want to talk about it right now. Maybe later.
+Dialogue: 0,0:04:47.14,0:04:48.97,madoka-dialogue,,0000,0000,0000,,--totally into someone different!
+Dialogue: 0,0:04:52.98,0:04:59.11,madoka-dialogue,,0000,0000,0000,,There's certainly a medical basis for an ideal age to reproduce,
+Dialogue: 0,0:04:59.11,0:05:04.03,madoka-dialogue,,0000,0000,0000,,but you mustn't judge someone's chance of marriage based on that!
+Dialogue: 0,0:05:04.03,0:05:10.70,madoka-dialogue,,0000,0000,0000,,For example, of course women over 30 still have a chance to find their true love.
+Dialogue: 0,0:05:10.70,0:05:17.17,madoka-dialogue,,0000,0000,0000,,So you should use use the progressive rather than the perfect--
+Dialogue: 0,0:05:29.39,0:05:33.43,madoka-dialogue,,0000,0000,0000,,I feel almost like I'm in a strange land...
+Dialogue: 0,0:05:34.85,0:05:39.85,madoka-dialogue,,0000,0000,0000,,Everyone here at school hasn't changed a bit from yesterday,
+Dialogue: 0,0:05:40.06,0:05:44.28,madoka-dialogue,,0000,0000,0000,,but they're like total strangers now.
+Dialogue: 0,0:05:44.28,0:05:46.95,madoka-dialogue,,0000,0000,0000,,None of them know.
+Dialogue: 0,0:05:47.99,0:05:50.87,madoka-dialogue,,0000,0000,0000,,About the witches, about Mami...
+Dialogue: 0,0:05:51.03,0:05:54.91,madoka-dialogue,,0000,0000,0000,,We know, and they don't.
+Dialogue: 0,0:05:54.91,0:06:00.38,madoka-dialogue,,0000,0000,0000,,So we live different lives, in a different world.
+Dialogue: 0,0:06:00.71,0:06:02.67,madoka-dialogue,,0000,0000,0000,,Sayaka...
+Dialogue: 0,0:06:02.67,0:06:05.67,madoka-dialogue,,0000,0000,0000,,We'd already changed long before.
+Dialogue: 0,0:06:05.67,0:06:09.84,madoka-dialogue,,0000,0000,0000,,We should have realized sooner.
+Dialogue: 0,0:06:12.10,0:06:18.10,madoka-dialogue,,0000,0000,0000,,Madoka, do you still want to become a magical girl?
+Dialogue: 0,0:06:24.27,0:06:26.32,madoka-dialogue,,0000,0000,0000,,You're right.
+Dialogue: 0,0:06:27.44,0:06:29.20,madoka-dialogue,,0000,0000,0000,,Of course not.
+Dialogue: 0,0:06:29.70,0:06:35.12,madoka-dialogue,,0000,0000,0000,,I know it's no fair, but I'm just too afraid.
+Dialogue: 0,0:06:35.33,0:06:38.29,madoka-dialogue,,0000,0000,0000,,I just can't...
+Dialogue: 0,0:06:38.37,0:06:44.25,madoka-dialogue,,0000,0000,0000,,Just remembering it makes me too scared to even breathe...
+Dialogue: 0,0:06:44.54,0:06:47.96,madoka-dialogue,,0000,0000,0000,,I'm scared! I don't want to!
+Dialogue: 0,0:06:52.43,0:06:56.60,madoka-dialogue,,0000,0000,0000,,Mami was so kind.
+Dialogue: 0,0:06:57.31,0:07:05.94,madoka-dialogue,,0000,0000,0000,,Showing us what we must be prepared for if we're to fight, she—
+Dialogue: 0,0:07:07.40,0:07:11.49,madoka-dialogue,,0000,0000,0000,,What's going to happen to this city, Kyubey?
+Dialogue: 0,0:07:11.49,0:07:17.54,madoka-dialogue,,0000,0000,0000,,Will someone take up Mami's task of protecting us from the witches?
+Dialogue: 0,0:07:17.83,0:07:24.21,madoka-dialogue,,0000,0000,0000,,This has been Mami's territory for a long time, but the other magical girls won't ignore an opening.
+Dialogue: 0,0:07:24.42,0:07:27.59,madoka-dialogue,,0000,0000,0000,,Another girl will be here soon to hunt witches.
+Dialogue: 0,0:07:27.59,0:07:34.09,madoka-dialogue,,0000,0000,0000,,Won't it just be someone like that transfer student, here to gather Grief Seeds?
+Dialogue: 0,0:07:34.09,0:07:40.18,madoka-dialogue,,0000,0000,0000,,There aren't many like Mami. Most just think of their own gain.
+Dialogue: 0,0:07:40.18,0:07:42.56,madoka-dialogue,,0000,0000,0000,,Everyone has their desires.
+Dialogue: 0,0:07:42.56,0:07:43.40,madoka-dialogue,,0000,0000,0000,,Then...
+Dialogue: 0,0:07:43.40,0:07:51.03,madoka-dialogue,,0000,0000,0000,,But only those who share in the fate of a magical girl have the right to blame them.
+Dialogue: 0,0:07:54.82,0:07:56.99,madoka-dialogue,,0000,0000,0000,,I understand how you feel.
+Dialogue: 0,0:07:56.99,0:08:00.66,madoka-dialogue,,0000,0000,0000,,Unfortunately, I can't force you to become magical girls.
+Dialogue: 0,0:08:01.08,0:08:07.04,madoka-dialogue,,0000,0000,0000,,I guess this is goodbye. I need to find a girl who needs to contract with me.
+Dialogue: 0,0:08:08.25,0:08:10.17,madoka-dialogue,,0000,0000,0000,,Sorry, Kyubey.
+Dialogue: 0,0:08:10.17,0:08:13.84,madoka-dialogue,,0000,0000,0000,,I'm sorry I involved you in it.
+Dialogue: 0,0:08:14.38,0:08:19.97,madoka-dialogue,,0000,0000,0000,,We only knew each other for a short time, but thanks, Madoka. I enjoyed it.
+Dialogue: 0,0:08:28.61,0:08:29.94,madoka-dialogue,,0000,0000,0000,,Sorry...
+Dialogue: 0,0:09:05.98,0:09:07.73,madoka-dialogue,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:09:07.98,0:09:12.11,madoka-dialogue,,0000,0000,0000,,I'm sorry I'm so weak!
+Dialogue: 0,0:09:24.00,0:09:26.21,madoka-dialogue,,0000,0000,0000,,Homura!?
+Dialogue: 0,0:09:32.09,0:09:36.26,madoka-dialogue,,0000,0000,0000,,Madoka Kaname. You're being too hard on yourself.
+Dialogue: 0,0:09:37.30,0:09:41.22,madoka-dialogue,,0000,0000,0000,,Nobody can blame you for what you've done.
+Dialogue: 0,0:09:41.39,0:09:43.64,madoka-dialogue,,0000,0000,0000,,I won't forgive anyone who does.
+Dialogue: 0,0:09:46.23,0:09:49.23,madoka-dialogue,,0000,0000,0000,,I see you heeded my warning.
+Dialogue: 0,0:09:55.49,0:09:59.78,madoka-dialogue,,0000,0000,0000,,If I had only listened to you earlier...
+Dialogue: 0,0:09:59.78,0:10:03.66,madoka-dialogue,,0000,0000,0000,,That would not have changed Mami Tomoe's fate.
+Dialogue: 0,0:10:05.45,0:10:08.87,madoka-dialogue,,0000,0000,0000,,But it changed yours.
+Dialogue: 0,0:10:09.17,0:10:12.84,madoka-dialogue,,0000,0000,0000,,I'm happy I was able to save at least one person.
+Dialogue: 0,0:10:16.80,0:10:18.34,madoka-dialogue,,0000,0000,0000,,Homura, you...
+Dialogue: 0,0:10:18.34,0:10:23.81,madoka-dialogue,,0000,0000,0000,,You seem like an old pro in a different way than Mami.
+Dialogue: 0,0:10:23.81,0:10:26.72,madoka-dialogue,,0000,0000,0000,,Perhaps. I can't argue with that.
+Dialogue: 0,0:10:29.48,0:10:34.65,madoka-dialogue,,0000,0000,0000,,You must have seen people die like she did yesterday so many times...
+Dialogue: 0,0:10:34.94,0:10:36.03,madoka-dialogue,,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:37.99,0:10:39.74,madoka-dialogue,,0000,0000,0000,,How many?
+Dialogue: 0,0:10:40.57,0:10:42.95,madoka-dialogue,,0000,0000,0000,,I no longer keep count.
+Dialogue: 0,0:10:45.87,0:10:49.75,madoka-dialogue,,0000,0000,0000,,I wonder if her room will just stay like that.
+Dialogue: 0,0:10:50.37,0:10:54.38,madoka-dialogue,,0000,0000,0000,,Only distant relatives survive Mami Tomoe.
+Dialogue: 0,0:10:55.17,0:10:59.22,madoka-dialogue,,0000,0000,0000,,They won't receive notice of her disappearance for quite some time.
+Dialogue: 0,0:10:59.38,0:11:03.30,madoka-dialogue,,0000,0000,0000,,No one realizes she's gone?
+Dialogue: 0,0:11:04.68,0:11:09.68,madoka-dialogue,,0000,0000,0000,,Of course. If you die over there, you don't leave a corpse.
+Dialogue: 0,0:11:09.81,0:11:14.23,madoka-dialogue,,0000,0000,0000,,In this world, she'll eternally be "missing".
+Dialogue: 0,0:11:14.36,0:11:18.23,madoka-dialogue,,0000,0000,0000,,That's how magical girls die.
+Dialogue: 0,0:11:31.83,0:11:33.46,madoka-dialogue,,0000,0000,0000,,That's terrible!
+Dialogue: 0,0:11:37.25,0:11:41.59,madoka-dialogue,,0000,0000,0000,,She fought alone for our sakes for so long...
+Dialogue: 0,0:11:41.72,0:11:47.10,madoka-dialogue,,0000,0000,0000,,No one realizing she's gone is so lonely!
+Dialogue: 0,0:11:48.43,0:11:52.85,madoka-dialogue,,0000,0000,0000,,That contract is what gives us our power.
+Dialogue: 0,0:11:53.56,0:11:55.44,madoka-dialogue,,0000,0000,0000,,It's not for anyone else.
+Dialogue: 0,0:11:56.31,0:11:59.90,madoka-dialogue,,0000,0000,0000,,We fight for our own wish.
+Dialogue: 0,0:12:00.19,0:12:06.57,madoka-dialogue,,0000,0000,0000,,Even if we're ignored, even if we're forgotten... That's part of the contract.
+Dialogue: 0,0:12:08.08,0:12:09.95,madoka-dialogue,,0000,0000,0000,,I'll remember her.
+Dialogue: 0,0:12:10.58,0:12:14.00,madoka-dialogue,,0000,0000,0000,,I'll never forget Mami.
+Dialogue: 0,0:12:14.37,0:12:16.04,madoka-dialogue,,0000,0000,0000,,Ever!
+Dialogue: 0,0:12:16.67,0:12:22.05,madoka-dialogue,,0000,0000,0000,,I see. I'm sure that would make her happy.
+Dialogue: 0,0:12:22.72,0:12:24.30,madoka-dialogue,,0000,0000,0000,,I'm jealous.
+Dialogue: 0,0:12:25.14,0:12:30.01,madoka-dialogue,,0000,0000,0000,,You too, Homura! I'll never forget you!
+Dialogue: 0,0:12:30.01,0:12:33.94,madoka-dialogue,,0000,0000,0000,,I'll never forget how you saved me yesterday!
+Dialogue: 0,0:12:36.94,0:12:38.44,madoka-dialogue,,0000,0000,0000,,Homura?
+Dialogue: 0,0:12:39.69,0:12:41.57,madoka-dialogue,,0000,0000,0000,,You're too kind.
+Dialogue: 0,0:12:42.49,0:12:49.37,madoka-dialogue,,0000,0000,0000,,Don't forget. That kindness may yet bring upon you greater tragedy.
+Dialogue: 0,0:13:12.89,0:13:14.89,madoka-dialogue,,0000,0000,0000,,{b-part}What are you listening to?
+Dialogue: 0,0:13:15.23,0:13:17.40,madoka-dialogue,,0000,0000,0000,,{\i1}The Girl with the Flaxen Hair{\fscx40} {\r}.
+Dialogue: 0,0:13:17.40,0:13:21.52,madoka-dialogue,,0000,0000,0000,,Oh, Debussy, right? That's a great song.
+Dialogue: 0,0:13:25.07,0:13:31.87,madoka-dialogue,,0000,0000,0000,,I guess everyone thinks I don't really look like the kind of girl who'd listen to classical music,
+Dialogue: 0,0:13:31.87,0:13:36.08,madoka-dialogue,,0000,0000,0000,,so they're always so shocked when I come up with the name of a piece or something!
+Dialogue: 0,0:13:36.33,0:13:39.21,madoka-dialogue,,0000,0000,0000,,It's so unexpected that they get all impressed.
+Dialogue: 0,0:13:42.55,0:13:45.01,madoka-dialogue,,0000,0000,0000,,It's because you taught me, Kyosuke.
+Dialogue: 0,0:13:45.38,0:13:51.64,madoka-dialogue,,0000,0000,0000,,Without you, I think I could've gone my whole life without listening to this music.
+Dialogue: 0,0:13:51.64,0:13:53.60,madoka-dialogue,,0000,0000,0000,,Sayaka, you're...
+Dialogue: 0,0:13:55.31,0:13:56.77,madoka-dialogue,,0000,0000,0000,,What?
+Dialogue: 0,0:13:57.27,0:14:00.35,madoka-dialogue,,0000,0000,0000,,Are you mocking me?
+Dialogue: 0,0:14:04.53,0:14:08.61,madoka-dialogue,,0000,0000,0000,,Why do you keep making me listen to music?
+Dialogue: 0,0:14:08.61,0:14:10.53,madoka-dialogue,,0000,0000,0000,,Are you just harassing me?
+Dialogue: 0,0:14:11.91,0:14:14.37,madoka-dialogue,,0000,0000,0000,,But you love music!
+Dialogue: 0,0:14:14.37,0:14:16.37,madoka-dialogue,,0000,0000,0000,,I don't want to hear another note!
+Dialogue: 0,0:14:16.37,0:14:20.12,madoka-dialogue,,0000,0000,0000,,I can't stand listening to music I'll never play!
+Dialogue: 0,0:14:20.29,0:14:22.63,madoka-dialogue,,0000,0000,0000,,I... I...
+Dialogue: 0,0:14:33.35,0:14:37.52,madoka-dialogue,,0000,0000,0000,,I can't move my fingers! I can't even feel pain!
+Dialogue: 0,0:14:37.81,0:14:39.56,madoka-dialogue,,0000,0000,0000,,With this treatment...
+Dialogue: 0,0:14:39.56,0:14:43.11,madoka-dialogue,,0000,0000,0000,,Don't worry! You'll get better somehow!
+Dialogue: 0,0:14:43.27,0:14:45.78,madoka-dialogue,,0000,0000,0000,,As long as you don't give up, someday--
+Dialogue: 0,0:14:45.94,0:14:48.53,madoka-dialogue,,0000,0000,0000,,They told me to give up.
+Dialogue: 0,0:14:50.61,0:14:53.32,madoka-dialogue,,0000,0000,0000,,They told me to give up on playing.
+Dialogue: 0,0:14:53.49,0:14:58.08,madoka-dialogue,,0000,0000,0000,,My maestro told me himself that it's impossible with modern medicine.
+Dialogue: 0,0:14:59.25,0:15:02.00,madoka-dialogue,,0000,0000,0000,,My hand will never move again.
+Dialogue: 0,0:15:02.13,0:15:05.80,madoka-dialogue,,0000,0000,0000,,Not without a miracle or magic or something.
+Dialogue: 0,0:15:05.80,0:15:06.88,madoka-dialogue,,0000,0000,0000,,Those exist!
+Dialogue: 0,0:15:08.05,0:15:11.93,madoka-dialogue,,0000,0000,0000,,There are miracles and magic.
+Dialogue: 0,0:15:25.06,0:15:29.90,madoka-dialogue,,0000,0000,0000,,Homura seems like a friendly enough person now that we've talked.
+Dialogue: 0,0:15:30.45,0:15:34.16,madoka-dialogue,,0000,0000,0000,,I wonder why she was always fighting with Mami?
+Dialogue: 0,0:15:34.16,0:15:36.53,madoka-dialogue,,0000,0000,0000,,Huh? Hitomi?
+Dialogue: 0,0:15:36.62,0:15:38.70,madoka-dialogue,,0000,0000,0000,,Hitomi!
+Dialogue: 0,0:15:38.91,0:15:41.37,madoka-dialogue,,0000,0000,0000,,How did practice go!?
+Dialogue: 0,0:15:44.79,0:15:47.63,madoka-dialogue,,0000,0000,0000,,It's just like what that woman had!
+Dialogue: 0,0:15:48.05,0:15:49.76,madoka-dialogue,,0000,0000,0000,,Hitomi!
+Dialogue: 0,0:15:49.80,0:15:52.05,madoka-dialogue,,0000,0000,0000,,Hey! Hitomi!
+Dialogue: 0,0:15:53.22,0:15:56.72,madoka-dialogue,,0000,0000,0000,,Oh, Kaname! Good evening!
+Dialogue: 0,0:15:57.22,0:16:01.23,madoka-dialogue,,0000,0000,0000,,What's wrong? Where are you going?
+Dialogue: 0,0:16:01.23,0:16:03.19,madoka-dialogue,,0000,0000,0000,,Where? Well...
+Dialogue: 0,0:16:04.02,0:16:07.77,madoka-dialogue,,0000,0000,0000,,I'm going to a better place.
+Dialogue: 0,0:16:07.77,0:16:09.36,madoka-dialogue,,0000,0000,0000,,Hitomi...
+Dialogue: 0,0:16:09.36,0:16:13.20,madoka-dialogue,,0000,0000,0000,,I know! You should come too!
+Dialogue: 0,0:16:13.20,0:16:16.45,madoka-dialogue,,0000,0000,0000,,Yes, it'll be fabulous!
+Dialogue: 0,0:16:18.24,0:16:19.83,madoka-dialogue,,0000,0000,0000,,What do I do!?
+Dialogue: 0,0:16:20.37,0:16:22.37,madoka-dialogue,,0000,0000,0000,,This is--
+Dialogue: 0,0:16:36.43,0:16:38.89,madoka-dialogue,,0000,0000,0000,,If I call Homura--
+Dialogue: 0,0:16:39.01,0:16:42.39,madoka-dialogue,,0000,0000,0000,,Oh no! I don't know her number!
+Dialogue: 0,0:16:46.15,0:16:47.65,madoka-dialogue,,0000,0000,0000,,That's right.
+Dialogue: 0,0:16:47.65,0:16:50.15,madoka-dialogue,,0000,0000,0000,,I'm trash.
+Dialogue: 0,0:16:50.32,0:16:55.45,madoka-dialogue,,0000,0000,0000,,This little workshop isn't enough to satisfy me at all.
+Dialogue: 0,0:16:55.53,0:17:01.29,madoka-dialogue,,0000,0000,0000,,There's no place for me in this world.
+Dialogue: 0,0:17:11.88,0:17:13.34,madoka-dialogue,,0000,0000,0000,,Listen, Madoka.
+Dialogue: 0,0:17:13.34,0:17:19.10,madoka-dialogue,,0000,0000,0000,,If you use these wrong, bad things happen.
+Dialogue: 0,0:17:19.10,0:17:21.35,madoka-dialogue,,0000,0000,0000,,Bad enough to send the whole family straight to heaven.
+Dialogue: 0,0:17:21.35,0:17:23.81,madoka-dialogue,,0000,0000,0000,,Make sure you never do that.
+Dialogue: 0,0:17:24.52,0:17:27.35,madoka-dialogue,,0000,0000,0000,,No! Don't do that!
+Dialogue: 0,0:17:29.40,0:17:32.86,madoka-dialogue,,0000,0000,0000,,You mustn't interrupt the holy rites.
+Dialogue: 0,0:17:32.86,0:17:35.45,madoka-dialogue,,0000,0000,0000,,But that's dangerous!
+Dialogue: 0,0:17:35.45,0:17:38.24,madoka-dialogue,,0000,0000,0000,,Everyone here will die!
+Dialogue: 0,0:17:38.24,0:17:43.54,madoka-dialogue,,0000,0000,0000,,Yes! We're all going on a journey to a wonderful new world!
+Dialogue: 0,0:17:43.54,0:17:47.52,madoka-dialogue,,0000,0000,0000,,Don't you understand how great that will be?
+Dialogue: 0,0:17:47.52,0:17:50.29,madoka-dialogue,,0000,0000,0000,,Our living bodies only hold us back!
+Dialogue: 0,0:17:50.77,0:17:54.17,madoka-dialogue,,0000,0000,0000,,You'll understand very soon now.
+Dialogue: 0,0:18:01.16,0:18:02.31,madoka-dialogue,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:18:44.84,0:18:47.17,madoka-dialogue,,0000,0000,0000,,What do I do!?
+Dialogue: 0,0:18:54.97,0:18:55.78,madoka-dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:18:56.19,0:18:57.15,madoka-dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:19:02.02,0:19:04.17,madoka-dialogue,,0000,0000,0000,,No! Somebody, save me!
+Dialogue: 0,0:19:04.17,0:19:05.83,madoka-dialogue,,0000,0000,0000,,Somebody!
+Dialogue: 0,0:19:39.69,0:19:41.19,madoka-dialogue,,0000,0000,0000,,This must be punishment.
+Dialogue: 0,0:19:41.82,0:19:42.84,madoka-dialogue,,0000,0000,0000,,It has to be.
+Dialogue: 0,0:19:44.45,0:19:49.62,madoka-dialogue,,0000,0000,0000,,Punishment for being such a crybaby and a liar.
+Dialogue: 0,0:19:51.12,0:19:55.07,madoka-dialogue,,0000,0000,0000,,I'm... Being punished...
+Dialogue: 0,0:20:00.73,0:20:01.53,madoka-dialogue,,0000,0000,0000,,Stop...
+Dialogue: 0,0:20:14.66,0:20:15.97,madoka-dialogue,,0000,0000,0000,,Sayaka!
+Dialogue: 0,0:20:31.41,0:20:33.87,madoka-dialogue,,0000,0000,0000,,This is the end!
+Dialogue: 0,0:20:50.28,0:20:54.56,madoka-dialogue,,0000,0000,0000,,Sorry it took me so long. You looked like you were really in trouble.
+Dialogue: 0,0:20:54.98,0:20:58.37,madoka-dialogue,,0000,0000,0000,,Sayaka... Your outfit...
+Dialogue: 0,0:21:00.02,0:21:03.91,madoka-dialogue,,0000,0000,0000,,I kinda had a change of heart.
+Dialogue: 0,0:21:06.13,0:21:10.58,madoka-dialogue,,0000,0000,0000,,It's fine. Did great for my first time, huh?
+Dialogue: 0,0:21:11.12,0:21:12.20,madoka-dialogue,,0000,0000,0000,,But...
+Dialogue: 0,0:21:17.58,0:21:18.89,madoka-dialogue,,0000,0000,0000,,You...
+Dialogue: 0,0:21:22.08,0:21:24.23,madoka-dialogue,,0000,0000,0000,,Hey, the new girl's finally here!
+Dialogue: 0,0:21:52.49,0:21:54.94,madoka-dialogue,,0000,0000,0000,,I didn't expect {\i1}you{\fscx40} {\r} to show up.
+Dialogue: 0,0:21:55.72,0:21:58.87,madoka-dialogue,,0000,0000,0000,,I heard Mami bit it.
+Dialogue: 0,0:21:58.87,0:22:05.51,madoka-dialogue,,0000,0000,0000,,But then I come all the way out here and you've got a totally different story?
+Dialogue: 0,0:22:05.51,0:22:10.27,madoka-dialogue,,0000,0000,0000,,Sorry. There's a new magical girl here now.
+Dialogue: 0,0:22:10.27,0:22:12.33,madoka-dialogue,,0000,0000,0000,,She just agreed to her contract.
+Dialogue: 0,0:22:12.33,0:22:14.64,madoka-dialogue,,0000,0000,0000,,Really? Jeez, that's lame.
+Dialogue: 0,0:22:15.77,0:22:23.22,madoka-dialogue,,0000,0000,0000,,Some rookie setting up shop in turf like this ticks me off.
+Dialogue: 0,0:22:23.22,0:22:25.65,madoka-dialogue,,0000,0000,0000,,What are you planning, Kyoko?
+Dialogue: 0,0:22:25.65,0:22:34.01,madoka-dialogue,,0000,0000,0000,,Isn't it obvious? I just need to knock her off.
+Dialogue: 0,0:22:35.21,0:22:35.84,madoka-dialogue,,0000,0000,0000,,{ed}
+Dialogue: 0,0:24:06.10,0:24:08.59,madoka-dialogue,,0000,0000,0000,,This is my chance to shine!
+Dialogue: 0,0:24:08.59,0:24:15.84,madoka-dialogue,,0000,0000,0000,,I, Magical Girl Sayaka, will protect the peace of Mitakihara City!
+Dialogue: 0,0:24:16.43,0:24:18.51,madoka-dialogue,,0000,0000,0000,,Absolutely no regrets.
+Dialogue: 0,0:24:18.51,0:24:20.76,madoka-dialogue,,0000,0000,0000,,

@@ -1,0 +1,332 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+Audio File: C:\Users\マイク\Downloads\08 cut.mka
+Video File: madoka 08 premux.mkv
+Video Aspect Ratio: 0
+Video Zoom: 5
+Video Position: 8584
+Collisions: Normal
+Last Style Storage: Default
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: madoka-dialogue,MadokaRunes,50,&H00FFFFFF,&H000000FF,&H008268B7,&H00000000,-1,0,0,0,100,105,0,0,1,3.75,0,2,125,125,38,1
+Style: nextep,MadokaEpTitle,50,&H00FFFFFF,&H000000FF,&H00C0ACE5,&H00000000,-1,0,0,0,100,105,0,0,1,3.75,0,2,125,125,38,1
+Style: lolop,JanieHmk,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,90,100,0,0,1,0,2,8,80,80,20,1
+Style: loled,Baar Sophia,50,&H00700B47,&H000000FF,&H00F0F0F0,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,60,60,20,1
+Style: macfd,Commerce Black Condensed SSi,55,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,2,1.2,2,30,30,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,= SIGNS =
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,= OP =
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,= ED =
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,= DIALOGUE =
+Dialogue: 1,0:02:51.44,0:02:54.23,nextep,,0000,0000,0000,,{\bord0\shad0\fs40\fad(225,0)\pos(654,493)}Episode 8 I've been such a fool
+Dialogue: 0,0:02:51.44,0:02:54.23,nextep,,0000,0000,0000,,{\bord0\shad3\be5\fs40\fad(225,0)\pos(654,493)}Episode 8 I've been such a fool
+Dialogue: 0,0:24:50.92,0:24:54.68,nextep,,0000,0000,0000,gradient @bf3 1,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,394,1279,406)\pos(640,450)\1c&H746FAA&}Episode 9 I'll never forgive that
+Dialogue: 0,0:24:50.92,0:24:54.68,nextep,,0000,0000,0000,gradient @bf3 2,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,406,1279,419)\pos(640,450)\1c&H6C6BBD&}Episode 9 I'll never forgive that
+Dialogue: 0,0:24:50.92,0:24:54.68,nextep,,0000,0000,0000,gradient @bf3 3,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,419,1279,431)\pos(640,450)\1c&H5C70CA&}Episode 9 I'll never forgive that
+Dialogue: 0,0:24:50.92,0:24:54.68,nextep,,0000,0000,0000,gradient @bf3 4,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,431,1279,444)\pos(640,450)\1c&H628BD1&}Episode 9 I'll never forgive that
+Dialogue: 0,0:24:50.92,0:24:54.68,nextep,,0000,0000,0000,gradient @bf3 5,{\fad(475,0)\shad0\bord3.75\be5\3c&HFFFFFF\clip(0,444,1279,456)\pos(640,450)\1c&H7FB1D4&}Episode 9 I'll never forgive that.
+Dialogue: 0,0:24:39.87,0:24:54.68,madoka-dialogue,,0000,0000,0000,,{\bord0\shad2.5\fs30\pos(1020,700)}Illustration: Takuya Fujima/Kentaro Tanaka
+Dialogue: 0,0:01:26.06,0:01:31.86,lolop,,0000,0000,0000,,{\fad(400,0)}Close our eyes and recall the promises we shared
+Dialogue: 0,0:01:31.86,0:01:39.32,lolop,,0000,0000,0000,,Shake off the falling darkness and keep going
+Dialogue: 0,0:01:48.96,0:01:53.80,lolop,,0000,0000,0000,,Somehow I lost sight of the future I once had
+Dialogue: 0,0:01:53.80,0:01:59.22,lolop,,0000,0000,0000,,Can I still see it from here?
+Dialogue: 0,0:01:59.22,0:02:04.77,lolop,,0000,0000,0000,,My uneasiness welled up over and over
+Dialogue: 0,0:02:04.77,0:02:09.85,lolop,,0000,0000,0000,,But somehow I cut through it and kept moving forward
+Dialogue: 0,0:02:09.85,0:02:21.07,lolop,,0000,0000,0000,,The endless march of time announces a new beginning
+Dialogue: 0,0:02:21.07,0:02:31.71,lolop,,0000,0000,0000,,Following my unchanging emotions, I open that sealed door!
+Dialogue: 0,0:02:31.71,0:02:37.88,lolop,,0000,0000,0000,,My awakening heart rushes forth, to draw the future
+Dialogue: 0,0:02:37.88,0:02:42.68,lolop,,0000,0000,0000,,No matter how tough the path ahead is, I know
+Dialogue: 0,0:02:42.68,0:02:49.48,lolop,,0000,0000,0000,,a beautiful blue sky is waiting for me, so I'm not afraid
+Dialogue: 0,0:02:49.48,0:02:55.78,lolop,,0000,0000,0000,,No matter what, I won't give up!
+Dialogue: 0,0:23:04.22,0:23:10.31,loled,,0000,0000,0000,,{\be1}One day, perhaps the light of love shining in your eyes will
+Dialogue: 0,0:23:10.31,0:23:12.31,loled,,0000,0000,0000,,{\be1}(Go beyond the time)
+Dialogue: 0,0:23:12.31,0:23:17.99,loled,,0000,0000,0000,,{\be1}There is but one dream, of a world rushing toward its doom
+Dialogue: 0,0:23:17.99,0:23:19.96,loled,,0000,0000,0000,,{\be1}(Will it be destroyed?)
+Dialogue: 0,0:23:19.96,0:23:26.43,loled,,0000,0000,0000,,{\be1}Swallow your hesitation! What do you desire?
+Dialogue: 0,0:23:26.43,0:23:35.45,loled,,0000,0000,0000,,{\be1}Chasing these greedy desires, will the future fade away?
+Dialogue: 0,0:23:37.28,0:23:41.04,loled,,0000,0000,0000,,{\be1}When I was a girl, I dreamed of you
+Dialogue: 0,0:23:41.04,0:23:44.84,loled,,0000,0000,0000,,{\be1}Wielding something like unto ancient magic
+Dialogue: 0,0:23:44.84,0:23:48.49,loled,,0000,0000,0000,,{\be1}I want to be by your side as you smile,
+Dialogue: 0,0:23:48.49,0:23:52.69,loled,,0000,0000,0000,,{\be1}filled with the strength to smash even the darkness
+Dialogue: 0,0:23:52.69,0:23:56.38,loled,,0000,0000,0000,,{\be1}In my trembling hand, I grasp
+Dialogue: 0,0:23:56.38,0:24:00.18,loled,,0000,0000,0000,,{\be1}the courage of a plucked laurel
+Dialogue: 0,0:24:00.18,0:24:04.00,loled,,0000,0000,0000,,{\be1}Relying only on my emotions,
+Dialogue: 0,0:24:04.00,0:24:15.86,loled,,0000,0000,0000,,{\be1}my prayer awakens the light
+Dialogue: 5,0:00:18.79,0:00:21.83,madoka-dialogue,,0000,0000,0000,,This is easy once you know the trick.
+Dialogue: 5,0:00:22.92,0:00:25.05,madoka-dialogue,,0000,0000,0000,,I don't think I'll ever lose this way.
+Dialogue: 5,0:00:42.51,0:00:43.35,madoka-dialogue,,0000,0000,0000,,Here.
+Dialogue: 5,0:00:43.79,0:00:45.25,madoka-dialogue,,0000,0000,0000,,You're after that, right?
+Dialogue: 5,0:00:45.62,0:00:46.03,madoka-dialogue,,0000,0000,0000,,Hey...
+Dialogue: 5,0:00:48.04,0:00:49.91,madoka-dialogue,,0000,0000,0000,,I don't want to owe you any favors.
+Dialogue: 5,0:00:50.26,0:00:51.74,madoka-dialogue,,0000,0000,0000,,We're even, okay?
+Dialogue: 5,0:00:52.91,0:00:54.23,madoka-dialogue,,0000,0000,0000,,Let's go, Madoka.
+Dialogue: 5,0:00:56.23,0:00:57.26,madoka-dialogue,,0000,0000,0000,,Sayaka...
+Dialogue: 5,0:01:08.71,0:01:09.74,madoka-dialogue,,0000,0000,0000,,Sorry.
+Dialogue: 5,0:01:11.86,0:01:13.25,madoka-dialogue,,0000,0000,0000,,I'm a little bit worn out.
+Dialogue: 5,0:01:14.90,0:01:16.40,madoka-dialogue,,0000,0000,0000,,Don't push yourself. I'll carry you.
+Dialogue: 5,0:01:24.16,0:01:25.04,madoka-dialogue,,0000,0000,0000,,That idiot...
+Dialogue: 5,0:01:26.47,0:01:26.72,madoka-dialogue,,0000,0000,0000,,{op}
+Dialogue: 5,0:03:11.73,0:03:12.68,madoka-dialogue,,0000,0000,0000,,Sayaka...
+Dialogue: 5,0:03:14.37,0:03:16.34,madoka-dialogue,,0000,0000,0000,,You're not supposed to fight like that...
+Dialogue: 5,0:03:25.05,0:03:27.02,madoka-dialogue,,0000,0000,0000,,Don't lie and say it doesn't hurt!
+Dialogue: 5,0:03:27.43,0:03:28.96,madoka-dialogue,,0000,0000,0000,,I can tell how bad you're hurting just watching you!
+Dialogue: 5,0:03:29.54,0:03:33.57,madoka-dialogue,,0000,0000,0000,,Don't act like it's okay to get hurt just because you can't feel it!
+Dialogue: 5,0:03:37.88,0:03:39.81,madoka-dialogue,,0000,0000,0000,,If I don't do that, I can't win.
+Dialogue: 5,0:03:40.35,0:03:41.85,madoka-dialogue,,0000,0000,0000,,I'm no good.
+Dialogue: 5,0:03:42.22,0:03:47.86,madoka-dialogue,,0000,0000,0000,,Even if you win fighting that way, it's not good for you!
+Dialogue: 5,0:03:48.70,0:03:50.39,madoka-dialogue,,0000,0000,0000,,Good for me? What is good for me?
+Dialogue: 5,0:03:59.11,0:04:03.14,madoka-dialogue,,0000,0000,0000,,How is anything good for me with my body like this?
+Dialogue: 5,0:04:03.54,0:04:04.56,madoka-dialogue,,0000,0000,0000,,Sayaka...
+Dialogue: 5,0:04:05.03,0:04:10.67,madoka-dialogue,,0000,0000,0000,,I'm just a lump of stone put here to defeat witches.
+Dialogue: 5,0:04:11.65,0:04:14.29,madoka-dialogue,,0000,0000,0000,,A walking corpse pretending it's alive.
+Dialogue: 5,0:04:15.35,0:04:18.68,madoka-dialogue,,0000,0000,0000,,What can anyone do for me?
+Dialogue: 5,0:04:19.22,0:04:20.79,madoka-dialogue,,0000,0000,0000,,There's no point even thinking about it.
+Dialogue: 5,0:04:20.86,0:04:25.69,madoka-dialogue,,0000,0000,0000,,But I want to make you happy somehow...
+Dialogue: 5,0:04:27.07,0:04:28.83,madoka-dialogue,,0000,0000,0000,,Then you fight them.
+Dialogue: 5,0:04:35.02,0:04:39.24,madoka-dialogue,,0000,0000,0000,,Kyubey told me you have more potential than anyone.
+Dialogue: 5,0:04:39.71,0:04:43.56,madoka-dialogue,,0000,0000,0000,,You can take out witches without getting yourself beat up like that.
+Dialogue: 5,0:04:43.87,0:04:44.71,madoka-dialogue,,0000,0000,0000,,I...
+Dialogue: 5,0:04:46.79,0:04:47.56,madoka-dialogue,,0000,0000,0000,,That's...
+Dialogue: 5,0:04:48.51,0:04:53.33,madoka-dialogue,,0000,0000,0000,,If you want do something for me, then go ahead and see what my life is really like.
+Dialogue: 5,0:04:53.87,0:04:56.03,madoka-dialogue,,0000,0000,0000,,Nah, of course you won't.
+Dialogue: 5,0:04:57.90,0:05:00.75,madoka-dialogue,,0000,0000,0000,,You're not just going to throw away your humanity out of sympathy.
+Dialogue: 5,0:05:01.06,0:05:02.66,madoka-dialogue,,0000,0000,0000,,Sympathy? Sayaka...
+Dialogue: 5,0:05:05.24,0:05:10.26,madoka-dialogue,,0000,0000,0000,,I'm like this because even though you could do anything you're doing nothing!
+Dialogue: 5,0:05:10.62,0:05:13.30,madoka-dialogue,,0000,0000,0000,,So don't just play innocent while giving me lectures!
+Dialogue: 5,0:05:14.97,0:05:15.97,madoka-dialogue,,0000,0000,0000,,Sayaka...
+Dialogue: 5,0:05:18.82,0:05:19.85,madoka-dialogue,,0000,0000,0000,,Stay away from me.
+Dialogue: 5,0:05:36.50,0:05:39.61,madoka-dialogue,,0000,0000,0000,,I'm a total moron! Why did I say that to her!?
+Dialogue: 5,0:05:40.59,0:05:42.23,madoka-dialogue,,0000,0000,0000,,I'm hopeless.
+Dialogue: 5,0:05:57.99,0:06:01.31,madoka-dialogue,,0000,0000,0000,,I predict that Walpurgisnacht will appear in this area.
+Dialogue: 5,0:06:04.07,0:06:05.24,madoka-dialogue,,0000,0000,0000,,Where's it based?
+Dialogue: 5,0:06:05.56,0:06:06.33,madoka-dialogue,,0000,0000,0000,,The clock tower.
+Dialogue: 5,0:06:06.66,0:06:07.51,madoka-dialogue,,0000,0000,0000,,The clock tower!?
+Dialogue: 5,0:06:09.11,0:06:13.31,madoka-dialogue,,0000,0000,0000,,I haven't heard of Walpurgisnacht appearing in this city before.
+Dialogue: 5,0:06:13.75,0:06:16.29,madoka-dialogue,,0000,0000,0000,,So how are you so sure about the clock tower?
+Dialogue: 5,0:06:19.95,0:06:23.25,madoka-dialogue,,0000,0000,0000,,This isn't exactly a line of business where you can blindly trust your colleagues, you know.
+Dialogue: 5,0:06:23.69,0:06:26.28,madoka-dialogue,,0000,0000,0000,,Why don't you show me a bit more of what you're really after?
+Dialogue: 5,0:06:26.72,0:06:28.92,madoka-dialogue,,0000,0000,0000,,I'd like to ask that, too.
+Dialogue: 5,0:06:29.66,0:06:30.67,madoka-dialogue,,0000,0000,0000,,Homura Akemi.
+Dialogue: 5,0:06:31.84,0:06:34.37,madoka-dialogue,,0000,0000,0000,,You've got a lot of guts showing your face here, rat.
+Dialogue: 5,0:06:34.84,0:06:37.93,madoka-dialogue,,0000,0000,0000,,Oh, so I'm an uninvited guest?
+Dialogue: 5,0:06:38.51,0:06:42.98,madoka-dialogue,,0000,0000,0000,,And here I am tonight trying to give you some important information.
+Dialogue: 5,0:06:44.51,0:06:46.85,madoka-dialogue,,0000,0000,0000,,Sayaka Miki is exhausting herself faster than I expected.
+Dialogue: 5,0:06:47.67,0:06:51.66,madoka-dialogue,,0000,0000,0000,,Not only in terms of magic use, but her body itself exudes a cursed air.
+Dialogue: 5,0:06:52.00,0:06:53.82,madoka-dialogue,,0000,0000,0000,,And whose fault is that?
+Dialogue: 5,0:06:54.17,0:06:59.33,madoka-dialogue,,0000,0000,0000,,If she keeps this up, something unfortunate will happen before Walpurgisnacht arrives.
+Dialogue: 5,0:07:00.03,0:07:01.60,madoka-dialogue,,0000,0000,0000,,You should be careful.
+Dialogue: 5,0:07:02.34,0:07:04.65,madoka-dialogue,,0000,0000,0000,,What's that supposed to mean?
+Dialogue: 5,0:07:04.83,0:07:07.77,madoka-dialogue,,0000,0000,0000,,Why don't you ask her instead of me?
+Dialogue: 5,0:07:08.44,0:07:11.73,madoka-dialogue,,0000,0000,0000,,You already know, don't you, Homura Akemi?
+Dialogue: 5,0:07:14.48,0:07:18.07,madoka-dialogue,,0000,0000,0000,,I wonder where you picked up that little fact.
+Dialogue: 5,0:07:18.29,0:07:19.68,madoka-dialogue,,0000,0000,0000,,I'm very, very curious.
+Dialogue: 5,0:07:20.31,0:07:21.21,madoka-dialogue,,0000,0000,0000,,Are you...
+Dialogue: 5,0:07:21.21,0:07:25.50,madoka-dialogue,,0000,0000,0000,,You've asked your questions. Now begone.
+Dialogue: 5,0:07:34.40,0:07:35.98,madoka-dialogue,,0000,0000,0000,,You're letting him go?
+Dialogue: 5,0:07:36.42,0:07:39.42,madoka-dialogue,,0000,0000,0000,,Killing it would solve nothing.
+Dialogue: 5,0:07:40.60,0:07:45.13,madoka-dialogue,,0000,0000,0000,,Anyway, what about Sayaka Miki? What's this 'something unfortunate' he's talking about?
+Dialogue: 5,0:07:47.30,0:07:50.51,madoka-dialogue,,0000,0000,0000,,Her Soul Gem has become too corrupted.
+Dialogue: 5,0:07:50.88,0:07:54.17,madoka-dialogue,,0000,0000,0000,,If it isn't cleansed soon, something will happen that cannot be undone.
+Dialogue: 5,0:08:00.77,0:08:05.67,madoka-dialogue,,0000,0000,0000,,The auxiliary verb 'must' denotes something which one is obligated to do, but...
+Dialogue: 5,0:08:06.04,0:08:07.43,madoka-dialogue,,0000,0000,0000,,Compared to 'have to', which—
+Dialogue: 5,0:08:09.32,0:08:12.59,madoka-dialogue,,0000,0000,0000,,I should have said something to her then...
+Dialogue: 5,0:08:24.86,0:08:28.66,madoka-dialogue,,0000,0000,0000,,Wait, Shizuki, you live over here?
+Dialogue: 5,0:08:29.25,0:08:32.29,madoka-dialogue,,0000,0000,0000,,I've never seen you walk home this way before.
+Dialogue: 5,0:08:32.94,0:08:36.20,madoka-dialogue,,0000,0000,0000,,Well, honestly, it's completely out of the way.
+Dialogue: 5,0:08:37.81,0:08:39.50,madoka-dialogue,,0000,0000,0000,,So what did you want me for today?
+Dialogue: 5,0:08:42.79,0:08:43.81,madoka-dialogue,,0000,0000,0000,,Kamijo...
+Dialogue: 5,0:08:45.47,0:08:47.55,madoka-dialogue,,0000,0000,0000,,There's something I want to talk with you about.
+Dialogue: 5,0:08:49.78,0:08:53.45,madoka-dialogue,,0000,0000,0000,,She didn't come home last night?
+Dialogue: 5,0:08:54.55,0:08:54.95,madoka-dialogue,,0000,0000,0000,,Of course.
+Dialogue: 5,0:08:55.47,0:08:57.55,madoka-dialogue,,0000,0000,0000,,Um... Okay.
+Dialogue: 5,0:08:58.08,0:09:00.42,madoka-dialogue,,0000,0000,0000,,Yes. Goodbye.
+Dialogue: 5,0:09:11.98,0:09:12.96,madoka-dialogue,,0000,0000,0000,,Sayaka...
+Dialogue: 5,0:09:14.40,0:09:15.35,madoka-dialogue,,0000,0000,0000,,I need to find her.
+Dialogue: 5,0:10:12.54,0:10:15.94,madoka-dialogue,,0000,0000,0000,,Why don't you understand? We wouldn't have time for this even in normal circumstances.
+Dialogue: 5,0:10:16.72,0:10:18.00,madoka-dialogue,,0000,0000,0000,,Hunt only witches.
+Dialogue: 5,0:10:19.28,0:10:21.51,madoka-dialogue,,0000,0000,0000,,Gee, thanks a ton for the advice.
+Dialogue: 5,0:10:22.27,0:10:24.16,madoka-dialogue,,0000,0000,0000,,Your Soul Gem is at its limits.
+Dialogue: 5,0:10:24.86,0:10:25.89,madoka-dialogue,,0000,0000,0000,,If you don't cleanse it...
+Dialogue: 5,0:10:27.28,0:10:27.94,madoka-dialogue,,0000,0000,0000,,Use this.
+Dialogue: 5,0:10:35.47,0:10:37.23,madoka-dialogue,,0000,0000,0000,,What are you plotting now?
+Dialogue: 5,0:10:38.69,0:10:39.75,madoka-dialogue,,0000,0000,0000,,Grow up.
+Dialogue: 5,0:10:41.40,0:10:43.38,madoka-dialogue,,0000,0000,0000,,This is no time to be suspicious.
+Dialogue: 5,0:10:44.11,0:10:45.98,madoka-dialogue,,0000,0000,0000,,Do you hate being saved that much?
+Dialogue: 5,0:10:47.39,0:10:52.27,madoka-dialogue,,0000,0000,0000,,I'm going to be a different kind of magical girl than you lot. I'm sure of it.
+Dialogue: 5,0:10:53.00,0:10:58.20,madoka-dialogue,,0000,0000,0000,,I hate people who'd just use and abandon someone.
+Dialogue: 5,0:10:59.05,0:11:04.40,madoka-dialogue,,0000,0000,0000,,I need no reward. I'll never use magic for my own benefit!
+Dialogue: 5,0:11:05.16,0:11:07.33,madoka-dialogue,,0000,0000,0000,,You're dying.
+Dialogue: 5,0:11:07.76,0:11:12.00,madoka-dialogue,,0000,0000,0000,,Once I'm dead, that means I don't have to kill any more witches.
+Dialogue: 5,0:11:12.88,0:11:14.79,madoka-dialogue,,0000,0000,0000,,I'll finally have completed my task.
+Dialogue: 5,0:11:16.26,0:11:17.12,madoka-dialogue,,0000,0000,0000,,I'm okay with that.
+Dialogue: 5,0:11:20.02,0:11:23.57,madoka-dialogue,,0000,0000,0000,,I can't even beat a witch! I have no reason to exist!
+Dialogue: 5,0:11:25.88,0:11:26.85,madoka-dialogue,,0000,0000,0000,,So why are you doing this?
+Dialogue: 5,0:11:27.46,0:11:30.96,madoka-dialogue,,0000,0000,0000,,I just want to help you. Why won't you believe me?
+Dialogue: 5,0:11:32.30,0:11:33.47,madoka-dialogue,,0000,0000,0000,,I'm not sure.
+Dialogue: 5,0:11:34.46,0:11:36.56,madoka-dialogue,,0000,0000,0000,,I think it's just intuition.
+Dialogue: 5,0:11:37.32,0:11:39.34,madoka-dialogue,,0000,0000,0000,,I can tell you're a liar.
+Dialogue: 5,0:11:39.91,0:11:42.99,madoka-dialogue,,0000,0000,0000,,You always look like you've given up on everything.
+Dialogue: 5,0:11:43.61,0:11:45.45,madoka-dialogue,,0000,0000,0000,,You're always speaking empty words.
+Dialogue: 5,0:11:46.03,0:11:48.87,madoka-dialogue,,0000,0000,0000,,And right now, you say you're doing it for my sake,
+Dialogue: 5,0:11:48.87,0:11:51.23,madoka-dialogue,,0000,0000,0000,,but I bet you're really after something completely different.
+Dialogue: 5,0:11:52.18,0:11:54.64,madoka-dialogue,,0000,0000,0000,,Don't think you can fool me.
+Dialogue: 5,0:11:56.03,0:11:59.62,madoka-dialogue,,0000,0000,0000,,Don't you see how much you're hurting Madoka?
+Dialogue: 5,0:12:00.46,0:12:02.88,madoka-dialogue,,0000,0000,0000,,Madoka? She has nothing to do with this.
+Dialogue: 5,0:12:03.28,0:12:06.43,madoka-dialogue,,0000,0000,0000,,No... Everything revolves around her.
+Dialogue: 5,0:12:14.10,0:12:15.38,madoka-dialogue,,0000,0000,0000,,You're sharp.
+Dialogue: 5,0:12:15.96,0:12:17.18,madoka-dialogue,,0000,0000,0000,,In fact, you're exactly correct.
+Dialogue: 5,0:12:18.31,0:12:20.32,madoka-dialogue,,0000,0000,0000,,I don't want to help you.
+Dialogue: 5,0:12:21.19,0:12:24.75,madoka-dialogue,,0000,0000,0000,,I simply don't want Madoka to have to watch your fall.
+Dialogue: 5,0:12:25.63,0:12:29.11,madoka-dialogue,,0000,0000,0000,,If you refuse my aid, only death awaits you.
+Dialogue: 5,0:12:29.65,0:12:32.33,madoka-dialogue,,0000,0000,0000,,If you hurt Madoka any more...
+Dialogue: 5,0:12:33.78,0:12:40.56,madoka-dialogue,,0000,0000,0000,,I'll kill you myself right now, Sayaka Miki.
+Dialogue: 5,0:12:43.90,0:12:45.64,madoka-dialogue,,0000,0000,0000,,Quick! Run away!
+Dialogue: 5,0:12:57.55,0:13:00.88,madoka-dialogue,,0000,0000,0000,,What's wrong with you!? You were supposed to be saving her!
+Dialogue: 5,0:13:01.03,0:13:01.76,madoka-dialogue,,0000,0000,0000,,Let me go.
+Dialogue: 5,0:13:02.41,0:13:08.15,madoka-dialogue,,0000,0000,0000,,Oh, I get it. If I've got a grip on you, you can't use that technique of yours.
+Dialogue: 5,0:13:23.35,0:13:23.82,madoka-dialogue,,0000,0000,0000,,Damn it...
+Dialogue: 5,0:13:23.82,0:13:23.97,madoka-dialogue,,0000,0000,0000,,{ec}
+Dialogue: 5,0:13:30.66,0:13:32.78,madoka-dialogue,,0000,0000,0000,,eb wanted me to add this ad
+Dialogue: 5,0:13:32.97,0:13:33.80,madoka-dialogue,,0000,0000,0000,,a kind of evening rescue
+Dialogue: 5,0:13:34.13,0:13:36.25,madoka-dialogue,,0000,0000,0000,,unless japan's "9% in a can" is far better than america's
+Dialogue: 5,0:13:36.47,0:13:38.20,madoka-dialogue,,0000,0000,0000,,i think i share sayaka's philosophy of not wanting to be saved
+Dialogue: 5,0:13:38.20,0:13:39.03,madoka-dialogue,,0000,0000,0000,,what is over? the ad ofc
+Dialogue: 5,0:13:40.61,0:13:43.36,macfd,,0000,0000,0000,,I'll protect you even if it costs me my life.
+Dialogue: 5,0:13:43.54,0:13:46.22,macfd,,0000,0000,0000,,Sheryl loves Alto...
+Dialogue: 5,0:13:46.66,0:13:49.22,macfd,,0000,0000,0000,,We have only one chance!
+Dialogue: 5,0:13:49.34,0:13:51.37,macfd,,0000,0000,0000,,I'm just a princess captured by some monster.
+Dialogue: 5,0:13:52.12,0:13:53.91,macfd,,0000,0000,0000,,Playtime's over.
+Dialogue: 5,0:14:00.27,0:14:02.73,madoka-dialogue,,0000,0000,0000,,Gimme a fuckin' break!
+Dialogue: 5,0:14:03.28,0:14:06.57,madoka-dialogue,,0000,0000,0000,,She already blew all the cash I gave her!
+Dialogue: 5,0:14:06.75,0:14:12.13,madoka-dialogue,,0000,0000,0000,,Dumb bitches don't know how to hold onto money, I tell ya.
+Dialogue: 5,0:14:12.53,0:14:16.30,madoka-dialogue,,0000,0000,0000,,Women may as well not even be human.
+Dialogue: 5,0:14:16.79,0:14:18.94,madoka-dialogue,,0000,0000,0000,,They're like dogs or something.
+Dialogue: 5,0:14:19.32,0:14:21.03,madoka-dialogue,,0000,0000,0000,,They get excited like a goddamn puppy.
+Dialogue: 5,0:14:21.69,0:14:25.18,madoka-dialogue,,0000,0000,0000,,But all you need to do to shut 'em up is give 'em a good smacking.
+Dialogue: 5,0:14:25.35,0:14:29.75,madoka-dialogue,,0000,0000,0000,,Slacken the leash a little bit, and they're all over the damn couch.
+Dialogue: 5,0:14:30.18,0:14:31.64,madoka-dialogue,,0000,0000,0000,,Can't let 'em get too comfortable.
+Dialogue: 5,0:14:31.82,0:14:36.40,madoka-dialogue,,0000,0000,0000,,What, you think a bar slut like you is gonna he doing that well ten years from now?
+Dialogue: 5,0:14:36.68,0:14:38.07,madoka-dialogue,,0000,0000,0000,,Know your fuckin' place.
+Dialogue: 5,0:14:38.29,0:14:38.69,madoka-dialogue,,0000,0000,0000,,Right?
+Dialogue: 5,0:14:38.69,0:14:44.12,madoka-dialogue,,0000,0000,0000,,Man, you're good at dumping them when they end up more trouble than you're worth.
+Dialogue: 5,0:14:44.67,0:14:45.80,madoka-dialogue,,0000,0000,0000,,I need to learn your tricks.
+Dialogue: 5,0:14:46.34,0:14:48.69,madoka-dialogue,,0000,0000,0000,,Tell me more about her.
+Dialogue: 5,0:14:49.09,0:14:49.75,madoka-dialogue,,0000,0000,0000,,What?
+Dialogue: 5,0:14:50.30,0:14:52.86,madoka-dialogue,,0000,0000,0000,,About the woman you're talking about.
+Dialogue: 5,0:14:53.48,0:14:54.57,madoka-dialogue,,0000,0000,0000,,I want to hear more about her.
+Dialogue: 5,0:14:56.77,0:14:59.86,madoka-dialogue,,0000,0000,0000,,Hey, babe, you're too young to be out this late.
+Dialogue: 5,0:15:00.95,0:15:05.13,madoka-dialogue,,0000,0000,0000,,She cares about you. She works hard to make you happy.
+Dialogue: 5,0:15:05.60,0:15:07.39,madoka-dialogue,,0000,0000,0000,,You understand that, don't you?
+Dialogue: 5,0:15:07.94,0:15:10.69,madoka-dialogue,,0000,0000,0000,,But you treat her like a dog. You don't even thank her.
+Dialogue: 5,0:15:11.57,0:15:12.82,madoka-dialogue,,0000,0000,0000,,When she does something you don't like, you dump her.
+Dialogue: 5,0:15:13.17,0:15:14.81,madoka-dialogue,,0000,0000,0000,,What, you know her or somethin'?
+Dialogue: 5,0:15:15.37,0:15:15.80,madoka-dialogue,,0000,0000,0000,,No...
+Dialogue: 5,0:15:17.59,0:15:23.55,madoka-dialogue,,0000,0000,0000,,Is this world worth protecting? What have I been fighting for? Tell me!
+Dialogue: 5,0:15:24.66,0:15:26.60,madoka-dialogue,,0000,0000,0000,,Tell me right away.
+Dialogue: 5,0:15:27.23,0:15:28.29,madoka-dialogue,,0000,0000,0000,,Otherwise...
+Dialogue: 5,0:15:39.56,0:15:41.29,madoka-dialogue,,0000,0000,0000,,Sayaka... Where are you?
+Dialogue: 5,0:15:48.61,0:15:50.84,madoka-dialogue,,0000,0000,0000,,You must blame me too.
+Dialogue: 5,0:15:53.03,0:15:56.55,madoka-dialogue,,0000,0000,0000,,If I blame you, will that bring Sayaka back?
+Dialogue: 5,0:15:56.91,0:15:59.96,madoka-dialogue,,0000,0000,0000,,No. It's beyond my power.
+Dialogue: 5,0:16:04.94,0:16:11.05,madoka-dialogue,,0000,0000,0000,,You told me that I could be an amazing magical girl. Is that true?
+Dialogue: 5,0:16:11.42,0:16:13.83,madoka-dialogue,,0000,0000,0000,,Amazing doesn't begin to describe it.
+Dialogue: 5,0:16:14.23,0:16:16.47,madoka-dialogue,,0000,0000,0000,,You'd be completely unrivaled.
+Dialogue: 5,0:16:16.95,0:16:18.81,madoka-dialogue,,0000,0000,0000,,Probably the strongest in this world. {see what i did there}
+Dialogue: 5,0:16:19.79,0:16:24.49,madoka-dialogue,,0000,0000,0000,,If i had accepted that, Sayaka wouldn't have had to become a magical girl.
+Dialogue: 5,0:16:24.89,0:16:30.09,madoka-dialogue,,0000,0000,0000,,Sayaka chose her own wish. Madoka, you have nothing to do with that.
+Dialogue: 5,0:16:34.45,0:16:35.94,madoka-dialogue,,0000,0000,0000,,Why am I...
+Dialogue: 5,0:16:36.31,0:16:37.52,madoka-dialogue,,0000,0000,0000,,I don't know either.
+Dialogue: 5,0:16:38.03,0:16:43.19,madoka-dialogue,,0000,0000,0000,,To put it frankly, your hidden potential is an unimaginable hope.
+Dialogue: 5,0:16:44.17,0:16:46.78,madoka-dialogue,,0000,0000,0000,,I want an explanation as much as you do.
+Dialogue: 5,0:16:47.40,0:16:48.20,madoka-dialogue,,0000,0000,0000,,I see...
+Dialogue: 5,0:16:48.67,0:16:54.97,madoka-dialogue,,0000,0000,0000,,If you set your power loose, you could cause miracles, or rewrite the laws of nature.
+Dialogue: 5,0:16:55.77,0:16:59.32,madoka-dialogue,,0000,0000,0000,,Why are you the only one who has that potential?
+Dialogue: 5,0:16:59.71,0:17:01.18,madoka-dialogue,,0000,0000,0000,,I don't understand.
+Dialogue: 5,0:17:02.28,0:17:06.96,madoka-dialogue,,0000,0000,0000,,I've always thought that I'm worthless.
+Dialogue: 5,0:17:07.69,0:17:13.36,madoka-dialogue,,0000,0000,0000,,That I'd go through life not being able to do anything or help anybody.
+Dialogue: 5,0:17:13.61,0:17:17.45,madoka-dialogue,,0000,0000,0000,,That my life would have no meaning.
+Dialogue: 5,0:17:18.08,0:17:21.01,madoka-dialogue,,0000,0000,0000,,I resented it, and I felt lonely.
+Dialogue: 5,0:17:21.55,0:17:24.45,madoka-dialogue,,0000,0000,0000,,But I resigned myself to it.
+Dialogue: 5,0:17:26.57,0:17:28.52,madoka-dialogue,,0000,0000,0000,,The reality is quite different.
+Dialogue: 5,0:17:29.40,0:17:34.48,madoka-dialogue,,0000,0000,0000,,Madoka. If you will it, you can become an omnipotent Goddess.
+Dialogue: 5,0:17:36.03,0:17:41.15,madoka-dialogue,,0000,0000,0000,,I can do things even you can't, Kyubey?
+Dialogue: 5,0:17:41.41,0:17:46.65,madoka-dialogue,,0000,0000,0000,,So if I contract with you, I'll be able to return Sayaka's body to how it was?
+Dialogue: 5,0:17:46.90,0:17:49.35,madoka-dialogue,,0000,0000,0000,,That would be no difficulty at all.
+Dialogue: 5,0:17:50.05,0:17:54.08,madoka-dialogue,,0000,0000,0000,,Is that wish worth your soul to you?
+Dialogue: 5,0:17:54.69,0:17:57.33,madoka-dialogue,,0000,0000,0000,,If it's for Sayaka's sake, yes.
+Dialogue: 5,0:17:58.76,0:18:00.52,madoka-dialogue,,0000,0000,0000,,I want to become a magical—
+Dialogue: 5,0:18:18.69,0:18:21.07,madoka-dialogue,,0000,0000,0000,,That's terrible! I thought you weren't going to kill anyone!
+Dialogue: 5,0:18:22.05,0:18:27.10,madoka-dialogue,,0000,0000,0000,,Why... Why must you always sacrifice yourself?
+Dialogue: 5,0:18:30.62,0:18:35.38,madoka-dialogue,,0000,0000,0000,,Don't throw yourself away thinking you're useless or your life's meaningless!
+Dialogue: 5,0:18:36.15,0:18:38.41,madoka-dialogue,,0000,0000,0000,,Think about the people who care for you!
+Dialogue: 5,0:18:39.13,0:18:40.20,madoka-dialogue,,0000,0000,0000,,Grow up!
+Dialogue: 5,0:18:40.75,0:18:45.14,madoka-dialogue,,0000,0000,0000,,Why don't you realize there are people who'll be sad if you're gone!?
+Dialogue: 5,0:18:45.62,0:18:47.88,madoka-dialogue,,0000,0000,0000,,What's going to happen to the people trying to protect you!?
+Dialogue: 5,0:18:53.69,0:18:54.42,madoka-dialogue,,0000,0000,0000,,Homura...
+Dialogue: 5,0:18:57.79,0:18:59.62,madoka-dialogue,,0000,0000,0000,,Did we...
+Dialogue: 5,0:19:00.75,0:19:03.49,madoka-dialogue,,0000,0000,0000,,Have we ever met somewhere? You and I?
+Dialogue: 5,0:19:04.12,0:19:04.91,madoka-dialogue,,0000,0000,0000,,We...
+Dialogue: 5,0:19:09.42,0:19:09.93,madoka-dialogue,,0000,0000,0000,,I'm sorry.
+Dialogue: 5,0:19:13.43,0:19:16.02,madoka-dialogue,,0000,0000,0000,,I need to find Sayaka.
+Dialogue: 5,0:19:16.45,0:19:17.26,madoka-dialogue,,0000,0000,0000,,Wait...
+Dialogue: 5,0:19:17.98,0:19:19.27,madoka-dialogue,,0000,0000,0000,,Sayaka Miki is already—
+Dialogue: 5,0:19:20.59,0:19:21.25,madoka-dialogue,,0000,0000,0000,,Sorry.
+Dialogue: 5,0:19:23.69,0:19:24.21,madoka-dialogue,,0000,0000,0000,,Wait!
+Dialogue: 5,0:19:25.38,0:19:26.26,madoka-dialogue,,0000,0000,0000,,Madoka!
+Dialogue: 5,0:19:33.11,0:19:35.11,madoka-dialogue,,0000,0000,0000,,Come on, you knew that wouldn't do you any good.
+Dialogue: 5,0:19:35.44,0:19:37.01,madoka-dialogue,,0000,0000,0000,,You never learn your lesson.
+Dialogue: 5,0:19:38.56,0:19:42.69,madoka-dialogue,,0000,0000,0000,,I have many, many replacements, even if it does form a slight inconvenience.
+Dialogue: 5,0:19:43.13,0:19:44.36,madoka-dialogue,,0000,0000,0000,,It's just a waste.
+Dialogue: 5,0:19:59.35,0:20:04.62,madoka-dialogue,,0000,0000,0000,,This is the second time you've killed me. I'm learned how you attack now.
+Dialogue: 5,0:20:05.50,0:20:07.84,madoka-dialogue,,0000,0000,0000,,That was time control magic, wasn't it?
+Dialogue: 5,0:20:10.54,0:20:14.13,madoka-dialogue,,0000,0000,0000,,Oh, wait, I just realized.
+Dialogue: 5,0:20:14.56,0:20:17.09,madoka-dialogue,,0000,0000,0000,,You're not from this timeline, are you?
+Dialogue: 5,0:20:18.49,0:20:22.19,madoka-dialogue,,0000,0000,0000,,I know your true form, and what you're plotting.
+Dialogue: 5,0:20:22.73,0:20:26.76,madoka-dialogue,,0000,0000,0000,,Very well. And that's why you've been such a thorn in my paw?
+Dialogue: 5,0:20:27.53,0:20:30.31,madoka-dialogue,,0000,0000,0000,,Is your desire to change Madoka Kaname's fate that strong?
+Dialogue: 5,0:20:30.83,0:20:31.15,madoka-dialogue,,0000,0000,0000,,Yes.
+Dialogue: 5,0:20:32.29,0:20:34.52,madoka-dialogue,,0000,0000,0000,,I'll never allow your plan to succeed.
+Dialogue: 5,0:20:35.91,0:20:36.39,madoka-dialogue,,0000,0000,0000,,Kyubey...
+Dialogue: 5,0:20:38.14,0:20:38.50,madoka-dialogue,,0000,0000,0000,,No.
+Dialogue: 5,0:20:39.37,0:20:40.36,madoka-dialogue,,0000,0000,0000,,Incubator.
+Dialogue: 5,0:20:50.95,0:20:52.26,madoka-dialogue,,0000,0000,0000,,I finally found ya.
+Dialogue: 5,0:20:55.88,0:20:58.59,madoka-dialogue,,0000,0000,0000,,How long are you gonna keep blowing off your friends?
+Dialogue: 5,0:21:00.57,0:21:02.81,madoka-dialogue,,0000,0000,0000,,Sorry to bother you.
+Dialogue: 5,0:21:03.38,0:21:05.84,madoka-dialogue,,0000,0000,0000,,What's wrong? You're not acting like yourself.
+Dialogue: 5,0:21:07.85,0:21:11.07,madoka-dialogue,,0000,0000,0000,,I just don't care anymore.
+Dialogue: 5,0:21:11.70,0:21:16.90,madoka-dialogue,,0000,0000,0000,,What do I even care about anymore? Who do I want to protect?
+Dialogue: 5,0:21:17.38,0:21:20.26,madoka-dialogue,,0000,0000,0000,,I don't even know anymore.
+Dialogue: 5,0:21:21.10,0:21:21.65,madoka-dialogue,,0000,0000,0000,,Hey...
+Dialogue: 5,0:21:26.27,0:21:29.41,madoka-dialogue,,0000,0000,0000,,The balance of hope and despair is always zero.
+Dialogue: 5,0:21:30.15,0:21:32.60,madoka-dialogue,,0000,0000,0000,,You said so yourself.
+Dialogue: 5,0:21:33.44,0:21:35.71,madoka-dialogue,,0000,0000,0000,,I understand what you meant now.
+Dialogue: 5,0:21:36.85,0:21:39.99,madoka-dialogue,,0000,0000,0000,,I've saved plenty of people.
+Dialogue: 5,0:21:40.76,0:21:45.19,madoka-dialogue,,0000,0000,0000,,But in exchange, resentment and pain took root in my own heart.
+Dialogue: 5,0:21:46.11,0:21:48.30,madoka-dialogue,,0000,0000,0000,,I'm even hurting my dearest friend now.
+Dialogue: 5,0:21:48.85,0:21:50.61,madoka-dialogue,,0000,0000,0000,,Sayaka! Are you—!?
+Dialogue: 5,0:21:50.90,0:21:53.13,madoka-dialogue,,0000,0000,0000,,As much as I wished for the happiness of one...
+Dialogue: 5,0:21:53.57,0:21:55.80,madoka-dialogue,,0000,0000,0000,,Someone else must be equally cursed.
+Dialogue: 5,0:21:56.75,0:22:00.34,madoka-dialogue,,0000,0000,0000,,That's how the story of a magical girl goes...
+Dialogue: 5,0:22:06.74,0:22:09.62,madoka-dialogue,,0000,0000,0000,,I've been such a fool.
+Dialogue: 5,0:22:33.13,0:22:35.35,madoka-dialogue,,0000,0000,0000,,Sayaka!
+Dialogue: 5,0:22:41.03,0:22:45.72,madoka-dialogue,,0000,0000,0000,,In this country, growing young women are called girls.
+Dialogue: 5,0:22:46.52,0:22:52.08,madoka-dialogue,,0000,0000,0000,,So it's only proper that you, turning into witches, should be called magical girls.
+Dialogue: 5,0:22:55.85,0:22:56.00,madoka-dialogue,,0000,0000,0000,,{ed}
+Dialogue: 5,0:24:26.78,0:24:30.15,macfd,,0000,0000,0000,, Remembering it, I feel all tingly.
+Dialogue: 5,0:24:30.65,0:24:32.89,macfd,,0000,0000,0000,,My songs are my life.
+Dialogue: 5,0:24:33.59,0:24:36.38,macfd,,0000,0000,0000,,I'll soar! Until I can end this war!
+Dialogue: 5,0:24:36.71,0:24:38.76,macfd,,0000,0000,0000,,Alto! Wake up!
+Dialogue: 5,0:24:41.42,0:24:43.18,madoka-dialogue,,0000,0000,0000,,You might think I'm stupid for this,
+Dialogue: 5,0:24:44.14,0:24:50.04,madoka-dialogue,,0000,0000,0000,,but I don't want to give up as long as there's any hope of saving her.
+Dialogue: 5,0:24:51.55,0:24:53.53,madoka-dialogue,,0000,0000,0000,,I'll never forgive that.
+Dialogue: 5,0:26:08.76,0:26:10.76,madoka-dialogue,,0000,0000,0000,,
