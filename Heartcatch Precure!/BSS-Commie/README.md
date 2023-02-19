@@ -3,7 +3,7 @@
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
 | Translation       | Aesir                               |
-| Editing           | herz                                |
+| Editing           | herkz                                |
 | Typesetting       | herkz                               |
 | Timing            | herkz                               |
 | Encoding          | herkz                               |
