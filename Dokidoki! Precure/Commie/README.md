@@ -3,7 +3,7 @@
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
 | Translation       | airco                               |
-| Editing           | airci                               |
+| Editing           | airco                               |
 | Typesetting       | herkz                               |
 | Timing            | herkz                               |
 | Encoding          | herkz                               |
