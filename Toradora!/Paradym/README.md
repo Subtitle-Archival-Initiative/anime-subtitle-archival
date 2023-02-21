@@ -21,4 +21,4 @@
 | Resolution   | 1024x576 |
 
 ## Notes
-Episode 01 could not be acquired.
+The original release has no fonts included.

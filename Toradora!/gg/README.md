@@ -24,4 +24,4 @@ Included updated scripts from groups website, as well as released scripts.
 
 Included translation notes in the episode folders starting with 02.
 
-The translator went onto continue this project under [[qq]](Toradora!/qq).
+The translator went onto continue this project under [[qq]](../qq).

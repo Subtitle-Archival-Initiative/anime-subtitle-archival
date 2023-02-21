@@ -20,6 +20,6 @@
 | Resolution   | 848x480   |
 
 ## Notes
-Continuation of [[gg]](Toradora!/gg) subs by the same translator. Included updated scripts from groups website, as well as released scripts. Fonts are missing for episodes 05, 07 and 11, as full release could not be acquired for those episodes.
+Continuation of [[gg]](../gg) subs by the same translator. Included updated scripts from groups website, as well as released scripts.
 
 Included translation notes in each of the episode folders.

@@ -19,6 +19,3 @@
 | Batch Status | -         |
 | Source       | TVRip     |
 | Resolution   | 848x480   |
-
-## Notes
-Episode 02 could not be acquired.
