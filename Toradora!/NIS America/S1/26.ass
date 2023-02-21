@@ -1,0 +1,397 @@
+﻿[Script Info]
+Title: Default file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Audio File: 
+Video File: 
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue1,Tahoma,64,&H00FFFFFF,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.8,3.4,2,120,120,30,1
+Style: Dialogue2,Tahoma,71,&H00FFFFFF,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.8,3.4,2,120,120,30,1
+Style: Dialogue3,Tahoma,71,&H00FFFFFF,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.8,3.4,2,120,120,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.51,0:00:11.84,Dialogue1,Unknown,0000,0000,0000,,Hot!
+Dialogue: 0,0:00:14.80,0:00:20.68,Dialogue1,Unknown,0000,0000,0000,,{\i1}That day...I learned the secret of the bento.{\i0}
+Dialogue: 0,0:00:24.52,0:00:27.19,Dialogue1,Unknown,0000,0000,0000,,Pre! Preparation!
+Dialogue: 0,0:00:24.52,0:00:27.19,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(959,113)}{\i1}pure pureparato{\i0}
+Dialogue: 0,0:00:27.19,0:00:30.03,Dialogue1,Unknown,0000,0000,0000,,I might not be very strong,
+Dialogue: 0,0:00:27.19,0:00:30.03,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,113)}{\i1}tsuyoku nanka naikedo{\i0}
+Dialogue: 0,0:00:30.57,0:00:33.24,Dialogue1,Unknown,0000,0000,0000,,Pre! Pre-parade!
+Dialogue: 0,0:00:30.57,0:00:33.24,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(959,112)}{\i1}pure pureparedo{\i0}
+Dialogue: 0,0:00:33.24,0:00:35.87,Dialogue1,Unknown,0000,0000,0000,,but I'm gonna catch you one of these days.
+Dialogue: 0,0:00:33.24,0:00:35.87,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,107)}{\i1}itsuka kimiwo tsukamaeru{\i0}
+Dialogue: 0,0:00:36.53,0:00:40.95,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(959,118)}{\i1}pu re purepa pu re purepa pu re purepa{\i0}
+Dialogue: 0,0:00:40.95,0:00:42.25,Dialogue1,Unknown,0000,0000,0000,,Cracking and crumbling.
+Dialogue: 0,0:00:40.95,0:00:42.25,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(963,107)}{\i1}warete baribari{\i0}
+Dialogue: 0,0:00:42.25,0:00:46.79,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(959,118)}{\i1}pu re purepa pu re purepa pu re purepa{\i0}
+Dialogue: 0,0:00:48.21,0:00:54.18,Dialogue1,Unknown,0000,0000,0000,,Let your guard down and expect a poking attack from my fingers.
+Dialogue: 0,0:00:48.21,0:00:54.18,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,113)}{\i1}yudan shitara sono yubi{\i0}
+Dialogue: 0,0:00:48.21,0:00:54.18,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(960,177)}{\i1}chiku chiku atakku kakugo shite{\i0}
+Dialogue: 0,0:00:54.18,0:00:59.76,Dialogue1,Unknown,0000,0000,0000,,I may be small, but I can still pluck you like a flea.
+Dialogue: 0,0:00:54.18,0:00:59.76,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,107)}{\i1}chiisai kedo hasamuno{\i0}
+Dialogue: 0,0:00:54.18,0:00:59.76,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(960,177)}{\i1}mijinko mitai na anata{\i0}
+Dialogue: 0,0:01:00.47,0:01:06.40,Dialogue1,Unknown,0000,0000,0000,,I'm longing for a plastic heart.\N(Plus, plus, somehow a minus)
+Dialogue: 0,0:01:00.47,0:01:06.40,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(960,112)}{\i1}hoshiinowa purasuchikkuna haato{\i0}
+Dialogue: 0,0:01:00.47,0:01:06.40,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(960,177)}{\i1}(purasu purasu dakedo mainasu){\i0}
+Dialogue: 0,0:01:06.40,0:01:13.61,Dialogue1,Unknown,0000,0000,0000,,But the one who realizes how boring that'd be will win.
+Dialogue: 0,0:01:06.40,0:01:13.61,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(962,112)}{\i1}demo soreja tsumaranai{\i0}
+Dialogue: 0,0:01:06.40,0:01:13.61,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(962,177)}{\i1}sokoni kizuita monogachi{\i0}
+Dialogue: 0,0:01:16.36,0:01:19.37,Dialogue1,Unknown,0000,0000,0000,,Love is so bittersweet.
+Dialogue: 0,0:01:16.36,0:01:19.37,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(960,113)}{\i1}koiwa amakute nigaimono{\i0}
+Dialogue: 0,0:01:19.37,0:01:22.50,Dialogue1,Unknown,0000,0000,0000,,Plain and simple while complicated and mysterious.
+Dialogue: 0,0:01:19.37,0:01:22.50,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,112)}{\i1}tanjun meikai hukuzatsu kaikina shiromono{\i0}
+Dialogue: 0,0:01:22.50,0:01:25.50,Dialogue1,Unknown,0000,0000,0000,,You get worried about the most pointless things.
+Dialogue: 0,0:01:22.50,0:01:25.50,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(962,107)}{\i1}doudemoii kotobakkari{\i0}
+Dialogue: 0,0:01:22.50,0:01:25.50,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,172)}{\i1}kinishitari suruno{\i0}
+Dialogue: 0,0:01:25.50,0:01:28.38,Dialogue1,Unknown,0000,0000,0000,,How does it feel? THAT's how it feels.
+Dialogue: 0,0:01:25.50,0:01:28.38,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(962,112)}{\i1}donna kanji sonna kanji{\i0}
+Dialogue: 0,0:01:28.38,0:01:31.55,Dialogue1,Unknown,0000,0000,0000,,You are gentle and sincere yet eccentric.
+Dialogue: 0,0:01:28.38,0:01:31.55,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,112)}{\i1}onkou tokujitsu{\i0}
+Dialogue: 0,0:01:28.38,0:01:31.55,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(960,172)}{\i1}ekisentorikku na anata{\i0}
+Dialogue: 0,0:01:31.55,0:01:34.55,Dialogue1,Unknown,0000,0000,0000,,I act tough as we butt heads.
+Dialogue: 0,0:01:31.55,0:01:34.55,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,113)}{\i1}tsuyogaru soburiwo{\i0}
+Dialogue: 0,0:01:31.55,0:01:34.55,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,172)}{\i1}zenshin matotte tachiuchi{\i0}
+Dialogue: 0,0:01:34.55,0:01:37.39,Dialogue1,Unknown,0000,0000,0000,,I get dizzy whenever I try to be honest to myself.
+Dialogue: 0,0:01:34.55,0:01:37.39,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(963,113)}{\i1}sunaona dakedato shigekigai{\i0}
+Dialogue: 0,0:01:34.55,0:01:37.39,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(960,177)}{\i1}tsuyokute kurakura{\i0}
+Dialogue: 0,0:01:37.39,0:01:43.52,Dialogue1,Unknown,0000,0000,0000,,I get hurt. You get hurt.\NInnocent preparation.
+Dialogue: 0,0:01:37.39,0:01:43.52,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(960,107)}{\i1}kizutsui chauno kizutsuke chauno{\i0}
+Dialogue: 0,0:01:37.39,0:01:43.52,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(956,177)}{\i1}junjou pureparato{\i0}
+Dialogue: 0,0:01:43.52,0:01:49.31,Dialogue1,Unknown,0000,0000,0000,,In my mind, I'm always alone on an innocent Pre-Parade.
+Dialogue: 0,0:01:43.52,0:01:49.31,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(961,107)}{\i1}atamano nakawa itsumo hitorino{\i0}
+Dialogue: 0,0:01:43.52,0:01:49.31,Dialogue3,Unknown,0000,0000,0000,,{\an5\pos(956,177)}{\i1}junjou pureparedo{\i0}
+Dialogue: 0,0:01:53.90,0:01:58.03,Dialogue1,Unknown,0000,0000,0000,,Man, this isn't bad every once in a while.
+Dialogue: 0,0:01:53.90,0:01:58.03,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(961,107)}Bento Battle
+Dialogue: 0,0:01:58.20,0:02:04.58,Dialogue1,Unknown,0000,0000,0000,,Us four gays getting together and eating lunch, I mean.
+Dialogue: 0,0:02:04.58,0:02:06.33,Dialogue1,Unknown,0000,0000,0000,,You mean "us guys."
+Dialogue: 0,0:02:06.33,0:02:08.08,Dialogue1,Unknown,0000,0000,0000,,There aren't even four of us.
+Dialogue: 0,0:02:08.08,0:02:11.46,Dialogue1,Unknown,0000,0000,0000,,Professor Kitamura planned this whole thing, so where is he?
+Dialogue: 0,0:02:11.46,0:02:12.50,Dialogue1,Unknown,0000,0000,0000,,Thanks for waiting!
+Dialogue: 0,0:02:13.88,0:02:18.43,Dialogue1,Unknown,0000,0000,0000,,Sorry about that. I had to drop by the student council room to get this.
+Dialogue: 0,0:02:18.43,0:02:20.97,Dialogue1,Unknown,0000,0000,0000,,It wouldn't fit in my locker.
+Dialogue: 0,0:02:21.89,0:02:25.27,Dialogue1,Unknown,0000,0000,0000,,Wh-What is this...?
+Dialogue: 0,0:02:25.27,0:02:26.81,Dialogue1,Unknown,0000,0000,0000,,Could it be...
+Dialogue: 0,0:02:26.81,0:02:29.65,Dialogue1,Unknown,0000,0000,0000,,Y-Your bento?
+Dialogue: 0,0:02:29.65,0:02:30.61,Dialogue1,Unknown,0000,0000,0000,,Yup!
+Dialogue: 0,0:02:34.98,0:02:36.07,Dialogue1,Unknown,0000,0000,0000,,And so...
+Dialogue: 0,0:02:39.95,0:02:41.74,Dialogue1,Unknown,0000,0000,0000,,What do you mean "yup"!?
+Dialogue: 0,0:02:41.74,0:02:45.49,Dialogue1,Unknown,0000,0000,0000,,The only ones with bentos like these are rich kids in gag mangas.
+Dialogue: 0,0:02:45.49,0:02:49.96,Dialogue1,Unknown,0000,0000,0000,,Yeah. But Haruta, it's rude to laugh at someone else's lunch...
+Dialogue: 0,0:02:51.58,0:02:55.05,Dialogue1,Unknown,0000,0000,0000,,Manga bento!? No!\NA bento from another dimension!
+Dialogue: 0,0:02:56.84,0:02:58.38,Dialogue1,Unknown,0000,0000,0000,,The inside is just as wild!
+Dialogue: 0,0:03:08.48,0:03:12.56,Dialogue1,Unknown,0000,0000,0000,,What's all the hubbub?\NWhy not talk to gramps, here?
+Dialogue: 0,0:03:12.56,0:03:13.48,Dialogue1,Unknown,0000,0000,0000,,Minorin!?
+Dialogue: 0,0:03:13.48,0:03:17.19,Dialogue1,Unknown,0000,0000,0000,,What!? Maruo is eating a feast!
+Dialogue: 0,0:03:17.19,0:03:18.69,Dialogue1,Unknown,0000,0000,0000,,What is this, a party?
+Dialogue: 0,0:03:18.69,0:03:20.95,Dialogue1,Unknown,0000,0000,0000,,Yuck, those antennae are long.
+Dialogue: 0,0:03:22.03,0:03:25.33,Dialogue1,Unknown,0000,0000,0000,,This thirty-nine... Could it be...?
+Dialogue: 0,0:03:25.66,0:03:27.37,Dialogue1,Unknown,0000,0000,0000,,The "-saku" in "Yusaku"!?
+Dialogue: 0,0:03:27.37,0:03:28.33,Dialogue1,Unknown,0000,0000,0000,,That's right!
+Dialogue: 0,0:03:33.58,0:03:37.00,Dialogue1,Unknown,0000,0000,0000,,Yusaku, your grandma made this, right?
+Dialogue: 0,0:03:37.00,0:03:40.59,Dialogue1,Unknown,0000,0000,0000,,Huh? Your grandma made this?
+Dialogue: 0,0:03:40.59,0:03:45.01,Dialogue1,Unknown,0000,0000,0000,,Yeah, my parents went to Guam on business.
+Dialogue: 0,0:03:45.01,0:03:48.68,Dialogue1,Unknown,0000,0000,0000,,- My grandma was psyched to care for me,\N{\i1}- A lunch of this quality was made at home!?{\i0}
+Dialogue: 0,0:03:48.68,0:03:51.10,Dialogue1,Unknown,0000,0000,0000,,and that's about all there is to it.
+Dialogue: 0,0:03:51.35,0:03:54.11,Dialogue1,Unknown,0000,0000,0000,,She really loves her grandkids.
+Dialogue: 0,0:03:54.11,0:03:59.15,Dialogue1,Unknown,0000,0000,0000,,And I appreciate it, but she can go a little overboard...
+Dialogue: 0,0:03:59.15,0:04:03.32,Dialogue1,Unknown,0000,0000,0000,,So basically, I'd like you all to help me finish this!
+Dialogue: 0,0:04:03.86,0:04:05.45,Dialogue1,Unknown,0000,0000,0000,,We can eat this?
+Dialogue: 0,0:04:05.45,0:04:06.16,Dialogue1,Unknown,0000,0000,0000,,Seriously!?
+Dialogue: 0,0:04:06.16,0:04:06.99,Dialogue1,Unknown,0000,0000,0000,,Of course!
+Dialogue: 0,0:04:07.87,0:04:09.95,Dialogue1,Unknown,0000,0000,0000,,Leaving leftovers would make my grandma sad...
+Dialogue: 0,0:04:09.95,0:04:12.87,Dialogue1,Unknown,0000,0000,0000,,Oh! This one's for the ladies.
+Dialogue: 0,0:04:15.71,0:04:18.13,Dialogue1,Unknown,0000,0000,0000,,Thank you for the food!
+Dialogue: 0,0:04:23.76,0:04:26.18,Dialogue1,Unknown,0000,0000,0000,,What is this!? It's so good!
+Dialogue: 0,0:04:26.18,0:04:28.10,Dialogue1,Unknown,0000,0000,0000,,So gooood!
+Dialogue: 0,0:04:28.39,0:04:30.77,Dialogue1,Unknown,0000,0000,0000,,Yusaku's grandma is something else.
+Dialogue: 0,0:04:32.02,0:04:33.39,Dialogue1,Unknown,0000,0000,0000,,So tasty...
+Dialogue: 0,0:04:33.39,0:04:36.40,Dialogue1,Unknown,0000,0000,0000,,- I have a separate stomach for fruit!\N- What's wrong? Dig in, Takasu.
+Dialogue: 0,0:04:36.73,0:04:40.32,Dialogue1,Unknown,0000,0000,0000,,S-Sure. I'll try this fried chicken...
+Dialogue: 0,0:04:41.07,0:04:42.19,Dialogue1,Unknown,0000,0000,0000,,Taiga?
+Dialogue: 0,0:04:42.19,0:04:45.36,Dialogue1,Unknown,0000,0000,0000,,What's up, Aisaka? Don't hold back!
+Dialogue: 0,0:04:45.36,0:04:51.29,Dialogue1,Unknown,0000,0000,0000,,Huh? O-Okay, then I'll try...the lobster.
+Dialogue: 0,0:04:51.29,0:04:56.83,Dialogue1,Unknown,0000,0000,0000,,What!? Pretty arrogant of you to be eyeing the main course this whole time!
+Dialogue: 0,0:04:56.83,0:04:58.92,Dialogue1,Unknown,0000,0000,0000,,Stay out of this!
+Dialogue: 0,0:04:59.42,0:05:00.76,Dialogue1,Unknown,0000,0000,0000,,Well, but...
+Dialogue: 0,0:05:02.21,0:05:04.51,Dialogue1,Unknown,0000,0000,0000,,Go for it! Take it all!
+Dialogue: 0,0:05:08.85,0:05:16.23,Dialogue1,Unknown,0000,0000,0000,,Amazing! The more I chew, the more flavor I taste! Pure bliss...!
+Dialogue: 0,0:05:16.44,0:05:18.36,Dialogue1,Unknown,0000,0000,0000,,What happened to your bento?
+Dialogue: 0,0:05:18.36,0:05:21.98,Dialogue1,Unknown,0000,0000,0000,,I ate it, of course. But I have a separate stomach for lobster!
+Dialogue: 0,0:05:21.98,0:05:25.11,Dialogue1,Unknown,0000,0000,0000,,No, a whole different digestive system!\NLobster is the best word ever!
+Dialogue: 0,0:05:26.32,0:05:29.91,Dialogue1,Unknown,0000,0000,0000,,{\i1}Not only does it look perfect,{\i0} {\i1}but it tastes perfect, too...{\i0}
+Dialogue: 0,0:05:29.91,0:05:30.79,Dialogue1,Unknown,0000,0000,0000,,Takasu?
+Dialogue: 0,0:05:32.24,0:05:35.08,Dialogue1,Unknown,0000,0000,0000,,Can I take a picture of your bento?
+Dialogue: 0,0:05:35.87,0:05:40.29,Dialogue1,Unknown,0000,0000,0000,,Well, I want to show my grandma what a regular bento looks like.
+Dialogue: 0,0:05:41.17,0:05:45.63,Dialogue1,Unknown,0000,0000,0000,,Huh? But I was in a rush this morning and couldn't—
+Dialogue: 0,0:05:45.63,0:05:46.88,Dialogue1,Unknown,0000,0000,0000,,C'mon, it's fine.
+Dialogue: 0,0:05:48.26,0:05:53.52,Dialogue1,Unknown,0000,0000,0000,,- Cool, thanks. C'mon, everyone! Feast!\N{\i1}- I can't let anyone think...{\i0}
+Dialogue: 0,0:05:53.52,0:05:56.27,Dialogue1,Unknown,0000,0000,0000,,Lobsters are so stupid,\N{\i1}- that this is my best...{\i0}
+Dialogue: 0,0:05:56.27,0:05:57.85,Dialogue1,Unknown,0000,0000,0000,,letting themselves taste good...
+Dialogue: 0,0:05:57.85,0:05:59.44,Dialogue1,Unknown,0000,0000,0000,,Same goes for crabs.
+Dialogue: 0,0:06:03.78,0:06:08.66,Dialogue1,Unknown,0000,0000,0000,,Ugh, that damn Yusaku...\NI ate way too much.
+Dialogue: 0,0:06:08.66,0:06:11.62,Dialogue1,Unknown,0000,0000,0000,,Ka-Kawashima, um, y'know...
+Dialogue: 0,0:06:11.78,0:06:13.74,Dialogue1,Unknown,0000,0000,0000,,What? Out with it.
+Dialogue: 0,0:06:14.00,0:06:16.37,Dialogue1,Unknown,0000,0000,0000,,About Kitamura's grandma, um...
+Dialogue: 0,0:06:16.37,0:06:21.17,Dialogue1,Unknown,0000,0000,0000,,Is she like a cooking teacher, or does she have her own restaurant?
+Dialogue: 0,0:06:21.17,0:06:23.88,Dialogue1,Unknown,0000,0000,0000,,She's got to be a pro. Right...?
+Dialogue: 0,0:06:25.46,0:06:27.97,Dialogue1,Unknown,0000,0000,0000,,She's just your average housewife.
+Dialogue: 0,0:06:28.68,0:06:30.97,Dialogue1,Unknown,0000,0000,0000,,Your average...housewife...
+Dialogue: 0,0:06:30.97,0:06:33.68,Dialogue1,Unknown,0000,0000,0000,,Yeah. I'm pretty sure, anyway.
+Dialogue: 0,0:06:33.93,0:06:37.98,Dialogue1,Unknown,0000,0000,0000,,So...what's her name, anyway?
+Dialogue: 0,0:06:39.06,0:06:44.36,Dialogue1,Unknown,0000,0000,0000,,What? Why would I know that?\NAnd yuck, what's with that face?
+Dialogue: 0,0:06:45.65,0:06:51.41,Dialogue1,Unknown,0000,0000,0000,,Jeez, what a shock. That venomous glare just sparked my memory.
+Dialogue: 0,0:06:51.41,0:06:55.29,Dialogue1,Unknown,0000,0000,0000,,Her name is Miyo, born in the year of the snake. Yep, Miyo-chan.
+Dialogue: 0,0:06:56.95,0:06:59.04,Dialogue1,Unknown,0000,0000,0000,,{\i1}Miyo-chan, huh?{\i0}
+Dialogue: 0,0:07:01.63,0:07:07.42,Dialogue1,Unknown,0000,0000,0000,,{\i1}Let's see what your "best"{\i0} {\i1}bento is truly like, boy!{\i0}
+Dialogue: 0,0:07:10.09,0:07:14.85,Dialogue1,Unknown,0000,0000,0000,,Bring it on! Our next battle will be for real, Miyo-chan!
+Dialogue: 0,0:07:16.02,0:07:19.10,Dialogue1,Unknown,0000,0000,0000,,Hey, are you okay...?
+Dialogue: 0,0:07:24.23,0:07:28.40,Dialogue1,Unknown,0000,0000,0000,,Kitamura-kun! Let's eat together.
+Dialogue: 0,0:07:28.40,0:07:30.57,Dialogue1,Unknown,0000,0000,0000,,Your grandma made you lunch again, right?
+Dialogue: 0,0:07:30.78,0:07:35.28,Dialogue1,Unknown,0000,0000,0000,,Yep. But look. It's a normal sized one today!
+Dialogue: 0,0:07:35.28,0:07:39.87,Dialogue1,Unknown,0000,0000,0000,,{\i1}Right... It can't be too expensive,{\i0} {\i1}or take too much time to make...{\i0}
+Dialogue: 0,0:07:39.87,0:07:42.88,Dialogue1,Unknown,0000,0000,0000,,{\i1}It must be the perfect size{\i0} {\i1}for a high schooler...{\i0}
+Dialogue: 0,0:07:42.88,0:07:46.25,Dialogue1,Unknown,0000,0000,0000,,{\i1}Using these rules, we can have a fair fight.{\i0}
+Dialogue: 0,0:07:46.88,0:07:48.55,Dialogue1,Unknown,0000,0000,0000,,All right, let's see...
+Dialogue: 0,0:07:48.55,0:07:49.97,Dialogue1,Unknown,0000,0000,0000,,Huh? What's up?
+Dialogue: 0,0:07:49.97,0:07:52.97,Dialogue1,Unknown,0000,0000,0000,,{\i1}Okay... Bring it, Miyo-chan!{\i0}
+Dialogue: 0,0:07:52.97,0:07:56.35,Dialogue1,Unknown,0000,0000,0000,,Whoa! Nice, Takasu. Fried cutlets today?
+Dialogue: 0,0:07:57.35,0:07:58.52,Dialogue1,Unknown,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:58.52,0:08:06.77,Dialogue1,Unknown,0000,0000,0000,,They're last night's leftovers, quickly and easily cooked up with some fresh eggs.
+Dialogue: 0,0:08:06.77,0:08:07.73,Dialogue1,Unknown,0000,0000,0000,,Neat!
+Dialogue: 0,0:08:07.73,0:08:13.11,Dialogue1,Unknown,0000,0000,0000,,{\i1}Let's see what you got... Gonna break{\i0} {\i1}the rules again for your grandson?{\i0}
+Dialogue: 0,0:08:13.11,0:08:15.95,Dialogue1,Unknown,0000,0000,0000,,{\i1}- Caviar? Shark fin?{\i0}\N- Now then...
+Dialogue: 0,0:08:16.45,0:08:17.08,Dialogue1,Unknown,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:18.79,0:08:21.33,Dialogue1,Unknown,0000,0000,0000,,P-Pretty simple, isn't it?
+Dialogue: 0,0:08:21.62,0:08:27.17,Dialogue1,Unknown,0000,0000,0000,,I did tell her that rice balls would suffice, but she really took it easy.
+Dialogue: 0,0:08:27.17,0:08:32.97,Dialogue1,Unknown,0000,0000,0000,,{\i1}This lunch is too simple. It's not{\i0} {\i1}enough for a high schooler.{\i0}
+Dialogue: 0,0:08:32.97,0:08:38.56,Dialogue1,Unknown,0000,0000,0000,,{\i1}I think I've won...but wait!{\i0}\N{\i1}That shine...is it sesame oil!?{\i0}
+Dialogue: 0,0:08:38.56,0:08:40.52,Dialogue1,Unknown,0000,0000,0000,,{\i1}Hold on, could it be...!?{\i0}
+Dialogue: 0,0:08:42.56,0:08:45.48,Dialogue1,Unknown,0000,0000,0000,,S-So good!
+Dialogue: 0,0:08:45.86,0:08:51.99,Dialogue1,Unknown,0000,0000,0000,,It's filled with barbecue beef and wrapped in\NKorean-style seaweed! What a surprise!
+Dialogue: 0,0:08:51.99,0:08:56.66,Dialogue1,Unknown,0000,0000,0000,,This bento is perfect. And is this a plum?
+Dialogue: 0,0:08:56.66,0:09:02.83,Dialogue1,Unknown,0000,0000,0000,,And this is... Yay! Tuna and mayo!\NMy absolute favorite!
+Dialogue: 0,0:09:03.25,0:09:04.92,Dialogue1,Unknown,0000,0000,0000,,You actually said "yay"...
+Dialogue: 0,0:09:05.75,0:09:12.42,Dialogue1,Unknown,0000,0000,0000,,{\i1}The barbecue beef is exciting, the plum is a{\i0} {\i1}rice ball staple, and it has his favorite dish...{\i0}
+Dialogue: 0,0:09:12.42,0:09:15.38,Dialogue1,Unknown,0000,0000,0000,,{\i1}A perfect merging of simplicity and variety...{\i0}
+Dialogue: 0,0:09:15.93,0:09:19.76,Dialogue1,Unknown,0000,0000,0000,,{\i1}Compared to that, my cutlet{\i0} {\i1}will taste the same...{\i0}
+Dialogue: 0,0:09:19.76,0:09:24.19,Dialogue1,Unknown,0000,0000,0000,,{\i1}For the whole. Entire. Meal.{\i0}
+Dialogue: 0,0:09:24.44,0:09:30.57,Dialogue1,Unknown,0000,0000,0000,,Ryuji, thanks for the food. The fried cutlet with egg was really tasty.
+Dialogue: 0,0:09:30.57,0:09:33.24,Dialogue1,Unknown,0000,0000,0000,,Huh? O-Oh, no problem.
+Dialogue: 0,0:09:33.24,0:09:35.57,Dialogue1,Unknown,0000,0000,0000,,Wow, those rice balls look good!
+Dialogue: 0,0:09:35.86,0:09:38.74,Dialogue1,Unknown,0000,0000,0000,,Rice balls for dinner doesn't sound bad.
+Dialogue: 0,0:09:38.74,0:09:43.16,Dialogue1,Unknown,0000,0000,0000,,I mean, lunch was good and all, but eating this day after day ruins its luster.
+Dialogue: 0,0:09:44.12,0:09:49.67,Dialogue1,Unknown,0000,0000,0000,,Y-Yeah, I know that, but...\NWe had leftovers, so...
+Dialogue: 0,0:09:49.67,0:09:56.43,Dialogue1,Unknown,0000,0000,0000,,{\i1}No. I let Miyo-chan get into my head, making{\i0} {\i1}me think luxurious fried food was king...{\i0}
+Dialogue: 0,0:09:56.84,0:10:01.64,Dialogue1,Unknown,0000,0000,0000,,{\i1}But to accommodate that thought,{\i0}\N{\i1}I needed a reason to make fried food.{\i0}
+Dialogue: 0,0:10:01.64,0:10:04.93,Dialogue1,Unknown,0000,0000,0000,,{\i1}So I cooked it for dinner last night...{\i0}
+Dialogue: 0,0:10:04.93,0:10:11.36,Dialogue1,Unknown,0000,0000,0000,,{\i1}Yeah...I made fried cutlet last night just{\i0} {\i1}so I could use it for lunch today...{\i0}
+Dialogue: 0,0:10:11.65,0:10:16.24,Dialogue1,Unknown,0000,0000,0000,,{\i1}A true housewife needs to think about{\i0} {\i1}food for an extended period of time.{\i0}
+Dialogue: 0,0:10:16.24,0:10:19.49,Dialogue1,Unknown,0000,0000,0000,,{\i1}I went a tad overboard yesterday,{\i0} {\i1}but...I got my groove back.{\i0}
+Dialogue: 0,0:10:21.66,0:10:22.99,Dialogue1,Unknown,0000,0000,0000,,Miiiiiyoooo!
+Dialogue: 0,0:10:22.99,0:10:24.29,Dialogue1,Unknown,0000,0000,0000,,Are you shouting my grandma's name!?
+Dialogue: 0,0:10:28.21,0:10:33.67,Dialogue1,Unknown,0000,0000,0000,,Bento... Bento... How...?
+Dialogue: 0,0:10:34.30,0:10:37.17,Dialogue1,Unknown,0000,0000,0000,,What do I need to do...?
+Dialogue: 0,0:10:37.38,0:10:40.26,Dialogue1,Unknown,0000,0000,0000,,Hey, what're you gonna put in the rice balls?
+Dialogue: 0,0:10:40.26,0:10:45.18,Dialogue1,Unknown,0000,0000,0000,,Salmon is a must, but it can't be salted. Just regular.
+Dialogue: 0,0:10:46.31,0:10:50.52,Dialogue1,Unknown,0000,0000,0000,,Rice balls!? How can I win if I make the same things she does!?
+Dialogue: 0,0:10:51.52,0:10:54.28,Dialogue1,Unknown,0000,0000,0000,,I'm talking about dinner, not lunch.
+Dialogue: 0,0:10:54.28,0:10:55.78,Dialogue1,Unknown,0000,0000,0000,,Dinner can wait!
+Dialogue: 0,0:10:56.53,0:11:02.12,Dialogue1,Unknown,0000,0000,0000,,I was proud of my housewifery...\NI took real pride in it!
+Dialogue: 0,0:11:03.08,0:11:07.04,Dialogue1,Unknown,0000,0000,0000,,But... I'm still a high school level one...
+Dialogue: 0,0:11:07.04,0:11:11.79,Dialogue1,Unknown,0000,0000,0000,,I might be great in the junior circuit, but I can't even compete in the senior circuit.
+Dialogue: 0,0:11:11.79,0:11:16.84,Dialogue1,Unknown,0000,0000,0000,,I am but a small fish in a big pond...\NI was thrown into the open sea,
+Dialogue: 0,0:11:16.84,0:11:19.13,Dialogue1,Unknown,0000,0000,0000,,only to be met by a shark named Kitamura Miyo...
+Dialogue: 0,0:11:19.13,0:11:21.18,Dialogue1,Unknown,0000,0000,0000,,Bonito flakes wouldn't be bad, either.
+Dialogue: 0,0:11:23.01,0:11:24.72,Dialogue1,Unknown,0000,0000,0000,,Hey, what are you doing?
+Dialogue: 0,0:11:24.72,0:11:31.15,Dialogue1,Unknown,0000,0000,0000,,Huh? Since you're howling like a useless mutt, I'm doing the shopping for you.
+Dialogue: 0,0:11:31.48,0:11:37.07,Dialogue1,Unknown,0000,0000,0000,,The shopping...? C'mon, this is all junk food.
+Dialogue: 0,0:11:37.07,0:11:40.82,Dialogue1,Unknown,0000,0000,0000,,What? I put some bonito flakes in there!\NAnd that one's for dessert.
+Dialogue: 0,0:11:40.82,0:11:45.16,Dialogue1,Unknown,0000,0000,0000,,Oh, did you know that if you put soy sauce on pudding, it tastes like melons?
+Dialogue: 0,0:11:45.41,0:11:47.62,Dialogue1,Unknown,0000,0000,0000,,Old news, and you even got it wrong.
+Dialogue: 0,0:11:47.62,0:11:49.62,Dialogue1,Unknown,0000,0000,0000,,Huh? Really? What was it, then?
+Dialogue: 0,0:11:49.62,0:11:53.54,Dialogue1,Unknown,0000,0000,0000,,{\i1}- I can't be wasting my time like this...{\i0}\N- Not melons... Just watermelon?
+Dialogue: 0,0:11:53.54,0:11:57.63,Dialogue1,Unknown,0000,0000,0000,,{\i1}Oh! I know what this small fish{\i0} {\i1}has that the old shark doesn't.{\i0}
+Dialogue: 0,0:11:57.63,0:11:59.55,Dialogue1,Unknown,0000,0000,0000,,{\i1}That would be...{\i0}
+Dialogue: 0,0:11:59.97,0:12:02.05,Dialogue1,Unknown,0000,0000,0000,,My youth.
+Dialogue: 0,0:12:06.10,0:12:09.98,Dialogue1,Unknown,0000,0000,0000,,Hey, Taiga! Seen Kitamura-kun?
+Dialogue: 0,0:12:10.64,0:12:15.86,Dialogue1,Unknown,0000,0000,0000,,Hey, it has to be five millimeters below this line! No more, no less.
+Dialogue: 0,0:12:15.86,0:12:17.28,Dialogue1,Unknown,0000,0000,0000,,Okay, a little more.
+Dialogue: 0,0:12:17.28,0:12:21.36,Dialogue1,Unknown,0000,0000,0000,,Shut up! You're the one always telling me to not eat this stuff!
+Dialogue: 0,0:12:21.36,0:12:23.16,Dialogue1,Unknown,0000,0000,0000,,Are those cup noodles?
+Dialogue: 0,0:12:24.12,0:12:25.78,Dialogue1,Unknown,0000,0000,0000,,Oh...Minorin.
+Dialogue: 0,0:12:25.78,0:12:32.75,Dialogue1,Unknown,0000,0000,0000,,You brought a pot, too? That's pretty hip, makes me wanna do a flip and take a dip.
+Dialogue: 0,0:12:32.75,0:12:35.79,Dialogue1,Unknown,0000,0000,0000,,What's this? Having cup noodles for lunch?
+Dialogue: 0,0:12:35.79,0:12:39.51,Dialogue1,Unknown,0000,0000,0000,,I want some. I'm tired of cold food.
+Dialogue: 0,0:12:39.51,0:12:41.22,Dialogue1,Unknown,0000,0000,0000,,That smells nice.
+Dialogue: 0,0:12:41.22,0:12:42.63,Dialogue1,Unknown,0000,0000,0000,,- I want some.\N- Looks good...
+Dialogue: 0,0:12:42.63,0:12:47.14,Dialogue1,Unknown,0000,0000,0000,,{\i1}Eating this at home is normal,{\i0} {\i1}but eating it at school is new.{\i0}
+Dialogue: 0,0:12:47.14,0:12:50.60,Dialogue1,Unknown,0000,0000,0000,,{\i1}Lunch time will become fun time.{\i0}
+Dialogue: 0,0:12:50.60,0:12:54.23,Dialogue1,Unknown,0000,0000,0000,,{\i1}This youthful way of thinking must be{\i0} {\i1}foreign to Kitamura's grandma...{\i0}
+Dialogue: 0,0:12:54.23,0:12:56.23,Dialogue1,Unknown,0000,0000,0000,,{\i1}This victory...{\i0}
+Dialogue: 0,0:12:56.23,0:12:57.57,Dialogue1,Unknown,0000,0000,0000,,Is all mine!
+Dialogue: 0,0:12:57.57,0:13:00.03,Dialogue1,Unknown,0000,0000,0000,,Minorin, you can't eat with us today?
+Dialogue: 0,0:13:01.07,0:13:04.24,Dialogue1,Unknown,0000,0000,0000,,We have a lunch meeting for softball today...
+Dialogue: 0,0:13:05.36,0:13:10.04,Dialogue1,Unknown,0000,0000,0000,,Hey, hey! Bro-amura, let's get going, bro.
+Dialogue: 0,0:13:10.49,0:13:11.70,Dialogue1,Unknown,0000,0000,0000,,Sorry, sorry.
+Dialogue: 0,0:13:11.70,0:13:13.46,Dialogue1,Unknown,0000,0000,0000,,H-Hey, Kitamura.
+Dialogue: 0,0:13:13.83,0:13:18.59,Dialogue1,Unknown,0000,0000,0000,,I overslept today, so I had to bring cup noodles...
+Dialogue: 0,0:13:18.92,0:13:20.59,Dialogue1,Unknown,0000,0000,0000,,Huh? You have hot water, then?
+Dialogue: 0,0:13:21.30,0:13:22.72,Dialogue1,Unknown,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:13:22.72,0:13:25.38,Dialogue1,Unknown,0000,0000,0000,,Mind if I...use some of it?
+Dialogue: 0,0:13:27.09,0:13:31.89,Dialogue1,Unknown,0000,0000,0000,,What a lifesaver. My grandma gave me cup soup.
+Dialogue: 0,0:13:32.22,0:13:36.65,Dialogue1,Unknown,0000,0000,0000,,She was like, "Some kids eat cup noodles, right? Just ask them for hot water."
+Dialogue: 0,0:13:37.06,0:13:40.69,Dialogue1,Unknown,0000,0000,0000,,I thought there'd be no way, but...score.
+Dialogue: 0,0:13:43.07,0:13:47.41,Dialogue1,Unknown,0000,0000,0000,,It's this and a sandwich today. Perfect for munching on while in a meeting.
+Dialogue: 0,0:13:47.70,0:13:49.28,Dialogue1,Unknown,0000,0000,0000,,Kitamura-kun!
+Dialogue: 0,0:13:49.62,0:13:51.45,Dialogue1,Unknown,0000,0000,0000,,Sorry about the wait. Let's go.
+Dialogue: 0,0:13:51.79,0:13:54.46,Dialogue1,Unknown,0000,0000,0000,,'Kaaaay. See you later, Taiga.
+Dialogue: 0,0:13:54.46,0:13:55.92,Dialogue1,Unknown,0000,0000,0000,,'Kaaaay.
+Dialogue: 0,0:13:58.13,0:14:00.17,Dialogue1,Unknown,0000,0000,0000,,A sandwich sounds good.
+Dialogue: 0,0:14:00.46,0:14:02.00,Dialogue1,Unknown,0000,0000,0000,,Then don't eat that.
+Dialogue: 0,0:14:03.67,0:14:06.01,Dialogue1,Unknown,0000,0000,0000,,I mean, give it back to me.
+Dialogue: 0,0:14:07.59,0:14:08.72,Dialogue1,Unknown,0000,0000,0000,,What are you doing!?
+Dialogue: 0,0:14:09.39,0:14:12.01,Dialogue1,Unknown,0000,0000,0000,,- What're they doing?\N- No! You can't! Don't eat it!
+Dialogue: 0,0:14:12.01,0:14:14.23,Dialogue1,Unknown,0000,0000,0000,,You're not even making sens—ow, hot!
+Dialogue: 0,0:14:14.23,0:14:18.19,Dialogue1,Unknown,0000,0000,0000,,I don't think they'll get enough vital nutrients from cup noodles.
+Dialogue: 0,0:14:18.19,0:14:19.31,Dialogue1,Unknown,0000,0000,0000,,Hot!
+Dialogue: 0,0:14:24.69,0:14:27.24,Dialogue1,Unknown,0000,0000,0000,,Hey, hey. Thanks for waiting!
+Dialogue: 0,0:14:28.61,0:14:30.41,Dialogue1,Unknown,0000,0000,0000,,No extra...
+Dialogue: 0,0:14:30.74,0:14:32.91,Dialogue1,Unknown,0000,0000,0000,,Sans extra...
+Dialogue: 0,0:14:33.49,0:14:35.96,Dialogue1,Unknown,0000,0000,0000,,But then...
+Dialogue: 0,0:14:36.41,0:14:39.54,Dialogue1,Unknown,0000,0000,0000,,Pow! Extra-extra on another plate!
+Dialogue: 0,0:14:40.59,0:14:41.88,Dialogue1,Unknown,0000,0000,0000,,Thanks, Minorin!
+Dialogue: 0,0:14:41.88,0:14:47.38,Dialogue1,Unknown,0000,0000,0000,,No thanks necessary. If that's still not enough, I can give you even more.
+Dialogue: 0,0:14:47.38,0:14:49.18,Dialogue1,Unknown,0000,0000,0000,,Super extra-extra.
+Dialogue: 0,0:14:50.26,0:14:51.22,Dialogue1,Unknown,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:53.26,0:14:58.27,Dialogue1,Unknown,0000,0000,0000,,Anyway, gorging on carbs after school, are we?
+Dialogue: 0,0:14:58.27,0:15:04.48,Dialogue1,Unknown,0000,0000,0000,,Cup noodles can't fill my stomach.\NNot to mention I wasn't able to eat it...
+Dialogue: 0,0:15:06.32,0:15:11.28,Dialogue1,Unknown,0000,0000,0000,,Why doesn't Ryuji just make his regular bentos?
+Dialogue: 0,0:15:11.82,0:15:15.62,Dialogue1,Unknown,0000,0000,0000,,He's thinking way too hard, that mongrel.
+Dialogue: 0,0:15:17.83,0:15:25.13,Dialogue1,Unknown,0000,0000,0000,,Boo-hoo Taiga, you poor girl. You can't survive without his food anymore, can you?
+Dialogue: 0,0:15:25.84,0:15:27.09,Dialogue1,Unknown,0000,0000,0000,,Whaaat!?
+Dialogue: 0,0:15:27.09,0:15:32.39,Dialogue1,Unknown,0000,0000,0000,,Now, now. Eating is the basis of all things. It's normal to be fed.
+Dialogue: 0,0:15:32.64,0:15:34.81,Dialogue1,Unknown,0000,0000,0000,,I'll be around. Take your time!
+Dialogue: 0,0:15:44.36,0:15:46.07,Dialogue1,Unknown,0000,0000,0000,,Bentos, huh...?
+Dialogue: 0,0:15:48.74,0:15:55.95,Dialogue1,Unknown,0000,0000,0000,,No... No... No... This isn't it...
+Dialogue: 0,0:15:56.24,0:15:59.54,Dialogue1,Unknown,0000,0000,0000,,Wow! It's like a food party!
+Dialogue: 0,0:15:59.83,0:16:05.75,Dialogue1,Unknown,0000,0000,0000,,This looks really good, but I can't eat it all. Where's Taiga?
+Dialogue: 0,0:16:06.05,0:16:06.88,Dialogue1,Unknown,0000,0000,0000,,No idea.
+Dialogue: 0,0:16:09.59,0:16:11.68,Dialogue1,Unknown,0000,0000,0000,,Oh, can I take some to work?
+Dialogue: 0,0:16:11.68,0:16:18.22,Dialogue1,Unknown,0000,0000,0000,,Mr. Yaegaki's wife left him. I'm sure he'd be delighted. Your food's really good, so—
+Dialogue: 0,0:16:18.47,0:16:20.60,Dialogue1,Unknown,0000,0000,0000,,See you later!
+Dialogue: 0,0:16:28.11,0:16:29.82,Dialogue1,Unknown,0000,0000,0000,,Time for me to eat.
+Dialogue: 0,0:16:34.78,0:16:38.33,Dialogue1,Unknown,0000,0000,0000,,What the heck? She should've come over for dinner.
+Dialogue: 0,0:16:39.75,0:16:43.25,Dialogue1,Unknown,0000,0000,0000,,She's probably still mad about lunch.
+Dialogue: 0,0:16:44.46,0:16:46.25,Dialogue1,Unknown,0000,0000,0000,,{\i1}I can't be doting over her...{\i0}
+Dialogue: 0,0:16:46.75,0:16:50.67,Dialogue1,Unknown,0000,0000,0000,,{\i1}I need to create the ultimate lunch{\i0} {\i1}and defeat Kitamura Miyo...{\i0}
+Dialogue: 0,0:16:51.47,0:16:53.47,Dialogue1,Unknown,0000,0000,0000,,{\i1}No matter the cost.{\i0}
+Dialogue: 0,0:16:54.22,0:16:58.01,Dialogue1,Unknown,0000,0000,0000,,{\i1}Maybe I can stuff some{\i0} {\i1}curry into some rice...?{\i0}
+Dialogue: 0,0:16:58.01,0:16:58.93,Dialogue1,Unknown,0000,0000,0000,,Chugu.
+Dialogue: 0,0:16:59.10,0:17:03.14,Dialogue1,Unknown,0000,0000,0000,,{\i1}Maybe I can bring some sashimi{\i0} {\i1}and make a sashimi bowl?{\i0}
+Dialogue: 0,0:17:03.14,0:17:04.15,Dialogue1,Unknown,0000,0000,0000,,Chupepu.
+Dialogue: 0,0:17:04.15,0:17:07.44,Dialogue1,Unknown,0000,0000,0000,,{\i1}- Or maybe some nice cracker appetizers!?{\i0}\N- Pubebo po!
+Dialogue: 0,0:17:07.69,0:17:11.11,Dialogue1,Unknown,0000,0000,0000,,Hey! Stop making those garbage noises!
+Dialogue: 0,0:17:11.11,0:17:12.82,Dialogue1,Unknown,0000,0000,0000,,S-Seconds?
+Dialogue: 0,0:17:12.82,0:17:14.66,Dialogue1,Unknown,0000,0000,0000,,You want more? I mean...
+Dialogue: 0,0:17:15.70,0:17:18.41,Dialogue1,Unknown,0000,0000,0000,,{\i1}Garbage... Leftovers...{\i0}
+Dialogue: 0,0:17:19.16,0:17:22.12,Dialogue1,Unknown,0000,0000,0000,,{\i1}I already failed with my cutlet...{\i0}
+Dialogue: 0,0:17:22.79,0:17:29.30,Dialogue1,Unknown,0000,0000,0000,,{\i1}Then, maybe... Maybe I simply{\i0} {\i1}need to make something fresh.{\i0}
+Dialogue: 0,0:17:29.92,0:17:32.88,Dialogue1,Unknown,0000,0000,0000,,Yeah, that's it... That has to be it...
+Dialogue: 0,0:17:33.47,0:17:34.09,Dialogue1,Unknown,0000,0000,0000,,In...
+Dialogue: 0,0:17:34.09,0:17:38.26,Dialogue1,Unknown,0000,0000,0000,,Indecent rulebreaker, am I!?\NJudge me all you like, Inko-chan!
+Dialogue: 0,0:17:38.26,0:17:40.39,Dialogue1,Unknown,0000,0000,0000,,I-In... I-In...
+Dialogue: 0,0:17:41.47,0:17:42.60,Dialogue1,Unknown,0000,0000,0000,,Inzaghi.
+Dialogue: 0,0:17:42.60,0:17:43.73,Dialogue1,Unknown,0000,0000,0000,,Whatever!
+Dialogue: 0,0:17:44.10,0:17:49.48,Dialogue1,Unknown,0000,0000,0000,,- Filippo Inzaghi... You know him?\N{\i1}- Yeah, so what if I cheat a little bit...?{\i0}
+Dialogue: 0,0:17:49.48,0:17:52.53,Dialogue1,Unknown,0000,0000,0000,,{\i1}I'll take it...to the next level!{\i0}
+Dialogue: 0,0:17:54.15,0:17:57.11,Dialogue1,Unknown,0000,0000,0000,,Hot, hot, hot, hot!
+Dialogue: 0,0:17:57.66,0:18:04.83,Dialogue1,Unknown,0000,0000,0000,,"The Hayabusa Bullet Train debuted March 5 on the Tohoku Shinkansen line,"
+Dialogue: 0,0:18:04.83,0:18:08.50,Dialogue1,Unknown,0000,0000,0000,,"thrilling rail fans and people living in northern..." Huh?
+Dialogue: 0,0:18:12.46,0:18:13.84,Dialogue1,Unknown,0000,0000,0000,,That smell...
+Dialogue: 0,0:18:16.38,0:18:17.47,Dialogue1,Unknown,0000,0000,0000,,What is it...?
+Dialogue: 0,0:18:20.22,0:18:21.51,Dialogue1,Unknown,0000,0000,0000,,This is...?
+Dialogue: 0,0:18:22.35,0:18:27.27,Dialogue1,Unknown,0000,0000,0000,,That sound... There's no way, right?
+Dialogue: 0,0:18:27.27,0:18:30.27,Dialogue1,Unknown,0000,0000,0000,,I mean, it can't be...
+Dialogue: 0,0:18:32.98,0:18:34.15,Dialogue1,Unknown,0000,0000,0000,,But...
+Dialogue: 0,0:18:40.74,0:18:43.70,Dialogue1,Unknown,0000,0000,0000,,- A...rice cooker?\N- You serious?
+Dialogue: 0,0:18:43.70,0:18:44.87,Dialogue1,Unknown,0000,0000,0000,,Rice cooker?
+Dialogue: 0,0:18:44.87,0:18:45.91,Dialogue1,Unknown,0000,0000,0000,,No way...
+Dialogue: 0,0:18:45.91,0:18:48.29,Dialogue1,Unknown,0000,0000,0000,,It did smell good.
+Dialogue: 0,0:18:48.29,0:18:52.59,Dialogue1,Unknown,0000,0000,0000,,- Oh man, it smells good...\N- I'm getting hungry now...
+Dialogue: 0,0:18:52.59,0:18:56.80,Dialogue1,Unknown,0000,0000,0000,,So...why did you do this, Takasu-kun?
+Dialogue: 0,0:18:57.76,0:18:58.59,Dialogue1,Unknown,0000,0000,0000,,Takasu?
+Dialogue: 0,0:18:58.93,0:19:03.93,Dialogue1,Unknown,0000,0000,0000,,Silly Taka-chan. You don't cook rice in the classroom.
+Dialogue: 0,0:19:03.93,0:19:05.56,Dialogue1,Unknown,0000,0000,0000,,That's {\i1}too{\i0} funny.
+Dialogue: 0,0:19:07.81,0:19:13.57,Dialogue1,Unknown,0000,0000,0000,,Wait a sec, you guys! And you too, Teach!\NHow do you know it's me!? Don't assume!
+Dialogue: 0,0:19:13.82,0:19:17.24,Dialogue1,Unknown,0000,0000,0000,,Come on, who else would possibly try to do this?
+Dialogue: 0,0:19:20.78,0:19:24.99,Dialogue1,Unknown,0000,0000,0000,,Fine! I'm guilty! Please let it slide!
+Dialogue: 0,0:19:24.99,0:19:28.54,Dialogue1,Unknown,0000,0000,0000,,Please don't pull the plug! It's too cruel!
+Dialogue: 0,0:19:30.58,0:19:32.13,Dialogue1,Unknown,0000,0000,0000,,Wh-What's going on!?
+Dialogue: 0,0:19:33.84,0:19:35.05,Dialogue1,Unknown,0000,0000,0000,,Idiot.
+Dialogue: 0,0:19:42.14,0:19:43.51,Dialogue1,Unknown,0000,0000,0000,,It's all over.
+Dialogue: 0,0:19:47.48,0:19:52.94,Dialogue1,Unknown,0000,0000,0000,,Such a waste. Can't you just plug it in again?
+Dialogue: 0,0:19:53.90,0:19:56.03,Dialogue1,Unknown,0000,0000,0000,,That'll ruin the rice's taste.
+Dialogue: 0,0:19:56.28,0:20:00.28,Dialogue1,Unknown,0000,0000,0000,,Who cares? You've already hit the bottom of the barrel.
+Dialogue: 0,0:20:03.78,0:20:05.24,Dialogue1,Unknown,0000,0000,0000,,The taste of autumn...
+Dialogue: 0,0:20:06.08,0:20:08.70,Dialogue1,Unknown,0000,0000,0000,,Maitake mushrooms... Oyster mushrooms...
+Dialogue: 0,0:20:08.70,0:20:09.96,Dialogue1,Unknown,0000,0000,0000,,So many mushrooms...
+Dialogue: 0,0:20:10.87,0:20:14.84,Dialogue1,Unknown,0000,0000,0000,,I thought that...I could win with freshly prepared mushroom rice...
+Dialogue: 0,0:20:15.04,0:20:17.38,Dialogue1,Unknown,0000,0000,0000,,That's not a bento.
+Dialogue: 0,0:20:17.38,0:20:24.64,Dialogue1,Unknown,0000,0000,0000,,I know. I was the one who created the rules, and I broke them. So, I lose by default...
+Dialogue: 0,0:20:24.93,0:20:30.14,Dialogue1,Unknown,0000,0000,0000,,What do you mean, default? You lost it, started huffing like a cur, and self-imploded.
+Dialogue: 0,0:20:31.27,0:20:32.35,Dialogue1,Unknown,0000,0000,0000,,Here.
+Dialogue: 0,0:20:33.77,0:20:37.94,Dialogue1,Unknown,0000,0000,0000,,I had a feeling that I wasn't going to be able to eat lunch today.
+Dialogue: 0,0:20:38.82,0:20:42.78,Dialogue1,Unknown,0000,0000,0000,,This is my blessing for an over-thinking, wayward mongrel.
+Dialogue: 0,0:20:44.74,0:20:48.49,Dialogue1,Unknown,0000,0000,0000,,You...made this? All by yourself?
+Dialogue: 0,0:20:48.49,0:20:53.21,Dialogue1,Unknown,0000,0000,0000,,Ungrateful fool! Even I can make rice balls!
+Dialogue: 0,0:20:54.13,0:20:56.59,Dialogue1,Unknown,0000,0000,0000,,You...taught me before, remember?
+Dialogue: 0,0:20:58.50,0:21:01.51,Dialogue1,Unknown,0000,0000,0000,,{\i1}Hot! Freshly cooked rice is dangerous!{\i0}
+Dialogue: 0,0:21:01.51,0:21:05.76,Dialogue1,Unknown,0000,0000,0000,,{\i1}Just grab it! We need to have hot rice{\i0} {\i1}or it won't be any good! Go for it!{\i0}
+Dialogue: 0,0:21:12.73,0:21:16.98,Dialogue1,Unknown,0000,0000,0000,,What? If you don't want it,\NI won't force it on you.
+Dialogue: 0,0:21:17.65,0:21:19.90,Dialogue1,Unknown,0000,0000,0000,,I-I'll take it. Thanks!
+Dialogue: 0,0:21:23.15,0:21:24.11,Dialogue1,Unknown,0000,0000,0000,,So?
+Dialogue: 0,0:21:28.62,0:21:30.91,Dialogue1,Unknown,0000,0000,0000,,What is it? Why're you shaking?
+Dialogue: 0,0:21:40.21,0:21:42.88,Dialogue1,Unknown,0000,0000,0000,,Saaaaaaaaaaaaalty!
+Dialogue: 0,0:21:46.30,0:21:50.51,Dialogue1,Unknown,0000,0000,0000,,Add some broth, and...that should disintegrate the salt.
+Dialogue: 0,0:21:50.72,0:21:52.64,Dialogue1,Unknown,0000,0000,0000,,Hurry, hurry!
+Dialogue: 0,0:21:52.64,0:21:55.60,Dialogue1,Unknown,0000,0000,0000,,Hold on, let me add some garnish.
+Dialogue: 0,0:21:56.48,0:21:57.44,Dialogue1,Unknown,0000,0000,0000,,Okay.
+Dialogue: 0,0:21:58.94,0:22:00.98,Dialogue1,Unknown,0000,0000,0000,,Thanks for the food!
+Dialogue: 0,0:22:01.53,0:22:04.11,Dialogue1,Unknown,0000,0000,0000,,Hey, you gotta let it soften up...
+Dialogue: 0,0:22:04.53,0:22:07.37,Dialogue1,Unknown,0000,0000,0000,,So...gooooood!
+Dialogue: 0,0:22:07.37,0:22:13.25,Dialogue1,Unknown,0000,0000,0000,,The added plum accents the dish nicely! I must be a genius!
+Dialogue: 0,0:22:14.21,0:22:17.21,Dialogue1,Unknown,0000,0000,0000,,I see... You're right...
+Dialogue: 0,0:22:18.17,0:22:19.54,Dialogue1,Unknown,0000,0000,0000,,Genius?
+Dialogue: 0,0:22:20.92,0:22:21.92,Dialogue1,Unknown,0000,0000,0000,,{\i1}Right...{\i0}
+Dialogue: 0,0:22:22.42,0:22:27.30,Dialogue1,Unknown,0000,0000,0000,,{\i1}The first manga bento aside...{\i0}\N{\i1}No, including that one...{\i0}
+Dialogue: 0,0:22:28.05,0:22:31.51,Dialogue1,Unknown,0000,0000,0000,,{\i1}Miyo-chan's lunches were made{\i0} {\i1}for Kitamura to enjoy.{\i0}
+Dialogue: 0,0:22:32.89,0:22:35.64,Dialogue1,Unknown,0000,0000,0000,,{\i1}The rice balls were to comply{\i0} {\i1}with his request...{\i0}
+Dialogue: 0,0:22:36.64,0:22:40.90,Dialogue1,Unknown,0000,0000,0000,,{\i1}The cup soup was because{\i0} {\i1}she knew he had a meeting...{\i0}
+Dialogue: 0,0:22:41.98,0:22:44.86,Dialogue1,Unknown,0000,0000,0000,,{\i1}Everything was tailored for his enjoyment.{\i0}
+Dialogue: 0,0:22:45.82,0:22:48.57,Dialogue1,Unknown,0000,0000,0000,,{\i1}But...as for me...{\i0}
+Dialogue: 0,0:22:54.12,0:22:55.91,Dialogue1,Unknown,0000,0000,0000,,That was so good.
+Dialogue: 0,0:22:58.21,0:23:02.42,Dialogue1,Unknown,0000,0000,0000,,You're the one...who eats my bentos.
+Dialogue: 0,0:23:02.88,0:23:05.38,Dialogue1,Unknown,0000,0000,0000,,Huh? What are you saying?
+Dialogue: 0,0:23:05.80,0:23:10.89,Dialogue1,Unknown,0000,0000,0000,,Eating a little made me even more hungry!\NNow I want to eat something heavy...
+Dialogue: 0,0:23:10.89,0:23:14.10,Dialogue1,Unknown,0000,0000,0000,,Maybe I can eat cutlets now!\NCutlet rice and soup!
+Dialogue: 0,0:23:14.10,0:23:18.35,Dialogue1,Unknown,0000,0000,0000,,Three times in a week? Well, I do have some thin-sliced meat.
+Dialogue: 0,0:23:18.35,0:23:21.15,Dialogue1,Unknown,0000,0000,0000,,Nice! Make a layered-meat cutlet!
+Dialogue: 0,0:23:21.44,0:23:25.40,Dialogue1,Unknown,0000,0000,0000,,Oh, let's try the mushroom rice, too!\NThey can go together.
+Dialogue: 0,0:23:25.40,0:23:26.86,Dialogue1,Unknown,0000,0000,0000,,By your command.
+Dialogue: 0,0:23:28.03,0:23:30.53,Dialogue1,Unknown,0000,0000,0000,,Aren't you gonna eat my rice balls with the soup?
+Dialogue: 0,0:23:32.49,0:23:39.37,Dialogue1,Unknown,0000,0000,0000,,Um, I'll eat them as-is. I was surprised the first time, but they're not inedible.
+Dialogue: 0,0:23:42.75,0:23:44.88,Dialogue1,Unknown,0000,0000,0000,,Wait, did you just insult me?
+Dialogue: 0,0:23:45.71,0:23:47.13,Dialogue1,Unknown,0000,0000,0000,,No, not at all.
+Dialogue: 0,0:23:47.13,0:23:50.89,Dialogue1,Unknown,0000,0000,0000,,Yes, you did! You just badmouthed me!\NNow I demand cheese in my layered cutlet.
+Dialogue: 0,0:23:51.43,0:23:54.85,Dialogue1,Unknown,0000,0000,0000,,{\i1}And so, I learned the secret of the bento.{\i0}
+Dialogue: 0,0:24:04.15,0:24:09.57,Dialogue1,Unknown,0000,0000,0000,,{\i1}They should be made for someone.{\i0}\N{\i1}Bentos are made with someone in mind.{\i0}
+Dialogue: 0,0:24:39.48,0:24:43.69,Dialogue1,Unknown,0000,0000,0000,,{\i1}And I'm sure...that's what{\i0} {\i1}makes them delicious.{\i0}
