@@ -1,0 +1,538 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: NIS  [http://www.crunchyroll.com/user/NIS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,0072,0072,0040,0
+Style: OS,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,6,0072,0072,0025,0
+Style: DefaultBD,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: LyricsromajiBD,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: ImagetextBD,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.68,0:00:03.19,DefaultBD,,0000,0000,0000,,Takasu-kun!
+Dialogue: 0,0:00:03.69,0:00:04.90,DefaultBD,,0000,0000,0000,,I'm...
+Dialogue: 0,0:00:07.94,0:00:09.11,DefaultBD,,0000,0000,0000,,going after her!
+Dialogue: 0,0:00:12.53,0:00:13.95,DefaultBD,,0000,0000,0000,,You go left!
+Dialogue: 0,0:00:13.95,0:00:14.99,DefaultBD,,0000,0000,0000,,I'll go right!
+Dialogue: 0,0:00:14.99,0:00:16.53,DefaultBD,,0000,0000,0000,,- Let's do this!\N- Right!
+Dialogue: 0,0:00:17.74,0:00:19.37,DefaultBD,,0000,0000,0000,,Mr. President.
+Dialogue: 0,0:00:19.37,0:00:21.41,DefaultBD,,0000,0000,0000,,They're running in the halls.
+Dialogue: 0,0:00:21.41,0:00:23.12,DefaultBD,,0000,0000,0000,,I'll let it slide this once.
+Dialogue: 0,0:00:25.96,0:00:26.96,DefaultBD,,0000,0000,0000,,{\i1}I'll chase her down...{\i0}
+Dialogue: 0,0:00:27.79,0:00:29.34,DefaultBD,,0000,0000,0000,,{\i1}and say what, exactly?{\i0}
+Dialogue: 0,0:00:30.80,0:00:32.17,DefaultBD,,0000,0000,0000,,{\i1}I don't know...{\i0}
+Dialogue: 0,0:00:33.34,0:00:34.76,DefaultBD,,0000,0000,0000,,{\i1}I haven't figured that out, but...{\i0}
+Dialogue: 0,0:00:39.22,0:00:40.22,DefaultBD,,0000,0000,0000,,She's gone?
+Dialogue: 0,0:00:41.14,0:00:42.35,DefaultBD,,0000,0000,0000,,The entrance!
+Dialogue: 0,0:00:47.94,0:00:49.69,DefaultBD,,0000,0000,0000,,Taiga, can you hear me!?
+Dialogue: 0,0:00:50.11,0:00:51.19,DefaultBD,,0000,0000,0000,,Answer me, Taiga!
+Dialogue: 0,0:00:51.19,0:00:53.78,DefaultBD,,0000,0000,0000,,I'll tell you what you've\Nalways wanted to know!
+Dialogue: 0,0:00:53.78,0:00:55.11,DefaultBD,,0000,0000,0000,,I'm also...
+Dialogue: 0,0:00:55.45,0:00:57.32,DefaultBD,,0000,0000,0000,,I'm also in love...
+Dialogue: 0,0:00:57.53,0:00:59.70,DefaultBD,,0000,0000,0000,,...with Takasu Ryuji!
+Dialogue: 0,0:01:00.41,0:01:03.16,DefaultBD,,0000,0000,0000,,And I've been in love with him\Nfrom the very beginning!
+Dialogue: 0,0:01:03.50,0:01:04.54,DefaultBD,,0000,0000,0000,,But...!
+Dialogue: 0,0:01:04.54,0:01:07.00,DefaultBD,,0000,0000,0000,,I felt I should let you have him!
+Dialogue: 0,0:01:07.00,0:01:10.75,DefaultBD,,0000,0000,0000,,'Cuz my best friend needed him so much!
+Dialogue: 0,0:01:10.75,0:01:13.96,DefaultBD,,0000,0000,0000,,But that was just my \Npride getting in the way!
+Dialogue: 0,0:01:13.96,0:01:16.59,DefaultBD,,0000,0000,0000,,I...wasn't respecting you!
+Dialogue: 0,0:01:16.59,0:01:19.47,DefaultBD,,0000,0000,0000,,I already said no one but me\Ndecides what'll make me happy!
+Dialogue: 0,0:01:19.47,0:01:24.52,DefaultBD,,0000,0000,0000,,But the same goes for you! Only you\Ncan decide what makes you happy!
+Dialogue: 0,0:01:25.39,0:01:26.31,DefaultBD,,0000,0000,0000,,So!
+Dialogue: 0,0:01:26.73,0:01:28.27,DefaultBD,,0000,0000,0000,,So, Taiga!
+Dialogue: 0,0:01:28.27,0:01:30.61,DefaultBD,,0000,0000,0000,,Show me how you'd do things!
+Dialogue: 0,0:01:37.49,0:01:38.57,DefaultBD,,0000,0000,0000,,Kushieda!
+Dialogue: 0,0:01:41.03,0:01:44.41,DefaultBD,,0000,0000,0000,,I-I tripped...
+Dialogue: 0,0:01:44.41,0:01:46.08,ImagetextBD,,0000,0000,0000,,Nurse's Office
+Dialogue: 0,0:01:46.50,0:01:47.75,DefaultBD,,0000,0000,0000,,Did it stop?
+Dialogue: 0,0:01:47.75,0:01:48.33,DefaultBD,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:01:49.08,0:01:50.83,DefaultBD,,0000,0000,0000,,You scared me.
+Dialogue: 0,0:01:51.21,0:01:52.84,DefaultBD,,0000,0000,0000,,I thought you were crying.
+Dialogue: 0,0:01:53.80,0:01:56.17,DefaultBD,,0000,0000,0000,,You expected me to cry?
+Dialogue: 0,0:01:56.17,0:01:59.05,DefaultBD,,0000,0000,0000,,Well yeah, under normal circumstances...
+Dialogue: 0,0:02:00.93,0:02:03.35,DefaultBD,,0000,0000,0000,,Then I guess it was worth it.
+Dialogue: 0,0:02:04.60,0:02:08.81,DefaultBD,,0000,0000,0000,,Remember what I said about\Nworking on what I can see?
+Dialogue: 0,0:02:08.81,0:02:10.44,DefaultBD,,0000,0000,0000,,Yeah, sure...
+Dialogue: 0,0:02:10.44,0:02:11.31,DefaultBD,,0000,0000,0000,,Well...
+Dialogue: 0,0:02:11.61,0:02:14.69,DefaultBD,,0000,0000,0000,,That determination is what keeps me going.
+Dialogue: 0,0:02:15.69,0:02:16.65,DefaultBD,,0000,0000,0000,,Determination?
+Dialogue: 0,0:02:17.15,0:02:20.61,DefaultBD,,0000,0000,0000,,Remember when I mentioned how I have\Na brother who plays baseball?
+Dialogue: 0,0:02:20.61,0:02:23.37,DefaultBD,,0000,0000,0000,,I used to play, too.
+Dialogue: 0,0:02:23.37,0:02:26.45,DefaultBD,,0000,0000,0000,,Quite frankly, I have more talent.
+Dialogue: 0,0:02:26.45,0:02:30.67,DefaultBD,,0000,0000,0000,,But I couldn't continue because I'm a girl.
+Dialogue: 0,0:02:31.46,0:02:34.48,DefaultBD,,0000,0000,0000,,That's why I plan to save up money,
+Dialogue: 0,0:02:34.48,0:02:36.69,Default,,0000,0000,0000,,go to a college with a \Ngood athletics program,
+Dialogue: 0,0:02:36.69,0:02:38.51,DefaultBD,,0000,0000,0000,,and then play softball on\Nan international level.
+Dialogue: 0,0:02:39.09,0:02:41.84,DefaultBD,,0000,0000,0000,,And then, I can declare \Nto the entire world—
+Dialogue: 0,0:02:41.84,0:02:45.89,DefaultBD,,0000,0000,0000,,"This is the happiness I chose\Nand achieved on my own!"
+Dialogue: 0,0:02:46.64,0:02:48.73,DefaultBD,,0000,0000,0000,,Maybe I'm just being stubborn.
+Dialogue: 0,0:02:48.73,0:02:49.81,DefaultBD,,0000,0000,0000,,Kushieda...
+Dialogue: 0,0:02:49.81,0:02:55.02,DefaultBD,,0000,0000,0000,,It gave me the determination to stop crying.
+Dialogue: 0,0:02:55.02,0:02:57.07,DefaultBD,,0000,0000,0000,,Because I decided to do my best,
+Dialogue: 0,0:02:57.07,0:02:59.11,Default,,0000,0000,0000,,no matter how difficult \Nor painful things get.
+Dialogue: 0,0:02:59.11,0:03:00.07,DefaultBD,,0000,0000,0000,,Still...
+Dialogue: 0,0:03:00.45,0:03:05.08,DefaultBD,,0000,0000,0000,,When someone sees me \Nstruggle, suffer, or cry,
+Dialogue: 0,0:03:05.08,0:03:07.57,Default,,0000,0000,0000,,that helps to make this all feel worth it.
+Dialogue: 0,0:03:11.46,0:03:13.08,DefaultBD,,0000,0000,0000,,What happened to the hair clip?
+Dialogue: 0,0:03:13.46,0:03:14.59,DefaultBD,,0000,0000,0000,,Oh, it—
+Dialogue: 0,0:03:14.59,0:03:20.05,DefaultBD,,0000,0000,0000,,It was meant to be a present for\Nme on Christmas Eve, right?
+Dialogue: 0,0:03:20.05,0:03:21.47,DefaultBD,,0000,0000,0000,,- Well...\N- Sorry.
+Dialogue: 0,0:03:21.47,0:03:24.80,DefaultBD,,0000,0000,0000,,At first, I had no idea.
+Dialogue: 0,0:03:24.80,0:03:27.31,DefaultBD,,0000,0000,0000,,I thought it was a present from Taiga.
+Dialogue: 0,0:03:28.10,0:03:32.48,DefaultBD,,0000,0000,0000,,I'd made up my mind to not\Naccept any gifts from you,
+Dialogue: 0,0:03:32.48,0:03:35.06,DefaultBD,,0000,0000,0000,,even if it meant I had to hurt your feelings.
+Dialogue: 0,0:03:35.06,0:03:38.78,DefaultBD,,0000,0000,0000,,I'm really sorry for wearing it in\Nfront of you. Please forgive me.
+Dialogue: 0,0:03:39.36,0:03:41.86,DefaultBD,,0000,0000,0000,,Where is it right now?
+Dialogue: 0,0:03:41.86,0:03:43.11,DefaultBD,,0000,0000,0000,,In my room.
+Dialogue: 0,0:03:43.11,0:03:44.57,DefaultBD,,0000,0000,0000,,- But—\N- It's okay.
+Dialogue: 0,0:03:44.57,0:03:46.33,DefaultBD,,0000,0000,0000,,I can't accept it.
+Dialogue: 0,0:03:49.16,0:03:49.95,DefaultBD,,0000,0000,0000,,You know...
+Dialogue: 0,0:03:50.33,0:03:52.62,DefaultBD,,0000,0000,0000,,There's one other thing I can see.
+Dialogue: 0,0:03:53.00,0:03:54.67,DefaultBD,,0000,0000,0000,,You love Taiga.
+Dialogue: 0,0:03:56.67,0:03:57.54,DefaultBD,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:57.54,0:03:59.55,DefaultBD,,0000,0000,0000,,Good, Takasu-kun.
+Dialogue: 0,0:03:59.55,0:04:00.96,DefaultBD,,0000,0000,0000,,Then this is a giant...
+Dialogue: 0,0:04:00.96,0:04:01.67,DefaultBD,,0000,0000,0000,,good-bye.
+Dialogue: 0,0:04:02.80,0:04:05.47,DefaultBD,,0000,0000,0000,,Run toward what you can see!
+Dialogue: 0,0:04:06.80,0:04:07.85,DefaultBD,,0000,0000,0000,,Right!
+Dialogue: 0,0:04:08.31,0:04:10.64,DefaultBD,,0000,0000,0000,,Go, Takasu!
+Dialogue: 0,0:04:10.64,0:04:12.64,DefaultBD,,0000,0000,0000,,Ta-ka-su! Hey!
+Dialogue: 0,0:04:12.64,0:04:14.60,DefaultBD,,0000,0000,0000,,Ta-ka-su! Yes!
+Dialogue: 0,0:04:14.60,0:04:16.77,DefaultBD,,0000,0000,0000,,Ta-ka-su!
+Dialogue: 0,0:04:41.96,0:04:43.05,DefaultBD,,0000,0000,0000,,I knew you'd come.
+Dialogue: 0,0:04:44.09,0:04:45.80,DefaultBD,,0000,0000,0000,,H-How?
+Dialogue: 0,0:04:45.80,0:04:49.10,DefaultBD,,0000,0000,0000,,You have a pretty strong\Nsense of responsibility.
+Dialogue: 0,0:04:49.10,0:04:52.39,DefaultBD,,0000,0000,0000,,I knew you'd still come to work.
+Dialogue: 0,0:04:54.06,0:04:54.81,DefaultBD,,0000,0000,0000,,So...
+Dialogue: 0,0:04:55.31,0:04:56.73,DefaultBD,,0000,0000,0000,,About what happened...
+Dialogue: 0,0:04:58.86,0:05:00.77,DefaultBD,,0000,0000,0000,,I'm, uh—
+Dialogue: 0,0:05:00.77,0:05:02.53,DefaultBD,,0000,0000,0000,,I heard Minorin.
+Dialogue: 0,0:05:04.57,0:05:06.03,DefaultBD,,0000,0000,0000,,Don't laugh!
+Dialogue: 0,0:05:06.57,0:05:08.16,DefaultBD,,0000,0000,0000,,I'm not.
+Dialogue: 0,0:05:08.16,0:05:10.03,DefaultBD,,0000,0000,0000,,Please don't laugh.
+Dialogue: 0,0:05:10.87,0:05:13.33,DefaultBD,,0000,0000,0000,,I have something to tell you after work.
+Dialogue: 0,0:05:13.79,0:05:14.50,DefaultBD,,0000,0000,0000,,If...
+Dialogue: 0,0:05:15.00,0:05:19.96,DefaultBD,,0000,0000,0000,,If I try to run away, you have to catch me.
+Dialogue: 0,0:05:20.63,0:05:21.67,DefaultBD,,0000,0000,0000,,Please.
+Dialogue: 0,0:05:24.30,0:05:25.05,DefaultBD,,0000,0000,0000,,Right...
+Dialogue: 0,0:05:34.89,0:05:37.06,DefaultBD,,0000,0000,0000,,That job paid pretty well.
+Dialogue: 0,0:05:37.06,0:05:38.06,DefaultBD,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:05:42.23,0:05:43.19,DefaultBD,,0000,0000,0000,,Uh...
+Dialogue: 0,0:05:43.90,0:05:45.40,DefaultBD,,0000,0000,0000,,You lied to me!
+Dialogue: 0,0:05:48.95,0:05:51.33,DefaultBD,,0000,0000,0000,,Ya-Yasuko...
+Dialogue: 0,0:05:54.83,0:05:56.21,DefaultBD,,0000,0000,0000,,Taiga!
+Dialogue: 0,0:05:59.67,0:06:01.34,DefaultBD,,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:06:01.34,0:06:02.67,DefaultBD,,0000,0000,0000,,Don't touch me!
+Dialogue: 0,0:06:03.59,0:06:06.01,DefaultBD,,0000,0000,0000,,Stop being so difficult!
+Dialogue: 0,0:06:06.01,0:06:08.55,DefaultBD,,0000,0000,0000,,What can you possibly\Naccomplish on your own!?
+Dialogue: 0,0:06:08.93,0:06:10.43,DefaultBD,,0000,0000,0000,,H-Hey...
+Dialogue: 0,0:06:10.43,0:06:11.10,DefaultBD,,0000,0000,0000,,Taiga?
+Dialogue: 0,0:06:11.10,0:06:12.60,DefaultBD,,0000,0000,0000,,You must be Takasu-kun.
+Dialogue: 0,0:06:12.60,0:06:14.39,DefaultBD,,0000,0000,0000,,Um, yes...
+Dialogue: 0,0:06:14.39,0:06:16.93,DefaultBD,,0000,0000,0000,,You have my gratitude for\Ntaking care of her for so long.
+Dialogue: 0,0:06:16.93,0:06:18.56,DefaultBD,,0000,0000,0000,,She'll be staying with us—
+Dialogue: 0,0:06:18.56,0:06:20.65,DefaultBD,,0000,0000,0000,,I'll never stay with you!
+Dialogue: 0,0:06:20.65,0:06:22.15,DefaultBD,,0000,0000,0000,,Or your man!
+Dialogue: 0,0:06:22.15,0:06:23.90,DefaultBD,,0000,0000,0000,,Or that brat!
+Dialogue: 0,0:06:23.90,0:06:25.86,DefaultBD,,0000,0000,0000,,Wh-What's...?
+Dialogue: 0,0:06:25.86,0:06:27.11,DefaultBD,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:06:27.44,0:06:28.86,DefaultBD,,0000,0000,0000,,I don't get it.
+Dialogue: 0,0:06:28.86,0:06:30.74,DefaultBD,,0000,0000,0000,,I'm the one who's confused!
+Dialogue: 0,0:06:31.49,0:06:33.91,DefaultBD,,0000,0000,0000,,You promised you wouldn't work!
+Dialogue: 0,0:06:33.91,0:06:36.66,DefaultBD,,0000,0000,0000,,But you lied and broke that promise!
+Dialogue: 0,0:06:36.66,0:06:38.08,DefaultBD,,0000,0000,0000,,That kind of behavior is unacceptable!
+Dialogue: 0,0:06:38.08,0:06:39.33,DefaultBD,,0000,0000,0000,,Unacceptable?
+Dialogue: 0,0:06:39.75,0:06:42.67,DefaultBD,,0000,0000,0000,,You're the one who took a\Nnew job to pay my tuition!
+Dialogue: 0,0:06:42.67,0:06:44.17,DefaultBD,,0000,0000,0000,,And then you collapsed...
+Dialogue: 0,0:06:44.17,0:06:45.59,DefaultBD,,0000,0000,0000,,Of course I have to work!
+Dialogue: 0,0:06:46.13,0:06:48.30,DefaultBD,,0000,0000,0000,,What's wrong with that!?
+Dialogue: 0,0:06:48.30,0:06:49.55,DefaultBD,,0000,0000,0000,,We're family!
+Dialogue: 0,0:06:49.55,0:06:52.26,DefaultBD,,0000,0000,0000,,We're supposed to help each other!
+Dialogue: 0,0:06:52.26,0:06:53.93,DefaultBD,,0000,0000,0000,,I don't care what other families do!
+Dialogue: 0,0:06:53.93,0:06:56.97,DefaultBD,,0000,0000,0000,,I want you to focus on studying!
+Dialogue: 0,0:06:57.47,0:07:00.73,DefaultBD,,0000,0000,0000,,So you can figure out what you want\Nto do and live a respectable life!
+Dialogue: 0,0:07:00.73,0:07:02.40,DefaultBD,,0000,0000,0000,,Which one of us didn't study!?
+Dialogue: 0,0:07:03.27,0:07:05.06,DefaultBD,,0000,0000,0000,,Which one of us did whatever they wanted,
+Dialogue: 0,0:07:05.06,0:07:07.17,Default,,0000,0000,0000,,and failed to become a respectable person!?
+Dialogue: 0,0:07:07.53,0:07:09.82,DefaultBD,,0000,0000,0000,,That sounds like you, to me!
+Dialogue: 0,0:07:09.82,0:07:11.36,DefaultBD,,0000,0000,0000,,Ryu-chan...
+Dialogue: 0,0:07:11.64,0:07:15.12,DefaultBD,,0000,0000,0000,,Don't blame me for your mistakes!
+Dialogue: 0,0:07:15.12,0:07:15.99,DefaultBD,,0000,0000,0000,,I'm...
+Dialogue: 0,0:07:23.29,0:07:24.21,DefaultBD,,0000,0000,0000,,Taiga...
+Dialogue: 0,0:07:26.25,0:07:26.88,DefaultBD,,0000,0000,0000,,Taiga!?
+Dialogue: 0,0:07:28.84,0:07:29.84,DefaultBD,,0000,0000,0000,,Taiga!
+Dialogue: 0,0:07:30.34,0:07:32.09,DefaultBD,,0000,0000,0000,,Come back here, Taiga!
+Dialogue: 0,0:07:33.97,0:07:37.81,DefaultBD,,0000,0000,0000,,(My Silky Love)\NEvery time I think of you
+Dialogue: 0,0:07:33.97,0:07:37.81,LyricsromajiBD,,0000,0000,0000,,MY SILKY LOVE nijuu yojikan zutto
+Dialogue: 0,0:07:37.81,0:07:41.35,LyricsromajiBD,,0000,0000,0000,,MY SILKY LOVE kimino koto omoutabi
+Dialogue: 0,0:07:37.81,0:07:41.35,DefaultBD,,0000,0000,0000,,(My Silky Love)\Nfor 24 hours straight,
+Dialogue: 0,0:07:41.35,0:07:44.90,DefaultBD,,0000,0000,0000,,(My Silky Love)\NIt only makes me feel
+Dialogue: 0,0:07:41.35,0:07:44.90,LyricsromajiBD,,0000,0000,0000,,MY SILKY LOVE modokashii kono kimochi
+Dialogue: 0,0:07:44.90,0:07:48.86,DefaultBD,,0000,0000,0000,,(My Silky Love)\Nthat much more impatient.
+Dialogue: 0,0:07:44.90,0:07:48.86,LyricsromajiBD,,0000,0000,0000,,MY SILKY LOVE tada afure kaetteku
+Dialogue: 0,0:07:48.86,0:07:55.91,DefaultBD,,0000,0000,0000,,It's so simple just to say I love you.\NBut when you come close to me,
+Dialogue: 0,0:07:48.86,0:07:55.91,LyricsromajiBD,,0000,0000,0000,,sukito ieba kantan nanoni\Nkimiga maeni kichauto
+Dialogue: 0,0:07:55.91,0:08:02.79,DefaultBD,,0000,0000,0000,,my own emotions go awry\Nand get in my way.
+Dialogue: 0,0:07:55.91,0:08:02.79,LyricsromajiBD,,0000,0000,0000,,kyaraga sobie watashino\Nkoto wo jamashiteru
+Dialogue: 0,0:08:03.33,0:08:10.42,DefaultBD,,0000,0000,0000,,I can bring myself to do anything.\NThat's who I'm supposed to be.
+Dialogue: 0,0:08:03.33,0:08:10.42,LyricsromajiBD,,0000,0000,0000,,itsumonaraba tsuyoki de ikeru\Nsonna seikakunanoni
+Dialogue: 0,0:08:10.42,0:08:16.64,DefaultBD,,0000,0000,0000,,But I just can't break this\Nwall down no matter what.
+Dialogue: 0,0:08:10.42,0:08:16.64,LyricsromajiBD,,0000,0000,0000,,donna ganbatte mitemo kabewa kuzusenai
+Dialogue: 0,0:08:16.64,0:08:20.27,DefaultBD,,0000,0000,0000,,Please understand these feelings for you.
+Dialogue: 0,0:08:16.64,0:08:20.27,LyricsromajiBD,,0000,0000,0000,,sasshite hoshii kono kimoch iwo
+Dialogue: 0,0:08:20.27,0:08:23.77,DefaultBD,,0000,0000,0000,,That's why these gazes of mine,
+Dialogue: 0,0:08:20.27,0:08:23.77,LyricsromajiBD,,0000,0000,0000,,dakara watashi wa itsumo kimini
+Dialogue: 0,0:08:23.77,0:08:27.40,DefaultBD,,0000,0000,0000,,they tell my love for you.
+Dialogue: 0,0:08:23.77,0:08:27.40,LyricsromajiBD,,0000,0000,0000,,daisuki dayoto okuru shisen
+Dialogue: 0,0:08:27.40,0:08:31.40,DefaultBD,,0000,0000,0000,,Now gather up my courage!
+Dialogue: 0,0:08:27.40,0:08:31.40,LyricsromajiBD,,0000,0000,0000,,saidaino yuukide
+Dialogue: 0,0:08:31.40,0:08:34.95,DefaultBD,,0000,0000,0000,,A fragile heart made of silk,
+Dialogue: 0,0:08:31.40,0:08:34.95,LyricsromajiBD,,0000,0000,0000,,yabure souna shirukuno haato
+Dialogue: 0,0:08:34.95,0:08:38.49,DefaultBD,,0000,0000,0000,,I realized that by meeting you,
+Dialogue: 0,0:08:34.95,0:08:38.49,LyricsromajiBD,,0000,0000,0000,,kimini atte kizuita yatto
+Dialogue: 0,0:08:38.49,0:08:44.21,DefaultBD,,0000,0000,0000,,I was so clumsy when it comes to love.
+Dialogue: 0,0:08:38.49,0:08:44.21,LyricsromajiBD,,0000,0000,0000,,ainiwa bukiyou dattan datte
+Dialogue: 0,0:08:45.54,0:08:48.92,DefaultBD,,0000,0000,0000,,A forgotten scar left in my heart,
+Dialogue: 0,0:08:45.54,0:08:48.92,LyricsromajiBD,,0000,0000,0000,,wasure kaketa koino kizuato
+Dialogue: 0,0:08:48.92,0:08:52.46,DefaultBD,,0000,0000,0000,,and I suddenly felt it sting deep inside.
+Dialogue: 0,0:08:48.92,0:08:52.46,LyricsromajiBD,,0000,0000,0000,,kyuuni uzuki dashitano kyunto
+Dialogue: 0,0:08:52.46,0:08:57.18,DefaultBD,,0000,0000,0000,,I have to say that I love you someday...
+Dialogue: 0,0:08:52.46,0:08:57.18,LyricsromajiBD,,0000,0000,0000,,itsukawa watashi rashiku sukito iwanakya
+Dialogue: 0,0:08:57.18,0:09:01.81,DefaultBD,,0000,0000,0000,,Or it'll keep making me weaker.
+Dialogue: 0,0:08:57.18,0:09:01.81,LyricsromajiBD,,0000,0000,0000,,imayori yowaku nacchauyo
+Dialogue: 0,0:09:05.23,0:09:10.15,ImagetextBD,,0000,0000,0000,,Confession
+Dialogue: 0,0:09:05.57,0:09:10.15,DefaultBD,,0000,0000,0000,,My stupid old man's business\Nfailed and he skipped town.
+Dialogue: 0,0:09:10.15,0:09:11.23,DefaultBD,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:09:12.65,0:09:16.24,DefaultBD,,0000,0000,0000,,My mom said she'll take care of me.
+Dialogue: 0,0:09:16.66,0:09:20.43,DefaultBD,,0000,0000,0000,,But she has a new family of her own.
+Dialogue: 0,0:09:21.24,0:09:23.91,DefaultBD,,0000,0000,0000,,She's even pregnant.
+Dialogue: 0,0:09:24.00,0:09:26.25,DefaultBD,,0000,0000,0000,,Since her new man is tall,
+Dialogue: 0,0:09:26.92,0:09:30.79,DefaultBD,,0000,0000,0000,,they'll probably have a child\Nwith really long legs,
+Dialogue: 0,0:09:30.79,0:09:32.80,DefaultBD,,0000,0000,0000,,leaving me to be the lone midget.
+Dialogue: 0,0:09:33.30,0:09:34.80,DefaultBD,,0000,0000,0000,,It...
+Dialogue: 0,0:09:34.80,0:09:37.29,DefaultBD,,0000,0000,0000,,It would be too hard for me to fit in.
+Dialogue: 0,0:09:37.59,0:09:40.82,DefaultBD,,0000,0000,0000,,My presence would make\Neveryone uncomfortable.
+Dialogue: 0,0:09:41.26,0:09:43.35,DefaultBD,,0000,0000,0000,,It was the same when I lived\Nwith my stupid father.
+Dialogue: 0,0:09:43.77,0:09:46.06,DefaultBD,,0000,0000,0000,,Whenever I'm around, everybody gets...
+Dialogue: 0,0:09:47.14,0:09:51.27,DefaultBD,,0000,0000,0000,,That's how I've always felt, too...
+Dialogue: 0,0:09:52.36,0:09:57.32,DefaultBD,,0000,0000,0000,,If I'd never been born, Yasuko's life\Nwould've been so much better.
+Dialogue: 0,0:09:58.16,0:09:59.70,DefaultBD,,0000,0000,0000,,She's still young.
+Dialogue: 0,0:10:00.12,0:10:02.08,DefaultBD,,0000,0000,0000,,She could go back to school...
+Dialogue: 0,0:10:03.79,0:10:04.83,DefaultBD,,0000,0000,0000,,Ryuji?
+Dialogue: 0,0:10:04.83,0:10:07.25,DefaultBD,,0000,0000,0000,,Grown-ups are so selfish.
+Dialogue: 0,0:10:07.25,0:10:09.79,DefaultBD,,0000,0000,0000,,Always forcing their\Nexpectations onto others...
+Dialogue: 0,0:10:10.29,0:10:14.87,DefaultBD,,0000,0000,0000,,Though, maybe I was the one\Ntaking advantage of Yasuko...
+Dialogue: 0,0:10:15.30,0:10:17.47,DefaultBD,,0000,0000,0000,,Because I'm just a kid.
+Dialogue: 0,0:10:18.47,0:10:19.43,DefaultBD,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:10:19.97,0:10:20.89,DefaultBD,,0000,0000,0000,,If I didn't exist—
+Dialogue: 0,0:10:20.89,0:10:22.14,DefaultBD,,0000,0000,0000,,Ryuji!
+Dialogue: 0,0:10:22.43,0:10:24.14,DefaultBD,,0000,0000,0000,,Stop that, pighead!
+Dialogue: 0,0:10:24.14,0:10:25.60,DefaultBD,,0000,0000,0000,,Don't do anything rash!
+Dialogue: 0,0:10:25.60,0:10:27.02,DefaultBD,,0000,0000,0000,,H-Huh!?
+Dialogue: 0,0:10:27.02,0:10:28.44,DefaultBD,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:10:28.44,0:10:30.10,DefaultBD,,0000,0000,0000,,I think you're really confused here!
+Dialogue: 0,0:10:30.10,0:10:31.81,DefaultBD,,0000,0000,0000,,Stupid, idiotic moron!
+Dialogue: 0,0:10:31.81,0:10:33.27,DefaultBD,,0000,0000,0000,,Bald-headed freak!
+Dialogue: 0,0:10:33.27,0:10:35.30,DefaultBD,,0000,0000,0000,,What would that accomplish!?
+Dialogue: 0,0:10:35.30,0:10:37.28,DefaultBD,,0000,0000,0000,,It's idiotic to blame \Nyourself for everything!
+Dialogue: 0,0:10:37.28,0:10:40.11,DefaultBD,,0000,0000,0000,,Y-You were doing the same\Nthing a moment ago!
+Dialogue: 0,0:10:40.11,0:10:42.49,DefaultBD,,0000,0000,0000,,But I'm alive!
+Dialogue: 0,0:10:42.49,0:10:45.24,DefaultBD,,0000,0000,0000,,And it's because...you were there for me!
+Dialogue: 0,0:10:45.83,0:10:47.54,DefaultBD,,0000,0000,0000,,It didn't matter to me who you loved,
+Dialogue: 0,0:10:47.54,0:10:49.71,DefaultBD,,0000,0000,0000,,or who you decided to spend \Nthe rest of your life with...
+Dialogue: 0,0:10:49.71,0:10:51.67,DefaultBD,,0000,0000,0000,,I didn't mind!
+Dialogue: 0,0:10:51.67,0:10:55.71,DefaultBD,,0000,0000,0000,,Because...all I wanted was\Nto be by your side!
+Dialogue: 0,0:10:55.71,0:10:56.76,DefaultBD,,0000,0000,0000,,That's why...
+Dialogue: 0,0:10:56.76,0:11:00.30,DefaultBD,,0000,0000,0000,,That's why you can never, ever talk\Nabout wishing you'd never been born!
+Dialogue: 0,0:11:06.81,0:11:07.81,DefaultBD,,0000,0000,0000,,What happened!?
+Dialogue: 0,0:11:08.10,0:11:09.69,DefaultBD,,0000,0000,0000,,What are you doing!?
+Dialogue: 0,0:11:09.69,0:11:11.81,DefaultBD,,0000,0000,0000,,Wh-What happened, my ass!
+Dialogue: 0,0:11:11.81,0:11:13.19,DefaultBD,,0000,0000,0000,,Are you trying to kill me!?
+Dialogue: 0,0:11:13.73,0:11:15.94,DefaultBD,,0000,0000,0000,,Oh jeez, I would never.
+Dialogue: 0,0:11:16.28,0:11:17.69,DefaultBD,,0000,0000,0000,,I-It's freezing...
+Dialogue: 0,0:11:17.69,0:11:19.07,DefaultBD,,0000,0000,0000,,Like I said!
+Dialogue: 0,0:11:19.07,0:11:20.86,DefaultBD,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:11:20.86,0:11:22.45,DefaultBD,,0000,0000,0000,,You never said that!
+Dialogue: 0,0:11:22.45,0:11:24.87,DefaultBD,,0000,0000,0000,,You're so hung up on the little things.
+Dialogue: 0,0:11:24.87,0:11:25.70,DefaultBD,,0000,0000,0000,,What's your blood type?
+Dialogue: 0,0:11:25.70,0:11:27.04,DefaultBD,,0000,0000,0000,,I'm a Taurus!
+Dialogue: 0,0:11:27.04,0:11:29.66,DefaultBD,,0000,0000,0000,,Oh, I don't know anything about horoscopes.
+Dialogue: 0,0:11:29.66,0:11:31.42,DefaultBD,,0000,0000,0000,,But Mongolian barbecue is good stuff.
+Dialogue: 0,0:11:31.42,0:11:33.54,DefaultBD,,0000,0000,0000,,Whatever!
+Dialogue: 0,0:11:33.54,0:11:34.96,DefaultBD,,0000,0000,0000,,In two months...
+Dialogue: 0,0:11:34.96,0:11:36.55,DefaultBD,,0000,0000,0000,,I'll be eighteen!
+Dialogue: 0,0:11:37.30,0:11:40.05,DefaultBD,,0000,0000,0000,,We can run away from Yasuko!\NFrom everyone!
+Dialogue: 0,0:11:40.38,0:11:43.07,DefaultBD,,0000,0000,0000,,We can run far away, stopping only to sleep,
+Dialogue: 0,0:11:43.07,0:11:45.89,DefaultBD,,0000,0000,0000,,and we can keep running until my birthday!
+Dialogue: 0,0:11:45.89,0:11:46.93,DefaultBD,,0000,0000,0000,,And then!
+Dialogue: 0,0:11:47.43,0:11:48.81,DefaultBD,,0000,0000,0000,,You can marry me!
+Dialogue: 0,0:11:50.35,0:11:54.81,DefaultBD,,0000,0000,0000,,Then we'll be considered adults,\Nand no one can get in our way!
+Dialogue: 0,0:11:54.81,0:11:57.61,DefaultBD,,0000,0000,0000,,I'll give you the rest of my life!
+Dialogue: 0,0:11:57.61,0:11:58.98,DefaultBD,,0000,0000,0000,,I lo—
+Dialogue: 0,0:11:58.98,0:12:02.53,DefaultBD,,0000,0000,0000,,Hold it right there!
+Dialogue: 0,0:12:08.08,0:12:09.29,DefaultBD,,0000,0000,0000,,That's not fair!
+Dialogue: 0,0:12:09.29,0:12:12.67,DefaultBD,,0000,0000,0000,,Didn't I say I had something to tell you!?
+Dialogue: 0,0:12:12.67,0:12:13.83,DefaultBD,,0000,0000,0000,,You sneaky mongrel!
+Dialogue: 0,0:12:13.83,0:12:15.04,DefaultBD,,0000,0000,0000,,What's your problem!?
+Dialogue: 0,0:12:15.04,0:12:16.96,DefaultBD,,0000,0000,0000,,You're supposed to let the guy do the—
+Dialogue: 0,0:12:16.96,0:12:18.67,DefaultBD,,0000,0000,0000,,Let me go first!
+Dialogue: 0,0:12:18.67,0:12:20.71,DefaultBD,,0000,0000,0000,,I promised Minorin.
+Dialogue: 0,0:12:20.71,0:12:23.43,DefaultBD,,0000,0000,0000,,I'm going to show her my\Nway of doing things!
+Dialogue: 0,0:12:23.93,0:12:27.01,DefaultBD,,0000,0000,0000,,Th-Then let's...say it together.
+Dialogue: 0,0:12:32.27,0:12:33.14,DefaultBD,,0000,0000,0000,,I...
+Dialogue: 0,0:12:33.81,0:12:35.10,DefaultBD,,0000,0000,0000,,I...
+Dialogue: 0,0:12:36.56,0:12:37.44,DefaultBD,,0000,0000,0000,,...lo—
+Dialogue: 0,0:12:38.69,0:12:42.15,DefaultBD,,0000,0000,0000,,Who would call at such an important time?
+Dialogue: 0,0:12:43.32,0:12:44.24,DefaultBD,,0000,0000,0000,,Just ignore it.
+Dialogue: 0,0:12:44.24,0:12:45.49,DefaultBD,,0000,0000,0000,,Let's continue.
+Dialogue: 0,0:12:45.49,0:12:46.28,DefaultBD,,0000,0000,0000,,It's really cold.
+Dialogue: 0,0:12:46.28,0:12:48.83,DefaultBD,,0000,0000,0000,,What are you talking about!?\NYou're ruining the moment!
+Dialogue: 0,0:12:48.83,0:12:50.12,DefaultBD,,0000,0000,0000,,Hurry up and answer it!
+Dialogue: 0,0:12:50.12,0:12:51.79,DefaultBD,,0000,0000,0000,,Y-Yeah, okay.
+Dialogue: 0,0:12:52.71,0:12:53.87,DefaultBD,,0000,0000,0000,,{\i1}Hey, Takasu!{\i0}
+Dialogue: 0,0:12:53.87,0:12:54.87,DefaultBD,,0000,0000,0000,,{\i1}What're you guys up to?{\i0}
+Dialogue: 0,0:12:55.92,0:12:56.88,DefaultBD,,0000,0000,0000,,Kitamura?
+Dialogue: 0,0:12:56.88,0:13:00.59,DefaultBD,,0000,0000,0000,,{\i1}Your mothers have been calling all\Nover the place looking for you two!{\i0}
+Dialogue: 0,0:13:00.59,0:13:02.05,DefaultBD,,0000,0000,0000,,{\i1}Oh, forget it!{\i0}
+Dialogue: 0,0:13:02.05,0:13:03.47,DefaultBD,,0000,0000,0000,,{\i1}Just come to the place I tell you!{\i0}
+Dialogue: 0,0:13:03.47,0:13:05.55,DefaultBD,,0000,0000,0000,,H-Hold on, Kitamura!
+Dialogue: 0,0:13:07.30,0:13:09.60,DefaultBD,,0000,0000,0000,,You got snot all over my hair!
+Dialogue: 0,0:13:14.69,0:13:15.52,DefaultBD,,0000,0000,0000,,Wha—
+Dialogue: 0,0:13:15.52,0:13:17.65,DefaultBD,,0000,0000,0000,,What happened to you?
+Dialogue: 0,0:13:18.56,0:13:20.85,DefaultBD,,0000,0000,0000,,Why are we meeting up at your place?
+Dialogue: 0,0:13:21.07,0:13:24.99,DefaultBD,,0000,0000,0000,,Your moms don't know about this place.
+Dialogue: 0,0:13:25.20,0:13:27.20,DefaultBD,,0000,0000,0000,,Plus, my relatives are out tonight.
+Dialogue: 0,0:13:27.20,0:13:28.16,DefaultBD,,0000,0000,0000,,Come in.
+Dialogue: 0,0:13:28.16,0:13:29.74,DefaultBD,,0000,0000,0000,,You'll catch colds if you stay wet like that.
+Dialogue: 0,0:13:29.74,0:13:31.20,DefaultBD,,0000,0000,0000,,Go shower.
+Dialogue: 0,0:13:31.20,0:13:32.49,DefaultBD,,0000,0000,0000,,End of the hall, on the right.
+Dialogue: 0,0:13:32.49,0:13:34.29,DefaultBD,,0000,0000,0000,,Here, take these.
+Dialogue: 0,0:13:34.29,0:13:36.21,DefaultBD,,0000,0000,0000,,Never expected you to\Ncare so much about me.
+Dialogue: 0,0:13:36.37,0:13:38.08,DefaultBD,,0000,0000,0000,,Please...
+Dialogue: 0,0:13:38.92,0:13:39.79,DefaultBD,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:13:39.79,0:13:40.54,DefaultBD,,0000,0000,0000,,Wait, Taiga!
+Dialogue: 0,0:13:40.54,0:13:41.17,DefaultBD,,0000,0000,0000,,Your shoes!
+Dialogue: 0,0:13:41.17,0:13:42.09,DefaultBD,,0000,0000,0000,,Man...
+Dialogue: 0,0:13:42.96,0:13:43.92,DefaultBD,,0000,0000,0000,,Kawashima?
+Dialogue: 0,0:13:43.92,0:13:45.38,DefaultBD,,0000,0000,0000,,Oh, nothing.
+Dialogue: 0,0:13:45.38,0:13:49.09,DefaultBD,,0000,0000,0000,,Yusaku said he's bringing\Na change of clothes for you.
+Dialogue: 0,0:13:49.09,0:13:51.18,DefaultBD,,0000,0000,0000,,Sorry about all this...
+Dialogue: 0,0:13:51.18,0:13:52.56,DefaultBD,,0000,0000,0000,,And thanks.
+Dialogue: 0,0:13:55.18,0:13:56.35,DefaultBD,,0000,0000,0000,,Hey...
+Dialogue: 0,0:13:56.35,0:13:57.98,DefaultBD,,0000,0000,0000,,You're in love with Taiga, right?
+Dialogue: 0,0:13:57.98,0:14:00.44,DefaultBD,,0000,0000,0000,,Wh-What are you talking about!?
+Dialogue: 0,0:14:00.44,0:14:01.36,DefaultBD,,0000,0000,0000,,Well, aren't you?
+Dialogue: 0,0:14:01.61,0:14:03.15,DefaultBD,,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:14:03.15,0:14:04.36,DefaultBD,,0000,0000,0000,,Say it.
+Dialogue: 0,0:14:04.86,0:14:06.95,DefaultBD,,0000,0000,0000,,Wh-What's up with you?
+Dialogue: 0,0:14:06.95,0:14:07.70,DefaultBD,,0000,0000,0000,,Say it.
+Dialogue: 0,0:14:07.70,0:14:08.57,DefaultBD,,0000,0000,0000,,Why should...?
+Dialogue: 0,0:14:09.95,0:14:10.95,DefaultBD,,0000,0000,0000,,Say it.
+Dialogue: 0,0:14:13.79,0:14:15.08,DefaultBD,,0000,0000,0000,,I love Taiga.
+Dialogue: 0,0:14:19.75,0:14:21.54,DefaultBD,,0000,0000,0000,,Look at you, bragging!
+Dialogue: 0,0:14:22.88,0:14:25.51,DefaultBD,,0000,0000,0000,,You forced me to say it!
+Dialogue: 0,0:14:28.55,0:14:30.39,DefaultBD,,0000,0000,0000,,Taiga!
+Dialogue: 0,0:14:30.93,0:14:32.72,DefaultBD,,0000,0000,0000,,You had me so worried!
+Dialogue: 0,0:14:32.72,0:14:34.39,DefaultBD,,0000,0000,0000,,You itty bitty, teensy weensy fool!
+Dialogue: 0,0:14:34.39,0:14:37.06,DefaultBD,,0000,0000,0000,,Minorin! Minorin! I'm so sorry!
+Dialogue: 0,0:14:37.06,0:14:39.69,DefaultBD,,0000,0000,0000,,Sorry about all the trouble we've caused.
+Dialogue: 0,0:14:39.69,0:14:40.90,DefaultBD,,0000,0000,0000,,No worries.
+Dialogue: 0,0:14:40.90,0:14:44.07,DefaultBD,,0000,0000,0000,,Anyway, what's your plan now?
+Dialogue: 0,0:14:47.28,0:14:48.45,DefaultBD,,0000,0000,0000,,Well...
+Dialogue: 0,0:14:49.11,0:14:50.11,DefaultBD,,0000,0000,0000,,We...
+Dialogue: 0,0:14:50.11,0:14:51.53,DefaultBD,,0000,0000,0000,,We're going to elope.
+Dialogue: 0,0:14:53.16,0:14:54.03,DefaultBD,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:54.03,0:14:55.58,DefaultBD,,0000,0000,0000,,We're completely serious.
+Dialogue: 0,0:14:58.41,0:15:00.92,DefaultBD,,0000,0000,0000,,Whaaaaaaaat!?
+Dialogue: 0,0:15:03.63,0:15:05.21,DefaultBD,,0000,0000,0000,,I see...
+Dialogue: 0,0:15:05.21,0:15:07.42,DefaultBD,,0000,0000,0000,,You just have to hold out for two months...
+Dialogue: 0,0:15:07.42,0:15:09.59,DefaultBD,,0000,0000,0000,,Why are you going along with this!?
+Dialogue: 0,0:15:09.59,0:15:11.18,DefaultBD,,0000,0000,0000,,You can't run off and get married!
+Dialogue: 0,0:15:11.18,0:15:12.89,DefaultBD,,0000,0000,0000,,You're being too dramatic!
+Dialogue: 0,0:15:12.89,0:15:15.64,DefaultBD,,0000,0000,0000,,It's only till Ryuji turns eighteen...
+Dialogue: 0,0:15:15.64,0:15:16.64,DefaultBD,,0000,0000,0000,,Then we can—
+Dialogue: 0,0:15:16.64,0:15:18.64,DefaultBD,,0000,0000,0000,,And where are you going to stay?
+Dialogue: 0,0:15:18.64,0:15:20.23,DefaultBD,,0000,0000,0000,,U-Uh, well...
+Dialogue: 0,0:15:20.23,0:15:24.15,DefaultBD,,0000,0000,0000,,Business hotels or manga cafes, to start.
+Dialogue: 0,0:15:24.15,0:15:26.23,DefaultBD,,0000,0000,0000,,And what, you'll live like that forever!?
+Dialogue: 0,0:15:26.23,0:15:28.28,DefaultBD,,0000,0000,0000,,No, we plan on coming back...
+Dialogue: 0,0:15:28.28,0:15:30.15,DefaultBD,,0000,0000,0000,,You think you'll be able to?
+Dialogue: 0,0:15:30.15,0:15:34.37,DefaultBD,,0000,0000,0000,,If they send out search parties,\Nthe whole school will know.
+Dialogue: 0,0:15:34.37,0:15:35.83,DefaultBD,,0000,0000,0000,,You might get expelled.
+Dialogue: 0,0:15:36.45,0:15:37.95,DefaultBD,,0000,0000,0000,,Well...
+Dialogue: 0,0:15:39.66,0:15:41.33,DefaultBD,,0000,0000,0000,,You see...
+Dialogue: 0,0:15:41.96,0:15:45.04,DefaultBD,,0000,0000,0000,,Everything I've ever wanted has fallen apart,
+Dialogue: 0,0:15:45.04,0:15:48.59,DefaultBD,,0000,0000,0000,,so I decided long ago that\NI didn't want anything at all.
+Dialogue: 0,0:15:49.13,0:15:52.55,DefaultBD,,0000,0000,0000,,But now my feelings are being reciprocated...
+Dialogue: 0,0:15:53.01,0:15:54.51,DefaultBD,,0000,0000,0000,,My wish came true.
+Dialogue: 0,0:15:55.14,0:16:00.85,DefaultBD,,0000,0000,0000,,So I want to break that jinx.
+Dialogue: 0,0:16:01.44,0:16:03.98,DefaultBD,,0000,0000,0000,,No, I have to break it.
+Dialogue: 0,0:16:04.40,0:16:06.86,DefaultBD,,0000,0000,0000,,That's why... That's why...
+Dialogue: 0,0:16:10.28,0:16:14.16,DefaultBD,,0000,0000,0000,,This passbook is nice and warm.
+Dialogue: 0,0:16:14.49,0:16:16.99,DefaultBD,,0000,0000,0000,,It holds all the money I've earned\Nfrom working odd jobs.
+Dialogue: 0,0:16:16.99,0:16:18.49,DefaultBD,,0000,0000,0000,,What's this?
+Dialogue: 0,0:16:18.49,0:16:20.79,DefaultBD,,0000,0000,0000,,Takasu-kun. Taiga.
+Dialogue: 0,0:16:20.79,0:16:25.67,DefaultBD,,0000,0000,0000,,I don't think you're doing the\Nright thing, by any means.
+Dialogue: 0,0:16:25.67,0:16:27.59,DefaultBD,,0000,0000,0000,,I can't support your actions.
+Dialogue: 0,0:16:27.96,0:16:29.00,DefaultBD,,0000,0000,0000,,Minorin...
+Dialogue: 0,0:16:29.00,0:16:33.55,DefaultBD,,0000,0000,0000,,But if this is your way of doing things,\NI won't object to it.
+Dialogue: 0,0:16:34.05,0:16:36.30,DefaultBD,,0000,0000,0000,,Please take this.
+Dialogue: 0,0:16:36.30,0:16:39.31,DefaultBD,,0000,0000,0000,,You can pay me back one day.
+Dialogue: 0,0:16:40.14,0:16:41.18,DefaultBD,,0000,0000,0000,,Here.
+Dialogue: 0,0:16:41.18,0:16:43.02,DefaultBD,,0000,0000,0000,,It's the key to my beach house.
+Dialogue: 0,0:16:43.44,0:16:45.94,DefaultBD,,0000,0000,0000,,You've been to it before, so you\Nshould know how to get there.
+Dialogue: 0,0:16:45.94,0:16:46.86,DefaultBD,,0000,0000,0000,,Kawashima...
+Dialogue: 0,0:16:46.86,0:16:48.57,DefaultBD,,0000,0000,0000,,Don't forget me.
+Dialogue: 0,0:16:48.94,0:16:51.07,ImagetextBD,,0000,0000,0000,,Rice Voucher
+Dialogue: 0,0:16:48.94,0:16:51.07,DefaultBD,,0000,0000,0000,,Please accept these.
+Dialogue: 0,0:16:52.53,0:16:54.82,DefaultBD,,0000,0000,0000,,Thanks, guys.
+Dialogue: 0,0:16:56.28,0:16:57.28,DefaultBD,,0000,0000,0000,,Well, Ami...
+Dialogue: 0,0:16:57.66,0:16:59.03,DefaultBD,,0000,0000,0000,,Thanks for all your help today.
+Dialogue: 0,0:16:59.03,0:17:01.25,DefaultBD,,0000,0000,0000,,Heya, good show!
+Dialogue: 0,0:17:01.79,0:17:05.04,DefaultBD,,0000,0000,0000,,I need to have a little chat with Amin.
+Dialogue: 0,0:17:05.96,0:17:07.29,DefaultBD,,0000,0000,0000,,Why would I chat with you?
+Dialogue: 0,0:17:07.29,0:17:08.96,DefaultBD,,0000,0000,0000,,Oh, you made up!
+Dialogue: 0,0:17:08.96,0:17:10.59,DefaultBD,,0000,0000,0000,,That's great, Dumb-chi!
+Dialogue: 0,0:17:11.59,0:17:13.47,DefaultBD,,0000,0000,0000,,Get out of here.
+Dialogue: 0,0:17:13.47,0:17:14.76,DefaultBD,,0000,0000,0000,,You should, too...
+Dialogue: 0,0:17:15.09,0:17:18.10,DefaultBD,,0000,0000,0000,,Well, Minorin, Dumb-chi.
+Dialogue: 0,0:17:18.10,0:17:18.93,DefaultBD,,0000,0000,0000,,Bye for now.
+Dialogue: 0,0:17:19.26,0:17:20.64,DefaultBD,,0000,0000,0000,,We'll definitely see you again!
+Dialogue: 0,0:17:20.64,0:17:21.56,DefaultBD,,0000,0000,0000,,Yep.
+Dialogue: 0,0:17:21.93,0:17:22.81,DefaultBD,,0000,0000,0000,,Bye.
+Dialogue: 0,0:17:23.52,0:17:24.44,DefaultBD,,0000,0000,0000,,Oh, wait...
+Dialogue: 0,0:17:26.73,0:17:28.69,DefaultBD,,0000,0000,0000,,What do you want to talk about?
+Dialogue: 0,0:17:28.69,0:17:30.57,DefaultBD,,0000,0000,0000,,- Man...\N- And get your hands off of me!
+Dialogue: 0,0:17:30.57,0:17:33.69,DefaultBD,,0000,0000,0000,,I'm so drained I can't even stand...
+Dialogue: 0,0:17:33.74,0:17:35.65,DefaultBD,,0000,0000,0000,,Hey, what are you...?
+Dialogue: 0,0:17:40.45,0:17:41.54,DefaultBD,,0000,0000,0000,,What?
+Dialogue: 0,0:17:41.54,0:17:43.37,DefaultBD,,0000,0000,0000,,You wanted me to watch you cry?
+Dialogue: 0,0:17:44.25,0:17:46.92,DefaultBD,,0000,0000,0000,,Tears just mean that your\Nheart's got a nosebleed.
+Dialogue: 0,0:17:48.54,0:17:51.00,DefaultBD,,0000,0000,0000,,But why are you crying?
+Dialogue: 0,0:17:51.38,0:17:54.30,DefaultBD,,0000,0000,0000,,Because Takasu-kun took Taiga from you?
+Dialogue: 0,0:17:54.30,0:17:56.59,DefaultBD,,0000,0000,0000,,- Or is it...?\N- I don't know...
+Dialogue: 0,0:17:56.59,0:17:58.30,DefaultBD,,0000,0000,0000,,I had...
+Dialogue: 0,0:17:58.30,0:18:00.68,DefaultBD,,0000,0000,0000,,I had decided not to cry anymore...
+Dialogue: 0,0:18:02.77,0:18:04.56,DefaultBD,,0000,0000,0000,,Pathetic.
+Dialogue: 0,0:18:06.39,0:18:09.56,DefaultBD,,0000,0000,0000,,But I've learned something.
+Dialogue: 0,0:18:10.36,0:18:13.32,DefaultBD,,0000,0000,0000,,If you trip as you run through\Nthe halls, your nose bleeds.
+Dialogue: 0,0:18:13.32,0:18:16.45,DefaultBD,,0000,0000,0000,,If you trip as you run through life, you cry.
+Dialogue: 0,0:18:17.28,0:18:18.99,DefaultBD,,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:18:18.99,0:18:22.62,DefaultBD,,0000,0000,0000,,We're way too young to wax\Nphilosophic about life.
+Dialogue: 0,0:18:22.62,0:18:30.21,DefaultBD,,0000,0000,0000,,We still have at least ten, twenty,\Nor sixty years ahead of us.
+Dialogue: 0,0:18:31.84,0:18:34.55,DefaultBD,,0000,0000,0000,,Run out as soon as you've got everything.
+Dialogue: 0,0:18:34.55,0:18:35.46,DefaultBD,,0000,0000,0000,,Don't let Ya-chan—
+Dialogue: 0,0:18:35.46,0:18:37.80,DefaultBD,,0000,0000,0000,,Don't worry, I can handle this.
+Dialogue: 0,0:18:37.80,0:18:39.30,DefaultBD,,0000,0000,0000,,- Later.\N- Wait!
+Dialogue: 0,0:18:40.18,0:18:41.30,DefaultBD,,0000,0000,0000,,Um...
+Dialogue: 0,0:18:41.30,0:18:42.26,DefaultBD,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:42.26,0:18:43.51,DefaultBD,,0000,0000,0000,,Bring a hair dryer.
+Dialogue: 0,0:18:43.51,0:18:46.93,DefaultBD,,0000,0000,0000,,My stuff will be heavy enough as it is.
+Dialogue: 0,0:18:46.93,0:18:48.73,DefaultBD,,0000,0000,0000,,Yeah, I got it.
+Dialogue: 0,0:18:49.10,0:18:51.73,DefaultBD,,0000,0000,0000,,Don't bring too many frilly clothes, then.
+Dialogue: 0,0:18:51.73,0:18:53.27,DefaultBD,,0000,0000,0000,,They'll just take up space.
+Dialogue: 0,0:18:53.27,0:18:54.94,DefaultBD,,0000,0000,0000,,I know that!
+Dialogue: 0,0:18:57.28,0:18:59.78,DefaultBD,,0000,0000,0000,,Come out as soon as you're done.
+Dialogue: 0,0:18:59.78,0:19:01.49,DefaultBD,,0000,0000,0000,,Call me right away if anything happens.
+Dialogue: 0,0:19:01.49,0:19:02.95,DefaultBD,,0000,0000,0000,,I will. In a heartbeat.
+Dialogue: 0,0:19:11.79,0:19:13.21,DefaultBD,,0000,0000,0000,,I'm home!
+Dialogue: 0,0:19:16.09,0:19:18.09,DefaultBD,,0000,0000,0000,,She's not back yet?
+Dialogue: 0,0:19:19.76,0:19:20.59,DefaultBD,,0000,0000,0000,,In—
+Dialogue: 0,0:19:21.01,0:19:21.43,DefaultBD,,0000,0000,0000,,In—
+Dialogue: 0,0:19:21.80,0:19:23.10,DefaultBD,,0000,0000,0000,,Inko-chan!?
+Dialogue: 0,0:19:26.77,0:19:27.98,DefaultBD,,0000,0000,0000,,Yasuko...
+Dialogue: 0,0:19:29.18,0:19:32.15,ImagetextBD,,0000,0000,0000,,For Ryu-chan
+Dialogue: 0,0:19:34.73,0:19:37.74,DefaultBD,,0000,0000,0000,,This is where your grandparents live.
+Dialogue: 0,0:19:37.74,0:19:41.53,DefaultBD,,0000,0000,0000,,If you show them this watch,\Nthey're sure to take you in.
+Dialogue: 0,0:19:42.49,0:19:44.12,DefaultBD,,0000,0000,0000,,{\i1}Hmm? Mirano-san?{\i0}
+Dialogue: 0,0:19:44.12,0:19:47.79,ImagetextBD,,0000,0000,0000,,Vaisravaṇa Bar
+Dialogue: 0,0:19:44.12,0:19:47.79,DefaultBD,,0000,0000,0000,,{\i1}She called earlier this evening to say\Nshe won't be coming in for a while.{\i0}
+Dialogue: 0,0:19:49.46,0:19:53.25,DefaultBD,,0000,0000,0000,,She...ran away.
+Dialogue: 0,0:19:53.83,0:19:56.09,DefaultBD,,0000,0000,0000,,What is she, a kid?
+Dialogue: 0,0:20:03.18,0:20:09.06,DefaultBD,,0000,0000,0000,,{\i1}If I run away, it won't matter when\Nmy birthday comes around.{\i0}
+Dialogue: 0,0:20:10.06,0:20:11.89,DefaultBD,,0000,0000,0000,,{\i1}I'll still be a kid on the inside.{\i0}
+Dialogue: 0,0:20:14.10,0:20:16.15,DefaultBD,,0000,0000,0000,,Woo-hoo!
+Dialogue: 0,0:20:16.40,0:20:18.57,DefaultBD,,0000,0000,0000,,Check it out!
+Dialogue: 0,0:20:18.57,0:20:20.69,DefaultBD,,0000,0000,0000,,Chocolates!
+Dialogue: 0,0:20:21.15,0:20:23.24,DefaultBD,,0000,0000,0000,,Weren't you showing those off yesterday?
+Dialogue: 0,0:20:23.24,0:20:24.70,DefaultBD,,0000,0000,0000,,Eat the damn things.
+Dialogue: 0,0:20:24.70,0:20:26.49,DefaultBD,,0000,0000,0000,,How long are you gonna\Nwave that in front of us?
+Dialogue: 0,0:20:26.49,0:20:29.50,DefaultBD,,0000,0000,0000,,Uh, right up to the expiration date?
+Dialogue: 0,0:20:29.50,0:20:34.67,DefaultBD,,0000,0000,0000,,Honestly, weren't you the one who said\Nschool isn't for exchanging chocolates?
+Dialogue: 0,0:20:34.67,0:20:36.63,DefaultBD,,0000,0000,0000,,There isn't any exchanging going on.
+Dialogue: 0,0:20:36.63,0:20:38.30,DefaultBD,,0000,0000,0000,,I brought this with me.
+Dialogue: 0,0:20:38.30,0:20:39.55,DefaultBD,,0000,0000,0000,,Right, Taiga?
+Dialogue: 0,0:20:39.55,0:20:40.63,DefaultBD,,0000,0000,0000,,Er, what?
+Dialogue: 0,0:20:41.09,0:20:42.55,DefaultBD,,0000,0000,0000,,She's absent.
+Dialogue: 0,0:20:42.55,0:20:43.84,DefaultBD,,0000,0000,0000,,So is Takasu-kun.
+Dialogue: 0,0:20:43.84,0:20:45.30,DefaultBD,,0000,0000,0000,,What?
+Dialogue: 0,0:20:45.30,0:20:47.05,DefaultBD,,0000,0000,0000,,They catch a cold together?
+Dialogue: 0,0:20:47.51,0:20:49.39,DefaultBD,,0000,0000,0000,,More like a fever, I'd say.
+Dialogue: 0,0:20:51.27,0:20:55.02,DefaultBD,,0000,0000,0000,,Fight on! Fight on! Fight on! Fight on!
+Dialogue: 0,0:20:55.02,0:20:57.94,DefaultBD,,0000,0000,0000,,- Ohashi! Fight on! Fight on!\N- Hey there.
+Dialogue: 0,0:21:00.07,0:21:03.32,DefaultBD,,0000,0000,0000,,You sure about not sending them off?
+Dialogue: 0,0:21:03.32,0:21:04.53,DefaultBD,,0000,0000,0000,,Pardon me?
+Dialogue: 0,0:21:04.53,0:21:05.78,DefaultBD,,0000,0000,0000,,I can't hear you!
+Dialogue: 0,0:21:06.74,0:21:08.99,DefaultBD,,0000,0000,0000,,Not even Little Miss Musclehead can bear...
+Dialogue: 0,0:21:08.99,0:21:13.33,DefaultBD,,0000,0000,0000,,being dumped by both\NTaiga and Takasu-kun.
+Dialogue: 0,0:21:17.42,0:21:18.29,DefaultBD,,0000,0000,0000,,Hey!
+Dialogue: 0,0:21:18.29,0:21:20.96,DefaultBD,,0000,0000,0000,,Do I look like I want to \Nhave a snowball fight?
+Dialogue: 0,0:21:21.80,0:21:22.97,DefaultBD,,0000,0000,0000,,Damn you...
+Dialogue: 0,0:21:22.97,0:21:26.47,DefaultBD,,0000,0000,0000,,Taste my Pure and Innocent Ball attack!
+Dialogue: 0,0:21:26.47,0:21:27.55,DefaultBD,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:21:27.55,0:21:29.64,DefaultBD,,0000,0000,0000,,I'm putting a rock in mine!
+Dialogue: 0,0:21:30.81,0:21:35.19,DefaultBD,,0000,0000,0000,,Since we're eloping and all,\NI went with big-boy snacks.
+Dialogue: 0,0:21:36.06,0:21:36.98,DefaultBD,,0000,0000,0000,,See?
+Dialogue: 0,0:21:36.98,0:21:39.82,DefaultBD,,0000,0000,0000,,Chocolate cigarettes and\Nextra-spicy rice crackers.
+Dialogue: 0,0:21:39.82,0:21:41.07,DefaultBD,,0000,0000,0000,,- And even...\N- Same here.
+Dialogue: 0,0:21:41.36,0:21:42.82,DefaultBD,,0000,0000,0000,,I made lunch.
+Dialogue: 0,0:21:43.32,0:21:44.28,DefaultBD,,0000,0000,0000,,See?
+Dialogue: 0,0:21:45.24,0:21:48.87,DefaultBD,,0000,0000,0000,,You're supposed to buy train station\Nboxed lunches when you elope.
+Dialogue: 0,0:21:49.37,0:21:51.04,DefaultBD,,0000,0000,0000,,I'll still eat it, though.
+Dialogue: 0,0:21:53.08,0:21:56.58,DefaultBD,,0000,0000,0000,,Did your mom say anything?
+Dialogue: 0,0:21:56.58,0:21:59.50,DefaultBD,,0000,0000,0000,,She only cares about what other people think.
+Dialogue: 0,0:22:00.13,0:22:02.00,DefaultBD,,0000,0000,0000,,Doubt she'll make any fuss.
+Dialogue: 0,0:22:02.00,0:22:04.76,DefaultBD,,0000,0000,0000,,And what about Ya-chan?
+Dialogue: 0,0:22:04.76,0:22:05.76,DefaultBD,,0000,0000,0000,,Nope...
+Dialogue: 0,0:22:05.76,0:22:07.01,DefaultBD,,0000,0000,0000,,Nothing much.
+Dialogue: 0,0:22:07.01,0:22:08.43,DefaultBD,,0000,0000,0000,,I should've said this before...
+Dialogue: 0,0:22:09.05,0:22:18.48,DefaultBD,,0000,0000,0000,,When Ya-chan called me a member of\Nyour family, I got all warm and fuzzy inside.
+Dialogue: 0,0:22:19.06,0:22:21.94,DefaultBD,,0000,0000,0000,,You know how my family is...
+Dialogue: 0,0:22:21.94,0:22:25.07,DefaultBD,,0000,0000,0000,,So I was ready to become part of yours...
+Dialogue: 0,0:22:25.90,0:22:28.86,DefaultBD,,0000,0000,0000,,Think Ya-chan will cry?
+Dialogue: 0,0:22:31.99,0:22:34.83,DefaultBD,,0000,0000,0000,,Oh, but it's not going to be that bad!
+Dialogue: 0,0:22:34.83,0:22:36.50,DefaultBD,,0000,0000,0000,,This isn't good-bye!
+Dialogue: 0,0:22:36.50,0:22:38.96,DefaultBD,,0000,0000,0000,,I'm not saying I don't want to elope...
+Dialogue: 0,0:22:38.96,0:22:41.25,DefaultBD,,0000,0000,0000,,I think it's a wonderful idea...
+Dialogue: 0,0:22:41.25,0:22:43.92,DefaultBD,,0000,0000,0000,,- But...\N- Yeah, you're right.
+Dialogue: 0,0:22:44.59,0:22:46.22,DefaultBD,,0000,0000,0000,,Hey, Taiga...
+Dialogue: 0,0:22:48.93,0:22:50.97,DefaultBD,,0000,0000,0000,,D-D-Dear!
+Dialogue: 0,0:22:48.93,0:22:50.97,ImagetextBD,,0000,0000,0000,,Takasu
+Dialogue: 0,0:22:51.10,0:22:53.22,DefaultBD,,0000,0000,0000,,D-D-D-D-D-Dear!
+Dialogue: 0,0:22:54.60,0:22:56.48,DefaultBD,,0000,0000,0000,,I certainly recognize this...
+Dialogue: 0,0:22:56.48,0:22:58.77,DefaultBD,,0000,0000,0000,,Then you must be...
+Dialogue: 0,0:22:58.77,0:23:00.10,DefaultBD,,0000,0000,0000,,It's a pleasure to meet you!
+Dialogue: 0,0:23:00.10,0:23:02.77,DefaultBD,,0000,0000,0000,,I am your grandson, Takasu Ryuji!
+Dialogue: 0,0:23:04.57,0:23:07.07,DefaultBD,,0000,0000,0000,,And this is my bride!
+Dialogue: 0,0:23:08.78,0:23:11.49,DefaultBD,,0000,0000,0000,,I have a favor to ask!
+Dialogue: 0,0:23:13.53,0:23:16.66,DefaultBD,,0000,0000,0000,,{\i1}We aren't going to run away...{\i0}
+Dialogue: 0,0:23:25.30,0:23:28.72,DefaultBD,,0000,0000,0000,,Ryuji showed me his way of doing things.
+Dialogue: 0,0:23:28.72,0:23:30.43,DefaultBD,,0000,0000,0000,,Now it's my turn.
+Dialogue: 0,0:23:31.09,0:23:31.97,DefaultBD,,0000,0000,0000,,Hey, Ryuji?
+Dialogue: 0,0:23:31.97,0:23:33.51,DefaultBD,,0000,0000,0000,,Don't laugh.
+Dialogue: 0,0:23:33.51,0:23:34.93,DefaultBD,,0000,0000,0000,,And don't get mad.

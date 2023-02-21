@@ -1,0 +1,554 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: NIS  [http://www.crunchyroll.com/user/NIS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 0
+PlayResY: 0
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,0072,0072,0040,0
+Style: OS,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,6,0072,0072,0025,0
+Style: DefaultBD,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: LyricsromajiBD,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: ImagetextBD,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.51,0:00:07.51,DefaultBD,Ami,0000,0000,0000,,Huh? How to lose weight?
+Dialogue: 0,0:00:07.51,0:00:10.53,DefaultBD,Ami,0000,0000,0000,,I've never been on a diet.
+Dialogue: 0,0:00:10.53,0:00:11.43,DefaultBD,Maya,0000,0000,0000,,No way!
+Dialogue: 0,0:00:11.43,0:00:13.02,DefaultBD,Maya,0000,0000,0000,,- But you're so thin!\N- Let's do this.
+Dialogue: 0,0:00:13.02,0:00:13.74,DefaultBD,Taiga,0000,0000,0000,,Yeah.
+Dialogue: 0,0:00:13.74,0:00:16.55,DefaultBD,Ami,0000,0000,0000,,I guess I have a fast metabolism.
+Dialogue: 0,0:00:16.55,0:00:17.66,DefaultBD,Maya,0000,0000,0000,,Ooh...
+Dialogue: 0,0:00:17.66,0:00:18.98,DefaultBD,Maya,0000,0000,0000,,It's genetic...
+Dialogue: 0,0:00:18.98,0:00:20.37,DefaultBD,Nana,0000,0000,0000,,Lucky you. I'm so jealous.
+Dialogue: 0,0:00:20.37,0:00:23.79,DefaultBD,Ryuji,0000,0000,0000,,Kawashima's the center of\Nthe girls' attention now.
+Dialogue: 0,0:00:23.79,0:00:24.79,DefaultBD,Kita,0000,0000,0000,,Yeah.
+Dialogue: 0,0:00:24.79,0:00:27.32,DefaultBD,Ami,0000,0000,0000,,If you push yourself too hard,\Nit'll only build stress.
+Dialogue: 0,0:00:27.32,0:00:31.18,DefaultBD,Ami,0000,0000,0000,,I think it's best to eat whatever you\Nwant, just in healthy portions.
+Dialogue: 0,0:00:31.18,0:00:33.88,DefaultBD,Minori,0000,0000,0000,,I can't let that one slide!
+Dialogue: 0,0:00:33.88,0:00:34.94,DefaultBD,Taiga,0000,0000,0000,,One, two!
+Dialogue: 0,0:00:34.94,0:00:36.68,DefaultBD,Ami,0000,0000,0000,,Huh!? What is this!?
+Dialogue: 0,0:00:41.90,0:00:43.29,DefaultBD,Ami,0000,0000,0000,,Wh-What is this!?
+Dialogue: 0,0:00:43.29,0:00:45.06,DefaultBD,Ami,0000,0000,0000,,- Hey! Let me go!\N- What the...?
+Dialogue: 0,0:00:45.06,0:00:50.57,DefaultBD,Minori,0000,0000,0000,,- Take that, and that, and that!\N- Teach! She's hiding meat in her gut!
+Dialogue: 0,0:00:51.24,0:00:55.28,DefaultBD,Minori,0000,0000,0000,,You're only allowed to bring 300\Nyen worth of meat on field trips!
+Dialogue: 0,0:00:55.28,0:00:57.26,DefaultBD,Minori,0000,0000,0000,,Is this flab under 300 yen!?
+Dialogue: 0,0:00:57.26,0:00:59.12,DefaultBD,Minori,0000,0000,0000,,Bananas don't count!
+Dialogue: 0,0:00:59.30,0:01:00.62,DefaultBD,Minori,0000,0000,0000,,This is for the meat buns!
+Dialogue: 0,0:01:00.62,0:01:01.76,DefaultBD,Minori,0000,0000,0000,,This is for the fancy ice cream!
+Dialogue: 0,0:01:01.76,0:01:03.76,DefaultBD,Minori,0000,0000,0000,,This is for the corn dogs!
+Dialogue: 0,0:01:03.76,0:01:06.18,DefaultBD,Minori,0000,0000,0000,,Divine Fist of the Convenience Store!
+Dialogue: 0,0:01:06.51,0:01:07.62,DefaultBD,Minori,0000,0000,0000,,High!
+Dialogue: 0,0:01:07.62,0:01:08.42,DefaultBD,Taiga,0000,0000,0000,,Calo—
+Dialogue: 0,0:01:08.42,0:01:15.99,DefaultBD,Both,0000,0000,0000,,Rieeeeee!
+Dialogue: 0,0:01:20.08,0:01:23.32,DefaultBD,Minori,0000,0000,0000,,Dedicated to the Diet Warriors\Nwho are now stardust!
+Dialogue: 0,0:01:24.75,0:01:26.23,DefaultBD,Both,0000,0000,0000,,So long!
+Dialogue: 0,0:01:27.42,0:01:29.54,DefaultBD,Taiga,0000,0000,0000,,We pulled off the Divine Fist\Nof the Convenience Store!
+Dialogue: 0,0:01:29.54,0:01:31.47,DefaultBD,Minori,0000,0000,0000,,Indeed! Though she proved a formidable foe!
+Dialogue: 0,0:01:31.47,0:01:32.78,DefaultBD,Ami,0000,0000,0000,,Those little...
+Dialogue: 0,0:01:32.78,0:01:34.94,DefaultBD,Maya,0000,0000,0000,,A-Are you okay, Ami-chan?
+Dialogue: 0,0:01:35.74,0:01:37.66,DefaultBD,Maya,0000,0000,0000,,They're so mean.
+Dialogue: 0,0:01:37.66,0:01:38.64,DefaultBD,Nana,0000,0000,0000,,You poor thing...
+Dialogue: 0,0:01:38.64,0:01:40.25,DefaultBD,Ami,0000,0000,0000,,Oh, um...
+Dialogue: 0,0:01:43.02,0:01:45.21,DefaultBD,Ryuji,0000,0000,0000,,Looks like we're in for a stormy season.
+Dialogue: 0,0:01:45.21,0:01:46.31,DefaultBD,Taiga,0000,0000,0000,,Oh?
+Dialogue: 0,0:01:46.31,0:01:49.13,DefaultBD,Taiga,0000,0000,0000,,So this is how Ami reacts\Nto that kind of approach.
+Dialogue: 0,0:01:49.13,0:01:50.04,DefaultBD,Taiga,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:54.35,0:01:56.98,DefaultBD,,0000,0000,0000,,Pre! Preparation!
+Dialogue: 0,0:01:54.35,0:01:56.98,LyricsromajiBD,,0000,0000,0000,,pure pureparato
+Dialogue: 0,0:01:56.98,0:01:59.87,DefaultBD,,0000,0000,0000,,I might not be very strong,
+Dialogue: 0,0:01:56.98,0:01:59.87,LyricsromajiBD,,0000,0000,0000,,tsuyoku nanka naikedo
+Dialogue: 0,0:02:00.36,0:02:03.03,DefaultBD,,0000,0000,0000,,Pre! Pre-parade!
+Dialogue: 0,0:02:00.36,0:02:03.03,LyricsromajiBD,,0000,0000,0000,,pure pureparedo
+Dialogue: 0,0:02:03.03,0:02:05.71,DefaultBD,,0000,0000,0000,,but I'm gonna catch you\None of these days.
+Dialogue: 0,0:02:03.03,0:02:05.71,LyricsromajiBD,,0000,0000,0000,,itsuka kimiwo tsukamaeru
+Dialogue: 0,0:02:06.33,0:02:10.74,LyricsromajiBD,,0000,0000,0000,,pu re purepa pu re purepa pu re purepa
+Dialogue: 0,0:02:10.74,0:02:12.07,DefaultBD,,0000,0000,0000,,Cracking and crumbling.
+Dialogue: 0,0:02:10.74,0:02:12.07,LyricsromajiBD,,0000,0000,0000,,warete baribari
+Dialogue: 0,0:02:12.07,0:02:16.64,LyricsromajiBD,,0000,0000,0000,,pu re purepa pu re purepa pu re purepa
+Dialogue: 0,0:02:18.01,0:02:23.99,DefaultBD,,0000,0000,0000,,Let your guard down and expect\Na poking attack from my fingers.
+Dialogue: 0,0:02:18.01,0:02:23.99,LyricsromajiBD,,0000,0000,0000,,yudan shitara sono yubi\Nchiku chiku atakku kakugo shite
+Dialogue: 0,0:02:23.99,0:02:29.67,DefaultBD,,0000,0000,0000,,I may be small, but I can still\Npluck you like a flea.
+Dialogue: 0,0:02:23.99,0:02:29.67,LyricsromajiBD,,0000,0000,0000,,chiisai kedo hasamuno\Nmijinko mitai na anata
+Dialogue: 0,0:02:30.27,0:02:36.18,DefaultBD,,0000,0000,0000,,I'm longing for a plastic heart.\N(Plus, plus, somehow a minus)
+Dialogue: 0,0:02:30.27,0:02:36.18,LyricsromajiBD,,0000,0000,0000,,hoshiinowa purasuchikkuna haato\N(purasu purasu dakedo mainasu)
+Dialogue: 0,0:02:36.18,0:02:43.47,DefaultBD,,0000,0000,0000,,But the one who realizes how\Nboring that'd be will win.
+Dialogue: 0,0:02:36.18,0:02:43.47,LyricsromajiBD,,0000,0000,0000,,demo soreja tsumaranai\Nsokoni kizuita monogachi
+Dialogue: 0,0:02:46.18,0:02:49.15,DefaultBD,,0000,0000,0000,,Love is so bittersweet.
+Dialogue: 0,0:02:46.18,0:02:49.15,LyricsromajiBD,,0000,0000,0000,,koiwa amakute nigaimono
+Dialogue: 0,0:02:49.15,0:02:52.26,DefaultBD,,0000,0000,0000,,Plain and simple while\Ncomplicated and mysterious.
+Dialogue: 0,0:02:49.15,0:02:52.26,LyricsromajiBD,,0000,0000,0000,,tanjun meikai hukuzatsu kaikina shiromono
+Dialogue: 0,0:02:52.26,0:02:55.32,DefaultBD,,0000,0000,0000,,You get worried about\Nthe most pointless things.
+Dialogue: 0,0:02:52.26,0:02:55.32,LyricsromajiBD,,0000,0000,0000,,doudemoii kotobakkari\Nkinishitari suruno
+Dialogue: 0,0:02:55.32,0:02:58.19,DefaultBD,,0000,0000,0000,,How does it feel? THAT's how it feels.
+Dialogue: 0,0:02:55.32,0:02:58.19,LyricsromajiBD,,0000,0000,0000,,donna kanji sonna kanji
+Dialogue: 0,0:02:58.19,0:03:01.33,DefaultBD,,0000,0000,0000,,You are gentle and\Nsincere yet eccentric.
+Dialogue: 0,0:02:58.19,0:03:01.33,LyricsromajiBD,,0000,0000,0000,,onkou tokujitsu\Nekisentorikku na anata
+Dialogue: 0,0:03:01.33,0:03:04.37,DefaultBD,,0000,0000,0000,,I act tough as we butt heads.
+Dialogue: 0,0:03:01.33,0:03:04.37,LyricsromajiBD,,0000,0000,0000,,tsuyogaru soburiwo\Nzenshin matotte tachiuchi
+Dialogue: 0,0:03:04.37,0:03:07.20,DefaultBD,,0000,0000,0000,,I get dizzy whenever I try\Nto be honest to myself.
+Dialogue: 0,0:03:04.37,0:03:07.20,LyricsromajiBD,,0000,0000,0000,,sunaona dakedato shigekigai\Ntsuyokute kurakura
+Dialogue: 0,0:03:07.20,0:03:13.33,LyricsromajiBD,,0000,0000,0000,,kizutsui chauno kizutsuke chauno\Njunjou pureparato
+Dialogue: 0,0:03:07.20,0:03:13.33,DefaultBD,,0000,0000,0000,,I get hurt. You get hurt.\NInnocent preparation.
+Dialogue: 0,0:03:13.33,0:03:19.16,DefaultBD,,0000,0000,0000,,In my mind, I'm always alone\Non an innocent Pre-Parade.
+Dialogue: 0,0:03:13.33,0:03:19.16,LyricsromajiBD,,0000,0000,0000,,atamano nakawa itsumo hitorino\Njunjou pureparedo
+Dialogue: 0,0:03:22.91,0:03:27.34,ImagetextBD,,0000,0000,0000,,True Self
+Dialogue: 0,0:03:28.48,0:03:29.77,DefaultBD,Taiga,0000,0000,0000,,That felt so good.
+Dialogue: 0,0:03:29.77,0:03:31.62,DefaultBD,Taiga,0000,0000,0000,,Your performance was brilliant, Minorin!
+Dialogue: 0,0:03:31.80,0:03:34.42,DefaultBD,Ryuji,0000,0000,0000,,It gets pretty intense when\Ngirls take each other on.
+Dialogue: 0,0:03:34.42,0:03:37.58,DefaultBD,Minori,0000,0000,0000,,As a Diet Warrior, I couldn't\Nignore her statement.
+Dialogue: 0,0:03:37.58,0:03:42.21,DefaultBD,Minori,0000,0000,0000,,The gods of weight loss only smile\Nupon those willing to face their fat.
+Dialogue: 0,0:03:42.21,0:03:45.37,DefaultBD,Minori,0000,0000,0000,,I'm sure she'll understand one day.
+Dialogue: 0,0:03:45.57,0:03:48.28,DefaultBD,Ryuji,0000,0000,0000,,Right... Is that how it works?
+Dialogue: 0,0:03:51.93,0:03:54.21,DefaultBD,Taiga,0000,0000,0000,,What's with him?
+Dialogue: 0,0:04:03.21,0:04:03.93,DefaultBD,Taiga,0000,0000,0000,,Oh yeah.
+Dialogue: 0,0:04:04.56,0:04:08.26,DefaultBD,Taiga,0000,0000,0000,,Ryuji, want me to make a salad for you?
+Dialogue: 0,0:04:08.26,0:04:09.77,DefaultBD,Ryuji,0000,0000,0000,,Y-You can make salad?
+Dialogue: 0,0:04:09.77,0:04:11.73,DefaultBD,Taiga,0000,0000,0000,,They taught us in grade school.
+Dialogue: 0,0:04:11.73,0:04:14.28,DefaultBD,Taiga,0000,0000,0000,,I can even make my own dressing.
+Dialogue: 0,0:04:14.28,0:04:16.06,DefaultBD,Taiga,0000,0000,0000,,You buy lettuce, right?
+Dialogue: 0,0:04:16.06,0:04:17.03,DefaultBD,Taiga,0000,0000,0000,,Separate the leaves, right?
+Dialogue: 0,0:04:17.03,0:04:18.27,DefaultBD,Taiga,0000,0000,0000,,Cut them up, right?
+Dialogue: 0,0:04:18.27,0:04:20.30,DefaultBD,Taiga,0000,0000,0000,,Put them on a plate, right?
+Dialogue: 0,0:04:20.59,0:04:21.78,DefaultBD,Taiga,0000,0000,0000,,And it's all done!
+Dialogue: 0,0:04:22.25,0:04:23.74,DefaultBD,Ryuji,0000,0000,0000,,You missed washing the lettuce.
+Dialogue: 0,0:04:23.74,0:04:25.20,DefaultBD,Ryuji,0000,0000,0000,,As in, rinsing it under running water.
+Dialogue: 0,0:04:25.20,0:04:26.53,DefaultBD,Ryuji,0000,0000,0000,,And what happened to the dressing?
+Dialogue: 0,0:04:26.70,0:04:29.42,DefaultBD,Taiga,0000,0000,0000,,You always nag about tiny\Ndetails, like an in-law.
+Dialogue: 0,0:04:29.42,0:04:30.48,DefaultBD,Ryuji,0000,0000,0000,,In-law...!
+Dialogue: 0,0:04:32.12,0:04:33.30,DefaultBD,Ami,0000,0000,0000,,Takasu-kun!
+Dialogue: 0,0:04:35.06,0:04:36.81,DefaultBD,Ryuji,0000,0000,0000,,Wh-What is it, Kawashima?
+Dialogue: 0,0:04:36.81,0:04:39.23,DefaultBD,Ami,0000,0000,0000,,Could you please stay close to me for a bit?
+Dialogue: 0,0:04:40.77,0:04:42.72,DefaultBD,Ryuji,0000,0000,0000,,It's that guy...
+Dialogue: 0,0:04:43.19,0:04:45.13,DefaultBD,Ryuji,0000,0000,0000,,Hey, Kawashi—
+Dialogue: 0,0:04:46.80,0:04:47.51,DefaultBD,Ryuji,0000,0000,0000,,You're...
+Dialogue: 0,0:04:47.51,0:04:50.35,DefaultBD,Taiga,0000,0000,0000,,Hey. How long are you gonna cling to him?
+Dialogue: 0,0:04:51.89,0:04:54.99,DefaultBD,Taiga,0000,0000,0000,,Completely ignoring me while\Ndraping yourself all over him...
+Dialogue: 0,0:04:54.99,0:05:00.10,DefaultBD,,0000,0000,0000,,- Draping, and draping, and draping...\N- U-Uh, Taiga? This is...
+Dialogue: 0,0:05:00.10,0:05:01.32,DefaultBD,Ami,0000,0000,0000,,I'm scared, Takasu-kun!
+Dialogue: 0,0:05:02.83,0:05:05.65,DefaultBD,Taiga,0000,0000,0000,,You sick exhibitionist!
+Dialogue: 0,0:05:14.06,0:05:16.12,DefaultBD,Ryuji,0000,0000,0000,,Hey, Kawashima, what was that about?
+Dialogue: 0,0:05:16.12,0:05:18.91,DefaultBD,Ryuji,0000,0000,0000,,You don't...know him, do you?
+Dialogue: 0,0:05:18.91,0:05:20.41,DefaultBD,Ami,0000,0000,0000,,W-Well...
+Dialogue: 0,0:05:20.41,0:05:23.91,DefaultBD,Ami,0000,0000,0000,,These things tend to happen\Nwhen you're a famous model.
+Dialogue: 0,0:05:24.39,0:05:27.05,DefaultBD,Ami,0000,0000,0000,,Some of the fans can get a little pushy.
+Dialogue: 0,0:05:27.05,0:05:29.47,DefaultBD,Ami,0000,0000,0000,,I even went through this trouble\Nof transferring schools...
+Dialogue: 0,0:05:30.90,0:05:33.00,DefaultBD,Ami,0000,0000,0000,,Hey, are you on your way home?
+Dialogue: 0,0:05:33.00,0:05:34.43,DefaultBD,Ryuji,0000,0000,0000,,Uh, yeah...
+Dialogue: 0,0:05:34.43,0:05:36.62,DefaultBD,Ami,0000,0000,0000,,Could you hide me at your\Nplace for a while?
+Dialogue: 0,0:05:36.62,0:05:38.11,DefaultBD,Ami,0000,0000,0000,,I'm scared of running into him again.
+Dialogue: 0,0:05:38.11,0:05:39.36,DefaultBD,Taiga,0000,0000,0000,,I see.
+Dialogue: 0,0:05:39.82,0:05:42.33,DefaultBD,Taiga,0000,0000,0000,,Don't worry, I'll handle this.
+Dialogue: 0,0:05:43.31,0:05:45.65,DefaultBD,Taiga,0000,0000,0000,,Between a drafty, wood-framed rental...
+Dialogue: 0,0:05:45.65,0:05:48.27,DefaultBD,,0000,0000,0000,,and a secure, fancy apartment\Ncomplex with automated locks...
+Dialogue: 0,0:05:48.27,0:05:49.24,DefaultBD,Taiga,0000,0000,0000,,Which would you choose?
+Dialogue: 0,0:05:49.53,0:05:50.91,DefaultBD,Ami,0000,0000,0000,,The fancy apartment!
+Dialogue: 0,0:05:51.88,0:05:53.03,DefaultBD,Taiga,0000,0000,0000,,That settles it.
+Dialogue: 0,0:05:53.70,0:05:55.91,DefaultBD,Taiga,0000,0000,0000,,Then you'll be coming to my place.
+Dialogue: 0,0:05:56.14,0:05:56.94,DefaultBD,Ami,0000,0000,0000,,What?
+Dialogue: 0,0:05:56.85,0:05:57.84,DefaultBD,Ami,0000,0000,0000,,Back up.
+Dialogue: 0,0:05:57.84,0:05:59.79,DefaultBD,Ami,0000,0000,0000,,Why do I have to go to your place?
+Dialogue: 0,0:05:59.97,0:06:02.45,DefaultBD,Taiga,0000,0000,0000,,Fine. I won't force you into anything.
+Dialogue: 0,0:06:02.45,0:06:07.45,DefaultBD,Taiga,0000,0000,0000,,But Ryuji's house is so unprotected\NI was able to easily sneak in.
+Dialogue: 0,0:06:07.45,0:06:08.59,DefaultBD,RYuji,0000,0000,0000,,- Seriously?\N- Yeah.
+Dialogue: 0,0:06:08.78,0:06:10.16,DefaultBD,Taiga,0000,0000,0000,,But it's fine.
+Dialogue: 0,0:06:10.16,0:06:11.87,DefaultBD,Taiga,0000,0000,0000,,It's none of my business anyway.
+Dialogue: 0,0:06:11.87,0:06:12.74,DefaultBD,Ami,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:06:12.74,0:06:13.81,DefaultBD,Ami,0000,0000,0000,,Aisaka-san!
+Dialogue: 0,0:06:16.68,0:06:18.69,DefaultBD,Ami,0000,0000,0000,,I said wait, damn you!
+Dialogue: 0,0:06:20.02,0:06:22.52,DefaultBD,Ryuji,0000,0000,0000,,It makes no difference to me.
+Dialogue: 0,0:06:27.25,0:06:28.66,DefaultBD,Taiga,0000,0000,0000,,Here you go.
+Dialogue: 0,0:06:37.96,0:06:38.83,DefaultBD,Ami,0000,0000,0000,,So sweet!
+Dialogue: 0,0:06:38.83,0:06:41.54,DefaultBD,Taiga,0000,0000,0000,,Ryuji made honey-preserved kumquats.
+Dialogue: 0,0:06:41.54,0:06:42.67,DefaultBD,Taiga,0000,0000,0000,,I mixed the juice with soda.
+Dialogue: 0,0:06:42.67,0:06:44.71,DefaultBD,Ami,0000,0000,0000,,And way too thick!
+Dialogue: 0,0:06:44.71,0:06:45.63,DefaultBD,Ami,0000,0000,0000,,Honestly...
+Dialogue: 0,0:06:45.63,0:06:48.63,DefaultBD,Ami,0000,0000,0000,,You want me to drink this?\NAnd you call yourself a Diet Warrior!
+Dialogue: 0,0:06:48.63,0:06:50.51,DefaultBD,Ami,0000,0000,0000,,Even your brain is small.
+Dialogue: 0,0:06:50.51,0:06:52.97,DefaultBD,Taiga,0000,0000,0000,,Your transformation is really\Nsomething to behold.
+Dialogue: 0,0:06:52.97,0:06:56.56,DefaultBD,Taiga,0000,0000,0000,,I'd love to show our class\Nhow you really are.
+Dialogue: 0,0:06:56.56,0:07:00.85,DefaultBD,Ami,0000,0000,0000,,I have no intention of ever\Nrevealing my true self.
+Dialogue: 0,0:07:00.85,0:07:02.56,DefaultBD,Taiga,0000,0000,0000,,Really now?
+Dialogue: 0,0:07:02.56,0:07:04.83,DefaultBD,Taiga,0000,0000,0000,,Well, your throat should be in tip-top shape
+Dialogue: 0,0:07:04.83,0:07:06.40,DefaultBD,,0000,0000,0000,,after drinking honey-preserved kumquats.
+Dialogue: 0,0:07:08.49,0:07:11.36,DefaultBD,Taiga,0000,0000,0000,,You refuse to show them the real you, huh?
+Dialogue: 0,0:07:11.36,0:07:17.45,DefaultBD,Taiga,0000,0000,0000,,In that case, we're going to find out\Nexactly how fake you can be.
+Dialogue: 0,0:07:17.45,0:07:18.75,DefaultBD,Ami,0000,0000,0000,,What?
+Dialogue: 0,0:07:23.50,0:07:24.92,DefaultBD,Ryuji,0000,0000,0000,,Oh, good morning.
+Dialogue: 0,0:07:24.92,0:07:25.79,DefaultBD,Ami,0000,0000,0000,,Good morning...
+Dialogue: 0,0:07:26.42,0:07:27.96,DefaultBD,Ryuji,0000,0000,0000,,Ka-Kawashima?
+Dialogue: 0,0:07:27.96,0:07:29.17,DefaultBD,Ryuji,0000,0000,0000,,You look tired.
+Dialogue: 0,0:07:29.17,0:07:32.38,DefaultBD,Ami,0000,0000,0000,,Yeah, I still haven't recovered\Nfrom yesterday...
+Dialogue: 0,0:07:32.68,0:07:34.76,DefaultBD,Ryuji,0000,0000,0000,,Right, that was a pretty scary ordeal.
+Dialogue: 0,0:07:34.76,0:07:35.64,DefaultBD,Ami,0000,0000,0000,,Not that.
+Dialogue: 0,0:07:36.89,0:07:41.23,DefaultBD,Ami,0000,0000,0000,,For five hours in Aisaka Taiga's apartment...
+Dialogue: 0,0:07:41.23,0:07:42.81,DefaultBD,Ami,0000,0000,0000,,No, six...
+Dialogue: 0,0:07:43.44,0:07:45.36,DefaultBD,Ryuji,0000,0000,0000,,D-Did Taiga hurt you!?
+Dialogue: 0,0:07:45.73,0:07:46.82,DefaultBD,Ami,0000,0000,0000,,Jackson...
+Dialogue: 0,0:07:47.19,0:07:48.40,DefaultBD,Ami,0000,0000,0000,,Uganda...
+Dialogue: 0,0:07:48.40,0:07:49.99,DefaultBD,Ryuji,0000,0000,0000,,Uganda?
+Dialogue: 0,0:07:49.99,0:07:51.24,DefaultBD,Ami,0000,0000,0000,,Falcon...
+Dialogue: 0,0:07:51.24,0:07:52.95,DefaultBD,Ami,0000,0000,0000,,Akechi Mitsuhide...
+Dialogue: 0,0:07:52.95,0:07:54.45,DefaultBD,Ami,0000,0000,0000,,Matsumoto Seicho...
+Dialogue: 0,0:07:54.45,0:07:56.99,DefaultBD,Ami,0000,0000,0000,,Oda Nobunaga singing French pop...
+Dialogue: 0,0:07:56.99,0:07:58.66,DefaultBD,Ami,0000,0000,0000,,Dazai Osamu swimming the 200\Nmeter individual medley...
+Dialogue: 0,0:07:58.66,0:08:00.91,DefaultBD,Ami,0000,0000,0000,,- Susano'o, Amaterasu, Uzume...\N- Uh, hello?
+Dialogue: 0,0:08:00.91,0:08:02.87,DefaultBD,Ami,0000,0000,0000,,- Quetzalcoatl, Matthew, Judas...\N- You okay, Kawashima?
+Dialogue: 0,0:08:04.33,0:08:08.75,DefaultBD,Taiga,0000,0000,0000,,Yep, I made her perform a\Nmedley of 150 impressions!
+Dialogue: 0,0:08:08.75,0:08:10.92,DefaultBD,Taiga,0000,0000,0000,,It was a riot!
+Dialogue: 0,0:08:10.92,0:08:15.01,DefaultBD,Ryuji,0000,0000,0000,,How the heck are you supposed to do\Nan impression of Akechi Mitsuhide?
+Dialogue: 0,0:08:15.39,0:08:18.97,DefaultBD,Taiga,0000,0000,0000,,I told her I'd kick her \Nout if she didn't obey.
+Dialogue: 0,0:08:18.97,0:08:20.35,DefaultBD,Taiga,0000,0000,0000,,She was so desperate.
+Dialogue: 0,0:08:20.35,0:08:21.52,DefaultBD,Ryuji,0000,0000,0000,,B-Brutal...
+Dialogue: 0,0:08:21.52,0:08:23.39,DefaultBD,Kita,0000,0000,0000,,Not at all. I appreciate it, Aisaka.
+Dialogue: 0,0:08:23.94,0:08:25.77,DefaultBD,Ryuji,0000,0000,0000,,- Kitamura?\N- Ki-Kitamura-kun!
+Dialogue: 0,0:08:26.36,0:08:27.52,DefaultBD,Kita,0000,0000,0000,,Aisaka.
+Dialogue: 0,0:08:27.52,0:08:28.90,DefaultBD,Kita,0000,0000,0000,,I have a favor to ask.
+Dialogue: 0,0:08:29.53,0:08:30.78,DefaultBD,Taiga,0000,0000,0000,,Huh...?
+Dialogue: 0,0:08:31.36,0:08:33.57,DefaultBD,Maya,0000,0000,0000,,Ami-chan, you look pale.
+Dialogue: 0,0:08:33.57,0:08:36.45,DefaultBD,Nana,0000,0000,0000,,Really. Shouldn't you see the nurse?
+Dialogue: 0,0:08:36.45,0:08:38.37,DefaultBD,Ami,0000,0000,0000,,I'm perfectly fine.
+Dialogue: 0,0:08:39.95,0:08:41.41,DefaultBD,Ryuji,0000,0000,0000,,Y-Yo...
+Dialogue: 0,0:08:41.41,0:08:42.91,DefaultBD,Taiga,0000,0000,0000,,Come, dumb Chihuahua.
+Dialogue: 0,0:08:42.91,0:08:43.96,DefaultBD,Taiga,0000,0000,0000,,It's chow time.
+Dialogue: 0,0:08:44.25,0:08:45.62,DefaultBD,Ami,0000,0000,0000,,Dumb Chihuahua?
+Dialogue: 0,0:08:45.62,0:08:47.33,DefaultBD,Taiga,0000,0000,0000,,That would be you.
+Dialogue: 0,0:08:47.33,0:08:50.67,DefaultBD,Taiga,0000,0000,0000,,Acting all cute while yapping\Naway, perpetually in heat...
+Dialogue: 0,0:08:50.67,0:08:51.59,DefaultBD,Ami,0000,0000,0000,,What!?
+Dialogue: 0,0:08:51.59,0:08:53.51,DefaultBD,Taiga,0000,0000,0000,,Just come with me.
+Dialogue: 0,0:08:53.51,0:08:55.13,DefaultBD,Ami,0000,0000,0000,,This isn't funny.
+Dialogue: 0,0:08:55.72,0:08:57.59,DefaultBD,Ami,0000,0000,0000,,Why do I have to go with you?
+Dialogue: 0,0:08:57.59,0:08:59.47,DefaultBD,Ami,0000,0000,0000,,I already have plans with my frien—
+Dialogue: 0,0:09:00.31,0:09:02.61,DefaultBD,Taiga,0000,0000,0000,,Michael Jackson as a tour bus guide.
+Dialogue: 0,0:09:03.52,0:09:06.73,DefaultBD,Taiga,0000,0000,0000,,Mona Lisa making a turn at\N200 kilometers an hour.
+Dialogue: 0,0:09:06.73,0:09:08.44,DefaultBD,Taiga,0000,0000,0000,,The Thinker in good spirits.
+Dialogue: 0,0:09:08.44,0:09:11.15,DefaultBD,Taiga,0000,0000,0000,,I've made copies of all the pictures I took.
+Dialogue: 0,0:09:11.15,0:09:14.82,DefaultBD,Taiga,0000,0000,0000,,They might accidentally get leaked.
+Dialogue: 0,0:09:14.82,0:09:15.45,DefaultBD,Ami,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:15.45,0:09:16.74,DefaultBD,Ami,0000,0000,0000,,Stop!
+Dialogue: 0,0:09:16.74,0:09:18.37,DefaultBD,Ami,0000,0000,0000,,Fine. I give.
+Dialogue: 0,0:09:18.37,0:09:21.16,DefaultBD,Ami,0000,0000,0000,,- I just have to come with you, right? Dammit!\N- Um, Ami-chan?
+Dialogue: 0,0:09:21.16,0:09:22.37,DefaultBD,Ami,0000,0000,0000,,S-Sorry!
+Dialogue: 0,0:09:22.37,0:09:26.21,DefaultBD,Ami,0000,0000,0000,,I forgot I was supposed to eat\Nlunch with Aisaka-san today!
+Dialogue: 0,0:09:26.21,0:09:27.79,DefaultBD,Ami,0000,0000,0000,,I'm really sorry about this!
+Dialogue: 0,0:09:27.79,0:09:29.82,DefaultBD,Ami,0000,0000,0000,,Hey! Wait up, dammit!
+Dialogue: 0,0:09:31.30,0:09:33.17,DefaultBD,Minori,0000,0000,0000,,Thanks for the grub!
+Dialogue: 0,0:09:33.17,0:09:34.13,DefaultBD,Taiga,0000,0000,0000,,Thanks for the food.
+Dialogue: 0,0:09:34.63,0:09:36.38,DefaultBD,Ami,0000,0000,0000,,What the hell is this?
+Dialogue: 0,0:09:40.10,0:09:45.98,DefaultBD,Kita,0000,0000,0000,,If Ami doesn't drop that facade,\Nshe'll never make real friends.
+Dialogue: 0,0:09:45.98,0:09:50.61,DefaultBD,Kita,0000,0000,0000,,That's why I want you two, since you\Nknow her true nature, to help her out.
+Dialogue: 0,0:09:50.61,0:09:53.13,DefaultBD,Ryuji,0000,0000,0000,,Sounds good in theory, and I don't mind,
+Dialogue: 0,0:09:53.13,0:09:56.21,Default,,0000,0000,0000,,but Taiga and Kawashima \Nclearly don't get along.
+Dialogue: 0,0:09:56.21,0:09:56.99,DefaultBD,Kita,0000,0000,0000,,Aisaka!
+Dialogue: 0,0:09:58.49,0:09:59.70,DefaultBD,Kita,0000,0000,0000,,I'm begging you!
+Dialogue: 0,0:09:59.70,0:10:03.24,DefaultBD,Kita,0000,0000,0000,,You're one of the few girl friends I can ask!
+Dialogue: 0,0:10:03.24,0:10:04.04,DefaultBD,Ryuji,0000,0000,0000,,No wa—
+Dialogue: 0,0:10:04.04,0:10:04.87,DefaultBD,Ryuji,0000,0000,0000,,What!?
+Dialogue: 0,0:10:04.87,0:10:07.04,DefaultBD,Kita,0000,0000,0000,,Oh! Thank you, Aisaka!
+Dialogue: 0,0:10:08.79,0:10:10.25,DefaultBD,Ryuji,0000,0000,0000,,{\i1}Damn Kitamura...
+Dialogue: 0,0:10:10.25,0:10:14.25,DefaultBD,Ryuji,0000,0000,0000,,{\i1}Leaving us with this mess and\Nrunning off to the student council...
+Dialogue: 0,0:10:17.30,0:10:18.80,DefaultBD,Ryuji,0000,0000,0000,,Wh-Whoa!
+Dialogue: 0,0:10:18.80,0:10:20.80,DefaultBD,Ryuji,0000,0000,0000,,Your lunch is amazing, Kushieda!
+Dialogue: 0,0:10:21.55,0:10:24.77,DefaultBD,Minori,0000,0000,0000,,It may seem big, but it's\Nsuper low in calories!
+Dialogue: 0,0:10:24.77,0:10:27.69,DefaultBD,Minori,0000,0000,0000,,These are king oyster mushrooms,\Nand this here is konjac.
+Dialogue: 0,0:10:27.69,0:10:31.11,DefaultBD,Minori,0000,0000,0000,,- And this is konjac rice!\N- Honestly, why am I here?
+Dialogue: 0,0:10:31.11,0:10:32.31,DefaultBD,Minori,0000,0000,0000,,Here, Amin.
+Dialogue: 0,0:10:32.31,0:10:33.61,DefaultBD,Minori,0000,0000,0000,,I'll give you some konbu.
+Dialogue: 0,0:10:33.61,0:10:34.61,DefaultBD,Ami,0000,0000,0000,,Don't want any!
+Dialogue: 0,0:10:34.90,0:10:36.62,DefaultBD,Minori,0000,0000,0000,,Pfft, be that way.
+Dialogue: 0,0:10:37.11,0:10:38.11,DefaultBD,Ryuji,0000,0000,0000,,Lucky you...
+Dialogue: 0,0:10:38.95,0:10:40.11,DefaultBD,Ryuji,0000,0000,0000,,Oh, nothing.
+Dialogue: 0,0:10:40.11,0:10:41.62,DefaultBD,Ryuji,0000,0000,0000,,Anyway, time to eat.
+Dialogue: 0,0:10:41.62,0:10:42.62,DefaultBD,Ami,0000,0000,0000,,Hey...
+Dialogue: 0,0:10:42.62,0:10:47.08,DefaultBD,Ami,0000,0000,0000,,Why is your lunch exactly the\Nsame as Aisaka-san's?
+Dialogue: 0,0:10:51.88,0:10:53.42,DefaultBD,Ami,0000,0000,0000,,Seriously, why?
+Dialogue: 0,0:10:53.42,0:10:54.88,DefaultBD,Ryuji,0000,0000,0000,,Uh, well...
+Dialogue: 0,0:10:54.88,0:10:55.59,DefaultBD,RYuji,0000,0000,0000,,You see...
+Dialogue: 0,0:10:59.38,0:11:01.55,DefaultBD,Taiga,0000,0000,0000,,Problem solved.
+Dialogue: 0,0:11:01.55,0:11:05.51,DefaultBD,Taiga,0000,0000,0000,,My lunch has egg and other fried food,\Nwhile Ryuji's has rice and nori.
+Dialogue: 0,0:11:06.56,0:11:08.98,DefaultBD,Ryuji,0000,0000,0000,,Wah! My food!
+Dialogue: 0,0:11:09.98,0:11:10.69,DefaultBD,Ami,0000,0000,0000,,Here.
+Dialogue: 0,0:11:11.06,0:11:13.81,DefaultBD,Ami,0000,0000,0000,,Now you have a meatball.
+Dialogue: 0,0:11:13.81,0:11:15.11,DefaultBD,Ryuji,0000,0000,0000,,Huh? Oh...
+Dialogue: 0,0:11:15.11,0:11:16.36,DefaultBD,Ryuji,0000,0000,0000,,Thanks.
+Dialogue: 0,0:11:18.03,0:11:21.32,DefaultBD,Ami,0000,0000,0000,,But why do you let Aisaka-san\Nwalk all over you?
+Dialogue: 0,0:11:21.32,0:11:22.57,DefaultBD,Ryuji,0000,0000,0000,,D-Do I really?
+Dialogue: 0,0:11:22.57,0:11:25.53,DefaultBD,Taiga,0000,0000,0000,,Ryuji was my dog in his previous life.
+Dialogue: 0,0:11:25.83,0:11:28.87,DefaultBD,Taiga,0000,0000,0000,,A dog is happiest when serving its master.
+Dialogue: 0,0:11:28.87,0:11:29.54,DefaultBD,Minori,0000,0000,0000,,That's right!
+Dialogue: 0,0:11:29.54,0:11:32.04,DefaultBD,Minori,0000,0000,0000,,They were destined to be together!
+Dialogue: 0,0:11:32.04,0:11:33.00,DefaultBD,Both,0000,0000,0000,,Not a chance.
+Dialogue: 0,0:11:33.00,0:11:35.00,DefaultBD,Taiga,0000,0000,0000,,Jeez, there you go again, Minorin.
+Dialogue: 0,0:11:35.00,0:11:37.55,DefaultBD,Minori,0000,0000,0000,,Sorry. I was kidding!
+Dialogue: 0,0:11:37.55,0:11:38.51,DefaultBD,Taiga,0000,0000,0000,,Jeez...
+Dialogue: 0,0:11:45.14,0:11:46.10,DefaultBD,Kita,0000,0000,0000,,Hello!
+Dialogue: 0,0:11:46.10,0:11:47.93,DefaultBD,Kita,0000,0000,0000,,Attention, please!
+Dialogue: 0,0:11:48.18,0:11:52.65,DefaultBD,Kita,0000,0000,0000,,Today is the monthly community clean-up\Norganized by the student council...
+Dialogue: 0,0:11:52.65,0:11:54.94,DefaultBD,Kita,0000,0000,0000,,However, participation is\Na little on the low side.
+Dialogue: 0,0:11:54.94,0:11:57.32,DefaultBD,Kita,0000,0000,0000,,Do we have any brave volunteers?
+Dialogue: 0,0:11:57.32,0:11:58.57,DefaultBD,Ryuji,0000,0000,0000,,{\i1}Sorry, Kitamura.{\i0}
+Dialogue: 0,0:11:58.57,0:12:00.57,DefaultBD,Ryuji,0000,0000,0000,,{\i1}Kanoya Supermarket has\Na special sale today.{\i0}
+Dialogue: 0,0:12:00.57,0:12:02.61,DefaultBD,Kita,0000,0000,0000,,Oh, Takasu! You're willing to lend a hand?
+Dialogue: 0,0:12:03.91,0:12:05.91,DefaultBD,Kita,0000,0000,0000,,Then get changed and come to the courtyard.
+Dialogue: 0,0:12:08.99,0:12:10.00,DefaultBD,Ryuji,0000,0000,0000,,Man...
+Dialogue: 0,0:12:10.00,0:12:11.29,DefaultBD,Ryuji,0000,0000,0000,,Why do I have to do this?
+Dialogue: 0,0:12:11.29,0:12:14.75,DefaultBD,Taiga,0000,0000,0000,,I already told you that \NI'm going to help, too.
+Dialogue: 0,0:12:15.08,0:12:19.00,DefaultBD,Ryuji,0000,0000,0000,,So you say, but you just want to\Nspend more time with Kitamura.
+Dialogue: 0,0:12:19.00,0:12:20.55,DefaultBD,Taiga,0000,0000,0000,,That's another way to put it.
+Dialogue: 0,0:12:20.55,0:12:21.72,DefaultBD,Ryuji,0000,0000,0000,,How honest of you.
+Dialogue: 0,0:12:21.72,0:12:22.76,DefaultBD,Ami,0000,0000,0000,,Takasu-kun!
+Dialogue: 0,0:12:23.09,0:12:24.47,DefaultBD,Ami,0000,0000,0000,,I'm coming along too.
+Dialogue: 0,0:12:24.47,0:12:27.43,DefaultBD,Ami,0000,0000,0000,,Since I just transferred here, I want\Nto familiarize myself with the school.
+Dialogue: 0,0:12:29.85,0:12:30.85,DefaultBD,Taiga,0000,0000,0000,,Minorin.
+Dialogue: 0,0:12:31.31,0:12:35.98,DefaultBD,Minorin,0000,0000,0000,,As a Diet Warrior, I have no choice but\Nto support a girl who's desperate...
+Dialogue: 0,0:12:35.98,0:12:38.36,DefaultBD,,0000,0000,0000,,to excise her excess weight.
+Dialogue: 0,0:12:38.36,0:12:40.57,DefaultBD,Ami,0000,0000,0000,,I never said I wanted to lose weight.
+Dialogue: 0,0:12:41.49,0:12:43.78,DefaultBD,Ami,0000,0000,0000,,Let's work hard together, Takasu-kun!
+Dialogue: 0,0:12:43.78,0:12:45.03,DefaultBD,Ryuji,0000,0000,0000,,R-Right...
+Dialogue: 0,0:12:46.20,0:12:47.95,DefaultBD,Sumire,0000,0000,0000,,Okay, maggots!
+Dialogue: 0,0:12:47.95,0:12:49.49,DefaultBD,Sumire,0000,0000,0000,,Get fired up and move out!
+Dialogue: 0,0:12:49.49,0:12:52.27,DefaultBD,Sumire,0000,0000,0000,,If I catch anyone slacking off,\Nthere will be consequences!
+Dialogue: 0,0:12:55.25,0:12:57.17,DefaultBD,Ryuji,0000,0000,0000,,Easy there, tiger...
+Dialogue: 0,0:12:57.54,0:12:58.88,DefaultBD,Sumire,0000,0000,0000,,Gloves on!?
+Dialogue: 0,0:12:58.88,0:13:00.80,DefaultBD,Sumire,0000,0000,0000,,Trash bags ready!?
+Dialogue: 0,0:13:00.80,0:13:03.76,DefaultBD,Sumire,0000,0000,0000,,Checked your assigned area!?
+Dialogue: 0,0:13:03.76,0:13:05.13,DefaultBD,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:13:05.34,0:13:07.22,DefaultBD,Sumire,0000,0000,0000,,Don't underestimate this town.
+Dialogue: 0,0:13:07.22,0:13:10.81,DefaultBD,Sumire,0000,0000,0000,,Pathetic efforts will get\Nyou thrown off the boat!
+Dialogue: 0,0:13:11.10,0:13:13.02,DefaultBD,Sumire,0000,0000,0000,,Show me some enthusiasm!
+Dialogue: 0,0:13:13.02,0:13:14.73,DefaultBD,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:13:15.60,0:13:17.69,DefaultBD,Kita,0000,0000,0000,,The president sure is one of a kind.
+Dialogue: 0,0:13:17.69,0:13:20.36,DefaultBD,Sumire,0000,0000,0000,,Listen up. I'll explain the program!
+Dialogue: 0,0:13:20.36,0:13:21.15,DefaultBD,Sumire,0000,0000,0000,,First up!
+Dialogue: 0,0:13:26.28,0:13:30.16,DefaultBD,Taiga,0000,0000,0000,,Kitamura-kun ended up going\Noff with the student council...
+Dialogue: 0,0:13:30.16,0:13:31.08,DefaultBD,Kita,0000,0000,0000,,Sorry!
+Dialogue: 0,0:13:31.08,0:13:33.29,DefaultBD,Kita,0000,0000,0000,,Student council members are\Ntaking a different route.
+Dialogue: 0,0:13:33.29,0:13:35.83,DefaultBD,Taiga,0000,0000,0000,,Why am I still here?
+Dialogue: 0,0:13:36.12,0:13:39.17,DefaultBD,Ami,0000,0000,0000,,Hey, doesn't this piece of trash\Nlook just like Aisaka-san?
+Dialogue: 0,0:13:39.17,0:13:41.84,DefaultBD,Ami,0000,0000,0000,,In terms of being helplessly small.
+Dialogue: 0,0:13:41.84,0:13:44.59,DefaultBD,Taiga,0000,0000,0000,,Yeah? Well this piece looks just like {\i1}you.
+Dialogue: 0,0:13:45.01,0:13:47.68,DefaultBD,Taiga,0000,0000,0000,,In terms of being doughy, filthy, and flabby.
+Dialogue: 0,0:13:50.76,0:13:52.01,DefaultBD,Taiga,0000,0000,0000,,Let's go that way, Minorin!
+Dialogue: 0,0:13:52.01,0:13:53.31,DefaultBD,Minori,0000,0000,0000,,Oh, we eloping?
+Dialogue: 0,0:13:53.31,0:13:54.64,DefaultBD,Minori,0000,0000,0000,,I'm up for that!
+Dialogue: 0,0:13:55.35,0:13:56.31,DefaultBD,Taiga,0000,0000,0000,,Let's go!
+Dialogue: 0,0:13:56.31,0:13:57.06,DefaultBD,Minori,0000,0000,0000,,Right on!
+Dialogue: 0,0:13:57.06,0:13:58.35,DefaultBD,Minori,0000,0000,0000,,Garbage awaits!
+Dialogue: 0,0:13:59.23,0:14:01.76,DefaultBD,Ami,0000,0000,0000,,They took off...
+Dialogue: 0,0:14:03.28,0:14:06.15,DefaultBD,Ami,0000,0000,0000,,Guess it's just the two of us now, huh?
+Dialogue: 0,0:14:06.40,0:14:07.61,DefaultBD,Ryuji,0000,0000,0000,,Uh...
+Dialogue: 0,0:14:12.58,0:14:15.87,DefaultBD,Ami,0000,0000,0000,,It's pretty fun to pick up trash.
+Dialogue: 0,0:14:15.87,0:14:18.46,DefaultBD,Ami,0000,0000,0000,,But maybe it's because I'm with you.
+Dialogue: 0,0:14:19.63,0:14:21.38,DefaultBD,Ryuji,0000,0000,0000,,Kawashima, actually...
+Dialogue: 0,0:14:22.13,0:14:25.13,DefaultBD,Ami,0000,0000,0000,,Hey, let's go this way next.
+Dialogue: 0,0:14:25.84,0:14:26.88,DefaultBD,Ryuji,0000,0000,0000,,Look out!
+Dialogue: 0,0:14:27.97,0:14:29.13,DefaultBD,Ryuji,0000,0000,0000,,Hey! You okay?
+Dialogue: 0,0:14:29.13,0:14:31.30,DefaultBD,Ami,0000,0000,0000,,Yuck, this is nasty!
+Dialogue: 0,0:14:31.30,0:14:32.64,DefaultBD,Ami,0000,0000,0000,,What the hell!?
+Dialogue: 0,0:14:32.64,0:14:34.79,DefaultBD,Ami,0000,0000,0000,,- Damn it all!\N- Ka-Kawashima?
+Dialogue: 0,0:14:35.22,0:14:35.81,DefaultBD,Ami,0000,0000,0000,,Um...
+Dialogue: 0,0:14:35.81,0:14:37.43,DefaultBD,Ami,0000,0000,0000,,Oh, that was so scary!
+Dialogue: 0,0:14:37.43,0:14:39.40,DefaultBD,Ami,0000,0000,0000,,Ick, my shoes are soaked...
+Dialogue: 0,0:14:43.36,0:14:44.57,DefaultBD,Ami,0000,0000,0000,,No!
+Dialogue: 0,0:14:44.57,0:14:45.65,DefaultBD,Ami,0000,0000,0000,,- Kawashima!\N- No, no, no!
+Dialogue: 0,0:14:45.65,0:14:46.82,DefaultBD,Ami,0000,0000,0000,,- Don't move!\N- Get it off!
+Dialogue: 0,0:14:46.82,0:14:49.45,DefaultBD,Ami,0000,0000,0000,,- Ow! Don't kick me in the face! Damn...!\N- It's climbing up! Noooo!
+Dialogue: 0,0:14:49.45,0:14:50.24,DefaultBD,Ryuji,0000,0000,0000,,Okay...
+Dialogue: 0,0:14:50.24,0:14:51.37,DefaultBD,Ryuji,0000,0000,0000,,Salvaged!
+Dialogue: 0,0:14:56.29,0:14:58.29,DefaultBD,Ryuji,0000,0000,0000,,I-It's okay now.
+Dialogue: 0,0:14:58.29,0:15:01.04,DefaultBD,Ryuji,0000,0000,0000,,Look, the frog went home, see?
+Dialogue: 0,0:15:03.50,0:15:05.96,DefaultBD,Ami,0000,0000,0000,,I'm so sick of this crap!
+Dialogue: 0,0:15:07.21,0:15:09.26,DefaultBD,Ryuji,0000,0000,0000,,Ka-Kawashima?
+Dialogue: 0,0:15:10.88,0:15:12.18,DefaultBD,Ami,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:15:12.80,0:15:14.39,DefaultBD,Ami,0000,0000,0000,,Was that funny?
+Dialogue: 0,0:15:18.39,0:15:19.48,DefaultBD,Ami,0000,0000,0000,,It's raining.
+Dialogue: 0,0:15:19.48,0:15:21.23,DefaultBD,Ami,0000,0000,0000,,Omigod, I'm going to get wet.
+Dialogue: 0,0:15:21.56,0:15:23.23,DefaultBD,Ami,0000,0000,0000,,We need to find shelter.
+Dialogue: 0,0:15:23.23,0:15:23.86,DefaultBD,Ami,0000,0000,0000,,Right, Takasu—
+Dialogue: 0,0:15:23.86,0:15:24.54,DefaultBD,Ryuji,0000,0000,0000,,You know...
+Dialogue: 0,0:15:25.48,0:15:27.86,DefaultBD,Ryuji,0000,0000,0000,,You can stop doing that.
+Dialogue: 0,0:15:29.11,0:15:31.32,DefaultBD,Ami,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:15:31.32,0:15:33.44,DefaultBD,Ami,0000,0000,0000,,I don't get it.
+Dialogue: 0,0:15:33.78,0:15:36.58,DefaultBD,Ryuji,0000,0000,0000,,I'm the one who doesn't get it.
+Dialogue: 0,0:15:37.12,0:15:41.08,DefaultBD,Ryuji,0000,0000,0000,,Why did you bother participating\Nin this grueling work?
+Dialogue: 0,0:15:41.50,0:15:44.33,DefaultBD,Ami,0000,0000,0000,,What don't you get...?
+Dialogue: 0,0:15:44.67,0:15:45.63,DefaultBD,Ami,0000,0000,0000,,Oh...
+Dialogue: 0,0:15:46.88,0:15:50.51,DefaultBD,Ami,0000,0000,0000,,Guess you're not falling for this, huh?
+Dialogue: 0,0:15:51.01,0:15:55.10,DefaultBD,Ryuji,0000,0000,0000,,I've known you were acting this whole time.
+Dialogue: 0,0:15:55.10,0:15:56.47,DefaultBD,Ryuji,0000,0000,0000,,Do you think you could, uh...
+Dialogue: 0,0:15:58.27,0:16:00.31,DefaultBD,Ryuji,0000,0000,0000,,Right. Be yourself?
+Dialogue: 0,0:16:00.31,0:16:01.35,DefaultBD,Ami,0000,0000,0000,,Actually...
+Dialogue: 0,0:16:02.44,0:16:04.48,DefaultBD,Ami,0000,0000,0000,,I have to keep up this facade.
+Dialogue: 0,0:16:04.94,0:16:07.58,DefaultBD,Ami,0000,0000,0000,,You don't understand how I feel, do you?
+Dialogue: 0,0:16:08.03,0:16:09.78,DefaultBD,Ryuji,0000,0000,0000,,I don't, to be honest...
+Dialogue: 0,0:16:10.90,0:16:12.31,DefaultBD,Ami,0000,0000,0000,,That's fine.
+Dialogue: 0,0:16:13.16,0:16:15.53,DefaultBD,Ami,0000,0000,0000,,I'm nothing but an airhead...
+Dialogue: 0,0:16:16.87,0:16:18.16,DefaultBD,Ryuji,0000,0000,0000,,Kawashima?
+Dialogue: 0,0:16:19.16,0:16:20.25,DefaultBD,Ryuji,0000,0000,0000,,What's wrong!?
+Dialogue: 0,0:16:20.66,0:16:22.31,DefaultBD,Ryuji,0000,0000,0000,,Hey! Kawashima!
+Dialogue: 0,0:16:27.88,0:16:29.71,DefaultBD,Ryuji,0000,0000,0000,,Hey, what's wrong?
+Dialogue: 0,0:16:29.71,0:16:31.05,DefaultBD,Ryuji,0000,0000,0000,,If you're looking for shelter...
+Dialogue: 0,0:16:32.42,0:16:34.13,DefaultBD,Ryuji,0000,0000,0000,,Hey! What is it?
+Dialogue: 0,0:16:39.47,0:16:41.06,DefaultBD,Ryuji,0000,0000,0000,,That guy is back!
+Dialogue: 0,0:16:41.06,0:16:42.35,DefaultBD,Ryuji,0000,0000,0000,,Why?
+Dialogue: 0,0:16:42.35,0:16:44.56,DefaultBD,Ami,0000,0000,0000,,To tell you the truth...
+Dialogue: 0,0:16:45.52,0:16:46.90,DefaultBD,Ami,0000,0000,0000,,He's a stalker.
+Dialogue: 0,0:16:46.90,0:16:47.69,DefaultBD,Ryuji,0000,0000,0000,,Sta—
+Dialogue: 0,0:16:47.69,0:16:49.36,DefaultBD,Ryuji,0000,0000,0000,,Why didn't you tell us!?
+Dialogue: 0,0:16:49.36,0:16:50.28,DefaultBD,Ami,0000,0000,0000,,Because!
+Dialogue: 0,0:16:51.28,0:16:52.72,DefaultBD,Ami,0000,0000,0000,,It's so frustrating...
+Dialogue: 0,0:16:53.40,0:16:54.57,DefaultBD,Ryuji,0000,0000,0000,,Frustrating?
+Dialogue: 0,0:16:54.57,0:16:59.91,DefaultBD,Ami,0000,0000,0000,,I didn't want to admit that I was letting\Nsome freak mess up my life.
+Dialogue: 0,0:17:00.66,0:17:03.46,DefaultBD,Ami,0000,0000,0000,,I had to move because of him.
+Dialogue: 0,0:17:04.33,0:17:06.38,DefaultBD,Ami,0000,0000,0000,,I didn't want to cause my parents trouble,
+Dialogue: 0,0:17:07.03,0:17:10.55,Default,,0000,0000,0000,,\Nso I came here to live with some relatives.
+Dialogue: 0,0:17:11.67,0:17:14.47,DefaultBD,Ami,0000,0000,0000,,I've even stopped modeling\Nfor the time being.
+Dialogue: 0,0:17:14.47,0:17:15.68,DefaultBD,Ami,0000,0000,0000,,But after all that...
+Dialogue: 0,0:17:15.68,0:17:18.50,DefaultBD,Ami,0000,0000,0000,,He's still chased me all the way here.
+Dialogue: 0,0:17:20.47,0:17:24.02,DefaultBD,Minori,0000,0000,0000,,Hello! Hello!
+Dialogue: 0,0:17:24.02,0:17:26.94,DefaultBD,Minori,0000,0000,0000,,Takasu-kun! Kawashima-san!
+Dialogue: 0,0:17:26.94,0:17:28.44,DefaultBD,Minori,0000,0000,0000,,Hello!
+Dialogue: 0,0:17:28.44,0:17:31.40,DefaultBD,Minori,0000,0000,0000,,Odd... They supposedly came this way.
+Dialogue: 0,0:17:31.40,0:17:33.69,DefaultBD,Taiga,0000,0000,0000,,Oh well. Let's go home, Minorin.
+Dialogue: 0,0:17:33.69,0:17:34.90,DefaultBD,Guy,0000,0000,0000,,Ooh!
+Dialogue: 0,0:17:34.90,0:17:37.74,DefaultBD,Guy,0000,0000,0000,,I've found a cute, miniature monster!
+Dialogue: 0,0:17:38.57,0:17:41.80,DefaultBD,Guy,0000,0000,0000,,- Monster?\N- She's adorable! It's my lucky day!
+Dialogue: 0,0:17:43.00,0:17:43.83,DefaultBD,Ryuji,0000,0000,0000,,Taiga!
+Dialogue: 0,0:17:43.83,0:17:45.08,DefaultBD,Ami,0000,0000,0000,,Be careful!
+Dialogue: 0,0:17:45.54,0:17:48.63,DefaultBD,Taiga,0000,0000,0000,,I don't recall doing anything to warrant...
+Dialogue: 0,0:17:48.63,0:17:52.67,DefaultBD,,0000,0000,0000,,being called a monster by someone\Nas suspicious as you.
+Dialogue: 0,0:17:52.67,0:17:53.92,DefaultBD,Ami,0000,0000,0000,,Uh-oh...
+Dialogue: 0,0:17:53.92,0:17:55.59,DefaultBD,Ami,0000,0000,0000,,What is she doing?
+Dialogue: 0,0:17:55.59,0:17:56.88,DefaultBD,Ami,0000,0000,0000,,That guy's a stalker!
+Dialogue: 0,0:17:56.88,0:18:00.51,DefaultBD,Taiga,0000,0000,0000,,And another thing, who gave you\Npermission to take pictures?
+Dialogue: 0,0:18:00.51,0:18:02.56,DefaultBD,Taiga,0000,0000,0000,,Do you realize how creepy you are?
+Dialogue: 0,0:18:02.89,0:18:05.60,DefaultBD,Guy,0000,0000,0000,,Wh-Why shouldn't I?\NIt's no big deal...
+Dialogue: 0,0:18:05.60,0:18:06.73,DefaultBD,Taiga,0000,0000,0000,,In your dreams.
+Dialogue: 0,0:18:07.27,0:18:12.44,DefaultBD,Taiga,0000,0000,0000,,I'll destroy that camera, and you with it!
+Dialogue: 0,0:18:14.03,0:18:16.24,DefaultBD,Taiga,0000,0000,0000,,Why are you running away!?
+Dialogue: 0,0:18:16.24,0:18:17.07,DefaultBD,Guy,0000,0000,0000,,Ow!
+Dialogue: 0,0:18:18.11,0:18:20.53,DefaultBD,Taiga,0000,0000,0000,,Wait up!
+Dialogue: 0,0:18:20.53,0:18:22.70,DefaultBD,Minori,0000,0000,0000,,W-Wait! Taiga!?
+Dialogue: 0,0:18:23.16,0:18:24.58,DefaultBD,Ryuji,0000,0000,0000,,- Wait up!\N- That idiot...
+Dialogue: 0,0:18:24.58,0:18:25.50,DefaultBD,Ami,0000,0000,0000,,Why...?
+Dialogue: 0,0:18:26.29,0:18:29.00,DefaultBD,Minori,0000,0000,0000,,- Taiga, it's dangerous!\N- I mean... Isn't she scared?
+Dialogue: 0,0:18:29.00,0:18:30.71,DefaultBD,Ami,0000,0000,0000,,That guy's twisted.
+Dialogue: 0,0:18:30.71,0:18:31.71,DefaultBD,Ryuji,0000,0000,0000,,Kawashima?
+Dialogue: 0,0:18:32.13,0:18:33.67,DefaultBD,Ami,0000,0000,0000,,Because of him...
+Dialogue: 0,0:18:34.09,0:18:38.88,DefaultBD,Ami,0000,0000,0000,,I had to take time off work,\Nmove, and transfer schools.
+Dialogue: 0,0:18:39.39,0:18:43.38,DefaultBD,Ami,0000,0000,0000,,I get so upset, the stress builds,\Nand then I end up binging on snacks.
+Dialogue: 0,0:18:44.35,0:18:45.89,DefaultBD,Ami,0000,0000,0000,,Could this mean...
+Dialogue: 0,0:18:45.89,0:18:52.61,DefaultBD,Ami,0000,0000,0000,,I was defeated by that worthless freak,\Nand by Aisaka Taiga as well?
+Dialogue: 0,0:18:53.61,0:18:54.57,DefaultBD,Ami,0000,0000,0000,,Takasu-kun.
+Dialogue: 0,0:18:55.03,0:18:59.41,DefaultBD,Ami,0000,0000,0000,,You just told me to stop playing nice.
+Dialogue: 0,0:18:59.41,0:19:00.70,DefaultBD,Ami,0000,0000,0000,,Didn't you?
+Dialogue: 0,0:19:00.70,0:19:01.53,DefaultBD,Ryuji,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:19:01.91,0:19:03.08,DefaultBD,Ryuji,0000,0000,0000,,I guess...
+Dialogue: 0,0:19:03.08,0:19:04.22,DefaultBD,Ami,0000,0000,0000,,I get it now.
+Dialogue: 0,0:19:05.16,0:19:06.50,DefaultBD,Ami,0000,0000,0000,,I do.
+Dialogue: 0,0:19:06.50,0:19:08.09,DefaultBD,Ami,0000,0000,0000,,No more cutesy crap.
+Dialogue: 0,0:19:08.46,0:19:09.33,DefaultBD,Ami,0000,0000,0000,,No more.
+Dialogue: 0,0:19:09.33,0:19:12.42,DefaultBD,Ami,0000,0000,0000,,No more, no more, no more,\Nno more, no more, no more.
+Dialogue: 0,0:19:12.42,0:19:13.42,DefaultBD,Ami,0000,0000,0000,,- Ka-Kawashima?\N- From now on...
+Dialogue: 0,0:19:13.84,0:19:17.30,DefaultBD,Ami,0000,0000,0000,,I'll live with this nasty \Npersonality of mine!
+Dialogue: 0,0:19:17.30,0:19:20.38,DefaultBD,Ami,0000,0000,0000,,I refuse to let them have the last laugh!
+Dialogue: 0,0:19:22.01,0:19:23.05,DefaultBD,Ryuji,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:25.85,0:19:27.04,DefaultBD,Ryuji,0000,0000,0000,,Kawashima...
+Dialogue: 0,0:19:28.23,0:19:31.06,DefaultBD,Ryuji,0000,0000,0000,,{\i1}Kawashima was just incredible after that...{\i0}
+Dialogue: 0,0:19:32.73,0:19:37.03,DefaultBD,Ryuji,0000,0000,0000,,{\i1}Racing through town with a running\Nform the track team could never match...{\i0}
+Dialogue: 0,0:19:47.79,0:19:51.37,DefaultBD,Ryuji,0000,0000,0000,,{\i1}Smashing the already frightened\Nstalker's camera to bits...{\i0}
+Dialogue: 0,0:19:53.88,0:19:58.42,DefaultBD,Ryuji,0000,0000,0000,,{\i1}Her transformation left the\Nstalker scared to death.{\i0}
+Dialogue: 0,0:19:58.42,0:19:59.26,DefaultBD,Ryuji,0000,0000,0000,,{\i1}And then...{\i0}
+Dialogue: 0,0:19:59.59,0:20:00.76,DefaultBD,Guy,0000,0000,0000,,Imposter!
+Dialogue: 0,0:20:00.76,0:20:02.76,DefaultBD,Guy,0000,0000,0000,,That devilish face!
+Dialogue: 0,0:20:02.76,0:20:05.51,DefaultBD,Guy,0000,0000,0000,,You're not the Ami-chan I know!
+Dialogue: 0,0:20:05.51,0:20:08.10,DefaultBD,Guy,0000,0000,0000,,You're no angel! Not with\Nthat nasty personality!
+Dialogue: 0,0:20:08.10,0:20:09.60,DefaultBD,Ami,0000,0000,0000,,Oh, come on.
+Dialogue: 0,0:20:10.06,0:20:12.71,DefaultBD,Ami,0000,0000,0000,,I'm still adorable.
+Dialogue: 0,0:20:13.06,0:20:14.44,DefaultBD,Ami,0000,0000,0000,,So who cares...
+Dialogue: 0,0:20:15.27,0:20:16.75,DefaultBD,Ami,0000,0000,0000,,what my personality's like?
+Dialogue: 0,0:20:20.78,0:20:21.86,DefaultBD,Ryuji,0000,0000,0000,,Kawashima.
+Dialogue: 0,0:20:21.86,0:20:23.32,DefaultBD,Ryuji,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:20:25.49,0:20:27.41,DefaultBD,Ryuji,0000,0000,0000,,Hey! Kawashima!
+Dialogue: 0,0:20:28.99,0:20:31.04,DefaultBD,Ami,0000,0000,0000,,I did it, Takasu-kun.
+Dialogue: 0,0:20:31.04,0:20:32.08,DefaultBD,Ryuji,0000,0000,0000,,No joke.
+Dialogue: 0,0:20:33.92,0:20:35.17,DefaultBD,Ami,0000,0000,0000,,But...
+Dialogue: 0,0:20:36.46,0:20:38.05,DefaultBD,Ami,0000,0000,0000,,I was scared...
+Dialogue: 0,0:20:42.59,0:20:44.47,DefaultBD,Ryuji,0000,0000,0000,,Here, this'll warm you up.
+Dialogue: 0,0:20:45.97,0:20:48.68,DefaultBD,Ami,0000,0000,0000,,Honey-preserved kumquats...
+Dialogue: 0,0:20:48.68,0:20:50.22,DefaultBD,Ryuji,0000,0000,0000,,How could you tell?
+Dialogue: 0,0:20:50.22,0:20:51.81,DefaultBD,Ryuji,0000,0000,0000,,Taiga loves this stuff.
+Dialogue: 0,0:20:51.81,0:20:53.06,DefaultBD,Ami,0000,0000,0000,,Taiga...
+Dialogue: 0,0:20:53.06,0:20:55.81,DefaultBD,Ami,0000,0000,0000,,You call Aisaka-san by her first name.
+Dialogue: 0,0:20:56.15,0:20:58.48,DefaultBD,Ryuji,0000,0000,0000,,Do you still think there's\Nsomething between us?
+Dialogue: 0,0:20:58.48,0:21:00.57,DefaultBD,Ami,0000,0000,0000,,She's really lucky.
+Dialogue: 0,0:21:02.11,0:21:05.41,DefaultBD,Ami,0000,0000,0000,,She's self-centered and a total mess...
+Dialogue: 0,0:21:05.41,0:21:08.45,DefaultBD,Ami,0000,0000,0000,,But she doesn't try to hide it.
+Dialogue: 0,0:21:08.95,0:21:12.33,DefaultBD,Ami,0000,0000,0000,,Yet she still has friends.
+Dialogue: 0,0:21:12.33,0:21:13.80,DefaultBD,Ami,0000,0000,0000,,She still has you.
+Dialogue: 0,0:21:14.29,0:21:18.79,DefaultBD,Ami,0000,0000,0000,,Takasu-kun, what would you do\Nif I showed you the real me?
+Dialogue: 0,0:21:21.34,0:21:22.84,DefaultBD,Ami,0000,0000,0000,,Would you fall for me?
+Dialogue: 0,0:21:22.84,0:21:24.34,DefaultBD,Ryuji,0000,0000,0000,,Ka-Ka-Ka—
+Dialogue: 0,0:21:24.34,0:21:25.22,DefaultBD,Ryuji,0000,0000,0000,,Kawashima?
+Dialogue: 0,0:21:25.63,0:21:26.93,DefaultBD,Ami,0000,0000,0000,,Well?
+Dialogue: 0,0:21:29.72,0:21:32.31,DefaultBD,Ryuji,0000,0000,0000,,H-Hold on!
+Dialogue: 0,0:21:32.73,0:21:34.02,DefaultBD,Ryuji,0000,0000,0000,,I'm...
+Dialogue: 0,0:21:44.28,0:21:47.70,DefaultBD,Minori,0000,0000,0000,,Taiga, are they there?
+Dialogue: 0,0:21:50.12,0:21:51.12,DefaultBD,,0000,0000,0000,,Kweh.
+Dialogue: 0,0:21:51.12,0:21:52.91,DefaultBD,Minori,0000,0000,0000,,Taiga?
+Dialogue: 0,0:21:54.66,0:21:58.00,DefaultBD,,0000,0000,0000,,Add vanilla salt.
+Dialogue: 0,0:21:54.66,0:21:58.00,LyricsromajiBD,,0000,0000,0000,,banira sorutode
+Dialogue: 0,0:21:58.00,0:21:59.84,DefaultBD,,0000,0000,0000,,Burning love.
+Dialogue: 0,0:21:58.00,0:21:59.84,LyricsromajiBD,,0000,0000,0000,,BURNING LOVE
+Dialogue: 0,0:22:00.67,0:22:07.38,DefaultBD,,0000,0000,0000,,If it's too sweet,
+Dialogue: 0,0:22:00.67,0:22:07.38,LyricsromajiBD,,0000,0000,0000,,amai dakenara
+Dialogue: 0,0:22:07.38,0:22:12.35,DefaultBD,,0000,0000,0000,,we can add some salt.
+Dialogue: 0,0:22:07.38,0:22:12.35,LyricsromajiBD,,0000,0000,0000,,soruto kakemashou
+Dialogue: 0,0:22:15.43,0:22:18.85,DefaultBD,,0000,0000,0000,,I tell you all these things because
+Dialogue: 0,0:22:15.43,0:22:18.85,LyricsromajiBD,,0000,0000,0000,,dareyorimo motto motto watashiwo
+Dialogue: 0,0:22:18.85,0:22:22.23,DefaultBD,,0000,0000,0000,,I want you to know me\Nbetter than anyone else.
+Dialogue: 0,0:22:18.85,0:22:22.23,LyricsromajiBD,,0000,0000,0000,,shitte hoshii kara sarake dashitai
+Dialogue: 0,0:22:22.23,0:22:25.69,DefaultBD,,0000,0000,0000,,But nothing works when\NI have no experience.
+Dialogue: 0,0:22:22.23,0:22:25.69,LyricsromajiBD,,0000,0000,0000,,demo dekinaino keiken NOTHING
+Dialogue: 0,0:22:25.69,0:22:27.82,DefaultBD,,0000,0000,0000,,This is so frustrating.
+Dialogue: 0,0:22:25.69,0:22:27.82,LyricsromajiBD,,0000,0000,0000,,modokashi sugiru
+Dialogue: 0,0:22:29.41,0:22:34.66,DefaultBD,,0000,0000,0000,,But a love that's purely sweet
+Dialogue: 0,0:22:29.41,0:22:34.66,LyricsromajiBD,,0000,0000,0000,,demo amaidakeno aiwa chotto
+Dialogue: 0,0:22:35.91,0:22:41.84,DefaultBD,,0000,0000,0000,,isn't quite the love I'm looking for.
+Dialogue: 0,0:22:35.91,0:22:41.84,LyricsromajiBD,,0000,0000,0000,,watashiga motometeiru\Nmonotowa chigau
+Dialogue: 0,0:22:42.59,0:22:45.96,DefaultBD,,0000,0000,0000,,If you say white,
+Dialogue: 0,0:22:42.59,0:22:45.96,LyricsromajiBD,,0000,0000,0000,,shiroto iwaretara
+Dialogue: 0,0:22:45.96,0:22:49.43,DefaultBD,,0000,0000,0000,,I say black.
+Dialogue: 0,0:22:45.96,0:22:49.43,LyricsromajiBD,,0000,0000,0000,,kurodatte icchau
+Dialogue: 0,0:22:49.43,0:22:52.89,DefaultBD,,0000,0000,0000,,A little imp
+Dialogue: 0,0:22:49.43,0:22:52.89,LyricsromajiBD,,0000,0000,0000,,sunaoni narenai
+Dialogue: 0,0:22:52.89,0:22:55.35,DefaultBD,,0000,0000,0000,,who can't be honest to herself.
+Dialogue: 0,0:22:52.89,0:22:55.35,LyricsromajiBD,,0000,0000,0000,,amanojaku
+Dialogue: 0,0:22:56.23,0:22:59.60,DefaultBD,,0000,0000,0000,,If you say love,
+Dialogue: 0,0:22:56.23,0:22:59.60,LyricsromajiBD,,0000,0000,0000,,sukito iwaretara
+Dialogue: 0,0:22:59.60,0:23:03.15,DefaultBD,,0000,0000,0000,,I say hate.
+Dialogue: 0,0:22:59.60,0:23:03.15,LyricsromajiBD,,0000,0000,0000,,daikirai datte
+Dialogue: 0,0:23:03.15,0:23:08.82,DefaultBD,,0000,0000,0000,,Why do I say that when\NI'm actually happy?
+Dialogue: 0,0:23:03.15,0:23:08.82,LyricsromajiBD,,0000,0000,0000,,ureshii noni nani ittendarou
+Dialogue: 0,0:23:09.28,0:23:15.54,DefaultBD,,0000,0000,0000,,It's like adding salt
+Dialogue: 0,0:23:09.28,0:23:15.54,LyricsromajiBD,,0000,0000,0000,,amai banirani
+Dialogue: 0,0:23:15.95,0:23:20.83,DefaultBD,,0000,0000,0000,,to sweet vanilla...
+Dialogue: 0,0:23:15.95,0:23:20.83,LyricsromajiBD,,0000,0000,0000,,soruto kakeru youni
+Dialogue: 0,0:23:25.63,0:23:26.76,DefaultBD,Ryuji,0000,0000,0000,,Waterproof and water-repellent.
+Dialogue: 0,0:23:26.76,0:23:27.67,DefaultBD,Ryuji,0000,0000,0000,,Slight gradation.
+Dialogue: 0,0:23:27.67,0:23:29.09,DefaultBD,Ryuji,0000,0000,0000,,One-touch installation.
+Dialogue: 0,0:23:29.09,0:23:31.01,DefaultBD,Ryuji,0000,0000,0000,,How do you like this, Taiga!?
+Dialogue: 0,0:23:31.01,0:23:32.39,DefaultBD,Minori,0000,0000,0000,,The Bogus-Boobie Force!
+Dialogue: 0,0:23:32.39,0:23:34.39,DefaultBD,,0000,0000,0000,,
