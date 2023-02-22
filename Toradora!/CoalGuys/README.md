@@ -15,7 +15,7 @@
 
 |              |           |
 |--------------|-----------|
-| Status       | Completed |
+| Status       | Complete  |
 | Batch Status | -         |
 | Source       | TVRip     |
 | Resolution   | 848x480   |

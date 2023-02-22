@@ -41,7 +41,7 @@
 
 |              |                                                     |
 |--------------|-----------------------------------------------------|
-| Status       | Completed                                           |
+| Status       | Complete                                            |
 | Batch Status | -                                                   |
 | Source       | TVRip (01-25), BDRip (S1)                           |
 | Resolution   | 848x480 (01-10, 12-25), 880x480 (11), 1280x720 (S1) |

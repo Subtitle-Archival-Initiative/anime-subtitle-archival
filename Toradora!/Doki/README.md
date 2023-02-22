@@ -17,7 +17,7 @@
 
 |              |                                       |
 |--------------|---------------------------------------|
-| Status       | Completed                             |
-| Batch Status | Completed                             |
+| Status       | Complete                              |
+| Batch Status | Complete                              |
 | Source       | BDRip                                 |
 | Resolution   | 1280x720 (01-26, S1), 848x480 (S2-S5) |
