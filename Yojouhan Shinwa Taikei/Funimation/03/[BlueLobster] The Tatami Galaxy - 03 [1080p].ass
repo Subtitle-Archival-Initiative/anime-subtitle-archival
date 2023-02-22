@@ -1,0 +1,413 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.41,0:00:13.41,Default,,0000,0000,0000,,{\i1}Dear viewers, feast your eyes upon\Nthis ultimate super-lightweight machine.{\i0}
+Dialogue: 0,0:00:13.41,0:00:16.41,Default,,0000,0000,0000,,{\i1}This state-of-the-art aerofoil able to\Nconvert even a crosswind to forward thrust...{\i0}
+Dialogue: 0,0:00:16.41,0:00:18.49,Default,,0000,0000,0000,,{\i1}This saddle of pure molded\Ncarbon-fiber with no synthetic leather...{\i0}
+Dialogue: 0,0:00:18.49,0:00:21.12,Default,,0000,0000,0000,,{\i1}This pursuit of function and form that\Nhas merged into a single work of art.{\i0}
+Dialogue: 0,0:00:21.12,0:00:23.72,Default,,0000,0000,0000,,{\i1}It goes without saying that to obtain\Nsuch a machine required much sacrifice.{\i0}
+Dialogue: 0,0:00:23.72,0:00:25.12,Default,,0000,0000,0000,,{\i1}Ignoring my studies, laboring at part-time jobs,{\i0}
+Dialogue: 0,0:00:24.12,0:00:25.41,On Top,,0000,0000,0000,,Excellent
+Dialogue: 0,0:00:24.12,0:00:25.41,On Top,,0000,0000,0000,,Fair
+Dialogue: 0,0:00:24.12,0:00:25.41,On Top,,0000,0000,0000,,Fail
+Dialogue: 0,0:00:25.12,0:00:26.92,Default,,0000,0000,0000,,{\i1}sparing not a second for anything\Nother than my time on the bike...{\i0}
+Dialogue: 0,0:00:26.92,0:00:28.14,Default,,0000,0000,0000,,{\i1}I risked it all to obtain this machine.{\i0}
+Dialogue: 0,0:00:28.14,0:00:29.52,Default,,0000,0000,0000,,{\i1}But this weekend is the Shimanami Cup.{\i0}
+Dialogue: 0,0:00:29.52,0:00:31.20,Default,,0000,0000,0000,,{\i1}My win there is almost guaranteed.{\i0}
+Dialogue: 0,0:00:31.20,0:00:34.88,Default,,0000,0000,0000,,{\i1}And at the end of my winning run I'll finally\Nbe greeted by that rose-colored campus life!{\i0}
+Dialogue: 0,0:00:35.91,0:00:38.91,Default,,0000,0000,0000,,{\i1}Sorry, can you bring it up? It's open...{\i0}
+Dialogue: 0,0:00:38.91,0:00:41.61,Default,,0000,0000,0000,,{\i1}I am prepared for any contingency.{\i0}
+Dialogue: 0,0:00:41.61,0:00:44.02,Default,,0000,0000,0000,,{\i1}This lock is unbreakable,\Nsave for using a hydraulic cutter...{\i0}
+Dialogue: 0,0:00:47.33,0:00:48.41,Default,,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:00:48.41,0:00:49.77,Default,,0000,0000,0000,,That's my bicycle!
+Dialogue: 0,0:00:50.00,0:00:52.57,Default,,0000,0000,0000,,Don't steal away my two years!
+Dialogue: 0,0:00:54.86,0:00:56.88,Default,,0000,0000,0000,,Give it back!
+Dialogue: 0,0:00:58.35,0:01:01.79,Default,,0000,0000,0000,,{\i1}And just like that, the crystallization of\Nmy past two years goes down the drain.{\i0}
+Dialogue: 0,0:01:02.58,0:01:04.66,Default,,0000,0000,0000,,{\i1}They are called the Cheery Cycle Cleanup Corps.{\i0}
+Dialogue: 0,0:01:04.66,0:01:07.12,Default,,0000,0000,0000,,{\i1}A mysterious autonomous circle\Nthat regulates illegal bicycle parking.{\i0}
+Dialogue: 0,0:01:07.41,0:01:09.29,Default,,0000,0000,0000,,{\i1}At first they were a group \Nstaffed by volunteers{\i0}
+Dialogue: 0,0:01:09.29,0:01:11.42,Default,,0000,0000,0000,,{\i1}diligently giving their\Ntime to maintain the campus,{\i0}
+Dialogue: 0,0:01:11.42,0:01:12.88,Default,,0000,0000,0000,,{\i1}but in recent years they've\Ntaken on a strange look,{\i0}
+Dialogue: 0,0:01:12.88,0:01:15.83,Default,,0000,0000,0000,,{\i1}and forcibly remove any bicycle just\Na tad outside the designated area...{\i0}
+Dialogue: 0,0:01:15.83,0:01:17.54,Default,,0000,0000,0000,,{\i1}And those bicycles are ne'er to be seen again.{\i0}
+Dialogue: 0,0:01:17.54,0:01:19.95,Default,,0000,0000,0000,,{\i1}The rumors are that they end up\Nat bicycle rental shops around Kyoto,{\i0}
+Dialogue: 0,0:01:19.95,0:01:22.77,Default,,0000,0000,0000,,{\i1}or are transported across the Sea of\NJapan and sold to that country in the north.{\i0}
+Dialogue: 0,0:01:22.77,0:01:25.36,Default,,0000,0000,0000,,{\i1}Lately they've expanded their influence\Nbeyond the campus to the entire city of Kyoto,{\i0}
+Dialogue: 0,0:01:25.36,0:01:27.29,Default,,0000,0000,0000,,{\i1}so one cannot let down one's\Nguard even when venturing off-campus.{\i0}
+Dialogue: 0,0:01:27.29,0:01:29.16,Default,,0000,0000,0000,,{\i1}They are the hated enemy\Nof all Kyoto college students,{\i0}
+Dialogue: 0,0:01:29.16,0:01:31.77,Default,,0000,0000,0000,,{\i1}and a threat to our peaceful daily lives.{\i0}
+Dialogue: 0,0:01:31.77,0:01:33.62,Default,,0000,0000,0000,,{\i1}Why has such a thing happened to me?{\i0}
+Dialogue: 0,0:01:33.62,0:01:35.62,Default,,0000,0000,0000,,{\i1}It is necessary for me to\Nquestion the one responsible.{\i0}
+Dialogue: 0,0:01:35.62,0:01:37.05,Default,,0000,0000,0000,,{\i1}Who is responsible for this? {\i0}
+Dialogue: 0,0:01:39.20,0:01:42.45,On Top,,0000,0000,0000,,The Tatami Galaxy
+Dialogue: 0,0:03:09.20,0:03:11.04,Default,,0000,0000,0000,,{\i1}Then I was a brand-spanking\Nnew freshman university student{\i0}
+Dialogue: 0,0:03:11.04,0:03:14.66,Default,,0000,0000,0000,,{\i1}and before my eyes were innumerable\Nopen doors to that rose-colored campus life.{\i0}
+Dialogue: 0,0:03:14.66,0:03:17.29,Default,,0000,0000,0000,,{\i1}However, ever since I learned\NI'd passed the entrance exam{\i0}
+Dialogue: 0,0:03:17.29,0:03:19.59,Default,,0000,0000,0000,,{\i1}my heart had already been set\Non the allure of a single circle.{\i0}
+Dialogue: 0,0:03:19.93,0:03:21.18,Default,,0000,0000,0000,,{\i1}And that circle's name is... {\i0}
+Dialogue: 0,0:03:21.18,0:03:26.48,On Top,,0000,0000,0000,,Cycling Club Soleil
+Dialogue: 0,0:03:24.43,0:03:26.75,Default,,0000,0000,0000,,{\i1}There lay my future of pure, sparkling gold.{\i0}
+Dialogue: 0,0:03:26.75,0:03:29.00,Default,,0000,0000,0000,,{\i1}Together with the raven-haired\Nmaidens in love rendezvous' fierce contest.{\i0}
+Dialogue: 0,0:03:29.00,0:03:31.75,Default,,0000,0000,0000,,{\i1}If the situation called for it, I'd even be\Nwilling to let them ride sitting behind me!{\i0}
+Dialogue: 0,0:03:31.75,0:03:35.04,Default,,0000,0000,0000,,{\i1}...is what I, an idiot beyond\Nall redemption, had thought.{\i0}
+Dialogue: 0,0:03:36.12,0:03:37.55,Default,,0000,0000,0000,,{\i1}Icarus' wings made of hardened wax melted...{\i0}
+Dialogue: 0,0:03:37.55,0:03:39.66,Default,,0000,0000,0000,,{\i1}after he single-mindedly flew \Nstraight toward the sun.{\i0}
+Dialogue: 0,0:03:39.66,0:03:42.16,Default,,0000,0000,0000,,{\i1}And I in pursuit of that rose-colored\Ncampus life was indeed no different,{\i0}
+Dialogue: 0,0:03:42.16,0:03:46.62,Default,,0000,0000,0000,,{\i1}for the Cycling Club was a club in name only;\Nit was more like a hard-core cycling team.{\i0}
+Dialogue: 0,0:03:49.00,0:03:50.75,Default,,0000,0000,0000,,{\i1}I was cast quickly into despair,{\i0}
+Dialogue: 0,0:03:50.75,0:03:54.88,Default,,0000,0000,0000,,{\i1}and before my feet was a creature with a\Nface like a fish-man just risen from the sea.{\i0}
+Dialogue: 0,0:03:57.39,0:03:59.59,Default,,0000,0000,0000,,You fiend! Slink back into the ocean!
+Dialogue: 0,0:03:59.87,0:04:02.04,Default,,0000,0000,0000,,You say some pretty mean things.
+Dialogue: 0,0:04:02.04,0:04:03.91,Default,,0000,0000,0000,,I am your compatriot!
+Dialogue: 0,0:04:03.91,0:04:07.35,Default,,0000,0000,0000,,{\i1}That was my first contact with Ozu,\Nas well as worst contact.{\i0}
+Dialogue: 0,0:04:07.35,0:04:12.60,Default,,0000,0000,0000,,I wonder what they find fun about rotating\Ntheir legs so fast they wear away the cartilage?
+Dialogue: 0,0:04:13.00,0:04:14.95,Default,,0000,0000,0000,,Let's do something more fun!
+Dialogue: 0,0:04:14.95,0:04:15.73,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:04:15.73,0:04:16.75,Default,,0000,0000,0000,,Let's go on a run.
+Dialogue: 0,0:04:16.75,0:04:18.37,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:04:18.37,0:04:22.07,Default,,0000,0000,0000,,Even if you resist it,\Nthere's no escaping your fate!
+Dialogue: 0,0:04:23.37,0:04:25.16,Default,,0000,0000,0000,,{\i1}Training was as harsh as you could imagine.{\i0}
+Dialogue: 0,0:04:25.16,0:04:27.47,Default,,0000,0000,0000,,{\i1}But it was with the belief that\NI could overcome the suffering{\i0}
+Dialogue: 0,0:04:27.47,0:04:29.64,Default,,0000,0000,0000,,{\i1}and reach my rose-colored\Nfuture that I turned the pedals.{\i0}
+Dialogue: 0,0:04:29.64,0:04:32.41,Default,,0000,0000,0000,,{\i1}In the world of "roadies," only\Nthe fast are recognized and praised.{\i0}
+Dialogue: 0,0:04:32.41,0:04:35.29,Default,,0000,0000,0000,,{\i1}Speed is king! Speed is cool!{\i0}
+Dialogue: 0,0:04:36.92,0:04:39.17,Default,,0000,0000,0000,,{\i1}In high school I didn't\Nbelong to any sports clubs.{\i0}
+Dialogue: 0,0:04:39.17,0:04:40.75,Default,,0000,0000,0000,,{\i1}In fact, I did as few activities as possible{\i0}
+Dialogue: 0,0:04:40.75,0:04:44.50,Default,,0000,0000,0000,,{\i1}and just stayed cooped up with\Na bunch of other layabout guys.{\i0}
+Dialogue: 0,0:04:45.93,0:04:49.37,Default,,0000,0000,0000,,{\i1}So a full-blown athletic team was\Nfar too heavy a burden for me to bear.{\i0}
+Dialogue: 0,0:04:49.37,0:04:50.33,Default,,0000,0000,0000,,{\i1}Even attempting to train, {\i0}
+Dialogue: 0,0:04:50.33,0:04:52.81,Default,,0000,0000,0000,,{\i1}with my feeble constitution there was\Nno certainty of improvement to begin with,{\i0}
+Dialogue: 0,0:04:52.81,0:04:55.10,Default,,0000,0000,0000,,{\i1}and of course there was no way\NI'd place well in any competition.{\i0}
+Dialogue: 0,0:04:55.45,0:04:58.70,Default,,0000,0000,0000,,{\i1}And so I shuffled along,\Nwasting my freshman year.{\i0}
+Dialogue: 0,0:05:03.20,0:05:06.91,Default,,0000,0000,0000,,As usual all you're eating\Nis chicken like a damn fool.
+Dialogue: 0,0:05:06.91,0:05:09.41,Default,,0000,0000,0000,,Shut up, this is the best source of protein!
+Dialogue: 0,0:05:09.41,0:05:12.58,Default,,0000,0000,0000,,My, my... Must be a struggle\Nfor a poor fellow like you.
+Dialogue: 0,0:05:12.58,0:05:15.37,Default,,0000,0000,0000,,Instead of chicken, how about letting me\Neat some salted tongue with green onions?
+Dialogue: 0,0:05:15.37,0:05:16.62,Default,,0000,0000,0000,,How 'bout you eat some of this!
+Dialogue: 0,0:05:15.93,0:05:17.79,Default,,0000,0000,0000,,{\i1}Ozu never showed his face in the circle,{\i0}
+Dialogue: 0,0:05:16.62,0:05:17.79,Default,,0000,0000,0000,,Don't be such a picky eater!
+Dialogue: 0,0:05:17.79,0:05:18.79,Default,,0000,0000,0000,,Eat it!
+Dialogue: 0,0:05:17.79,0:05:19.58,Default,,0000,0000,0000,,{\i1}but he'd frequently show up in my room.{\i0}
+Dialogue: 0,0:05:19.58,0:05:22.00,Default,,0000,0000,0000,,{\i1}Why? Because someone called\NOzu's "Master" lives on the second floor{\i0}
+Dialogue: 0,0:05:22.00,0:05:24.04,Default,,0000,0000,0000,,{\i1}of this boarding house, and it\Nseems Ozu comes to visit him.{\i0}
+Dialogue: 0,0:05:24.04,0:05:26.80,Default,,0000,0000,0000,,{\i1}I surmised he was probably a\Nmaster at telling lewd jokes or something.{\i0}
+Dialogue: 0,0:05:30.41,0:05:32.25,Default,,0000,0000,0000,,Your eyebrows are raised.
+Dialogue: 0,0:05:32.25,0:05:34.41,Default,,0000,0000,0000,,Why so tense?
+Dialogue: 0,0:05:34.41,0:05:37.33,Default,,0000,0000,0000,,Shut up! I have no interest\Nin wasting my time like you!
+Dialogue: 0,0:05:37.33,0:05:41.95,Default,,0000,0000,0000,,How cruel. I put a lot of effort into\Nenjoying wasting my college years.
+Dialogue: 0,0:05:41.95,0:05:44.54,Default,,0000,0000,0000,,And you have no right to\Ncriticize me on that front.
+Dialogue: 0,0:05:44.54,0:05:45.54,Default,,0000,0000,0000,,Go home!
+Dialogue: 0,0:05:45.54,0:05:47.28,Default,,0000,0000,0000,,Don't hold me back!
+Dialogue: 0,0:05:47.70,0:05:49.79,Default,,0000,0000,0000,,God damn him...
+Dialogue: 0,0:05:50.88,0:05:53.29,On Top,,0000,0000,0000,,Bicycle Club
+Dialogue: 0,0:05:51.87,0:05:53.29,Default,,0000,0000,0000,,What's this?
+Dialogue: 0,0:05:54.54,0:05:56.88,Default,,0000,0000,0000,,{\i1}In there was a \Ncornucopia of information about{\i0}
+Dialogue: 0,0:05:56.88,0:05:59.29,Default,,0000,0000,0000,,{\i1}all possible kinds of \Naerodynamic bicycle parts.{\i0}
+Dialogue: 0,0:06:00.83,0:06:02.12,Default,,0000,0000,0000,,{\i1}I have no physical strength. {\i0}
+Dialogue: 0,0:06:02.12,0:06:04.54,Default,,0000,0000,0000,,{\i1}Therefore, how about I do\Nbattle with the specs of my bicycle?{\i0}
+Dialogue: 0,0:06:04.54,0:06:07.01,Default,,0000,0000,0000,,{\i1}Was it not a path of escape, even\Nfor a weak person such as myself?{\i0}
+Dialogue: 0,0:06:09.12,0:06:12.70,Default,,0000,0000,0000,,{\i1}Having seen the light, in my second year\NI embarked on a complete change of course.{\i0}
+Dialogue: 0,0:06:14.00,0:06:17.27,Default,,0000,0000,0000,,{\i1}Thinking back on it now, it was only\Nthe beginning of yet greater unhappiness.{\i0}
+Dialogue: 0,0:06:18.19,0:06:20.19,Default,,0000,0000,0000,,{\i1}To get your hands on a good bicycle takes money.{\i0}
+Dialogue: 0,0:06:20.70,0:06:23.60,Default,,0000,0000,0000,,{\i1}A reduction of a mere 1 or 2 grams\Nrequires an immense amount of funds.{\i0}
+Dialogue: 0,0:06:23.60,0:06:25.44,Default,,0000,0000,0000,,{\i1}Replacing the wheels, tires,\Nand shoes with lighter versions...{\i0}
+Dialogue: 0,0:06:25.44,0:06:27.00,Default,,0000,0000,0000,,{\i1}The handlebar, the stem, a compact crank...{\i0}
+Dialogue: 0,0:06:27.00,0:06:28.83,Default,,0000,0000,0000,,{\i1}For me to obtain a somewhat decent bicycle,{\i0}
+Dialogue: 0,0:06:28.83,0:06:31.70,Default,,0000,0000,0000,,{\i1}I left my studies to the side and\Ndove into every part-time job there was,{\i0}
+Dialogue: 0,0:06:31.70,0:06:33.70,Default,,0000,0000,0000,,{\i1}even dabbling in some illegal work.{\i0}
+Dialogue: 0,0:06:34.62,0:06:36.70,Default,,0000,0000,0000,,{\i1}I became nothing more than a saving fiend.{\i0}
+Dialogue: 0,0:06:36.70,0:06:38.27,Default,,0000,0000,0000,,{\i1}And finally in the winter of my second year,{\i0}
+Dialogue: 0,0:06:38.27,0:06:39.83,Default,,0000,0000,0000,,{\i1}taking loans from my friends \Nand acquaintances,{\i0}
+Dialogue: 0,0:06:39.83,0:06:41.76,Default,,0000,0000,0000,,{\i1}I got my hands on the full-spec\Nmachine I had been dreaming of.{\i0}
+Dialogue: 0,0:06:43.04,0:06:44.40,Default,,0000,0000,0000,,{\i1}What lightness! {\i0}
+Dialogue: 0,0:06:44.40,0:06:46.46,Default,,0000,0000,0000,,{\i1}This bike is, indeed, my wings! {\i0}
+Dialogue: 0,0:06:46.46,0:06:49.08,Default,,0000,0000,0000,,{\i1}Had I only a girlfriend,\NI felt I could fly anywhere!{\i0}
+Dialogue: 0,0:06:50.47,0:06:53.75,Default,,0000,0000,0000,,{\i1}Of course I had already heard the\Nrumors of the Cheerful Cleanup Corps,{\i0}
+Dialogue: 0,0:06:53.75,0:06:55.72,Default,,0000,0000,0000,,{\i1}so I took extreme caution. {\i0}
+Dialogue: 0,0:06:56.29,0:07:01.90,Default,,0000,0000,0000,,{\i1}I was so enamored with my new bicycle\NI'd take her out with me wherever I went.{\i0}
+Dialogue: 0,0:07:02.20,0:07:04.40,Default,,0000,0000,0000,,Sorry about this, Manami.
+Dialogue: 0,0:07:14.04,0:07:15.91,Default,,0000,0000,0000,,{\i1}I had only let my guard down for a second.{\i0}
+Dialogue: 0,0:07:15.91,0:07:19.29,Default,,0000,0000,0000,,{\i1}I hadn't expected the Cleanup\NCorps to go to such lengths.{\i0}
+Dialogue: 0,0:07:19.29,0:07:21.92,Default,,0000,0000,0000,,{\i1}I would never see my beloved wheels again.{\i0}
+Dialogue: 0,0:07:21.92,0:07:23.54,Default,,0000,0000,0000,,{\i1}Is this who I am now? {\i0}
+Dialogue: 0,0:07:23.54,0:07:26.79,Default,,0000,0000,0000,,{\i1}In the two years I have left,\Nwill I stay such a weakling?{\i0}
+Dialogue: 0,0:07:26.79,0:07:28.76,Default,,0000,0000,0000,,{\i1}I could not shut my eyes from that reality.{\i0}
+Dialogue: 0,0:07:28.76,0:07:30.80,Default,,0000,0000,0000,,{\i1}But nor could I stand to look on it.{\i0}
+Dialogue: 0,0:07:35.37,0:07:36.72,Default,,0000,0000,0000,,Manami!
+Dialogue: 0,0:07:40.87,0:07:44.65,Default,,0000,0000,0000,,Manami!
+Dialogue: 0,0:07:47.41,0:07:49.25,Default,,0000,0000,0000,,Have you gone nuts?
+Dialogue: 0,0:07:49.25,0:07:51.87,Default,,0000,0000,0000,,No. On the contrary,\NI have seen the error of my ways.
+Dialogue: 0,0:07:51.87,0:07:53.75,Default,,0000,0000,0000,,{\i1}I had lost sight of something important.{\i0}
+Dialogue: 0,0:07:53.75,0:07:55.03,Default,,0000,0000,0000,,{\i1}Bought two years ago at the university co-op,{\i0}
+Dialogue: 0,0:07:55.03,0:07:57.41,Default,,0000,0000,0000,,{\i1}my Manami had been with me\Nthrough all my joys and sorrows.{\i0}
+Dialogue: 0,0:07:57.41,0:08:00.41,Default,,0000,0000,0000,,{\i1}I, once mad with visions of road\Nbikes, would no longer be led astray.{\i0}
+Dialogue: 0,0:08:00.41,0:08:03.29,Default,,0000,0000,0000,,{\i1}Manami is for me, my true life-partner!{\i0}
+Dialogue: 0,0:08:03.54,0:08:06.54,Default,,0000,0000,0000,,{\i1}But fate soon tore Manami and I apart.{\i0}
+Dialogue: 0,0:08:03.79,0:08:06.54,On Top,,0000,0000,0000,,Shimanami Cup
+Dialogue: 0,0:08:07.16,0:08:09.50,Default,,0000,0000,0000,,Manami... Have you seen my Manami?
+Dialogue: 0,0:08:09.50,0:08:11.33,Default,,0000,0000,0000,,Nope.
+Dialogue: 0,0:08:12.26,0:08:13.70,Default,,0000,0000,0000,,{\i1}I didn't even consider it, {\i0}
+Dialogue: 0,0:08:13.70,0:08:15.70,Default,,0000,0000,0000,,{\i1}but it seems Manami was not\Nconsidered a participating bike{\i0}
+Dialogue: 0,0:08:15.70,0:08:17.45,Default,,0000,0000,0000,,{\i1}and was transported to\Nthe finish area by mistake.{\i0}
+Dialogue: 0,0:08:17.45,0:08:19.54,Default,,0000,0000,0000,,{\i1}By the time I figured that out,\Na great deal of time had passed,{\i0}
+Dialogue: 0,0:08:19.54,0:08:22.84,Default,,0000,0000,0000,,{\i1}so I started the race four hours\Nlate and it was already after lunch.{\i0}
+Dialogue: 0,0:08:23.87,0:08:26.16,Default,,0000,0000,0000,,{\i1}The Shimanami Cup goes from \NOnomichi to Shikoku, {\i0}
+Dialogue: 0,0:08:26.16,0:08:27.91,Default,,0000,0000,0000,,{\i1}crossing the bridges from island to island.{\i0}
+Dialogue: 0,0:08:27.91,0:08:29.19,Default,,0000,0000,0000,,{\i1}After crossing one bridge, {\i0}
+Dialogue: 0,0:08:29.19,0:08:31.84,Default,,0000,0000,0000,,{\i1}you run along the coastline of the island,\Nthen climb up onto another bridge.{\i0}
+Dialogue: 0,0:08:31.84,0:08:33.20,Default,,0000,0000,0000,,{\i1}In other words, it's a strenuous up-down course.{\i0}
+Dialogue: 0,0:08:33.20,0:08:36.24,Default,,0000,0000,0000,,Manami, why must you be so heavy?
+Dialogue: 0,0:08:39.95,0:08:42.50,Default,,0000,0000,0000,,{\i1}I wonder where all the other racers are?{\i0}
+Dialogue: 0,0:08:42.50,0:08:45.37,Default,,0000,0000,0000,,{\i1}Or wait, is the race even still going on?{\i0}
+Dialogue: 0,0:08:48.83,0:08:50.33,Default,,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:08:50.33,0:08:51.87,Default,,0000,0000,0000,,What? There's still people out there?
+Dialogue: 0,0:08:51.87,0:08:55.43,Default,,0000,0000,0000,,We don't need any entertainment.
+Dialogue: 0,0:08:55.43,0:08:57.29,Default,,0000,0000,0000,,{\i1}Even though my only goal\Nnow was to stay on the course,{\i0}
+Dialogue: 0,0:08:57.29,0:08:59.37,Default,,0000,0000,0000,,{\i1}as night fell I began to lose\Nsight of the course indicators.{\i0}
+Dialogue: 0,0:08:59.37,0:09:00.91,Default,,0000,0000,0000,,{\i1}For what reason was I racing? {\i0}
+Dialogue: 0,0:09:00.91,0:09:02.70,Default,,0000,0000,0000,,{\i1}For what reason did I even go to college?{\i0}
+Dialogue: 0,0:09:02.70,0:09:03.58,Default,,0000,0000,0000,,{\i1}Manami? What the hell!{\i0}
+Dialogue: 0,0:09:03.58,0:09:06.06,Default,,0000,0000,0000,,{\i1}It's just a cheap-ass basket-bike!{\i0}
+Dialogue: 0,0:09:06.87,0:09:08.33,Default,,0000,0000,0000,,Continuing with the news.
+Dialogue: 0,0:09:08.33,0:09:12.15,Default,,0000,0000,0000,,Today in Hiroshima prefecture, the 10th\Nannual Shimanami Cup was held in Onomichi city.
+Dialogue: 0,0:09:12.79,0:09:16.75,Default,,0000,0000,0000,,The 240 participants put on a fierce race,
+Dialogue: 0,0:09:16.75,0:09:20.24,Default,,0000,0000,0000,,and the winner with a splendid\Nvictory was Kyoto's Higuchi-{\i1}san{\i0}.
+Dialogue: 0,0:09:22.91,0:09:25.21,Default,,0000,0000,0000,,That's the crystallization of my past two years!
+Dialogue: 0,0:09:25.21,0:09:26.96,Default,,0000,0000,0000,,I worked hard for this day.
+Dialogue: 0,0:09:25.21,0:09:26.96,Default,,0000,0000,0000,,It has to be
+Dialogue: 0,0:09:26.96,0:09:32.37,Default,,0000,0000,0000,,I'm very happy I could be victorious for my\Ndisciple who always cheered me on," he said.
+Dialogue: 0,0:09:32.37,0:09:35.75,Default,,0000,0000,0000,,Enough, enough! I'm going home!
+Dialogue: 0,0:09:37.37,0:09:40.91,Default,,0000,0000,0000,,{\i1}Where had all this energy I'd\Nexpended the whole time vanished to?{\i0}
+Dialogue: 0,0:09:40.91,0:09:42.20,Default,,0000,0000,0000,,{\i1}This violates the conservation of energy!{\i0}
+Dialogue: 0,0:09:42.20,0:09:43.06,Default,,0000,0000,0000,,{\i1}Does not compute! {\i0}
+Dialogue: 0,0:09:43.06,0:09:45.40,Default,,0000,0000,0000,,{\i1}Is this not a blasphemy of modern physics?{\i0}
+Dialogue: 0,0:09:47.91,0:09:50.79,Default,,0000,0000,0000,,{\i1}While I was thinking of such things,\Nmorning dawned, then night fell,{\i0}
+Dialogue: 0,0:09:50.79,0:09:54.94,Default,,0000,0000,0000,,{\i1}then morning again, then night, and\Nwhen I came to, I had reached Kiyamachi.{\i0}
+Dialogue: 0,0:09:56.86,0:10:01.62,Default,,0000,0000,0000,,Your face is a face of extreme\Nimpatience... You are unsatisfied.
+Dialogue: 0,0:10:02.04,0:10:05.37,Default,,0000,0000,0000,,I can sense your fiercely earnest talent.
+Dialogue: 0,0:10:05.37,0:10:07.87,Default,,0000,0000,0000,,Quickly I did tip my hat to\Nthe old woman's keen insight.
+Dialogue: 0,0:10:08.12,0:10:11.38,Default,,0000,0000,0000,,Anyway, I sense there is an\Nopportunity you can't let pass by.
+Dialogue: 0,0:10:11.38,0:10:12.54,Default,,0000,0000,0000,,Opportunity?
+Dialogue: 0,0:10:12.54,0:10:15.88,Default,,0000,0000,0000,,This opportunity is always\Ndangling in front of your eyes.
+Dialogue: 0,0:10:15.88,0:10:17.88,Default,,0000,0000,0000,,Please grab it.
+Dialogue: 0,0:10:17.88,0:10:19.41,Default,,0000,0000,0000,,That'll be 3000 yen.
+Dialogue: 0,0:10:19.41,0:10:22.18,Default,,0000,0000,0000,,You raised prices again?\NAnd damn that was quick!
+Dialogue: 0,0:10:22.76,0:10:25.47,Default,,0000,0000,0000,,{\i1}It seemed that I had somehow\Nfallen into the sea of worthlessness.{\i0}
+Dialogue: 0,0:10:26.48,0:10:28.94,Default,,0000,0000,0000,,{\i1}Or perhaps I had never\Neven taken off to begin with.{\i0}
+Dialogue: 0,0:10:32.00,0:10:36.32,Default,,0000,0000,0000,,{\i1}In the end I was fated to waste\Naway my college life just as Ozu had said.{\i0}
+Dialogue: 0,0:10:47.45,0:10:49.21,Default,,0000,0000,0000,,I apologize for abducting you like this.
+Dialogue: 0,0:10:49.45,0:10:52.21,Default,,0000,0000,0000,,I'm taking you to my circle's shack.
+Dialogue: 0,0:10:52.21,0:10:54.75,Default,,0000,0000,0000,,We have a serious favor to ask you, {\i1}Senpai{\i0}.
+Dialogue: 0,0:10:54.75,0:10:55.96,Default,,0000,0000,0000,,Akashi-{\i1}san{\i0}?
+Dialogue: 0,0:10:55.96,0:10:59.37,Default,,0000,0000,0000,,{\i1}Akashi-san was a student in the\Nengineering department one year below me.{\i0}
+Dialogue: 0,0:10:59.37,0:11:01.83,Default,,0000,0000,0000,,{\i1}The previous year she was the sole\Nfemale member registered to Soleil,{\i0}
+Dialogue: 0,0:11:01.83,0:11:05.10,Default,,0000,0000,0000,,{\i1}and amazingly won the overall\Nvictory at a road race held in Keage.{\i0}
+Dialogue: 0,0:11:05.54,0:11:07.79,Default,,0000,0000,0000,,What are you going to use the prize money for?
+Dialogue: 0,0:11:07.79,0:11:09.60,Default,,0000,0000,0000,,There's no reason for me to answer that.
+Dialogue: 0,0:11:10.20,0:11:13.33,Default,,0000,0000,0000,,{\i1}She had sturdy legs and an air\Nthat didn't let others get near her,{\i0}
+Dialogue: 0,0:11:13.33,0:11:16.02,Default,,0000,0000,0000,,{\i1}but she had no real\Ninterest in races and quit Soleil.{\i0}
+Dialogue: 0,0:11:16.02,0:11:19.53,Default,,0000,0000,0000,,{\i1}She invested all the prize money\Nin her current circle, it seems.{\i0}
+Dialogue: 0,0:11:19.91,0:11:21.15,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:11:26.03,0:11:28.03,Default,,0000,0000,0000,,I apologize for the shady look of the place.
+Dialogue: 0,0:11:41.54,0:11:43.00,Default,,0000,0000,0000,,I've brought him.
+Dialogue: 0,0:11:43.00,0:11:46.45,Default,,0000,0000,0000,,You? You're the dropout from Soleil?
+Dialogue: 0,0:11:46.45,0:11:47.37,Default,,0000,0000,0000,,R-Right...
+Dialogue: 0,0:11:47.37,0:11:48.97,Default,,0000,0000,0000,,This is our club president.
+Dialogue: 0,0:11:49.25,0:11:51.98,Default,,0000,0000,0000,,I see, you really do have a feeble body.
+Dialogue: 0,0:11:51.98,0:11:54.98,Default,,0000,0000,0000,,You're exactly the kind of\Nman perfect to become a bird.
+Dialogue: 0,0:11:55.25,0:11:56.48,Default,,0000,0000,0000,,Become a bird?
+Dialogue: 0,0:11:56.48,0:11:59.16,Default,,0000,0000,0000,,Welcome to our Birdman Team!
+Dialogue: 0,0:12:03.16,0:12:04.41,Default,,0000,0000,0000,,Weight, 59 kilograms.
+Dialogue: 0,0:12:04.41,0:12:05.62,Default,,0000,0000,0000,,Chest, 80 centimeters.
+Dialogue: 0,0:12:05.62,0:12:07.12,Default,,0000,0000,0000,,Waist, 70 centimeters.
+Dialogue: 0,0:12:07.12,0:12:09.37,Default,,0000,0000,0000,,Indeed, you have the ideal body.
+Dialogue: 0,0:12:09.37,0:12:11.50,Default,,0000,0000,0000,,What in the world is this?
+Dialogue: 0,0:12:11.79,0:12:15.00,Default,,0000,0000,0000,,Akashi-{\i1}kun {\i0}is our star engineer, see.
+Dialogue: 0,0:12:15.00,0:12:17.29,Default,,0000,0000,0000,,And she seems to be interested in you.
+Dialogue: 0,0:12:17.29,0:12:20.12,Default,,0000,0000,0000,,We have the airframe almost\Ncompleted, as you can see.
+Dialogue: 0,0:12:20.12,0:12:23.76,Default,,0000,0000,0000,,But no one in the team is suitable to pilot it.
+Dialogue: 0,0:12:24.00,0:12:26.12,Default,,0000,0000,0000,,You don't have to do anything in particular.
+Dialogue: 0,0:12:26.12,0:12:29.82,Default,,0000,0000,0000,,So will you pilot it, with that\Nperfect body you have right now?
+Dialogue: 0,0:12:31.20,0:12:33.41,Default,,0000,0000,0000,,You're going to get in that plane.
+Dialogue: 0,0:12:33.41,0:12:36.37,Default,,0000,0000,0000,,But I'm a complete weakling.\NI even dropped out from Soleil...
+Dialogue: 0,0:12:36.37,0:12:37.37,Default,,0000,0000,0000,,Exactly!
+Dialogue: 0,0:12:37.37,0:12:40.37,Default,,0000,0000,0000,,We need our pilot to be as frail as possible!
+Dialogue: 0,0:12:40.37,0:12:44.83,Default,,0000,0000,0000,,Well, that's not all, but you\Nare definitely our ideal pilot.
+Dialogue: 0,0:12:44.83,0:12:46.41,Default,,0000,0000,0000,,There is no special training you will need.
+Dialogue: 0,0:12:46.41,0:12:49.79,Default,,0000,0000,0000,,Simply come to the competition as you are now.
+Dialogue: 0,0:12:49.79,0:12:53.79,Default,,0000,0000,0000,,Just take care of your body\Nso you don't get the flu, okay?
+Dialogue: 0,0:12:57.58,0:12:59.80,Default,,0000,0000,0000,,{\i1}What a sudden development. {\i0}
+Dialogue: 0,0:12:59.80,0:13:01.16,Default,,0000,0000,0000,,{\i1}It did feel a bit like I was forced into it,{\i0}
+Dialogue: 0,0:13:01.16,0:13:03.70,Default,,0000,0000,0000,,{\i1}and isn't this just a nice way of saying\N"you're a stone falling into a lake"?{\i0}
+Dialogue: 0,0:13:03.70,0:13:07.12,Default,,0000,0000,0000,,{\i1}The Birdman contest is a cruel\Ngame where you pedal and pedal{\i0}
+Dialogue: 0,0:13:07.12,0:13:08.25,Default,,0000,0000,0000,,{\i1}until you inevitably drop into the sea.{\i0}
+Dialogue: 0,0:13:08.25,0:13:10.31,Default,,0000,0000,0000,,{\i1}In other words, it didn't have to\Nbe me; it could have been anyone.{\i0}
+Dialogue: 0,0:13:10.31,0:13:12.81,Default,,0000,0000,0000,,{\i1}And isn't it really scary to head\Nstraight into the sea from such a height?{\i0}
+Dialogue: 0,0:13:12.81,0:13:15.31,Default,,0000,0000,0000,,{\i1}It's unbearable! I can't take losing any more!{\i0}
+Dialogue: 0,0:13:20.91,0:13:24.24,Default,,0000,0000,0000,,It was spring of last year,\Nduring the road race on Keage.
+Dialogue: 0,0:13:24.50,0:13:26.41,Default,,0000,0000,0000,,I had taken off with good speed at first,
+Dialogue: 0,0:13:26.41,0:13:30.62,Default,,0000,0000,0000,,but I immediately got winded, and\Nwas staring up at the canal incline.
+Dialogue: 0,0:13:30.62,0:13:33.00,Default,,0000,0000,0000,,The power plant over there is quite wonderful.
+Dialogue: 0,0:13:33.00,0:13:36.87,Default,,0000,0000,0000,,It's full of dubious machines,\Nand stirs up my heart.
+Dialogue: 0,0:13:36.87,0:13:39.54,Default,,0000,0000,0000,,And it's especially lovely during {\i1}sakura {\i0}season.
+Dialogue: 0,0:13:40.91,0:13:43.08,Default,,0000,0000,0000,,Akashi-{\i1}san{\i0}, shouldn't you be in a hurry?
+Dialogue: 0,0:13:43.08,0:13:45.25,Default,,0000,0000,0000,,Aren't you the favorite to win the women's race?
+Dialogue: 0,0:13:45.25,0:13:46.30,Default,,0000,0000,0000,,Yes, I am.
+Dialogue: 0,0:13:46.54,0:13:48.58,Default,,0000,0000,0000,,Then, I'll be off.
+Dialogue: 0,0:13:48.58,0:13:51.05,Default,,0000,0000,0000,,The {\i1}sakura {\i0}are very nice.
+Dialogue: 0,0:13:51.05,0:13:54.81,Default,,0000,0000,0000,,{\i1}And so Akashi-san won not only the\Nwomen's race, but the overall victory.{\i0}
+Dialogue: 0,0:13:54.81,0:13:58.45,Default,,0000,0000,0000,,{\i1}Back then I saw dangling\Nfrom Akashi-san the Mochiguman.{\i0}
+Dialogue: 0,0:13:58.45,0:14:00.90,Default,,0000,0000,0000,,{\i1}They come in sets of five, so\Nit seemed like she had lost one.{\i0}
+Dialogue: 0,0:14:01.20,0:14:06.36,Default,,0000,0000,0000,,{\i1}Afterwards I came across it, and had\Ncontinuously forgotten to return it till today.{\i0}
+Dialogue: 0,0:14:06.36,0:14:11.12,Default,,0000,0000,0000,,{\i1}This opportunity is always\Ndangling in front of your eyes.{\i0}
+Dialogue: 0,0:14:11.12,0:14:12.99,Default,,0000,0000,0000,,{\i1}This body has already crashed once.{\i0}
+Dialogue: 0,0:14:12.99,0:14:14.51,Default,,0000,0000,0000,,{\i1}Falling is something\NI have firsthand knowledge of.{\i0}
+Dialogue: 0,0:14:14.51,0:14:16.27,Default,,0000,0000,0000,,{\i1}All I need to do is grit my\Nteeth and launch with a shout.{\i0}
+Dialogue: 0,0:14:16.27,0:14:18.91,Default,,0000,0000,0000,,{\i1}And then Akashi-san will surely come to\Nme after I've fallen, with a smile on her face.{\i0}
+Dialogue: 0,0:14:18.91,0:14:22.58,Default,,0000,0000,0000,,{\i1}Then afterwards, I'll sit behind Akashi-san\Nas she rides up the sakura-lined incline!{\i0}
+Dialogue: 0,0:14:22.58,0:14:25.04,Default,,0000,0000,0000,,{\i1}Wait! Can I allow myself to\Nbe addled by such feelings?{\i0}
+Dialogue: 0,0:14:25.04,0:14:28.38,Default,,0000,0000,0000,,{\i1}Your dreams shouldn't be so\Nflimsy, weak, and limp noodled!{\i0}
+Dialogue: 0,0:14:28.38,0:14:30.79,Default,,0000,0000,0000,,{\i1}Is it really okay to lower my\Nfuture to such a shameless fate?{\i0}
+Dialogue: 0,0:14:30.79,0:14:33.79,Default,,0000,0000,0000,,{\i1}To no longer shoot for the sun, but to\Nlive lazily on the ground? How is that Icarus?{\i0}
+Dialogue: 0,0:14:33.79,0:14:36.39,Default,,0000,0000,0000,,{\i1}I'd just be some kid with ugly-ass wings!{\i0}
+Dialogue: 0,0:14:38.41,0:14:40.62,Default,,0000,0000,0000,,{\i1}Wavering in the gap between reality and fantasy,{\i0}
+Dialogue: 0,0:14:40.62,0:14:42.58,Default,,0000,0000,0000,,{\i1}exhausted by the tumultuous\Ndevelopments of the past few days{\i0}
+Dialogue: 0,0:14:42.58,0:14:45.16,Default,,0000,0000,0000,,{\i1}and my no-rest, no-sleep return from Shikoku,{\i0}
+Dialogue: 0,0:14:45.16,0:14:46.40,Default,,0000,0000,0000,,{\i1}I fell to sleep like a sack of potatoes.{\i0}
+Dialogue: 0,0:14:49.37,0:14:51.41,Default,,0000,0000,0000,,{\i1}Can you keep up with me? {\i0}
+Dialogue: 0,0:14:51.66,0:14:55.37,Default,,0000,0000,0000,,{\i1}This man is named Jougasaki, and is\Nthe president of the Movie Circle "Misogi."{\i0}
+Dialogue: 0,0:14:55.37,0:14:57.33,Default,,0000,0000,0000,,{\i1}He's a man that lives for\Nworking out and women's boobs.{\i0}
+Dialogue: 0,0:14:57.33,0:14:58.95,Default,,0000,0000,0000,,{\i1}And I asked him to teach me. {\i0}
+Dialogue: 0,0:14:58.95,0:15:00.41,Default,,0000,0000,0000,,{\i1}That's right, I'd made my decision!{\i0}
+Dialogue: 0,0:15:00.41,0:15:02.92,Default,,0000,0000,0000,,{\i1}I'd fly farther than anyone, higher than anyone!{\i0}
+Dialogue: 0,0:15:02.92,0:15:04.08,Default,,0000,0000,0000,,{\i1}And on the dawn of my victory, {\i0}
+Dialogue: 0,0:15:04.08,0:15:07.92,Default,,0000,0000,0000,,{\i1}Akashi-san will be sitting on the back of\NMinami as we ride up the sakura-lined incline!{\i0}
+Dialogue: 0,0:15:08.25,0:15:11.04,Default,,0000,0000,0000,,Listen up. Victory is everything.
+Dialogue: 0,0:15:11.04,0:15:15.43,Default,,0000,0000,0000,,I will not allow you to run from a battle\Nand live a life aloof like that Higuchi guy!
+Dialogue: 0,0:15:15.43,0:15:17.20,Default,,0000,0000,0000,,If you're a man, then grab victory!
+Dialogue: 0,0:15:17.20,0:15:20.44,Default,,0000,0000,0000,,Grab victory, and grab women's tits!
+Dialogue: 0,0:15:20.83,0:15:22.87,Default,,0000,0000,0000,,{\i1}Jougasaki-senpai's teachings\Nwere actually pretty clear-cut,{\i0}
+Dialogue: 0,0:15:22.87,0:15:24.94,Default,,0000,0000,0000,,{\i1}and my motivation rose\Nto higher and higher levels.{\i0}
+Dialogue: 0,0:15:24.94,0:15:28.28,Default,,0000,0000,0000,,{\i1}The Birdman contest was even televised,\Nand was the place for the circle to shine.{\i0}
+Dialogue: 0,0:15:28.28,0:15:30.20,Default,,0000,0000,0000,,{\i1}If I won, then I would no\Ndoubt gain the attention{\i0}
+Dialogue: 0,0:15:30.20,0:15:32.00,Default,,0000,0000,0000,,{\i1}of raven-haired maidens from all around Kyoto.{\i0}
+Dialogue: 0,0:15:32.00,0:15:35.66,Default,,0000,0000,0000,,{\i1}I bet I'd need to broaden my field of\Nvision to other women than just Akashi-san.{\i0}
+Dialogue: 0,0:15:35.66,0:15:38.20,Default,,0000,0000,0000,,{\i1}But that is a trial all winners must face!{\i0}
+Dialogue: 0,0:15:39.50,0:15:42.22,Default,,0000,0000,0000,,Being the hero sure is tough!
+Dialogue: 0,0:15:51.45,0:15:53.70,Default,,0000,0000,0000,,What have you done?!
+Dialogue: 0,0:15:53.70,0:15:55.76,Default,,0000,0000,0000,,I said you were fine the way you were!
+Dialogue: 0,0:15:56.00,0:15:58.72,Default,,0000,0000,0000,,But now you've got muscles!
+Dialogue: 0,0:15:58.72,0:15:59.80,Default,,0000,0000,0000,,Everything's ruined!
+Dialogue: 0,0:15:59.80,0:16:00.43,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:16:00.83,0:16:07.07,Default,,0000,0000,0000,,Akashi-{\i1}kun{\i0}'s plane is designed with\Nextremely sensitive aviation tolerances!
+Dialogue: 0,0:16:07.25,0:16:12.57,Default,,0000,0000,0000,,Even a 10-gram difference in the pilot\Nwould mean redoing the entire blueprint!
+Dialogue: 0,0:16:12.57,0:16:14.87,Default,,0000,0000,0000,,Ruined! It's all ruined!
+Dialogue: 0,0:16:14.87,0:16:17.45,Default,,0000,0000,0000,,Enough! Akashi-{\i1}kun{\i0}, you be the pilot after all!
+Dialogue: 0,0:16:17.70,0:16:20.83,Default,,0000,0000,0000,,You and your muscles can get out of here!
+Dialogue: 0,0:16:20.83,0:16:24.71,Default,,0000,0000,0000,,And I already had my hands full thinking\Nup countermeasures to the Cleanup Corps!
+Dialogue: 0,0:16:25.10,0:16:27.08,Default,,0000,0000,0000,,Get out of here, now!
+Dialogue: 0,0:16:27.08,0:16:30.21,Default,,0000,0000,0000,,Akashi-{\i1}kun{\i0}, you hurry back to work, too!
+Dialogue: 0,0:16:33.79,0:16:36.89,Default,,0000,0000,0000,,I apologize for getting you\Ninvolved in this weird stuff.
+Dialogue: 0,0:16:37.16,0:16:40.91,Default,,0000,0000,0000,,I apologize too, for not\Nliving up to your expectations.
+Dialogue: 0,0:16:40.91,0:16:45.02,Default,,0000,0000,0000,,No, actually the problem\Nwas that you far surpassed them.
+Dialogue: 0,0:16:45.42,0:16:50.16,Default,,0000,0000,0000,,Birdman is, after all, an absurd goal\Nthat goes against the reason of man.
+Dialogue: 0,0:16:50.16,0:16:53.68,Default,,0000,0000,0000,,That's why I was thinking\Nthat the pilot should be a person
+Dialogue: 0,0:16:53.68,0:16:56.53,Default,,0000,0000,0000,,with a soul charred by\Nidleness and wasted passion.
+Dialogue: 0,0:16:56.53,0:16:59.12,Default,,0000,0000,0000,,I heard that after you finished\Nthe Shimanami Cup on a basket-bike,
+Dialogue: 0,0:16:59.12,0:17:01.54,Default,,0000,0000,0000,,you came back all the way from Shikoku.
+Dialogue: 0,0:17:01.54,0:17:03.95,Default,,0000,0000,0000,,That's an incredible waste of energy!
+Dialogue: 0,0:17:03.95,0:17:06.54,Default,,0000,0000,0000,,Uh, that wasn't exactly my intention...
+Dialogue: 0,0:17:07.53,0:17:10.55,Default,,0000,0000,0000,,That's why I asked you,
+Dialogue: 0,0:17:10.55,0:17:14.83,Default,,0000,0000,0000,,but the idea that you'd go so far as to\Ntrain didn't figure into my calculations.
+Dialogue: 0,0:17:14.83,0:17:16.65,Default,,0000,0000,0000,,I suppose I still have a long way to go.
+Dialogue: 0,0:17:20.93,0:17:24.41,Default,,0000,0000,0000,,I apologize, but I have to redo the design now.
+Dialogue: 0,0:17:24.41,0:17:25.00,Default,,0000,0000,0000,,See you later.
+Dialogue: 0,0:17:50.04,0:17:52.75,Default,,0000,0000,0000,,{\i1}Before I knew it I had\Ncome to the Keage Incline.{\i0}
+Dialogue: 0,0:17:52.75,0:17:55.00,Default,,0000,0000,0000,,{\i1}I had prayed to come here with Akashi-san,{\i0}
+Dialogue: 0,0:17:55.00,0:17:58.79,Default,,0000,0000,0000,,{\i1}but now I felt like the rose-colored campus\Nlife was slipping yet even farther away,{\i0}
+Dialogue: 0,0:17:58.79,0:18:01.04,Default,,0000,0000,0000,,{\i1}and my heart wept within me. {\i0}
+Dialogue: 0,0:18:01.04,0:18:03.08,Default,,0000,0000,0000,,{\i1}Maybe I'd be better off flowing\Ndown and trying and make my name{\i0}
+Dialogue: 0,0:18:03.08,0:18:06.27,Default,,0000,0000,0000,,{\i1}as an Eggplant-Pumpkin\Nyoukai that lives in lake Biwa...{\i0}
+Dialogue: 0,0:18:11.08,0:18:12.25,Default,,0000,0000,0000,,The Cleanup Corps!
+Dialogue: 0,0:18:12.25,0:18:13.53,Default,,0000,0000,0000,,The man in the trench coat!
+Dialogue: 0,0:18:20.04,0:18:22.08,Default,,0000,0000,0000,,Hey, Ozu!
+Dialogue: 0,0:18:22.08,0:18:23.37,Default,,0000,0000,0000,,What the hell are you doing?
+Dialogue: 0,0:18:23.37,0:18:25.04,Default,,0000,0000,0000,,Oops, you caught me.
+Dialogue: 0,0:18:25.04,0:18:26.91,Default,,0000,0000,0000,,It's you!
+Dialogue: 0,0:18:26.91,0:18:29.16,Default,,0000,0000,0000,,Keep it a secret, 'kay?
+Dialogue: 0,0:18:29.16,0:18:33.50,Default,,0000,0000,0000,,It's an important source of\Nfunds for the Secret Society.
+Dialogue: 0,0:18:33.50,0:18:35.29,Default,,0000,0000,0000,,This is Akashi-{\i1}san{\i0}'s...
+Dialogue: 0,0:18:35.29,0:18:40.01,Default,,0000,0000,0000,,We're in a recession,\Nso bicycles alone aren't cutting it.
+Dialogue: 0,0:18:40.01,0:18:41.83,Default,,0000,0000,0000,,What the hell are you doing?!
+Dialogue: 0,0:18:41.83,0:18:46.02,Default,,0000,0000,0000,,A certain person up north is looking\Nfor a plane much like this to play with.
+Dialogue: 0,0:18:46.37,0:18:49.52,Default,,0000,0000,0000,,It was just going to crash into Lake Biwa\Nanyway, so this is a far better use, right?
+Dialogue: 0,0:18:49.52,0:18:51.77,Default,,0000,0000,0000,,And what about my bike?!
+Dialogue: 0,0:18:52.29,0:18:54.40,Default,,0000,0000,0000,,You're the one who stole it!
+Dialogue: 0,0:18:54.40,0:18:56.87,Default,,0000,0000,0000,,I don't really concern myself\Nwith each one individually.
+Dialogue: 0,0:18:56.87,0:18:58.29,Default,,0000,0000,0000,,Why not, eh?
+Dialogue: 0,0:18:58.29,0:19:00.51,Default,,0000,0000,0000,,It's how I show my love,\Nso grab it while you can.
+Dialogue: 0,0:19:00.51,0:19:02.24,Default,,0000,0000,0000,,After all, it doesn't\Nmatter which path you take,
+Dialogue: 0,0:19:02.24,0:19:04.41,Default,,0000,0000,0000,,you'll keep ending up\Nright where you are now.
+Dialogue: 0,0:19:04.41,0:19:06.08,Default,,0000,0000,0000,,Maybe you're right...
+Dialogue: 0,0:19:06.08,0:19:10.16,Default,,0000,0000,0000,,Would it be so bad to give\Nyourself up and go with the flow?
+Dialogue: 0,0:19:10.16,0:19:13.92,Default,,0000,0000,0000,,We're connected by the\Nblack thread of fate, after all.
+Dialogue: 0,0:19:14.12,0:19:15.33,Default,,0000,0000,0000,,Will you help me?
+Dialogue: 0,0:19:15.33,0:19:17.08,Default,,0000,0000,0000,,You've got debts, right?
+Dialogue: 0,0:19:17.08,0:19:19.92,Default,,0000,0000,0000,,Let's go around Kyoto collecting bicycles.
+Dialogue: 0,0:19:22.70,0:19:25.93,Default,,0000,0000,0000,,Only if I can aim mainly at\Ncouples riding two to a bike.
+Dialogue: 0,0:19:25.93,0:19:28.35,Default,,0000,0000,0000,,Sure thing! You do that.
+Dialogue: 0,0:19:31.79,0:19:32.95,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:19:32.95,0:19:34.69,Default,,0000,0000,0000,,I guess the jig's up.
+Dialogue: 0,0:19:35.62,0:19:37.33,Default,,0000,0000,0000,,Looks like Akashi-{\i1}san {\i0}is coming.
+Dialogue: 0,0:19:37.33,0:19:39.19,Default,,0000,0000,0000,,Don't tell anyone about the Cleanup Corps, okay?
+Dialogue: 0,0:19:39.50,0:19:41.24,Default,,0000,0000,0000,,Might be bad for your health...
+Dialogue: 0,0:19:41.45,0:19:42.20,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:44.08,0:19:45.53,Default,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:19:55.20,0:19:57.71,Default,,0000,0000,0000,,It's the trench coat man\Nfrom the Cycle Cleanup Corps!
+Dialogue: 0,0:19:57.95,0:20:00.47,Default,,0000,0000,0000,,N-No! That's not it!\NAkashi-{\i1}san{\i0}, this is a misunderstanding!
+Dialogue: 0,0:20:00.47,0:20:04.58,Default,,0000,0000,0000,,I didn't do it! The Cheery\NCycle Cleanup Corps are actually...
+Dialogue: 0,0:20:04.58,0:20:06.37,Default,,0000,0000,0000,,What is the meaning of this?
+Dialogue: 0,0:20:06.37,0:20:09.10,Default,,0000,0000,0000,,Explain it to me now!
+Dialogue: 0,0:20:09.54,0:20:12.54,Default,,0000,0000,0000,,You've got it all wrong!
+Dialogue: 0,0:20:13.39,0:20:14.09,Default,,0000,0000,0000,,{\i1}Senpai{\i0}!
+Dialogue: 0,0:20:20.50,0:20:23.04,Default,,0000,0000,0000,,{\i1}Senpai{\i0}, where are the brakes?
+Dialogue: 0,0:20:23.04,0:20:24.04,Default,,0000,0000,0000,,I don't know!
+Dialogue: 0,0:20:25.16,0:20:26.49,Default,,0000,0000,0000,,{\i1}Senpai{\i0}...
+Dialogue: 0,0:20:27.20,0:20:29.83,Default,,0000,0000,0000,,Jump off!
+Dialogue: 0,0:20:30.33,0:20:32.08,Default,,0000,0000,0000,,{\i1}At this rate I'll crash into the pond.{\i0}
+Dialogue: 0,0:20:32.08,0:20:35.83,Default,,0000,0000,0000,,{\i1}I have no choice put to try pedaling and fly!{\i0}
+Dialogue: 0,0:20:35.83,0:20:38.84,Default,,0000,0000,0000,,Now's the time for all my training to pay off!
+Dialogue: 0,0:20:42.92,0:20:44.06,Default,,0000,0000,0000,,It's flying!
+Dialogue: 0,0:20:44.06,0:20:45.43,Default,,0000,0000,0000,,Where are the pedals?
+Dialogue: 0,0:20:48.58,0:20:51.43,Default,,0000,0000,0000,,Akashi-{\i1}san{\i0}, where are the pedals?
+Dialogue: 0,0:20:51.62,0:20:53.43,Default,,0000,0000,0000,,There aren't any!
+Dialogue: 0,0:20:53.70,0:20:57.66,Default,,0000,0000,0000,,We're in the free-flying category!
+Dialogue: 0,0:20:59.58,0:21:01.12,Default,,0000,0000,0000,,{\i1}It finally dawned on me {\i0}
+Dialogue: 0,0:21:01.12,0:21:03.62,Default,,0000,0000,0000,,{\i1}that all this was truly wasted effort.{\i0}
+Dialogue: 0,0:21:03.62,0:21:07.49,Default,,0000,0000,0000,,{\i1}Perhaps this all started from the\Nmoment I considered the cycling club.{\i0}
+Dialogue: 0,0:21:07.49,0:21:12.33,Default,,0000,0000,0000,,{\i1}If I had joined some other circle, I would\Nhave surely spent quite a different two years.{\i0}
+Dialogue: 0,0:21:12.33,0:21:15.58,Default,,0000,0000,0000,,{\i1}Meeting Ozu was clearly\Nthe greatest catastrophe.{\i0}
+Dialogue: 0,0:21:15.58,0:21:19.79,Default,,0000,0000,0000,,{\i1}Could Icarus have ridden the wind had\Nhe not tried so hard to flap his wings?{\i0}
+Dialogue: 0,0:21:19.79,0:21:21.79,Default,,0000,0000,0000,,
