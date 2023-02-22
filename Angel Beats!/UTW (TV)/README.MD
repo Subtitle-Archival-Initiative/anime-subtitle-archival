@@ -1,24 +1,25 @@
-
 ## Staff
 
-| Role            | Staff  |
-|-----------------|--------|
-| Translation     | Ershin |
-| Editing         | Raze   |
-| Timing          | Nikon  |
-| Typesetting     | ?      |
-| Encoding        | ar     |
-| Quality Control | Raze   |
+| Role              | Staff                                              |
+|-------------------|----------------------------------------------------|
+| Translation       | Ershin                                             |
+| Translation Check | Raze                                               |
+| Editing           | Raze                                               |
+| Timing            | Nikon, Tranquility                                 |
+| Typesetting       | Nikon, Bob64                                       |
+| Encoding          | ar                                                 |
+| Quality Control   | Raze                                               |
+
 
 ## Release Info
 
 |              |             |
 |--------------|-------------|
 | Status       | Complete    |
-| Batch Status | -           |
+| Batch Status | Complete    |
 | Source       | TVRip       |
 | Resolution   | 1280x720    |
 
 ### Notes
 
-These files are from before a TV batch was made, as we were unable to find a seeded batch that included them.
+Sourced from the updated TV batch.
