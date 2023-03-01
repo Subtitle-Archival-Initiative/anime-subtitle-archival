@@ -1,0 +1,386 @@
+﻿[Script Info]
+Title: [Mahora] Negima!? - Episode 19
+ScriptType: v4.00+
+PlayResX: 704
+PlayResY: 400
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,132,100,0,0,1,2,2,2,11,11,8,0
+Style: N_Neg,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H006164A2,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Mak,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00D474E4,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Sak,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00398294,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Mad,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00544E66,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_FF,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0091A4F3,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kae,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005B7873,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Nat,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0078794E,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Nab,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H004F60A5,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Lin,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00625252,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Yue,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00936D83,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Nod,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00966C65,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Har,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005B7664,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Yuu,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00376FA6,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Ako,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00B7ABB2,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Aki,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H002F4556,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kas,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0090A6B0,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Say,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00DFCEC6,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Set,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00424136,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kon,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H004C585D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kam,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H000B1F1B,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Chi,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005B81A5,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Hak,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00403B3D,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Man,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00090E09,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Cha,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H009BCD7A,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Pri,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0085A7B1,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Any,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H008A90D8,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Sat,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00686492,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_2,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H000708FF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Tak,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0086A090,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Nek,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0085B9C9,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Eva,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005D7875,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Mis,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H009465AD,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Asu,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005992F9,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kaz,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H005E51D8,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Kuu,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H0074B5C1,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Aya,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H003F96A9,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Zaz,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H00C9CACE,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+Style: N_Spells,Pristina,50,&H00FFFFFF,&H0000FFFF,&H00A95309,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,0
+Style: N_Chiu,OldTypefaces,36,&H00FFFFFF,&H0000FFFF,&H007850DE,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:00.80,0:03:03.30,N_Pri,Narrator,0000,0000,0000,,The future is unknown...
+Dialogue: 0,0:03:03.30,0:03:06.63,N_Pri,Narrator,0000,0000,0000,,Human life is like a continuing story from someone’s imagination.
+Dialogue: 0,0:03:06.63,0:03:11.69,N_Pri,Narrator,0000,0000,0000,,The way Samsa woke up as a gigantic insect…
+Dialogue: 0,0:03:11.69,0:03:15.53,N_Pri,Narrator,0000,0000,0000,,That day, they suddenly transformed into sukas!
+Dialogue: 0,0:03:15.72,0:03:17.46,N_2,Everyone,0000,0000,0000,,Suka!!
+Dialogue: 0,0:03:18.68,0:03:21.13,N_Kaz,Kazumi,0000,0000,0000,,It would be great to go back to your childhood and have fun～
+Dialogue: 0,0:03:21.13,0:03:23.65,N_Kaz,Kazumi,0000,0000,0000,,Even if you can’t return to your, childhood you can still have fun right?
+Dialogue: 0,0:03:23.65,0:03:24.98,N_Kaz,Kazumi,0000,0000,0000,,By Kazumi.
+Dialogue: 0,0:03:26.11,0:03:28.01,N_Neg,Negi,0000,0000,0000,,Alright. Any questions?
+Dialogue: 0,0:03:28.37,0:03:29.02,N_Asu,Asuna,0000,0000,0000,,Yep!
+Dialogue: 0,0:03:29.34,0:03:33.27,N_Neg,Negi,0000,0000,0000,,Oh? Asuna-san raised her hand! That’s rare.
+Dialogue: 0,0:03:33.27,0:03:34.52,N_Neg,Negi,0000,0000,0000,,Alright, Asuna-san.
+Dialogue: 0,0:03:34.86,0:03:38.14,N_Asu,Asuna,0000,0000,0000,,Hey Negi, why are you teaching us now?
+Dialogue: 0,0:03:44.75,0:03:48.62,N_Neg,Negi,0000,0000,0000,,Looks like we’ll be distracted for a while. Please bear with us.
+Dialogue: 0,0:03:48.62,0:03:53.36,N_Asu,Asuna,0000,0000,0000,,That’s not what I meant. Do we really need to have class while we’re in the magic world?
+Dialogue: 0,0:03:53.66,0:03:54.60,N_Mak,Makie,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:54.60,0:03:58.14,N_Mak,Makie,0000,0000,0000,,In any case, let’s look for a way to get out of this magic world!
+Dialogue: 0,0:03:59.34,0:04:01.51,N_Aya,Ayaka,0000,0000,0000,,What are the two of you talking about!?
+Dialogue: 0,0:04:02.21,0:04:07.35,N_Aya,Ayaka,0000,0000,0000,,In this dire situation, Negi-sensei, with his wonderful personality is still doing his job for us!
+Dialogue: 0,0:04:10.09,0:04:11.34,N_Aya,Ayaka,0000,0000,0000,,Don’t go “eeh” in front of me.
+Dialogue: 0,0:04:11.85,0:04:13.06,N_Nek,Nekane,0000,0000,0000,,Excuse me…
+Dialogue: 0,0:04:13.36,0:04:14.56,N_Neg,Negi,0000,0000,0000,,Oneechan!
+Dialogue: 0,0:04:14.98,0:04:19.32,N_Nek,Nekane,0000,0000,0000,,Sensei! I forgot my homework!
+Dialogue: 0,0:04:19.78,0:04:22.18,N_Neg,Negi,0000,0000,0000,,Oneechan, you’re not my student…
+Dialogue: 0,0:04:22.50,0:04:26.53,N_Nek,Nekane,0000,0000,0000,,I forgot it! Should I stand in the hall?
+Dialogue: 0,0:04:26.83,0:04:28.04,N_Neg,Negi,0000,0000,0000,,Oh, come on...
+Dialogue: 0,0:04:28.32,0:04:30.54,N_Nek,Nekane,0000,0000,0000,,I　will take the bucket now!
+Dialogue: 0,0:04:30.83,0:04:32.54,N_Neg,Negi,0000,0000,0000,,Oneechan……
+Dialogue: 0,0:04:33.22,0:04:35.29,N_Nek,Nekane,0000,0000,0000,,I’m going now…
+Dialogue: 0,0:04:38.23,0:04:40.89,N_Nab,Chizune,0000,0000,0000,,Nekane-san is really popular in the class, huh?
+Dialogue: 0,0:04:41.79,0:04:43.88,N_Nat,Natsumi,0000,0000,0000,,That counts as popular?
+Dialogue: 0,0:04:46.99,0:04:48.38,N_Tak,Takamichi,0000,0000,0000,,A lesson?
+Dialogue: 0,0:04:49.69,0:04:51.94,N_Tak,Takamichi,0000,0000,0000,,When we came to this world,
+Dialogue: 0,0:04:51.94,0:04:55.22,N_Tak,Takamichi,0000,0000,0000,,I don’t think we have to stop working on investigating the situation.
+Dialogue: 0,0:04:56.57,0:04:58.58,N_Eva,Eva,0000,0000,0000,,They just said it themselves…
+Dialogue: 0,0:04:58.58,0:05:01.36,N_Eva,Eva,0000,0000,0000,,If they want to, just let them do whatever they want.
+Dialogue: 0,0:05:04.28,0:05:06.86,N_Cha,Chachamaru,0000,0000,0000,,Master, it has been 3 minutes.
+Dialogue: 0,0:05:07.18,0:05:08.01,N_Eva,Eva,0000,0000,0000,,I see
+Dialogue: 0,0:05:11.11,0:05:12.25,N_Tak,Takamichi,0000,0000,0000,,Thou shall wait.
+Dialogue: 0,0:05:12.25,0:05:14.37,N_Tak,Takamichi,0000,0000,0000,,Let 5 more minutes pass.
+Dialogue: 0,0:05:14.81,0:05:16.87,N_Eva,Eva,0000,0000,0000,,These cup noodles only need 3 minutes.
+Dialogue: 0,0:05:17.27,0:05:18.44,N_Tak,Takamichi,0000,0000,0000,,How naïve.
+Dialogue: 0,0:05:18.44,0:05:20.18,N_Tak,Takamichi,0000,0000,0000,,The longer instant ramen is cooked、
+Dialogue: 0,0:05:20.18,0:05:21.87,N_Tak,Takamichi,0000,0000,0000,,The fatter it becomes,
+Dialogue: 0,0:05:22.33,0:05:23.96,N_Tak,Takamichi,0000,0000,0000,,And the better it is to eat.
+Dialogue: 0,0:05:24.82,0:05:26.46,N_Eva,Eva,0000,0000,0000,,I think 3 minutes is more than enough!
+Dialogue: 0,0:05:26.46,0:05:28.20,N_Eva,Eva,0000,0000,0000,,If you wait longer it will go bad.
+Dialogue: 0,0:05:28.20,0:05:30.72,N_Tak,Takamichi,0000,0000,0000,,Please follow my eating style today.
+Dialogue: 0,0:05:30.73,0:05:33.24,N_Eva,Eva,0000,0000,0000,,These are the last cups of garlic noodles!
+Dialogue: 0,0:05:33.24,0:05:35.27,N_Eva,Eva,0000,0000,0000,,Let me eat it the way I want it!
+Dialogue: 0,0:05:35.27,0:05:38.04,N_Tak,Takamichi,0000,0000,0000,,Isn’t garlic poisonous to vampires?
+Dialogue: 0,0:05:38.25,0:05:41.94,N_Eva,Eva,0000,0000,0000,,This level of poison is just a small sting. It is actually nice to eat!
+Dialogue: 0,0:05:41.94,0:05:44.45,N_Tak,Takamichi,0000,0000,0000,,If you leave it longer, it will be even nicer to eat.
+Dialogue: 0,0:05:44.45,0:05:46.35,N_Eva,Eva,0000,0000,0000,,No! I will eat immediately!
+Dialogue: 0,0:05:46.66,0:05:47.49,N_Tak,Takamichi,0000,0000,0000,,Is that so…
+Dialogue: 0,0:05:48.44,0:05:49.83,N_Tak,Takamichi,0000,0000,0000,,If that’s the case…
+Dialogue: 0,0:05:49.94,0:05:51.61,N_2,Eva & Takamichi,0000,0000,0000,,The only way is to do it by force!
+Dialogue: 0,0:05:53.22,0:05:54.58,N_Neg,Negi,0000,0000,0000,,Takamichi! We’re in trouble!
+Dialogue: 0,0:05:54.84,0:05:56.28,N_Eva,Eva,0000,0000,0000,,Give it back!!
+Dialogue: 0,0:05:55.08,0:05:56.28,N_Tak,Takamichi,0000,0000,0000,,What’s on, Negi-kun?
+Dialogue: 0,0:05:57.16,0:05:58.13,N_Neg,Negi,0000,0000,0000,,Everyone has…
+Dialogue: 0,0:06:02.41,0:06:04.93,N_Neg,Negi,0000,0000,0000,,All of a sudden, everyone became like this…
+Dialogue: 0,0:06:04.93,0:06:08.39,N_Tak,Takamichi,0000,0000,0000,,It’s not because you’ve tried to activate the contracts?
+Dialogue: 0,0:06:08.39,0:06:09.17,N_Neg,Negi,0000,0000,0000,,No…
+Dialogue: 0,0:06:09.18,0:06:11.55,N_Kam,Chamo,0000,0000,0000,,Everyone switched to Suka mode!
+Dialogue: 0,0:06:12.06,0:06:14.41,N_Kam,Chachamaru,0000,0000,0000,,The card expiry is in 3 patterns.
+Dialogue: 0,0:06:14.41,0:06:16.82,N_Kam,Chachamaru,0000,0000,0000,,29 people have been transformed at once.
+Dialogue: 0,0:06:16.82,0:06:27.29,N_Cha,,0000,0000,0000,,The probablility of all changing into the suka mode is 1 out of 68,630,377,364,883.
+Dialogue: 0,0:06:27.65,0:06:29.84,N_Eva,Eva,0000,0000,0000,,I don’t think this is something you should get excited about.
+Dialogue: 0,0:06:29.84,0:06:33.27,N_Eva,Eva,0000,0000,0000,,Once the spell expires, they will return to normal, naturally.
+Dialogue: 0,0:06:33.65,0:06:35.42,N_Lin,Lingshen,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Sensei! Let’s play!
+Dialogue: 0,0:06:35.61,0:06:38.67,N_2,Cheerleaders,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Let’s play! Let’s play! Let’s play!
+Dialogue: 0,0:06:38.98,0:06:41.12,N_Neg,Negi,0000,0000,0000,,Eh, please wait everyone…
+Dialogue: 0,0:06:43.42,0:06:46.90,N_Kam,Chamo,0000,0000,0000,,Not only do they look like children, their minds have become childish as well!
+Dialogue: 0,0:06:46.90,0:06:49.75,N_Tak,Takamichi,0000,0000,0000,,Anyway, I have to check up on something.
+Dialogue: 0,0:06:52.57,0:06:56.49,N_Kam,Chamo,0000,0000,0000,,Everyone turned into Sukas! What a sight!
+Dialogue: 0,0:06:56.49,0:06:59.04,N_Zaz,Zazie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Everyone has become Sukas-suka.
+Dialogue: 0,0:06:59.04,0:07:00.10,N_Man,Mana,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Is that so-suka?
+Dialogue: 0,0:07:01.45,0:07:03.29,N_Say,Sayo,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Mana-chan wins!
+Dialogue: 0,0:07:04.78,0:07:06.49,N_Kaz,Asakura,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}We’re in trouble!
+Dialogue: 0,0:07:06.66,0:07:09.89,N_Kaz,Asakura,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Asuna and Haruna are having a shoot out!
+Dialogue: 0,0:07:10.24,0:07:11.50,N_Neg,Negi,0000,0000,0000,,A SHOOT OUT!?
+Dialogue: 0,0:07:17.07,0:07:21.95,N_Asu,Asuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Go get em! The big helmeted Evil Weevil!
+Dialogue: 0,0:07:22.09,0:07:26.54,N_Har,Haruna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Don’t lose! White-spotted longhorn beetle!
+Dialogue: 0,0:07:27.26,0:07:28.10,N_Har,Haruna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Come on!
+Dialogue: 0,0:07:28.10,0:07:28.67,N_Asu,Asuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Yes!
+Dialogue: 0,0:07:28.67,0:07:31.54,N_Kuu,Kufei,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}My red butterfly will join the battle, too, aru!
+Dialogue: 0,0:07:31.91,0:07:35.12,N_Neg,Negi,0000,0000,0000,,What in the... They're just insects…
+Dialogue: 0,0:07:35.12,0:07:38.06,N_Kam,Chamo,0000,0000,0000,,Kids do cute things don’t they?
+Dialogue: 0,0:07:38.35,0:07:39.69,N_Nod,Nodoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Doki doki…
+Dialogue: 0,0:07:43.20,0:07:45.16,N_Kas,Misora,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Cat! Cat!
+Dialogue: 0,0:07:45.36,0:07:47.00,N_Yuu,Yuuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Frog! Frog!
+Dialogue: 0,0:07:47.00,0:07:48.52,N_FF,Shichimi,0000,0000,0000,,I’m twisted, mya.
+Dialogue: 0,0:07:48.86,0:07:52.07,N_Har,Motsu,0000,0000,0000,,If it's children, you call it simple-mindedness.
+Dialogue: 0,0:07:58.51,0:08:02.89,N_FF,Cat… cat..	Shichimi,0000,0000,0000,,Is this called simple-mindedness too, myaaa?
+Dialogue: 0,0:08:02.88,0:08:05.75,N_Har,Motsu,0000,0000,0000,,W-Well… you can’t call it evil intentions… either.
+Dialogue: 0,0:08:07.70,0:08:09.16,N_Hak,Hakase,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Do you guys know?
+Dialogue: 0,0:08:09.16,0:08:13.22,N_Hak,Hakase,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}If you use a straw to blow air into a frog, it will swell up!
+Dialogue: 0,0:08:14.73,0:08:16.00,N_Aki,Akira,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Let’s try it!
+Dialogue: 0,0:08:19.64,0:08:21.03,N_Yuu,Yuuna,0000,0000,0000,,Whoa!
+Dialogue: 0,0:08:21.03,0:08:22.95,N_Ako,Ako,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Woah! It's true!
+Dialogue: 0,0:08:22.95,0:08:25.41,N_Kas,Misora,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Akira-chan is amazing!
+Dialogue: 0,0:08:25.41,0:08:26.48,N_Ako,,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Pure sphere!
+Dialogue: 0,0:08:35.66,0:08:36.66,N_Neg,Negi,0000,0000,0000,,Akira-san!!
+Dialogue: 0,0:08:39.13,0:08:41.07,N_Neg,Negi,0000,0000,0000,,Are you alright? Akira-san?
+Dialogue: 0,0:08:41.07,0:08:43.24,N_Aki,Akira,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Yep! I’m alright!
+Dialogue: 0,0:08:44.44,0:08:47.87,N_Har,Motsu,0000,0000,0000,,Hey you, I’m not alright…
+Dialogue: 0,0:08:47.87,0:08:49.07,N_FF,Shichimi,0000,0000,0000,,In a good way.
+Dialogue: 0,0:08:49.07,0:08:51.63,N_Har,Motsu,0000,0000,0000,,No, in a bad way...
+Dialogue: 0,0:08:51.95,0:08:55.83,N_2,One of them,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Yaaa… I wanna sit on it too!
+Dialogue: 0,0:08:53.34,0:08:55.83,N_Neg,Negi,0000,0000,0000,,Don’t play dangerously, okay?
+Dialogue: 0,0:08:58.95,0:09:00.83,N_Neg,Negi,0000,0000,0000,,Uaaaah!! Hey! Hold on a second!
+Dialogue: 0,0:09:04.08,0:09:06.73,N_Neg,Negi,0000,0000,0000,,AAAAAAAH!!!! MY STAFF…!!
+Dialogue: 0,0:09:09.08,0:09:11.73,N_Ako,Ako,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Ah! Haruna-chan is writing something!
+Dialogue: 0,0:09:13.89,0:09:15.31,N_Neg,Negi,0000,0000,0000,,Broke…
+Dialogue: 0,0:09:15.89,0:09:18.13,N_Kam,Chamo,0000,0000,0000,,Everyone’s so cold hearted eh?
+Dialogue: 0,0:09:18.13,0:09:21.24,N_Neg,Negi,0000,0000,0000,,Even so… My staff…
+Dialogue: 0,0:09:21.36,0:09:22.83,N_Nod,Nodoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Doki doki…
+Dialogue: 0,0:09:25.59,0:09:28.93,N_Har,Haruna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}There’s one stick lying down…
+Dialogue: 0,0:09:29.32,0:09:33.97,N_Har,Haruna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}After that… the stick… and then another stick…
+Dialogue: 0,0:09:37.79,0:09:40.77,N_Kaz,Asakura,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Negi-sensei! There's trouble!!
+Dialogue: 0,0:09:41.02,0:09:44.74,N_Neg,Negi,0000,0000,0000,,What is it this time, Asakura-san?
+Dialogue: 0,0:09:44.74,0:09:45.47,N_Kaz,Asakura,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}That!
+Dialogue: 0,0:09:46.12,0:09:47.65,N_Asu,Asuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}WAIT!!
+Dialogue: 0,0:09:48.02,0:09:50.67,N_Neg,Negi,0000,0000,0000,,She was just playing with insects a while ago!!
+Dialogue: 0,0:09:50.67,0:09:52.23,N_Kam,Chamo,0000,0000,0000,,They’ve changed their minds already!
+Dialogue: 0,0:09:52.64,0:09:53.66,N_Neg,Negi,0000,0000,0000,,Don’t chase it!
+Dialogue: 0,0:09:54.43,0:09:57.51,N_Spells,Negi,0000,0000,0000,,{\fad(100,100)\pos(241,397)}Tel
+Dialogue: 0,0:09:55.27,0:09:57.51,N_Spells,,0000,0000,0000,,{\fad(100,100)\pos(305,397)}Ma
+Dialogue: 0,0:09:56.22,0:09:57.51,N_Spells,,0000,0000,0000,,{\fad(100,100)\pos(399,397)}Amoris!
+Dialogue: 0,0:09:58.02,0:10:00.62,N_Kam,Chamo,0000,0000,0000,,Aniki, it’s broken!
+Dialogue: 0,0:10:00.62,0:10:02.78,N_Neg,Negi,0000,0000,0000,,AAH, THAT'S RIGHT...
+Dialogue: 0,0:10:11.15,0:10:11.79,N_Neg,,0000,0000,0000,,Asuna-san!!
+Dialogue: 0,0:10:15.31,0:10:17.33,N_Asu,Asuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Capture successful!
+Dialogue: 0,0:10:19.48,0:10:21.96,N_Kam,Chamo,0000,0000,0000,,There doesn’t seem to be a problem…
+Dialogue: 0,0:10:22.22,0:10:23.87,N_Kam,Chamo,0000,0000,0000,,AAH! ANIKI!
+Dialogue: 0,0:10:23.87,0:10:25.21,N_Neg,Negi,0000,0000,0000,,What is it this time?
+Dialogue: 0,0:10:25.77,0:10:28.21,N_Kae,Kaede,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Cave exploration, de gozaru!
+Dialogue: 0,0:10:28.21,0:10:29.32,N_FF,Fuuka&Fumika,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}YEP!
+Dialogue: 0,0:10:29.56,0:10:31.80,N_Neg,Negi,0000,0000,0000,,It’s dangerous! Don’t go inside!
+Dialogue: 0,0:10:33.37,0:10:34.81,N_Kuu,,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}One more blow!
+Dialogue: 0,0:10:35.18,0:10:37.15,N_Kuu,Fuumika,0000,0000,0000,,Landing successful!
+Dialogue: 0,0:10:45.45,0:10:47.02,N_FF,Fuuka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}One more time!
+Dialogue: 0,0:10:47.30,0:10:48.93,N_FF,,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Me too!
+Dialogue: 0,0:10:52.08,0:10:53.71,N_Neg,Negi,0000,0000,0000,,YOU WILL NOT GO!
+Dialogue: 0,0:10:56.68,0:11:00.00,N_Kam,Chamo,0000,0000,0000,,Aniki, babysitting is horrible isn’t it?
+Dialogue: 0,0:11:06.87,0:11:07.93,N_Zaz,Zazie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}This is a squid.
+Dialogue: 0,0:11:12.38,0:11:14.45,N_Man,Mana,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Aaaah, troublesome, troublesome…
+Dialogue: 0,0:11:18.09,0:11:21.23,N_Say,Sayo,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Aah, that was surprising…
+Dialogue: 0,0:11:23.35,0:11:24.95,N_2,Mana & Zazie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}We lost…
+Dialogue: 0,0:11:26.07,0:11:27.49,N_Say,,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Soft and Fluffy{\fnArial}~
+Dialogue: 0,0:11:28.78,0:11:32.71,N_Nek,Nekane,0000,0000,0000,,Anyway, how long should I be standing here?
+Dialogue: 0,0:11:32.71,0:11:33.95,N_Pri,Narrator,0000,0000,0000,,I don't know.
+Dialogue: 0,0:11:38.98,0:11:40.42,N_Chiu,Chiu,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Hey, Hey!
+Dialogue: 0,0:11:40.42,0:11:44.47,N_Chiu,Chiu,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}When I realized it, I turned into a chibi form!
+Dialogue: 0,0:11:45.11,0:11:47.18,N_Chiu,Chiu,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}The magic world is amazing!
+Dialogue: 0,0:11:47.51,0:11:50.90,N_Chiu,Chiu,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}And so, since I’m in chibi form,
+Dialogue: 0,0:11:50.90,0:11:54.18,N_Chiu,Chiu,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}there are no sexy shots for today!
+Dialogue: 0,0:11:54.89,0:11:55.95,N_Chiu,Chiu,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Too bad…
+Dialogue: 0,0:12:05.39,0:12:06.89,N_Kon,Konoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}It’s tasty, huh?
+Dialogue: 0,0:12:06.89,0:12:08.08,N_Set,Setsuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}It is tasty.
+Dialogue: 0,0:12:08.74,0:12:10.15,N_Kon,Konoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Did you know, Secchan?
+Dialogue: 0,0:12:10.46,0:12:12.17,N_Set,Setsuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}What is it, Kono-chan?
+Dialogue: 0,0:12:12.50,0:12:16.83,N_Kon,Konoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}If you can find a koala with eyebrows, you will live happily!
+Dialogue: 0,0:12:17.23,0:12:19.17,N_Set,Setsuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}A koala with eyebrows?
+Dialogue: 0,0:12:19.50,0:12:20.59,N_Set,Setsuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Happiness..
+Dialogue: 0,0:12:21.65,0:12:25.31,N_Set,Setsuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}In that case, we will always be happy if…
+Dialogue: 0,0:12:28.98,0:12:30.95,N_Kon,Konoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}What is it, Secchan?
+Dialogue: 0,0:12:31.11,0:12:33.71,N_Set,Secchan,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}N-Nothing! Kono-chan!
+Dialogue: 0,0:12:33.71,0:12:34.57,N_Kon,,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Yeah?
+Dialogue: 0,0:12:34.91,0:12:38.64,N_Set,Secchan,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Yeah! In order to offset it, I’ll just draw…
+Dialogue: 0,0:12:39.14,0:12:40.65,N_Set,Secchan,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}I can’t do it…
+Dialogue: 0,0:12:47.31,0:12:49.39,N_Kon,Konoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}What is it, Secchan?
+Dialogue: 0,0:12:49.39,0:12:51.66,N_Set,Setsuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}N-N-Nothing, Kono-chan!
+Dialogue: 0,0:12:52.63,0:12:54.01,N_Kon,Konoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}It’s tasty, right?
+Dialogue: 0,0:12:54.01,0:12:55.27,N_Set,Setsuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}It is tasty.
+Dialogue: 0,0:13:02.14,0:13:05.04,N_Lin,LingShen,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}The Chao Castle is done!
+Dialogue: 0,0:13:05.49,0:13:08.04,N_Lin,LingShen,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}It’s as splendid as 100 meat buns!
+Dialogue: 0,0:13:08.42,0:13:11.27,N_Nat,Natsumi,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Waaah! I’ll also build a castle!
+Dialogue: 0,0:13:14.18,0:13:15.13,N_Nat,Natsumi,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Done!
+Dialogue: 0,0:13:16.80,0:13:18.24,N_Nab,Chizuru,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Ahh! Nice!
+Dialogue: 0,0:13:18.24,0:13:19.73,N_Nab,Chizuru,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}That’s a nice dog house!
+Dialogue: 0,0:13:20.98,0:13:24.41,N_Nab,Chizuru,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}I wonder what kind of dog lives in it? Bark! Bark!
+Dialogue: 0,0:13:25.60,0:13:27.73,N_Nat,Natsumi,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}It’s a castle…
+Dialogue: 0,0:13:33.62,0:13:36.25,N_2,Cheerleaders,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Ahaha! It’s so fast!
+Dialogue: 0,0:13:36.65,0:13:40.12,N_Kam,Chamo,0000,0000,0000,,Aniki, can you still go on?
+Dialogue: 0,0:13:40.46,0:13:42.81,N_Neg,Negi,0000,0000,0000,,I’m still alright! This is…
+Dialogue: 0,0:13:45.60,0:13:47.67,N_2,Cheerleaders,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Rollin’, rollin’, rollin’…
+Dialogue: 0,0:13:48.00,0:13:50.35,N_Kam,Chamo,0000,0000,0000,,Are you really alright, Aniki?
+Dialogue: 0,0:13:50.35,0:13:52.14,N_Neg,Negi,0000,0000,0000,,I’m alright… I’m alright…
+Dialogue: 0,0:13:59.30,0:14:01.10,N_Neg,Negi,0000,0000,0000,,Which one do you want, Yue-san?
+Dialogue: 0,0:14:01.56,0:14:06.10,N_Yue,Yue,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Umm… Err… Doki doki…
+Dialogue: 0,0:14:07.64,0:14:09.19,N_Neg,Negi,0000,0000,0000,,What is it?
+Dialogue: 0,0:14:09.19,0:14:10.11,N_Yue,Yue,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Umm…
+Dialogue: 0,0:14:11.56,0:14:13.65,N_Yue,Yue,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}I want one from over there…
+Dialogue: 0,0:14:13.87,0:14:15.87,N_Neg,Negi,0000,0000,0000,,Oh, over there eh?
+Dialogue: 0,0:14:19.35,0:14:21.72,N_Neg,Negi,0000,0000,0000,,Alright, which one, Yue-san?
+Dialogue: 0,0:14:21.84,0:14:25.72,N_Yue,Yue,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Err, actually I think the ones over there are better.
+Dialogue: 0,0:14:26.15,0:14:26.93,N_Neg,Negi,0000,0000,0000,,Alright.
+Dialogue: 0,0:14:32.69,0:14:35.02,N_Neg,Negi,0000,0000,0000,,Nodoka-san, what’s the matter?
+Dialogue: 0,0:14:35.02,0:14:36.63,N_Neg,Negi,0000,0000,0000,,Why are you hiding here?
+Dialogue: 0,0:14:37.09,0:14:38.65,N_Nod,Nodoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Umm...
+Dialogue: 0,0:14:38.65,0:14:39.27,N_Neg,Negi,0000,0000,0000,,Yes?
+Dialogue: 0,0:14:39.71,0:14:41.41,N_Nod,,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Negi-sensei...
+Dialogue: 0,0:14:41.41,0:14:42.85,N_Nod,Nodoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Can you read me a book?
+Dialogue: 0,0:14:43.29,0:14:44.48,N_Neg,Negi,0000,0000,0000,,Alright.
+Dialogue: 0,0:14:50.79,0:14:52.32,N_Cha,Chachamaru,0000,0000,0000,,The venue under analysis apparently is...
+Dialogue: 0,0:14:52.32,0:14:56.95,N_Cha,,0000,0000,0000,,under the influence of increasingly powerful magical power coming from external sources, I believe.
+Dialogue: 0,0:14:57.25,0:15:01.76,N_Tak,Takamichi,0000,0000,0000,,It takes a considerable amount of magical power...
+Dialogue: 0,0:15:01.76,0:15:03.46,N_Tak,,0000,0000,0000,,to make around 30 people transform for such a long time.
+Dialogue: 0,0:15:03.87,0:15:05.84,N_Eva,Eva,0000,0000,0000,,That’s something not anyone can do.
+Dialogue: 0,0:15:07.78,0:15:12.72,N_Eva,Eva,0000,0000,0000,,Anyway, you said that fatter noodles taste better right?
+Dialogue: 0,0:15:13.33,0:15:14.35,N_Eva,Eva,0000,0000,0000,,How about this?
+Dialogue: 0,0:15:19.22,0:15:22.81,N_Pri,Narrator,0000,0000,0000,,Takahata! Is this a one in a million pinch?
+Dialogue: 0,0:15:25.65,0:15:30.07,N_Har,Motsu,0000,0000,0000,,Neapolitan sauce… Neapolitan sauce…
+Dialogue: 0,0:15:26.66,0:15:30.07,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}It's daddy! Daddy!
+Dialogue: 0,0:15:30.07,0:15:33.20,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Ah, honey, you are early today!
+Dialogue: 0,0:15:34.91,0:15:36.92,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Welcome home, daddy!
+Dialogue: 0,0:15:36.92,0:15:39.74,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Come! We have just made dinner!
+Dialogue: 0,0:15:39.74,0:15:42.16,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}I also helped out making it!
+Dialogue: 0,0:15:42.44,0:15:47.75,N_Har,Motsu,0000,0000,0000,,A playhouse, eh? Makes me want to go back to being a child too.
+Dialogue: 0,0:15:47.95,0:15:50.86,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Work is tiring, huh, honey?
+Dialogue: 0,0:15:50.86,0:15:52.71,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Take it easy, okay?
+Dialogue: 0,0:15:52.71,0:15:54.78,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Daddy! Listen!
+Dialogue: 0,0:15:54.78,0:15:57.39,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Today something interesting happened at school!
+Dialogue: 0,0:15:57.68,0:16:01.06,N_Har,Motsu,0000,0000,0000,,Ah, so healing…
+Dialogue: 0,0:16:01.38,0:16:03.24,N_2,Ayaka and Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Itadakimasu!
+Dialogue: 0,0:16:03.24,0:16:04.54,N_Har,Motsu,0000,0000,0000,,Itadakimasu.
+Dialogue: 0,0:16:04.71,0:16:07.70,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Would you like a cup?
+Dialogue: 0,0:16:07.70,0:16:09.31,N_Har,Motsu,0000,0000,0000,,Yes, please.
+Dialogue: 0,0:16:09.52,0:16:13.24,N_Har,Motsu,0000,0000,0000,,Ahh… A family is good{\fnArial}~
+Dialogue: 0,0:16:13.47,0:16:15.45,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Oh? Aren’t you going to eat?
+Dialogue: 0,0:16:15.45,0:16:17.70,N_Har,Motsu,0000,0000,0000,,Ah, Itadakimasu.
+Dialogue: 0,0:16:19.64,0:16:20.74,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}You aren’t eating!
+Dialogue: 0,0:16:21.07,0:16:22.58,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Why aren’t you eating?
+Dialogue: 0,0:16:26.38,0:16:27.59,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}You didn’t put it in your mouth.
+Dialogue: 0,0:16:27.99,0:16:29.83,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}You are only pretending to eat!
+Dialogue: 0,0:16:30.33,0:16:33.88,N_Har,Motsu,0000,0000,0000,,But, this is… soil…
+Dialogue: 0,0:16:34.53,0:16:37.66,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}But I made it with lots of love…
+Dialogue: 0,0:16:38.62,0:16:42.10,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}If that’s the case, my croquette is not nice to eat either!
+Dialogue: 0,0:16:42.45,0:16:46.35,N_Har,Motsu,0000,0000,0000,,By croquette, you mean… this brush!?
+Dialogue: 0,0:16:46.79,0:16:50.57,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Our relations and love have faded, before nobody knows, didn’t they?
+Dialogue: 0,0:16:50.73,0:16:54.18,N_Aya,Ayaka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}You won’t review our family life anymore, right!?
+Dialogue: 0,0:16:54.18,0:16:57.78,N_Mak,Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Uaaaaah! Daddy hates me!
+Dialogue: 0,0:16:57.96,0:17:00.46,N_Har,Motsu,0000,0000,0000,,No… that’s not what I intended…
+Dialogue: 0,0:17:00.84,0:17:02.16,N_2,Ayaka & Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Then, eat it.
+Dialogue: 0,0:17:03.22,0:17:04.02,N_2,Ayaka & Makie,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Come on!
+Dialogue: 0,0:17:05.76,0:17:09.62,N_Pri,Narrator,0000,0000,0000,,That day, the brush tasted really painful.
+Dialogue: 0,0:17:09.62,0:17:12.29,N_Har,Motsu,0000,0000,0000,,I don’t think brushes taste good any day.
+Dialogue: 0,0:17:12.70,0:17:13.92,N_Pri,Narrator,0000,0000,0000,,I guess so…
+Dialogue: 0,0:17:19.64,0:17:21.14,N_Neg,Negi,0000,0000,0000,,Alright, there we go.
+Dialogue: 0,0:17:21.14,0:17:26.36,N_Kam,Chamo,0000,0000,0000,,I think making so much food would be quite troublesome, huh, Aniki?
+Dialogue: 0,0:17:26.68,0:17:30.34,N_Eva,Eva,0000,0000,0000,,Why is it that even I have to make food?
+Dialogue: 0,0:17:30.34,0:17:31.45,N_Tak,Takamichi,0000,0000,0000,,We have no choice…
+Dialogue: 0,0:17:31.82,0:17:33.53,N_Tak,,0000,0000,0000,,He can’t do it all alone.
+Dialogue: 0,0:17:34.15,0:17:36.81,N_Nek,Nekane,0000,0000,0000,,My, that’s not how you do it, Negi.
+Dialogue: 0,0:17:36.97,0:17:38.58,N_Nek,Nekane,0000,0000,0000,,You turn on the flame later.
+Dialogue: 0,0:17:39.02,0:17:42.43,N_Nek,Nekane,0000,0000,0000,,If you put the vegetables into the water first, then the meat won’t get cooked.
+Dialogue: 0,0:17:42.77,0:17:44.01,N_Neg,Negi,0000,0000,0000,,Oneechan?
+Dialogue: 0,0:17:44.26,0:17:46.72,N_Nek,Nekane,0000,0000,0000,,Can I help you with the cooking?
+Dialogue: 0,0:17:46.72,0:17:47.62,N_Neg,,0000,0000,0000,,Ah, yes.
+Dialogue: 0,0:17:50.56,0:17:53.12,N_2,Everyone,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Itadakimasu!
+Dialogue: 0,0:17:53.46,0:17:56.64,N_Kam,Chamo,0000,0000,0000,,All the little ones eat like adults, don’t they?
+Dialogue: 0,0:17:56.64,0:17:59.36,N_Neg,Negi,0000,0000,0000,,Luckily this doesn’t happen all the time…
+Dialogue: 0,0:17:59.36,0:18:00.35,N_Asu,Asuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}I want seconds!
+Dialogue: 0,0:18:00.99,0:18:02.63,N_Neg,Negi,0000,0000,0000,,Alright. Please wait a minute.
+Dialogue: 0,0:18:03.44,0:18:05.48,N_Kae,Kaede,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Seconds here too, de gozaru!
+Dialogue: 0,0:18:05.48,0:18:06.67,N_Kuu,Kufei,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Seconds, aru!
+Dialogue: 0,0:18:07.02,0:18:07.85,N_Neg,Negi,0000,0000,0000,,Alright, alright.
+Dialogue: 0,0:18:08.68,0:18:10.41,N_FF,Fumika,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Aah, I’ve spilt.
+Dialogue: 0,0:18:11.09,0:18:13.31,N_Neg,Negi,0000,0000,0000,,I’m working on it, please wait!
+Dialogue: 0,0:18:13.31,0:18:15.11,N_FF,Fuuka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Me too, desu!
+Dialogue: 0,0:18:15.11,0:18:17.49,N_Kam,Chamo,0000,0000,0000,,I take that back. They’re nothing like adults.
+Dialogue: 0,0:18:17.78,0:18:20.62,N_FF,Shichimi,0000,0000,0000,,Motsu, haven’t you eaten today?
+Dialogue: 0,0:18:20.62,0:18:23.08,N_Har,Motsu,0000,0000,0000,,I have, but I still feel hun… gry
+Dialogue: 0,0:18:25.16,0:18:26.20,N_FF,Shichimi,0000,0000,0000,,A brush?
+Dialogue: 0,0:18:26.53,0:18:27.88,N_Sat,Satsuki,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Not this...
+Dialogue: 0,0:18:27.88,0:18:30.09,N_Eva,Eva,0000,0000,0000,,Don’t be choosy! Eat it!
+Dialogue: 0,0:18:30.23,0:18:31.79,N_Sat,Satsuki,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}It’s not that I don’t like it.
+Dialogue: 0,0:18:31.79,0:18:33.29,N_Eva,Eva,0000,0000,0000,,Then, what is it?
+Dialogue: 0,0:18:33.59,0:18:35.30,N_Sat,Satsuki,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}It’s not peeled properly.
+Dialogue: 0,0:18:35.77,0:18:36.79,N_Eva,Eva,0000,0000,0000,,This girl…
+Dialogue: 0,0:18:37.23,0:18:42.66,N_Nek,Nekane,0000,0000,0000,,But you see Satsuki-chan, this is done by Eva-oneechan for you!
+Dialogue: 0,0:18:42.90,0:18:43.85,N_Sat,Satsuki,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Really?
+Dialogue: 0,0:18:43.85,0:18:44.97,N_Nek,Nekane,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:44.97,0:18:46.16,N_Sat,Satsuki,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Then, I will eat it.
+Dialogue: 0,0:18:46.54,0:18:47.62,N_Nek,Nekane,0000,0000,0000,,It’s nice, right?
+Dialogue: 0,0:18:50.23,0:18:51.40,N_Neg,Negi,0000,0000,0000,,Oneechan…
+Dialogue: 0,0:19:05.01,0:19:06.18,N_Neg,Negi,0000,0000,0000,,Ah! Cold!
+Dialogue: 0,0:19:06.41,0:19:07.91,N_Nek,Nekane,0000,0000,0000,,Here. It’s lemonade.
+Dialogue: 0,0:19:08.46,0:19:09.50,N_Neg,Negi,0000,0000,0000,,Oneechan…
+Dialogue: 0,0:19:09.93,0:19:13.25,N_Nek,Nekane,0000,0000,0000,,Alright, pass out the drinks to everyone!
+Dialogue: 0,0:19:13.25,0:19:14.63,N_2,Chisame; Satsuki; Chizuru and Natsumi,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Okay!
+Dialogue: 0,0:19:16.93,0:19:19.25,N_Neg,Negi,0000,0000,0000,,Oneechan, you’re amazing after all…
+Dialogue: 0,0:19:19.63,0:19:23.59,N_Neg,Negi,0000,0000,0000,,I can’t babysit everyone that well…
+Dialogue: 0,0:19:23.95,0:19:25.72,N_Nek,Nekane,0000,0000,0000,,That’s not right, Negi.
+Dialogue: 0,0:19:27.16,0:19:29.83,N_Nek,Nekane,0000,0000,0000,,I’m not babysitting them.
+Dialogue: 0,0:19:30.01,0:19:32.60,N_Nek,Nekane,0000,0000,0000,,I’m having fun with them!
+Dialogue: 0,0:19:32.81,0:19:34.01,N_Neg,Negi,0000,0000,0000,,Oneechan?
+Dialogue: 0,0:19:34.01,0:19:35.81,N_Nek,,0000,0000,0000,,Yeah, that's right.
+Dialogue: 0,0:19:37.76,0:19:38.57,N_Nek,,0000,0000,0000,,Alright.
+Dialogue: 0,0:19:40.09,0:19:43.78,N_Nek,Nekane,0000,0000,0000,,Today, you’re not a teacher. You are their friend!
+Dialogue: 0,0:19:43.90,0:19:45.44,N_Neg,Negi,0000,0000,0000,,Friend?
+Dialogue: 0,0:19:46.76,0:19:50.41,N_Asu,Asuna,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Hey, what are you guys doing? Get off your butt!
+Dialogue: 0,0:19:50.41,0:19:52.45,N_Kon,Konoka,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Negi-kun, come and play!
+Dialogue: 0,0:19:52.76,0:19:54.54,N_2,Everyone,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Come on!
+Dialogue: 0,0:19:55.23,0:19:56.35,N_Nek,Nekane,0000,0000,0000,,Have fun!
+Dialogue: 0,0:19:56.73,0:19:57.30,N_Neg,,0000,0000,0000,,Okay!
+Dialogue: 0,0:19:57.73,0:19:59.38,N_Neg,Negi,0000,0000,0000,,Everyone! Let’s have fun!
+Dialogue: 0,0:20:45.42,0:20:46.45,N_Sak,Sakurako,0000,0000,0000,,We’re back!
+Dialogue: 0,0:20:50.54,0:20:52.20,N_Kon,Konoka,0000,0000,0000,,Haa… He’s asleep.
+Dialogue: 0,0:20:52.41,0:20:53.88,N_Set,Setsuna,0000,0000,0000,,He’s tired.
+Dialogue: 0,0:20:53.88,0:20:57.05,N_Aya,Ayaka,0000,0000,0000,,Ahh! What a lovely face!
+Dialogue: 0,0:20:57.05,0:20:57.85,N_Nod,Nodoka,0000,0000,0000,,Cute!
+Dialogue: 0,0:20:59.32,0:21:03.36,N_Asu,Asuna,0000,0000,0000,,Ugh, he'll catch a cold sleeping here...
+Dialogue: 0,0:21:03.81,0:21:05.87,N_Nek,Nekane,0000,0000,0000,,Thank you, Asuna-san.
+Dialogue: 0,0:21:06.18,0:21:09.21,N_Asu,Asuna,0000,0000,0000,,Geez, it’s so troublesome to babysit kids.
+Dialogue: 0,0:21:09.53,0:21:13.93,N_Pri,Narrator,0000,0000,0000,,And so, all the little ones’ playtime has come to an end.
+Dialogue: 0,0:21:13.93,0:21:20.53,N_Pri,Narrator,0000,0000,0000,,BUT! That reason is still in the dark. The adventure in the magic world has not ended!
+Dialogue: 0,0:21:20.53,0:21:24.42,N_Pri,Narrator,0000,0000,0000,,Please wait for the next episode…
+Dialogue: 0,0:22:22.77,0:22:23.33,N_Pri,,0000,0000,0000,,{\pos(587,88)}Let's go!
+Dialogue: 0,0:22:56.00,0:23:00.65,N_Sat,Satsuki,0000,0000,0000,,When you are mad, when you are sad, whenever all that happens, it’s alright to eat.
+Dialogue: 0,0:23:02.36,0:23:03.20,N_Sat,Satsuki,0000,0000,0000,,Next time,
+Dialogue: 0,0:23:03.58,0:23:07.39,N_Sat,,0000,0000,0000,,"Even if you say, 'When you're big, you have a big appetite', that really isn’t the case."
+Dialogue: 0,0:23:07.83,0:23:08.75,N_Sat,,0000,0000,0000,,By Satsuki.
+Dialogue: 0,0:23:09.26,0:23:12.55,N_Asu,Asuna,0000,0000,0000,,Aaaah! I’m full! I’m so satisfied!
+Dialogue: 0,0:23:12.55,0:23:13.43,N_Sat,Satsuki,0000,0000,0000,,There you go!
+Dialogue: 0,0:23:16.96,0:23:18.50,N_Eva,Eva,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}Why is this happening!?
+Dialogue: 0,0:23:18.86,0:23:20.50,N_Cha,Chachamaru,0000,0000,0000,,{\fs33.333333\fnOne Stroke Script LET}I think it was just a matter of time…
+Dialogue: 0,0:23:20.89,0:23:22.50,N_Neg,Negi,0000,0000,0000,,Why me…
+Dialogue: 0,0:23:22.89,0:23:24.58,N_Nek,Nekane,0000,0000,0000,,Anyway let’s all play with straws!
+Dialogue: 0,0:23:24.88,0:23:26.47,N_Har,Motsu,0000,0000,0000,,Not again…
+Dialogue: 0,0:23:26.60,0:23:28.21,N_FF,Shichimi,0000,0000,0000,,You're so popular, mya.
+Dialogue: 0,0:23:32.13,0:23:32.96,N_Har,Shichimi,0000,0000,0000,,Bon soir?
+Dialogue: 0,0:23:33.11,0:23:34.92,N_Har,Motsu,0000,0000,0000,,What the heck is this!?
