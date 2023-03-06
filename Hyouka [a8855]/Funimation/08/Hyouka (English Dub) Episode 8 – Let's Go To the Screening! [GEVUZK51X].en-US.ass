@@ -1,0 +1,114 @@
+[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Top Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Flashback,Trebuchet MS,24,&H00EAD2D2,&H000000FF,&H00170502,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Signs,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,7,0020,0010,0020,1
+Style: SignsT,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,5,0000,0000,0000,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.98,0:00:03.22,Signs,,0000,0000,0000,,"I'm sorry. There's\Nnothing more to it, though."
+Dialogue: 0,0:00:03.25,0:00:04.73,Signs,,0000,0000,0000,,"I'll apologize to everyone. I don't\Nthink there's anything else I can do."
+Dialogue: 0,0:00:05.35,0:00:07.47,Signs,,0000,0000,0000,,"You don't have to apologize."
+Dialogue: 0,0:00:07.50,0:00:09.98,Signs,,0000,0000,0000,,"It's true, you weren't exactly\Nthe right person for the job."
+Dialogue: 0,0:00:10.01,0:00:11.73,Signs,,0000,0000,0000,,"It's remarkable that\Nyou've done this much."
+Dialogue: 0,0:00:11.76,0:00:13.15,Signs,,0000,0000,0000,,"I'll think of some way\Nto deal with it now."
+Dialogue: 0,0:00:13.82,0:00:20.75,Signs,,0000,0000,0000,,"But even if it does go well, it probably\Nwon't go in the direction you wanted."
+Dialogue: 0,0:00:20.77,0:00:21.77,Top Italics,,0000,0000,0000,,"Send"
+Dialogue: 0,0:00:21.81,0:00:22.81,Top Italics,,0000,0000,0000,,"Sent"
+Dialogue: 0,0:00:23.94,0:00:25.24,Top Italics,,0000,0000,0000,,"Please insert name here:\NSorry to bring this up out of the blue."
+Dialogue: 0,0:00:25.27,0:00:27.66,Top Italics,,0000,0000,0000,,"M-e-♪: Sorry, there's no getting\Naround the time and distance."
+Dialogue: 0,0:00:27.69,0:00:32.33,Top Italics,,0000,0000,0000,,"Not at all. Given the situation,\Nthere's nothing you can do about it."
+Dialogue: 0,0:00:32.36,0:00:34.12,Top Italics,,0000,0000,0000,,"M-e-♪: It's a request from my\Ndear {\i1}kohai{\i0}. I wish I could do something."
+Dialogue: 0,0:00:34.15,0:00:42.15,Top Italics,,0000,0000,0000,,"Do you have any other ideas?\NAbout anyone who would be able to?"
+Dialogue: 0,0:00:42.83,0:00:44.80,Top Italics,,0000,0000,0000,,"M-e-♪: Hmm."
+Dialogue: 0,0:00:44.83,0:00:45.83,Top Italics,,0000,0000,0000,,"M-e-♪:"
+Dialogue: 0,0:00:47.00,0:00:49.25,Top Italics,,0000,0000,0000,,"Please insert name here: Senpai?"
+Dialogue: 0,0:00:50.13,0:00:52.60,Top Italics,,0000,0000,0000,,"Senpai"
+Dialogue: 0,0:00:52.63,0:00:54.60,Top Italics,,0000,0000,0000,,"M-e-♪: I'm kidding."
+Dialogue: 0,0:00:54.63,0:00:56.48,Top Italics,,0000,0000,0000,,"M-e-♪: They may not be much help,\Nbut depending on how you use them"
+Dialogue: 0,0:00:56.51,0:00:58.26,Top Italics,,0000,0000,0000,,"I know someone who could dance for you."
+Dialogue: 0,0:01:00.60,0:01:04.65,Top Italics,,0000,0000,0000,,"Then, do you think you\Ncan come on that day?"
+Dialogue: 0,0:01:04.68,0:01:07.20,Top Italics,,0000,0000,0000,,"L: I'll definitely be!"
+Dialogue: 0,0:01:07.23,0:01:10.04,Top Italics,,0000,0000,0000,,"L: I made a mistake. I'll be there."
+Dialogue: 0,0:01:10.07,0:01:13.29,Top Italics,,0000,0000,0000,,"Please insert name here:\NI will be very pleased if you would."
+Dialogue: 0,0:01:13.32,0:01:16.54,Top Italics,,0000,0000,0000,,"Please insert name here:\NI'll send you the time and place later."
+Dialogue: 0,0:01:16.57,0:01:18.79,Top Italics,,0000,0000,0000,,"L: I very munich look forward to it."
+Dialogue: 0,0:01:18.82,0:01:20.80,Top Italics,,0000,0000,0000,,"L: That's munch."
+Dialogue: 0,0:01:20.83,0:01:21.83,Top Italics,,0000,0000,0000,,"L: much"
+Dialogue: 0,0:01:22.37,0:01:25.05,Top Italics,,0000,0000,0000,,"Please insert name here:\NYou might already know this,"
+Dialogue: 0,0:01:25.08,0:01:27.30,Top Italics,,0000,0000,0000,,"Please insert name here:\Nbut you don't have to convert to kanji."
+Dialogue: 0,0:01:27.33,0:01:30.81,Top Italics,,0000,0000,0000,,"Please insert name here:\NJust go ahead and hit 'Enter'"
+Dialogue: 0,0:01:30.84,0:01:33.06,Top Italics,,0000,0000,0000,,"L: Are you surge?"
+Dialogue: 0,0:01:33.09,0:01:35.56,Top Italics,,0000,0000,0000,,"L: Are you sure?"
+Dialogue: 0,0:01:35.59,0:01:37.56,Top Italics,,0000,0000,0000,,"L: Ah, you are right."
+Dialogue: 0,0:01:37.59,0:01:41.07,Top Italics,,0000,0000,0000,,"Please insert name here:\NOkay, if you please."
+Dialogue: 0,0:01:41.10,0:01:43.19,Top Italics,,0000,0000,0000,,"Please insert name here:\NOh, and as long as you're at it,"
+Dialogue: 0,0:01:43.22,0:01:44.15,Top Italics,,0000,0000,0000,,"L: Yes"
+Dialogue: 0,0:01:44.18,0:01:46.40,Top Italics,,0000,0000,0000,,"you can invite your friends, too."
+Dialogue: 0,0:01:46.43,0:01:48.62,Top Italics,,0000,0000,0000,,"Yeah, all three of them."
+Dialogue: 0,0:01:48.65,0:01:49.99,Top Italics,,0000,0000,0000,,"L: Are you sure?"
+Dialogue: 0,0:01:50.02,0:01:51.58,Top Italics,,0000,0000,0000,,"They're the Classic Lit Club, right?"
+Dialogue: 0,0:01:52.86,0:01:56.03,Top Italics,,0000,0000,0000,,"I would be delighted if you brought\Nall the club members with you."
+Dialogue: 0,0:01:56.99,0:02:02.42,Top Italics,,0000,0000,0000,,I scowled at the wind blowing\Nat my window of boredom
+Dialogue: 0,0:02:02.45,0:02:10.45,Top Italics,,0000,0000,0000,,so I could turn away\Nthe awkwardness I was feeling
+Dialogue: 0,0:02:10.75,0:02:18.63,Top,,0000,0000,0000,,Hyouka
+Dialogue: 0,0:02:18.72,0:02:24.15,Top Italics,,0000,0000,0000,,I nod noncommittally at today\Nas I hold it in my hand
+Dialogue: 0,0:02:24.18,0:02:29.53,Top Italics,,0000,0000,0000,,projecting myself a little exaggeratedly
+Dialogue: 0,0:02:29.56,0:02:34.91,Top Italics,,0000,0000,0000,,I get the feeling that\Nsomething is about to change
+Dialogue: 0,0:02:34.94,0:02:40.24,Top Italics,,0000,0000,0000,,It's all because of you\Ncalling out to my heart
+Dialogue: 0,0:02:41.45,0:02:46.84,Top Italics,,0000,0000,0000,,Peeking up at cloudy skies,\NI sense what's coming
+Dialogue: 0,0:02:46.87,0:02:54.87,Top Italics,,0000,0000,0000,,Let's reach out our hands\Nwith courage stronger than ever
+Dialogue: 0,0:02:55.30,0:02:59.81,Top Italics,,0000,0000,0000,,Light and shadow are both still far off
+Dialogue: 0,0:02:59.84,0:03:06.15,Top Italics,,0000,0000,0000,,but even so, we want to know\Nthe reason for this kindness
+Dialogue: 0,0:03:06.18,0:03:13.62,Top Italics,,0000,0000,0000,,Let's go look now, beyond the brilliance\Nthat goes by nobody's name
+Dialogue: 0,0:03:13.65,0:03:21.65,Top Italics,,0000,0000,0000,,before it all becomes a thing of the past
+Dialogue: 0,0:03:27.45,0:03:31.58,Top Italics,,0000,0000,0000,,Congratulations on reaching the finals!\NMizutani Sho, 100m breaststroke
+Dialogue: 0,0:03:35.46,0:03:39.59,Signs,,0000,0000,0000,,{\pos(56,272)}Let's Go To the Screening!
+Dialogue: 0,0:05:33.04,0:05:33.85,Top Italics,,0000,0000,0000,,Audiovisual Classroom
+Dialogue: 0,0:07:47.30,0:07:49.74,Top,,0000,0000,0000,,{\pos(320,251)}Yamanishi Midori
+Dialogue: 0,0:07:50.63,0:07:54.51,Top,,0000,0000,0000,,{\pos(320,251)}Sugimura Jiro
+Dialogue: 0,0:07:56.01,0:07:57.51,Top,,0000,0000,0000,,{\pos(320,251)}Senoue Mamiko
+Dialogue: 0,0:07:58.01,0:07:59.52,Top,,0000,0000,0000,,{\pos(320,251)}Konosu Yuri
+Dialogue: 0,0:08:00.52,0:08:02.02,Top,,0000,0000,0000,,{\pos(320,251)}Katsuta Takeo
+Dialogue: 0,0:08:06.02,0:08:10.86,Top,,0000,0000,0000,,{\pos(320,251)}Kaito Takeo
+Dialogue: 0,0:11:34.94,0:11:36.78,Top Italics,,0000,0000,0000,,Sitting Room
+Dialogue: 0,0:11:48.60,0:11:51.29,Top Italics,,0000,0000,0000,,Sitting Room
+Dialogue: 0,0:12:07.06,0:12:08.47,Top Italics,,0000,0000,0000,,No unauthorized personnel
+Dialogue: 0,0:13:28.97,0:13:30.98,Signs,,0000,0000,0000,,{\pos(307,271)\i1}Shosho {\i0}('Heat's End')\NFor the sunshine easeth,\Nand blue skies begin their withdrawl
+Dialogue: 0,0:13:30.98,0:13:31.95,Signs,,0000,0000,0000,,{\pos(307,271)}Hyouka\NFor the sunshine easeth,\Nand blue skies begin their withdrawl
+Dialogue: 0,0:19:30.71,0:19:34.21,Top Italics,,0000,0000,0000,,General Hospital
+Dialogue: 0,0:24:01.98,0:24:04.91,Top Italics,,0000,0000,0000,,Tonight it turns to love
+Dialogue: 0,0:24:04.94,0:24:08.66,Top Italics,,0000,0000,0000,,Meet me in a pleasant dream
+Dialogue: 0,0:24:08.69,0:24:12.67,Top Italics,,0000,0000,0000,,Make sure that you find me, okay?
+Dialogue: 0,0:24:12.70,0:24:18.04,Top Italics,,0000,0000,0000,,Our snooze-time date
+Dialogue: 0,0:24:30.26,0:24:38.26,Top Italics,,0000,0000,0000,,The heat of your budding warmth troubles me
+Dialogue: 0,0:24:40.98,0:24:48.98,Top Italics,,0000,0000,0000,,Don't you understand how I feel yet?
+Dialogue: 0,0:24:50.40,0:24:55.88,Top Italics,,0000,0000,0000,,There isn't supposed to be\Nany significance in your glance
+Dialogue: 0,0:24:55.91,0:25:01.30,Top Italics,,0000,0000,0000,,I mean, it's the same one\Nyou give all your friends
+Dialogue: 0,0:25:01.33,0:25:07.01,Top Italics,,0000,0000,0000,,The tiny wishing star fading\Ninto the morning light
+Dialogue: 0,0:25:07.04,0:25:12.02,Top Italics,,0000,0000,0000,,and the magic it works during the night\N(I wish you would notice)
+Dialogue: 0,0:25:12.05,0:25:14.98,Top Italics,,0000,0000,0000,,Tonight it turns to love
+Dialogue: 0,0:25:15.01,0:25:18.73,Top Italics,,0000,0000,0000,,Meet me in a pleasant dream
+Dialogue: 0,0:25:18.76,0:25:22.74,Top Italics,,0000,0000,0000,,Make sure that you find me, okay?
+Dialogue: 0,0:25:22.77,0:25:28.06,Top Italics,,0000,0000,0000,,Our snooze-time date
+Dialogue: 0,0:25:37.12,0:25:40.91,SignsT,,0000,0000,0000,,{\pos(320,204)}"The Case of the Furuoka Deserted Village Murder"

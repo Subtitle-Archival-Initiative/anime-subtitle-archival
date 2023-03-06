@@ -1,0 +1,423 @@
+[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.10,0:00:03.10,On Top,,0000,0000,0000,,Manga Club
+Dialogue: 0,0:00:03.10,0:00:06.06,On Top,,0000,0000,0000,,Welcome to the Manga Club!
+Dialogue: 0,0:00:05.31,0:00:07.61,Default,,0000,0000,0000,,I'm sorry. I don't have it.
+Dialogue: 0,0:00:08.52,0:00:11.28,Default,,0000,0000,0000,,You couldn't find your\N{\i1}A Corpse By Evening{\i0}?
+Dialogue: 0,0:00:13.70,0:00:17.57,Default,,0000,0000,0000,,I must have taken it with me when I went\Nout to the country during summer vacation.
+Dialogue: 0,0:00:18.37,0:00:19.58,Default,,0000,0000,0000,,Hm...
+Dialogue: 0,0:00:22.29,0:00:23.71,Default,,0000,0000,0000,,Is that right?
+Dialogue: 0,0:00:24.16,0:00:24.79,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:00:27.58,0:00:30.30,Default,,0000,0000,0000,,Oh. Well, help with the posters.
+Dialogue: 0,0:00:32.26,0:00:34.01,Default,,0000,0000,0000,,The posters?
+Dialogue: 0,0:00:34.30,0:00:37.93,Default,,0000,0000,0000,,Yeah, the {\i1}moe {\i0}ones.\NI'm going to step out for a bit.
+Dialogue: 0,0:00:46.52,0:00:50.15,Default,,0000,0000,0000,,Senpai... remembered the title.
+Dialogue: 0,0:01:04.16,0:01:11.05,On Top,,0000,0000,0000,,{\i1}You hold your breath to make it through\Nthe bewildering day that confronts you{\i0}
+Dialogue: 0,0:01:11.05,0:01:17.18,On Top,,0000,0000,0000,,{\i1}You know what this is, don't you?\NWhat do you want to do?{\i0}
+Dialogue: 0,0:01:17.18,0:01:23.77,On Top,,0000,0000,0000,,{\i1}The pain from shrugging\Nit all off as nothing{\i0}
+Dialogue: 0,0:01:23.77,0:01:29.69,On Top,,0000,0000,0000,,{\i1}urges you on enough to be encouraging{\i0}
+Dialogue: 0,0:01:29.69,0:01:36.32,On Top,,0000,0000,0000,,{\i1}Catching hold but making a mess,\Nwe're still inadequate{\i0}
+Dialogue: 0,0:01:36.32,0:01:44.24,On Top,,0000,0000,0000,,{\i1}but as long as we can forge\Nour shining, unseen future selves...{\i0}
+Dialogue: 0,0:01:46.16,0:01:52.75,On Top,,0000,0000,0000,,{\i1}Awaken and run where it takes you,\Nleaving mirages behind{\i0}
+Dialogue: 0,0:01:52.75,0:01:59.34,On Top,,0000,0000,0000,,{\i1}Run with your desire to change,\Nfrom your comfort zone into freedom{\i0}
+Dialogue: 0,0:01:59.34,0:02:06.73,On Top,,0000,0000,0000,,{\i1}Start choosing between now\Nand the brilliance you can attain{\i0}
+Dialogue: 0,0:02:06.73,0:02:14.82,On Top,,0000,0000,0000,,{\i1}Unaware of your destination,\Ndeep breaths following shallow ones{\i0}
+Dialogue: 0,0:02:20.99,0:02:22.62,Default,,0000,0000,0000,,Chitanda-{\i1}san{\i0}, Mayaka,
+Dialogue: 0,0:02:20.99,0:02:25.33,On Top,,0000,0000,0000,,Wild Fire
+Dialogue: 0,0:02:23.37,0:02:26.25,Default,,0000,0000,0000,,the cooking contest starts at 11:30, okay?
+Dialogue: 0,0:02:26.25,0:02:27.20,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:02:27.79,0:02:33.21,Default,,0000,0000,0000,,Ah! Fuku-{\i1}chan{\i0}, I'm sorry. I have to\Ndraw posters for the Manga Club.
+Dialogue: 0,0:02:33.67,0:02:35.21,Default,,0000,0000,0000,,Huh? You do?
+Dialogue: 0,0:02:35.84,0:02:41.47,Default,,0000,0000,0000,,Let's see, then... If we put\Nyou in last position...
+Dialogue: 0,0:02:42.09,0:02:44.93,Default,,0000,0000,0000,,If you can be there by\N12:10, we'll be fine.
+Dialogue: 0,0:02:45.26,0:02:48.64,Default,,0000,0000,0000,,All right, I'll try my best. Bye!
+Dialogue: 0,0:02:51.69,0:02:55.52,Default,,0000,0000,0000,,Well, I need to go pop in with the executive\Ncommittee, myself, so I'll be off.
+Dialogue: 0,0:02:58.90,0:03:01.16,Default,,0000,0000,0000,,He sure is having a ball.
+Dialogue: 0,0:03:01.16,0:03:03.66,On Top,,0000,0000,0000,,Conference Room
+Dialogue: 0,0:03:02.95,0:03:05.37,Default,,0000,0000,0000,,Would you take that to the gym for me?
+Dialogue: 0,0:03:07.37,0:03:08.83,Default,,0000,0000,0000,,I'll do that.
+Dialogue: 0,0:03:08.83,0:03:10.33,On Top,,0000,0000,0000,,Guest shoe covers
+Dialogue: 0,0:03:09.62,0:03:10.33,Default,,0000,0000,0000,,By the way,
+Dialogue: 0,0:03:11.12,0:03:13.50,Default,,0000,0000,0000,,aren't you going to have a look around?
+Dialogue: 0,0:03:13.50,0:03:16.30,Default,,0000,0000,0000,,I have all sorts of little\Nthings popping up.
+Dialogue: 0,0:03:16.30,0:03:17.84,Default,,0000,0000,0000,,I do get a look at things\Noccasionally, though.
+Dialogue: 0,0:03:18.84,0:03:20.84,Default,,0000,0000,0000,,Why, do you have any interesting stories?
+Dialogue: 0,0:03:21.18,0:03:23.26,Default,,0000,0000,0000,,Any interesting stories?
+Dialogue: 0,0:03:24.35,0:03:27.68,Default,,0000,0000,0000,,Ah, a thief apparently struck the Go Club.
+Dialogue: 0,0:03:28.39,0:03:29.14,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:03:29.48,0:03:33.15,Default,,0000,0000,0000,,They stole some go stones,\Nand left a confession note behind.
+Dialogue: 0,0:03:33.56,0:03:36.36,Default,,0000,0000,0000,,Oh, you don't say. The Go Club, huh?
+Dialogue: 0,0:03:36.77,0:03:41.32,Default,,0000,0000,0000,,Yes. Although, I think one of their\Nclub members pulled it off.
+Dialogue: 0,0:03:41.32,0:03:43.82,Default,,0000,0000,0000,,No, I heard something else from Okano.
+Dialogue: 0,0:03:43.82,0:03:46.20,Default,,0000,0000,0000,,Apparently, the same sort of thing\Nhappened to the A Capella Club.
+Dialogue: 0,0:03:46.20,0:03:47.99,Default,,0000,0000,0000,,Huh? Is that right?
+Dialogue: 0,0:03:47.99,0:03:51.62,Default,,0000,0000,0000,,Yeah. He said that a drink\Nwas taken from their cooler.
+Dialogue: 0,0:03:52.04,0:03:53.87,Default,,0000,0000,0000,,Was there a confession note there, too?
+Dialogue: 0,0:03:54.21,0:03:56.50,Default,,0000,0000,0000,,They said there was an odd note inside.
+Dialogue: 0,0:03:57.38,0:03:59.63,Default,,0000,0000,0000,,Things just got more interesting.
+Dialogue: 0,0:04:00.05,0:04:02.55,Default,,0000,0000,0000,,What is it, Fukube? Why are you smiling?
+Dialogue: 0,0:04:02.55,0:04:04.76,Default,,0000,0000,0000,,Oh, nothing at all.
+Dialogue: 0,0:04:04.76,0:04:07.01,On Top,,0000,0000,0000,,Classic Lit Club Anthology\N{\i1}Hyouka{\i0} Vol. 46\NNow on sale
+Dialogue: 0,0:04:08.01,0:04:10.52,Default,,0000,0000,0000,,Today's the day I'll come through.
+Dialogue: 0,0:04:12.02,0:04:14.27,On Top,,0000,0000,0000,,'Blind Spot to All'\NNow Showing
+Dialogue: 0,0:04:15.65,0:04:17.65,On Top,,0000,0000,0000,,2-F's self-produced \N'Blind Spot to All' Pamphlets ¥50
+Dialogue: 0,0:04:16.44,0:04:17.65,Default,,0000,0000,0000,,All right, very well.
+Dialogue: 0,0:04:18.27,0:04:19.94,Default,,0000,0000,0000,,You mean that you'll accept them?
+Dialogue: 0,0:04:20.61,0:04:21.40,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:21.99,0:04:24.24,Default,,0000,0000,0000,,Th... Th...
+Dialogue: 0,0:04:24.24,0:04:26.41,Default,,0000,0000,0000,,Thank you so much!
+Dialogue: 0,0:04:26.41,0:04:28.83,Default,,0000,0000,0000,,Thank me after they sell. So,
+Dialogue: 0,0:04:29.79,0:04:31.08,Default,,0000,0000,0000,,how much, and how many?
+Dialogue: 0,0:04:31.50,0:04:34.08,Default,,0000,0000,0000,,They are ¥200 each, and we printed...
+Dialogue: 0,0:04:35.00,0:04:36.08,Default,,0000,0000,0000,,200 of them.
+Dialogue: 0,0:04:38.75,0:04:39.80,Default,,0000,0000,0000,,That's a lot.
+Dialogue: 0,0:04:39.80,0:04:41.92,Default,,0000,0000,0000,,We got that many by mistake.
+Dialogue: 0,0:04:41.92,0:04:45.84,Default,,0000,0000,0000,,That's why we'd really like\Nto sell them somehow.
+Dialogue: 0,0:04:45.84,0:04:48.68,Default,,0000,0000,0000,,I... I...
+Dialogue: 0,0:04:50.76,0:04:54.14,Default,,0000,0000,0000,,Lower it to ¥150, and give me 20.
+Dialogue: 0,0:04:54.14,0:04:56.23,Default,,0000,0000,0000,,I'll sell them together with\Nour pamphlets for ¥200.
+Dialogue: 0,0:04:59.61,0:05:00.15,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:05:07.61,0:05:10.70,Default,,0000,0000,0000,,What are you doing? Give me a copy.
+Dialogue: 0,0:05:10.70,0:05:13.79,Default,,0000,0000,0000,,Huh? Oh, is that what you meant?
+Dialogue: 0,0:05:13.79,0:05:17.33,Default,,0000,0000,0000,,I'm sorry, I didn't bring one.
+Dialogue: 0,0:05:17.33,0:05:19.84,Default,,0000,0000,0000,,From now on, keep one\Nwith you as you go around.
+Dialogue: 0,0:05:19.84,0:05:22.42,Default,,0000,0000,0000,,Things can vary greatly\Ndepending on the way you ask.
+Dialogue: 0,0:05:27.01,0:05:27.68,Default,,0000,0000,0000,,Irisu-{\i1}san{\i0}...
+Dialogue: 0,0:05:28.26,0:05:29.18,Default,,0000,0000,0000,,W-What?
+Dialogue: 0,0:05:29.18,0:05:32.26,Default,,0000,0000,0000,,Irisu-{\i1}san{\i0}, you are good at\Nasking for things, right?
+Dialogue: 0,0:05:32.26,0:05:33.02,Default,,0000,0000,0000,,Urgh.
+Dialogue: 0,0:05:33.02,0:05:35.81,Default,,0000,0000,0000,,Would you please teach me\Nhow to ask people for things?
+Dialogue: 0,0:05:35.81,0:05:36.73,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:05:36.73,0:05:38.44,Default,,0000,0000,0000,,Eh?\NWhat's going on?
+Dialogue: 0,0:05:46.78,0:05:48.45,Default,,0000,0000,0000,,Yeah, okay.
+Dialogue: 0,0:05:48.99,0:05:51.41,Default,,0000,0000,0000,,Listen, no matter what you're asking for,
+Dialogue: 0,0:05:51.41,0:05:54.41,Default,,0000,0000,0000,,you prompt the other guy\Nto get them to volunteer to do it.
+Dialogue: 0,0:05:55.75,0:05:56.66,Default,,0000,0000,0000,,Prompt them...
+Dialogue: 0,0:05:57.37,0:06:02.00,Default,,0000,0000,0000,,To do that, you have to provide them\Nwith a sense of emotional contentment.
+Dialogue: 0,0:06:02.00,0:06:03.63,Default,,0000,0000,0000,,There are many ways to do this,
+Dialogue: 0,0:06:03.63,0:06:05.88,Default,,0000,0000,0000,,but the thing that would work best for you
+Dialogue: 0,0:06:05.88,0:06:06.80,Default,,0000,0000,0000,,is "expectation."
+Dialogue: 0,0:06:07.30,0:06:08.43,Default,,0000,0000,0000,,Expectation?
+Dialogue: 0,0:06:08.76,0:06:13.35,Default,,0000,0000,0000,,Yes. Make the other guy think\N"she's expecting it of me."
+Dialogue: 0,0:06:13.35,0:06:14.14,Default,,0000,0000,0000,,Make them think...
+Dialogue: 0,0:06:14.68,0:06:18.48,Default,,0000,0000,0000,,If you can do that, they will\Nreadily commit to the rest of it.
+Dialogue: 0,0:06:18.77,0:06:20.52,Default,,0000,0000,0000,,Commit to it...
+Dialogue: 0,0:06:20.52,0:06:25.07,Default,,0000,0000,0000,,Yeah. However, don't let on\Nthat the problem is all that large.
+Dialogue: 0,0:06:25.07,0:06:26.49,Default,,0000,0000,0000,,Don't let on that it's large...
+Dialogue: 0,0:06:26.82,0:06:28.74,Default,,0000,0000,0000,,Best to look like it's\Na minor detail to you,
+Dialogue: 0,0:06:28.74,0:06:33.28,Default,,0000,0000,0000,,but a fairly big deal to them.
+Dialogue: 0,0:06:33.28,0:06:35.49,Default,,0000,0000,0000,,There's one other thing...
+Dialogue: 0,0:06:39.79,0:06:43.59,Default,,0000,0000,0000,,If possible, ask someone of the\Nopposite sex, out of public view.
+Dialogue: 0,0:06:44.88,0:06:45.92,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:06:46.84,0:06:49.01,Default,,0000,0000,0000,,Now hurry and bring me those anthologies.
+Dialogue: 0,0:06:50.43,0:06:52.30,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:06:57.02,0:06:59.27,Default,,0000,0000,0000,,Thank you, that was terribly informative.
+Dialogue: 0,0:07:19.16,0:07:21.62,Default,,0000,0000,0000,,Trick or treat!
+Dialogue: 0,0:07:21.62,0:07:22.75,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:07:27.76,0:07:29.63,Default,,0000,0000,0000,,Trick or treat!
+Dialogue: 0,0:07:30.22,0:07:32.26,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:07:32.26,0:07:33.97,Default,,0000,0000,0000,,Who are you guys?
+Dialogue: 0,0:07:35.72,0:07:38.56,Default,,0000,0000,0000,,Door-to-door salespeople\Nfor the Confection Club.
+Dialogue: 0,0:07:38.56,0:07:40.48,Default,,0000,0000,0000,,Would you like some cookies?
+Dialogue: 0,0:07:40.89,0:07:41.98,Default,,0000,0000,0000,,How much?
+Dialogue: 0,0:07:41.98,0:07:45.52,Default,,0000,0000,0000,,Heh, ¥100 per bag, sir.
+Dialogue: 0,0:07:45.52,0:07:48.40,Default,,0000,0000,0000,,Wow, what is this? How cool!
+Dialogue: 0,0:07:48.78,0:07:51.40,Default,,0000,0000,0000,,Oh, that would be great\Nto carry on our sales calls!
+Dialogue: 0,0:07:51.40,0:07:55.20,Default,,0000,0000,0000,,If you like it, I'll trade it\Nto you for two cookie bags.
+Dialogue: 0,0:07:55.20,0:07:57.83,Default,,0000,0000,0000,,Act now, and I'll throw in\Nan anthology with the pistol.
+Dialogue: 0,0:07:57.83,0:07:59.62,Default,,0000,0000,0000,,Huh? Are you sure?
+Dialogue: 0,0:08:00.41,0:08:01.66,Default,,0000,0000,0000,,Kerblam!
+Dialogue: 0,0:08:01.66,0:08:03.71,Default,,0000,0000,0000,,Okay, here.
+Dialogue: 0,0:08:04.88,0:08:06.67,Default,,0000,0000,0000,,And as a symbol of our pumpkin gratitude,
+Dialogue: 0,0:08:06.34,0:08:08.09,On Top,,0000,0000,0000,,Cake flour
+Dialogue: 0,0:08:06.67,0:08:08.09,Default,,0000,0000,0000,,we'll give you this, too.
+Dialogue: 0,0:08:09.80,0:08:10.59,Default,,0000,0000,0000,,Flour?
+Dialogue: 0,0:08:10.59,0:08:11.09,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:08:11.63,0:08:13.18,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:08:13.80,0:08:15.51,Default,,0000,0000,0000,,Trick or treat!
+Dialogue: 0,0:08:15.51,0:08:16.64,Default,,0000,0000,0000,,Kerblam!
+Dialogue: 0,0:08:30.69,0:08:34.57,On Top,,0000,0000,0000,,High-speed poster-making showdown!\NWitch-girl vs. Panther
+Dialogue: 0,0:08:31.49,0:08:34.57,Default,,0000,0000,0000,,The Manga Club's vaunted artist, huh?
+Dialogue: 0,0:08:35.11,0:08:35.95,Default,,0000,0000,0000,,That's nice.
+Dialogue: 0,0:08:42.75,0:08:44.00,Default,,0000,0000,0000,,There, all done.
+Dialogue: 0,0:08:46.83,0:08:48.09,Default,,0000,0000,0000,,Maya...
+Dialogue: 0,0:08:50.80,0:08:52.55,Default,,0000,0000,0000,,All right, let's do this!
+Dialogue: 0,0:08:56.47,0:08:59.43,On Top,,0000,0000,0000,,Hosted by the Cooking Club
+Dialogue: 0,0:09:04.56,0:09:05.89,Default,,0000,0000,0000,,Where is Mayaka-{\i1}san{\i0}?
+Dialogue: 0,0:09:06.48,0:09:08.36,Default,,0000,0000,0000,,It looked like she was still busy.
+Dialogue: 0,0:09:08.36,0:09:09.40,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:09:10.15,0:09:11.73,Default,,0000,0000,0000,,Let's put our faith in her.
+Dialogue: 0,0:09:11.73,0:09:13.11,Default,,0000,0000,0000,,Hey, Fukube!
+Dialogue: 0,0:09:14.40,0:09:17.57,Default,,0000,0000,0000,,This is Suhara, son of a restaurant chef.
+Dialogue: 0,0:09:18.12,0:09:20.33,Default,,0000,0000,0000,,Oh, yeah? That's remarkable.
+Dialogue: 0,0:09:20.66,0:09:24.25,Default,,0000,0000,0000,,Well, do the best that you can. Bye.
+Dialogue: 0,0:09:26.83,0:09:27.79,Default,,0000,0000,0000,,The best we can, right.
+Dialogue: 0,0:09:32.17,0:09:35.17,Default,,0000,0000,0000,,All right, our entries today are...
+Dialogue: 0,0:09:35.17,0:09:36.76,Default,,0000,0000,0000,,Hey, look over there.\NNumber one,
+Dialogue: 0,0:09:36.76,0:09:40.05,Default,,0000,0000,0000,,Team Ajiyoshi!
+Dialogue: 0,0:09:40.60,0:09:47.60,Default,,0000,0000,0000,,Number two, Team Fata Morgana!
+Dialogue: 0,0:09:48.10,0:09:52.11,Default,,0000,0000,0000,,Number three, Team Astronomy Club!
+Dialogue: 0,0:09:54.65,0:09:56.45,Default,,0000,0000,0000,,And number four,
+Dialogue: 0,0:09:56.82,0:09:59.82,Default,,0000,0000,0000,,Team Classic Lit Club!
+Dialogue: 0,0:10:02.28,0:10:04.87,Default,,0000,0000,0000,,The rules are that each\Nteam of three people
+Dialogue: 0,0:10:04.87,0:10:06.62,Default,,0000,0000,0000,,has each member cook for 20 minutes.
+Dialogue: 0,0:10:07.25,0:10:10.88,Default,,0000,0000,0000,,After their 20 minutes is up,\Nthey switch off with the next person.
+Dialogue: 0,0:10:11.42,0:10:15.88,Default,,0000,0000,0000,,It is against the rules for the others\Nto talk to them while they are cooking,
+Dialogue: 0,0:10:15.88,0:10:18.18,Default,,0000,0000,0000,,so please be mindful of that.
+Dialogue: 0,0:10:18.18,0:10:21.14,Default,,0000,0000,0000,,Fukube-{\i1}san{\i0}, what are you cooking?
+Dialogue: 0,0:10:21.14,0:10:22.60,Default,,0000,0000,0000,,I'm so glad you asked.
+Dialogue: 0,0:10:23.51,0:10:25.85,Default,,0000,0000,0000,,Fukube-style hoisin fried rice.
+Dialogue: 0,0:10:26.35,0:10:30.48,Default,,0000,0000,0000,,As I understand it, we'll have\Nto boil the rice from scratch,
+Dialogue: 0,0:10:30.48,0:10:33.40,Default,,0000,0000,0000,,which means that you'll go last\Nas our anchorman, right?
+Dialogue: 0,0:10:34.98,0:10:38.49,Default,,0000,0000,0000,,No, I'm going to lead us off.
+Dialogue: 0,0:10:39.57,0:10:41.62,Default,,0000,0000,0000,,Since I can't make hoisin\Nfried rice anymore,
+Dialogue: 0,0:10:41.62,0:10:43.53,Default,,0000,0000,0000,,it doesn't make any difference when I go.
+Dialogue: 0,0:10:43.53,0:10:44.87,Default,,0000,0000,0000,,I look forward to whatever you do.
+Dialogue: 0,0:10:45.08,0:10:48.12,Default,,0000,0000,0000,,Each team member will\Nmake at least one dish.
+Dialogue: 0,0:10:48.83,0:10:51.46,Default,,0000,0000,0000,,Ingredients are in the baskets on the center\Ntable, and are first-come, first-serve.
+Dialogue: 0,0:10:51.96,0:10:56.17,Default,,0000,0000,0000,,Once they are gone, we will allow you to procure\Nothers, as long as they are on school grounds.
+Dialogue: 0,0:10:56.55,0:10:59.59,Default,,0000,0000,0000,,All right then, first contestants!
+Dialogue: 0,0:10:59.59,0:11:01.55,Default,,0000,0000,0000,,On your kitchen!
+Dialogue: 0,0:11:02.85,0:11:03.85,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:11:05.51,0:11:07.31,Default,,0000,0000,0000,,Okay, here we go!
+Dialogue: 0,0:11:07.77,0:11:08.73,Default,,0000,0000,0000,,Wild!
+Dialogue: 0,0:11:09.02,0:11:10.48,Default,,0000,0000,0000,,Fire!
+Dialogue: 0,0:11:26.79,0:11:28.12,Default,,0000,0000,0000,,Fire...
+Dialogue: 0,0:11:28.12,0:11:30.37,On Top,,0000,0000,0000,,{\i1}Shuubun{\i0} ('Middle of Autumn')\NWhen light\Nfindeth equal measure with darkness.
+Dialogue: 0,0:11:30.37,0:11:31.12,On Top,,0000,0000,0000,,Hyouka
+Dialogue: 0,0:11:31.96,0:11:35.38,Default,,0000,0000,0000,,Okay, Wild Fire is underway!
+Dialogue: 0,0:11:35.38,0:11:39.30,Default,,0000,0000,0000,,We are truly looking forward to\Nseeing what dishes each team
+Dialogue: 0,0:11:39.30,0:11:41.18,Default,,0000,0000,0000,,is going to present to us.
+Dialogue: 0,0:11:43.97,0:11:48.72,Default,,0000,0000,0000,,Oh, Team Classic Lit Club is pulling the heads\Noff and cleaning the dried fish individually!
+Dialogue: 0,0:11:49.06,0:11:53.06,Default,,0000,0000,0000,,Such precise work!\NWhat do you say, President?
+Dialogue: 0,0:11:53.06,0:11:55.86,Default,,0000,0000,0000,,This is important prep\Nwork, Vice President.
+Dialogue: 0,0:11:55.86,0:11:59.32,Default,,0000,0000,0000,,Team Fata Morgana is preparing clam meat!
+Dialogue: 0,0:11:59.32,0:12:02.40,Default,,0000,0000,0000,,Could he be preparing some\Ndaikon radish miso soup?
+Dialogue: 0,0:12:02.40,0:12:05.28,Default,,0000,0000,0000,,Ah, Fukube-{\i1}san{\i0}! You\Nshouldn't be doing that!
+Dialogue: 0,0:12:06.08,0:12:08.70,Default,,0000,0000,0000,,You haven't peeled the daikon!
+Dialogue: 0,0:12:08.70,0:12:10.37,Default,,0000,0000,0000,,Fu...
+Dialogue: 0,0:12:10.37,0:12:14.04,Default,,0000,0000,0000,,No, no! Talking is against the rules!
+Dialogue: 0,0:12:14.88,0:12:19.25,Default,,0000,0000,0000,,Daikon radish... peel... peel it...
+Dialogue: 0,0:12:20.26,0:12:21.26,Default,,0000,0000,0000,,Fukube-{\i1}san{\i0}!
+Dialogue: 0,0:12:23.63,0:12:27.01,Default,,0000,0000,0000,,Ha! Did he figure it out?
+Dialogue: 0,0:12:27.01,0:12:30.85,Default,,0000,0000,0000,,Huh? Is he peeling each one\Nof them separately?
+Dialogue: 0,0:12:31.52,0:12:33.85,Default,,0000,0000,0000,,The water is going to boil over!
+Dialogue: 0,0:12:34.14,0:12:37.11,Default,,0000,0000,0000,,Team Classic Lit Club, that looks like\Nit is going to take some time!
+Dialogue: 0,0:12:37.11,0:12:39.36,Default,,0000,0000,0000,,Ah, stuck inside a Möbius loop!
+Dialogue: 0,0:12:42.49,0:12:44.86,Default,,0000,0000,0000,,Done. Let's see...
+Dialogue: 0,0:12:45.49,0:12:48.91,Default,,0000,0000,0000,,We're still not sure what\Neach team is making.
+Dialogue: 0,0:12:48.91,0:12:51.83,Default,,0000,0000,0000,,Uh-oh, Team Classic Lit Club\Nis tilting their head to the side.
+Dialogue: 0,0:12:53.37,0:12:54.00,Default,,0000,0000,0000,,Ow, that's hot!
+Dialogue: 0,0:12:56.46,0:12:58.46,Default,,0000,0000,0000,,Ah, I get it.
+Dialogue: 0,0:12:58.88,0:13:00.34,Default,,0000,0000,0000,,He's making miso stew.
+Dialogue: 0,0:13:00.75,0:13:04.88,Default,,0000,0000,0000,,Oh, Team Ajiyoshi is making\Na standard meat sauce!
+Dialogue: 0,0:13:05.30,0:13:08.35,Default,,0000,0000,0000,,I'm not going to make it at this pace.
+Dialogue: 0,0:13:08.35,0:13:11.52,Default,,0000,0000,0000,,Leadoff cooks, your time is nearly up!
+Dialogue: 0,0:13:12.64,0:13:15.14,Default,,0000,0000,0000,,5... 4... 3...
+Dialogue: 0,0:13:15.69,0:13:17.52,Default,,0000,0000,0000,,2... 1...
+Dialogue: 0,0:13:17.52,0:13:19.11,Default,,0000,0000,0000,,Change element!
+Dialogue: 0,0:13:19.57,0:13:22.28,Default,,0000,0000,0000,,Sorry, I was only able to make one dish.
+Dialogue: 0,0:13:22.28,0:13:24.78,Default,,0000,0000,0000,,That's okay. Leave it to me!
+Dialogue: 0,0:13:24.78,0:13:26.57,Default,,0000,0000,0000,,It's up to you, Chitanda-{\i1}san{\i0}.
+Dialogue: 0,0:13:26.57,0:13:29.83,Default,,0000,0000,0000,,That is incredible!\NTeam Classic Lit Club's second cook
+Dialogue: 0,0:13:29.83,0:13:31.62,Default,,0000,0000,0000,,is paring that daikon like a pro!
+Dialogue: 0,0:13:32.04,0:13:35.00,Default,,0000,0000,0000,,The true form of the\Ndaikon... quite beautiful.
+Dialogue: 0,0:13:35.00,0:13:38.67,Default,,0000,0000,0000,,She could even skim a polluted river,\Ngiven how cleanly she's paring that thing.
+Dialogue: 0,0:13:38.67,0:13:41.63,Default,,0000,0000,0000,,That's amazing. She's\Nalready made one dish.
+Dialogue: 0,0:13:47.89,0:13:50.05,Default,,0000,0000,0000,,Ah, that's Chitanda-{\i1}san{\i0}, all right.
+Dialogue: 0,0:13:50.89,0:13:53.06,Default,,0000,0000,0000,,And now, the Classic Lit Club\Nis hand-washing their rice!
+Dialogue: 0,0:13:53.68,0:13:57.02,Default,,0000,0000,0000,,They've already prodigiously gone through\Nthe six liters of water they started with!
+Dialogue: 0,0:13:57.02,0:14:00.44,Default,,0000,0000,0000,,That shows a firm commitment\Nto the flavor of the rice.
+Dialogue: 0,0:14:00.44,0:14:02.82,Default,,0000,0000,0000,,Oh! Team Astronomy Club's second cook...
+Dialogue: 0,0:14:03.32,0:14:06.32,Default,,0000,0000,0000,,What's going on there?\NWhat are they cooking?!
+Dialogue: 0,0:14:06.61,0:14:08.36,Default,,0000,0000,0000,,Such intense fire!
+Dialogue: 0,0:14:08.66,0:14:11.87,Default,,0000,0000,0000,,Meanwhile, is that {\i1}giseyaki {\i0}that\NTeam Classic Lit Club is making?
+Dialogue: 0,0:14:12.28,0:14:13.74,Default,,0000,0000,0000,,That's a down-home taste!
+Dialogue: 0,0:14:13.74,0:14:14.87,Default,,0000,0000,0000,,Hiromi!
+Dialogue: 0,0:14:15.37,0:14:17.87,Default,,0000,0000,0000,,I've never even heard of {\i1}giseyaki {\i0}before.
+Dialogue: 0,0:14:19.92,0:14:22.04,Default,,0000,0000,0000,,Now it's Team Fata Morgana!
+Dialogue: 0,0:14:22.04,0:14:24.13,Default,,0000,0000,0000,,Their yellowtail teriyaki\Nis nearing completion!
+Dialogue: 0,0:14:24.59,0:14:26.34,Default,,0000,0000,0000,,Brilliant!
+Dialogue: 0,0:14:26.63,0:14:29.72,Default,,0000,0000,0000,,Team Classic Lit Club appears\Nto have finished their {\i1}giseyaki{\i0}.
+Dialogue: 0,0:14:29.72,0:14:31.68,Default,,0000,0000,0000,,I'm really starting to get hungry!
+Dialogue: 0,0:14:31.68,0:14:34.10,Default,,0000,0000,0000,,Just who is this second cook of theirs?
+Dialogue: 0,0:14:34.52,0:14:37.89,Default,,0000,0000,0000,,She's Miss Chitanda Eru, daughter of\Nthe farming tycoon Chitanda family!
+Dialogue: 0,0:14:37.89,0:14:38.94,Default,,0000,0000,0000,,And don't forget it!
+Dialogue: 0,0:14:39.44,0:14:43.57,Default,,0000,0000,0000,,Meanwhile, Team Astronomy Club's\Navant-garde cooking continues!
+Dialogue: 0,0:14:44.15,0:14:46.69,Default,,0000,0000,0000,,Let the darkness swallow them up!
+Dialogue: 0,0:14:46.69,0:14:50.11,Default,,0000,0000,0000,,Team Classic Lit Club is now rolling\Nboiled potatoes in starch
+Dialogue: 0,0:14:50.11,0:14:53.16,Default,,0000,0000,0000,,and putting them in a mortar!\NNow they're making {\i1}imomochi {\i0}cakes!
+Dialogue: 0,0:14:53.16,0:14:54.95,Default,,0000,0000,0000,,The Classic Lit Club displays\Na practiced hand!
+Dialogue: 0,0:14:55.29,0:14:58.16,Default,,0000,0000,0000,,Oh, but could this be trouble?
+Dialogue: 0,0:14:58.66,0:15:00.71,Default,,0000,0000,0000,,Trouble? What?
+Dialogue: 0,0:15:03.00,0:15:06.26,Default,,0000,0000,0000,,Team Classic Lit Club,\Nany help is against the rules.
+Dialogue: 0,0:15:14.10,0:15:16.22,Default,,0000,0000,0000,,It's no use. I'm not getting through.
+Dialogue: 0,0:15:20.81,0:15:24.65,Default,,0000,0000,0000,,40 minutes have now elapsed.\NPlease switch to your anchormen.
+Dialogue: 0,0:15:25.07,0:15:27.78,Default,,0000,0000,0000,,Fukube-{\i1}san{\i0}, how did I do?
+Dialogue: 0,0:15:27.78,0:15:29.78,Default,,0000,0000,0000,,You were amazing, Chitanda-{\i1}san{\i0}.
+Dialogue: 0,0:15:29.78,0:15:32.53,Default,,0000,0000,0000,,I had no idea you were\Nso skilled at cooking.
+Dialogue: 0,0:15:32.53,0:15:34.66,Default,,0000,0000,0000,,I like to cook.
+Dialogue: 0,0:15:35.16,0:15:38.41,Default,,0000,0000,0000,,Mm-hm, well done, well done. It's just...
+Dialogue: 0,0:15:39.62,0:15:40.29,Default,,0000,0000,0000,,Just what?
+Dialogue: 0,0:15:48.30,0:15:50.55,Default,,0000,0000,0000,,There aren't any ingredients left!
+Dialogue: 0,0:15:53.26,0:15:55.80,Default,,0000,0000,0000,,Mayaka, I'm sorry.
+Dialogue: 0,0:15:55.80,0:15:59.27,Default,,0000,0000,0000,,Okay, at last, we have\Nreached the anchormen!
+Dialogue: 0,0:16:00.93,0:16:02.06,Default,,0000,0000,0000,,Finished!
+Dialogue: 0,0:16:06.86,0:16:10.11,Default,,0000,0000,0000,,Excuse me! Please excuse me!
+Dialogue: 0,0:16:15.99,0:16:22.08,Default,,0000,0000,0000,,Oh, my! Team Ajiyoshi is preparing\Nsome apples for their dessert!
+Dialogue: 0,0:16:22.08,0:16:24.83,Default,,0000,0000,0000,,Those bunny rabbits are taking\Nshape right before our eyes!
+Dialogue: 0,0:16:25.38,0:16:28.92,Default,,0000,0000,0000,,Is Team Classic Lit Club's anchorman\Nanywhere to be seen yet?
+Dialogue: 0,0:16:29.63,0:16:32.72,Default,,0000,0000,0000,,Oh, my, in addition to the bunny rabbits,
+Dialogue: 0,0:16:32.93,0:16:36.68,Default,,0000,0000,0000,,Team Ajiyoshi is also hollowing\Nout a flower hedge!
+Dialogue: 0,0:16:36.68,0:16:39.93,Default,,0000,0000,0000,,Leaving Team Classic Lit Club and\Ntheir missing anchorman behind,
+Dialogue: 0,0:16:39.93,0:16:44.35,Default,,0000,0000,0000,,Team Ajiyoshi is preparing their dessert!
+Dialogue: 0,0:16:53.61,0:16:54.61,Default,,0000,0000,0000,,Mayaka!
+Dialogue: 0,0:16:56.12,0:17:00.04,Default,,0000,0000,0000,,What's this? A girl in civilian\Ndress has just shown up!
+Dialogue: 0,0:17:00.04,0:17:02.62,Default,,0000,0000,0000,,Is she with Team Classic Lit Club?\NIs this the Classic Lit Club?
+Dialogue: 0,0:17:01.50,0:17:02.62,Default,,0000,0000,0000,,Mayaka-{\i1}san{\i0}!
+Dialogue: 0,0:17:03.87,0:17:04.87,Default,,0000,0000,0000,,It {\i1}is {\i0}the Classic Lit Club!
+Dialogue: 0,0:17:05.29,0:17:09.63,Default,,0000,0000,0000,,Team Classic Lit Club's\Nanchorman has finally arrived!
+Dialogue: 0,0:17:22.06,0:17:26.19,Default,,0000,0000,0000,,Uh-oh, Team Classic Lit Club, out of\Nthe frying pan and into the fire!
+Dialogue: 0,0:17:26.65,0:17:29.94,Default,,0000,0000,0000,,There are no more ingredients left!
+Dialogue: 0,0:17:32.74,0:17:34.28,Default,,0000,0000,0000,,If she doesn't cook anything,
+Dialogue: 0,0:17:34.28,0:17:36.91,Default,,0000,0000,0000,,the anchorman's score will,\Nof course, be zero!
+Dialogue: 0,0:17:36.91,0:17:41.99,Default,,0000,0000,0000,,After such a hard-fought battle, is this\Nthe end for Team Classic Lit Club?
+Dialogue: 0,0:17:44.58,0:17:45.41,Default,,0000,0000,0000,,Is this all?
+Dialogue: 0,0:17:45.41,0:17:48.50,Default,,0000,0000,0000,,Team Classic Lit Club has\Npicked up a small onion.
+Dialogue: 0,0:17:48.50,0:17:53.17,Default,,0000,0000,0000,,What do I do? But what can she\Nmake with just one small onion?
+Dialogue: 0,0:17:53.17,0:17:56.09,Default,,0000,0000,0000,,She is just standing there;\Ncan she not think of anything?
+Dialogue: 0,0:17:56.59,0:17:57.93,Default,,0000,0000,0000,,What will you do, Classic Lit Club?
+Dialogue: 0,0:17:57.93,0:18:02.10,Default,,0000,0000,0000,,If you do not cook something,\Nyou will be disqualified.
+Dialogue: 0,0:18:02.10,0:18:03.60,Default,,0000,0000,0000,,What do we do?
+Dialogue: 0,0:18:05.35,0:18:07.14,Default,,0000,0000,0000,,What can I make?
+Dialogue: 0,0:18:07.65,0:18:12.19,Default,,0000,0000,0000,,What does Mayaka-{\i1}san {\i0}plan to do\Nwith just those ingredients?
+Dialogue: 0,0:18:12.19,0:18:13.82,Default,,0000,0000,0000,,Now I'm curious.
+Dialogue: 0,0:18:13.82,0:18:14.32,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:15.11,0:18:16.32,Default,,0000,0000,0000,,And whose fault is that?
+Dialogue: 0,0:18:17.53,0:18:20.82,Default,,0000,0000,0000,,The Classic Lit Club anchorman\Nhas not moved an inch.
+Dialogue: 0,0:18:24.37,0:18:29.58,Default,,0000,0000,0000,,There it is! Fata Morgana\Nproduces an omelet!
+Dialogue: 0,0:18:33.05,0:18:35.67,Default,,0000,0000,0000,,Think! Think!
+Dialogue: 0,0:18:35.67,0:18:39.30,Default,,0000,0000,0000,,Has Team Classic Lit Club\Nreached the end of the line?
+Dialogue: 0,0:18:40.55,0:18:43.72,Default,,0000,0000,0000,,Something... There has to be something...
+Dialogue: 0,0:18:44.18,0:18:47.81,Default,,0000,0000,0000,,Team Classic Lit Club is out of options!
+Dialogue: 0,0:18:48.31,0:18:51.94,Default,,0000,0000,0000,,The time remaining is a mere ten minutes!
+Dialogue: 0,0:18:51.94,0:18:54.94,Default,,0000,0000,0000,,Can they do nothing but wait\Nfor time to run out?
+Dialogue: 0,0:18:54.94,0:18:55.57,Default,,0000,0000,0000,,Toshi!
+Dialogue: 0,0:18:58.65,0:19:01.78,Default,,0000,0000,0000,,Fukube-{\i1}san{\i0}, did you just hear\Nyour name being called?
+Dialogue: 0,0:19:01.78,0:19:02.74,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:01.78,0:19:03.33,Default,,0000,0000,0000,,Satoshi!
+Dialogue: 0,0:19:02.74,0:19:03.33,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:19:03.33,0:19:06.08,Default,,0000,0000,0000,,Team Astronomy Club is boiling\Nbananas in soup stock! Really?
+Dialogue: 0,0:19:06.08,0:19:07.45,Default,,0000,0000,0000,,Excuse me!\NBana...
+Dialogue: 0,0:19:09.67,0:19:10.62,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:19:11.29,0:19:12.67,Default,,0000,0000,0000,,Be quiet for a moment.\NSatoshi!
+Dialogue: 0,0:19:17.05,0:19:18.13,Default,,0000,0000,0000,,It's Oreki-{\i1}san{\i0}!
+Dialogue: 0,0:19:19.76,0:19:22.18,Default,,0000,0000,0000,,Over there! In the club room!
+Dialogue: 0,0:19:22.76,0:19:25.68,Default,,0000,0000,0000,,Satoshi!
+Dialogue: 0,0:19:26.06,0:19:27.31,Default,,0000,0000,0000,,What?\NWhat's that?
+Dialogue: 0,0:19:31.56,0:19:32.27,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:32.27,0:19:37.36,Default,,0000,0000,0000,,Satoshi! Get over here!\NGet under the window!
+Dialogue: 0,0:19:38.11,0:19:39.32,Default,,0000,0000,0000,,Move it!
+Dialogue: 0,0:19:39.32,0:19:40.45,Default,,0000,0000,0000,,Fukube-{\i1}san{\i0}!
+Dialogue: 0,0:19:40.45,0:19:41.07,Default,,0000,0000,0000,,Mm-hm.
+Dialogue: 0,0:19:49.50,0:19:50.83,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:19:51.21,0:19:53.21,Default,,0000,0000,0000,,Make sure you catch this!
+Dialogue: 0,0:20:03.22,0:20:04.22,Default,,0000,0000,0000,,Nice catch!
+Dialogue: 0,0:20:05.14,0:20:06.93,Default,,0000,0000,0000,,So, what is this?
+Dialogue: 0,0:20:10.43,0:20:13.52,Default,,0000,0000,0000,,Team Classic Lit Club's leadoff\Ncook has returned! Mayaka!
+Dialogue: 0,0:20:13.52,0:20:14.52,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:18.11,0:20:21.07,Default,,0000,0000,0000,,Oh, my! What an astounding turn of events!
+Dialogue: 0,0:20:21.07,0:20:23.53,Default,,0000,0000,0000,,Could that be a bag of flour?
+Dialogue: 0,0:20:23.53,0:20:26.66,Default,,0000,0000,0000,,The rules say it's okay! It's allowed!
+Dialogue: 0,0:20:26.66,0:20:27.37,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:20:28.29,0:20:30.20,Default,,0000,0000,0000,,And now, seven minutes remain!
+Dialogue: 0,0:20:30.20,0:20:34.38,Default,,0000,0000,0000,,As each Wild Fire team\Nenters their final stages,
+Dialogue: 0,0:20:34.38,0:20:37.04,Default,,0000,0000,0000,,Team Classic Lit Club\Nat last goes into action!
+Dialogue: 0,0:20:37.04,0:20:39.13,Default,,0000,0000,0000,,Under such disadvantageous circumstances,
+Dialogue: 0,0:20:39.13,0:20:42.30,Default,,0000,0000,0000,,what kind of heroics\Nare they going to display?
+Dialogue: 0,0:20:42.30,0:20:43.30,Default,,0000,0000,0000,,I'm quite curious, myself.
+Dialogue: 0,0:20:43.30,0:20:46.55,Default,,0000,0000,0000,,What's this? She has pulled out\Nthe shrimp heads!
+Dialogue: 0,0:20:46.55,0:20:48.51,Default,,0000,0000,0000,,What on earth is she planning?
+Dialogue: 0,0:20:49.26,0:20:50.27,Default,,0000,0000,0000,,{\i1}Kakiage {\i0}tempura.
+Dialogue: 0,0:20:52.10,0:20:55.56,Default,,0000,0000,0000,,Is that it? {\i1}Kakiage {\i0}tempura?
+Dialogue: 0,0:20:57.65,0:21:02.07,Default,,0000,0000,0000,,Only five minutes still\Nremain in Wild Fire!
+Dialogue: 0,0:21:04.41,0:21:06.16,Default,,0000,0000,0000,,Hey! Cooking Club!
+Dialogue: 0,0:21:06.62,0:21:08.74,Default,,0000,0000,0000,,At least provide us with a ladle!
+Dialogue: 0,0:21:16.46,0:21:20.42,Default,,0000,0000,0000,,The Classic Lit Club obtains a ladle\Nand sets about the next step!
+Dialogue: 0,0:21:21.84,0:21:24.05,Default,,0000,0000,0000,,The pressure is on Team Classic Lit Club!
+Dialogue: 0,0:21:24.05,0:21:27.51,Default,,0000,0000,0000,,Playing a furious game of catch-up,\Nthey rally from behind!
+Dialogue: 0,0:21:27.51,0:21:28.51,Default,,0000,0000,0000,,It's {\i1}kakiage {\i0}over rice!
+Dialogue: 0,0:21:29.51,0:21:32.93,Default,,0000,0000,0000,,Will Team Classic Lit Club make it\Nin time? Only one minute left!
+Dialogue: 0,0:21:37.10,0:21:39.61,Default,,0000,0000,0000,,There's very little time remaining!
+Dialogue: 0,0:21:55.08,0:21:56.71,Default,,0000,0000,0000,,She scoops it up!
+Dialogue: 0,0:21:56.71,0:21:59.54,Default,,0000,0000,0000,,And after setting it into the bowl...
+Dialogue: 0,0:22:00.67,0:22:03.30,Default,,0000,0000,0000,,3... 2... 1...
+Dialogue: 0,0:22:03.88,0:22:06.80,Default,,0000,0000,0000,,It's over!
+Dialogue: 0,0:22:09.51,0:22:10.10,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:22:18.02,0:22:20.11,Default,,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:22:20.11,0:22:20.98,Default,,0000,0000,0000,,Mayaka-{\i1}san{\i0}!
+Dialogue: 0,0:22:22.23,0:22:23.48,Default,,0000,0000,0000,,Great job!
+Dialogue: 0,0:22:39.12,0:22:40.54,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:22:48.09,0:22:49.68,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:22:49.68,0:22:51.64,Default,,0000,0000,0000,,Oh, it's nothing.
+Dialogue: 0,0:22:58.60,0:23:02.44,Default,,0000,0000,0000,,All right, we will now\Nannounce the results.
+Dialogue: 0,0:23:02.44,0:23:04.23,Default,,0000,0000,0000,,The well-deserved victory goes to...
+Dialogue: 0,0:23:05.99,0:23:07.90,Default,,0000,0000,0000,,Team Classic Lit Club!
+Dialogue: 0,0:23:11.78,0:23:13.03,Default,,0000,0000,0000,,I'm exhausted.
+Dialogue: 0,0:23:13.74,0:23:14.95,Default,,0000,0000,0000,,It was underdone.
+Dialogue: 0,0:23:15.20,0:23:18.66,Default,,0000,0000,0000,,Hey, for being out of time\Nand options, that was fantastic.
+Dialogue: 0,0:23:20.54,0:23:23.34,Default,,0000,0000,0000,,Yeah, but I didn't have a ladle!
+Dialogue: 0,0:23:23.34,0:23:25.71,Default,,0000,0000,0000,,If I'd only had a ladle, it would\Nhave turned out perfectly.
+Dialogue: 0,0:23:26.34,0:23:29.34,Default,,0000,0000,0000,,It took a whole minute\Nfor them to bring me one.
+Dialogue: 0,0:23:29.34,0:23:32.39,Default,,0000,0000,0000,,I was such an idiot. If I didn't\Nhave a ladle, I should have...
+Dialogue: 0,0:23:32.39,0:23:34.22,Default,,0000,0000,0000,,Hey, I'm really sorry about that.
+Dialogue: 0,0:23:34.76,0:23:37.22,Default,,0000,0000,0000,,I thought we had checked everything.
+Dialogue: 0,0:23:37.64,0:23:40.69,Default,,0000,0000,0000,,We should have given it\None last going-over.
+Dialogue: 0,0:23:40.98,0:23:43.86,Default,,0000,0000,0000,,Yeah, I thought it was odd too, at first,
+Dialogue: 0,0:23:40.98,0:23:45.19,Default,,0000,0000,0000,,Excuse me a moment...
+Dialogue: 0,0:23:43.86,0:23:45.19,Default,,0000,0000,0000,,so I should have checked, as well.
+Dialogue: 0,0:23:45.19,0:23:48.03,Default,,0000,0000,0000,,No, that's all right.
+Dialogue: 0,0:23:48.03,0:23:48.74,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:23:52.36,0:23:53.32,Default,,0000,0000,0000,,Isn't that...?!
+Dialogue: 0,0:23:54.66,0:23:55.58,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:23:55.58,0:23:56.08,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:23:56.08,0:23:58.08,On Top,,0000,0000,0000,,The Cooking Club has already lost its\Nladle.... Jumonji
+Dialogue: 0,0:23:56.66,0:23:58.08,Default,,0000,0000,0000,,A confession note!
+Dialogue: 0,0:24:15.30,0:24:23.35,On Top,,0000,0000,0000,,{\i1}This situation is an unscientific\Nmontage of emotions{\i0}
+Dialogue: 0,0:24:23.98,0:24:26.65,On Top,,0000,0000,0000,,{\i1}Who is calling whom?{\i0}
+Dialogue: 0,0:24:26.65,0:24:32.61,On Top,,0000,0000,0000,,{\i1}Your gaze darts away when I turn around\N(I can feel it){\i0}
+Dialogue: 0,0:24:32.61,0:24:34.87,On Top,,0000,0000,0000,,{\i1}It's unkind to tell me I'm imagining things{\i0}
+Dialogue: 0,0:24:34.87,0:24:40.37,On Top,,0000,0000,0000,,{\i1}They say having antennas\Nis a talent, right?{\i0}
+Dialogue: 0,0:24:40.37,0:24:45.50,On Top,,0000,0000,0000,,{\i1}I mean I want to know\N(I mean) (don't you?){\i0}
+Dialogue: 0,0:24:45.50,0:24:52.30,On Top,,0000,0000,0000,,{\i1}I'll turn up the heat on your youth\Nfor you now, while there's time{\i0}
+Dialogue: 0,0:24:52.30,0:24:56.93,On Top,,0000,0000,0000,,{\i1}If we can solve this tomorrow,\Nwhy not solve it right now?{\i0}
+Dialogue: 0,0:24:56.93,0:25:02.52,On Top,,0000,0000,0000,,{\i1}I want to solve your mystery{\i0}
+Dialogue: 0,0:25:02.52,0:25:07.23,On Top,,0000,0000,0000,,{\i1}Track down that secretive boyish figure!{\i0}
+Dialogue: 0,0:25:07.23,0:25:14.78,On Top,,0000,0000,0000,,{\i1}(Today) you are a fantasy,\Ndrawing me to you, no fair!{\i0}
+Dialogue: 0,0:25:14.78,0:25:20.45,On Top,,0000,0000,0000,,{\i1}My curiosity is expanding,\Nlack of tricks notwithstanding{\i0}
+Dialogue: 0,0:25:20.45,0:25:27.38,On Top,,0000,0000,0000,,{\i1}I'm fascinated, and I have to know, why?{\i0}
+Dialogue: 0,0:25:37.09,0:25:42.14,Default,,0000,0000,0000,,Next time, "The Jumonji Affair."
+Dialogue: 0,0:25:39.76,0:25:43.80,On Top,,0000,0000,0000,,The Jumonji Affair

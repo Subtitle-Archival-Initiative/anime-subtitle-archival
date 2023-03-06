@@ -1,0 +1,73 @@
+[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Top Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Flashback,Trebuchet MS,24,&H00EAD2D2,&H000000FF,&H00170502,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Signs,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,7,0020,0010,0020,1
+Style: SignsT,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,5,0000,0000,0000,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:01.01,0:01:02.39,Top Italics,,0000,0000,0000,,Getting Around at Kanyasai
+Dialogue: 0,0:01:30.42,0:01:34.34,Signs,,0000,0000,0000,,Kamiyama Prefectural High School\N Welcome to the Kami High Homepage \NCulture Festival page here
+Dialogue: 0,0:01:43.93,0:01:45.54,Top Italics,,0000,0000,0000,,Days until Kanyasai: 1
+Dialogue: 0,0:02:33.31,0:02:39.92,Top Italics,,0000,0000,0000,,You hold your breath to make it through\Nthe bewildering day that confronts you
+Dialogue: 0,0:02:39.95,0:02:46.09,Top Italics,,0000,0000,0000,,You know what this is, don't you?\NWhat do you want to do?
+Dialogue: 0,0:02:46.12,0:02:52.68,Top Italics,,0000,0000,0000,,The pain from shrugging\Nit all off as nothing
+Dialogue: 0,0:02:52.71,0:02:58.60,Top Italics,,0000,0000,0000,,urges you on enough to be encouraging
+Dialogue: 0,0:02:58.63,0:03:05.15,Top Italics,,0000,0000,0000,,Catching hold but making a mess,\Nwe're still inadequate
+Dialogue: 0,0:03:05.18,0:03:13.18,Top Italics,,0000,0000,0000,,but as long as we can forge\Nour shining, unseen future selves...
+Dialogue: 0,0:03:15.02,0:03:21.62,Top Italics,,0000,0000,0000,,Awaken and run where it takes you,\Nleaving mirages behind
+Dialogue: 0,0:03:21.65,0:03:28.17,Top Italics,,0000,0000,0000,,Run with your desire to change,\Nfrom your comfort zone into freedom
+Dialogue: 0,0:03:28.20,0:03:35.60,Top Italics,,0000,0000,0000,,Start choosing between now\Nand the brilliance you can attain
+Dialogue: 0,0:03:35.63,0:03:43.63,Top Italics,,0000,0000,0000,,Unaware of your destination,\Ndeep breaths following shallow ones
+Dialogue: 0,0:03:50.14,0:03:55.23,SignsT,,0000,0000,0000,,{\pos(466,296)}Those Things Piled Up Endlessly
+Dialogue: 0,0:07:31.65,0:07:32.63,Top,,0000,0000,0000,,Classic Lit Club Anthology\N{\i1}Hyouka{\i0} Vol. 46 Now on sale
+Dialogue: 0,0:09:52.82,0:09:54.07,Top,,0000,0000,0000,,Classic Lit Club Anthology\N{\i1}Hyouka{\i0} Vol. 46 Now on sale
+Dialogue: 0,0:09:55.59,0:09:56.97,Top Italics,,0000,0000,0000,,Elective Classroom #5
+Dialogue: 0,0:10:41.22,0:10:44.72,Top Italics,,0000,0000,0000,,Committee Chairman: Tanabe Jiro
+Dialogue: 0,0:13:11.08,0:13:12.94,Signs,,0000,0000,0000,,{\pos(307,271)\i1}Shuubun{\i0} ('Middle of Autumn')\N When light findeth equal measure\N with darkness.
+Dialogue: 0,0:13:12.94,0:13:14.06,Signs,,0000,0000,0000,,{\pos(307,271)}Hyouka\N When light findeth equal measure \Nwith darkness.
+Dialogue: 0,0:15:09.57,0:15:10.61,Top Italics,,0000,0000,0000,,Chitanda Eru
+Dialogue: 0,0:15:12.12,0:15:14.20,Top Italics,,0000,0000,0000,,Cultivating rice is cultivating soil\N-Chitanda Eru
+Dialogue: 0,0:15:44.13,0:15:45.25,Top Italics,,0000,0000,0000,,Everywhere at once!!\NThe Hundred Poets Card Game Club
+Dialogue: 0,0:16:07.46,0:16:08.57,Top Italics,,0000,0000,0000,,Executive Committee Office
+Dialogue: 0,0:18:38.57,0:18:40.05,Top Italics,,0000,0000,0000,,Welcome to the Manga Club\NCollections now on sale!!
+Dialogue: 0,0:20:10.41,0:20:12.79,Top Italics,,0000,0000,0000,,Zeami's
+Dialogue: 0,0:20:52.54,0:20:54.86,Top Italics,,0000,0000,0000,,Classic Lit Club Anthology\N{\i1}Hyouka{\i0} Vol. 46 Now on sale
+Dialogue: 0,0:21:02.28,0:21:03.65,Top Italics,,0000,0000,0000,,Goal: Sell out all 200 copies!
+Dialogue: 0,0:21:37.69,0:21:39.69,Top Italics,,0000,0000,0000,,A Capella Club
+Dialogue: 0,0:24:28.00,0:24:28.98,Top Italics,,0000,0000,0000,,Have a commemorative picture taken!\NPhotography Club
+Dialogue: 0,0:25:02.62,0:25:04.29,Top Italics,,0000,0000,0000,,Industrial Arts Club
+Dialogue: 0,0:25:45.33,0:25:53.33,Top Italics,,0000,0000,0000,,This situation is an unscientific\Nmontage of emotions
+Dialogue: 0,0:25:53.97,0:25:56.60,Top Italics,,0000,0000,0000,,Who is calling whom?
+Dialogue: 0,0:25:56.63,0:26:02.53,Top Italics,,0000,0000,0000,,Your gaze darts away when I turn around\N(I can feel it)
+Dialogue: 0,0:26:02.56,0:26:04.78,Top Italics,,0000,0000,0000,,It's unkind to tell me I'm imagining things
+Dialogue: 0,0:26:04.81,0:26:10.33,Top Italics,,0000,0000,0000,,They say having\Nantennas is a talent, right?
+Dialogue: 0,0:26:10.36,0:26:15.42,Top Italics,,0000,0000,0000,,I mean I want to know\N(I mean) (don't you?)
+Dialogue: 0,0:26:15.45,0:26:22.21,Top Italics,,0000,0000,0000,,I'll turn up the heat on your youth\Nfor you now, while there's time
+Dialogue: 0,0:26:22.24,0:26:26.89,Top Italics,,0000,0000,0000,,If we can solve this tomorrow,\Nwhy not solve it right now?
+Dialogue: 0,0:26:26.92,0:26:32.47,Top Italics,,0000,0000,0000,,I want to solve your mystery
+Dialogue: 0,0:26:32.50,0:26:37.19,Top Italics,,0000,0000,0000,,Track down that secretive boyish figure!
+Dialogue: 0,0:26:37.22,0:26:44.78,Top Italics,,0000,0000,0000,,(Today) you are a fantasy,\Ndrawing me to you, no fair!
+Dialogue: 0,0:26:44.81,0:26:50.37,Top Italics,,0000,0000,0000,,My curiosity is expanding,\Nlack of tricks notwithstanding
+Dialogue: 0,0:26:50.40,0:26:57.32,Top Italics,,0000,0000,0000,,I'm fascinated, and I have to know, why?
+Dialogue: 0,0:27:08.04,0:27:11.00,SignsT,,0000,0000,0000,,{\pos(499,77)}A Corpse By Evening

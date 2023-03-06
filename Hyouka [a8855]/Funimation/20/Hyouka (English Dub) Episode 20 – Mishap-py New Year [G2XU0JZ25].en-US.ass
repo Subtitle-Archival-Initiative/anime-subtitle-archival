@@ -1,0 +1,67 @@
+[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Top Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Flashback,Trebuchet MS,24,&H00EAD2D2,&H000000FF,&H00170502,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Signs,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,7,0020,0010,0020,1
+Style: SignsT,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,5,0000,0000,0000,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.17,0:00:06.17,Top Italics,,0000,0000,0000,,Caution... Fragile
+Dialogue: 0,0:01:08.31,0:01:14.91,Top Italics,,0000,0000,0000,,You hold your breath to make it through\Nthe bewildering day that confronts you
+Dialogue: 0,0:01:14.94,0:01:21.09,Top Italics,,0000,0000,0000,,You know what this is, don't you?\NWhat do you want to do?
+Dialogue: 0,0:01:21.12,0:01:27.68,Top Italics,,0000,0000,0000,,The pain from shrugging\Nit all off as nothing
+Dialogue: 0,0:01:27.71,0:01:33.60,Top Italics,,0000,0000,0000,,urges you on enough to be encouraging
+Dialogue: 0,0:01:33.63,0:01:40.15,Top Italics,,0000,0000,0000,,Catching hold but making a mess,\Nwe're still inadequate
+Dialogue: 0,0:01:40.18,0:01:48.18,Top Italics,,0000,0000,0000,,but as long as we can forge\Nour shining, unseen future selves...
+Dialogue: 0,0:01:50.02,0:01:56.62,Top Italics,,0000,0000,0000,,Awaken and run where it takes you,\Nleaving mirages behind
+Dialogue: 0,0:01:56.65,0:02:03.17,Top Italics,,0000,0000,0000,,Run with your desire to change,\Nfrom your comfort zone into freedom
+Dialogue: 0,0:02:03.20,0:02:10.60,Top Italics,,0000,0000,0000,,Start choosing between now\Nand the brilliance you can attain
+Dialogue: 0,0:02:10.63,0:02:18.63,Top Italics,,0000,0000,0000,,Unaware of your destination,\Ndeep breaths following shallow ones
+Dialogue: 0,0:02:25.68,0:02:30.35,SignsT,,0000,0000,0000,,{\pos(485,292)}Mishap-py New Year
+Dialogue: 0,0:03:17.19,0:03:18.69,Top Italics,,0000,0000,0000,,Arekusu Shrine
+Dialogue: 0,0:05:05.09,0:05:06.97,Top Italics,,0000,0000,0000,,Dark Clouds\N Odani Castle
+Dialogue: 0,0:05:07.64,0:05:09.10,Top Italics,,0000,0000,0000,,Oda Nobunaga
+Dialogue: 0,0:05:09.64,0:05:12.43,Top Italics,,0000,0000,0000,,Imagawa Yoshimoto     Mori Shinsuke
+Dialogue: 0,0:09:14.38,0:09:15.68,Top Italics,,0000,0000,0000,,Fortunes
+Dialogue: 0,0:09:30.84,0:09:32.36,Top Italics,,0000,0000,0000,,Fortune #10 Great Luck
+Dialogue: 0,0:09:57.55,0:10:00.05,Top Italics,,0000,0000,0000,,Fortune #16 Bad Luck
+Dialogue: 0,0:12:16.02,0:12:17.83,Signs,,0000,0000,0000,,{\pos(307,271)\i1}Touji {\i0}('Depth of Winter')\NWhen the sun reacheth its southmost\Nextreme, and the days are shortest
+Dialogue: 0,0:12:17.83,0:12:19.00,Signs,,0000,0000,0000,,{\pos(307,271)}Hyouka\NWhen the sun reacheth its southmost\Nextreme, and the days are shortest
+Dialogue: 0,0:12:19.03,0:12:20.28,Top Italics,,0000,0000,0000,,Caution... Fragile
+Dialogue: 0,0:17:10.46,0:17:12.80,Signs,,0000,0000,0000,,"Chi-chan and Oreki are already here.\NCome to the office and wait."
+Dialogue: 0,0:18:37.95,0:18:44.66,Top Italics,,0000,0000,0000,,"Change made"
+Dialogue: 0,0:20:09.70,0:20:11.92,Top Italics,,0000,0000,0000,,Bowls
+Dialogue: 0,0:24:18.33,0:24:26.33,Top Italics,,0000,0000,0000,,This situation is an unscientific\Nmontage of emotions
+Dialogue: 0,0:24:26.96,0:24:29.60,Top Italics,,0000,0000,0000,,Who is calling whom?
+Dialogue: 0,0:24:29.63,0:24:35.52,Top Italics,,0000,0000,0000,,Your gaze darts away when I turn around\N(I can feel it)
+Dialogue: 0,0:24:35.55,0:24:37.82,Top Italics,,0000,0000,0000,,It's unkind to tell me I'm imagining things
+Dialogue: 0,0:24:37.85,0:24:43.32,Top Italics,,0000,0000,0000,,They say having\Nantennas is a talent, right?
+Dialogue: 0,0:24:43.35,0:24:48.41,Top Italics,,0000,0000,0000,,I mean I want to know\N(I mean) (don't you?)
+Dialogue: 0,0:24:48.44,0:24:55.21,Top Italics,,0000,0000,0000,,I'll turn up the heat on your youth\Nfor you now, while there's time
+Dialogue: 0,0:24:55.24,0:24:59.88,Top Italics,,0000,0000,0000,,If we can solve this tomorrow,\Nwhy not solve it right now?
+Dialogue: 0,0:24:59.91,0:25:05.47,Top Italics,,0000,0000,0000,,I want to solve your mystery
+Dialogue: 0,0:25:05.50,0:25:10.18,Top Italics,,0000,0000,0000,,Track down that secretive boyish figure!
+Dialogue: 0,0:25:10.21,0:25:17.77,Top Italics,,0000,0000,0000,,(Today) you are a fantasy,\Ndrawing me to you, no fair!
+Dialogue: 0,0:25:17.80,0:25:23.32,Top Italics,,0000,0000,0000,,My curiosity is expanding,\Nlack of tricks notwithstanding
+Dialogue: 0,0:25:23.35,0:25:30.32,Top Italics,,0000,0000,0000,,I'm fascinated, and I have to know, why?
+Dialogue: 0,0:25:38.07,0:25:40.99,SignsT,,0000,0000,0000,,{\pos(320,204)}The Case of the Homemade Chocolates

@@ -1,0 +1,76 @@
+[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Top Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Flashback,Trebuchet MS,24,&H00EAD2D2,&H000000FF,&H00170502,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Signs,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,7,0020,0010,0020,1
+Style: SignsT,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,5,0000,0000,0000,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.96,0:00:13.36,Signs,,0000,0000,0000,,Radio broadcast: \NStrategy session\NTalk tough\N Emphasize 'everyone'
+Dialogue: 0,0:00:35.86,0:00:37.09,Top Italics,,0000,0000,0000,,Goal: Sell out all 200 copies!
+Dialogue: 0,0:00:37.09,0:00:41.56,Top Italics,,0000,0000,0000,,On Air
+Dialogue: 0,0:00:45.79,0:00:47.29,Top Italics,,0000,0000,0000,,Plug {\i0}Hyouka{\i1}!
+Dialogue: 0,0:02:25.27,0:02:31.87,Top Italics,,0000,0000,0000,,You hold your breath to make it through\Nthe bewildering day that confronts you
+Dialogue: 0,0:02:31.90,0:02:38.04,Top Italics,,0000,0000,0000,,You know what this is, don't you?\NWhat do you want to do?
+Dialogue: 0,0:02:38.07,0:02:44.63,Top Italics,,0000,0000,0000,,The pain from shrugging\Nit all off as nothing
+Dialogue: 0,0:02:44.66,0:02:50.55,Top Italics,,0000,0000,0000,,urges you on enough to be encouraging
+Dialogue: 0,0:02:50.58,0:02:57.10,Top Italics,,0000,0000,0000,,Catching hold but making a mess,\Nwe're still inadequate
+Dialogue: 0,0:02:57.13,0:03:05.13,Top Italics,,0000,0000,0000,,but as long as we can forge\Nour shining, unseen future selves...
+Dialogue: 0,0:03:06.97,0:03:13.58,Top Italics,,0000,0000,0000,,Awaken and run where it takes you,\Nleaving mirages behind
+Dialogue: 0,0:03:13.61,0:03:20.12,Top Italics,,0000,0000,0000,,Run with your desire to change,\Nfrom your comfort zone into freedom
+Dialogue: 0,0:03:20.15,0:03:27.55,Top Italics,,0000,0000,0000,,Start choosing between now\Nand the brilliance you can attain
+Dialogue: 0,0:03:27.58,0:03:35.58,Top Italics,,0000,0000,0000,,Unaware of your destination,\Ndeep breaths following shallow ones
+Dialogue: 0,0:03:41.84,0:03:46.55,SignsT,,0000,0000,0000,,{\pos(500,287)}The Kudryavka Sequence
+Dialogue: 0,0:03:42.61,0:03:44.16,Top Italics,,0000,0000,0000,,Classic Lit Club vs. Jumoji
+Dialogue: 0,0:05:22.57,0:05:26.93,Signs,,0000,0000,0000,,The Classic Lit Club has already lost\N its proofed manuscripts. \NThe ten letters have been fulfilled... Jumoji
+Dialogue: 0,0:05:48.74,0:05:50.01,Top Italics,,0000,0000,0000,,Classic Lit Club Beaten
+Dialogue: 0,0:07:43.52,0:07:45.02,Signs,,0000,0000,0000,,13:30~ Drama Club \N14:00~ Marching Band Club\N14:30~ Closing Ceremonies \N15:00~ Dismissal
+Dialogue: 0,0:09:03.48,0:09:05.27,Top Italics,,0000,0000,0000,,"lost"
+Dialogue: 0,0:10:43.18,0:10:45.64,Top Italics,,0000,0000,0000,,Getting Around at Kanyasai
+Dialogue: 0,0:11:07.43,0:11:11.06,Signs,,0000,0000,0000,,Kamiyama High School \NCulture Festival Guide: 'Getting Around at Kanyasai' \NEdited by the Executive Committee Chairman: \NTanabe Jiro
+Dialogue: 0,0:11:55.71,0:11:59.43,Top Italics,,0000,0000,0000,,"I just helped out with the backgrounds"
+Dialogue: 0,0:11:59.43,0:12:00.94,Top Italics,,0000,0000,0000,,"author"
+Dialogue: 0,0:12:00.94,0:12:02.69,Top Italics,,0000,0000,0000,,"artist"
+Dialogue: 0,0:12:02.70,0:12:07.41,Top Italics,,0000,0000,0000,,"The next story's title will be\N{\i0}The Kudryavka Sequence{\i1}."
+Dialogue: 0,0:13:21.02,0:13:23.06,Signs,,0000,0000,0000,,{\pos(307,271)\i1}Shuubun{\i0} ('Middle of Autumn') \NWhen light findeth equal measure \Nwith darkness.
+Dialogue: 0,0:13:23.06,0:13:24.02,Signs,,0000,0000,0000,,{\pos(307,271)}Hyouka \NWhen light findeth equal measure \Nwith darkness.
+Dialogue: 0,0:13:24.05,0:13:30.39,Top Italics,,0000,0000,0000,,The Cooking Club has\Nalready lost its ladle. Jumonji
+Dialogue: 0,0:14:13.18,0:14:18.29,Top Italics,,0000,0000,0000,,"Executive" "09.25" "Committee"
+Dialogue: 0,0:14:18.29,0:14:24.17,Top Italics,,0000,0000,0000,,Mail order
+Dialogue: 0,0:18:21.70,0:18:24.07,Top Italics,,0000,0000,0000,,54th Kamiyama High\NSchool Culture Festival
+Dialogue: 0,0:18:24.08,0:18:26.54,Top Italics,,0000,0000,0000,,Closing Ceremony
+Dialogue: 0,0:27:01.07,0:27:04.08,Top Italics,,0000,0000,0000,,Sold out
+Dialogue: 0,0:27:18.38,0:27:26.38,Top Italics,,0000,0000,0000,,This situation is an unscientific\Nmontage of emotions
+Dialogue: 0,0:27:26.98,0:27:29.66,Top Italics,,0000,0000,0000,,Who is calling whom?
+Dialogue: 0,0:27:29.69,0:27:35.58,Top Italics,,0000,0000,0000,,Your gaze darts away when I turn around\N(I can feel it)
+Dialogue: 0,0:27:35.61,0:27:37.87,Top Italics,,0000,0000,0000,,It's unkind to tell me I'm imagining things
+Dialogue: 0,0:27:37.90,0:27:43.38,Top Italics,,0000,0000,0000,,They say having\Nantennas is a talent, right?
+Dialogue: 0,0:27:43.41,0:27:48.47,Top Italics,,0000,0000,0000,,I mean I want to know\N(I mean) (don't you?)
+Dialogue: 0,0:27:48.50,0:27:55.27,Top Italics,,0000,0000,0000,,I'll turn up the heat on your youth\Nfor you now, while there's time
+Dialogue: 0,0:27:55.30,0:27:59.94,Top Italics,,0000,0000,0000,,If we can solve this tomorrow,\Nwhy not solve it right now?
+Dialogue: 0,0:27:59.97,0:28:05.53,Top Italics,,0000,0000,0000,,I want to solve your mystery
+Dialogue: 0,0:28:05.56,0:28:10.20,Top Italics,,0000,0000,0000,,Track down that secretive boyish figure!
+Dialogue: 0,0:28:10.23,0:28:17.83,Top Italics,,0000,0000,0000,,(Today) you are a fantasy,\Ndrawing me to you, no fair!
+Dialogue: 0,0:28:17.86,0:28:23.42,Top Italics,,0000,0000,0000,,My curiosity is expanding,\Nlack of tricks notwithstanding
+Dialogue: 0,0:28:23.45,0:28:30.37,Top Italics,,0000,0000,0000,,I'm fascinated, and I have to know, why?
+Dialogue: 0,0:28:37.96,0:28:41.07,SignsT,,0000,0000,0000,,{\pos(320,204)}Is the Mountain Range Clear?

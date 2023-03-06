@@ -1,0 +1,64 @@
+[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Top Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Flashback,Trebuchet MS,24,&H00EAD2D2,&H000000FF,&H00170502,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Signs,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,7,0020,0010,0020,1
+Style: SignsT,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,5,0000,0000,0000,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:20.24,0:01:26.84,Top Italics,,0000,0000,0000,,You hold your breath to make it through\Nthe bewildering day that confronts you
+Dialogue: 0,0:01:26.87,0:01:33.02,Top Italics,,0000,0000,0000,,You know what this is, don't you?\NWhat do you want to do?
+Dialogue: 0,0:01:33.05,0:01:39.61,Top Italics,,0000,0000,0000,,The pain from shrugging\Nit all off as nothing
+Dialogue: 0,0:01:39.64,0:01:45.49,Top Italics,,0000,0000,0000,,urges you on enough to be encouraging
+Dialogue: 0,0:01:45.52,0:01:52.08,Top Italics,,0000,0000,0000,,Catching hold but making a mess,\Nwe're still inadequate
+Dialogue: 0,0:01:52.11,0:02:00.11,Top Italics,,0000,0000,0000,,but as long as we can forge\Nour shining, unseen future selves...
+Dialogue: 0,0:02:01.95,0:02:08.55,Top Italics,,0000,0000,0000,,Awaken and run where it takes you,\Nleaving mirages behind
+Dialogue: 0,0:02:08.58,0:02:15.10,Top Italics,,0000,0000,0000,,Run with your desire to change,\Nfrom your comfort zone into freedom
+Dialogue: 0,0:02:15.13,0:02:22.52,Top Italics,,0000,0000,0000,,Start choosing between now\Nand the brilliance you can attain
+Dialogue: 0,0:02:22.55,0:02:30.55,Top Italics,,0000,0000,0000,,Unaware of your destination,\Ndeep breaths following shallow ones
+Dialogue: 0,0:02:37.61,0:02:42.20,SignsT,,0000,0000,0000,,{\pos(166.857,289.714)}Is the Mountain Range Clear?
+Dialogue: 0,0:07:05.13,0:07:08.92,Top Italics,,0000,0000,0000,,Truth    Falsehood
+Dialogue: 0,0:10:25.02,0:10:26.75,Signs,,0000,0000,0000,,{\pos(307,271)\i1}Kanro {\i0}('Cold Dews')\N When the dews stiffen as they form\N in keeping with the gray cold
+Dialogue: 0,0:10:26.75,0:10:28.02,Signs,,0000,0000,0000,,{\pos(307,271)}Hyouka \NWhen the dews stiffen as they form \Nin keeping with the gray cold
+Dialogue: 0,0:11:11.37,0:11:13.88,Top Italics,,0000,0000,0000,,Kamiyama City Library
+Dialogue: 0,0:11:32.62,0:11:37.38,Top Italics,,0000,0000,0000,,"Mountain trail beautification efforts\Nin the Kamikakiuchi Range"
+Dialogue: 0,0:13:26.74,0:13:30.76,Top Italics,,0000,0000,0000,,"Search for stranded party in\NKamikakiuchi Range faces difficulty"
+Dialogue: 0,0:14:51.28,0:14:52.43,Top Italics,,0000,0000,0000,,Exciting Vegetable School
+Dialogue: 0,0:15:23.08,0:15:25.71,Top Italics,,0000,0000,0000,,Dung Beetles
+Dialogue: 0,0:15:41.64,0:15:43.65,Top Italics,,0000,0000,0000,,Castles
+Dialogue: 0,0:16:52.82,0:16:56.68,Top Italics,,0000,0000,0000,,"Two members of Kamiyama\NMountaineering Association stranded"
+Dialogue: 0,0:19:09.75,0:19:12.27,Top Italics,,0000,0000,0000,,"...weather deteriorating..."
+Dialogue: 0,0:24:15.33,0:24:23.33,Top Italics,,0000,0000,0000,,This situation is an unscientific\Nmontage of emotions
+Dialogue: 0,0:24:23.96,0:24:26.60,Top Italics,,0000,0000,0000,,Who is calling whom?
+Dialogue: 0,0:24:26.63,0:24:32.52,Top Italics,,0000,0000,0000,,Your gaze darts away when I turn around\N(I can feel it)
+Dialogue: 0,0:24:32.55,0:24:34.81,Top Italics,,0000,0000,0000,,It's unkind to tell me I'm imagining things
+Dialogue: 0,0:24:34.84,0:24:40.32,Top Italics,,0000,0000,0000,,They say having\Nantennas is a talent, right?
+Dialogue: 0,0:24:40.35,0:24:45.41,Top Italics,,0000,0000,0000,,I mean I want to know\N(I mean) (don't you?)
+Dialogue: 0,0:24:45.44,0:24:52.21,Top Italics,,0000,0000,0000,,I'll turn up the heat on your youth\Nfor you now, while there's time
+Dialogue: 0,0:24:52.24,0:24:56.88,Top Italics,,0000,0000,0000,,If we can solve this tomorrow,\Nwhy not solve it right now?
+Dialogue: 0,0:24:56.91,0:25:02.47,Top Italics,,0000,0000,0000,,I want to solve your mystery
+Dialogue: 0,0:25:02.50,0:25:07.18,Top Italics,,0000,0000,0000,,Track down that secretive boyish figure!
+Dialogue: 0,0:25:07.21,0:25:14.77,Top Italics,,0000,0000,0000,,(Today) you are a fantasy,\Ndrawing me to you, no fair!
+Dialogue: 0,0:25:14.80,0:25:20.36,Top Italics,,0000,0000,0000,,My curiosity is expanding,\Nlack of tricks notwithstanding
+Dialogue: 0,0:25:20.39,0:25:27.31,Top Italics,,0000,0000,0000,,I'm fascinated, and I have to know, why?
+Dialogue: 0,0:25:37.53,0:25:41.01,SignsT,,0000,0000,0000,,{\pos(320,205)}Does Anyone Have Any Idea?

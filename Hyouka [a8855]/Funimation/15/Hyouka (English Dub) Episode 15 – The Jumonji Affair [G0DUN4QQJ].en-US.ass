@@ -1,0 +1,78 @@
+[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Top Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Flashback,Trebuchet MS,24,&H00EAD2D2,&H000000FF,&H00170502,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: Signs,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,7,0020,0010,0020,1
+Style: SignsT,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00120301,&H00000000,0,0,0,0,100,100,0,0,1,2,1,5,0000,0000,0000,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:53.49,0:00:59.51,Top Italics,,0000,0000,0000,,The Cooking Club has\Nalready lost its ladle. Jumonji
+Dialogue: 0,0:01:17.24,0:01:23.84,Top Italics,,0000,0000,0000,,You hold your breath to make it through\Nthe bewildering day that confronts you
+Dialogue: 0,0:01:23.87,0:01:30.01,Top Italics,,0000,0000,0000,,You know what this is, don't you?\NWhat do you want to do?
+Dialogue: 0,0:01:30.04,0:01:36.60,Top Italics,,0000,0000,0000,,The pain from shrugging\Nit all off as nothing
+Dialogue: 0,0:01:36.63,0:01:42.53,Top Italics,,0000,0000,0000,,urges you on enough to be encouraging
+Dialogue: 0,0:01:42.56,0:01:49.07,Top Italics,,0000,0000,0000,,Catching hold but making a mess,\Nwe're still inadequate
+Dialogue: 0,0:01:49.10,0:01:57.10,Top Italics,,0000,0000,0000,,but as long as we can forge\Nour shining, unseen future selves...
+Dialogue: 0,0:01:58.95,0:02:05.55,Top Italics,,0000,0000,0000,,Awaken and run where it takes you,\Nleaving mirages behind
+Dialogue: 0,0:02:05.58,0:02:12.10,Top Italics,,0000,0000,0000,,Run with your desire to change,\Nfrom your comfort zone into freedom
+Dialogue: 0,0:02:12.13,0:02:19.52,Top Italics,,0000,0000,0000,,Start choosing between now\Nand the brilliance you can attain
+Dialogue: 0,0:02:19.55,0:02:27.55,Top Italics,,0000,0000,0000,,Unaware of your destination,\Ndeep breaths following shallow ones
+Dialogue: 0,0:02:34.94,0:02:38.53,SignsT,,0000,0000,0000,,{\pos(523,282)}The Jumonji Affair
+Dialogue: 0,0:05:49.34,0:05:50.19,Top Italics,,0000,0000,0000,,"'A' Capella Club"
+Dialogue: 0,0:05:50.22,0:05:50.86,Top Italics,,0000,0000,0000,,"'I'-go Club"
+Dialogue: 0,0:05:50.89,0:05:52.94,Top Italics,,0000,0000,0000,,"'U'-ranai Club"
+Dialogue: 0,0:05:52.97,0:05:54.53,Top Italics,,0000,0000,0000,,"'O'-ryori Club"
+Dialogue: 0,0:05:54.56,0:05:56.98,Top Italics,,0000,0000,0000,,"'E'"
+Dialogue: 0,0:06:32.83,0:06:38.60,Signs,,0000,0000,0000,,A Capella Club → (drink)\N {\i1}Igo{\i0} Club → (Go stones) \N{\i1}Uranai{\i0} Club → ({\i1}Unmei no Hi{\i0}) \N{\i1}Engei{\i0} Club → (water pistol)\N {\i1}Oryori{\i0} Club → ({\i1}otama{\i0})
+Dialogue: 0,0:08:03.77,0:08:05.52,Top Italics,,0000,0000,0000,,Biology Prep Room
+Dialogue: 0,0:12:23.03,0:12:24.82,Signs,,0000,0000,0000,,{\pos(307,271)\i1}Shuubun{\i0} ('Middle of Autumn') \NWhen light findeth equal measure\N with darkness.
+Dialogue: 0,0:12:24.82,0:12:26.01,Signs,,0000,0000,0000,,{\pos(307,271)}Hyouka \NWhen light findeth equal measure \Nwith darkness.
+Dialogue: 0,0:12:26.03,0:12:29.26,Signs,,0000,0000,0000,,Program \N5. 'Close-up Card Magic' \N1st-years Takamura Yoichi / Nagai Kaori
+Dialogue: 0,0:12:29.29,0:12:30.54,Top Italics,,0000,0000,0000,,5th Performance: 14:30
+Dialogue: 0,0:13:25.59,0:13:27.59,Top Italics,,0000,0000,0000,,Earth Science Prep Room
+Dialogue: 0,0:15:35.37,0:15:36.93,Top Italics,,0000,0000,0000,,Magic Club
+Dialogue: 0,0:17:43.98,0:17:46.56,Top Italics,,0000,0000,0000,,Welcome to the Manga Club!
+Dialogue: 0,0:21:37.75,0:21:40.17,Top Italics,,0000,0000,0000,,Secret Exploits of the\NPhantom Thief Jumoji
+Dialogue: 0,0:21:42.17,0:21:44.73,Top Italics,,0000,0000,0000,,"Moreover, ah, the nerve of this rascal! He even went so\Nfar as to take a cutter knife from the Wall Newspaper Club."
+Dialogue: 0,0:21:44.76,0:21:48.90,Top Italics,,0000,0000,0000,,"This is a clear and unambiguous challenge to the news\Nmedia. A way must be found to stop Jumoji's thievery..."
+Dialogue: 0,0:21:48.93,0:21:49.90,Top Italics,,0000,0000,0000,,"This is all the information \Nwe have at present."
+Dialogue: 0,0:21:49.90,0:21:51.36,Top Italics,,0000,0000,0000,,As such, gentle reader, it can be supposed \Nthat Jumoji's final misdeed will take place"
+Dialogue: 0,0:21:51.39,0:21:53.41,Top Italics,,0000,0000,0000,,"on the third day between noon and 2:00, with either\Nthe 'Classic Lit Club' or the 'Industrial Arts Club.'"
+Dialogue: 0,0:21:53.41,0:21:54.66,Top Italics,,0000,0000,0000,,"Classic Lit Club"
+Dialogue: 0,0:23:48.76,0:23:51.26,Top Italics,,0000,0000,0000,,Remaining: 137
+Dialogue: 0,0:25:21.98,0:25:24.74,Top Italics,,0000,0000,0000,,Welcome to the Kanyasai Homepage
+Dialogue: 0,0:25:24.77,0:25:26.77,Top Italics,,0000,0000,0000,,Mail order
+Dialogue: 0,0:25:48.34,0:25:56.34,Top Italics,,0000,0000,0000,,This situation is an unscientific\Nmontage of emotions
+Dialogue: 0,0:25:56.97,0:25:59.61,Top Italics,,0000,0000,0000,,Who is calling whom?
+Dialogue: 0,0:25:59.64,0:26:05.49,Top Italics,,0000,0000,0000,,Your gaze darts away when I turn around\N(I can feel it)
+Dialogue: 0,0:26:05.52,0:26:07.82,Top Italics,,0000,0000,0000,,It's unkind to tell me I'm imagining things
+Dialogue: 0,0:26:07.85,0:26:13.33,Top Italics,,0000,0000,0000,,They say having\Nantennas is a talent, right?
+Dialogue: 0,0:26:13.36,0:26:18.42,Top Italics,,0000,0000,0000,,I mean I want to know\N(I mean) (don't you?)
+Dialogue: 0,0:26:18.45,0:26:25.22,Top Italics,,0000,0000,0000,,I'll turn up the heat on your youth\Nfor you now, while there's time
+Dialogue: 0,0:26:25.25,0:26:29.89,Top Italics,,0000,0000,0000,,If we can solve this tomorrow,\Nwhy not solve it right now?
+Dialogue: 0,0:26:29.92,0:26:35.48,Top Italics,,0000,0000,0000,,I want to solve your mystery
+Dialogue: 0,0:26:35.51,0:26:40.19,Top Italics,,0000,0000,0000,,Track down that secretive boyish figure!
+Dialogue: 0,0:26:40.22,0:26:47.78,Top Italics,,0000,0000,0000,,(Today) you are a fantasy,\Ndrawing me to you, no fair!
+Dialogue: 0,0:26:47.81,0:26:53.37,Top Italics,,0000,0000,0000,,My curiosity is expanding,\Nlack of tricks notwithstanding
+Dialogue: 0,0:26:53.40,0:27:00.32,Top Italics,,0000,0000,0000,,I'm fascinated, and I have to know, why?
+Dialogue: 0,0:27:08.16,0:27:11.00,SignsT,,0000,0000,0000,,{\pos(114,267)}The Final Target
