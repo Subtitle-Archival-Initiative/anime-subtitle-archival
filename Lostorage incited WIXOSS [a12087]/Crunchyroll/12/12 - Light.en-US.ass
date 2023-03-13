@@ -1,0 +1,327 @@
+[Script Info]
+Title: English (US)
+Original Script: WarnerJapan  [http://www.crunchyroll.com/user/WarnerJapan]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - flashback,Trebuchet MS,24,&H00F4ECEC,&H000000FF,&H00502300,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0010,0
+Style: Title,Verdana,28,&H00170E06,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0050,0040,0030,0
+Style: Title2,Verdana,24,&H00FFFFFF,&H000000FF,&H001D1911,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,0
+Style: sign_31785_267_6Months,Times New ROman,20,&H00170E06,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0334,0010,0080,0
+Style: sign_33115_277_Want_to,Trebuchet MS,20,&H009F9C98,&H000000FF,&H00FAFAFA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0088,0200,0020,0
+Style: sign_33115_285_When_,Trebuchet MS,20,&H009F9C98,&H000000FF,&H0069BFF7,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0420,0080,0020,0
+Style: sign_33901_292_Light,Verdana,26,&H00170E06,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0148,0030,0030,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.17,0:00:06.94,Default,Gi,0000,0000,0000,,This room is yours.
+Dialogue: 0,0:00:09.86,0:00:14.10,Default,Gi,0000,0000,0000,,These coins are the \Nmemories of the Selectors?
+Dialogue: 0,0:00:15.78,0:00:18.41,Default,Gi,0000,0000,0000,,You are the new law.
+Dialogue: 0,0:00:18.79,0:00:22.00,Default,Gi,0000,0000,0000,,Show us your battle.
+Dialogue: 0,0:01:52.70,0:01:53.88,Default,Gi,0000,0000,0000,,Your battle.
+Dialogue: 0,0:01:54.27,0:01:55.47,Default,Gi,0000,0000,0000,,Your battle.
+Dialogue: 0,0:01:56.03,0:01:58.23,Default,Gi,0000,0000,0000,,Begin. Quickly.
+Dialogue: 0,0:01:58.23,0:02:00.72,Default,K,0000,0000,0000,,There will be no more battles.
+Dialogue: 0,0:02:01.25,0:02:05.06,Default,K,0000,0000,0000,,I'll release all the memories \Nand return them to their owners.
+Dialogue: 0,0:02:05.54,0:02:09.02,Default,K,0000,0000,0000,,I've come here to end the Selector battles.
+Dialogue: 0,0:02:11.73,0:02:13.74,Default,Gi,0000,0000,0000,,End the battles?
+Dialogue: 0,0:02:14.26,0:02:16.48,Default,Gi,0000,0000,0000,,This is a place of beginnings.
+Dialogue: 0,0:02:16.48,0:02:19.54,Default,Gi,0000,0000,0000,,An ending cannot be allowed.
+Dialogue: 0,0:02:20.89,0:02:22.38,Default,Gi,0000,0000,0000,,We won't let it end.
+Dialogue: 0,0:02:22.38,0:02:23.41,Default,Gi,0000,0000,0000,,We won't allow it.
+Dialogue: 0,0:02:40.28,0:02:43.80,Default - italics,Gi,0000,0000,0000,,My heart is being taken over by darkness...
+Dialogue: 0,0:02:46.65,0:02:48.63,Default,Gi,0000,0000,0000,,Battle...
+Dialogue: 0,0:02:50.60,0:02:54.54,Default,Gi,0000,0000,0000,,Everyone...  should just disappear...
+Dialogue: 0,0:02:59.59,0:03:00.20,Default,Gi,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:03:08.92,0:03:12.08,Default,K,0000,0000,0000,,You want a battle, don't you?
+Dialogue: 0,0:03:15.35,0:03:19.13,Default,K,0000,0000,0000,,Then I'll defeat you and create a new law!
+Dialogue: 0,0:03:25.84,0:03:26.81,Default,K,0000,0000,0000,,Open!
+Dialogue: 0,0:03:53.53,0:03:54.21,Default,Gi,0000,0000,0000,,Grow.
+Dialogue: 0,0:04:02.36,0:04:03.55,Default,Gi,0000,0000,0000,,Attack.
+Dialogue: 0,0:04:10.35,0:04:11.66,Default,Gi,0000,0000,0000,,Defend.
+Dialogue: 0,0:04:14.90,0:04:15.65,Default,Gi,0000,0000,0000,,Attack.
+Dialogue: 0,0:04:18.06,0:04:19.08,Default,,0000,0000,0000,,Attack.
+Dialogue: 0,0:04:20.34,0:04:21.53,Default,,0000,0000,0000,,Attack.
+Dialogue: 0,0:04:21.53,0:04:23.20,Default,Gi,0000,0000,0000,,Attack.
+Dialogue: 0,0:04:28.18,0:04:30.45,Default,K,0000,0000,0000,,This isn't a WIXOSS battle!
+Dialogue: 0,0:04:31.43,0:04:33.50,Default,Gi,0000,0000,0000,,This is my battle.
+Dialogue: 0,0:04:42.81,0:04:43.95,Default,K,0000,0000,0000,,Piruluk!
+Dialogue: 0,0:04:43.95,0:04:45.13,Default,Gi,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:04:50.76,0:04:52.14,Default,Gi,0000,0000,0000,,Burning!
+Dialogue: 0,0:04:53.95,0:04:55.67,Default,Gi,0000,0000,0000,,I'll take the clones.
+Dialogue: 0,0:04:55.67,0:04:56.81,Default,Gi,0000,0000,0000,,Yuzuki!
+Dialogue: 0,0:04:57.84,0:04:59.36,Default,Gi,0000,0000,0000,,Escape!
+Dialogue: 0,0:05:02.31,0:05:03.78,Default,Gi,0000,0000,0000,,Concentrate!
+Dialogue: 0,0:05:10.02,0:05:11.86,Default,Gi,0000,0000,0000,,Yuki, where are you?
+Dialogue: 0,0:05:11.86,0:05:13.75,Default,Gi,0000,0000,0000,,Right here, Tama.
+Dialogue: 0,0:05:14.92,0:05:18.02,Default,Gi,0000,0000,0000,,Yuki! Just hang in there. I'll save you.
+Dialogue: 0,0:05:18.02,0:05:21.84,Default,Gi,0000,0000,0000,,Tama, think back. Remember \Nthe last time you came here.
+Dialogue: 0,0:05:24.12,0:05:27.70,Default,Gi,0000,0000,0000,,The truth is, we aren't prisoners at all.
+Dialogue: 0,0:05:28.64,0:05:30.74,Default,Gi,0000,0000,0000,,What we need in order to escape is...
+Dialogue: 0,0:05:37.26,0:05:38.70,Default,Gi,0000,0000,0000,,...to choose!
+Dialogue: 0,0:05:49.25,0:05:50.74,Default,Gi,0000,0000,0000,,I got out!
+Dialogue: 0,0:05:51.32,0:05:53.84,Default,Gi,0000,0000,0000,,I felt it inside the door.
+Dialogue: 0,0:05:53.84,0:05:56.60,Default,Gi,0000,0000,0000,,The last heart that Mayu left behind...
+Dialogue: 0,0:05:56.60,0:05:57.46,Default,Gi,0000,0000,0000,,Mayu?
+Dialogue: 0,0:05:58.11,0:06:00.71,Default,Gi,0000,0000,0000,,This isn't the real door.
+Dialogue: 0,0:06:00.71,0:06:03.92,Default,Gi,0000,0000,0000,,An LRIG becomes the key and opens the door.
+Dialogue: 0,0:06:03.92,0:06:05.46,Default,Gi,0000,0000,0000,,No, that's not right.
+Dialogue: 0,0:06:06.46,0:06:09.84,Default,Gi,0000,0000,0000,,That just opens a series of endlessly \Nopening doors with no exit.
+Dialogue: 0,0:06:10.24,0:06:13.15,Default,Gi,0000,0000,0000,,Where is the real door?
+Dialogue: 0,0:06:13.15,0:06:14.25,Default,Gi,0000,0000,0000,,Nowhere.
+Dialogue: 0,0:06:14.75,0:06:15.75,Default,Gi,0000,0000,0000,,Not right now.
+Dialogue: 0,0:06:19.69,0:06:21.64,Default,Gi,0000,0000,0000,,This is the room of white windows.
+Dialogue: 0,0:06:23.28,0:06:27.19,Default,Gi,0000,0000,0000,,All that's here is the \Nscenery beyond the window
+Dialogue: 0,0:06:27.19,0:06:29.34,Default,,0000,0000,0000,,that you can't reach.
+Dialogue: 0,0:06:36.40,0:06:40.34,Default,R,0000,0000,0000,,Mayu was all alone here...
+Dialogue: 0,0:06:54.40,0:06:55.18,Default,Gi,0000,0000,0000,,Why?
+Dialogue: 0,0:06:56.33,0:06:58.23,Default,Gi,0000,0000,0000,,Why would you end it?
+Dialogue: 0,0:06:58.23,0:07:00.94,Default,Gi,0000,0000,0000,,What waits for you when it's over?
+Dialogue: 0,0:07:01.23,0:07:05.79,Default,K,0000,0000,0000,,Everyone gets their memories back and \Nreturns to their old lives. That's all.
+Dialogue: 0,0:07:05.79,0:07:08.17,Default,Gi,0000,0000,0000,,Why do you seek memories?
+Dialogue: 0,0:07:08.17,0:07:10.80,Default,Gi,0000,0000,0000,,Memories make people suffer.
+Dialogue: 0,0:07:10.80,0:07:12.15,Default,Gi,0000,0000,0000,,You're no different.
+Dialogue: 0,0:07:12.68,0:07:14.45,Default,K,0000,0000,0000,,That's because of who I am.
+Dialogue: 0,0:07:14.80,0:07:18.89,Default,K,0000,0000,0000,,Painful memories, stressful memories,\Nfilthy memories...
+Dialogue: 0,0:07:18.89,0:07:20.91,Default,K,0000,0000,0000,,I'm made up of all of them.
+Dialogue: 0,0:07:21.66,0:07:23.76,Default,K,0000,0000,0000,,I'm going to take back myself.
+Dialogue: 0,0:07:23.76,0:07:26.80,Default,K,0000,0000,0000,,That is my choice!
+Dialogue: 0,0:07:34.27,0:07:35.39,Default,C,0000,0000,0000,,Suzu...
+Dialogue: 0,0:07:36.12,0:07:38.43,Default,S,0000,0000,0000,,Chi-chan, I'm sorry.
+Dialogue: 0,0:07:40.08,0:07:42.06,Default,S,0000,0000,0000,,I broke our promise.
+Dialogue: 0,0:07:43.06,0:07:47.61,Default,S,0000,0000,0000,,I entrusted your memories, \Nand everyone else's, to Kiyoi-chan.
+Dialogue: 0,0:07:48.59,0:07:52.24,Default,S,0000,0000,0000,,Because I believed that she \Nwould be able to get them back.
+Dialogue: 0,0:07:52.56,0:07:54.98,Default,S,0000,0000,0000,,I want to be with you, Chi-chan.
+Dialogue: 0,0:07:55.63,0:07:58.70,Default,S,0000,0000,0000,,I want to be the closest person to you \Nwhen your memories come back.
+Dialogue: 0,0:07:59.56,0:08:03.50,Default,S,0000,0000,0000,,No matter what happens, I want to \Naccept them, together with you.
+Dialogue: 0,0:08:07.02,0:08:09.26,Default,C,0000,0000,0000,,Yeah... Thanks.
+Dialogue: 0,0:08:10.22,0:08:12.72,Default,S,0000,0000,0000,,So, while we're waiting for \Nyour memories to come back,
+Dialogue: 0,0:08:13.10,0:08:15.41,Default,S,0000,0000,0000,,I thought we could eat some cookies.
+Dialogue: 0,0:08:15.41,0:08:17.20,Default,S,0000,0000,0000,,I'm pretty confident about these!
+Dialogue: 0,0:08:24.27,0:08:25.65,Default,C,0000,0000,0000,,They're good.
+Dialogue: 0,0:08:30.40,0:08:31.67,Default - italics,C,0000,0000,0000,,Kiyoi-chan...
+Dialogue: 0,0:08:33.56,0:08:34.74,Default,Gi,0000,0000,0000,,Attack.
+Dialogue: 0,0:08:44.58,0:08:47.88,Default,Gi,0000,0000,0000,,The battles will continue... forever.
+Dialogue: 0,0:08:47.88,0:08:49.50,Default,K,0000,0000,0000,,I'll end them here!
+Dialogue: 0,0:08:59.98,0:09:01.34,Default,,0000,0000,0000,,I won't...
+Dialogue: 0,0:09:02.53,0:09:04.43,Default,Gi,0000,0000,0000,,let the battles end!
+Dialogue: 0,0:09:10.40,0:09:11.55,Default,K,0000,0000,0000,,Everyone!
+Dialogue: 0,0:09:12.57,0:09:14.49,Default,Gi,0000,0000,0000,,Out of the way, wimps!
+Dialogue: 0,0:09:23.07,0:09:25.25,Default,Gi,0000,0000,0000,,This power is great...
+Dialogue: 0,0:09:25.25,0:09:27.96,Default,Gi,0000,0000,0000,,Sure, I can go crazier! {\i1}Much{\i0} crazier!
+Dialogue: 0,0:09:30.31,0:09:32.42,Default,Gi,0000,0000,0000,,Kiyoi-chan, where are you?
+Dialogue: 0,0:09:32.42,0:09:33.97,Default,Gi,0000,0000,0000,,Play with me!
+Dialogue: 0,0:09:33.97,0:09:36.10,Default,Gi,0000,0000,0000,,Forever and ever!
+Dialogue: 0,0:09:35.21,0:09:36.10,Default,Gi,0000,0000,0000,,Tentacle!
+Dialogue: 0,0:09:36.10,0:09:36.77,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:38.44,0:09:39.60,Default,Gi,0000,0000,0000,,We won't let you go.
+Dialogue: 0,0:09:39.60,0:09:41.60,Default,Gi,0000,0000,0000,,You're fighting {\i1}us{\i0}.
+Dialogue: 0,0:09:41.91,0:09:43.62,Default,Gi,0000,0000,0000,,Um...
+Dialogue: 0,0:09:43.62,0:09:45.70,Default,Gi,0000,0000,0000,,What do we do?
+Dialogue: 0,0:09:45.70,0:09:47.50,Default,Gi,0000,0000,0000,,Stop freaking out!
+Dialogue: 0,0:09:50.40,0:09:51.40,Default,Gi,0000,0000,0000,,Blind.
+Dialogue: 0,0:09:59.29,0:10:00.70,Default,Gi,0000,0000,0000,,Burning!
+Dialogue: 0,0:10:03.76,0:10:06.29,Default,Gi,0000,0000,0000,,If you would destroy the law,
+Dialogue: 0,0:10:06.29,0:10:08.50,Default,Gi,0000,0000,0000,,you must bend it to your will by force.
+Dialogue: 0,0:10:09.06,0:10:11.07,Default,Gi,0000,0000,0000,,You can't destroy it.
+Dialogue: 0,0:10:12.63,0:10:15.34,Default,Gi,0000,0000,0000,,I will release everything.
+Dialogue: 0,0:10:15.67,0:10:17.30,Default,Gi,0000,0000,0000,,For my friends...
+Dialogue: 0,0:10:18.06,0:10:19.73,Default,Gi,0000,0000,0000,,And for you!
+Dialogue: 0,0:10:24.63,0:10:26.56,Default,Gi,0000,0000,0000,,Release everything...
+Dialogue: 0,0:10:27.80,0:10:31.21,Default,Gi,0000,0000,0000,,Brother... will come back?
+Dialogue: 0,0:10:32.30,0:10:34.71,Default,Gi,0000,0000,0000,,Then Sumida-san will also...
+Dialogue: 0,0:10:37.20,0:10:38.82,Default,Gi,0000,0000,0000,,Change of plans...
+Dialogue: 0,0:10:39.37,0:10:41.15,Default,Gi,0000,0000,0000,,We're changing our target!
+Dialogue: 0,0:10:41.15,0:10:42.28,Default,,0000,0000,0000,,O-Okay!
+Dialogue: 0,0:10:48.90,0:10:50.39,Default,Gi,0000,0000,0000,,I betrayed ya!
+Dialogue: 0,0:10:50.39,0:10:51.96,Default,Gi,0000,0000,0000,,I-I'm sorry!
+Dialogue: 0,0:10:54.59,0:10:56.50,Default,Gi,0000,0000,0000,,Riru, are you okay?
+Dialogue: 0,0:10:56.50,0:10:57.17,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:57.48,0:10:59.55,Default,Gi,0000,0000,0000,,Come get me!
+Dialogue: 0,0:11:03.92,0:11:06.26,Default,Gi,0000,0000,0000,,Look at how desperate she is...
+Dialogue: 0,0:11:07.24,0:11:10.92,Default,Gi,0000,0000,0000,,Humans are such strange creatures.
+Dialogue: 0,0:11:12.15,0:11:14.32,Default,Gi,0000,0000,0000,,It hurts, run-run!
+Dialogue: 0,0:11:17.00,0:11:18.31,Default,Gi,0000,0000,0000,,Thank you-run!
+Dialogue: 0,0:11:18.31,0:11:19.74,Default,Gi,0000,0000,0000,,You're welcome.
+Dialogue: 0,0:11:20.31,0:11:21.94,Default,Gi,0000,0000,0000,,Fractal Cage!
+Dialogue: 0,0:11:32.51,0:11:34.58,Default,Gi,0000,0000,0000,,You can't do it.
+Dialogue: 0,0:11:43.01,0:11:45.22,Default,R,0000,0000,0000,,It hasn't changed since the last time I came.
+Dialogue: 0,0:11:45.86,0:11:50.12,Default,H,0000,0000,0000,,Confirmation. This is the room \Nof the beginning, correct?
+Dialogue: 0,0:11:50.54,0:11:51.59,Default,R,0000,0000,0000,,I think so.
+Dialogue: 0,0:11:51.59,0:11:55.72,Default,R,0000,0000,0000,,This is where the Selector \Nbattles were born, I think.
+Dialogue: 0,0:11:55.72,0:11:59.48,Default,R,0000,0000,0000,,Yuki said the real door was in here.
+Dialogue: 0,0:11:59.48,0:12:00.71,Default,H,0000,0000,0000,,Inexplicable.
+Dialogue: 0,0:12:00.71,0:12:04.64,Default,H,0000,0000,0000,,The only door I see is the one \Nthat connects to the hallway.
+Dialogue: 0,0:12:05.83,0:12:07.54,Default,R,0000,0000,0000,,The room of the beginning...
+Dialogue: 0,0:12:08.58,0:12:10.66,Default,R,0000,0000,0000,,The real door...
+Dialogue: 0,0:12:11.12,0:12:13.00,Default,Gi,0000,0000,0000,,Do you remember, Tama?
+Dialogue: 0,0:12:13.00,0:12:16.63,Default,Gi,0000,0000,0000,,The last message Mayu gave \Nus before she disappeared.
+Dialogue: 0,0:12:17.17,0:12:18.09,Default,Gi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:21.21,0:12:23.09,Default,Gi,0000,0000,0000,,When she left us,
+Dialogue: 0,0:12:23.09,0:12:26.67,Default,Gi,0000,0000,0000,,this room was supposed to disappear,
+Dialogue: 0,0:12:27.16,0:12:28.64,Default,Gi,0000,0000,0000,,and so were we.
+Dialogue: 0,0:12:31.62,0:12:36.53,Default,Gi,0000,0000,0000,,Take flight, to the real sky...
+Dialogue: 0,0:12:40.80,0:12:47.16,Default,Gi,0000,0000,0000,,But Mayu made a choice—for us, and for \Nblack and white, to remain in this world.
+Dialogue: 0,0:12:47.16,0:12:47.66,Default,Gi,0000,0000,0000,,Yeah...
+Dialogue: 0,0:12:48.19,0:12:52.54,Default,Gi,0000,0000,0000,,But at the same time, that meant the \Nroom of white windows remained, too.
+Dialogue: 0,0:12:53.85,0:12:56.20,Default,Gi,0000,0000,0000,,Just as we exist,
+Dialogue: 0,0:12:56.20,0:12:58.60,Default,Gi,0000,0000,0000,,this room will continue to exist, as well.
+Dialogue: 0,0:12:58.60,0:13:02.84,Default,Gi,0000,0000,0000,,As a receptacle of human sorrow, \Nhatred, and despair.
+Dialogue: 0,0:13:02.84,0:13:04.15,Default,Gi,0000,0000,0000,,No...
+Dialogue: 0,0:13:04.15,0:13:06.28,Default,Gi,0000,0000,0000,,Because we're here?
+Dialogue: 0,0:13:06.28,0:13:08.10,Default,Gi,0000,0000,0000,,No, that's not it.
+Dialogue: 0,0:13:10.84,0:13:13.64,Default,Gi,0000,0000,0000,,We're not Shiro and Kuro anymore.
+Dialogue: 0,0:13:13.96,0:13:17.92,Default,Gi,0000,0000,0000,,Mayu and Ruu gave us \Nnew names and new lives.
+Dialogue: 0,0:13:18.81,0:13:21.91,Default,Gi,0000,0000,0000,,We have the power to choose.
+Dialogue: 0,0:13:22.37,0:13:23.20,Default,Gi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:23.65,0:13:26.67,Default,Gi,0000,0000,0000,,Don't be a keyhole. Be a key.
+Dialogue: 0,0:13:26.67,0:13:28.16,Default,Gi,0000,0000,0000,,A key!
+Dialogue: 0,0:13:28.68,0:13:31.69,Default,Gi,0000,0000,0000,,Ruu will find the door, I know it.
+Dialogue: 0,0:13:33.79,0:13:35.96,Default,R,0000,0000,0000,,Mayu was always alone.
+Dialogue: 0,0:13:35.96,0:13:37.88,Default,R,0000,0000,0000,,The outside world...
+Dialogue: 0,0:13:37.88,0:13:40.42,Default,R,0000,0000,0000,,Longing, hatred...
+Dialogue: 0,0:13:40.91,0:13:43.39,Default,R,0000,0000,0000,,All kinds of emotions filled her heart,
+Dialogue: 0,0:13:43.39,0:13:44.62,Default,R,0000,0000,0000,,overflowed,
+Dialogue: 0,0:13:45.66,0:13:47.09,Default,R,0000,0000,0000,,and were painted over...
+Dialogue: 0,0:14:02.86,0:14:07.64,Default,R,0000,0000,0000,,Someone who could handle all of Mayu's \Nmixed-up, colorless feelings
+Dialogue: 0,0:14:07.64,0:14:09.47,Default,R,0000,0000,0000,,that she couldn't tell anyone about...
+Dialogue: 0,0:14:10.07,0:14:12.57,Default,R,0000,0000,0000,,Imaginary friends.
+Dialogue: 0,0:14:13.16,0:14:14.37,Default,H,0000,0000,0000,,Acceptance.
+Dialogue: 0,0:14:14.37,0:14:16.96,Default,H,0000,0000,0000,,This looks exactly like \Nthe room of white windows.
+Dialogue: 0,0:14:18.31,0:14:20.92,Default,H,0000,0000,0000,,There's no door.
+Dialogue: 0,0:14:21.24,0:14:23.54,Default,R,0000,0000,0000,,Mayu didn't understand...
+Dialogue: 0,0:14:24.13,0:14:25.69,Default,R,0000,0000,0000,,If she had painted a door,
+Dialogue: 0,0:14:25.69,0:14:28.38,Default,R,0000,0000,0000,,she and everyone else \Ncould've gone outside to play.
+Dialogue: 0,0:14:34.90,0:14:36.18,Default,Gi,0000,0000,0000,,A door!
+Dialogue: 0,0:14:36.85,0:14:38.08,Default,Gi,0000,0000,0000,,Ruu!
+Dialogue: 0,0:14:38.08,0:14:39.44,Default,Gi,0000,0000,0000,,Go, Tama.
+Dialogue: 0,0:14:39.44,0:14:40.48,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:46.56,0:14:47.74,Default,Gi,0000,0000,0000,,Happening!
+Dialogue: 0,0:15:01.16,0:15:03.42,Default,Gi,0000,0000,0000,,Try to endure it all you want, but it's no use.
+Dialogue: 0,0:15:03.97,0:15:06.00,Default,Gi,0000,0000,0000,,You cannot be the law.
+Dialogue: 0,0:15:06.48,0:15:09.01,Default,Gi,0000,0000,0000,,Then why did you choose me?
+Dialogue: 0,0:15:10.20,0:15:13.76,Default,Gi,0000,0000,0000,,You told me to find you.
+Dialogue: 0,0:15:14.68,0:15:18.86,Default,Gi,0000,0000,0000,,Hatred, sorrow, the desire to destroy...
+Dialogue: 0,0:15:18.86,0:15:21.19,Default,Gi,0000,0000,0000,,Is that all you are?
+Dialogue: 0,0:15:21.19,0:15:22.15,Default,Gi,0000,0000,0000,,It's not!
+Dialogue: 0,0:15:23.61,0:15:26.56,Default,Gi,0000,0000,0000,,You, all of you,
+Dialogue: 0,0:15:26.56,0:15:29.76,Default,Gi,0000,0000,0000,,seek out and enjoy the battles...
+Dialogue: 0,0:15:29.76,0:15:32.11,Default,Gi,0000,0000,0000,,But deep in your hearts, you seek salvation.
+Dialogue: 0,0:15:33.00,0:15:34.32,Default,Gi,0000,0000,0000,,Salvation...
+Dialogue: 0,0:15:35.02,0:15:36.33,Default,Gi,0000,0000,0000,,I want to end this.
+Dialogue: 0,0:15:36.82,0:15:38.45,Default,Gi,0000,0000,0000,,I want to escape this darkness.
+Dialogue: 0,0:15:39.25,0:15:42.24,Default,Gi,0000,0000,0000,,Wishes, dreams, memories...
+Dialogue: 0,0:15:42.24,0:15:45.95,Default,Gi,0000,0000,0000,,No matter how many precious things \Nyou steal, you'll never be fulfilled.
+Dialogue: 0,0:15:46.42,0:15:50.67,Default,Gi,0000,0000,0000,,With each battle, the laws are warped, \Nand you even lose the freedom to choose.
+Dialogue: 0,0:15:51.27,0:15:53.91,Default,Gi,0000,0000,0000,,Nobody wants this.
+Dialogue: 0,0:15:55.02,0:15:59.18,Default,Gi,0000,0000,0000,,A small light remaining within darkness \Nthat threatens to swallow you up...
+Dialogue: 0,0:15:59.84,0:16:01.85,Default,Gi,0000,0000,0000,,You do know what I'm \Ntalking about, don't you?
+Dialogue: 0,0:16:07.85,0:16:09.34,Default,Gi,0000,0000,0000,,I...
+Dialogue: 0,0:16:12.56,0:16:13.53,Default,Gi,0000,0000,0000,,Grow.
+Dialogue: 0,0:16:25.86,0:16:27.73,Default,Gi,0000,0000,0000,,Peeping Analyze.
+Dialogue: 0,0:16:37.71,0:16:40.14,Default,Gi,0000,0000,0000,,That is your choice...
+Dialogue: 0,0:16:51.93,0:16:53.45,Default,Gi,0000,0000,0000,,They're turning into coins...
+Dialogue: 0,0:17:02.67,0:17:03.29,Default,Gi,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:17:04.02,0:17:05.04,Default,Gi,0000,0000,0000,,Piruluk.
+Dialogue: 0,0:17:05.76,0:17:07.06,Default,Gi,0000,0000,0000,,It's finally time.
+Dialogue: 0,0:17:07.06,0:17:07.98,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:07.98,0:17:10.19,Default,Gi,0000,0000,0000,,We'll bring an end to all of this.
+Dialogue: 0,0:17:22.48,0:17:23.40,Default,Gi,0000,0000,0000,,Catharthis.
+Dialogue: 0,0:17:49.51,0:17:51.67,Default,Gi,0000,0000,0000,,The memories are returning.
+Dialogue: 0,0:17:52.30,0:17:55.92,Default,Gi,0000,0000,0000,,All the feelings everyone had...
+Dialogue: 0,0:18:02.84,0:18:03.85,Default,Gi,0000,0000,0000,,Yes!
+Dialogue: 0,0:18:03.85,0:18:06.27,Default,Gi,0000,0000,0000,,I'll be heading back before you guys!
+Dialogue: 0,0:18:06.55,0:18:08.09,Default,Gi,0000,0000,0000,,Looks like it's over.
+Dialogue: 0,0:18:08.09,0:18:09.85,Default,Gi,0000,0000,0000,,Yeah. Finally.
+Dialogue: 0,0:18:10.90,0:18:13.82,Default,Gi,0000,0000,0000,,Kiyoi-chan, let's play some more!
+Dialogue: 0,0:18:16.14,0:18:19.49,Default,Gi,0000,0000,0000,,We're going to disappear, aren't we?
+Dialogue: 0,0:18:20.02,0:18:22.99,Default,Gi,0000,0000,0000,,We were born from Suzu \Nand Chinatsu's memories.
+Dialogue: 0,0:18:23.31,0:18:25.42,Default,Gi,0000,0000,0000,,We're just going to return to them.
+Dialogue: 0,0:18:26.04,0:18:28.14,Default,Gi,0000,0000,0000,,Will Chi-chan be okay?
+Dialogue: 0,0:18:28.14,0:18:29.99,Default,Gi,0000,0000,0000,,I wanted to see her again.
+Dialogue: 0,0:18:29.99,0:18:31.37,Default,Gi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:31.37,0:18:33.70,Default,Gi,0000,0000,0000,,But I'm sure it'll be fine,
+Dialogue: 0,0:18:33.70,0:18:35.34,Default,Gi,0000,0000,0000,,knowing the two of them.
+Dialogue: 0,0:18:35.76,0:18:37.16,Default,Gi,0000,0000,0000,,Bye-bye, Shou-chan.
+Dialogue: 0,0:18:37.16,0:18:39.68,Default,Gi,0000,0000,0000,,Hanna-sama, farewell.
+Dialogue: 0,0:18:39.68,0:18:41.68,Default,Gi,0000,0000,0000,,I'm so happy for you, brother!
+Dialogue: 0,0:18:46.04,0:18:47.48,Default,Gi,0000,0000,0000,,Complete defeat, huh?
+Dialogue: 0,0:18:52.17,0:18:54.15,Default,Gi,0000,0000,0000,,I got you back one!
+Dialogue: 0,0:18:55.09,0:18:56.77,Default,Gi,0000,0000,0000,,You battle junkie...
+Dialogue: 0,0:18:58.76,0:19:01.03,Default,Gi,0000,0000,0000,,I guess this is goodbye, Kiyoi.
+Dialogue: 0,0:19:01.03,0:19:02.41,Default,Gi,0000,0000,0000,,I don't know about that.
+Dialogue: 0,0:19:03.12,0:19:06.22,Default,Gi,0000,0000,0000,,I can't prove it, but maybe...
+Dialogue: 0,0:19:07.00,0:19:08.71,Default,Gi,0000,0000,0000,,So I won't say goodbye.
+Dialogue: 0,0:19:09.45,0:19:11.47,Default,Gi,0000,0000,0000,,I see. Then neither will I.
+Dialogue: 0,0:19:12.09,0:19:13.69,Default,Gi,0000,0000,0000,,Thanks, Kiyoi.
+Dialogue: 0,0:19:13.69,0:19:15.46,Default,Gi,0000,0000,0000,,This was fun!
+Dialogue: 0,0:19:40.44,0:19:41.82,Default,Gi,0000,0000,0000,,Sakaguchi...
+Dialogue: 0,0:20:05.14,0:20:06.14,Default,S,0000,0000,0000,,Chi-chan?
+Dialogue: 0,0:20:06.48,0:20:10.13,Default,C,0000,0000,0000,,M-My memories...
+Dialogue: 0,0:20:12.77,0:20:13.89,Default,S,0000,0000,0000,,Chi-chan!
+Dialogue: 0,0:20:13.89,0:20:15.95,Default,S,0000,0000,0000,,It's okay... It's okay!
+Dialogue: 0,0:20:15.95,0:20:18.64,Default,S,0000,0000,0000,,I'm right here. And I always will be.
+Dialogue: 0,0:20:18.64,0:20:22.34,Default,C,0000,0000,0000,,Suzu... Suzu...
+Dialogue: 0,0:20:25.01,0:20:26.68,Default,S,0000,0000,0000,,Let's talk a whole bunch.
+Dialogue: 0,0:20:26.68,0:20:28.76,Default,S,0000,0000,0000,,About elementary school,
+Dialogue: 0,0:20:28.76,0:20:30.86,Default,S,0000,0000,0000,,about our favorite foods,
+Dialogue: 0,0:20:30.86,0:20:32.17,Default,S,0000,0000,0000,,about WIXOSS...
+Dialogue: 0,0:20:32.17,0:20:33.26,Default,C,0000,0000,0000,,I...
+Dialogue: 0,0:20:33.85,0:20:35.66,Default,S,0000,0000,0000,,You can take your time.
+Dialogue: 0,0:20:35.66,0:20:36.33,Default,S,0000,0000,0000,,Slowly...
+Dialogue: 0,0:20:38.45,0:20:40.45,Default,S,0000,0000,0000,,We'll overcome it together.
+Dialogue: 0,0:20:42.51,0:20:43.66,Default,Gi,0000,0000,0000,,Hey!
+Dialogue: 0,0:20:43.66,0:20:44.22,Default,Gi,0000,0000,0000,,Ruu!
+Dialogue: 0,0:20:44.22,0:20:45.00,Default,,0000,0000,0000,,Hitoe!
+Dialogue: 0,0:20:45.00,0:20:46.21,Default,Gi,0000,0000,0000,,Hanna-san!
+Dialogue: 0,0:20:45.00,0:20:46.82,Default,Gi,0000,0000,0000,,Tama! Yuzuki!
+Dialogue: 0,0:20:55.75,0:20:57.00,Default,Gi,0000,0000,0000,,Welcome back!
+Dialogue: 0,0:20:59.64,0:21:03.12,Default - italics,Gi,0000,0000,0000,,The Selector battles are over.
+Dialogue: 0,0:21:10.04,0:21:11.66,Default,Gi,0000,0000,0000,,I'm back!
+Dialogue: 0,0:21:15.81,0:21:18.58,Default - italics,Gi,0000,0000,0000,,Not all of the pain is gone.
+Dialogue: 0,0:21:19.89,0:21:22.61,Default - italics,Gi,0000,0000,0000,,Not everything is back to the way it was.
+Dialogue: 0,0:21:28.82,0:21:29.98,Default - italics,Gi,0000,0000,0000,,But still...
+Dialogue: 0,0:21:46.76,0:21:48.03,Default,Gu,0000,0000,0000,,Morikawa.
+Dialogue: 0,0:21:52.58,0:21:53.79,Default,Gi,0000,0000,0000,,I'm so glad...
+Dialogue: 0,0:21:55.40,0:21:58.15,Default,Gu,0000,0000,0000,,Yeah. I'm okay.
+Dialogue: 0,0:22:05.67,0:22:08.63,sign_31785_267_6Months,Gu,0000,0000,0000,,{\fad(950,1)}6 Months Later
+Dialogue: 0,0:22:17.32,0:22:18.48,Default - italics,K,0000,0000,0000,,Memories...
+Dialogue: 0,0:22:18.96,0:22:21.44,Default - italics,K,0000,0000,0000,,They're uncertain and nebulous things.
+Dialogue: 0,0:22:21.44,0:22:23.65,Default - italics,K,0000,0000,0000,,You just give them color in your own mind,
+Dialogue: 0,0:22:24.40,0:22:28.74,Default - italics,K,0000,0000,0000,,selecting the ones you choose \Nto be "happy" or "sad."
+Dialogue: 0,0:22:30.44,0:22:34.22,Default - italics,K,0000,0000,0000,,Memories change color every day in my mind.
+Dialogue: 0,0:22:36.45,0:22:37.35,Default - italics,,0000,0000,0000,,Still...
+Dialogue: 0,0:22:38.87,0:22:41.98,Default - italics,K,0000,0000,0000,,No matter how sad those memories are...
+Dialogue: 0,0:22:43.52,0:22:45.42,Default - italics,K,0000,0000,0000,,I don't want to be rid of them.
+Dialogue: 0,0:22:47.77,0:22:49.72,Default - italics,K,0000,0000,0000,,Because they're a part of me.
+Dialogue: 0,0:23:01.27,0:23:03.48,sign_33115_277_Want_to,K,0000,0000,0000,,Want to do a WIXOSS tournament?
+Dialogue: 0,0:23:02.65,0:23:04.19,sign_33115_277_Want_to,K,0000,0000,0000,,Sure!
+Dialogue: 0,0:23:03.15,0:23:04.90,sign_33115_277_Want_to,K,0000,0000,0000,,I'm in.
+Dialogue: 0,0:23:03.77,0:23:05.73,sign_33115_277_Want_to,K,0000,0000,0000,,Sounds fun.
+Dialogue: 0,0:23:04.65,0:23:06.40,sign_33115_277_Want_to,K,0000,0000,0000,,I'll play!
+Dialogue: 0,0:23:05.90,0:23:06.90,sign_33115_277_Want_to,K,0000,0000,0000,,I won't lose!
+Dialogue: 0,0:23:06.40,0:23:09.61,sign_33115_277_Want_to,K,0000,0000,0000,,I'll play!
+Dialogue: 0,0:23:06.90,0:23:09.61,sign_33115_277_Want_to,K,0000,0000,0000,,I won't lose!
+Dialogue: 0,0:23:07.08,0:23:09.32,Default - italics,K,0000,0000,0000,,Because I don't want to let all my choices,
+Dialogue: 0,0:23:08.40,0:23:09.61,sign_33115_285_When_,K,0000,0000,0000,,When?
+Dialogue: 0,0:23:09.32,0:23:10.91,Default - italics,K,0000,0000,0000,,all my encounters,
+Dialogue: 0,0:23:11.67,0:23:13.32,Default - italics,K,0000,0000,0000,,be a lie.
+Dialogue: 0,0:23:14.87,0:23:18.01,Default - italics,K,0000,0000,0000,,And because I want to make the \Nchoices I'll make in the future
+Dialogue: 0,0:23:19.79,0:23:22.06,Default - italics,K,0000,0000,0000,,with my head held high.
+Dialogue: 0,0:23:30.50,0:23:31.77,Default,K,0000,0000,0000,,Open!
+Dialogue: 0,0:23:33.93,0:23:36.93,sign_33901_292_Light,K,0000,0000,0000,,Light

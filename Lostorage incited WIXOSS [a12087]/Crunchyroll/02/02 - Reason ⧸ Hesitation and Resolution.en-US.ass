@@ -1,0 +1,376 @@
+[Script Info]
+Title: English (US)
+Original Script: WarnerJapan  [http://www.crunchyroll.com/user/WarnerJapan]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - flashback,Trebuchet MS,24,&H00F4ECEC,&H000000FF,&H00502300,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0010,0
+Style: Title,Verdana,28,&H00170E06,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0050,0040,0030,0
+Style: Title2,Verdana,24,&H00FFFFFF,&H000000FF,&H001D1911,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.48,0:00:08.00,Default - flashback,Gi,0000,0000,0000,,Wow, you like WIXOSS?
+Dialogue: 0,0:00:11.12,0:00:13.14,Default - flashback,Gi,0000,0000,0000,,I'm pretty persistent!
+Dialogue: 0,0:00:15.16,0:00:19.16,Default - flashback,Gi,0000,0000,0000,,Kiyoi, you're really funny, \Nthe way you look so sulky.
+Dialogue: 0,0:01:50.96,0:01:52.44,Default,Gi,0000,0000,0000,,Nice to meet you,
+Dialogue: 0,0:01:53.42,0:01:55.18,Default,Gi,0000,0000,0000,,Kominato Ruuko-san.
+Dialogue: 0,0:01:57.26,0:01:58.22,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:59.17,0:02:01.01,Default,K,0000,0000,0000,,I suppose this isn't our first meeting, is it?
+Dialogue: 0,0:02:01.01,0:02:04.60,Default,K,0000,0000,0000,,We've met before, as Selector and LRIG.
+Dialogue: 0,0:02:06.32,0:02:07.94,Default,K,0000,0000,0000,,I need to talk to you.
+Dialogue: 0,0:02:09.78,0:02:10.65,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:10.65,0:02:13.05,Default,R,0000,0000,0000,,The Selector battles aren't over?
+Dialogue: 0,0:02:13.05,0:02:13.77,Default,K,0000,0000,0000,,Indeed.
+Dialogue: 0,0:02:13.77,0:02:15.64,Default,R,0000,0000,0000,,But that's impossible, because...
+Dialogue: 0,0:02:15.64,0:02:17.78,Default,K,0000,0000,0000,,Because Mayu is gone, right?
+Dialogue: 0,0:02:20.40,0:02:26.83,Default,R,0000,0000,0000,,Mayu, a girl whose short life ended \Nbefore she ever saw the outside world.
+Dialogue: 0,0:02:27.32,0:02:31.79,Default,R,0000,0000,0000,,Her emotions came to dwell within the \Ncards, creating the first Selector battle.
+Dialogue: 0,0:02:32.15,0:02:33.75,Default,R,0000,0000,0000,,And Mayu is...
+Dialogue: 0,0:02:34.51,0:02:38.04,Default,R,0000,0000,0000,,Mayu is still there, inside that white room?
+Dialogue: 0,0:02:38.04,0:02:40.97,Default,K,0000,0000,0000,,No, Mayu is gone.
+Dialogue: 0,0:02:43.10,0:02:45.19,Default,K,0000,0000,0000,,You saved her.
+Dialogue: 0,0:02:45.19,0:02:46.46,Default,K,0000,0000,0000,,Right?
+Dialogue: 0,0:02:46.46,0:02:48.77,Default,K,0000,0000,0000,,But the battles haven't ended.
+Dialogue: 0,0:02:49.36,0:02:52.46,Default,K,0000,0000,0000,,The emotions of all those \Nlost and tormented girls
+Dialogue: 0,0:02:52.46,0:02:54.92,Default,,0000,0000,0000,,have put the next set of gears in motion.
+Dialogue: 0,0:02:54.92,0:02:56.78,Default,K,0000,0000,0000,,An endless cycle of darkness...
+Dialogue: 0,0:02:57.50,0:02:58.74,Default,K,0000,0000,0000,,And I want to stop it.
+Dialogue: 0,0:02:59.16,0:03:01.16,Default,R,0000,0000,0000,,Stop the cycle?
+Dialogue: 0,0:03:01.16,0:03:02.24,Default,K,0000,0000,0000,,Help me.
+Dialogue: 0,0:03:02.59,0:03:05.58,Default,K,0000,0000,0000,,You released all the LRIGs, so with your help...
+Dialogue: 0,0:03:05.58,0:03:06.85,Default,R,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:03:07.32,0:03:11.00,Default,R,0000,0000,0000,,I... I can't help you.
+Dialogue: 0,0:03:11.38,0:03:13.46,Default,R,0000,0000,0000,,I have a friend I care about.
+Dialogue: 0,0:03:13.66,0:03:15.38,Default,R,0000,0000,0000,,One who means everything to me.
+Dialogue: 0,0:03:15.96,0:03:19.02,Default,R,0000,0000,0000,,If I get involved, I'm sure she'll...
+Dialogue: 0,0:03:19.55,0:03:22.68,Default,R,0000,0000,0000,,I don't want her to fight any more battles!
+Dialogue: 0,0:03:23.31,0:03:24.22,Default,K,0000,0000,0000,,I see.
+Dialogue: 0,0:03:29.25,0:03:31.46,Default,K,0000,0000,0000,,A friend she cares about...
+Dialogue: 0,0:03:32.17,0:03:33.19,Default,A,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:03:37.04,0:03:38.15,Default,K,0000,0000,0000,,Amika?
+Dialogue: 0,0:03:38.15,0:03:41.36,Default,A,0000,0000,0000,,Jeez! Why don't you answer your phone?
+Dialogue: 0,0:03:42.04,0:03:43.38,Default,A,0000,0000,0000,,Where were you?
+Dialogue: 0,0:03:43.38,0:03:44.82,Default,K,0000,0000,0000,,I'm not telling you.
+Dialogue: 0,0:03:44.82,0:03:47.20,Default,A,0000,0000,0000,,Visiting another former Selector?
+Dialogue: 0,0:03:49.92,0:03:53.06,Default,A,0000,0000,0000,,Jeez... I keep telling you to stop.
+Dialogue: 0,0:03:53.06,0:03:55.79,Default,K,0000,0000,0000,,I know. That's why I turned off my phone.
+Dialogue: 0,0:03:55.79,0:03:57.64,Default,A,0000,0000,0000,,Come on...
+Dialogue: 0,0:03:57.64,0:03:59.05,Default,K,0000,0000,0000,,You don't need to worry.
+Dialogue: 0,0:03:59.96,0:04:01.72,Default,A,0000,0000,0000,,Of course I'll worry.
+Dialogue: 0,0:04:01.72,0:04:05.30,Default,A,0000,0000,0000,,My friend keeps trying to get \Ninvolved in a dangerous game.
+Dialogue: 0,0:04:06.29,0:04:08.80,Default,A,0000,0000,0000,,Why do you have to do this?
+Dialogue: 0,0:04:08.80,0:04:11.26,Default,A,0000,0000,0000,,Maybe you hurt those girls,
+Dialogue: 0,0:04:11.26,0:04:13.27,Default,A,0000,0000,0000,,but it's not your fault alone.
+Dialogue: 0,0:04:13.80,0:04:15.73,Default,A,0000,0000,0000,,Just stop.
+Dialogue: 0,0:04:16.52,0:04:17.95,Default,K,0000,0000,0000,,Thank you.
+Dialogue: 0,0:04:17.95,0:04:19.80,Default,K,0000,0000,0000,,But I can't.
+Dialogue: 0,0:04:19.80,0:04:21.33,Default,A,0000,0000,0000,,Is this about Sakaguchi-san?
+Dialogue: 0,0:04:21.33,0:04:22.09,Default,K,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:22.71,0:04:24.07,Default,K,0000,0000,0000,,But it's not just that.
+Dialogue: 0,0:04:24.96,0:04:29.45,Default,K,0000,0000,0000,,If I do nothing, my meeting with \Nyou will become a lie, as well.
+Dialogue: 0,0:04:31.08,0:04:33.73,Default - flashback,Gi,0000,0000,0000,,You're an LRIG that brings misery, aren't you?
+Dialogue: 0,0:04:33.73,0:04:37.47,Default - flashback,Gi,0000,0000,0000,,You bring misery to every Selector you meet.
+Dialogue: 0,0:04:38.79,0:04:41.92,Default - flashback,Gi,0000,0000,0000,,Like that girl, Aoi Akira...
+Dialogue: 0,0:04:42.55,0:04:46.83,Default - flashback,K,0000,0000,0000,,I don't want to hear that from someone \Nwho's enjoying watching it happen.
+Dialogue: 0,0:04:46.83,0:04:48.60,Default - flashback,Gi,0000,0000,0000,,Don't get the wrong idea.
+Dialogue: 0,0:04:48.60,0:04:51.91,Default - flashback,Gi,0000,0000,0000,,I love you.
+Dialogue: 0,0:04:51.91,0:04:55.14,Default - flashback,Gi,0000,0000,0000,,No one comes here as often as you do.
+Dialogue: 0,0:04:56.26,0:05:00.43,Default - flashback,Gi,0000,0000,0000,,Each time you do, \Nanother girl's wish is crushed.
+Dialogue: 0,0:05:01.37,0:05:07.39,Default - flashback,Gi,0000,0000,0000,,And you're starting to feel \Nnothing when you crush them.
+Dialogue: 0,0:05:08.09,0:05:09.58,Default - flashback,Gi,0000,0000,0000,,It's wonderful.
+Dialogue: 0,0:05:10.22,0:05:13.46,Default - flashback,Gi,0000,0000,0000,,Who will you destroy next?
+Dialogue: 0,0:05:13.46,0:05:16.30,Default - flashback,Gi,0000,0000,0000,,Like you did to that girl, Sakaguchi...
+Dialogue: 0,0:05:18.46,0:05:20.68,Default - flashback,Gi,0000,0000,0000,,I can't wait to find out.
+Dialogue: 0,0:05:29.46,0:05:34.25,Default - flashback,A,0000,0000,0000,,Um... "This LRIG will be your avatar"?
+Dialogue: 0,0:05:40.21,0:05:42.32,Default - flashback,A,0000,0000,0000,,I don't get it.
+Dialogue: 0,0:05:42.32,0:05:44.82,Default - flashback,K,0000,0000,0000,,Sakaguchi?
+Dialogue: 0,0:05:46.67,0:05:48.29,Default - flashback,A,0000,0000,0000,,"Piruluk"...
+Dialogue: 0,0:05:48.29,0:05:50.66,Default - flashback,A,0000,0000,0000,,Are you the one who'll grant my wish?
+Dialogue: 0,0:05:50.66,0:05:52.41,Default - flashback,K,0000,0000,0000,,That is an acceptable assessment.
+Dialogue: 0,0:05:52.88,0:05:55.69,Default - flashback,K,0000,0000,0000,,Win enough battles, and \Nyour wish will come true.
+Dialogue: 0,0:05:55.69,0:05:58.83,Default - flashback,A,0000,0000,0000,,Can the wish be for someone besides me?
+Dialogue: 0,0:05:58.83,0:06:01.66,Default - flashback,K,0000,0000,0000,,As long as it is what you truly wish.
+Dialogue: 0,0:06:02.93,0:06:05.59,Default - flashback,A,0000,0000,0000,,My mom is sick.
+Dialogue: 0,0:06:06.76,0:06:10.27,Default - flashback,A,0000,0000,0000,,If I wish to save her, \Nwill that wish come true?
+Dialogue: 0,0:06:11.59,0:06:14.01,Default - flashback,K,0000,0000,0000,,If you win enough battles...
+Dialogue: 0,0:06:14.54,0:06:16.48,Default - italics,K,0000,0000,0000,,Her face reminded me of Sakaguchi.
+Dialogue: 0,0:06:16.91,0:06:18.44,Default - italics,K,0000,0000,0000,,That was all there was to her,
+Dialogue: 0,0:06:19.16,0:06:20.90,Default - italics,,0000,0000,0000,,or so I thought at first.
+Dialogue: 0,0:06:21.44,0:06:22.24,Default - italics,K,0000,0000,0000,,But...
+Dialogue: 0,0:06:23.18,0:06:27.06,Default - flashback,A,0000,0000,0000,,I was so scared when \NI found out Mom was sick.
+Dialogue: 0,0:06:27.06,0:06:30.45,Default - flashback,A,0000,0000,0000,,I was so worried, and \NI couldn't talk to anyone.
+Dialogue: 0,0:06:30.97,0:06:35.16,Default - flashback,A,0000,0000,0000,,That's why I was so happy when \NI had you to talk to, Piruluk.
+Dialogue: 0,0:06:35.82,0:06:40.00,Default - flashback,A,0000,0000,0000,,And you know, I liked you \Nthe first time I saw you.
+Dialogue: 0,0:06:40.37,0:06:42.63,Default - flashback,A,0000,0000,0000,,It's funny how your face looks so sulky.
+Dialogue: 0,0:06:44.62,0:06:48.72,Default - flashback,A,0000,0000,0000,,Wait, no! I meant sulky in a cute way!
+Dialogue: 0,0:06:51.79,0:06:54.51,Default - flashback,A,0000,0000,0000,,{\i1}LRIGs have no special powers.
+Dialogue: 0,0:06:54.51,0:06:57.86,Default - flashback,A,0000,0000,0000,,{\i1}Get rid of me, and stop participating \Nin the Selector battles.
+Dialogue: 0,0:07:09.67,0:07:13.32,Default - flashback,Gi,0000,0000,0000,,Huh? Is that you, Kiyoi-chan?
+Dialogue: 0,0:07:13.73,0:07:15.03,Default - flashback,,0000,0000,0000,,Remember!
+Dialogue: 0,0:07:15.33,0:07:16.44,Default - flashback,A,0000,0000,0000,,Kiyoi?
+Dialogue: 0,0:07:16.44,0:07:18.32,Default - flashback,Gi,0000,0000,0000,,It's been so long!
+Dialogue: 0,0:07:18.32,0:07:20.24,Default - flashback,K,0000,0000,0000,,She's a Selector now?
+Dialogue: 0,0:07:20.24,0:07:23.08,Default - flashback,A,0000,0000,0000,,What? What do you mean, Piruluk?
+Dialogue: 0,0:07:23.32,0:07:27.04,Default - flashback,R,0000,0000,0000,,Oh, so your name's Piruluk now?
+Dialogue: 0,0:07:28.00,0:07:31.04,Default - flashback,R,0000,0000,0000,,This body was originally hers.
+Dialogue: 0,0:07:31.04,0:07:32.84,Default - flashback,R,0000,0000,0000,,Her name was Mizushima Kiyoi-chan.
+Dialogue: 0,0:07:34.22,0:07:36.84,Default - flashback,R,0000,0000,0000,,I was Kiyoi-chan's LRIG.
+Dialogue: 0,0:07:36.84,0:07:40.15,Default - flashback,R,0000,0000,0000,,Kiyoi-chan won enough battles \Nto become an Eternal Girl.
+Dialogue: 0,0:07:40.15,0:07:42.10,Default - flashback,R,0000,0000,0000,,Then she switched places with me.
+Dialogue: 0,0:07:42.10,0:07:43.56,Default - flashback,A,0000,0000,0000,,Switched places?
+Dialogue: 0,0:07:44.59,0:07:49.41,Default - flashback,R,0000,0000,0000,,As the price for their wish coming \Ntrue, Selectors become LRIGs.
+Dialogue: 0,0:07:50.06,0:07:51.96,Default - flashback,R,0000,0000,0000,,That's the rule.
+Dialogue: 0,0:07:51.96,0:07:52.76,Default - flashback,A,0000,0000,0000,,That can't be...
+Dialogue: 0,0:07:52.76,0:07:55.80,Default - flashback,R,0000,0000,0000,,Oh, but don't worry.
+Dialogue: 0,0:07:55.80,0:07:59.79,Default - flashback,R,0000,0000,0000,,The LRIG that takes their \Nplace will grant their wish.
+Dialogue: 0,0:08:01.33,0:08:05.92,Default - flashback,R,0000,0000,0000,,I granted Kiyoi-chan's wish.
+Dialogue: 0,0:08:05.92,0:08:08.50,Default - flashback,R,0000,0000,0000,,It was, "I want to save my hospitalized friend."
+Dialogue: 0,0:08:08.50,0:08:10.13,Default - flashback,R,0000,0000,0000,,Right, Kiyoi-chan?
+Dialogue: 0,0:08:12.14,0:08:14.86,Default - flashback,R,0000,0000,0000,,You have a wish, too, don't you?
+Dialogue: 0,0:08:14.86,0:08:16.09,Default - flashback,R,0000,0000,0000,,So let's battle.
+Dialogue: 0,0:08:16.09,0:08:17.61,Default - flashback,A,0000,0000,0000,,{\an8}Huh, but...
+Dialogue: 0,0:08:16.09,0:08:18.47,Default - flashback,R,0000,0000,0000,,We were lucky enough to meet each other...
+Dialogue: 0,0:08:17.61,0:08:18.47,Default - flashback,K,0000,0000,0000,,{\an8}Amika, no!
+Dialogue: 0,0:08:18.80,0:08:21.74,Default - flashback,K,0000,0000,0000,,You've lost twice! \NIf you lose one more time...
+Dialogue: 0,0:08:23.78,0:08:26.06,Default - flashback,A,0000,0000,0000,,Hello, Dad? What is it?
+Dialogue: 0,0:08:27.36,0:08:28.79,Default - flashback,A,0000,0000,0000,,Mom is...
+Dialogue: 0,0:08:30.10,0:08:32.30,Default - flashback,A,0000,0000,0000,,Okay. I'll get to the hospital right away!
+Dialogue: 0,0:08:32.30,0:08:33.28,Default - flashback,A,0000,0000,0000,,Amika...
+Dialogue: 0,0:08:34.15,0:08:35.72,Default - flashback,A,0000,0000,0000,,But first...
+Dialogue: 0,0:08:37.04,0:08:38.20,Default - flashback,A,0000,0000,0000,,Let's do it.
+Dialogue: 0,0:08:39.20,0:08:40.91,Default - flashback,K,0000,0000,0000,,Amika, get rid of me!
+Dialogue: 0,0:08:40.91,0:08:42.79,Default - flashback,A,0000,0000,0000,,I want to save my mom!
+Dialogue: 0,0:08:42.79,0:08:43.91,Default - flashback,Both,0000,0000,0000,,Open!
+Dialogue: 0,0:08:52.40,0:08:55.75,Default - flashback,K,0000,0000,0000,,{\i1}Even if you trade places with an LRIG, \Nyour wish won't come true.
+Dialogue: 0,0:08:55.75,0:08:58.81,Default - flashback,K,0000,0000,0000,,{\i1}And if you lose three times, \Nthe opposite of your wish occurs.
+Dialogue: 0,0:08:59.42,0:09:00.14,Default - flashback,K,0000,0000,0000,,{\i1}Which means...
+Dialogue: 0,0:09:02.10,0:09:04.94,Default - flashback,K,0000,0000,0000,,{\i1}It'll be impossible to save her mother.
+Dialogue: 0,0:09:09.34,0:09:10.58,Default - flashback,A,0000,0000,0000,,Liar...
+Dialogue: 0,0:09:11.42,0:09:13.53,Default - flashback,A,0000,0000,0000,,You lied to me?
+Dialogue: 0,0:09:13.73,0:09:15.40,Default - flashback,A,0000,0000,0000,,I believed in you!
+Dialogue: 0,0:09:15.64,0:09:17.11,Default - flashback,A,0000,0000,0000,,Why?
+Dialogue: 0,0:09:18.50,0:09:23.70,Default - flashback,A,0000,0000,0000,,I've sacrificed many Selectors \Nto get revenge on Remember.
+Dialogue: 0,0:09:24.25,0:09:25.71,Default - flashback,A,0000,0000,0000,,You're just another one of them.
+Dialogue: 0,0:09:26.19,0:09:29.17,Default - flashback,A,0000,0000,0000,,But when I met you, I wavered.
+Dialogue: 0,0:09:30.20,0:09:32.42,Default - flashback,A,0000,0000,0000,,Because you were just like Sakaguchi.
+Dialogue: 0,0:09:33.65,0:09:36.95,Default - flashback,A,0000,0000,0000,,I should've just left you sooner...
+Dialogue: 0,0:09:36.95,0:09:39.27,Default - flashback,A,0000,0000,0000,,but I couldn't!
+Dialogue: 0,0:09:39.80,0:09:44.30,Default - flashback,A,0000,0000,0000,,Because I felt like I never \Nwanted to leave you...
+Dialogue: 0,0:09:47.30,0:09:49.61,Default - flashback,A,0000,0000,0000,,I'm sorry, Amika.
+Dialogue: 0,0:09:49.87,0:09:51.09,Default - flashback,A,0000,0000,0000,,Piruluk...
+Dialogue: 0,0:09:56.97,0:09:58.74,Default - flashback,A,0000,0000,0000,,I'm changing my wish.
+Dialogue: 0,0:09:59.40,0:10:01.30,Default - flashback,A,0000,0000,0000,,I want to save my mother.
+Dialogue: 0,0:10:01.30,0:10:03.91,Default - flashback,A,0000,0000,0000,,But if that's impossible,
+Dialogue: 0,0:10:05.26,0:10:08.55,Default - flashback,A,0000,0000,0000,,I want to make you human again!
+Dialogue: 0,0:10:09.28,0:10:10.75,Default - flashback,A,0000,0000,0000,,Because you're my friend.
+Dialogue: 0,0:10:12.22,0:10:13.71,Default - flashback,K,0000,0000,0000,,Amika...
+Dialogue: 0,0:10:13.71,0:10:16.78,Default - flashback,R,0000,0000,0000,,Oh, is that all you want for your wish?
+Dialogue: 0,0:10:16.78,0:10:19.59,Default - flashback,R,0000,0000,0000,,Either way, I'm going to win, though!
+Dialogue: 0,0:10:27.40,0:10:28.62,Default - flashback,A,0000,0000,0000,,Attack!
+Dialogue: 0,0:10:34.98,0:10:36.49,Default - flashback,A,0000,0000,0000,,Piruluk, grow!
+Dialogue: 0,0:10:41.87,0:10:43.08,Default - flashback,R,0000,0000,0000,,Level 5?
+Dialogue: 0,0:10:49.16,0:10:52.89,Default - flashback,A,0000,0000,0000,,The battle ends with this turn, Amika.
+Dialogue: 0,0:10:54.04,0:10:57.01,Default - flashback,A,0000,0000,0000,,Will you believe in me just one more time?
+Dialogue: 0,0:10:57.31,0:10:59.84,Default - flashback,K,0000,0000,0000,,Okay, Kiyoi.
+Dialogue: 0,0:11:02.42,0:11:04.01,Default - flashback,K,0000,0000,0000,,Peeping Analyze!
+Dialogue: 0,0:11:09.33,0:11:10.44,Default - flashback,K,0000,0000,0000,,Turn end.
+Dialogue: 0,0:11:10.44,0:11:12.03,Default - flashback,R,0000,0000,0000,,She's not attacking?
+Dialogue: 0,0:11:12.03,0:11:14.77,Default - flashback,R,0000,0000,0000,,I don't know what she's after, but...
+Dialogue: 0,0:11:18.90,0:11:21.54,Default - flashback,R,0000,0000,0000,,I'm going to take an easy win, then!
+Dialogue: 0,0:11:24.73,0:11:25.82,Default - flashback,A,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:11:27.75,0:11:30.58,Default - flashback,R,0000,0000,0000,,She just threw away her win?
+Dialogue: 0,0:11:33.19,0:11:38.21,Default - flashback,K,0000,0000,0000,,The level-up turned Peeping Analyze into \Nthe power to change someone's will.
+Dialogue: 0,0:11:38.66,0:11:42.47,Default - flashback,K,0000,0000,0000,,I took over Amika's mind \Nand rewrote her wish.
+Dialogue: 0,0:11:42.67,0:11:46.30,Default - flashback,K,0000,0000,0000,,Her new wish is "I want to lose my mother."
+Dialogue: 0,0:11:46.54,0:11:49.77,Default - flashback,K,0000,0000,0000,,The Selector battle rules \Nare merciless and definite.
+Dialogue: 0,0:11:49.77,0:11:52.23,Default - flashback,K,0000,0000,0000,,With her loss, the opposite \Nof her wish will come true.
+Dialogue: 0,0:11:52.52,0:11:56.19,Default - flashback,K,0000,0000,0000,,She'll never lose her mother!
+Dialogue: 0,0:11:58.56,0:12:01.18,Default - flashback,R,0000,0000,0000,,You threw away your only chance?
+Dialogue: 0,0:12:01.18,0:12:03.07,Default - flashback,R,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:12:03.33,0:12:06.64,Default - flashback,R,0000,0000,0000,,Well, I doubt we'll ever see \Neach other again, though.
+Dialogue: 0,0:12:07.08,0:12:08.34,Default - flashback,R,0000,0000,0000,,So long!
+Dialogue: 0,0:12:42.50,0:12:44.40,Default - flashback,M,0000,0000,0000,,I feel betrayed.
+Dialogue: 0,0:12:44.84,0:12:48.70,Default - flashback,K,0000,0000,0000,,I simply managed to get what I \Nwanted while sticking to the rules.
+Dialogue: 0,0:12:48.70,0:12:51.24,Default - flashback,M,0000,0000,0000,,I need to punish you.
+Dialogue: 0,0:12:53.26,0:12:56.42,Default - flashback,M,0000,0000,0000,,How about I just erase you from existence?
+Dialogue: 0,0:12:56.42,0:12:56.96,Default - flashback,K,0000,0000,0000,,I see.
+Dialogue: 0,0:12:58.55,0:13:00.23,Default - flashback,M,0000,0000,0000,,You don't seem scared at all.
+Dialogue: 0,0:13:00.23,0:13:02.46,Default - flashback,M,0000,0000,0000,,You'll disappear! You'll be annihilated!
+Dialogue: 0,0:13:02.94,0:13:05.86,Default - flashback,K,0000,0000,0000,,I've hurt many young girls.
+Dialogue: 0,0:13:06.56,0:13:08.52,Default - flashback,K,0000,0000,0000,,I need to be punished for that.
+Dialogue: 0,0:13:08.52,0:13:09.68,Default - flashback,M,0000,0000,0000,,You're crazy!
+Dialogue: 0,0:13:09.68,0:13:14.54,Default - flashback,M,0000,0000,0000,,Why aren't you screaming, "I don't want\Nto disappear! I don't want to die!"?
+Dialogue: 0,0:13:15.84,0:13:17.18,Default - flashback,K,0000,0000,0000,,It doesn't matter anymore.
+Dialogue: 0,0:13:18.74,0:13:21.53,Default - flashback,K,0000,0000,0000,,I granted Amika's wish.
+Dialogue: 0,0:13:23.30,0:13:25.45,Default - flashback,K,0000,0000,0000,,You remind me, I think,
+Dialogue: 0,0:13:26.35,0:13:28.84,Default - flashback,K,0000,0000,0000,,of what I was until a short time ago.
+Dialogue: 0,0:13:28.84,0:13:31.44,Default - flashback,K,0000,0000,0000,,Always alone, unable to believe anyone.
+Dialogue: 0,0:13:31.44,0:13:34.17,Default - flashback,K,0000,0000,0000,,Feeding off nothing but revenge.
+Dialogue: 0,0:13:34.17,0:13:38.08,Default - flashback,K,0000,0000,0000,,But deep down in your heart, \Nyou want to be saved.
+Dialogue: 0,0:13:38.08,0:13:40.40,Default - flashback,K,0000,0000,0000,,I met Amika.
+Dialogue: 0,0:13:40.40,0:13:41.62,Default - flashback,K,0000,0000,0000,,Someday, you, too...
+Dialogue: 0,0:13:41.62,0:13:42.73,Default - flashback,M,0000,0000,0000,,I hate you.
+Dialogue: 0,0:13:42.73,0:13:44.51,Default - flashback,M,0000,0000,0000,,I hate you, I hate you!
+Dialogue: 0,0:13:44.51,0:13:45.99,Default - flashback,M,0000,0000,0000,,I hate you, I hate you!
+Dialogue: 0,0:13:45.99,0:13:48.09,Default - flashback,M,0000,0000,0000,,I {\i1}hate{\i0} you!
+Dialogue: 0,0:13:51.94,0:13:56.31,Default - flashback,M,0000,0000,0000,,You're going to suffer for ruining my game!
+Dialogue: 0,0:14:11.54,0:14:12.53,Default - flashback,A,0000,0000,0000,,Kiyoi?
+Dialogue: 0,0:14:13.90,0:14:15.12,Default - flashback,K,0000,0000,0000,,Amika...
+Dialogue: 0,0:14:23.41,0:14:26.38,Default,A,0000,0000,0000,,Your meeting with me would become a lie?
+Dialogue: 0,0:14:26.38,0:14:29.87,Default,K,0000,0000,0000,,The girl named Sakaguchi Ayumi...
+Dialogue: 0,0:14:29.87,0:14:33.82,Default,K,0000,0000,0000,,Since I lost my memories, \Nyou told me about her many times.
+Dialogue: 0,0:14:35.10,0:14:37.83,Default - flashback,K,0000,0000,0000,,Oh, that's a WIXOSS novel!
+Dialogue: 0,0:14:37.83,0:14:40.88,Default - flashback,K,0000,0000,0000,,Wow, you like WIXOSS?
+Dialogue: 0,0:14:40.88,0:14:42.86,Default - flashback,K,0000,0000,0000,,Let's have a battle sometime! Okay?
+Dialogue: 0,0:14:43.73,0:14:46.56,Default - flashback,K,0000,0000,0000,,I think this'll work for a deck.
+Dialogue: 0,0:14:46.56,0:14:48.96,Default - flashback,K,0000,0000,0000,,I sure wish I could battle someone.
+Dialogue: 0,0:14:50.01,0:14:51.78,Default - flashback,K,0000,0000,0000,,Knock it off.
+Dialogue: 0,0:14:52.20,0:14:56.50,Default - flashback,Gi,0000,0000,0000,,I decided I wouldn't give up \Nuntil I played WIXOSS with you.
+Dialogue: 0,0:14:57.67,0:14:59.29,Default - flashback,Gi,0000,0000,0000,,I'm pretty persistent!
+Dialogue: 0,0:15:00.06,0:15:02.08,Default - flashback,K,0000,0000,0000,,Why?
+Dialogue: 0,0:15:02.72,0:15:05.74,Default - flashback,K,0000,0000,0000,,You have lots of friends.
+Dialogue: 0,0:15:05.74,0:15:07.06,Default - flashback,K,0000,0000,0000,,You don't need me...
+Dialogue: 0,0:15:07.62,0:15:10.04,Default - flashback,Gi,0000,0000,0000,,I want to play you, Kiyoi.
+Dialogue: 0,0:15:12.79,0:15:16.75,Default - flashback,Gi,0000,0000,0000,,Kiyoi, you're really funny, \Nthe way you look so sulky.
+Dialogue: 0,0:15:17.52,0:15:21.88,Default - flashback,Gi,0000,0000,0000,,I always thought it would be fun to \Ntalk to you about all kinds of things.
+Dialogue: 0,0:15:24.77,0:15:27.86,Default - flashback,Gi,0000,0000,0000,,But if you really don't want to, \NI can't force you.
+Dialogue: 0,0:15:30.06,0:15:32.03,Default - flashback,K,0000,0000,0000,,I guess one game would be okay...
+Dialogue: 0,0:15:33.31,0:15:37.55,Default - flashback,Gi,0000,0000,0000,,Mizushima-san's always ignored Ayumi, \Nbut now that Ayumi's ready to give up,
+Dialogue: 0,0:15:37.55,0:15:40.17,Default - flashback,Gi,0000,0000,0000,,she finally agrees to battle.
+Dialogue: 0,0:15:40.17,0:15:43.26,Default - flashback,Gi,0000,0000,0000,,Why not just say she wants to be friends?
+Dialogue: 0,0:15:43.26,0:15:44.58,Default - flashback,Gi,0000,0000,0000,,It's creepy.
+Dialogue: 0,0:15:45.66,0:15:46.93,Default - flashback,Gi,0000,0000,0000,,Wait!
+Dialogue: 0,0:15:46.93,0:15:48.16,Default - flashback,Gi,0000,0000,0000,,Hey, Kiyoi!
+Dialogue: 0,0:15:48.16,0:15:49.75,Default - flashback,Gi,0000,0000,0000,,Did I do something wrong?
+Dialogue: 0,0:15:50.20,0:15:52.63,Default - flashback,Gi,0000,0000,0000,,I was looking forward to our battle.
+Dialogue: 0,0:15:53.47,0:15:56.62,Default - flashback,K,0000,0000,0000,,I thought you'd give up \Nif I said just one time.
+Dialogue: 0,0:15:56.62,0:15:58.63,Default - flashback,K,0000,0000,0000,,You really are persistent.
+Dialogue: 0,0:15:58.63,0:15:59.90,Default - flashback,Gi,0000,0000,0000,,Kiyoi?
+Dialogue: 0,0:15:59.90,0:16:03.18,Default - flashback,K,0000,0000,0000,,I don't like WIXOSS, and \NI don't like people like you!
+Dialogue: 0,0:16:07.46,0:16:08.19,Default - flashback,Gi,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:16:18.92,0:16:20.99,Default - flashback,R,0000,0000,0000,,Hello, Selector.
+Dialogue: 0,0:16:20.99,0:16:22.54,Default - flashback,R,0000,0000,0000,,I'm Remember.
+Dialogue: 0,0:16:22.54,0:16:24.75,Default - flashback,R,0000,0000,0000,,I'm here to grant your wish.
+Dialogue: 0,0:16:27.15,0:16:28.25,Default - flashback,K,0000,0000,0000,,My wish?
+Dialogue: 0,0:16:28.98,0:16:34.22,Default - flashback,K,0000,0000,0000,,My wish is... to save Sakaguchi!
+Dialogue: 0,0:16:35.81,0:16:37.88,Default - flashback,Gi,0000,0000,0000,,I accept...
+Dialogue: 0,0:16:37.88,0:16:39.81,Default - flashback,Gi,0000,0000,0000,,I accept...
+Dialogue: 0,0:16:39.81,0:16:41.47,Default - flashback,Gi,0000,0000,0000,,The laws of the Selector.
+Dialogue: 0,0:16:51.08,0:16:53.13,Default - flashback,K,0000,0000,0000,,Remember, what are you doing?
+Dialogue: 0,0:16:53.13,0:16:56.87,Default - flashback,R,0000,0000,0000,,Sakaguchi-san, rest in peace, okay?
+Dialogue: 0,0:17:02.79,0:17:06.21,Default - flashback,R,0000,0000,0000,,She was released from suffering...
+Dialogue: 0,0:17:06.21,0:17:07.92,Default - flashback,R,0000,0000,0000,,through death.
+Dialogue: 0,0:17:07.92,0:17:09.25,Default - flashback,K,0000,0000,0000,,No...
+Dialogue: 0,0:17:09.56,0:17:10.87,Default - flashback,R,0000,0000,0000,,Congratulations.
+Dialogue: 0,0:17:10.87,0:17:13.24,Default - flashback,R,0000,0000,0000,,Your wish came true.
+Dialogue: 0,0:17:17.00,0:17:19.65,Default,K,0000,0000,0000,,It was my fault Sakaguchi \Nwas in that accident,
+Dialogue: 0,0:17:19.65,0:17:21.52,Default,K,0000,0000,0000,,and my fault that Remember killed her,
+Dialogue: 0,0:17:21.52,0:17:25.02,Default,K,0000,0000,0000,,but now I feel nothing about that.
+Dialogue: 0,0:17:25.02,0:17:26.20,Default,A,0000,0000,0000,,Kiyoi?
+Dialogue: 0,0:17:26.65,0:17:29.27,Default,K,0000,0000,0000,,I'm not the real me anymore.
+Dialogue: 0,0:17:29.70,0:17:31.80,Default,K,0000,0000,0000,,If I remain fake forever,
+Dialogue: 0,0:17:31.80,0:17:33.54,Default,K,0000,0000,0000,,I can never face you.
+Dialogue: 0,0:17:34.32,0:17:36.03,Default,K,0000,0000,0000,,I want to truly be your friend.
+Dialogue: 0,0:17:36.81,0:17:39.74,Default,A,0000,0000,0000,,I can't stop you, can I?
+Dialogue: 0,0:17:45.16,0:17:47.36,Default,K,0000,0000,0000,,I want to get my memories back.
+Dialogue: 0,0:17:47.36,0:17:49.75,Default,K,0000,0000,0000,,I want to atone for the past.
+Dialogue: 0,0:17:49.98,0:17:51.71,Default,K,0000,0000,0000,,These are my personal reasons.
+Dialogue: 0,0:17:52.27,0:17:55.50,Default,K,0000,0000,0000,,Everyone has to face this \Nfor their own reasons.
+Dialogue: 0,0:17:57.16,0:17:58.62,Default,Gi,0000,0000,0000,,I'm home!
+Dialogue: 0,0:17:59.50,0:18:01.71,Default,Gi,0000,0000,0000,,Welcome back, Ruu-chan.
+Dialogue: 0,0:18:03.53,0:18:04.66,Default,Gi,0000,0000,0000,,Ruu!
+Dialogue: 0,0:18:07.20,0:18:09.23,Default,Gi,0000,0000,0000,,Welcome back, Ruu!
+Dialogue: 0,0:18:09.78,0:18:11.23,Default,Gi,0000,0000,0000,,I'm home, Tama.
+Dialogue: 0,0:18:11.52,0:18:13.14,Default,Gi,0000,0000,0000,,Oh, my.
+Dialogue: 0,0:18:13.14,0:18:14.28,Default,Gi,0000,0000,0000,,I'm home, Grandma.
+Dialogue: 0,0:18:14.70,0:18:17.62,Default,Gi,0000,0000,0000,,Dinner tonight is meat and \Npotato stew, your favorite.
+Dialogue: 0,0:18:17.62,0:18:18.76,Default,Gi,0000,0000,0000,,Beef and potato!
+Dialogue: 0,0:18:18.76,0:18:20.24,Default,Gi,0000,0000,0000,,That's great!
+Dialogue: 0,0:18:24.35,0:18:25.36,Default,Gi,0000,0000,0000,,Why?
+Dialogue: 0,0:18:30.07,0:18:31.21,Default,Gi,0000,0000,0000,,Who's there?
+Dialogue: 0,0:18:32.38,0:18:33.92,Default,Gi,0000,0000,0000,,Who are you?
+Dialogue: 0,0:18:33.92,0:18:34.71,Default,Gi,0000,0000,0000,,Who?
+Dialogue: 0,0:18:34.71,0:18:35.69,Default,Gi,0000,0000,0000,,An LRIG.
+Dialogue: 0,0:18:35.69,0:18:36.55,Default,Gi,0000,0000,0000,,An LRIG, right?
+Dialogue: 0,0:18:36.55,0:18:37.48,Default,Gi,0000,0000,0000,,Who's there?
+Dialogue: 0,0:18:37.84,0:18:38.68,Default,Gi,0000,0000,0000,,Me.
+Dialogue: 0,0:18:38.68,0:18:40.30,Default,Gi,0000,0000,0000,,I am no one.
+Dialogue: 0,0:18:42.47,0:18:44.58,Default,Gi,0000,0000,0000,,I am this room itself.
+Dialogue: 0,0:18:45.97,0:18:47.60,Default,Gi,0000,0000,0000,,I am Eternal.
+Dialogue: 0,0:18:48.24,0:18:49.56,Default,Gi,0000,0000,0000,,Eternal?
+Dialogue: 0,0:18:49.56,0:18:53.20,Default,Gi,0000,0000,0000,,What is your wish? The wish \Nyou want to come true?
+Dialogue: 0,0:18:53.20,0:18:54.69,Default,Gi,0000,0000,0000,,Tell me your wish.
+Dialogue: 0,0:18:54.69,0:18:55.83,Default,Gi,0000,0000,0000,,Wish?
+Dialogue: 0,0:18:56.25,0:19:00.70,Default,Gi,0000,0000,0000,,Hmph. I just want this boring \Nworld to be more exciting.
+Dialogue: 0,0:19:01.26,0:19:03.12,Default,Gi,0000,0000,0000,,Everything is here.
+Dialogue: 0,0:19:03.64,0:19:05.07,Default,Gi,0000,0000,0000,,Everything...
+Dialogue: 0,0:19:05.77,0:19:07.33,Default,Gi,0000,0000,0000,,Everything...
+Dialogue: 0,0:19:07.62,0:19:08.92,Default,Gi,0000,0000,0000,,What?
+Dialogue: 0,0:19:08.92,0:19:10.68,Default,Gi,0000,0000,0000,,A strong LRIG.
+Dialogue: 0,0:19:10.68,0:19:11.79,Default,Gi,0000,0000,0000,,I've been waiting.
+Dialogue: 0,0:19:11.79,0:19:13.34,Default,Gi,0000,0000,0000,,I've been waiting for you.
+Dialogue: 0,0:19:13.34,0:19:14.75,Default,Gi,0000,0000,0000,,Do you want everything?
+Dialogue: 0,0:19:14.75,0:19:16.42,Default,Gi,0000,0000,0000,,This room...
+Dialogue: 0,0:19:16.42,0:19:19.55,Default,Gi,0000,0000,0000,,You're saying I can control \Nthe Selector battles?
+Dialogue: 0,0:19:20.64,0:19:21.80,Default,Gi,0000,0000,0000,,Open the door.
+Dialogue: 0,0:19:22.37,0:19:23.51,Default,Gi,0000,0000,0000,,Open it.
+Dialogue: 0,0:19:24.00,0:19:25.31,Default,Gi,0000,0000,0000,,You must...
+Dialogue: 0,0:19:25.64,0:19:28.51,Default,Gi,0000,0000,0000,,gather the keys to open \Nthe door of the heart,
+Dialogue: 0,0:19:28.51,0:19:30.81,Default,Gi,0000,0000,0000,,the keys to open the door to despair.
+Dialogue: 0,0:19:31.28,0:19:32.27,Default,Gi,0000,0000,0000,,Gather them.
+Dialogue: 0,0:19:32.27,0:19:33.47,Default,Gi,0000,0000,0000,,You must.
+Dialogue: 0,0:19:33.47,0:19:34.62,Default,Gi,0000,0000,0000,,We're waiting.
+Dialogue: 0,0:19:38.66,0:19:40.88,Default,Gi,0000,0000,0000,,Sounds like fun...
+Dialogue: 0,0:20:11.94,0:20:13.44,Default,K,0000,0000,0000,,Piruluk...
+Dialogue: 0,0:20:13.44,0:20:15.58,Default,Gi,0000,0000,0000,,It's been a long time, Kiyoi.
+Dialogue: 0,0:20:16.02,0:20:18.44,Default,K,0000,0000,0000,,I see. So it's begun.
+Dialogue: 0,0:20:18.44,0:20:20.74,Default,Gi,0000,0000,0000,,Yes. It's begun.
+Dialogue: 0,0:20:20.74,0:20:22.42,Default,Gi,0000,0000,0000,,The Selector battle.
+Dialogue: 0,0:20:25.26,0:20:27.24,Default,Gi,0000,0000,0000,,For the next ninety days,
+Dialogue: 0,0:20:27.24,0:20:31.23,Default,,0000,0000,0000,,you'll battle for coins that \Nare linked to your memories.
+Dialogue: 0,0:20:31.23,0:20:34.36,Default,K,0000,0000,0000,,You're that Piruluk?
+Dialogue: 0,0:20:35.05,0:20:35.92,Default,Gi,0000,0000,0000,,That's right.
+Dialogue: 0,0:20:36.65,0:20:40.80,Default,Gi,0000,0000,0000,,You and I were chosen \Nto be Selector and LRIG.
+Dialogue: 0,0:20:40.80,0:20:45.03,Default,K,0000,0000,0000,,The old rules said that Selectors \Nwere chosen randomly.
+Dialogue: 0,0:20:45.03,0:20:47.06,Default,K,0000,0000,0000,,Is it different this time?
+Dialogue: 0,0:20:47.06,0:20:48.51,Default,Gi,0000,0000,0000,,So it seems.
+Dialogue: 0,0:20:48.98,0:20:51.73,Default,Gi,0000,0000,0000,,I have your memories within me.
+Dialogue: 0,0:20:51.73,0:20:54.48,Default,Gi,0000,0000,0000,,The treasured memories you lost.
+Dialogue: 0,0:20:54.94,0:20:57.19,Default,Gi,0000,0000,0000,,Let's get them back together.
+Dialogue: 0,0:20:57.71,0:20:58.82,Default,K,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:02.62,0:21:03.90,Default,K,0000,0000,0000,,What's this?
+Dialogue: 0,0:21:03.90,0:21:05.16,Default,Gi,0000,0000,0000,,A key card.
+Dialogue: 0,0:21:05.88,0:21:09.16,Default,Gi,0000,0000,0000,,A new rule that was added for these battles.
+Dialogue: 0,0:21:09.16,0:21:10.74,Default,Gi,0000,0000,0000,,To use it...
+Dialogue: 0,0:21:14.86,0:21:18.08,Default,Gi,0000,0000,0000,,More and more Selectors are being born...
+Dialogue: 0,0:21:29.24,0:21:31.06,Default,Gi,0000,0000,0000,,So you're Satomi?
+Dialogue: 0,0:21:32.25,0:21:36.11,Default,C,0000,0000,0000,,That's the name of the \Nlast owner of this body.
+Dialogue: 0,0:21:36.11,0:21:38.06,Default,C,0000,0000,0000,,Call me Carnival.
+Dialogue: 0,0:21:38.31,0:21:40.53,Default,Gi,0000,0000,0000,,Huh... I like it.
+Dialogue: 0,0:21:40.53,0:21:43.00,Default,Gi,0000,0000,0000,,Then you can call me Layla.
+Dialogue: 0,0:21:43.00,0:21:44.52,Default,C,0000,0000,0000,,So what do you want?
+Dialogue: 0,0:21:47.00,0:21:50.49,Default,Gi,0000,0000,0000,,A battle that will make my blood boil.
+Dialogue: 0,0:21:52.95,0:21:55.96,Title,Gi,0000,0000,0000,,Reason / Hesitation and Resolution
+Dialogue: 0,0:23:26.64,0:23:28.79,Default,Preview,0000,0000,0000,,If you want, you can talk to me about it.
+Dialogue: 0,0:23:28.79,0:23:32.32,Default,Preview,0000,0000,0000,,It didn't work out last time, \Nbut I'm starting over.
+Dialogue: 0,0:23:32.32,0:23:35.00,Default,Preview,0000,0000,0000,,I'm helping, too!
+Dialogue: 0,0:23:35.00,0:23:36.52,Default,Preview,0000,0000,0000,,I told you, no!
+Dialogue: 0,0:23:36.52,0:23:38.00,Default,Preview,0000,0000,0000,,Let us begin!
+Dialogue: 0,0:23:37.77,0:23:40.98,Title2,Preview,0000,0000,0000,,{\fad(1500,1)}Initiation / Usual and Unusual
+Dialogue: 0,0:23:38.00,0:23:40.98,Default,Preview,0000,0000,0000,,Initiation / Usual and Unusual.

@@ -1,0 +1,335 @@
+[Script Info]
+Title: English (US)
+Original Script: WarnerJapan  [http://www.crunchyroll.com/user/WarnerJapan]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - flashback,Trebuchet MS,24,&H00F4ECEC,&H000000FF,&H00502300,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0010,0
+Style: Title,Verdana,24,&H00170E06,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0050,0040,0030,0
+Style: Title2,Verdana,24,&H00FFFFFF,&H000000FF,&H001D1911,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,0
+Style: keep out,Arial,24,&H002B2D3E,&H000000FF,&H00748DA2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.48,0:00:05.98,Default,C,0000,0000,0000,,I'll let you choose.
+Dialogue: 0,0:00:06.33,0:00:07.84,Default,C,0000,0000,0000,,Mizushima Kiyoi.
+Dialogue: 0,0:00:07.84,0:00:09.66,Default,C,0000,0000,0000,,Homura Suzuko.
+Dialogue: 0,0:00:09.66,0:00:12.13,Default,C,0000,0000,0000,,Who wants to play me first?
+Dialogue: 0,0:00:18.13,0:00:19.16,Default,K,0000,0000,0000,,I'll—
+Dialogue: 0,0:00:18.40,0:00:20.05,Default,S,0000,0000,0000,,I'll go.
+Dialogue: 0,0:00:20.05,0:00:20.75,Default,K,0000,0000,0000,,Suzuko...
+Dialogue: 0,0:00:21.39,0:00:23.63,Default,S,0000,0000,0000,,Please, let me do it.
+Dialogue: 0,0:00:24.92,0:00:27.67,Default,C,0000,0000,0000,,You're my opponent, Homura Suzuko?
+Dialogue: 0,0:00:29.60,0:00:31.01,Default,C,0000,0000,0000,,Open!
+Dialogue: 0,0:02:16.05,0:02:18.65,Default,S,0000,0000,0000,,Unlock. Coin bet!
+Dialogue: 0,0:02:26.79,0:02:27.62,Default,S,0000,0000,0000,,Grow.
+Dialogue: 0,0:02:28.34,0:02:29.80,Default,C,0000,0000,0000,,Homura Suzuko,
+Dialogue: 0,0:02:29.80,0:02:32.84,Default,C,0000,0000,0000,,I've been waiting for my chance to fight you.
+Dialogue: 0,0:02:32.84,0:02:35.30,Default,C,0000,0000,0000,,Unlock. Coin bet.
+Dialogue: 0,0:02:38.11,0:02:39.93,Default,C,0000,0000,0000,,Coin bet. Joker.
+Dialogue: 0,0:02:40.34,0:02:41.44,Default,Gi,0000,0000,0000,,Joker?
+Dialogue: 0,0:02:41.44,0:02:42.78,Default,Gi,0000,0000,0000,,Suzu, be careful.
+Dialogue: 0,0:02:42.78,0:02:43.30,Default,S,0000,0000,0000,,Right.
+Dialogue: 0,0:02:43.61,0:02:44.85,Default,C,0000,0000,0000,,Direct!
+Dialogue: 0,0:02:58.31,0:03:01.20,Default,C,0000,0000,0000,,That's the pain we LRIGs feel!
+Dialogue: 0,0:03:01.20,0:03:01.78,Default,Gi,0000,0000,0000,,Suzu!
+Dialogue: 0,0:03:01.78,0:03:02.73,Default,Gi,0000,0000,0000,,Suzuko!
+Dialogue: 0,0:03:03.54,0:03:04.79,Default,S,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:03:05.67,0:03:08.13,Default,S,0000,0000,0000,,You've always endured this, Riru...
+Dialogue: 0,0:03:08.13,0:03:09.33,Default,S,0000,0000,0000,,I can, too.
+Dialogue: 0,0:03:11.09,0:03:14.05,Default,S,0000,0000,0000,,The fight's just getting started. \NLet's go, Riru, Meru!
+Dialogue: 0,0:03:14.05,0:03:15.13,Default,Gi,0000,0000,0000,,Right!
+Dialogue: 0,0:03:20.91,0:03:22.48,Default,Gi,0000,0000,0000,,Let's go, Ruu!
+Dialogue: 0,0:03:22.48,0:03:23.59,Default,Gi,0000,0000,0000,,Right!
+Dialogue: 0,0:03:25.35,0:03:27.47,Default,Gi,0000,0000,0000,,I love...
+Dialogue: 0,0:03:27.47,0:03:28.64,Default,Gi,0000,0000,0000,,this feeling!
+Dialogue: 0,0:03:28.85,0:03:30.02,Default,Gi,0000,0000,0000,,Get Charge!
+Dialogue: 0,0:03:44.38,0:03:47.53,Default,Gi,0000,0000,0000,,I won't lose if I'm with Ruu!
+Dialogue: 0,0:03:47.53,0:03:48.95,Default,R,0000,0000,0000,,Tama...
+Dialogue: 0,0:03:51.24,0:03:52.78,Default,Gi,0000,0000,0000,,Just like I thought...
+Dialogue: 0,0:03:53.40,0:03:56.65,Default,Gi,0000,0000,0000,,I felt it the last time we battled.
+Dialogue: 0,0:03:56.65,0:03:59.20,Default,Gi,0000,0000,0000,,You're just like me!
+Dialogue: 0,0:04:01.12,0:04:03.92,Default,Gi,0000,0000,0000,,I've been waiting for someone like me...
+Dialogue: 0,0:04:03.92,0:04:08.37,Default,Gi,0000,0000,0000,,Someone who feels joy when they \Noverwhelm and destroy an enemy,
+Dialogue: 0,0:04:08.37,0:04:10.02,Default,Gi,0000,0000,0000,,just like I do!
+Dialogue: 0,0:04:11.13,0:04:13.52,Default - flashback,Gi,0000,0000,0000,,My life is boring as hell.
+Dialogue: 0,0:04:14.03,0:04:15.46,Default - flashback,Gi,0000,0000,0000,,"I want to battle."
+Dialogue: 0,0:04:15.46,0:04:20.02,Default - flashback,Gi,0000,0000,0000,,"I want a battle that hurts, \Nwhere we both bet everything we have."
+Dialogue: 0,0:04:20.02,0:04:22.03,Default - flashback,Gi,0000,0000,0000,,That's all I ever thought...
+Dialogue: 0,0:04:29.66,0:04:30.74,Default - flashback,Gi,0000,0000,0000,,Wish.
+Dialogue: 0,0:04:31.50,0:04:33.24,Default - flashback,Gi,0000,0000,0000,,Tell us your wish.
+Dialogue: 0,0:04:33.24,0:04:34.57,Default - flashback,Gi,0000,0000,0000,,Do you want to do it?
+Dialogue: 0,0:04:34.57,0:04:36.52,Default - flashback,Gi,0000,0000,0000,,Do you want to have a battle?
+Dialogue: 0,0:04:36.52,0:04:37.88,Default - flashback,Gi,0000,0000,0000,,A Selector battle.
+Dialogue: 0,0:04:38.07,0:04:40.20,Default - flashback,Gi,0000,0000,0000,,If you lose, you'll disappear.
+Dialogue: 0,0:04:40.96,0:04:42.84,Default - flashback,Gi,0000,0000,0000,,Do you still want to fight?
+Dialogue: 0,0:04:44.84,0:04:46.48,Default - flashback,Gi,0000,0000,0000,,Of course I do.
+Dialogue: 0,0:04:47.06,0:04:48.66,Default - flashback,Gi,0000,0000,0000,,That's my wish...
+Dialogue: 0,0:04:48.66,0:04:51.72,Default - flashback,Gi,0000,0000,0000,,That's my only wish!
+Dialogue: 0,0:04:52.93,0:04:54.65,Default,Gi,0000,0000,0000,,I was chosen...
+Dialogue: 0,0:04:54.65,0:04:56.69,Default,Gi,0000,0000,0000,,And I met you.
+Dialogue: 0,0:04:57.06,0:04:59.44,Default,Gi,0000,0000,0000,,Now, let's have more fun!
+Dialogue: 0,0:04:59.44,0:05:03.03,Default,Gi,0000,0000,0000,,We're both the same, so let's \Nfight with all we've got!
+Dialogue: 0,0:05:03.27,0:05:05.65,Default,Gi,0000,0000,0000,,No! I'm not like that!
+Dialogue: 0,0:05:05.65,0:05:08.40,Default,Gi,0000,0000,0000,,Just admit it! Come on!
+Dialogue: 0,0:05:08.40,0:05:09.45,Default,R,0000,0000,0000,,You're wrong!
+Dialogue: 0,0:05:10.31,0:05:11.05,Default,Gi,0000,0000,0000,,Ruu...
+Dialogue: 0,0:05:11.05,0:05:12.40,Default,R,0000,0000,0000,,You're wrong!
+Dialogue: 0,0:05:12.40,0:05:16.25,Default,R,0000,0000,0000,,Tama and I won't fight battles \Nwhere we lose what we care about!
+Dialogue: 0,0:05:16.47,0:05:17.34,Default,gi,0000,0000,0000,,Ruuko...
+Dialogue: 0,0:05:17.34,0:05:21.71,Default,R,0000,0000,0000,,We have to end these battles \Nthat make everyone suffer!
+Dialogue: 0,0:05:21.71,0:05:24.55,Default,R,0000,0000,0000,,That's why we fight!
+Dialogue: 0,0:05:24.55,0:05:26.47,Default,R,0000,0000,0000,,Right, Tama?
+Dialogue: 0,0:05:26.47,0:05:27.47,Default,Gi,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:28.85,0:05:31.60,Default,R,0000,0000,0000,,I'm ending my battle with you now!
+Dialogue: 0,0:05:31.60,0:05:32.68,Default,Gi,0000,0000,0000,,We're ending it!
+Dialogue: 0,0:05:33.49,0:05:35.06,Default,Gi,0000,0000,0000,,So I was wrong...
+Dialogue: 0,0:05:35.51,0:05:37.56,Default,Gi,0000,0000,0000,,Fine. Let's end it.
+Dialogue: 0,0:05:37.56,0:05:39.40,Default,Gi,0000,0000,0000,,But it's you who'll be finished!
+Dialogue: 0,0:05:39.68,0:05:41.10,Default,Gi,0000,0000,0000,,Doping!
+Dialogue: 0,0:05:44.80,0:05:46.31,Default,Gi,0000,0000,0000,,She's coming, Ruuko!
+Dialogue: 0,0:05:46.31,0:05:47.14,Default,R,0000,0000,0000,,Right!
+Dialogue: 0,0:05:51.88,0:05:53.41,Default,C,0000,0000,0000,,Tactical Punish.
+Dialogue: 0,0:05:58.80,0:06:00.92,Default - italics,S,0000,0000,0000,,I can't defeat her with normal attacks.
+Dialogue: 0,0:06:00.92,0:06:02.65,Default - italics,S,0000,0000,0000,,She really is strong!
+Dialogue: 0,0:06:02.65,0:06:05.60,Default,C,0000,0000,0000,,Are you underestimating me, Homura Suzuko?
+Dialogue: 0,0:06:05.60,0:06:08.94,Default,C,0000,0000,0000,,If this is all you've got, \Nthere's no point in me fighting.
+Dialogue: 0,0:06:11.80,0:06:14.26,Default,S,0000,0000,0000,,Riru, Meru, let's do this!
+Dialogue: 0,0:06:19.36,0:06:20.77,Default,C,0000,0000,0000,,Requiem?
+Dialogue: 0,0:06:22.24,0:06:23.77,Default,C,0000,0000,0000,,Very well.
+Dialogue: 0,0:06:23.77,0:06:28.45,Default,C,0000,0000,0000,,Now I can destroy the horrible \Npast where it defeated me!
+Dialogue: 0,0:06:28.45,0:06:29.49,Default,C,0000,0000,0000,,Grow!
+Dialogue: 0,0:06:40.42,0:06:41.92,Default,S,0000,0000,0000,,Level 5?
+Dialogue: 0,0:06:42.14,0:06:43.14,Default,H,0000,0000,0000,,Shock.
+Dialogue: 0,0:06:43.14,0:06:44.67,Default,H,0000,0000,0000,,It wasn't just an urban legend?
+Dialogue: 0,0:06:44.67,0:06:47.01,Default,K,0000,0000,0000,,Carnival reached level 5?
+Dialogue: 0,0:06:47.24,0:06:50.48,Default,C,0000,0000,0000,,The ultimate being, \Nwho's gone beyond the limits...
+Dialogue: 0,0:06:50.48,0:06:52.62,Default,C,0000,0000,0000,,That's what level 5 means!
+Dialogue: 0,0:06:53.94,0:06:55.62,Default,Gi,0000,0000,0000,,Suzu, what do we do?
+Dialogue: 0,0:07:03.12,0:07:04.98,Default,S,0000,0000,0000,,Let's do it. Requiem.
+Dialogue: 0,0:07:05.31,0:07:07.48,Default,Gi,0000,0000,0000,,But she's level 5.
+Dialogue: 0,0:07:07.48,0:07:09.44,Default,Gi,0000,0000,0000,,If it doesn't work...
+Dialogue: 0,0:07:09.44,0:07:11.28,Default,Gi,0000,0000,0000,,Suzu, don't tell me...
+Dialogue: 0,0:07:15.61,0:07:18.46,Default,S,0000,0000,0000,,Riru, Meru, lend me your strength!
+Dialogue: 0,0:07:18.94,0:07:20.12,Default,S,0000,0000,0000,,Coin bet!
+Dialogue: 0,0:07:20.32,0:07:21.73,Default,BOth,0000,0000,0000,,Requiem!
+Dialogue: 0,0:07:29.75,0:07:31.59,Default,C,0000,0000,0000,,Fate Struggle.
+Dialogue: 0,0:07:35.29,0:07:36.34,Default,Gi,0000,0000,0000,,What's this?
+Dialogue: 0,0:07:36.34,0:07:38.81,Default,Gi,0000,0000,0000,,Requiem's power is being erased!
+Dialogue: 0,0:07:49.03,0:07:50.61,Default,S,0000,0000,0000,,Riru! Meru!
+Dialogue: 0,0:07:50.83,0:07:51.79,Default,C,0000,0000,0000,,Did you see that?
+Dialogue: 0,0:07:51.79,0:07:53.81,Default,C,0000,0000,0000,,This is my power!
+Dialogue: 0,0:07:53.81,0:07:56.37,Default,C,0000,0000,0000,,I'm the strongest!
+Dialogue: 0,0:07:58.45,0:08:00.36,Default,C,0000,0000,0000,,It's about time for checkmate.
+Dialogue: 0,0:08:00.36,0:08:04.58,Default,C,0000,0000,0000,,Coin bet. Joker. Requiem.
+Dialogue: 0,0:08:08.67,0:08:09.68,Default,H,0000,0000,0000,,Astonishment...
+Dialogue: 0,0:08:09.68,0:08:12.04,Default,H,0000,0000,0000,,This is a level 5 Requiem?
+Dialogue: 0,0:08:12.04,0:08:12.67,Default,K,0000,0000,0000,,Suzuko!
+Dialogue: 0,0:08:26.72,0:08:27.86,Default,K,0000,0000,0000,,Riru! Meru!
+Dialogue: 0,0:08:31.40,0:08:32.57,Default,H,0000,0000,0000,,Thank you!
+Dialogue: 0,0:08:41.21,0:08:44.06,Default,H,0000,0000,0000,,Suzuko... I can't believe you...
+Dialogue: 0,0:08:45.79,0:08:47.97,Default,S,0000,0000,0000,,I'm sorry. I lost.
+Dialogue: 0,0:08:51.12,0:08:52.58,Default,S,0000,0000,0000,,It's okay.
+Dialogue: 0,0:08:52.58,0:08:54.34,Default,S,0000,0000,0000,,You can win, Kiyoi-chan.
+Dialogue: 0,0:09:04.40,0:09:06.31,Default,K,0000,0000,0000,,Let's finish this.
+Dialogue: 0,0:09:06.49,0:09:08.02,Default,C,0000,0000,0000,,Very well.
+Dialogue: 0,0:09:09.45,0:09:10.61,Default,C,0000,0000,0000,,Open!
+Dialogue: 0,0:09:17.06,0:09:20.35,Default,C,0000,0000,0000,,Come out, other king.
+Dialogue: 0,0:09:21.16,0:09:21.83,Default,K,0000,0000,0000,,Unlock.
+Dialogue: 0,0:09:21.83,0:09:23.54,Default,K,0000,0000,0000,,Coin bet.
+Dialogue: 0,0:09:35.71,0:09:37.17,Default,K,0000,0000,0000,,Kiyoi-chan...
+Dialogue: 0,0:09:37.17,0:09:38.39,Default,H,0000,0000,0000,,Lecture!
+Dialogue: 0,0:09:38.92,0:09:43.88,Default,H,0000,0000,0000,,Suzuko-san, you didn't need to take such a \Nbig risk to show Kiyoi-san how Carnival fights.
+Dialogue: 0,0:09:43.88,0:09:46.07,Default,S,0000,0000,0000,,I was planning on winning.
+Dialogue: 0,0:09:46.59,0:09:49.69,Default,S,0000,0000,0000,,But I didn't know there was \Nsuch a thing as level 5.
+Dialogue: 0,0:09:51.32,0:09:54.04,Default,S,0000,0000,0000,,Still, I think I was a little helpful.
+Dialogue: 0,0:09:54.04,0:09:55.11,Default,H,0000,0000,0000,,Understanding.
+Dialogue: 0,0:09:56.53,0:09:59.05,Default,H,0000,0000,0000,,Now, let's entrust the rest to Kiyoi-san.
+Dialogue: 0,0:10:04.71,0:10:06.00,Default,Gi,0000,0000,0000,,Come on!
+Dialogue: 0,0:10:06.00,0:10:08.17,Default,Gi,0000,0000,0000,,You can't even hit me back?!
+Dialogue: 0,0:10:14.68,0:10:16.66,Default,R,0000,0000,0000,,Tama! Coin bet!
+Dialogue: 0,0:10:16.66,0:10:18.06,Default,Gi,0000,0000,0000,,Innocence!
+Dialogue: 0,0:10:24.35,0:10:26.38,Default,R,0000,0000,0000,,Spell: Strategy Gale!
+Dialogue: 0,0:10:26.38,0:10:27.35,Default,R,0000,0000,0000,,Tama, attack!
+Dialogue: 0,0:10:29.19,0:10:30.44,Default,Gi,0000,0000,0000,,Right!
+Dialogue: 0,0:10:30.79,0:10:33.40,Default,Gi,0000,0000,0000,,You really are just like me!
+Dialogue: 0,0:10:33.40,0:10:36.20,Default,Gi,0000,0000,0000,,It's fun beating the hell out of people, isn't it?
+Dialogue: 0,0:10:36.20,0:10:37.03,Default,Gi,0000,0000,0000,,I am not!
+Dialogue: 0,0:10:37.03,0:10:38.57,Default,Gi,0000,0000,0000,,You are!
+Dialogue: 0,0:10:38.57,0:10:40.49,Default,Gi,0000,0000,0000,,You and I are the same!
+Dialogue: 0,0:10:59.00,0:11:01.70,Default,Gi,0000,0000,0000,,That was so fun...
+Dialogue: 0,0:11:01.70,0:11:03.73,Default,Gi,0000,0000,0000,,I'd love to do it again...
+Dialogue: 0,0:11:14.22,0:11:15.08,Default,Gi,0000,0000,0000,,Midoriko!
+Dialogue: 0,0:11:15.08,0:11:15.86,Default,Gi,0000,0000,0000,,Hanayo-san!
+Dialogue: 0,0:11:16.09,0:11:17.61,Default,Gi,0000,0000,0000,,Ruu, I won!
+Dialogue: 0,0:11:17.99,0:11:19.73,Default,R,0000,0000,0000,,I was so worried.
+Dialogue: 0,0:11:19.73,0:11:21.28,Default,R,0000,0000,0000,,Where were you?
+Dialogue: 0,0:11:21.28,0:11:23.54,Default,Gi,0000,0000,0000,,I was taken to the room of white windows.
+Dialogue: 0,0:11:23.54,0:11:25.42,Default,Gi,0000,0000,0000,,But Yuki let me out!
+Dialogue: 0,0:11:25.42,0:11:26.12,Default,Gi,0000,0000,0000,,Yuki did?
+Dialogue: 0,0:11:26.80,0:11:30.14,Default,Gi,0000,0000,0000,,But Yuki's still there...
+Dialogue: 0,0:11:31.11,0:11:32.06,Default,Gi,0000,0000,0000,,Tama.
+Dialogue: 0,0:11:33.26,0:11:34.28,Default,Gi,0000,0000,0000,,Yuki?
+Dialogue: 0,0:11:34.28,0:11:36.25,Default,R,0000,0000,0000,,What's wrong, Tama?
+Dialogue: 0,0:11:36.25,0:11:38.42,Default,Gi,0000,0000,0000,,I can hear Yuki's voice!
+Dialogue: 0,0:11:39.96,0:11:42.46,Default,Gi,0000,0000,0000,,Tama, open the door.
+Dialogue: 0,0:11:42.90,0:11:44.38,Default,Gi,0000,0000,0000,,The real door.
+Dialogue: 0,0:11:45.18,0:11:47.59,Default,Gi,0000,0000,0000,,The real door?
+Dialogue: 0,0:11:48.76,0:11:52.30,Default,Gi,0000,0000,0000,,Tell Ruu to find the room.
+Dialogue: 0,0:11:52.30,0:11:54.31,Default,Gi,0000,0000,0000,,The room of the beginning of all things.
+Dialogue: 0,0:11:54.80,0:11:57.23,Default,Gi,0000,0000,0000,,The room of the beginning...
+Dialogue: 0,0:11:58.00,0:11:59.80,Default,C,0000,0000,0000,,Activate Joker.
+Dialogue: 0,0:11:59.80,0:12:01.49,Default,C,0000,0000,0000,,Turn Merlin into Shiva.
+Dialogue: 0,0:12:04.49,0:12:07.49,Default,C,0000,0000,0000,,Lancelot. Attack.
+Dialogue: 0,0:12:12.04,0:12:13.66,Default,S,0000,0000,0000,,She's losing...
+Dialogue: 0,0:12:13.66,0:12:16.21,Default,S,0000,0000,0000,,Why doesn't she use her coin skills?
+Dialogue: 0,0:12:16.21,0:12:17.41,Default,H,0000,0000,0000,,Hypothesis.
+Dialogue: 0,0:12:17.41,0:12:19.98,Default,H,0000,0000,0000,,Perhaps she's waiting for \Nsome kind of opening?
+Dialogue: 0,0:12:21.89,0:12:24.21,Default,Gi,0000,0000,0000,,The room of the beginning of all things?
+Dialogue: 0,0:12:24.21,0:12:26.97,Default,R,0000,0000,0000,,The real door is there?
+Dialogue: 0,0:12:27.30,0:12:30.47,Default,Gi,0000,0000,0000,,Yeah. Yuki said to find that room.
+Dialogue: 0,0:12:30.76,0:12:32.92,Default,Gi,0000,0000,0000,,We have to tell the others!
+Dialogue: 0,0:12:32.92,0:12:33.72,Default,Gi,0000,0000,0000,,Yeah...
+Dialogue: 0,0:12:41.35,0:12:42.97,Default,C,0000,0000,0000,,Mizushima Kiyoi.
+Dialogue: 0,0:12:42.97,0:12:46.45,Default,C,0000,0000,0000,,Are you sure you want to \Nend the Selector battles?
+Dialogue: 0,0:12:46.97,0:12:48.16,Default,K,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:12:48.16,0:12:50.24,Default,C,0000,0000,0000,,I know you realize
+Dialogue: 0,0:12:50.24,0:12:53.25,Default,C,0000,0000,0000,,that everyone wants the battles!
+Dialogue: 0,0:12:53.57,0:12:57.54,Default,C,0000,0000,0000,,We LRIGs can't live without them.
+Dialogue: 0,0:12:57.54,0:12:59.09,Default,C,0000,0000,0000,,Humans are the same, right?
+Dialogue: 0,0:12:59.09,0:13:04.59,Default,C,0000,0000,0000,,They're all looking for a place to unleash \Nthe rage, sadness, and hate in their hearts.
+Dialogue: 0,0:13:04.59,0:13:07.39,Default,C,0000,0000,0000,,That's why the Selector battles never end.
+Dialogue: 0,0:13:07.85,0:13:12.93,Default,C,0000,0000,0000,,And this is the perfect arena, \Na place for them to do it!
+Dialogue: 0,0:13:12.93,0:13:15.77,Default,C,0000,0000,0000,,That room is a holy ground for LRIGs.
+Dialogue: 0,0:13:15.77,0:13:17.40,Default,C,0000,0000,0000,,It has to be protected.
+Dialogue: 0,0:13:17.78,0:13:21.48,Default,C,0000,0000,0000,,Both LRIGs and humans want it.
+Dialogue: 0,0:13:21.48,0:13:22.46,Default,S,0000,0000,0000,,No!
+Dialogue: 0,0:13:22.46,0:13:24.59,Default,S,0000,0000,0000,,That's not what I want!
+Dialogue: 0,0:13:24.59,0:13:25.70,Default,H,0000,0000,0000,,Agreement.
+Dialogue: 0,0:13:25.71,0:13:28.84,Default,H,0000,0000,0000,,It's infuriating to hear you say \Neveryone shares your personal opinion!
+Dialogue: 0,0:13:29.16,0:13:32.23,Default,C,0000,0000,0000,,Then why do the Selector battles still exist?
+Dialogue: 0,0:13:32.23,0:13:35.21,Default,C,0000,0000,0000,,They don't end because you \Nhumans don't want them to!
+Dialogue: 0,0:13:36.16,0:13:37.25,Default,S,0000,0000,0000,,No...
+Dialogue: 0,0:13:37.25,0:13:41.04,Default,C,0000,0000,0000,,The Selector battles don't end \Nbecause humans don't want them to.
+Dialogue: 0,0:13:41.29,0:13:43.16,Default,C,0000,0000,0000,,If you call that darkness,
+Dialogue: 0,0:13:43.16,0:13:45.94,Default,C,0000,0000,0000,,then the darkness will continue forever...
+Dialogue: 0,0:13:46.54,0:13:48.68,Default,C,0000,0000,0000,,That's the truth!
+Dialogue: 0,0:13:50.40,0:13:51.57,Default,K,0000,0000,0000,,Yes.
+Dialogue: 0,0:13:52.63,0:13:54.90,Default,K,0000,0000,0000,,The darkness exists in everyone's heart.
+Dialogue: 0,0:13:55.68,0:13:57.10,Default,K,0000,0000,0000,,In mine, as well.
+Dialogue: 0,0:13:57.91,0:14:01.38,Default,K,0000,0000,0000,,But people overcome it to become stronger.
+Dialogue: 0,0:14:02.44,0:14:05.40,Default,K,0000,0000,0000,,They can find the light beyond the darkness.
+Dialogue: 0,0:14:05.63,0:14:07.53,Default,K,0000,0000,0000,,Friends I truly believe in,
+Dialogue: 0,0:14:07.89,0:14:10.45,Default,K,0000,0000,0000,,comrades who believe in me...
+Dialogue: 0,0:14:10.45,0:14:13.70,Default,K,0000,0000,0000,,Someone I loved, who believed \Nin a person like me.
+Dialogue: 0,0:14:14.60,0:14:16.88,Default,K,0000,0000,0000,,Even if the darkness is too \Nbig for me to carry alone,
+Dialogue: 0,0:14:16.88,0:14:19.52,Default,K,0000,0000,0000,,I can overcome it with someone else's help.
+Dialogue: 0,0:14:19.52,0:14:21.36,Default,K,0000,0000,0000,,That's what humans are.
+Dialogue: 0,0:14:21.36,0:14:22.71,Default,K,0000,0000,0000,,That is our strength!
+Dialogue: 0,0:14:23.28,0:14:24.84,Default,S,0000,0000,0000,,Kiyoi-chan!
+Dialogue: 0,0:14:27.96,0:14:31.68,Default,C,0000,0000,0000,,Then use that strength to stop me!
+Dialogue: 0,0:14:31.68,0:14:32.76,Default,C,0000,0000,0000,,Grow!
+Dialogue: 0,0:14:33.43,0:14:34.76,Default,,0000,0000,0000,,Coin bet!
+Dialogue: 0,0:14:34.76,0:14:35.81,Default,C,0000,0000,0000,,Joker!
+Dialogue: 0,0:14:36.04,0:14:37.74,Default,C,0000,0000,0000,,Doping!
+Dialogue: 0,0:14:50.36,0:14:53.07,Default,C,0000,0000,0000,,An unending series of \Nperfectly arranged battles!
+Dialogue: 0,0:14:53.39,0:14:56.45,Default,C,0000,0000,0000,,That is the new world I'm going to create!
+Dialogue: 0,0:14:57.21,0:14:59.01,Default,C,0000,0000,0000,,I am a Selector!
+Dialogue: 0,0:14:59.01,0:15:01.72,Default,C,0000,0000,0000,,I am the one who chooses!
+Dialogue: 0,0:15:01.72,0:15:02.91,Default,K,0000,0000,0000,,No.
+Dialogue: 0,0:15:03.52,0:15:05.25,Default,K,0000,0000,0000,,You've chosen nothing.
+Dialogue: 0,0:15:05.25,0:15:06.71,Default,C,0000,0000,0000,,What?
+Dialogue: 0,0:15:07.02,0:15:10.06,Default,K,0000,0000,0000,,You think you've chosen everything,
+Dialogue: 0,0:15:10.06,0:15:13.09,Default,K,0000,0000,0000,,but you were only doing what \NEternal wanted you to do!
+Dialogue: 0,0:15:14.39,0:15:17.46,Default,C,0000,0000,0000,,Eternal was also my choice.
+Dialogue: 0,0:15:17.46,0:15:19.24,Default,C,0000,0000,0000,,Everything I did was by my own will...
+Dialogue: 0,0:15:19.24,0:15:20.48,Default,C,0000,0000,0000,,It was my choice!
+Dialogue: 0,0:15:20.99,0:15:25.28,Default,K,0000,0000,0000,,If your choice was to be Eternal's pawn,
+Dialogue: 0,0:15:25.28,0:15:26.73,Default,K,0000,0000,0000,,then you can't beat us!
+Dialogue: 0,0:15:28.89,0:15:30.03,Default,K,0000,0000,0000,,I'll prove it.
+Dialogue: 0,0:15:30.75,0:15:32.14,Default,K,0000,0000,0000,,Coin bet!
+Dialogue: 0,0:15:34.21,0:15:35.55,Default,K,0000,0000,0000,,Catharsis!
+Dialogue: 0,0:15:55.31,0:15:56.62,Default,C,0000,0000,0000,,What is this?
+Dialogue: 0,0:15:58.16,0:16:01.47,Default,C,0000,0000,0000,,What did you do?
+Dialogue: 0,0:16:02.66,0:16:05.22,Default,K,0000,0000,0000,,I know level 5,
+Dialogue: 0,0:16:05.22,0:16:07.29,Default,K,0000,0000,0000,,and I know that there's nothing beyond it.
+Dialogue: 0,0:16:08.00,0:16:11.20,Default,K,0000,0000,0000,,So I raised your level again.
+Dialogue: 0,0:16:11.86,0:16:15.91,Default,K,0000,0000,0000,,The power has gone beyond its limits \Nand is going out of control inside you.
+Dialogue: 0,0:16:16.61,0:16:18.85,Default,C,0000,0000,0000,,I'm going to lose?
+Dialogue: 0,0:16:19.34,0:16:22.91,Default,C,0000,0000,0000,,I didn't choose that!
+Dialogue: 0,0:16:23.72,0:16:27.07,Default,K,0000,0000,0000,,We didn't choose to be Selectors.
+Dialogue: 0,0:16:27.74,0:16:29.67,Default,K,0000,0000,0000,,That's why everyone keeps struggling.
+Dialogue: 0,0:16:30.08,0:16:34.04,Default,K,0000,0000,0000,,But you accepted everything from the start.
+Dialogue: 0,0:16:34.04,0:16:37.39,Default,K,0000,0000,0000,,Just like Eternal, the one \Nwho chose you, wanted.
+Dialogue: 0,0:16:39.50,0:16:42.98,Default,C,0000,0000,0000,,No... I'm a Selector...
+Dialogue: 0,0:16:44.07,0:16:45.91,Default,C,0000,0000,0000,,I am the only...
+Dialogue: 0,0:16:47.73,0:16:49.62,Default,C,0000,0000,0000,,Selector!
+Dialogue: 0,0:17:01.32,0:17:04.84,Default,S,0000,0000,0000,,Kiyoi-chan, you did it!
+Dialogue: 0,0:17:04.84,0:17:06.42,Default,H,0000,0000,0000,,You did it, Kiyoi-san!
+Dialogue: 0,0:17:06.87,0:17:08.56,Default,K,0000,0000,0000,,It's thanks to you.
+Dialogue: 0,0:17:08.56,0:17:10.40,Default,K,0000,0000,0000,,Thank you, Suzuko.
+Dialogue: 0,0:17:10.86,0:17:13.09,Default,R,0000,0000,0000,,There they are! Kiyoi-chan!
+Dialogue: 0,0:17:13.80,0:17:14.82,Default,K,0000,0000,0000,,Ruuko!
+Dialogue: 0,0:17:25.40,0:17:27.60,Default,K,0000,0000,0000,,It looks like this is all of them.
+Dialogue: 0,0:17:28.12,0:17:29.10,Default,H,0000,0000,0000,,Conclusion.
+Dialogue: 0,0:17:29.10,0:17:32.74,Default,H,0000,0000,0000,,The only question left is who goes \Nto the room of white windows.
+Dialogue: 0,0:17:33.65,0:17:36.31,Default,S,0000,0000,0000,,I think Kiyoi-chan should.
+Dialogue: 0,0:17:37.77,0:17:41.08,Default,S,0000,0000,0000,,We only made it this far because of you.
+Dialogue: 0,0:17:41.60,0:17:47.46,Default,S,0000,0000,0000,,And I believe that you'll \Nmake the best choice.
+Dialogue: 0,0:17:47.76,0:17:48.93,Default,H,0000,0000,0000,,Agreement.
+Dialogue: 0,0:17:49.46,0:17:52.94,Default,H,0000,0000,0000,,Suzuko-san's wish, everyone else's hopes...
+Dialogue: 0,0:17:53.52,0:17:57.22,Default,H,0000,0000,0000,,We'll entrust them all to you, Kiyoi-san.
+Dialogue: 0,0:18:02.11,0:18:04.68,Default,R,0000,0000,0000,,There's something bothering me...
+Dialogue: 0,0:18:07.34,0:18:09.35,Default,K,0000,0000,0000,,The room of the beginning of all things?
+Dialogue: 0,0:18:09.60,0:18:12.50,Default,R,0000,0000,0000,,The real door is there, she said.
+Dialogue: 0,0:18:13.00,0:18:14.32,Default,Gi,0000,0000,0000,,Maybe...
+Dialogue: 0,0:18:14.94,0:18:20.07,Default,Gi,0000,0000,0000,,The Selector battles were created when Mayu \Nsought a connection with the outside world.
+Dialogue: 0,0:18:18.01,0:18:18.63,keep out,,0000,0000,0000,,Keep Out
+Dialogue: 0,0:18:20.66,0:18:22.78,Default,Gi,0000,0000,0000,,Everything was born in that room.
+Dialogue: 0,0:18:23.34,0:18:26.75,Default,Gi,0000,0000,0000,,Maybe that's what Yuki was talking about.
+Dialogue: 0,0:18:28.01,0:18:31.63,Default,Gi,0000,0000,0000,,I think I have to go there.
+Dialogue: 0,0:18:31.63,0:18:33.25,Default,Gi,0000,0000,0000,,For Mayu's sake, as well.
+Dialogue: 0,0:18:33.65,0:18:34.79,Default,H,0000,0000,0000,,Confirmation.
+Dialogue: 0,0:18:34.79,0:18:37.16,Default,H,0000,0000,0000,,Let's go there.
+Dialogue: 0,0:18:37.16,0:18:38.22,Default,R,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:05.74,0:19:07.95,Default,R,0000,0000,0000,,I forfeit this battle!
+Dialogue: 0,0:19:26.28,0:19:28.31,Default,R,0000,0000,0000,,Is that... the key?
+Dialogue: 0,0:19:34.88,0:19:35.86,Default,R,0000,0000,0000,,Tama!
+Dialogue: 0,0:19:37.26,0:19:41.53,Default,Gi,0000,0000,0000,,Ruu... I have to go to Yuki.
+Dialogue: 0,0:19:44.40,0:19:47.04,Default,R,0000,0000,0000,,Go. Be careful.
+Dialogue: 0,0:19:47.64,0:19:48.51,Default,Gi,0000,0000,0000,,Okay!
+Dialogue: 0,0:19:55.92,0:19:57.75,Default,Gi,0000,0000,0000,,We'll be going, then.
+Dialogue: 0,0:20:32.67,0:20:34.45,Default,Gi,0000,0000,0000,,I am Eternal.
+Dialogue: 0,0:20:35.83,0:20:38.21,Default,Gi,0000,0000,0000,,Welcome, Selector.
+Dialogue: 0,0:20:39.30,0:20:40.49,Default,Gi,0000,0000,0000,,You're...
+Dialogue: 0,0:20:42.09,0:20:43.24,Default,Gi,0000,0000,0000,,Tama!
+Dialogue: 0,0:20:43.24,0:20:44.37,Default,Gi,0000,0000,0000,,It's okay.
+Dialogue: 0,0:20:44.37,0:20:46.65,Default,Gi,0000,0000,0000,,I'll save Yuki!
+Dialogue: 0,0:20:51.32,0:20:53.92,Default,Gi,0000,0000,0000,,You found the key.
+Dialogue: 0,0:20:59.55,0:21:01.03,Default,Gi,0000,0000,0000,,Open the door.
+Dialogue: 0,0:21:50.51,0:21:51.75,Default,Gi,0000,0000,0000,,What is this place?
+Dialogue: 0,0:21:53.04,0:21:56.04,Title,Gi,0000,0000,0000,,Choice / Battle and Battle
+Dialogue: 0,0:23:26.72,0:23:28.64,Default,Gi,0000,0000,0000,,This room is yours.
+Dialogue: 0,0:23:28.64,0:23:30.92,Default,Gi,0000,0000,0000,,You are the new law.
+Dialogue: 0,0:23:30.92,0:23:32.04,Default,Gi,0000,0000,0000,,Why do you end it?
+Dialogue: 0,0:23:32.04,0:23:33.69,Default,Gi,0000,0000,0000,,Why do you seek memories?
+Dialogue: 0,0:23:33.69,0:23:35.76,Default,Gi,0000,0000,0000,,What waits when you end it?
+Dialogue: 0,0:23:35.76,0:23:37.72,Default,Gi,0000,0000,0000,,Nothing but overwhelming force...
+Dialogue: 0,0:23:37.72,0:23:39.78,Default,Gi,0000,0000,0000,,This is my battle.
+Dialogue: 0,0:23:38.02,0:23:41.06,Title2,Gi,0000,0000,0000,,{\fad(1100,1)}Light
+Dialogue: 0,0:23:40.25,0:23:41.06,Default,Gi,0000,0000,0000,,"Light."

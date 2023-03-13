@@ -1,0 +1,398 @@
+[Script Info]
+Title: English (US)
+Original Script: WarnerJapan  [http://www.crunchyroll.com/user/WarnerJapan]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - flashback,Trebuchet MS,24,&H00F4ECEC,&H000000FF,&H00502300,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0010,0
+Style: Title,Verdana,28,&H00170E06,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0050,0040,0030,0
+Style: Title2,Verdana,24,&H00FFFFFF,&H000000FF,&H001D1911,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,0
+Style: sign_5041_33_Mizushima,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H0077685C,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0189,0228,0134,0
+Style: sign_5048_34_Mizushima,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H0077685C,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0165,0152,0164,0
+Style: sign_15001_155_Grape,Trebuchet MS,14,&H0086EAC3,&H000000FF,&H00FFFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0186,0094,0094,0
+Style: sign_15001_156_Orange,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H00706E60,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0228,0010,0110,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.54,0:00:14.66,Default,Gi,0000,0000,0000,,I guess it's true that Kiyoi-chan \Nreally cares about her friends.
+Dialogue: 0,0:00:15.48,0:00:17.74,Default,Gi,0000,0000,0000,,She was pissed.
+Dialogue: 0,0:00:17.96,0:00:22.21,Default,Gi,0000,0000,0000,,Kiyoi-chan will do anything for a friend.
+Dialogue: 0,0:00:22.21,0:00:24.50,Default,Gi,0000,0000,0000,,I'm glad she hasn't changed.
+Dialogue: 0,0:00:24.50,0:00:27.75,Default,Gi,0000,0000,0000,,Do you really think you can \Nget away with doing this?
+Dialogue: 0,0:00:28.09,0:00:29.71,Default,Gi,0000,0000,0000,,This is a crime!
+Dialogue: 0,0:00:29.71,0:00:32.00,Default,Gi,0000,0000,0000,,So what?
+Dialogue: 0,0:00:32.00,0:00:33.97,Default,Gi,0000,0000,0000,,Once I've beaten the shit out of her,
+Dialogue: 0,0:00:33.97,0:00:38.33,Default,Gi,0000,0000,0000,,I'll take some embarrassing photos \Nso you can't go to the cops.
+Dialogue: 0,0:00:38.33,0:00:41.22,Default,Gi,0000,0000,0000,,Gosh, Akira-chan's such a monster!
+Dialogue: 0,0:00:41.96,0:00:45.48,Default,Gi,0000,0000,0000,,You'd go that far? Just because \Nyou can't beat in her battle?
+Dialogue: 0,0:00:45.90,0:00:47.44,Default,Gi,0000,0000,0000,,Shut up!
+Dialogue: 0,0:00:50.88,0:00:55.49,Default,Gi,0000,0000,0000,,That bitch always slowed me down.
+Dialogue: 0,0:00:55.74,0:00:58.40,Default,Gi,0000,0000,0000,,If it weren't for her, I could've won!
+Dialogue: 0,0:00:58.40,0:01:01.04,Default,Gi,0000,0000,0000,,My wish would've come true!
+Dialogue: 0,0:01:01.24,0:01:03.59,Default,Gi,0000,0000,0000,,I'll never forgive her!
+Dialogue: 0,0:01:03.59,0:01:08.05,Default,Gi,0000,0000,0000,,I'll make her suffer so much, \Nshe'll never think of disobeying me again!
+Dialogue: 0,0:01:08.64,0:01:10.29,Default,Gi,0000,0000,0000,,What are you going to do to Kiyoi?
+Dialogue: 0,0:01:10.29,0:01:13.17,Default,Gi,0000,0000,0000,,She and I are going to battle, that's all.
+Dialogue: 0,0:01:14.11,0:01:18.96,Default,Gi,0000,0000,0000,,Well, with you as my hostage, \Nthere's no way I can lose.
+Dialogue: 0,0:01:20.59,0:01:22.07,Default,Gi,0000,0000,0000,,You're wasting your time.
+Dialogue: 0,0:01:22.07,0:01:24.68,Default,Gi,0000,0000,0000,,Nobody's coming to save you.
+Dialogue: 0,0:01:27.10,0:01:28.28,Default - italics,Gi,0000,0000,0000,,Kiyoi...
+Dialogue: 0,0:01:31.25,0:01:32.44,Default - italics,Gi,0000,0000,0000,,Amika...
+Dialogue: 0,0:03:06.48,0:03:10.26,Default,Gi,0000,0000,0000,,We got Yuzuki back, but she's still an LRIG.
+Dialogue: 0,0:03:10.26,0:03:12.63,Default,Gi,0000,0000,0000,,What can we do to make her human again?
+Dialogue: 0,0:03:13.10,0:03:15.09,Default,Gi,0000,0000,0000,,What if we got five coins?
+Dialogue: 0,0:03:15.09,0:03:18.82,Default,Gi,0000,0000,0000,,Layla had five, and nothing really changed...
+Dialogue: 0,0:03:20.28,0:03:23.14,Default,Gi,0000,0000,0000,,There are too many rules we don't know!
+Dialogue: 0,0:03:26.26,0:03:27.72,Default,Gi,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:03:27.72,0:03:30.23,Default,Gi,0000,0000,0000,,Maybe she'd know!
+Dialogue: 0,0:03:30.23,0:03:30.52,sign_5041_33_Mizushima,Gi,0000,0000,0000,,Mizushima Kiyoi
+Dialogue: 0,0:03:30.52,0:03:31.23,sign_5048_34_Mizushima,Gi,0000,0000,0000,,Mizushima Kiyoi
+Dialogue: 0,0:03:54.29,0:03:56.34,Default,Gi,0000,0000,0000,,You're finally here.
+Dialogue: 0,0:03:56.34,0:03:58.09,Default,Gi,0000,0000,0000,,I was getting tired of waiting.
+Dialogue: 0,0:03:58.70,0:04:02.53,Default,Gi,0000,0000,0000,,Akira-chan, introduce me, too!
+Dialogue: 0,0:04:02.53,0:04:04.70,Default,Gi,0000,0000,0000,,Huh? God, you're annoying.
+Dialogue: 0,0:04:05.52,0:04:08.26,Default,Gi,0000,0000,0000,,Hello again, Kiyoi-chan!
+Dialogue: 0,0:04:08.56,0:04:09.83,Default,Gi,0000,0000,0000,,Remember!
+Dialogue: 0,0:04:09.83,0:04:11.88,Default,Gi,0000,0000,0000,,I haven't seen you since that day!
+Dialogue: 0,0:04:13.41,0:04:17.40,Default,Gi,0000,0000,0000,,I've been wanting to see you \Nagain for a long, long time.
+Dialogue: 0,0:04:17.80,0:04:20.19,Default,Gi,0000,0000,0000,,I wanted to play with you again.
+Dialogue: 0,0:04:20.68,0:04:23.24,Default,Gi,0000,0000,0000,,Our positions are reversed from last time,
+Dialogue: 0,0:04:23.24,0:04:25.07,Default,Gi,0000,0000,0000,,but we finally meet!
+Dialogue: 0,0:04:26.33,0:04:27.90,Default,Gi,0000,0000,0000,,Where's Amika?
+Dialogue: 0,0:04:27.90,0:04:30.12,Default,Gi,0000,0000,0000,,Who knows?
+Dialogue: 0,0:04:30.12,0:04:32.20,Default,Gi,0000,0000,0000,,She might not be here, I can tell you that.
+Dialogue: 0,0:04:36.42,0:04:41.46,Default,Gi,0000,0000,0000,,If you want her back, \Ndo what I tell you, okay?
+Dialogue: 0,0:04:41.76,0:04:43.64,Default,Gi,0000,0000,0000,,Got it?
+Dialogue: 0,0:04:43.64,0:04:45.40,Default,Gi,0000,0000,0000,,What's your answer?
+Dialogue: 0,0:04:46.38,0:04:47.60,Default,Gi,0000,0000,0000,,Fine.
+Dialogue: 0,0:04:48.10,0:04:49.68,Default,Gi,0000,0000,0000,,You mean, "Yes, ma'am!"
+Dialogue: 0,0:04:52.51,0:04:54.41,Default,Gi,0000,0000,0000,,Yes... ma'am.
+Dialogue: 0,0:04:55.24,0:04:57.81,Default,Gi,0000,0000,0000,,I love girls who are obedient!
+Dialogue: 0,0:04:57.81,0:05:01.46,Default,Gi,0000,0000,0000,,Now, I think it's time you battled me.
+Dialogue: 0,0:05:01.46,0:05:06.49,Default,Gi,0000,0000,0000,,But you need to become an LRIG \Nand just let me attack you.
+Dialogue: 0,0:05:07.06,0:05:09.82,Default,Gi,0000,0000,0000,,As for what will happen \Nto her if you hit back...
+Dialogue: 0,0:05:10.50,0:05:11.76,Default,Gi,0000,0000,0000,,Well, you can guess, right?
+Dialogue: 0,0:05:12.05,0:05:13.86,Default,Gi,0000,0000,0000,,Don't worry!
+Dialogue: 0,0:05:13.86,0:05:16.06,Default,Gi,0000,0000,0000,,Kiyoi-chan cares about her friend.
+Dialogue: 0,0:05:16.06,0:05:18.63,Default,Gi,0000,0000,0000,,She'll do what you say.
+Dialogue: 0,0:05:19.09,0:05:23.38,Default,Gi,0000,0000,0000,,You used me to get revenge \Nfor your friend, right?
+Dialogue: 0,0:05:23.80,0:05:26.97,Default,Gi,0000,0000,0000,,So you should be able to do what \NI tell you this time, right?
+Dialogue: 0,0:05:26.97,0:05:29.37,Default,Gi,0000,0000,0000,,For your friend.
+Dialogue: 0,0:05:32.29,0:05:34.27,Default,Gi,0000,0000,0000,,Okay, let's get started.
+Dialogue: 0,0:05:36.54,0:05:37.69,Default,Gi,0000,0000,0000,,Open!
+Dialogue: 0,0:05:43.92,0:05:47.74,Default,Gi,0000,0000,0000,,Hey, when are you going to let me have \Na real battle with Kominato Ruuko?
+Dialogue: 0,0:05:48.08,0:05:50.83,Default,Gi,0000,0000,0000,,Eventually, I promise.
+Dialogue: 0,0:05:50.83,0:05:54.12,Default,Gi,0000,0000,0000,,You did me a big favor, and I appreciate it.
+Dialogue: 0,0:05:54.12,0:05:55.84,Default,Gi,0000,0000,0000,,Just words?
+Dialogue: 0,0:05:55.84,0:05:59.88,Default,Gi,0000,0000,0000,,I held back against a powerful \Nfoe like that for you!
+Dialogue: 0,0:06:00.12,0:06:01.72,Default,Gi,0000,0000,0000,,I know.
+Dialogue: 0,0:06:01.72,0:06:04.28,Default,Gi,0000,0000,0000,,I ordered a pizza to thank you.
+Dialogue: 0,0:06:04.28,0:06:05.02,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:05.47,0:06:07.40,Default,Gi,0000,0000,0000,,We're not friends.
+Dialogue: 0,0:06:07.40,0:06:09.50,Default,Gi,0000,0000,0000,,And I'm definitely not working for you.
+Dialogue: 0,0:06:09.50,0:06:10.76,Default,Gi,0000,0000,0000,,Don't forget that!
+Dialogue: 0,0:06:10.76,0:06:12.33,Default,Gi,0000,0000,0000,,Of course.
+Dialogue: 0,0:06:12.33,0:06:14.99,Default,Gi,0000,0000,0000,,There was something I wanted to see.
+Dialogue: 0,0:06:14.99,0:06:17.65,Default,Gi,0000,0000,0000,,And I got the confirmation I wanted.
+Dialogue: 0,0:06:17.65,0:06:19.60,Default,Gi,0000,0000,0000,,She's the keyhole.
+Dialogue: 0,0:06:20.23,0:06:21.46,Default,Gi,0000,0000,0000,,Keyhole?
+Dialogue: 0,0:06:22.27,0:06:24.57,Default,Gi,0000,0000,0000,,Hello, I'm from Pizza Hattori.
+Dialogue: 0,0:06:24.94,0:06:26.68,Default,Gi,0000,0000,0000,,Great, thanks.
+Dialogue: 0,0:06:26.68,0:06:28.97,Default,Gi,0000,0000,0000,,Right on time as always, I see.
+Dialogue: 0,0:06:28.97,0:06:29.78,Default,Gi,0000,0000,0000,,Thank you.
+Dialogue: 0,0:06:30.43,0:06:33.41,Default,Gi,0000,0000,0000,,Just be a good girl until \Nthe stage is set, okay?
+Dialogue: 0,0:06:34.32,0:06:35.54,Default,Gi,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:06:45.08,0:06:48.13,Default,Gi,0000,0000,0000,,So that's the kind of \Nunderwear you like, Suzuko?
+Dialogue: 0,0:06:48.95,0:06:50.22,Default,S,0000,0000,0000,,M-Meru!
+Dialogue: 0,0:06:50.84,0:06:52.72,Default,Gi,0000,0000,0000,,What did Chinatsu wear?
+Dialogue: 0,0:06:52.72,0:06:54.18,Default,Gi,0000,0000,0000,,Chi-chan's was...
+Dialogue: 0,0:06:55.09,0:06:56.35,Default,Gi,0000,0000,0000,,Wow, really?
+Dialogue: 0,0:06:56.35,0:06:58.32,Default,S,0000,0000,0000,,What? What?
+Dialogue: 0,0:06:58.32,0:07:00.81,Default,Gi,0000,0000,0000,,It's probably better that \Nyou don't know, Suzuko.
+Dialogue: 0,0:07:00.81,0:07:01.52,Default,Gi,0000,0000,0000,,Yeah...
+Dialogue: 0,0:07:01.85,0:07:04.48,Default,S,0000,0000,0000,,Jeez, you guys are mean!
+Dialogue: 0,0:07:09.20,0:07:11.48,Default,S,0000,0000,0000,,It feels strange,
+Dialogue: 0,0:07:11.48,0:07:14.42,Default,S,0000,0000,0000,,talking to both of you at once.
+Dialogue: 0,0:07:14.42,0:07:15.58,Default,Gi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:16.12,0:07:20.58,Default,S,0000,0000,0000,,When I learned your name \Nwas Meru, I was happy.
+Dialogue: 0,0:07:21.00,0:07:23.44,Default,S,0000,0000,0000,,I realized Chi-chan hadn't forgotten.
+Dialogue: 0,0:07:24.97,0:07:27.55,Default,Gi,0000,0000,0000,,Suzu, about Chinatsu's memories...
+Dialogue: 0,0:07:28.81,0:07:31.26,Default,S,0000,0000,0000,,Yeah. I know.
+Dialogue: 0,0:07:31.74,0:07:34.98,Default,S,0000,0000,0000,,I want to respect her feelings.
+Dialogue: 0,0:07:34.98,0:07:35.72,Default,S,0000,0000,0000,,But...
+Dialogue: 0,0:07:36.28,0:07:41.22,Default,S,0000,0000,0000,,Honestly, I don't know if it's for the best.
+Dialogue: 0,0:07:42.72,0:07:45.84,Default,S,0000,0000,0000,,But I will give her an answer.
+Dialogue: 0,0:07:45.84,0:07:48.15,Default,S,0000,0000,0000,,Because we're friends.
+Dialogue: 0,0:07:57.55,0:08:01.16,Default,S,0000,0000,0000,,Okay, let's start by having \Nyou become an LRIG.
+Dialogue: 0,0:08:01.66,0:08:04.17,Default,S,0000,0000,0000,,And no using defensive ARTS.
+Dialogue: 0,0:08:04.63,0:08:05.88,Default,S,0000,0000,0000,,Kiyoi...
+Dialogue: 0,0:08:08.31,0:08:10.70,Default,S,0000,0000,0000,,Unlock. Coin bet.
+Dialogue: 0,0:08:20.78,0:08:22.06,Default,S,0000,0000,0000,,Turn end.
+Dialogue: 0,0:08:27.57,0:08:29.40,Default,S,0000,0000,0000,,It's finally time!
+Dialogue: 0,0:08:29.88,0:08:32.78,Default,S,0000,0000,0000,,I can finally beat the shit out of you!
+Dialogue: 0,0:08:33.16,0:08:36.66,Default,S,0000,0000,0000,,Let's have fun until her \NLife Cloth is all gone!
+Dialogue: 0,0:08:36.95,0:08:39.79,Default,S,0000,0000,0000,,I'm going to pound you \Nuntil you can barely stand,
+Dialogue: 0,0:08:39.79,0:08:42.54,Default,S,0000,0000,0000,,then turn you into a card \Nand rip you in half!
+Dialogue: 0,0:08:42.83,0:08:46.78,Default,S,0000,0000,0000,,Or maybe we could stuff \Nher in a diary somewhere.
+Dialogue: 0,0:08:47.76,0:08:49.61,Default,S,0000,0000,0000,,Now, go, Remember.
+Dialogue: 0,0:08:49.61,0:08:50.69,Default,S,0000,0000,0000,,Attack.
+Dialogue: 0,0:08:50.69,0:08:52.38,Default,S,0000,0000,0000,,Got it!
+Dialogue: 0,0:08:58.16,0:08:59.26,Default,S,0000,0000,0000,,That's the face!
+Dialogue: 0,0:08:59.26,0:09:01.10,Default,S,0000,0000,0000,,That's the face I wanted to see!
+Dialogue: 0,0:09:01.10,0:09:02.89,Default,S,0000,0000,0000,,Kiyoi-chan, the girl who loves her friends...
+Dialogue: 0,0:09:03.18,0:09:05.39,Default,S,0000,0000,0000,,Kiyoi-chan, the girl who's so stupid...
+Dialogue: 0,0:09:06.23,0:09:09.61,Default,S,0000,0000,0000,,Kiyoi-chan, the girl I love!
+Dialogue: 0,0:09:11.00,0:09:12.13,Default,S,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:09:13.37,0:09:14.94,Default,S,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:09:14.94,0:09:15.70,Default,S,0000,0000,0000,,But...
+Dialogue: 0,0:09:16.40,0:09:18.15,Default,S,0000,0000,0000,,Turn end.
+Dialogue: 0,0:09:18.15,0:09:21.45,Default,S,0000,0000,0000,,Now stop wasting time and say it.
+Dialogue: 0,0:09:22.95,0:09:24.28,Default,S,0000,0000,0000,,Turn end.
+Dialogue: 0,0:09:24.28,0:09:26.49,Default,S,0000,0000,0000,,Kiyoi, don't you understand?
+Dialogue: 0,0:09:26.49,0:09:30.03,Default,S,0000,0000,0000,,They're going to own you!
+Dialogue: 0,0:09:30.03,0:09:33.41,Default,S,0000,0000,0000,,Still, I can't fight.
+Dialogue: 0,0:09:34.27,0:09:36.31,Default,S,0000,0000,0000,,If I do, Amika will...
+Dialogue: 0,0:09:37.52,0:09:39.44,Default,S,0000,0000,0000,,I won't fight.
+Dialogue: 0,0:09:40.58,0:09:42.31,Default,S,0000,0000,0000,,I have to protect Amika.
+Dialogue: 0,0:09:45.92,0:09:47.36,Default - flashback,S,0000,0000,0000,,I'll make a contract with you.
+Dialogue: 0,0:09:48.84,0:09:50.77,Default - flashback,S,0000,0000,0000,,I'll teach you how to fight.
+Dialogue: 0,0:09:51.22,0:09:55.45,Default - flashback,S,0000,0000,0000,,You memorize what I teach you and put \Nit into practice as fast as possible.
+Dialogue: 0,0:09:55.96,0:09:57.00,Default - flashback,S,0000,0000,0000,,Do you understand?
+Dialogue: 0,0:09:57.00,0:09:58.61,Default - flashback,S,0000,0000,0000,,U-Um...
+Dialogue: 0,0:09:59.35,0:10:03.26,Default - flashback,S,0000,0000,0000,,You're weak, so if you want \Nto win, it's the only way.
+Dialogue: 0,0:10:04.04,0:10:06.79,Default - flashback,S,0000,0000,0000,,I'll help you win.
+Dialogue: 0,0:10:07.71,0:10:08.67,Default - flashback,S,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:09.10,0:10:10.86,Default,S,0000,0000,0000,,Even in my battle with Remember,
+Dialogue: 0,0:10:10.86,0:10:13.76,Default,S,0000,0000,0000,,when I tried to take advantage of the rules
+Dialogue: 0,0:10:13.76,0:10:15.95,Default,,0000,0000,0000,,and deliberately lose to grant that wish,
+Dialogue: 0,0:10:15.95,0:10:16.80,Default,S,0000,0000,0000,,Amika said...
+Dialogue: 0,0:10:17.53,0:10:22.64,Default - flashback,S,0000,0000,0000,,Amika, will you believe \Nin me just one more time?
+Dialogue: 0,0:10:22.98,0:10:25.64,Default - flashback,S,0000,0000,0000,,Yes... Kiyoi!
+Dialogue: 0,0:10:25.64,0:10:29.65,sign_15001_155_Grape,Sign,0000,0000,0000,,We Recommend {\c&H92FEF7&}Grape
+Dialogue: 0,0:10:25.64,0:10:29.65,sign_15001_156_Orange,Sign,0000,0000,0000,,No. 1 {\fs16}Orange Green Tea Mushroom\N{\fs12}No. 2 {\fs16}Custard Cola\N{\fs12}No. 3 {\fs16}Banana Chocolate Cilantro
+Dialogue: 0,0:10:27.56,0:10:29.65,Default,,0000,0000,0000,,I think we should try \Norange green tea mushroom.
+Dialogue: 0,0:10:30.48,0:10:32.35,Default - flashback,,0000,0000,0000,,Banana chocolate cilantro.
+Dialogue: 0,0:10:32.35,0:10:35.53,Default - flashback,,0000,0000,0000,,No, it's gotta be orange green tea mushroom!
+Dialogue: 0,0:10:36.14,0:10:37.78,Default - flashback,,0000,0000,0000,,Banana chocolate cilantro.
+Dialogue: 0,0:10:39.01,0:10:40.60,Default - flashback,,0000,0000,0000,,Okay...
+Dialogue: 0,0:10:40.60,0:10:44.49,Default - flashback,,0000,0000,0000,,Excuse me! I'd like a \Nbanana chocolate cilantro.
+Dialogue: 0,0:10:47.99,0:10:52.22,Default - flashback,,0000,0000,0000,,Why do you always believe in me, Amika?
+Dialogue: 0,0:10:52.72,0:10:56.92,Default - flashback,,0000,0000,0000,,You've never doubted me, \Neven during the Selector battles.
+Dialogue: 0,0:10:56.92,0:10:57.71,Default - flashback,,0000,0000,0000,,Why?
+Dialogue: 0,0:10:57.99,0:11:00.06,Default - flashback,,0000,0000,0000,,I don't know how to answer that...
+Dialogue: 0,0:11:00.93,0:11:02.30,Default - flashback,,0000,0000,0000,,Because we're friends?
+Dialogue: 0,0:11:02.30,0:11:03.36,Default - flashback,,0000,0000,0000,,Is that all?
+Dialogue: 0,0:11:03.36,0:11:05.43,Default - flashback,,0000,0000,0000,,What other reason do I need?
+Dialogue: 0,0:11:05.95,0:11:09.26,Default - flashback,,0000,0000,0000,,My mom was saved because I believed you.
+Dialogue: 0,0:11:09.98,0:11:12.62,Default - flashback,,0000,0000,0000,,And that's why we're here now.
+Dialogue: 0,0:11:12.62,0:11:15.19,Default - flashback,,0000,0000,0000,,I've never gone wrong \Nbelieving in you, Kiyoi.
+Dialogue: 0,0:11:15.43,0:11:16.53,Default - flashback,,0000,0000,0000,,Amika...
+Dialogue: 0,0:11:19.56,0:11:21.84,Default - flashback,,0000,0000,0000,,Try some of this banana chocolate cilantro!
+Dialogue: 0,0:11:21.84,0:11:24.83,Default - flashback,,0000,0000,0000,,I believed in your choice, \Nand it turned out to be delicious!
+Dialogue: 0,0:11:25.52,0:11:28.54,Default,,0000,0000,0000,,Amika was willing to believe \Nin someone like me...
+Dialogue: 0,0:11:29.59,0:11:31.79,Default,,0000,0000,0000,,And I put her in danger.
+Dialogue: 0,0:11:32.20,0:11:34.67,Default,,0000,0000,0000,,Even though she's so important to me...
+Dialogue: 0,0:11:35.11,0:11:40.56,Default,,0000,0000,0000,,Remember what I told you?\NI'll help you in any way I can.
+Dialogue: 0,0:11:40.56,0:11:44.22,Default,,0000,0000,0000,,But I won't help you sacrifice yourself!
+Dialogue: 0,0:11:45.53,0:11:46.68,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:11:47.04,0:11:47.94,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:11:48.56,0:11:53.31,Default,,0000,0000,0000,,I'd rather disappear than lose Amika.
+Dialogue: 0,0:11:53.66,0:11:55.23,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:11:55.70,0:11:58.82,Default,,0000,0000,0000,,What are you babbling about?
+Dialogue: 0,0:11:58.82,0:12:00.86,Default,,0000,0000,0000,,It's my turn.
+Dialogue: 0,0:12:01.66,0:12:03.36,Default,,0000,0000,0000,,Go, Remember!
+Dialogue: 0,0:12:03.36,0:12:04.78,Default,,0000,0000,0000,,'Kay!
+Dialogue: 0,0:12:11.88,0:12:15.50,Default,,0000,0000,0000,,Playing with you sure is fun!
+Dialogue: 0,0:12:15.92,0:12:19.63,Default,,0000,0000,0000,,Don't overdo it, or you'll ruin the fun.
+Dialogue: 0,0:12:20.24,0:12:21.84,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:12:23.70,0:12:24.80,Default,,0000,0000,0000,,Amika...
+Dialogue: 0,0:12:32.03,0:12:33.27,Default,,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:12:38.42,0:12:39.98,Default,,0000,0000,0000,,Come on, Kiyoi-chan!
+Dialogue: 0,0:12:39.98,0:12:42.36,Default,,0000,0000,0000,,Let's play even more!
+Dialogue: 0,0:12:48.31,0:12:50.08,Default,,0000,0000,0000,,This is wonderful!
+Dialogue: 0,0:12:51.04,0:12:53.38,Default,,0000,0000,0000,,Lucky, lucky me!
+Dialogue: 0,0:12:53.38,0:12:55.75,Default,,0000,0000,0000,,Lucky, lucky Akira!
+Dialogue: 0,0:13:03.17,0:13:04.13,Default,,0000,0000,0000,,Kiyoi...
+Dialogue: 0,0:13:05.17,0:13:08.21,Default - italics,,0000,0000,0000,,If you just fight and not\Nworry about me, you'll...
+Dialogue: 0,0:13:08.21,0:13:10.85,Default - italics,,0000,0000,0000,,But I know she won't!
+Dialogue: 0,0:13:12.40,0:13:14.81,Default - italics,,0000,0000,0000,,That's not who she is!
+Dialogue: 0,0:13:21.16,0:13:22.32,Default - flashback,,0000,0000,0000,,What's wrong, Amika?
+Dialogue: 0,0:13:23.20,0:13:25.70,Default - flashback,,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:13:26.08,0:13:28.36,Default - italics,,0000,0000,0000,,Kiyoi forced herself to \Ncarry so many burdens
+Dialogue: 0,0:13:28.36,0:13:30.02,Default - italics,,0000,0000,0000,,and fought all by herself.
+Dialogue: 0,0:13:30.70,0:13:31.66,Default - italics,,0000,0000,0000,,So I...
+Dialogue: 0,0:13:34.56,0:13:36.44,Default - italics,,0000,0000,0000,,So I can also...
+Dialogue: 0,0:13:44.58,0:13:47.51,Default,,0000,0000,0000,,Are we done already, Kiyoi-chan?
+Dialogue: 0,0:13:47.98,0:13:50.42,Default,,0000,0000,0000,,This is so much fun!
+Dialogue: 0,0:13:50.42,0:13:53.76,Default,,0000,0000,0000,,It feels so good to beat someone \Nup when they can't fight back!
+Dialogue: 0,0:13:53.76,0:13:56.35,Default,,0000,0000,0000,,It's like it's always my turn!
+Dialogue: 0,0:13:58.28,0:13:59.98,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:14:01.22,0:14:03.23,Default,,0000,0000,0000,,Now, now, don't do that.
+Dialogue: 0,0:14:03.23,0:14:06.73,Default,,0000,0000,0000,,I want to play with Kiyoi-chan!
+Dialogue: 0,0:14:06.73,0:14:09.41,Default,,0000,0000,0000,,You have a wish, don't you, Kiyoi?
+Dialogue: 0,0:14:09.97,0:14:12.29,Default,,0000,0000,0000,,To end this cycle of darkness!
+Dialogue: 0,0:14:13.10,0:14:13.95,Default,,0000,0000,0000,,Piruluk...
+Dialogue: 0,0:14:15.00,0:14:16.24,Default,,0000,0000,0000,,Get lost!
+Dialogue: 0,0:14:16.24,0:14:20.00,Default,,0000,0000,0000,,Don't forget, I've got a hostage!
+Dialogue: 0,0:14:20.63,0:14:23.04,Default,,0000,0000,0000,,Oh, Piruluk-chan!
+Dialogue: 0,0:14:23.04,0:14:25.18,Default,,0000,0000,0000,,You're such a noble friend, aren't you?
+Dialogue: 0,0:14:25.18,0:14:27.45,Default,,0000,0000,0000,,Don't bother resisting.
+Dialogue: 0,0:14:27.45,0:14:29.86,Default,,0000,0000,0000,,Just give up already!
+Dialogue: 0,0:14:34.06,0:14:35.73,Default,,0000,0000,0000,,Just stop...
+Dialogue: 0,0:14:36.30,0:14:38.55,Default,,0000,0000,0000,,I can't...
+Dialogue: 0,0:14:39.24,0:14:40.81,Default,,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:14:41.76,0:14:43.77,Default,,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:14:44.72,0:14:45.65,Default,,0000,0000,0000,,Amika?!
+Dialogue: 0,0:14:46.04,0:14:48.22,Default,,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:14:48.22,0:14:49.10,Default,,0000,0000,0000,,Damn it.
+Dialogue: 0,0:14:49.10,0:14:50.36,Default,,0000,0000,0000,,She escaped!
+Dialogue: 0,0:14:51.43,0:14:52.82,Default,,0000,0000,0000,,I'm fine!
+Dialogue: 0,0:14:53.45,0:14:54.70,Default,,0000,0000,0000,,I'm not hurt!
+Dialogue: 0,0:14:56.60,0:14:57.41,Default,,0000,0000,0000,,Amika...
+Dialogue: 0,0:14:58.40,0:14:59.21,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:15:00.00,0:15:01.20,Default,,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:15:02.56,0:15:06.30,Default,,0000,0000,0000,,I'm not a Selector, so I can't help you...
+Dialogue: 0,0:15:07.13,0:15:09.93,Default,,0000,0000,0000,,It hurt to let you fight alone.
+Dialogue: 0,0:15:10.32,0:15:14.68,Default,,0000,0000,0000,,But if protecting myself can help you...
+Dialogue: 0,0:15:16.16,0:15:18.77,Default,,0000,0000,0000,,I believe in you!
+Dialogue: 0,0:15:18.77,0:15:21.23,Default,,0000,0000,0000,,So believe in me, too!
+Dialogue: 0,0:15:21.68,0:15:23.03,Default,,0000,0000,0000,,And fight!
+Dialogue: 0,0:15:24.68,0:15:26.15,Default,,0000,0000,0000,,Amika...
+Dialogue: 0,0:15:26.52,0:15:28.31,Default,,0000,0000,0000,,Shut the hell up.
+Dialogue: 0,0:15:28.31,0:15:29.65,Default,,0000,0000,0000,,It was just getting good.
+Dialogue: 0,0:15:29.65,0:15:31.68,Default,,0000,0000,0000,,Don't get in my way!
+Dialogue: 0,0:15:33.09,0:15:35.00,Default,,0000,0000,0000,,Your attack is over, right?
+Dialogue: 0,0:15:36.99,0:15:39.00,Default,,0000,0000,0000,,Then declare it.
+Dialogue: 0,0:15:41.26,0:15:42.58,Default,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:15:44.72,0:15:46.51,Default,,0000,0000,0000,,It's my turn.
+Dialogue: 0,0:15:46.51,0:15:47.44,Default,,0000,0000,0000,,Grow.
+Dialogue: 0,0:15:49.04,0:15:50.76,Default,,0000,0000,0000,,Summon two Manomin.
+Dialogue: 0,0:15:51.25,0:15:53.13,Default,,0000,0000,0000,,You have one coin left.
+Dialogue: 0,0:15:53.72,0:15:57.72,Default,,0000,0000,0000,,Do you know what happens \Nwhen you lose all your coins?
+Dialogue: 0,0:15:58.00,0:15:58.80,Default,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:15:58.80,0:15:59.98,Default,,0000,0000,0000,,I don't care.
+Dialogue: 0,0:16:00.39,0:16:01.85,Default,,0000,0000,0000,,You disappear.
+Dialogue: 0,0:16:01.85,0:16:03.73,Default,,0000,0000,0000,,Your entire existence.
+Dialogue: 0,0:16:04.01,0:16:04.79,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:04.79,0:16:06.99,Default,,0000,0000,0000,,Jeez, Kiyoi-chan...
+Dialogue: 0,0:16:06.99,0:16:09.08,Default,,0000,0000,0000,,Don't tell her that.
+Dialogue: 0,0:16:09.08,0:16:12.11,Default,,0000,0000,0000,,I was going to tell her at the right time.
+Dialogue: 0,0:16:12.57,0:16:16.28,Default,,0000,0000,0000,,A Selector who loses all \Ntheir coins disappears...
+Dialogue: 0,0:16:16.28,0:16:17.71,Default,,0000,0000,0000,,from this world.
+Dialogue: 0,0:16:17.71,0:16:19.95,Default,,0000,0000,0000,,Literally, there's nothing left!
+Dialogue: 0,0:16:20.52,0:16:22.29,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:22.52,0:16:25.89,Default,,0000,0000,0000,,Until now, I was still uncertain.
+Dialogue: 0,0:16:26.36,0:16:28.94,Default,,0000,0000,0000,,Even if I had to do it to \Nend the Selector battles,
+Dialogue: 0,0:16:28.94,0:16:31.01,Default,,0000,0000,0000,,I didn't know if it was okay to go that far.
+Dialogue: 0,0:16:31.34,0:16:33.72,Default,,0000,0000,0000,,But I won't hesitate anymore.
+Dialogue: 0,0:16:34.24,0:16:37.79,Default,,0000,0000,0000,,For my own sake, and for the \Nsake of everyone I know,
+Dialogue: 0,0:16:37.79,0:16:39.72,Default,,0000,0000,0000,,I'm going to end these Selector battles!
+Dialogue: 0,0:16:40.60,0:16:41.79,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:16:41.79,0:16:43.18,Default,,0000,0000,0000,,I won't lose to you!
+Dialogue: 0,0:16:43.42,0:16:46.44,Default,,0000,0000,0000,,Are you saying you're going to \Nmake Akira-chan disappear?
+Dialogue: 0,0:16:49.36,0:16:50.69,Default,,0000,0000,0000,,This is great!
+Dialogue: 0,0:16:50.69,0:16:52.43,Default,,0000,0000,0000,,I'll disappear?
+Dialogue: 0,0:16:52.43,0:16:53.82,Default,,0000,0000,0000,,Fine by me!
+Dialogue: 0,0:16:54.12,0:16:59.08,Default,,0000,0000,0000,,I don't give a shit if I lose this \Nrotten life and all these scars!
+Dialogue: 0,0:16:59.83,0:17:00.89,Default,,0000,0000,0000,,Piruluk.
+Dialogue: 0,0:17:00.89,0:17:02.07,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:17:02.07,0:17:03.92,Default,,0000,0000,0000,,Worst Condition!
+Dialogue: 0,0:17:11.08,0:17:12.05,Default,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:17:12.28,0:17:13.32,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:17:13.32,0:17:15.38,Default,,0000,0000,0000,,Let's do this! Coin bet!
+Dialogue: 0,0:17:15.38,0:17:16.51,Default,,0000,0000,0000,,Astrology!
+Dialogue: 0,0:17:20.18,0:17:22.88,Default,,0000,0000,0000,,I'll find out exactly \Nwhat your next attack is.
+Dialogue: 0,0:17:25.02,0:17:26.35,Default,,0000,0000,0000,,I can tell you...
+Dialogue: 0,0:17:27.46,0:17:28.48,Default,,0000,0000,0000,,that I can't tell you!
+Dialogue: 0,0:17:29.20,0:17:31.51,Default,,0000,0000,0000,,Are you trying to pick a fight with me?
+Dialogue: 0,0:17:31.51,0:17:33.60,Default,,0000,0000,0000,,No, the result of the fortune-telling
+Dialogue: 0,0:17:33.60,0:17:37.49,Default,,0000,0000,0000,,was that we don't know what \Nher next attack will be.
+Dialogue: 0,0:17:37.49,0:17:40.42,Default,,0000,0000,0000,,Huh? What the hell?!
+Dialogue: 0,0:17:40.42,0:17:42.20,Default,,0000,0000,0000,,I'll tell you.
+Dialogue: 0,0:17:42.63,0:17:45.33,Default,,0000,0000,0000,,Unlock. Coin bet.
+Dialogue: 0,0:17:50.01,0:17:53.76,Default,,0000,0000,0000,,Piru-run's taking a break, \Nand Milulun is here!
+Dialogue: 0,0:17:53.76,0:17:55.59,Default,,0000,0000,0000,,Milulun, coin bet.
+Dialogue: 0,0:17:55.82,0:17:57.50,Default,,0000,0000,0000,,Happening!
+Dialogue: 0,0:17:58.84,0:18:01.18,Default,,0000,0000,0000,,You stole that from me!
+Dialogue: 0,0:18:10.92,0:18:12.12,Default,,0000,0000,0000,,I'm going to disappear?
+Dialogue: 0,0:18:13.10,0:18:14.65,Default,,0000,0000,0000,,I'm really going to disappear?
+Dialogue: 0,0:18:15.39,0:18:17.94,Default,,0000,0000,0000,,That can't be real... No way.
+Dialogue: 0,0:18:17.94,0:18:20.58,Default,,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:18:20.58,0:18:22.22,Default,,0000,0000,0000,,Don't screw with me!
+Dialogue: 0,0:18:22.22,0:18:24.60,Default,,0000,0000,0000,,There's still so much I want to do!
+Dialogue: 0,0:18:24.60,0:18:26.03,Default,,0000,0000,0000,,I've got work!
+Dialogue: 0,0:18:26.03,0:18:28.74,Default,,0000,0000,0000,,That's right! I've got a shoot tomorrow!
+Dialogue: 0,0:18:28.74,0:18:30.29,Default,,0000,0000,0000,,It's a swimsuit photo this time.
+Dialogue: 0,0:18:30.29,0:18:31.60,Default,,0000,0000,0000,,It's a little slutty,
+Dialogue: 0,0:18:31.60,0:18:35.84,Default,,0000,0000,0000,,but my manager said I have a \Nnice body, so it's sure to sell!
+Dialogue: 0,0:18:36.48,0:18:39.05,Default,,0000,0000,0000,,And my fans are all looking forward to it!
+Dialogue: 0,0:18:39.05,0:18:41.81,Default,,0000,0000,0000,,So... So...
+Dialogue: 0,0:18:42.68,0:18:46.12,Default,,0000,0000,0000,,I don't want to disappear!
+Dialogue: 0,0:18:52.84,0:18:55.39,Default,,0000,0000,0000,,My name is Aoi Akira...
+Dialogue: 0,0:18:55.39,0:18:58.40,Default,,0000,0000,0000,,A beautiful high school \Ngirl and a popular model.
+Dialogue: 0,0:18:58.78,0:19:01.28,Default,,0000,0000,0000,,My hobbies are shopping and WIXOSS.
+Dialogue: 0,0:19:01.61,0:19:04.53,Default,,0000,0000,0000,,My favorite foods are \Nstrawberries and melons...
+Dialogue: 0,0:19:04.80,0:19:06.67,Default,,0000,0000,0000,,I don't want to disappear!
+Dialogue: 0,0:19:06.72,0:19:07.68,Default,,0000,0000,0000,,I don't want to disappear!
+Dialogue: 0,0:19:07.75,0:19:08.49,Default,,0000,0000,0000,,I don't want to disappear!
+Dialogue: 0,0:19:08.56,0:19:09.54,Default,,0000,0000,0000,,I don't want to disappear!
+Dialogue: 0,0:19:09.54,0:19:12.75,Default,,0000,0000,0000,,I don't want to disappear!
+Dialogue: 0,0:19:13.59,0:19:15.13,Default,,0000,0000,0000,,Your face is so scary...
+Dialogue: 0,0:19:15.13,0:19:17.71,Default,,0000,0000,0000,,I really hate you, Kiyoi-chan.
+Dialogue: 0,0:19:17.96,0:19:19.28,Default,,0000,0000,0000,,What a coincidence.
+Dialogue: 0,0:19:19.28,0:19:22.47,Default,,0000,0000,0000,,I hate you, too.
+Dialogue: 0,0:19:37.63,0:19:39.94,Default,,0000,0000,0000,,I'm going to disappear...
+Dialogue: 0,0:19:55.79,0:19:59.07,Default,,0000,0000,0000,,So this is what it means to disappear?
+Dialogue: 0,0:20:06.47,0:20:07.47,Default,,0000,0000,0000,,Kiyoi!
+Dialogue: 0,0:20:07.98,0:20:09.35,Default,,0000,0000,0000,,Amika!
+Dialogue: 0,0:20:09.83,0:20:11.23,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:20:11.23,0:20:12.70,Default,,0000,0000,0000,,Are you hurt?
+Dialogue: 0,0:20:14.52,0:20:16.11,Default,,0000,0000,0000,,I was so scared.
+Dialogue: 0,0:20:16.71,0:20:18.93,Default,,0000,0000,0000,,I thought I'd lose you.
+Dialogue: 0,0:20:21.77,0:20:24.70,Default,,0000,0000,0000,,So now you understand how I feel, huh?
+Dialogue: 0,0:20:32.20,0:20:33.46,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:20:34.38,0:20:35.50,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:20:36.24,0:20:37.72,Default,,0000,0000,0000,,Okay, I forgive you!
+Dialogue: 0,0:20:42.63,0:20:45.59,Default,,0000,0000,0000,,Kiyoi, you have five coins now, right?
+Dialogue: 0,0:20:46.31,0:20:47.92,Default,,0000,0000,0000,,Come to think of it...
+Dialogue: 0,0:20:47.92,0:20:48.93,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:20:48.93,0:20:50.68,Default,,0000,0000,0000,,Nothing's changed.
+Dialogue: 0,0:20:51.14,0:20:52.65,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:20:52.65,0:20:55.94,Default,,0000,0000,0000,,Even if you get five coins, \Nthese battles don't end?
+Dialogue: 0,0:20:56.47,0:20:58.93,Default,,0000,0000,0000,,I wasn't told anything, either.
+Dialogue: 0,0:20:58.93,0:21:01.44,Default,,0000,0000,0000,,I wasn't even told how you can win.
+Dialogue: 0,0:21:01.70,0:21:02.78,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:21:03.39,0:21:04.70,Default,,0000,0000,0000,,Kiyoi...
+Dialogue: 0,0:21:05.20,0:21:08.20,Default,,0000,0000,0000,,Five coins isn't the win condition?
+Dialogue: 0,0:21:13.07,0:21:14.38,Default,,0000,0000,0000,,Shock.
+Dialogue: 0,0:21:14.38,0:21:15.67,Default,,0000,0000,0000,,What does this mean?
+Dialogue: 0,0:21:16.16,0:21:17.38,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:21:17.38,0:21:19.59,Default,,0000,0000,0000,,If it doesn't end after you get five coins,
+Dialogue: 0,0:21:20.19,0:21:23.13,Default,,0000,0000,0000,,then how can I get Chi-chan's memories back?
+Dialogue: 0,0:21:36.52,0:21:40.02,Default,,0000,0000,0000,,I finally found you, keyhole.
+Dialogue: 0,0:21:41.88,0:21:44.94,Default,,0000,0000,0000,,I'm back, Tama, Yuzuki...
+Dialogue: 0,0:21:48.44,0:21:49.45,Default,,0000,0000,0000,,Tama?!
+Dialogue: 0,0:21:52.91,0:21:55.91,Title,,0000,0000,0000,,Bond / Crime and Punishment
+Dialogue: 0,0:23:26.48,0:23:29.49,Default,,0000,0000,0000,,It's not worth defeating \Nyou unless you're serious.
+Dialogue: 0,0:23:28.45,0:23:31.10,Default,,0000,0000,0000,,{\an8}The condition for victory \Nis different this time?
+Dialogue: 0,0:23:30.24,0:23:32.79,Default,,0000,0000,0000,,There's no way to get your memories back?
+Dialogue: 0,0:23:32.79,0:23:34.32,Default,,0000,0000,0000,,So now she's been chosen?
+Dialogue: 0,0:23:34.32,0:23:35.93,Default,,0000,0000,0000,,We might be able to get Tama back.
+Dialogue: 0,0:23:35.93,0:23:38.56,Default,,0000,0000,0000,,I'll take you down first!
+Dialogue: 0,0:23:37.77,0:23:40.94,Title2,,0000,0000,0000,,{\fad(1397,1)}Contact / Key and Keyhole
+Dialogue: 0,0:23:38.56,0:23:40.94,Default,,0000,0000,0000,,Contact / Key and Keyhole.

@@ -1,0 +1,429 @@
+[Script Info]
+Title: English (US)
+Original Script: WarnerJapan  [http://www.crunchyroll.com/user/WarnerJapan]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - flashback,Trebuchet MS,24,&H00F4ECEC,&H000000FF,&H00502300,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0010,0
+Style: Title,Verdana,28,&H00170E06,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0050,0040,0030,0
+Style: Title2,Verdana,24,&H00FFFFFF,&H000000FF,&H001D1911,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,0
+Style: sign_7766_66_6_24_Cleaning_to,Trebuchet MS,14,&H00323B3B,&H000000FF,&H00E3E9EA,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,0020,0010,0020,0
+Style: sign_30601_386_Amika,Trebuchet MS,14,&H00B7A594,&H000000FF,&H004A3217,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0066,0130,0070,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.36,0:00:14.57,Default,Gu,0000,0000,0000,,Damn it all...
+Dialogue: 0,0:00:14.57,0:00:16.12,Default,Gu,0000,0000,0000,,Why?
+Dialogue: 0,0:00:16.53,0:00:18.05,Default,Gu,0000,0000,0000,,This doesn't make sense!
+Dialogue: 0,0:00:18.05,0:00:20.08,Default,Gu,0000,0000,0000,,It's over after one fight?
+Dialogue: 0,0:00:21.03,0:00:24.00,Default,Gu,0000,0000,0000,,I won't let it end like this!
+Dialogue: 0,0:01:56.48,0:01:57.72,Default - italics,Gu,0000,0000,0000,,Why?
+Dialogue: 0,0:01:59.07,0:02:01.02,Default - italics,Gu,0000,0000,0000,,Why did this happen?
+Dialogue: 0,0:02:01.65,0:02:04.65,Default - italics,Gu,0000,0000,0000,,The old me wasn't like this...
+Dialogue: 0,0:02:06.04,0:02:08.23,Default - italics,Gu,0000,0000,0000,,Back in elementary school,
+Dialogue: 0,0:02:08.23,0:02:11.08,Default - italics,,0000,0000,0000,,I was one of the popular kids in class.
+Dialogue: 0,0:02:11.08,0:02:14.19,Default - italics,Gu,0000,0000,0000,,We would bully any classmates who \Nwere awkward and had no friends.
+Dialogue: 0,0:02:14.19,0:02:15.53,Default - flashback,Gu,0000,0000,0000,,Now!
+Dialogue: 0,0:02:19.40,0:02:21.05,Default - flashback,Gu,0000,0000,0000,,Sorry, Kiyoi-chan!
+Dialogue: 0,0:02:21.05,0:02:23.41,Default - flashback,Gu,0000,0000,0000,,We didn't see you down there!
+Dialogue: 0,0:02:24.02,0:02:27.53,Default - italics,Gu,0000,0000,0000,,So when I ran into Kiyoi-chan \Nagain in middle school,
+Dialogue: 0,0:02:27.53,0:02:28.62,Default - italics,Gu,0000,0000,0000,,I was so surprised.
+Dialogue: 0,0:02:29.13,0:02:30.94,Default - flashback,Gu,0000,0000,0000,,Hello, Selector-san.
+Dialogue: 0,0:02:31.52,0:02:33.09,Default - flashback,Gu,0000,0000,0000,,You've been chosen.
+Dialogue: 0,0:02:36.86,0:02:39.51,Default - italics,Gu,0000,0000,0000,,Kiyoi-chan didn't seem to realize it,
+Dialogue: 0,0:02:40.35,0:02:43.00,Default - italics,Gu,0000,0000,0000,,but she and I made a good team.
+Dialogue: 0,0:02:43.00,0:02:45.51,Default - italics,Gu,0000,0000,0000,,I did a great job of manipulating her,
+Dialogue: 0,0:02:45.82,0:02:47.73,Default - italics,Gu,0000,0000,0000,,and we won our battles.
+Dialogue: 0,0:02:48.32,0:02:54.27,Default - italics,Gu,0000,0000,0000,,It was so fun to watch the way she \Nbelieved me and did what I told her.
+Dialogue: 0,0:02:55.32,0:02:59.15,Default - italics,Gu,0000,0000,0000,,And when she became an Eternal Girl, \Nshe and I switched places,
+Dialogue: 0,0:02:59.15,0:03:02.36,Default - italics,Gu,0000,0000,0000,,and I kept my promise with her.
+Dialogue: 0,0:03:03.88,0:03:06.66,Default - italics,Gu,0000,0000,0000,,When I was chosen again \Nfor the Selector battles,
+Dialogue: 0,0:03:06.66,0:03:09.82,Default - italics,Gu,0000,0000,0000,,I was sick of Kiyoi-chan's body,
+Dialogue: 0,0:03:09.82,0:03:13.13,Default - italics,Gu,0000,0000,0000,,so my goal was to get my old body back.
+Dialogue: 0,0:03:13.13,0:03:16.13,Default - italics,Gu,0000,0000,0000,,And then I ran into her again.
+Dialogue: 0,0:03:16.83,0:03:20.55,Default - italics,Gu,0000,0000,0000,,That idiot Kiyoi-chan gave up \Nher chance to be human again.
+Dialogue: 0,0:03:21.08,0:03:24.68,Default - italics,Gu,0000,0000,0000,,I became an Eternal Girl and,\Nin the final step toward my goal,
+Dialogue: 0,0:03:25.41,0:03:29.14,Default - italics,Gu,0000,0000,0000,,I became the LRIG of the girl \Nwho owned my original body.
+Dialogue: 0,0:03:29.47,0:03:30.80,Default - flashback,Gu,0000,0000,0000,,Well?
+Dialogue: 0,0:03:30.80,0:03:34.52,Default - flashback,Gu,0000,0000,0000,,If you do this, you'll be able to \Nget your old body back for sure!
+Dialogue: 0,0:03:34.97,0:03:38.05,Default - flashback,Gu,0000,0000,0000,,This time, I'm the LRIG, \Nand you're the Selector.
+Dialogue: 0,0:03:38.74,0:03:40.28,Default - flashback,Gu,0000,0000,0000,,It must be fate!
+Dialogue: 0,0:03:40.70,0:03:43.66,Default - flashback,Gu,0000,0000,0000,,"If I just act polite and do \Nwhat the fortune-telling says,
+Dialogue: 0,0:03:43.66,0:03:46.16,Default - flashback,Gu,0000,0000,0000,,a happy future will come." Was that it?
+Dialogue: 0,0:03:46.16,0:03:48.87,Default - flashback,Gu,0000,0000,0000,,That's right! I'm so glad you remember!
+Dialogue: 0,0:03:50.34,0:03:51.72,Default - flashback,Gu,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:03:51.72,0:03:54.83,Default - flashback,Gu,0000,0000,0000,,I never liked that about you.
+Dialogue: 0,0:03:56.52,0:03:59.94,Default - flashback,Gu,0000,0000,0000,,You know, I really like your body.
+Dialogue: 0,0:04:03.86,0:04:05.22,Default - flashback,Gu,0000,0000,0000,,Hey, wait...
+Dialogue: 0,0:04:06.15,0:04:08.97,Default - flashback,Gu,0000,0000,0000,,Wait... Stop! No! This is a joke, right?!
+Dialogue: 0,0:04:08.97,0:04:12.77,Default - flashback,Gu,0000,0000,0000,,I'm taking your life all for myself.
+Dialogue: 0,0:04:12.77,0:04:15.83,Default - flashback,Gu,0000,0000,0000,,But... You can't... No! No!
+Dialogue: 0,0:04:17.82,0:04:22.81,Default - italics,Gu,0000,0000,0000,,I was trapped for what felt like an eternity.
+Dialogue: 0,0:04:40.49,0:04:44.76,Default - italics,Gu,0000,0000,0000,,And then, that suddenly ended.
+Dialogue: 0,0:04:48.27,0:04:51.47,Default - italics,Gu,0000,0000,0000,,But something had gone wrong...
+Dialogue: 0,0:04:52.80,0:04:55.14,Default - flashback,Gu,0000,0000,0000,,I'll get tired easily today,
+Dialogue: 0,0:04:55.63,0:04:57.94,Default - flashback,Gu,0000,0000,0000,,and my lucky color is green, huh?
+Dialogue: 0,0:04:58.20,0:04:59.18,Default - flashback,Gu,0000,0000,0000,,What's she doing?
+Dialogue: 0,0:04:59.18,0:05:00.42,Default - flashback,Gu,0000,0000,0000,,You didn't know?
+Dialogue: 0,0:05:00.42,0:05:03.49,Default - flashback,Gu,0000,0000,0000,,She uses fortune-telling to \Ndecide everything in her life.
+Dialogue: 0,0:05:03.49,0:05:07.45,Default - flashback,Gu,0000,0000,0000,,I heard the reason she skipped school the \Nother day was because of a bad fortune.
+Dialogue: 0,0:05:07.84,0:05:09.20,Default - flashback,Gu,0000,0000,0000,,What? That's scary!
+Dialogue: 0,0:05:09.20,0:05:10.47,Default - flashback,Gu,0000,0000,0000,,That's getting way too into it.
+Dialogue: 0,0:05:10.47,0:05:12.43,Default - flashback,Gu,0000,0000,0000,,They say she's a little crazy.
+Dialogue: 0,0:05:12.43,0:05:14.38,Default - flashback,Gu,0000,0000,0000,,You should stay away from her.
+Dialogue: 0,0:05:15.39,0:05:18.11,Default - italics,Gu,0000,0000,0000,,This isn't right... Why?
+Dialogue: 0,0:05:19.70,0:05:21.51,Default - italics,Gu,0000,0000,0000,,I wasn't like this.
+Dialogue: 0,0:05:21.51,0:05:23.88,Default - italics,Gu,0000,0000,0000,,I... I...
+Dialogue: 0,0:05:23.88,0:05:27.93,sign_7766_66_6_24_Cleaning_to,Gu,0000,0000,0000,,6/24\NCleaning today was so much fun! \NMe, Mio-chan, Azusa-chan, and the others\Nall said that Kiyoi-chan was gross,\Nso we decided to clean her up by throwing\Na bucket of water on her.\NHer shocked face was just PERFECT.
+Dialogue: 0,0:05:29.64,0:05:33.89,sign_7766_66_6_24_Cleaning_to,Gu,0000,0000,0000,,6/24\NCleaning today was so much fun! \NMe, Mio-chan, Azusa-chan, and the others\Nall said that Kiyoi-chan was gross,\Nso we decided to clean her up by throwing\Na bucket of water on her.\NHer shocked face was just PERFECT.
+Dialogue: 0,0:05:36.08,0:05:37.40,Default,Gu,0000,0000,0000,,That's it.
+Dialogue: 0,0:05:37.40,0:05:39.56,Default,Gu,0000,0000,0000,,It's because I don't have Kiyoi-chan!
+Dialogue: 0,0:05:40.00,0:05:43.59,Default,Gu,0000,0000,0000,,When she was around, \Neverything went perfectly.
+Dialogue: 0,0:05:43.59,0:05:44.84,Default,Gu,0000,0000,0000,,So that's it.
+Dialogue: 0,0:05:44.84,0:05:48.20,Default,Gu,0000,0000,0000,,I need Kiyoi-chan in my life.
+Dialogue: 0,0:05:48.52,0:05:50.52,Default,Gu,0000,0000,0000,,I want to see Kiyoi-chan again...
+Dialogue: 0,0:05:51.24,0:05:52.33,Default,Gu,0000,0000,0000,,I want to see her!
+Dialogue: 0,0:05:52.44,0:05:53.24,Default,Gu,0000,0000,0000,,I want to see her!
+Dialogue: 0,0:05:53.33,0:05:53.99,Default,Gu,0000,0000,0000,,I want to see her!
+Dialogue: 0,0:05:54.28,0:05:55.24,Default,Gu,0000,0000,0000,,I want to see her!
+Dialogue: 0,0:05:55.32,0:05:56.20,Default,Gu,0000,0000,0000,,I want to see her!
+Dialogue: 0,0:05:56.29,0:05:57.70,Default,Gu,0000,0000,0000,,I want to see her! I want to see her!
+Dialogue: 0,0:05:57.81,0:05:59.22,Default,Gu,0000,0000,0000,,I want to see her! I want to see her!
+Dialogue: 0,0:05:59.31,0:06:01.13,Default,Gu,0000,0000,0000,,I want to see her! I want to see her!
+Dialogue: 0,0:06:01.40,0:06:02.54,Default,Gu,0000,0000,0000,,Do you want to see her?
+Dialogue: 0,0:06:05.36,0:06:08.09,Default,Gu,0000,0000,0000,,Is this... the room of white windows?
+Dialogue: 0,0:06:09.76,0:06:11.19,Default,Gu,0000,0000,0000,,Why?
+Dialogue: 0,0:06:11.19,0:06:12.60,Default,Gu,0000,0000,0000,,Do you want to play?
+Dialogue: 0,0:06:12.83,0:06:13.81,Default,Gu,0000,0000,0000,,With her.
+Dialogue: 0,0:06:13.81,0:06:14.94,Default,Gu,0000,0000,0000,,Again.
+Dialogue: 0,0:06:14.94,0:06:16.26,Default,Gu,0000,0000,0000,,With her.
+Dialogue: 0,0:06:16.26,0:06:17.43,Default,Gu,0000,0000,0000,,Do you want to be friends?
+Dialogue: 0,0:06:17.88,0:06:19.70,Default,Gu,0000,0000,0000,,To see her suffer?
+Dialogue: 0,0:06:19.70,0:06:21.20,Default,Gu,0000,0000,0000,,To be with her?
+Dialogue: 0,0:06:21.20,0:06:22.60,Default,Gu,0000,0000,0000,,To fight her?
+Dialogue: 0,0:06:22.60,0:06:23.40,Default,Gu,0000,0000,0000,,To see her?
+Dialogue: 0,0:06:28.11,0:06:30.70,Default,C,0000,0000,0000,,I guess I shouldn't have come here on a whim.
+Dialogue: 0,0:06:31.28,0:06:33.32,Default,C,0000,0000,0000,,I didn't expect to be ambushed.
+Dialogue: 0,0:06:33.84,0:06:36.70,Default,Gi,0000,0000,0000,,Book me a battle with Mizushima Kiyoi.
+Dialogue: 0,0:06:36.99,0:06:38.22,Default,C,0000,0000,0000,,Sorry.
+Dialogue: 0,0:06:38.22,0:06:41.84,Default,C,0000,0000,0000,,I'm not Satomi Kou or \Nthe bookmaker anymore.
+Dialogue: 0,0:06:41.84,0:06:42.96,Default,Gi,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:06:43.32,0:06:45.21,Default,C,0000,0000,0000,,You should be able to guess.
+Dialogue: 0,0:06:45.67,0:06:48.92,Default,C,0000,0000,0000,,I'm Carnival, his LRIG.
+Dialogue: 0,0:06:49.15,0:06:51.68,Default,C,0000,0000,0000,,And anyway, Mizushima Kiyoi beat you,
+Dialogue: 0,0:06:51.68,0:06:53.95,Default,,0000,0000,0000,,so you don't have any LRIGs anymore, right?
+Dialogue: 0,0:06:53.95,0:06:55.31,Default,C,0000,0000,0000,,You're out of the battle.
+Dialogue: 0,0:06:55.84,0:06:59.27,Default,C,0000,0000,0000,,All you can do now is wait \Nfor your coins to disappear.
+Dialogue: 0,0:06:59.72,0:07:02.37,Default,Gi,0000,0000,0000,,I want to beat the shit out of her.
+Dialogue: 0,0:07:02.77,0:07:06.40,Default,Gi,0000,0000,0000,,I want to warp that stupid \Nsmirk of hers with despair.
+Dialogue: 0,0:07:06.61,0:07:08.78,Default,C,0000,0000,0000,,Well, I can't help.
+Dialogue: 0,0:07:10.79,0:07:11.76,Default,Gi,0000,0000,0000,,Wait!
+Dialogue: 0,0:07:11.76,0:07:13.83,Default,Gi,0000,0000,0000,,Give me an LRIG, then!
+Dialogue: 0,0:07:13.83,0:07:15.89,Default,Gi,0000,0000,0000,,I'll give it back when I crush Kiyoi!
+Dialogue: 0,0:07:15.89,0:07:18.16,Default,Gi,0000,0000,0000,,I don't care if I lose \Nmy memories after that.
+Dialogue: 0,0:07:18.16,0:07:22.54,Default,Gi,0000,0000,0000,,I don't care if I lose all my \Nmemories of this stupid life!
+Dialogue: 0,0:07:23.53,0:07:26.04,Default,C,0000,0000,0000,,I'm impressed by your obsession with her,
+Dialogue: 0,0:07:26.04,0:07:28.39,Default,C,0000,0000,0000,,but you can't just lend someone a LRIG.
+Dialogue: 0,0:07:28.39,0:07:30.99,Default,C,0000,0000,0000,,I've never heard of that...
+Dialogue: 0,0:07:41.50,0:07:42.23,Default,C,0000,0000,0000,,An LRIG?
+Dialogue: 0,0:07:44.32,0:07:46.09,Default,Gi,0000,0000,0000,,I'm Remember.
+Dialogue: 0,0:07:46.09,0:07:48.57,Default,Gi,0000,0000,0000,,I'm dying to see Mizushima Kiyoi-chan again!
+Dialogue: 0,0:07:48.84,0:07:50.04,Default,Gi,0000,0000,0000,,You know her?
+Dialogue: 0,0:07:50.04,0:07:51.45,Default,Gi,0000,0000,0000,,I sure do!
+Dialogue: 0,0:07:51.95,0:07:55.78,Default,Gi,0000,0000,0000,,And I'm absolutely dying to see her!
+Dialogue: 0,0:07:58.89,0:08:00.50,Default,Gi,0000,0000,0000,,I can make that happen.
+Dialogue: 0,0:08:00.92,0:08:03.46,Default,Gi,0000,0000,0000,,Let's play with Kiyoi-chan together!
+Dialogue: 0,0:08:06.29,0:08:09.38,Default,C,0000,0000,0000,,A new pawn that I don't know...
+Dialogue: 0,0:08:09.38,0:08:10.76,Default,C,0000,0000,0000,,Interesting.
+Dialogue: 0,0:08:16.96,0:08:19.70,Default,H,0000,0000,0000,,Naturally, we're not here to do karaoke.
+Dialogue: 0,0:08:19.70,0:08:21.14,Default,S,0000,0000,0000,,I know that!
+Dialogue: 0,0:08:22.13,0:08:23.32,Default,H,0000,0000,0000,,Main topic.
+Dialogue: 0,0:08:23.32,0:08:24.88,Default,H,0000,0000,0000,,Let us begin.
+Dialogue: 0,0:08:25.35,0:08:27.94,Default,K,0000,0000,0000,,I invited Morikawa-san, too, I thought.
+Dialogue: 0,0:08:29.02,0:08:31.94,Default,S,0000,0000,0000,,I guess Chi-chan had other plans...
+Dialogue: 0,0:08:32.46,0:08:34.15,Default,S,0000,0000,0000,,She said she'd give it a pass.
+Dialogue: 0,0:08:34.61,0:08:35.57,Default,K,0000,0000,0000,,I see.
+Dialogue: 0,0:08:37.02,0:08:40.32,Default,K,0000,0000,0000,,Putting together the information \Nwe've all gathered,
+Dialogue: 0,0:08:40.32,0:08:42.69,Default,K,0000,0000,0000,,it feels like someone is controlling
+Dialogue: 0,0:08:42.69,0:08:46.25,Default,K,0000,0000,0000,,this round of Selector battles \Nfor their own purposes.
+Dialogue: 0,0:08:46.48,0:08:47.99,Default,S,0000,0000,0000,,Controlling?
+Dialogue: 0,0:08:47.99,0:08:49.17,Default,H,0000,0000,0000,,Doubt.
+Dialogue: 0,0:08:49.17,0:08:53.97,Default,H,0000,0000,0000,,I think it could be said that Satomi \Nwas controlling the previous battles.
+Dialogue: 0,0:08:54.42,0:09:00.93,Default,K,0000,0000,0000,,Satomi simply prepared the stage \Nand watched Selectors suffer on it.
+Dialogue: 0,0:09:02.26,0:09:05.27,Default,K,0000,0000,0000,,But this time, it feels like \Nthey're trying to interfere
+Dialogue: 0,0:09:05.27,0:09:08.15,Default,,0000,0000,0000,,with the flow of the \NSelector battles themselves.
+Dialogue: 0,0:09:08.15,0:09:09.44,Default,H,0000,0000,0000,,Confirmation.
+Dialogue: 0,0:09:09.44,0:09:11.80,Default,H,0000,0000,0000,,Is Carnival behind it, then?
+Dialogue: 0,0:09:11.80,0:09:14.08,Default,K,0000,0000,0000,,At first, I thought so.
+Dialogue: 0,0:09:14.08,0:09:17.66,Default,K,0000,0000,0000,,But after talking to Donor, \NI changed my mind.
+Dialogue: 0,0:09:18.51,0:09:23.41,Default,D,0000,0000,0000,,I just suddenly found myself there.
+Dialogue: 0,0:09:23.84,0:09:24.80,Default,S,0000,0000,0000,,"There"?
+Dialogue: 0,0:09:24.80,0:09:26.72,Default,K,0000,0000,0000,,You've been there, too.
+Dialogue: 0,0:09:26.72,0:09:28.79,Default,K,0000,0000,0000,,The place where you first met your LRIGs.
+Dialogue: 0,0:09:30.12,0:09:33.04,Default,K,0000,0000,0000,,It's the room of white windows.
+Dialogue: 0,0:09:33.04,0:09:37.84,Default,K,0000,0000,0000,,The room where Mayu, the girl who \Ncreated the first Selector battles, was.
+Dialogue: 0,0:09:37.84,0:09:39.15,Default,H,0000,0000,0000,,Surprise...
+Dialogue: 0,0:09:39.15,0:09:40.30,Default,H,0000,0000,0000,,I see.
+Dialogue: 0,0:09:40.88,0:09:42.44,Default,D,0000,0000,0000,,I heard a voice there,
+Dialogue: 0,0:09:42.44,0:09:45.15,Default,D,0000,0000,0000,,and when I answered it, \NI was right next to Kiyoi.
+Dialogue: 0,0:09:45.15,0:09:48.44,Default,S,0000,0000,0000,,In other words, the "someone" \Nwho's controlling this is Mayu?
+Dialogue: 0,0:09:48.66,0:09:53.69,Default,K,0000,0000,0000,,But Mayu was released in the previous \NSelector battles, and she disappeared.
+Dialogue: 0,0:09:54.48,0:09:55.74,Default,H,0000,0000,0000,,Confusion.
+Dialogue: 0,0:09:56.20,0:09:59.16,Default,H,0000,0000,0000,,Whose voice was it, then?
+Dialogue: 0,0:09:59.70,0:10:02.00,Default,D,0000,0000,0000,,I just heard a voice.
+Dialogue: 0,0:10:02.00,0:10:03.94,Default,D,0000,0000,0000,,I didn't see anyone.
+Dialogue: 0,0:10:04.49,0:10:05.37,Default,S,0000,0000,0000,,Hanna-chan?
+Dialogue: 0,0:10:05.80,0:10:07.02,Default,H,0000,0000,0000,,Acquaintance.
+Dialogue: 0,0:10:07.02,0:10:08.86,Default,H,0000,0000,0000,,I'm going to talk to someone.
+Dialogue: 0,0:10:08.86,0:10:10.89,Default,H,0000,0000,0000,,I'll tell you what I learn later.
+Dialogue: 0,0:10:16.05,0:10:18.09,Default,K,0000,0000,0000,,I'm not going to sing.
+Dialogue: 0,0:10:20.61,0:10:22.60,Default,S,0000,0000,0000,,Hey, Chi-chan.
+Dialogue: 0,0:10:24.58,0:10:26.88,Default,C,0000,0000,0000,,How'd the discussion go?
+Dialogue: 0,0:10:26.88,0:10:29.46,Default,S,0000,0000,0000,,Good! We made some progress.
+Dialogue: 0,0:10:29.46,0:10:30.50,Default,C,0000,0000,0000,,Sorry...
+Dialogue: 0,0:10:30.95,0:10:35.07,Default,C,0000,0000,0000,,You kept me away because I don't have \Nmy memories of the Selector battles.
+Dialogue: 0,0:10:35.32,0:10:36.82,Default,S,0000,0000,0000,,It's fine.
+Dialogue: 0,0:10:36.82,0:10:38.20,Default,S,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:10:40.29,0:10:42.62,Default,C,0000,0000,0000,,It really is frustrating.
+Dialogue: 0,0:10:44.92,0:10:46.95,Default,S,0000,0000,0000,,Do you really want your memories back?
+Dialogue: 0,0:10:46.95,0:10:47.51,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:47.51,0:10:48.66,Default,S,0000,0000,0000,,Uh, I mean...
+Dialogue: 0,0:10:49.61,0:10:55.67,Default,S,0000,0000,0000,,The memories you want back \Nmight not be all good ones.
+Dialogue: 0,0:10:56.25,0:10:58.17,Default,S,0000,0000,0000,,Do you still want them back?
+Dialogue: 0,0:11:00.40,0:11:01.39,Default,C,0000,0000,0000,,Of course.
+Dialogue: 0,0:11:02.04,0:11:03.36,Default,S,0000,0000,0000,,I see.
+Dialogue: 0,0:11:09.14,0:11:10.45,Default,H,0000,0000,0000,,Question.
+Dialogue: 0,0:11:10.45,0:11:12.50,Default,H,0000,0000,0000,,Is Kurebayashi-san coming today?
+Dialogue: 0,0:11:12.50,0:11:14.12,Default,Gu,0000,0000,0000,,Sorry.
+Dialogue: 0,0:11:14.12,0:11:17.07,Default,Gu,0000,0000,0000,,She's taking some time off work.
+Dialogue: 0,0:11:18.00,0:11:19.16,Default,H,0000,0000,0000,,Doubt.
+Dialogue: 0,0:11:19.16,0:11:20.32,Default,H,0000,0000,0000,,Did something happen?
+Dialogue: 0,0:11:20.65,0:11:25.19,Default,Gu,0000,0000,0000,,Her family called and said \Nit was for personal reasons.
+Dialogue: 0,0:11:25.19,0:11:26.28,Default,Gu,0000,0000,0000,,That's all I know.
+Dialogue: 0,0:11:26.97,0:11:28.15,Default,H,0000,0000,0000,,Imagination.
+Dialogue: 0,0:11:28.15,0:11:33.75,Default,H,0000,0000,0000,,If Nanashi-chan were here, she'd say, \N"Something happened, huh?"
+Dialogue: 0,0:11:36.00,0:11:37.21,Default,Gi,0000,0000,0000,,This park...
+Dialogue: 0,0:11:37.68,0:11:40.74,Default,Gi,0000,0000,0000,,This is where Yuzuki fought \Na girl named Layla
+Dialogue: 0,0:11:41.40,0:11:43.51,Default,,0000,0000,0000,,and was taken away, right?
+Dialogue: 0,0:11:43.51,0:11:44.18,Default,Gi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:44.62,0:11:46.34,Default,Gi,0000,0000,0000,,Thanks, Ruuko.
+Dialogue: 0,0:11:46.34,0:11:49.99,Default,Gi,0000,0000,0000,,With Yuzuki, Hanayo-san, and Midoriko...
+Dialogue: 0,0:11:49.99,0:11:52.02,Default,Gi,0000,0000,0000,,I couldn't handle it all myself.
+Dialogue: 0,0:11:52.02,0:11:54.15,Default,Gi,0000,0000,0000,,Don't get down, Hitoe!
+Dialogue: 0,0:11:55.09,0:11:56.31,Default,Gi,0000,0000,0000,,That's right.
+Dialogue: 0,0:11:56.31,0:11:58.74,Default,Gi,0000,0000,0000,,Let's get all of them back.
+Dialogue: 0,0:11:58.74,0:12:01.86,Default,Gi,0000,0000,0000,,Wow... You're pretty bold.
+Dialogue: 0,0:12:15.15,0:12:16.38,Default,Gi,0000,0000,0000,,Give back Yuzuki!
+Dialogue: 0,0:12:16.38,0:12:20.55,Default,Gi,0000,0000,0000,,Yuzuki? Oh, you mean this?
+Dialogue: 0,0:12:20.87,0:12:22.52,Default,Gi,0000,0000,0000,,Hitoe... Ruuko...
+Dialogue: 0,0:12:22.99,0:12:23.76,Default,Gi,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:12:24.36,0:12:26.35,Default,Gi,0000,0000,0000,,This happened because I was careless.
+Dialogue: 0,0:12:26.35,0:12:27.21,Default,Gi,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:12:27.21,0:12:28.72,Default,Gi,0000,0000,0000,,I'll get back you back.
+Dialogue: 0,0:12:29.77,0:12:31.18,Default,Gi,0000,0000,0000,,Battle me.
+Dialogue: 0,0:12:34.69,0:12:39.96,Default,C,0000,0000,0000,,So you beat Uemura Hitoe, \Nand then Kurebayashi Yuzuki?
+Dialogue: 0,0:12:39.96,0:12:42.76,Default,Gi,0000,0000,0000,,I didn't do it for you.
+Dialogue: 0,0:12:42.76,0:12:43.65,Default,C,0000,0000,0000,,I know that.
+Dialogue: 0,0:12:44.12,0:12:46.99,Default,C,0000,0000,0000,,But now Kominato Ruuko will be forced to act.
+Dialogue: 0,0:12:47.56,0:12:49.24,Default,Gi,0000,0000,0000,,Who's that?
+Dialogue: 0,0:12:49.24,0:12:50.62,Default,Gi,0000,0000,0000,,Is she strong?
+Dialogue: 0,0:12:50.62,0:12:51.39,Default,C,0000,0000,0000,,She's strong.
+Dialogue: 0,0:12:51.72,0:12:52.94,Default,Gi,0000,0000,0000,,How strong?
+Dialogue: 0,0:12:52.94,0:12:54.93,Default,C,0000,0000,0000,,Well...
+Dialogue: 0,0:12:55.52,0:12:59.63,Default,C,0000,0000,0000,,Depending on how things went, \Neven I might have trouble with her.
+Dialogue: 0,0:13:00.32,0:13:02.84,Default,Gi,0000,0000,0000,,I heard you're strong.
+Dialogue: 0,0:13:03.07,0:13:04.16,Default,Gi,0000,0000,0000,,She is!
+Dialogue: 0,0:13:04.16,0:13:06.82,Default,Gi,0000,0000,0000,,Ruu and I are super strong!
+Dialogue: 0,0:13:09.95,0:13:10.91,Default,Gi,0000,0000,0000,,I see...
+Dialogue: 0,0:13:10.91,0:13:11.89,Default,Gi,0000,0000,0000,,Then let's do it.
+Dialogue: 0,0:13:12.22,0:13:14.12,Default,Gi,0000,0000,0000,,Use Yuzuki as your LRIG.
+Dialogue: 0,0:13:14.12,0:13:15.09,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:15.09,0:13:17.68,Default,Gi,0000,0000,0000,,I won't fight under any other conditions.
+Dialogue: 0,0:13:17.68,0:13:20.42,Default,Gi,0000,0000,0000,,I'm here to save my friend.
+Dialogue: 0,0:13:21.23,0:13:23.11,Default,Gi,0000,0000,0000,,You're strange.
+Dialogue: 0,0:13:25.16,0:13:26.47,Default,Gi,0000,0000,0000,,Oh, well.
+Dialogue: 0,0:13:26.47,0:13:28.91,Default,Gi,0000,0000,0000,,I guess that could be fun every now and then.
+Dialogue: 0,0:13:29.17,0:13:31.62,Default,Gi,0000,0000,0000,,I'll play your little game.
+Dialogue: 0,0:13:33.43,0:13:34.48,Default,Gi,0000,0000,0000,,Open!
+Dialogue: 0,0:13:49.77,0:13:51.15,Default,Gi,0000,0000,0000,,I'm sorry, Yuzuki.
+Dialogue: 0,0:13:51.15,0:13:52.64,Default,Gi,0000,0000,0000,,Just hang in there for a bit!
+Dialogue: 0,0:13:52.93,0:13:55.09,Default,Gi,0000,0000,0000,,I'm paying for my own mistake.
+Dialogue: 0,0:13:55.09,0:13:57.31,Default,Gi,0000,0000,0000,,But, Tama, I'm sorry.
+Dialogue: 0,0:13:57.31,0:13:59.73,Default,Gi,0000,0000,0000,,An LRIG can't hold back even if they want to.
+Dialogue: 0,0:14:00.11,0:14:01.35,Default,Gi,0000,0000,0000,,Don't worry!
+Dialogue: 0,0:14:01.35,0:14:02.61,Default,Gi,0000,0000,0000,,I'm strong!
+Dialogue: 0,0:14:02.88,0:14:05.86,Default,Gi,0000,0000,0000,,Stop talking and let's just do this!
+Dialogue: 0,0:14:06.09,0:14:08.32,Default,Gi,0000,0000,0000,,Ruuko, Yuzuki...
+Dialogue: 0,0:14:10.66,0:14:12.33,Default,Gi,0000,0000,0000,,Tama, grow!
+Dialogue: 0,0:14:13.62,0:14:15.59,Default,Gi,0000,0000,0000,,Summon Playground Equipment: Snow Sled.
+Dialogue: 0,0:14:15.59,0:14:17.62,Default,Gi,0000,0000,0000,,Control top and turn end!
+Dialogue: 0,0:14:18.14,0:14:19.14,Default,Gi,0000,0000,0000,,Grow.
+Dialogue: 0,0:14:21.06,0:14:24.72,Default,Gi,0000,0000,0000,,It's no fun at all if I can't fight.
+Dialogue: 0,0:14:24.72,0:14:25.88,Default,Gi,0000,0000,0000,,Summon Dinos.
+Dialogue: 0,0:14:26.35,0:14:29.65,Default,Gi,0000,0000,0000,,Show hand and banish Snow Sled.
+Dialogue: 0,0:14:30.53,0:14:32.20,Default,Gi,0000,0000,0000,,Tama, I'm sorry!
+Dialogue: 0,0:14:33.65,0:14:34.53,Default,Gi,0000,0000,0000,,Tama!
+Dialogue: 0,0:14:34.53,0:14:35.31,Default,Gi,0000,0000,0000,,I'm fine!
+Dialogue: 0,0:14:35.84,0:14:37.27,Default,Gi,0000,0000,0000,,Turn end.
+Dialogue: 0,0:14:37.76,0:14:38.76,Default,Gi,0000,0000,0000,,That's right...
+Dialogue: 0,0:14:38.76,0:14:40.78,Default,Gi,0000,0000,0000,,This is a Selector battle.
+Dialogue: 0,0:14:41.49,0:14:42.51,Default,Gi,0000,0000,0000,,Grow!
+Dialogue: 0,0:14:43.86,0:14:45.66,Default,Gi,0000,0000,0000,,Summon SIGNI Sanpoku,
+Dialogue: 0,0:14:45.66,0:14:46.61,Default,Gi,0000,0000,0000,,attack phase effect,
+Dialogue: 0,0:14:46.61,0:14:47.83,Default,Gi,0000,0000,0000,,activate combo,
+Dialogue: 0,0:14:47.83,0:14:49.07,Default,Gi,0000,0000,0000,,put snow tracks into play!
+Dialogue: 0,0:14:53.84,0:14:55.32,Default,Gi,0000,0000,0000,,She guarded?
+Dialogue: 0,0:14:55.32,0:14:58.72,Default,Gi,0000,0000,0000,,When she fought me and Yuzuki, \Nshe was ultra-aggressive
+Dialogue: 0,0:14:58.72,0:15:00.62,Default,,0000,0000,0000,,and didn't even use a Servant.
+Dialogue: 0,0:15:00.62,0:15:04.39,Default,Gi,0000,0000,0000,,What's wrong? An attack \Nlike that won't hurt me.
+Dialogue: 0,0:15:04.39,0:15:07.08,Default,Gi,0000,0000,0000,,Attack me harder!
+Dialogue: 0,0:15:07.08,0:15:08.42,Default,Gi,0000,0000,0000,,Grow!
+Dialogue: 0,0:15:08.42,0:15:11.76,Default,Gi,0000,0000,0000,,Play Double Crush on Yuzuki and attack!
+Dialogue: 0,0:15:18.80,0:15:19.65,Default,Gi,0000,0000,0000,,Tama!
+Dialogue: 0,0:15:19.65,0:15:20.56,Default,Gi,0000,0000,0000,,I'm fine!
+Dialogue: 0,0:15:22.65,0:15:25.86,Default,Gi,0000,0000,0000,,She's calmly testing Ruuko and Tama-chan.
+Dialogue: 0,0:15:26.26,0:15:28.38,Default,Gi,0000,0000,0000,,This isn't like Hitoe said.
+Dialogue: 0,0:15:28.38,0:15:31.36,Default,Gi,0000,0000,0000,,She doesn't just want to fight!
+Dialogue: 0,0:15:31.36,0:15:33.34,Default,Gi,0000,0000,0000,,Now, show me
+Dialogue: 0,0:15:33.34,0:15:36.79,Default,Gi,0000,0000,0000,,the power that he said even \Nhe might have trouble with...
+Dialogue: 0,0:15:47.99,0:15:50.64,Default - italics,Gi,0000,0000,0000,,I need to end this battle fast!
+Dialogue: 0,0:15:50.64,0:15:51.90,Default,Gi,0000,0000,0000,,Tama, please!
+Dialogue: 0,0:15:51.90,0:15:53.47,Default,Gi,0000,0000,0000,,ARTS: Queen Boundary!
+Dialogue: 0,0:16:02.31,0:16:03.52,Default,Gi,0000,0000,0000,,That's it!
+Dialogue: 0,0:16:03.52,0:16:05.61,Default,Gi,0000,0000,0000,,That's the power I wanted to see!
+Dialogue: 0,0:16:05.93,0:16:07.98,Default,Gi,0000,0000,0000,,But this is only the beginning, right?
+Dialogue: 0,0:16:08.36,0:16:09.40,Default,Gi,0000,0000,0000,,Grow!
+Dialogue: 0,0:16:09.40,0:16:10.80,Default,Gi,0000,0000,0000,,Coin bet.
+Dialogue: 0,0:16:12.38,0:16:13.99,Default,Gi,0000,0000,0000,,Tama, hang in there!
+Dialogue: 0,0:16:15.56,0:16:17.10,Default,Gi,0000,0000,0000,,Burning!
+Dialogue: 0,0:16:25.04,0:16:26.04,Default,Gi,0000,0000,0000,,Tama!
+Dialogue: 0,0:16:27.20,0:16:29.55,Default,Gi,0000,0000,0000,,I'm just... fine!
+Dialogue: 0,0:16:29.92,0:16:32.83,Default,Gi,0000,0000,0000,,You have more power than that, don't you?
+Dialogue: 0,0:16:32.83,0:16:36.15,Default,Gi,0000,0000,0000,,You'll never get to them that way!
+Dialogue: 0,0:16:36.15,0:16:38.20,Default,Gi,0000,0000,0000,,ARTS: Overheat.
+Dialogue: 0,0:16:40.38,0:16:42.21,Default,Gi,0000,0000,0000,,She enhanced her defenses?
+Dialogue: 0,0:16:42.21,0:16:43.94,Default,Gi,0000,0000,0000,,Is she going to drag this out longer?
+Dialogue: 0,0:16:44.40,0:16:46.81,Default,Gi,0000,0000,0000,,I can't break that with a direct attack.
+Dialogue: 0,0:16:47.27,0:16:48.94,Default,Gi,0000,0000,0000,,But I will end this.
+Dialogue: 0,0:16:48.94,0:16:51.28,Default,Gi,0000,0000,0000,,Yuzuki, this is the end!
+Dialogue: 0,0:16:51.72,0:16:52.69,Default,Gi,0000,0000,0000,,Yeah...
+Dialogue: 0,0:16:52.69,0:16:55.34,Default,Gi,0000,0000,0000,,That's right! Come on! Bring it!
+Dialogue: 0,0:16:55.34,0:16:56.49,Default,Gi,0000,0000,0000,,Coin bet!
+Dialogue: 0,0:16:56.86,0:16:58.40,Default,Gi,0000,0000,0000,,Innocence!
+Dialogue: 0,0:17:06.81,0:17:07.59,Default,Gi,0000,0000,0000,,Tama!
+Dialogue: 0,0:17:07.59,0:17:08.96,Default,Gi,0000,0000,0000,,Ark Gain!
+Dialogue: 0,0:17:25.02,0:17:26.73,Default,Gi,0000,0000,0000,,That's incredible power!
+Dialogue: 0,0:17:26.73,0:17:28.13,Default,Gi,0000,0000,0000,,This is what I wanted!
+Dialogue: 0,0:17:28.13,0:17:29.36,Default,Gi,0000,0000,0000,,It's incredible!
+Dialogue: 0,0:17:37.97,0:17:38.85,Default,Gi,0000,0000,0000,,Yuzuki!
+Dialogue: 0,0:17:38.85,0:17:40.20,Default,Gi,0000,0000,0000,,Yuzuki!
+Dialogue: 0,0:17:40.20,0:17:42.35,Default,Gi,0000,0000,0000,,Welcome back, Yuzuki!
+Dialogue: 0,0:17:42.35,0:17:44.40,Default,Gi,0000,0000,0000,,I'm sorry I caused trouble for you.
+Dialogue: 0,0:17:44.88,0:17:45.91,Default,Gi,0000,0000,0000,,Thanks.
+Dialogue: 0,0:17:46.12,0:17:47.37,Default,Gi,0000,0000,0000,,Don't be.
+Dialogue: 0,0:17:47.58,0:17:49.88,Default,Gi,0000,0000,0000,,Yuzuki, did it hurt?
+Dialogue: 0,0:17:50.09,0:17:52.13,Default,Gi,0000,0000,0000,,Yeah, it really hurt.
+Dialogue: 0,0:17:52.13,0:17:53.53,Default,Gi,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:17:53.53,0:17:54.58,Default,Gi,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:17:54.58,0:17:56.13,Default,Gi,0000,0000,0000,,Thanks, Tama.
+Dialogue: 0,0:17:57.46,0:17:58.80,Default,Gi,0000,0000,0000,,Not bad.
+Dialogue: 0,0:17:59.23,0:18:02.29,Default,Gi,0000,0000,0000,,Now use Midoriko-san and Hanayo-san.
+Dialogue: 0,0:18:02.29,0:18:04.02,Default,Gi,0000,0000,0000,,No.
+Dialogue: 0,0:18:04.02,0:18:06.89,Default,Gi,0000,0000,0000,,Battling this way is boring. \NI'm done with that!
+Dialogue: 0,0:18:07.27,0:18:10.29,Default,Gi,0000,0000,0000,,Next time, your LRIG and I \Nare going to fight a battle
+Dialogue: 0,0:18:10.29,0:18:14.61,Default,Gi,0000,0000,0000,,that makes blood and flesh \Nand bones all scream!
+Dialogue: 0,0:18:20.57,0:18:22.10,Default,Gi,0000,0000,0000,,Wow, really?
+Dialogue: 0,0:18:22.10,0:18:23.67,Default,Gi,0000,0000,0000,,Where do we go next?
+Dialogue: 0,0:18:23.67,0:18:25.66,Default,Gi,0000,0000,0000,,Hey, isn't that Aoi Akira?
+Dialogue: 0,0:18:25.66,0:18:26.56,Default,Gi,0000,0000,0000,,Who's that?
+Dialogue: 0,0:18:26.56,0:18:27.82,Default,Gi,0000,0000,0000,,The amateur model!
+Dialogue: 0,0:18:27.82,0:18:29.85,Default,Gi,0000,0000,0000,,I don't know her.
+Dialogue: 0,0:18:31.16,0:18:33.65,Default,Gi,0000,0000,0000,,Akira-chan, are you an amateur model?
+Dialogue: 0,0:18:34.85,0:18:36.85,Default,Gi,0000,0000,0000,,Please don't ignore me!
+Dialogue: 0,0:18:36.85,0:18:38.89,Default,Gi,0000,0000,0000,,If I know more about you,
+Dialogue: 0,0:18:38.89,0:18:41.42,Default,Gi,0000,0000,0000,,I can give you more accurate fortunes.
+Dialogue: 0,0:18:41.42,0:18:43.52,Default,Gi,0000,0000,0000,,My fortune-telling is really good.
+Dialogue: 0,0:18:43.52,0:18:45.14,Default,Gi,0000,0000,0000,,Shut up.
+Dialogue: 0,0:18:45.43,0:18:47.72,Default,Gi,0000,0000,0000,,I just wanted an LRIG.
+Dialogue: 0,0:18:47.72,0:18:49.85,Default,Gi,0000,0000,0000,,I don't want to be your friend.
+Dialogue: 0,0:18:50.35,0:18:52.49,Default,Gi,0000,0000,0000,,When's your birthday?
+Dialogue: 0,0:18:53.27,0:18:54.86,Default,Gi,0000,0000,0000,,What's your blood type?
+Dialogue: 0,0:18:55.72,0:18:57.37,Default,Gi,0000,0000,0000,,Your favorite color?
+Dialogue: 0,0:18:58.35,0:18:59.86,Default,Gi,0000,0000,0000,,Dog person or cat person?
+Dialogue: 0,0:18:59.86,0:19:01.03,Default,Gi,0000,0000,0000,,Give it a rest!
+Dialogue: 0,0:19:01.03,0:19:03.26,Default,Gi,0000,0000,0000,,If you don't shut up, I'll rip you in half!
+Dialogue: 0,0:19:04.35,0:19:06.74,Default,Gi,0000,0000,0000,,Your fortune says you'll \Nhave trouble with water.
+Dialogue: 0,0:19:12.60,0:19:13.74,Default,Gi,0000,0000,0000,,See?
+Dialogue: 0,0:19:14.48,0:19:17.26,Default,Gi,0000,0000,0000,,Let's be friends, Akira-chan.
+Dialogue: 0,0:19:17.47,0:19:18.77,Default,Gi,0000,0000,0000,,Hell no.
+Dialogue: 0,0:19:19.20,0:19:22.97,Default,Gi,0000,0000,0000,,Once I'm done with Kiyoi, \NI'm throwing you in the trash.
+Dialogue: 0,0:19:23.38,0:19:25.55,Default,Gi,0000,0000,0000,,You're stopping after one fight?
+Dialogue: 0,0:19:26.38,0:19:29.16,Default,Gi,0000,0000,0000,,Let's keep playing with Kiyoi-chan forever!
+Dialogue: 0,0:19:29.16,0:19:32.06,Default,Gi,0000,0000,0000,,Then I can be happy!
+Dialogue: 0,0:19:32.77,0:19:35.57,Default,Gi,0000,0000,0000,,You're screwed up.
+Dialogue: 0,0:19:35.80,0:19:38.28,Default,Gi,0000,0000,0000,,So are you, aren't you, Akira-chan?
+Dialogue: 0,0:19:38.47,0:19:42.45,Default,Gi,0000,0000,0000,,I happen to know her weakness.
+Dialogue: 0,0:19:42.45,0:19:45.22,Default,Gi,0000,0000,0000,,Yeah? What weakness is that?
+Dialogue: 0,0:19:46.56,0:19:47.75,Default,Gi,0000,0000,0000,,Kiyoi,
+Dialogue: 0,0:19:48.26,0:19:49.25,Default,Gi,0000,0000,0000,,which do you like?
+Dialogue: 0,0:19:49.46,0:19:51.87,Default,Gi,0000,0000,0000,,I don't know about that stuff.
+Dialogue: 0,0:19:52.10,0:19:54.88,Default,Gi,0000,0000,0000,,Just tell me which you prefer.
+Dialogue: 0,0:19:56.30,0:19:58.09,Default,Gi,0000,0000,0000,,This one, I guess.
+Dialogue: 0,0:19:58.66,0:20:00.13,Default,Gi,0000,0000,0000,,Okay, here.
+Dialogue: 0,0:20:00.99,0:20:02.64,Default,Gi,0000,0000,0000,,I'll get this one.
+Dialogue: 0,0:20:02.64,0:20:03.68,Default,Gi,0000,0000,0000,,We can be twins!
+Dialogue: 0,0:20:04.88,0:20:05.64,Default,Gi,0000,0000,0000,,No.
+Dialogue: 0,0:20:05.88,0:20:07.92,Default,Gi,0000,0000,0000,,Let's do it!
+Dialogue: 0,0:20:07.92,0:20:10.04,Default,Gi,0000,0000,0000,,This stuff's on sale, and it's cheap.
+Dialogue: 0,0:20:10.04,0:20:11.20,Default,Gi,0000,0000,0000,,No way.
+Dialogue: 0,0:20:11.20,0:20:13.15,Default,Gi,0000,0000,0000,,You're no fun.
+Dialogue: 0,0:20:14.59,0:20:17.57,Default,Gi,0000,0000,0000,,Eat up. We've got three more places to go.
+Dialogue: 0,0:20:17.85,0:20:21.32,Default,Gi,0000,0000,0000,,You wanted me to come here \Njust to go shopping with you?
+Dialogue: 0,0:20:21.56,0:20:22.64,Default,Gi,0000,0000,0000,,That's right.
+Dialogue: 0,0:20:22.64,0:20:26.32,Default,Gi,0000,0000,0000,,You're always so busy with \Nyour Selector battles
+Dialogue: 0,0:20:26.32,0:20:28.36,Default,,0000,0000,0000,,that you never hang out with me.
+Dialogue: 0,0:20:30.09,0:20:31.50,Default,Gi,0000,0000,0000,,This is so good!
+Dialogue: 0,0:20:39.71,0:20:41.49,Default,Gi,0000,0000,0000,,That was fun.
+Dialogue: 0,0:20:41.49,0:20:43.31,Default,Gi,0000,0000,0000,,Well, I'll invite you again sometime.
+Dialogue: 0,0:20:43.72,0:20:44.30,Default,Gi,0000,0000,0000,,Amika...
+Dialogue: 0,0:20:46.45,0:20:49.94,Default,Gi,0000,0000,0000,,Thanks for always worrying about me.
+Dialogue: 0,0:20:50.86,0:20:52.16,Default,Gi,0000,0000,0000,,Of course I do.
+Dialogue: 0,0:20:52.16,0:20:53.23,Default,Gi,0000,0000,0000,,We're friends!
+Dialogue: 0,0:20:54.04,0:20:54.94,Default,Gi,0000,0000,0000,,Bye!
+Dialogue: 0,0:20:58.63,0:21:01.27,Default,Gi,0000,0000,0000,,Where am I going to wear something like this?
+Dialogue: 0,0:21:16.29,0:21:18.13,sign_30601_386_Amika,Gi,0000,0000,0000,,{\fad(610,1)}Amika
+Dialogue: 0,0:21:19.27,0:21:21.09,Default,Gi,0000,0000,0000,,What? Did you forget something?
+Dialogue: 0,0:21:21.09,0:21:22.45,Default,Gi,0000,0000,0000,,Yeah, I did!
+Dialogue: 0,0:21:22.45,0:21:26.34,Default,Gi,0000,0000,0000,,I forgot to kick your ass.
+Dialogue: 0,0:21:27.52,0:21:28.30,Default,Gi,0000,0000,0000,,Akira!
+Dialogue: 0,0:21:28.51,0:21:30.33,Default,Gi,0000,0000,0000,,That's right!
+Dialogue: 0,0:21:30.33,0:21:32.72,Default,Gi,0000,0000,0000,,That's my little Piruluk-tan!
+Dialogue: 0,0:21:33.40,0:21:36.77,Default,Gi,0000,0000,0000,,If you want to see her, come to the \Naddress I'm about to give you.
+Dialogue: 0,0:21:37.56,0:21:40.28,Default,Gi,0000,0000,0000,,Yes. Yes, I understand.
+Dialogue: 0,0:21:40.28,0:21:41.62,Default - italics,Gi,0000,0000,0000,,Don't do it, Kiyoi!
+Dialogue: 0,0:21:41.62,0:21:42.53,Default,Gi,0000,0000,0000,,Amika!
+Dialogue: 0,0:21:41.89,0:21:44.14,Default - italics,Gi,0000,0000,0000,,Shut up, you stupid bitch!
+Dialogue: 0,0:21:53.04,0:21:56.04,Title,Gi,0000,0000,0000,,Attachment / Trick and Trap
+Dialogue: 0,0:23:26.60,0:23:28.07,Default,Gi,0000,0000,0000,,For your friend.
+Dialogue: 0,0:23:28.07,0:23:30.28,Default,Gi,0000,0000,0000,,I'll take some embarrassing photos and stuff.
+Dialogue: 0,0:23:30.28,0:23:32.04,Default,Gi,0000,0000,0000,,Do what I tell you.
+Dialogue: 0,0:23:32.04,0:23:33.75,Default,Gi,0000,0000,0000,,I'll make her pay!
+Dialogue: 0,0:23:33.75,0:23:35.40,Default,Gi,0000,0000,0000,,My wish came true!
+Dialogue: 0,0:23:35.40,0:23:38.77,Default,Gi,0000,0000,0000,,I can finally beat the shit out of you!
+Dialogue: 0,0:23:37.89,0:23:41.06,Title2,Preview,0000,0000,0000,,{\fad(1500,1)}Bond / Crime and Punishment
+Dialogue: 0,0:23:38.77,0:23:41.06,Default,Preview,0000,0000,0000,,Bond / Crime and Punishment.

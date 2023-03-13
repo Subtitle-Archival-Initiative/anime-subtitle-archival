@@ -1,0 +1,395 @@
+[Script Info]
+Title: English (US)
+Original Script: WarnerJapan  [http://www.crunchyroll.com/user/WarnerJapan]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - flashback,Trebuchet MS,24,&H00F4ECEC,&H000000FF,&H00502300,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0020,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0010,0
+Style: Title,Verdana,28,&H00170E06,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0050,0040,0030,0
+Style: Title2,Verdana,24,&H00FFFFFF,&H000000FF,&H001D1911,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,0
+Style: sign_5138_33_Ruuko,Trebuchet MS,18,&H003C414B,&H000000FF,&H006A686D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0094,0089,0118,0
+Style: sign_6317_43_That_message,Trebuchet MS,14,&H00A8A59F,&H000000FF,&H00FAFAFA,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,0040,0020,0020,0
+Style: sign_6529_47_We_don_t,Trebuchet MS,14,&H00A8A59F,&H000000FF,&H005BC2F5,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,0020,0020,0020,0
+Style: sign_6661_48_Unknown,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00757373,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,0
+Style: sign_7728_64_That_message,Trebuchet MS,14,&H00A9ABBE,&H000000FF,&H0086CFF7,&H00000000,0,0,0,0,100,100,0,0,1,4,0,9,0020,0040,0020,0
+Style: sign_7728_66_Thanks_I_believ,Trebuchet MS,14,&H0087A6B5,&H000000FF,&H0086CFF7,&H00000000,0,0,0,0,100,100,0,0,1,4,0,3,0020,0040,0020,0
+Style: sign_17893_176_Egg_Tart,Arial,16,&H00548CE4,&H000000FF,&H006EE9F3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0079,0296,0191,0
+Style: sign_19989_200_Hanazono,Times New Roman,18,&H00556F89,&H000000FF,&H00D6E2E7,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0485,0020,0120,0
+Style: sign_27669_313_Ikebukuro,Trebuchet MS,20,&H002C525B,&H000000FF,&H0089ADB5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0082,0056,0162,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.50,0:00:04.00,Default - flashback,Flashback,0000,0000,0000,,What's going on?
+Dialogue: 0,0:00:04.00,0:00:07.52,Default - flashback,Flashback,0000,0000,0000,,Even if you get five coins, \Nthese battles don't end?
+Dialogue: 0,0:00:08.06,0:00:11.03,Default - flashback,Flashback,0000,0000,0000,,Five coins isn't the win condition?
+Dialogue: 0,0:00:11.55,0:00:12.92,Default - flashback,Flashback,0000,0000,0000,,Shock.
+Dialogue: 0,0:00:12.92,0:00:14.16,Default - flashback,Flashback,0000,0000,0000,,What does this mean?
+Dialogue: 0,0:00:14.62,0:00:15.95,Default - flashback,Flashback,0000,0000,0000,,No...
+Dialogue: 0,0:00:16.58,0:00:19.00,Default - flashback,Flashback,0000,0000,0000,,If it doesn't end after you get five coins,
+Dialogue: 0,0:00:19.00,0:00:21.66,Default - flashback,Flashback,0000,0000,0000,,then how can I get Chi-chan's memories back?
+Dialogue: 0,0:00:23.06,0:00:24.11,Default - flashback,Flashback,0000,0000,0000,,Tama?!
+Dialogue: 0,0:02:07.68,0:02:10.02,Default,Gi,0000,0000,0000,,Where am I?
+Dialogue: 0,0:02:15.00,0:02:19.67,Default,Gi,0000,0000,0000,,This is... Mayu's room?
+Dialogue: 0,0:02:19.67,0:02:22.49,Default,Gi,0000,0000,0000,,Yes, this is the room of white windows.
+Dialogue: 0,0:02:23.95,0:02:25.00,Default,Gi,0000,0000,0000,,Who are you?
+Dialogue: 0,0:02:30.88,0:02:31.86,Default,Gi,0000,0000,0000,,Shiro.
+Dialogue: 0,0:02:32.99,0:02:34.11,Default,Gi,0000,0000,0000,,Kuro is here, too.
+Dialogue: 0,0:02:34.11,0:02:35.68,Default,Gi,0000,0000,0000,,The ones who left.
+Dialogue: 0,0:02:35.68,0:02:38.47,Default,Gi,0000,0000,0000,,I know this voice!
+Dialogue: 0,0:02:38.72,0:02:40.82,Default,Gi,0000,0000,0000,,The door will open soon.
+Dialogue: 0,0:02:42.89,0:02:43.94,Default,Gi,0000,0000,0000,,The door...
+Dialogue: 0,0:02:44.40,0:02:45.59,Default,Gi,0000,0000,0000,,The door will...
+Dialogue: 0,0:02:49.60,0:02:51.04,Default,Gi,0000,0000,0000,,What is this?
+Dialogue: 0,0:02:51.04,0:02:52.11,Default,Gi,0000,0000,0000,,Let me go!
+Dialogue: 0,0:02:52.11,0:02:53.97,Default,Gi,0000,0000,0000,,Hey, let me go!
+Dialogue: 0,0:02:53.97,0:02:56.26,Default - italics,Gi,0000,0000,0000,,The girl of the beginning has returned.
+Dialogue: 0,0:02:56.26,0:02:57.29,Default - italics,Gi,0000,0000,0000,,The keyhole.
+Dialogue: 0,0:02:57.29,0:03:00.40,Default,Gi,0000,0000,0000,,No! No! No!
+Dialogue: 0,0:03:13.41,0:03:14.90,Default,Gi,0000,0000,0000,,Now all I need is the key...
+Dialogue: 0,0:03:15.40,0:03:16.88,Default,Gi,0000,0000,0000,,I wonder how this will go.
+Dialogue: 0,0:03:17.82,0:03:20.54,Default,Gi,0000,0000,0000,,There are five Selectors left in the game.
+Dialogue: 0,0:03:20.54,0:03:22.34,Default,Gi,0000,0000,0000,,It's almost time for the climax.
+Dialogue: 0,0:03:23.41,0:03:25.96,Default,Gi,0000,0000,0000,,I need to make the game more interesting.
+Dialogue: 0,0:03:26.84,0:03:29.19,Default,Gi,0000,0000,0000,,Isn't that right, Eternal?
+Dialogue: 0,0:03:34.27,0:03:36.44,sign_5138_33_Ruuko,Gi,0000,0000,0000,,Ruuko
+Dialogue: 0,0:03:42.00,0:03:45.00,Default,Gi,0000,0000,0000,,Where did you go, Tama?
+Dialogue: 0,0:03:51.49,0:03:53.80,Default - italics,S,0000,0000,0000,,That message from Mizushima-san...
+Dialogue: 0,0:03:53.80,0:03:57.92,Default - italics,S,0000,0000,0000,,If getting five coins isn't how you win,
+Dialogue: 0,0:03:57.92,0:04:01.50,Default - italics,S,0000,0000,0000,,does that mean there's no \Nway to recover lost memories?
+Dialogue: 0,0:04:05.68,0:04:08.92,Default - flashback,Gi,0000,0000,0000,,Correct. We haven't been told how to win.
+Dialogue: 0,0:04:08.92,0:04:14.72,Default - flashback,Gi,0000,0000,0000,,But we were told that if we win, it will be \Npossible in the end to alter memories.
+Dialogue: 0,0:04:14.72,0:04:19.02,Default - flashback,S,0000,0000,0000,,Which means that to win this time, \Nyou have to do something different?
+Dialogue: 0,0:04:19.02,0:04:20.22,Default - flashback,M,0000,0000,0000,,Probably.
+Dialogue: 0,0:04:23.45,0:04:26.41,sign_6317_43_That_message,{Center Message,0000,0000,0000,,That message from Mizushima-san...\NIf getting five coins isn't how you win,\Ndoes that mean there's no way\Nto recover lost memories?
+Dialogue: 0,0:04:24.37,0:04:26.41,Default - italics,S,0000,0000,0000,,We don't know how to win yet,
+Dialogue: 0,0:04:26.71,0:04:31.37,Default - italics,S,0000,0000,0000,,but I'll keep winning battles and \Nget your memories back, Chi-chan.
+Dialogue: 0,0:04:31.37,0:04:32.29,sign_6317_43_That_message,,0000,0000,0000,,That message from Mizushima-san...\NIf getting five coins isn't how you win,\Ndoes that mean there's no way\Nto recover lost memories?
+Dialogue: 0,0:04:32.29,0:04:33.21,sign_6529_47_We_don_t,S,0000,0000,0000,,We don't know how to win yet,\Nbut I'll keep winning battles and\Nget your memories back, Chi-chan.
+Dialogue: 0,0:04:37.79,0:04:39.75,sign_6661_48_Unknown,S,0000,0000,0000,,Unknown Caller
+Dialogue: 0,0:04:44.55,0:04:45.22,Default,S,0000,0000,0000,,Yes?
+Dialogue: 0,0:04:45.50,0:04:46.84,Default - italics,C,0000,0000,0000,,Hi there.
+Dialogue: 0,0:04:48.27,0:04:49.64,Default,S,0000,0000,0000,,Carnival...
+Dialogue: 0,0:04:52.23,0:04:54.20,Default,Gi,0000,0000,0000,,Tama-chan's gone?
+Dialogue: 0,0:04:54.79,0:04:57.03,Default,Gi,0000,0000,0000,,I didn't see it happen, either...
+Dialogue: 0,0:04:57.03,0:04:58.48,Default,Gi,0000,0000,0000,,But why?
+Dialogue: 0,0:04:59.01,0:05:00.84,Default,Gi,0000,0000,0000,,This is just a guess,
+Dialogue: 0,0:05:00.84,0:05:03.04,Default,Gi,0000,0000,0000,,but Tama is a special LRIG,
+Dialogue: 0,0:05:03.04,0:05:06.32,Default,Gi,0000,0000,0000,,so she may have been caught \Nup in something big.
+Dialogue: 0,0:05:07.26,0:05:09.24,Default,Gi,0000,0000,0000,,What's going on?
+Dialogue: 0,0:05:09.44,0:05:10.81,Default,Gi,0000,0000,0000,,I don't know.
+Dialogue: 0,0:05:10.81,0:05:14.37,Default,Gi,0000,0000,0000,,But it looks like what's happening \Nhere is totally different
+Dialogue: 0,0:05:14.37,0:05:17.21,Default,,0000,0000,0000,,than the Selector battles we know.
+Dialogue: 0,0:05:22.30,0:05:25.22,sign_7728_64_That_message,,0000,0000,0000,,That message from Mizushima-san...\NIf getting five coins isn't how you win,\Ndoes that mean there's no way\Nto recover lost memories?
+Dialogue: 0,0:05:22.30,0:05:25.22,sign_6317_43_That_message,,0000,0000,0000,,{\an4}We don't know how to win yet,\Nbut I'll keep winning battles and\Nget your memories back, Chi-chan.
+Dialogue: 0,0:05:22.30,0:05:25.22,sign_7728_66_Thanks_I_believ,,0000,0000,0000,,Thanks.\NI believe in you, Suzu.
+Dialogue: 0,0:05:28.31,0:05:30.43,Default,Gi,0000,0000,0000,,Oh, hey!
+Dialogue: 0,0:05:32.58,0:05:34.68,Default,Gi,0000,0000,0000,,How've you been?
+Dialogue: 0,0:05:39.36,0:05:41.60,Default,C,0000,0000,0000,,I'm sorry, who are you again?
+Dialogue: 0,0:05:42.31,0:05:45.40,Default,Gi,0000,0000,0000,,So you forgot about me, huh?
+Dialogue: 0,0:05:45.84,0:05:47.92,Default,Gi,0000,0000,0000,,Is it because you lost your coins?
+Dialogue: 0,0:05:48.91,0:05:52.33,Default,C,0000,0000,0000,,Can you tell me more about that?
+Dialogue: 0,0:05:58.33,0:06:01.35,Default,Gu,0000,0000,0000,,How are you enjoying this \Nround of Selector battles?
+Dialogue: 0,0:06:01.92,0:06:03.38,Default,Gu,0000,0000,0000,,Having fun?
+Dialogue: 0,0:06:05.61,0:06:08.05,Default,S,0000,0000,0000,,These battles could never be fun.
+Dialogue: 0,0:06:09.12,0:06:11.64,Default,S,0000,0000,0000,,Is all of this your doing?
+Dialogue: 0,0:06:11.64,0:06:13.91,Default,Gu,0000,0000,0000,,It was Eternal who set it up.
+Dialogue: 0,0:06:13.91,0:06:14.95,Default,S,0000,0000,0000,,Eternal?
+Dialogue: 0,0:06:14.95,0:06:17.33,Default,Gu,0000,0000,0000,,The Room of White Windows itself.
+Dialogue: 0,0:06:18.45,0:06:23.48,Default,Gu,0000,0000,0000,,The goal of these new battles is for \NEternal to pick itself a new master.
+Dialogue: 0,0:06:23.48,0:06:25.32,Default,S,0000,0000,0000,,You can't be serious...
+Dialogue: 0,0:06:25.32,0:06:29.09,Default,Gu,0000,0000,0000,,The Room of White Windows \Nsummoned me personally
+Dialogue: 0,0:06:29.09,0:06:33.48,Default,Gu,0000,0000,0000,,and gave me more information \Nthan the other Selectors.
+Dialogue: 0,0:06:33.48,0:06:36.58,Default,Gu,0000,0000,0000,,Looks like it wants me to mix things up.
+Dialogue: 0,0:06:38.85,0:06:42.04,Default,S,0000,0000,0000,,Why are you telling me this?
+Dialogue: 0,0:06:42.34,0:06:46.00,Default,Gu,0000,0000,0000,,You're the only Selector who defeated me.
+Dialogue: 0,0:06:46.00,0:06:49.01,Default,Gu,0000,0000,0000,,If you're not taking this seriously, \Nit's not worth defeating you.
+Dialogue: 0,0:06:49.29,0:06:51.69,Default,Gu,0000,0000,0000,,So I'm doing you a special favor.
+Dialogue: 0,0:06:54.54,0:06:58.67,Default,Gi,0000,0000,0000,,There's a lot of stuff I forgot, too.
+Dialogue: 0,0:06:58.67,0:07:00.56,Default,C,0000,0000,0000,,You were a Selector, too?
+Dialogue: 0,0:07:00.56,0:07:01.76,Default,Gi,0000,0000,0000,,That's right.
+Dialogue: 0,0:07:01.76,0:07:07.28,Default,Gi,0000,0000,0000,,When I was in trouble, \Nyou told me about Satomi-oniichan.
+Dialogue: 0,0:07:08.00,0:07:11.86,Default,Gi,0000,0000,0000,,{\an8}And Satomi-oniichan found \Nme someone to fight.
+Dialogue: 0,0:07:11.26,0:07:12.54,Default,C,0000,0000,0000,,Satomi...
+Dialogue: 0,0:07:11.86,0:07:14.76,Default,,0000,0000,0000,,{\an8}Then, when I had one coin left...
+Dialogue: 0,0:07:19.93,0:07:22.13,Default,Gi,0000,0000,0000,,Hey, are you okay?
+Dialogue: 0,0:07:23.49,0:07:25.98,Default,C,0000,0000,0000,,What did I do?
+Dialogue: 0,0:07:27.12,0:07:29.66,Default,Gu,0000,0000,0000,,I'm going to become the master of that room,
+Dialogue: 0,0:07:30.26,0:07:32.76,Default,Gu,0000,0000,0000,,and make the world a lot more fun.
+Dialogue: 0,0:07:33.31,0:07:35.12,Default,Gu,0000,0000,0000,,A world where the battles never end,
+Dialogue: 0,0:07:35.12,0:07:37.72,Default,Gu,0000,0000,0000,,and their outcome determines everything.
+Dialogue: 0,0:07:38.18,0:07:41.56,Default,Gu,0000,0000,0000,,A world where the battles \Ngo on for eternity...
+Dialogue: 0,0:07:42.16,0:07:43.95,Default,Gu,0000,0000,0000,,What could be better?
+Dialogue: 0,0:07:47.66,0:07:49.48,Default,S,0000,0000,0000,,If you became the master of the room,
+Dialogue: 0,0:07:49.48,0:07:51.82,Default,S,0000,0000,0000,,could you get other Selectors' memories back?
+Dialogue: 0,0:07:52.65,0:07:56.33,Default,Gu,0000,0000,0000,,It was the master of the room who \Ninvented the battles for memories.
+Dialogue: 0,0:07:56.90,0:08:00.33,Default,Gu,0000,0000,0000,,They can probably do whatever they like \Nwith the memories that were stolen.
+Dialogue: 0,0:08:00.84,0:08:02.81,Default,Gu,0000,0000,0000,,If you want to make your wish come true,
+Dialogue: 0,0:08:02.81,0:08:06.88,Default,,0000,0000,0000,,you'll have to defeat all \Nthe remaining Selectors.
+Dialogue: 0,0:08:10.04,0:08:11.89,Default,Gu,0000,0000,0000,,I gave you the information.
+Dialogue: 0,0:08:11.89,0:08:14.21,Default,Gu,0000,0000,0000,,Now get to work.
+Dialogue: 0,0:08:14.21,0:08:16.55,Default,Gu,0000,0000,0000,,Right now, it's not even worth fighting you.
+Dialogue: 0,0:08:17.49,0:08:19.76,Default,Gu,0000,0000,0000,,If you want to make your wish come true,
+Dialogue: 0,0:08:19.76,0:08:23.26,Default,,0000,0000,0000,,you'll have to defeat all \Nthe remaining Selectors.
+Dialogue: 0,0:08:30.72,0:08:35.86,Default,Gi,0000,0000,0000,,When I was Layla's LRIG,\NI saw someone named Carnival.
+Dialogue: 0,0:08:36.13,0:08:41.33,Default,Gi,0000,0000,0000,,They had information about the battles \Nthat Selectors aren't supposed to know.
+Dialogue: 0,0:08:41.58,0:08:44.71,Default,Gi,0000,0000,0000,,And you think they might know about Tama?
+Dialogue: 0,0:08:44.71,0:08:46.50,Default,Gi,0000,0000,0000,,Yes, maybe.
+Dialogue: 0,0:08:48.45,0:08:49.80,Default,Gi,0000,0000,0000,,This is the place.
+Dialogue: 0,0:08:58.18,0:08:59.86,Default,Gu,0000,0000,0000,,Are you Kominato Ruuko?
+Dialogue: 0,0:09:03.48,0:09:04.46,Default,Gi,0000,0000,0000,,Who are you?
+Dialogue: 0,0:09:06.90,0:09:09.23,Default,Gi,0000,0000,0000,,That's him! Carnival!
+Dialogue: 0,0:09:10.25,0:09:11.57,Default,Gu,0000,0000,0000,,You need something from me?
+Dialogue: 0,0:09:13.27,0:09:15.32,Default,Gi,0000,0000,0000,,Do you know an LRIG named Tama?
+Dialogue: 0,0:09:17.24,0:09:19.48,Default,Gu,0000,0000,0000,,Oh, I just heard that name.
+Dialogue: 0,0:09:19.99,0:09:21.33,Default,Gi,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:09:21.52,0:09:25.71,Default,Gu,0000,0000,0000,,A Selector I just fought called \Nher LRIG by that name.
+Dialogue: 0,0:09:26.80,0:09:28.42,Default,Gu,0000,0000,0000,,She should still be close.
+Dialogue: 0,0:09:28.67,0:09:33.38,Default,Gu,0000,0000,0000,,I believe her name was... Homura Suzuko.
+Dialogue: 0,0:09:33.86,0:09:36.13,Default,Gi,0000,0000,0000,,Homura Suzuko?
+Dialogue: 0,0:09:42.89,0:09:46.94,Default - flashback,Gu,0000,0000,0000,,They can probably do whatever they like \Nwith the memories that were stolen.
+Dialogue: 0,0:09:47.34,0:09:49.33,Default - flashback,Gu,0000,0000,0000,,If you want to make your wish come true,
+Dialogue: 0,0:09:49.33,0:09:52.40,Default - flashback,,0000,0000,0000,,you'll have to defeat all \Nthe remaining Selectors.
+Dialogue: 0,0:09:58.52,0:10:04.72,Default - flashback,Gu,0000,0000,0000,,Homura Suzuko said there's a reason she \Nhas to win the battles, no matter what.
+Dialogue: 0,0:10:06.66,0:10:08.66,Default - italics,Gu,0000,0000,0000,,And she stole Tama for that reason?
+Dialogue: 0,0:10:13.84,0:10:16.54,Default,S,0000,0000,0000,,I'm going to get Chi-chan's memories back.
+Dialogue: 0,0:10:17.25,0:10:18.24,Default,S,0000,0000,0000,,No matter what.
+Dialogue: 0,0:10:19.43,0:10:21.98,Default,Gu,0000,0000,0000,,When humans get too attached to something,
+Dialogue: 0,0:10:21.98,0:10:23.68,Default,Gu,0000,0000,0000,,it narrows their field of vision.
+Dialogue: 0,0:10:25.51,0:10:29.36,Default,Gu,0000,0000,0000,,This should be a pretty \Ninteresting development.
+Dialogue: 0,0:10:37.04,0:10:39.54,Default - italics,Gi,0000,0000,0000,,I hope I can find some kind of clue...
+Dialogue: 0,0:10:44.85,0:10:45.87,Default - italics,Gi,0000,0000,0000,,Confirmation.
+Dialogue: 0,0:10:45.87,0:10:48.71,Default - italics,Gi,0000,0000,0000,,Is Kurebayashi-san back?
+Dialogue: 0,0:10:54.29,0:10:54.88,Default,Gi,0000,0000,0000,,Sorry.
+Dialogue: 0,0:10:54.88,0:10:56.64,Default,Gi,0000,0000,0000,,It looks like she's left already.
+Dialogue: 0,0:10:57.60,0:10:59.34,Default,Gi,0000,0000,0000,,She's near the street up ahead.
+Dialogue: 0,0:10:59.59,0:11:00.84,Default,Gi,0000,0000,0000,,Got it!
+Dialogue: 0,0:11:13.52,0:11:15.35,Default,Gu,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:11:15.35,0:11:18.08,Default,Gu,0000,0000,0000,,You're Kurebayashi-kun's friend, aren't you?
+Dialogue: 0,0:11:18.08,0:11:19.40,Default,Gi,0000,0000,0000,,Yes...
+Dialogue: 0,0:11:19.40,0:11:21.83,Default,Gu,0000,0000,0000,,Is she still sick?
+Dialogue: 0,0:11:21.83,0:11:23.78,Default,Gi,0000,0000,0000,,Yeah, kind of...
+Dialogue: 0,0:11:23.78,0:11:26.44,Default,Gu,0000,0000,0000,,We can't get a hold of her on the phone.
+Dialogue: 0,0:11:26.44,0:11:28.02,Default,Gu,0000,0000,0000,,Do you know what's going on with her?
+Dialogue: 0,0:11:28.02,0:11:29.04,Default,Gi,0000,0000,0000,,Um...
+Dialogue: 0,0:11:29.04,0:11:31.34,Default,Gu,0000,0000,0000,,Could you tell her to call us?
+Dialogue: 0,0:11:31.34,0:11:32.06,Default,H,0000,0000,0000,,Discovery.
+Dialogue: 0,0:11:32.06,0:11:33.50,Default,H,0000,0000,0000,,There you are.
+Dialogue: 0,0:11:33.94,0:11:34.85,Default,H,0000,0000,0000,,Late.
+Dialogue: 0,0:11:34.85,0:11:37.19,Default,H,0000,0000,0000,,If we don't hurry, we won't \Nmake it in time for the movie.
+Dialogue: 0,0:11:37.19,0:11:40.97,Default,Gi,0000,0000,0000,,The movie? Wait... Huh?
+Dialogue: 0,0:11:42.00,0:11:45.16,Default,Gi,0000,0000,0000,,I-I'm sorry... I think you have the wrong person.
+Dialogue: 0,0:11:45.16,0:11:46.60,Default,Gi,0000,0000,0000,,I'm not going to any movies.
+Dialogue: 0,0:11:46.60,0:11:47.64,Default,H,0000,0000,0000,,Blunt.
+Dialogue: 0,0:11:47.64,0:11:49.02,Default,H,0000,0000,0000,,You're a Selector, aren't you?
+Dialogue: 0,0:11:54.13,0:11:56.27,Default,Gi,0000,0000,0000,,Are you also a Selector, Hanna-san?
+Dialogue: 0,0:11:56.50,0:11:57.69,Default,H,0000,0000,0000,,Affirmation.
+Dialogue: 0,0:11:57.69,0:11:58.85,Default,H,0000,0000,0000,,Hypothesis.
+Dialogue: 0,0:11:58.85,0:12:01.15,Default,H,0000,0000,0000,,Yuzuki-san is missing work because
+Dialogue: 0,0:12:01.15,0:12:03.74,Default,,0000,0000,0000,,she was caught up in the \NSelector battles, right?
+Dialogue: 0,0:12:04.84,0:12:06.07,Default,Gi,0000,0000,0000,,That's right.
+Dialogue: 0,0:12:06.07,0:12:07.64,Default,H,0000,0000,0000,,Trade.
+Dialogue: 0,0:12:07.64,0:12:10.83,Default,H,0000,0000,0000,,All right, Uemura-san, let's trade information.
+Dialogue: 0,0:12:11.59,0:12:14.15,Default,H,0000,0000,0000,,We need allies.
+Dialogue: 0,0:12:14.82,0:12:16.84,Default,Gi,0000,0000,0000,,I'd love to!
+Dialogue: 0,0:12:21.61,0:12:22.38,Default,Gi,0000,0000,0000,,She's close.
+Dialogue: 0,0:12:22.92,0:12:23.51,Default,Gi,0000,0000,0000,,Where?
+Dialogue: 0,0:12:24.30,0:12:25.30,Default,Gi,0000,0000,0000,,That way!
+Dialogue: 0,0:12:26.26,0:12:29.72,sign_17893_176_Egg_Tart,Gi,0000,0000,0000,,Egg Tart
+Dialogue: 0,0:12:30.79,0:12:32.23,Default,Gi,0000,0000,0000,,Yuzuki, which one is she?
+Dialogue: 0,0:12:32.23,0:12:35.65,Default,Gi,0000,0000,0000,,I'm sorry. There are so many \Npeople that I can't tell.
+Dialogue: 0,0:12:49.64,0:12:50.74,Default,H,0000,0000,0000,,Understanding.
+Dialogue: 0,0:12:51.13,0:12:53.53,Default,H,0000,0000,0000,,Your friend's LRIG is missing.
+Dialogue: 0,0:12:54.00,0:12:55.03,Default,H,0000,0000,0000,,Unfortunately,
+Dialogue: 0,0:12:55.03,0:12:58.20,Default,H,0000,0000,0000,,I have no information on \Nsimilar events occurring.
+Dialogue: 0,0:12:58.20,0:12:59.34,Default,H,0000,0000,0000,,I see.
+Dialogue: 0,0:12:59.90,0:13:00.77,Default,H,0000,0000,0000,,Shock.
+Dialogue: 0,0:13:00.77,0:13:02.66,Default,H,0000,0000,0000,,I'm very surprised, though.
+Dialogue: 0,0:13:03.12,0:13:09.66,Default,H,0000,0000,0000,,So you're friends with the legendary Selector \NKiyoi-san told me about, Kominato Ruuko-san.
+Dialogue: 0,0:13:09.66,0:13:12.27,Default,Gi,0000,0000,0000,,Ruuko's just a normal girl.
+Dialogue: 0,0:13:14.22,0:13:15.11,Default,H,0000,0000,0000,,Hunch.
+Dialogue: 0,0:13:15.11,0:13:18.97,Default,H,0000,0000,0000,,I think something strange is going on \Nwith these latest Selector battles.
+Dialogue: 0,0:13:19.83,0:13:21.03,Default,H,0000,0000,0000,,Something...
+Dialogue: 0,0:13:22.93,0:13:25.84,Default,Gi,0000,0000,0000,,I couldn't say anything about that.
+Dialogue: 0,0:13:25.84,0:13:29.44,Default,Gi,0000,0000,0000,,But we need to stop that Carnival person.
+Dialogue: 0,0:13:30.18,0:13:31.58,Default,Gi,0000,0000,0000,,I do agree with that.
+Dialogue: 0,0:13:32.02,0:13:32.93,Default,H,0000,0000,0000,,Suggestion.
+Dialogue: 0,0:13:33.44,0:13:37.29,Default,H,0000,0000,0000,,Then let's go meet my ally now.
+Dialogue: 0,0:13:42.52,0:13:44.72,Default,Gi,0000,0000,0000,,Yeah, I'm sure of it.
+Dialogue: 0,0:13:44.72,0:13:45.67,Default,Gi,0000,0000,0000,,She's on the platform.
+Dialogue: 0,0:13:45.89,0:13:46.96,Default,Gi,0000,0000,0000,,Got it.
+Dialogue: 0,0:13:50.01,0:13:53.68,Default - italics,Gu,0000,0000,0000,,{\an8}The train will be arriving \Nshortly on track 1.
+Dialogue: 0,0:13:53.68,0:13:55.81,sign_19989_200_Hanazono,Gu,0000,0000,0000,,Hanazono\NShrine
+Dialogue: 0,0:13:58.20,0:13:59.77,Default,Gi,0000,0000,0000,,Here I am.
+Dialogue: 0,0:14:03.08,0:14:04.32,Default,Gi,0000,0000,0000,,I see.
+Dialogue: 0,0:14:04.71,0:14:07.78,Default,Gi,0000,0000,0000,,So you're Kominato Ruuko-san's friend.
+Dialogue: 0,0:14:08.44,0:14:09.24,Default,Gi,0000,0000,0000,,Coincidence.
+Dialogue: 0,0:14:09.24,0:14:10.64,Default,Gi,0000,0000,0000,,You know her?
+Dialogue: 0,0:14:11.13,0:14:14.04,Default,Gi,0000,0000,0000,,When I was Aoi Akira's LRIG,
+Dialogue: 0,0:14:14.04,0:14:15.86,Default,Gi,0000,0000,0000,,we battled once.
+Dialogue: 0,0:14:20.77,0:14:22.54,Default,Gi,0000,0000,0000,,I remember you...
+Dialogue: 0,0:14:22.54,0:14:23.43,Default,H,0000,0000,0000,,Understanding.
+Dialogue: 0,0:14:23.43,0:14:24.81,Default,H,0000,0000,0000,,That's a bit of a curve ball,
+Dialogue: 0,0:14:24.81,0:14:27.32,Default,H,0000,0000,0000,,but you've met before, I see.
+Dialogue: 0,0:14:27.32,0:14:29.59,Default,H,0000,0000,0000,,Well, then, I'll introduce you again.
+Dialogue: 0,0:14:30.17,0:14:32.60,Default,H,0000,0000,0000,,This is one of my allies,
+Dialogue: 0,0:14:32.60,0:14:34.14,Default,H,0000,0000,0000,,Mizushima Kiyoi-san.
+Dialogue: 0,0:14:34.14,0:14:35.06,Default,H,0000,0000,0000,,Mizushima...
+Dialogue: 0,0:14:35.50,0:14:38.52,Default,H,0000,0000,0000,,Then you're the person who \Ngave that invitation to Ruuko.
+Dialogue: 0,0:14:38.84,0:14:42.26,Default,H,0000,0000,0000,,Ruuko called you yesterday, actually.
+Dialogue: 0,0:14:43.26,0:14:45.19,Default,H,0000,0000,0000,,I see.
+Dialogue: 0,0:14:45.19,0:14:47.61,Default,H,0000,0000,0000,,I'm sorry. I was kind of busy yesterday.
+Dialogue: 0,0:14:48.08,0:14:51.41,Default,H,0000,0000,0000,,Does that mean Kominato-san's \Ninvolved in these battles, as well?
+Dialogue: 0,0:14:51.41,0:14:52.55,Default,H,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:52.55,0:14:55.49,Default,H,0000,0000,0000,,Then I'd like to ask for her help once more.
+Dialogue: 0,0:14:55.72,0:14:57.83,Default,H,0000,0000,0000,,Naturally. That makes sense.
+Dialogue: 0,0:14:57.83,0:15:01.48,Default,Gi,0000,0000,0000,,But she's busy finding Tama-chan now...
+Dialogue: 0,0:15:01.48,0:15:03.46,Default,Gi,0000,0000,0000,,That's Ruuko's LRIG.
+Dialogue: 0,0:15:03.46,0:15:05.84,Default,Gi,0000,0000,0000,,And she suddenly vanished...
+Dialogue: 0,0:15:06.64,0:15:07.65,Default,H,0000,0000,0000,,Cooperation.
+Dialogue: 0,0:15:07.65,0:15:12.91,Default,H,0000,0000,0000,,I think we could resolve that \Nfaster if we all worked together.
+Dialogue: 0,0:15:12.91,0:15:13.80,Default,GI,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:14.09,0:15:15.01,Default,H,0000,0000,0000,,Suggestion.
+Dialogue: 0,0:15:15.01,0:15:19.32,Default,H,0000,0000,0000,,Why don't we contact \NKominato-san immediately?
+Dialogue: 0,0:15:19.32,0:15:20.69,Default,Gi,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:25.44,0:15:26.71,Default - italics,Gi,0000,0000,0000,,Ruuko, hey...
+Dialogue: 0,0:15:26.71,0:15:27.80,Default,Gi,0000,0000,0000,,Hitoe, sorry.
+Dialogue: 0,0:15:27.80,0:15:29.74,Default,Gi,0000,0000,0000,,I'm a little busy now.
+Dialogue: 0,0:15:30.24,0:15:32.70,Default,Gi,0000,0000,0000,,I might be able to get Tama back.
+Dialogue: 0,0:15:33.32,0:15:34.55,Default,Gi,0000,0000,0000,,Really?
+Dialogue: 0,0:15:35.24,0:15:36.07,Default,Gi,0000,0000,0000,,Yeah...
+Dialogue: 0,0:15:36.86,0:15:37.66,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:38.68,0:15:42.71,Default,Gi,0000,0000,0000,,Ruuko says she's following the \NSelector who stole Tama-chan.
+Dialogue: 0,0:15:42.71,0:15:43.42,Default,Gi,0000,0000,0000,,Who?
+Dialogue: 0,0:15:44.03,0:15:46.45,Default,Gi,0000,0000,0000,,She said her name is Homura Suzuko.
+Dialogue: 0,0:15:46.45,0:15:47.66,Default,Gi,0000,0000,0000,,Stop her!
+Dialogue: 0,0:15:47.66,0:15:50.32,Default,Gi,0000,0000,0000,,Homura Suzuko-san is on our side.
+Dialogue: 0,0:15:50.32,0:15:52.42,Default,Gi,0000,0000,0000,,She wouldn't steal anyone's LRIG.
+Dialogue: 0,0:15:52.42,0:15:53.64,Default,Gi,0000,0000,0000,,Ruuko!
+Dialogue: 0,0:15:54.31,0:15:55.88,Default,Gi,0000,0000,0000,,She's getting on the train.
+Dialogue: 0,0:15:54.66,0:15:55.88,Default - italics,Gi,0000,0000,0000,,Ruuko!
+Dialogue: 0,0:15:55.88,0:15:58.10,Default,Gi,0000,0000,0000,,Sorry, I'm getting on a train, so I'm hanging up.
+Dialogue: 0,0:15:58.52,0:16:00.21,Default - italics,Gi,0000,0000,0000,,I'll call you back.
+Dialogue: 0,0:16:00.21,0:16:01.38,Default,Gi,0000,0000,0000,,Ruuko, wait!
+Dialogue: 0,0:16:05.01,0:16:06.61,Default,Gi,0000,0000,0000,,It's no good. I can't get through.
+Dialogue: 0,0:16:06.61,0:16:07.57,Default,H,0000,0000,0000,,Roger.
+Dialogue: 0,0:16:07.57,0:16:09.40,Default,H,0000,0000,0000,,I'll call Suzuko-san.
+Dialogue: 0,0:16:11.15,0:16:11.86,Default,H,0000,0000,0000,,Failed.
+Dialogue: 0,0:16:11.86,0:16:13.32,Default,H,0000,0000,0000,,Her voice mail picks up.
+Dialogue: 0,0:16:13.32,0:16:14.56,Default,Gi,0000,0000,0000,,What do we do?
+Dialogue: 0,0:16:14.56,0:16:15.30,Default,H,0000,0000,0000,,Impede.
+Dialogue: 0,0:16:15.30,0:16:17.07,Default,H,0000,0000,0000,,We need to stop her somehow.
+Dialogue: 0,0:16:17.07,0:16:19.77,Default,Gi,0000,0000,0000,,But we don't know which train she's on,
+Dialogue: 0,0:16:19.77,0:16:21.38,Default,Gi,0000,0000,0000,,or how to find her...
+Dialogue: 0,0:16:21.85,0:16:23.04,Default,H,0000,0000,0000,,Uncertainty...
+Dialogue: 0,0:16:28.18,0:16:31.87,Default - italics,H,0000,0000,0000,,At a time when we need to fight Carnival,
+Dialogue: 0,0:16:31.87,0:16:34.46,Default - italics,H,0000,0000,0000,,we can't let the two of them fight.
+Dialogue: 0,0:16:35.59,0:16:36.97,Default - italics,H,0000,0000,0000,,What do we do?
+Dialogue: 0,0:16:36.97,0:16:38.93,Default - italics,H,0000,0000,0000,,How can we stop them?
+Dialogue: 0,0:16:39.27,0:16:40.89,Default - italics,H,0000,0000,0000,,What can we do?
+Dialogue: 0,0:16:40.89,0:16:42.94,Default - italics,H,0000,0000,0000,,We don't have enough information...
+Dialogue: 0,0:16:46.87,0:16:48.31,Default,Gi,0000,0000,0000,,The other.
+Dialogue: 0,0:16:49.15,0:16:50.82,Default,Gi,0000,0000,0000,,The other girl.
+Dialogue: 0,0:16:58.94,0:17:02.08,Default,Gi,0000,0000,0000,,Is this... the Room of White Windows?
+Dialogue: 0,0:17:02.08,0:17:03.46,Default,Gi,0000,0000,0000,,The other girl.
+Dialogue: 0,0:17:04.08,0:17:05.48,Default,Gi,0000,0000,0000,,I've been waiting.
+Dialogue: 0,0:17:05.48,0:17:06.33,Default,Gi,0000,0000,0000,,Who's there?
+Dialogue: 0,0:17:06.60,0:17:08.01,Default,Gi,0000,0000,0000,,I've been waiting.
+Dialogue: 0,0:17:08.01,0:17:09.41,Default,Gi,0000,0000,0000,,I am Eternal.
+Dialogue: 0,0:17:09.41,0:17:10.40,Default,Gi,0000,0000,0000,,Eternal?
+Dialogue: 0,0:17:10.99,0:17:12.55,Default,Gi,0000,0000,0000,,Open the door.
+Dialogue: 0,0:17:12.55,0:17:15.30,Default,Gi,0000,0000,0000,,Open the lock...
+Dialogue: 0,0:17:16.23,0:17:17.89,Default,Gi,0000,0000,0000,,Who will win?
+Dialogue: 0,0:17:18.53,0:17:20.51,Default,Gi,0000,0000,0000,,Who is the weak one?
+Dialogue: 0,0:17:20.96,0:17:22.17,Default,Gi,0000,0000,0000,,Battle.
+Dialogue: 0,0:17:22.17,0:17:24.36,Default,Gi,0000,0000,0000,,Battle, and risk your life.
+Dialogue: 0,0:17:24.36,0:17:26.32,Default,Gi,0000,0000,0000,,Choose. You must do it.
+Dialogue: 0,0:17:26.95,0:17:29.20,Default,Gi,0000,0000,0000,,Find the key.
+Dialogue: 0,0:17:29.20,0:17:30.30,Default,Gi,0000,0000,0000,,The answer.
+Dialogue: 0,0:17:30.30,0:17:31.73,Default,Gi,0000,0000,0000,,The law.
+Dialogue: 0,0:17:33.94,0:17:35.20,Default,Gi,0000,0000,0000,,Me.
+Dialogue: 0,0:17:37.60,0:17:38.79,Default,Gi,0000,0000,0000,,Find...
+Dialogue: 0,0:17:41.50,0:17:42.95,Default,Gi,0000,0000,0000,,the key?
+Dialogue: 0,0:17:47.71,0:17:48.90,Default,Gi,0000,0000,0000,,You?
+Dialogue: 0,0:17:51.31,0:17:52.29,Default,H,0000,0000,0000,,Kiyoi-san!
+Dialogue: 0,0:17:52.29,0:17:53.65,Default,Gi,0000,0000,0000,,Mizushima-san!
+Dialogue: 0,0:17:58.00,0:17:59.40,Default,Gi,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:17:59.40,0:18:00.24,Default,H,0000,0000,0000,,Concern.
+Dialogue: 0,0:18:00.24,0:18:02.43,Default,H,0000,0000,0000,,You just passed out...
+Dialogue: 0,0:18:02.43,0:18:03.88,Default,Gi,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:18:04.54,0:18:06.93,Default,Gi,0000,0000,0000,,And I know where they are.
+Dialogue: 0,0:18:06.93,0:18:08.39,Default,Gi,0000,0000,0000,,Let's go get them.
+Dialogue: 0,0:18:08.58,0:18:09.81,Default,H,0000,0000,0000,,Kiyoi-san?
+Dialogue: 0,0:18:09.81,0:18:11.61,Default,Gi,0000,0000,0000,,We'll talk later.
+Dialogue: 0,0:18:12.67,0:18:14.68,Default,C,0000,0000,0000,,Mizushima Kiyoi...
+Dialogue: 0,0:18:14.68,0:18:17.61,Default,C,0000,0000,0000,,So now she's been chosen?
+Dialogue: 0,0:18:19.00,0:18:22.77,Default,C,0000,0000,0000,,I guess I'm just another pawn, too.
+Dialogue: 0,0:18:23.27,0:18:24.94,Default,C,0000,0000,0000,,This will be fun.
+Dialogue: 0,0:18:30.91,0:18:33.25,Default - italics,Gi,0000,0000,0000,,I'll get Tama back, no matter what.
+Dialogue: 0,0:18:33.25,0:18:36.97,Default - italics,Gi,0000,0000,0000,,I decided I'd never be apart from her again.
+Dialogue: 0,0:18:37.40,0:18:38.50,Default,Gi,0000,0000,0000,,Yuzuki...
+Dialogue: 0,0:18:39.26,0:18:41.22,Default,Gi,0000,0000,0000,,It's so crowded that it's hard to tell,
+Dialogue: 0,0:18:41.76,0:18:44.00,Default,Gi,0000,0000,0000,,but I'm sure she's on this train.
+Dialogue: 0,0:18:44.46,0:18:45.68,Default,Gi,0000,0000,0000,,I'll know if you get close.
+Dialogue: 0,0:19:09.92,0:19:11.67,Default,Gi,0000,0000,0000,,She's close. She's in this car.
+Dialogue: 0,0:19:14.00,0:19:16.71,sign_27669_313_Ikebukuro,Gi,0000,0000,0000,,Ikebukuro
+Dialogue: 0,0:19:14.00,0:19:16.71,Default - italics,Gu,0000,0000,0000,,{\an8}The train will be arriving \Nshortly on track 7...
+Dialogue: 0,0:19:25.27,0:19:25.99,Default,Gu,0000,0000,0000,,Here you go.
+Dialogue: 0,0:19:25.99,0:19:27.14,Default,Gu,0000,0000,0000,,Thank you!
+Dialogue: 0,0:19:27.14,0:19:29.03,Default,Gu,0000,0000,0000,,Ruuko, she got off the train.
+Dialogue: 0,0:19:29.03,0:19:29.73,Default,Gu,0000,0000,0000,,Get off, quick!
+Dialogue: 0,0:19:33.15,0:19:35.11,Default,Gu,0000,0000,0000,,There she is! That girl!
+Dialogue: 0,0:19:35.45,0:19:37.35,Default,Gu,0000,0000,0000,,The one who just went down the stairs!
+Dialogue: 0,0:19:40.96,0:19:43.20,Default,Gu,0000,0000,0000,,They should be in this area.
+Dialogue: 0,0:19:58.87,0:20:01.28,Default,Gu,0000,0000,0000,,Homura Suzuko-san...
+Dialogue: 0,0:20:08.01,0:20:10.10,Default,S,0000,0000,0000,,Who are you?
+Dialogue: 0,0:20:14.01,0:20:15.53,Default,Gi,0000,0000,0000,,Give back Tama.
+Dialogue: 0,0:20:15.53,0:20:17.07,Default,S,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:20:17.60,0:20:18.65,Default,Gi,0000,0000,0000,,Don't play dumb.
+Dialogue: 0,0:20:19.83,0:20:22.28,Default,Gi,0000,0000,0000,,Suzuko, she's a Selector.
+Dialogue: 0,0:20:26.16,0:20:29.69,Default - italics,Gu,0000,0000,0000,,You'll have to defeat all \Nthe remaining Selectors.
+Dialogue: 0,0:20:33.02,0:20:35.54,Default,Gi,0000,0000,0000,,I don't know what you're talking about.
+Dialogue: 0,0:20:35.54,0:20:39.09,Default,Gi,0000,0000,0000,,But if you're a Selector...
+Dialogue: 0,0:20:39.72,0:20:41.55,Default,Gi,0000,0000,0000,,I have to beat you!
+Dialogue: 0,0:20:45.59,0:20:48.14,Default,Gu,0000,0000,0000,,Homura Suzuko, the one who defeated me,
+Dialogue: 0,0:20:48.14,0:20:50.72,Default,Gu,0000,0000,0000,,and Kominato Ruuko, \Nthe one who released Mayu.
+Dialogue: 0,0:20:50.72,0:20:52.52,Default,Gu,0000,0000,0000,,This is a good match I set up.
+Dialogue: 0,0:20:52.98,0:20:55.48,Default,Gu,0000,0000,0000,,Which one will win?
+Dialogue: 0,0:20:55.48,0:20:56.85,Default,GI,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:20:58.70,0:20:59.77,Default,Gu,0000,0000,0000,,I didn't see you there.
+Dialogue: 0,0:20:59.77,0:21:01.04,Default,Gi,0000,0000,0000,,You asshole!
+Dialogue: 0,0:21:01.04,0:21:03.32,Default,Gi,0000,0000,0000,,I'm the one who gets to fight Kominato Ruuko!
+Dialogue: 0,0:21:03.32,0:21:05.60,Default,Gi,0000,0000,0000,,She's my prey!
+Dialogue: 0,0:21:05.60,0:21:07.40,Default,Gu,0000,0000,0000,,The situation's changed.
+Dialogue: 0,0:21:07.40,0:21:08.59,Default,Gu,0000,0000,0000,,Give up.
+Dialogue: 0,0:21:08.59,0:21:12.04,Default,Gu,0000,0000,0000,,And there's no way you \Ncan beat Kominato Ruuko.
+Dialogue: 0,0:21:12.04,0:21:12.95,Default,Gi,0000,0000,0000,,What?!
+Dialogue: 0,0:21:15.08,0:21:16.83,Default,Gi,0000,0000,0000,,Shut the hell up!
+Dialogue: 0,0:21:16.83,0:21:18.62,Default,Gi,0000,0000,0000,,Fight me!
+Dialogue: 0,0:21:18.62,0:21:20.55,Default,Gi,0000,0000,0000,,I'll take you down first!
+Dialogue: 0,0:21:31.53,0:21:32.64,Default,K,0000,0000,0000,,Over there!
+Dialogue: 0,0:21:46.48,0:21:47.11,Default,All,0000,0000,0000,,Open!
+Dialogue: 0,0:21:47.11,0:21:48.18,Default,All,0000,0000,0000,,Open!
+Dialogue: 0,0:21:52.04,0:21:56.04,Title,All,0000,0000,0000,,Contact / Key and Keyhole
+Dialogue: 0,0:23:26.76,0:23:29.05,Default,Preview,0000,0000,0000,,I can't beat her with anything \Nless than my full strength.
+Dialogue: 0,0:23:29.05,0:23:30.12,Default,Preview,0000,0000,0000,,Suzu is amazing...
+Dialogue: 0,0:23:30.12,0:23:32.20,Default,Preview,0000,0000,0000,,That smirk of yours pisses me off.
+Dialogue: 0,0:23:32.20,0:23:33.62,Default,Preview,0000,0000,0000,,Who is Eternal?
+Dialogue: 0,0:23:33.62,0:23:35.75,Default,Preview,0000,0000,0000,,We all have a reason why we battle.
+Dialogue: 0,0:23:35.75,0:23:38.76,Default,Preview,0000,0000,0000,,This is an audition for you all.
+Dialogue: 0,0:23:37.89,0:23:41.06,Title2,Preview,0000,0000,0000,,{\fad(1400,1)}The Eve / Trust and Betrayal
+Dialogue: 0,0:23:38.76,0:23:41.06,Default,Preview,0000,0000,0000,,"The Eve / Trust and Betrayal."
