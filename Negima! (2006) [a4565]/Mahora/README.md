@@ -1,16 +1,18 @@
 
 ## Staff
 
-| Role            | Staff                  |
-|-----------------|------------------------|
-| Translation     | Hinatanko, Sakurazaki, astrobunny |
-| Editing         | Hinatanko, Shinmeiryuu |
-| Timing          | Billy G., kami, PbjZ, thedot |
-| Typesetting     | Billy G., Shinmeiryuu, kami, thedot |
-| Karaoke         | Billy G., thedot, PbjZ |
-| Encoding        | thedot |
-| Quality Control | Jiz, Billy G., Hinatanko, thenightsshadow, Sarper, JMacalinao, Shinmeiryuu, thedot, Starks, kami, PbjZ, RaccoonGoon |
-| Special Thanks  | LastElixir7, pux, AQS-Anime, guuchan, JJBlu |
+| Role              | Staff                  |
+|-------------------|------------------------|
+| Translation       | Hinatanko, Sakurazaki, astrobunny |
+| Translation Check | LastElixer, SarperEksi, Hinatanko, Saiiori |
+| Editing           | Hinatanko, Shinmeiryuu |
+| Timing            | Billy G., kami, PbjZ, thedot |
+| Typesetting       | Billy G., Shinmeiryuu, kami, thedot |
+| Karaoke           | Billy G., thedot, PbjZ |
+| Encoding          | thedot |
+| Raw Provider      | Jiz, thedot |
+| Quality Control   | Jiz, Billy G., Hinatanko, thenightsshadow, Sarper, JMacalinao, Shinmeiryuu, thedot, Starks, kami, PbjZ, RaccoonGoon |
+| Special Thanks    | LastElixir7, pux, AQS-Anime, guuchan, JJBlu |
 
 ## Release Info
 
