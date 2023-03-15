@@ -2,9 +2,9 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | The Triad                           |
+| Translation       | Dragosmore (Triad)                  |
 | Translation Check | -                                   |
-| Editing           | -                                   |
+| Editing           | LordBrian (Triad)                   |
 | Typesetting       | JJS                                 |
 | Styling           | -                                   |
 | Timing            | JJS                                 |
@@ -21,3 +21,5 @@
 | Resolution   | 640x480   |
 
 ## Notes
+
+OCR + retime + typeset of original TV release by The Triad on a DVD encode
