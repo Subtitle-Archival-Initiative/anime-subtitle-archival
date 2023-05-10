@@ -1,0 +1,514 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.62,0:00:06.32,Default,Hay,0000,0000,0000,,When watching "Hayate the Combat Butler",
+Dialogue: 0,0:00:06.32,0:00:09.32,Default,,0000,0000,0000,,please keep the room bright \Nand sit well away from the TV.
+Dialogue: 0,0:00:09.32,0:00:09.99,Default,Nag,0000,0000,0000,,That's right
+Dialogue: 0,0:00:21.36,0:00:26.32,Default,Robo,0000,0000,0000,,Hey, Nagi Sanzenin! Come quietly \Nand fall prey to this robot!
+Dialogue: 0,0:00:26.32,0:00:28.60,Default,Nag,0000,0000,0000,,Don't be ridiculous! Why should I?!
+Dialogue: 0,0:00:28.36,0:00:34.29,Default,,0000,0000,0000,,{\an8}Naritasan
+Dialogue: 0,0:00:28.60,0:00:34.30,Default,Robo,0000,0000,0000,,Ah! That's because there's someone who \Nwill profit greatly by your death!
+Dialogue: 0,0:00:34.71,0:00:36.71,Default,Nag,0000,0000,0000,,Impossible, for five reasons!
+Dialogue: 0,0:00:36.71,0:00:37.44,Default,Robo,0000,0000,0000,,What?
+Dialogue: 0,0:00:37.44,0:00:39.49,Default,Nag,0000,0000,0000,,Firstly, you are stupid!
+Dialogue: 0,0:00:39.49,0:00:41.75,Default,Nag,0000,0000,0000,,Secondly, you are incredibly stupid!
+Dialogue: 0,0:00:41.75,0:00:44.18,Default,Nag,0000,0000,0000,,Thirdly, you are infinitely stupid!
+Dialogue: 0,0:00:44.18,0:00:46.83,Default,Nag,0000,0000,0000,,Fourthly, you are cosmically \Nand revolutionarily stupid!
+Dialogue: 0,0:00:46.83,0:00:47.99,Default,Nag,0000,0000,0000,,And fifthly...
+Dialogue: 0,0:00:47.99,0:00:50.88,Default,Robo,0000,0000,0000,,I've heard enough! Die!
+Dialogue: 0,0:00:53.04,0:00:57.61,Default,Nag,0000,0000,0000,,HAYATE!
+Dialogue: 0,0:01:02.84,0:01:03.51,Default,Robo,0000,0000,0000,,Wha?!
+Dialogue: 0,0:01:06.04,0:01:08.56,Default,Hay,0000,0000,0000,,You called, Miss?
+Dialogue: 0,0:01:08.56,0:01:09.59,Default,Nag,0000,0000,0000,,Hayate!
+Dialogue: 0,0:01:09.73,0:01:12.10,Default,Robo,0000,0000,0000,,Wh-Who the hell are you?!
+Dialogue: 0,0:01:12.10,0:01:14.28,Default,Hay,0000,0000,0000,,Who? Me? Well...
+Dialogue: 0,0:01:14.28,0:01:17.08,Default,Nag,0000,0000,0000,,Hurry! The opening sequence \Nis about to start!
+Dialogue: 0,0:01:18.01,0:01:20.05,Default,Hay,0000,0000,0000,,What? Oh! Uh, um, I came to \Nthe Sanzenin household to...
+Dialogue: 0,0:01:20.99,0:01:23.53,Italics,Nar,0000,0000,0000,,{\i1}A butler is one who serves.
+Dialogue: 0,0:01:24.26,0:01:27.00,Italics,Nar,0000,0000,0000,,{\i1}A butler is one who waits upon others.
+Dialogue: 0,0:01:27.56,0:01:30.56,Italics,Nar,0000,0000,0000,,{\i1}A butler is a formal \Nguardian, who is there to
+Dialogue: 0,0:01:30.56,0:01:33.07,Italics,,0000,0000,0000,,{\i1}support his mistress in \Nall aspects of her life.
+Dialogue: 0,0:01:34.23,0:01:35.07,Italics,Nar,0000,0000,0000,,{\i1}Yes!
+Dialogue: 0,0:01:35.40,0:01:39.57,Italics,Nar,0000,0000,0000,,{\i1}This is about a boy who fights and puts \Nhis life on the line for a girl...
+Dialogue: 0,0:01:39.57,0:01:42.58,Italics,,0000,0000,0000,,{\i1}A super combat battle story!
+Dialogue: 0,0:01:44.72,0:01:46.50,Default,Hay,0000,0000,0000,,Wait, the narration's too early!
+Dialogue: 0,0:01:46.50,0:01:47.69,Default,Hay,0000,0000,0000,,I'm, um...
+Dialogue: 0,0:01:50.28,0:01:56.19,Default,,0000,0000,0000,,{\an8}Daichi ni kaketa bokura no yukue
+Dialogue: 0,0:01:50.28,0:01:56.19,Default,,0000,0000,0000,,Our destination that we've \Nstaked upon this earth
+Dialogue: 0,0:01:56.57,0:02:02.75,On Top,,0000,0000,0000,,{\an8}Tsuki-nukeru hayate no gotoku
+Dialogue: 0,0:01:56.57,0:02:02.75,On Top,,0000,0000,0000,,Like the sudden gale that cuts across
+Dialogue: 0,0:02:03.20,0:02:06.26,On Top,,0000,0000,0000,,{\an8}Unmei ni makete
+Dialogue: 0,0:02:03.20,0:02:06.26,On Top,,0000,0000,0000,,Giving in to fate
+Dialogue: 0,0:02:06.29,0:02:10.68,On Top,,0000,0000,0000,,{\an8}Shagami-komu nante tsumannai yo
+Dialogue: 0,0:02:06.29,0:02:10.68,On Top,,0000,0000,0000,,And hunkering down is no fun
+Dialogue: 0,0:02:10.71,0:02:14.93,On Top,,0000,0000,0000,,{\an8}Sore ja kakko warui yo!
+Dialogue: 0,0:02:10.71,0:02:14.93,On Top,,0000,0000,0000,,That's just not cool!
+Dialogue: 0,0:02:15.55,0:02:18.48,On Top,,0000,0000,0000,,{\an8}Uso kara deta makoto
+Dialogue: 0,0:02:15.55,0:02:18.48,On Top,,0000,0000,0000,,Many a true word is spoken in jest
+Dialogue: 0,0:02:19.05,0:02:24.36,On Top,,0000,0000,0000,,{\an8}Koukai wa kitto mi kara deta sabi
+Dialogue: 0,0:02:19.05,0:02:24.36,On Top,,0000,0000,0000,,Regret is probably reaping what you sowed
+Dialogue: 0,0:02:24.39,0:02:27.36,On Top,,0000,0000,0000,,{\an8}Zettai, nase ba naru!
+Dialogue: 0,0:02:24.39,0:02:27.36,On Top,,0000,0000,0000,,Where there's a will, \Nthere's definitely a way!
+Dialogue: 0,0:02:27.56,0:02:33.46,On Top,,0000,0000,0000,,As a great rippling wave swallows us up
+Dialogue: 0,0:02:27.56,0:02:33.95,On Top,,0000,0000,0000,,{\an8}Ooki na hamon ni nomi-komareteku
+Dialogue: 0,0:02:34.32,0:02:40.42,On Top,,0000,0000,0000,,{\an8}Karada nami ni makasereba
+Dialogue: 0,0:02:34.32,0:02:40.42,On Top,,0000,0000,0000,,Just let it take you
+Dialogue: 0,0:02:40.80,0:02:43.50,On Top,,0000,0000,0000,,{\an8}Kanchigai no yume
+Dialogue: 0,0:02:40.80,0:02:43.50,On Top,,0000,0000,0000,,Dreams that are misguided
+Dialogue: 0,0:02:43.70,0:02:46.71,On Top,,0000,0000,0000,,{\an8}Mato-hazure no kitai
+Dialogue: 0,0:02:43.70,0:02:46.71,On Top,,0000,0000,0000,,Hopes that are way off base
+Dialogue: 0,0:02:46.74,0:02:52.47,On Top,,0000,0000,0000,,{\an8}Tsuyoku omoeba itsuka tsukameru sa!
+Dialogue: 0,0:02:46.74,0:02:52.47,On Top,,0000,0000,0000,,You'll grab them someday, \Nif you just have conviction
+Dialogue: 0,0:02:53.25,0:02:59.35,On Top,,0000,0000,0000,,{\an8}Daichi keri-age hashiri-dasou
+Dialogue: 0,0:02:53.25,0:02:59.35,On Top,,0000,0000,0000,,Let's kick up the earth and start running
+Dialogue: 0,0:02:59.67,0:03:06.27,On Top,,0000,0000,0000,,{\an8}Kimama ni mau kaze no gotoku
+Dialogue: 0,0:02:59.67,0:03:06.27,On Top,,0000,0000,0000,,Like the capricious breeze that dances about
+Dialogue: 0,0:03:06.27,0:03:08.27,On Top,,0000,0000,0000,,
+Dialogue: 0,0:03:18.68,0:03:23.30,Default,Hay,0000,0000,0000,,Tell me, Mr. Santa, why \Ndon't you bring me presents?
+Dialogue: 0,0:03:23.30,0:03:27.76,Default,San,0000,0000,0000,,Ah, that's because your family is poor.
+Dialogue: 0,0:03:27.76,0:03:31.08,Default,Hay,0000,0000,0000,,What?! B-But then, what am I supposed to do?!
+Dialogue: 0,0:03:31.08,0:03:32.41,Default,San,0000,0000,0000,,Work, lad!
+Dialogue: 0,0:03:32.41,0:03:34.32,Default,San,0000,0000,0000,,If a man will not work, he shall not eat!
+Dialogue: 0,0:03:34.32,0:03:37.95,Default,San,0000,0000,0000,,If there's something you want, do something about it yourself.\N
+Dialogue: 0,0:03:37.95,0:03:39.30,Default,Hay,0000,0000,0000,,B-But...
+Dialogue: 0,0:03:39.30,0:03:40.48,Default,San,0000,0000,0000,,But have faith.
+Dialogue: 0,0:03:41.27,0:03:43.16,Default,San,0000,0000,0000,,The one to have the last laugh will surely...
+Dialogue: 0,0:03:43.16,0:03:45.32,Default,,0000,0000,0000,,...be he, who is honest and hard-working.
+Dialogue: 0,0:03:45.47,0:03:46.69,Default,Hay,0000,0000,0000,,Mr. Santa!
+Dialogue: 0,0:03:46.69,0:03:49.83,Default,San,0000,0000,0000,,But well, I'm still not \Nbringing you any presents.
+Dialogue: 0,0:03:49.83,0:03:52.33,Default,Hay,0000,0000,0000,,What?! Wait! What's that supposed to mean?!
+Dialogue: 0,0:03:54.43,0:03:56.61,Default,Hay,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:03:56.61,0:03:58.25,Default,Hay,0000,0000,0000,,Hey!
+Dialogue: 0,0:03:58.62,0:04:00.76,Default,Hay,0000,0000,0000,,{\i1}That last thing he said bothered me,
+Dialogue: 0,0:04:00.76,0:04:04.76,Default,,0000,0000,0000,,{\i1}but even so, I decided to believe \Nin Santa's words and live by them.
+Dialogue: 0,0:04:05.73,0:04:07.01,Default,Hay,0000,0000,0000,,{\i1}That is, until today!
+Dialogue: 0,0:04:07.65,0:04:09.58,Default,Man,0000,0000,0000,,What are we going to do?!\N Five more minutes!
+Dialogue: 0,0:04:09.58,0:04:11.73,Default,,0000,0000,0000,,If we don't get the manuscript \Nin five more minutes...!
+Dialogue: 0,0:04:11.73,0:04:15.72,Default,Man,0000,0000,0000,,Oh, this week's edition is doomed!
+Dialogue: 0,0:04:15.72,0:04:16.87,Default,Man,0000,0000,0000,,Please relax!
+Dialogue: 0,0:04:16.87,0:04:19.66,Default,Man,0000,0000,0000,,The fastest bike messenger in the \Nindustry will be here shortly!
+Dialogue: 0,0:04:19.66,0:04:20.81,Default,Man,0000,0000,0000,,The fastest?
+Dialogue: 0,0:04:28.65,0:04:30.08,Default,Man,0000,0000,0000,,Here he comes! That's him!
+Dialogue: 0,0:04:30.08,0:04:31.88,Default,Hay,0000,0000,0000,,Thank you for waiting!
+Dialogue: 0,0:04:43.20,0:04:45.42,Default,Hay,0000,0000,0000,,I am the bike messenger Hayate Ayasaki
+Dialogue: 0,0:04:46.06,0:04:47.06,Default,Hay,0000,0000,0000,,Your signature, please.
+Dialogue: 0,0:04:49.28,0:04:52.22,Default,,0000,0000,0000,,In English, "Unmei" Means "Destiny"
+Dialogue: 0,0:04:52.53,0:04:55.02,Default,Man,0000,0000,0000,,Thank you, fastest bike \Nmessenger in the industry,
+Dialogue: 0,0:04:55.02,0:04:57.73,Default,,0000,0000,0000,,with the tremendously sturdy \Nand superhuman body!
+Dialogue: 0,0:04:58.60,0:05:01.46,Default,Man,0000,0000,0000,,But kid, are you really all right?
+Dialogue: 0,0:05:01.46,0:05:02.99,Default,Hay,0000,0000,0000,,Please don't worry.
+Dialogue: 0,0:05:02.99,0:05:04.28,Default,Hay,0000,0000,0000,,I work out.
+Dialogue: 0,0:05:06.04,0:05:08.67,Default,Hay,0000,0000,0000,,Well, then, we look forward \Nto being of service again.
+Dialogue: 0,0:05:09.78,0:05:10.87,Default,Man,0000,0000,0000,,Oh, wait, kid!
+Dialogue: 0,0:05:10.87,0:05:12.73,Default,Hay,0000,0000,0000,,I'm fine!
+Dialogue: 0,0:05:12.73,0:05:13.62,Default,Hay,0000,0000,0000,,Really.
+Dialogue: 0,0:05:13.62,0:05:15.49,Default,Man,0000,0000,0000,,No! In front! In front of you!
+Dialogue: 0,0:05:17.98,0:05:27.17,OS,Goro,0000,0000,0000,,{\pos(512,70)\frz10.819}Be Careful You Damn Bicycles
+Dialogue: 0,0:05:17.98,0:05:27.17,OS,Goro,0000,0000,0000,,{\pos(556,209)}Suginami Ward
+Dialogue: 0,0:05:24.97,0:05:27.41,Default,Goro,0000,0000,0000,,Sorry! Are you all right?!
+Dialogue: 0,0:05:27.41,0:05:30.14,Default,Man,0000,0000,0000,,Poor kid. And he's such an admirable boy.
+Dialogue: 0,0:05:30.14,0:05:30.98,Default,Man,0000,0000,0000,,Yes,
+Dialogue: 0,0:05:30.98,0:05:33.48,Default,Man,0000,0000,0000,,that boy is horribly unlucky.
+Dialogue: 0,0:05:33.92,0:05:35.21,Default,Hay,0000,0000,0000,,Ow, that hurt.
+Dialogue: 0,0:05:35.92,0:05:37.38,Default,Hay,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:05:37.88,0:05:39.92,Default,Hay,0000,0000,0000,,And it's Christmas Eve, too.
+Dialogue: 0,0:05:39.92,0:05:42.08,Italics,Nar,0000,0000,0000,,{\i1}Yes! At around this time, \Nthe boy was still...
+Dialogue: 0,0:05:42.08,0:05:44.49,Italics,,0000,0000,0000,,{\i1}...a totally unremarkable \Nhigh school student,
+Dialogue: 0,0:05:44.49,0:05:46.90,Italics,,0000,0000,0000,,{\i1}who attended a totally unremarkable \Npublic high school.
+Dialogue: 0,0:05:47.05,0:05:48.36,Default,Guys,0000,0000,0000,,Hey there, Hayate.
+Dialogue: 0,0:05:49.11,0:05:50.37,Default,Hay,0000,0000,0000,,Why hello!
+Dialogue: 0,0:05:50.37,0:05:52.53,Default,,0000,0000,0000,,My totally unremarkable classmates,
+Dialogue: 0,0:05:52.53,0:05:54.37,Default,,0000,0000,0000,,who attend the totally unremarkable \Npublic high school!
+Dialogue: 0,0:05:54.37,0:05:55.99,Default,Guy,0000,0000,0000,,Well, {\i1}sorry{\i0} for being unremarkable.
+Dialogue: 0,0:05:57.28,0:05:59.43,Default,Hay,0000,0000,0000,,So what's up? You're all together.
+Dialogue: 0,0:05:59.43,0:06:01.82,Default,Hay,0000,0000,0000,,Oh, let me guess. A Christmas party?
+Dialogue: 0,0:06:01.82,0:06:03.59,Default,Guy,0000,0000,0000,,Yeah, come if you're not busy.
+Dialogue: 0,0:06:02.02,0:06:03.71,Default,Girl,0000,0000,0000,,{\an8}I'm really looking forward to the party.
+Dialogue: 0,0:06:03.59,0:06:06.33,Default,Guy,0000,0000,0000,,It's all you can eat and \Ndrink for just 3000 yen.
+Dialogue: 0,0:06:03.71,0:06:04.50,On Top,,0000,0000,0000,,{\an8\i1}Yeah.{\i0}
+Dialogue: 0,0:06:04.54,0:06:06.90,On Top,Girl,0000,0000,0000,,{\an8\i1}We gotta eat a lot, 3000 yen's worth.{\i0}
+Dialogue: 0,0:06:06.90,0:06:07.77,On Top,,0000,0000,0000,,{\an8\i1}Yeah.{\i0}
+Dialogue: 0,0:06:07.24,0:06:09.74,Default,Hay,0000,0000,0000,,Uh, but I don't have any money, and \NI'm still working my part-time job.
+Dialogue: 0,0:06:07.77,0:06:10.09,On Top,,0000,0000,0000,,{\an8\i1}Better bring your A-game!{\i0}
+Dialogue: 0,0:06:09.74,0:06:11.74,Default,Guy,0000,0000,0000,,As unsociable as ever, aren't you?
+Dialogue: 0,0:06:11.74,0:06:14.10,Default,Girl,0000,0000,0000,,Hayate, you're athletic,\Nso you should join a
+Dialogue: 0,0:06:14.10,0:06:15.67,Default,,0000,0000,0000,,sports team at school or something.
+Dialogue: 0,0:06:15.67,0:06:17.62,Default,Hay,0000,0000,0000,,But that would cut into my time for work.
+Dialogue: 0,0:06:18.25,0:06:20.65,Default,Guy,0000,0000,0000,,Darn you! All you talk about is work!\N What are you, money-mad?!
+Dialogue: 0,0:06:20.65,0:06:22.67,Default,Girl,0000,0000,0000,,You can't buy friendship with money!
+Dialogue: 0,0:06:22.67,0:06:25.09,Default,Guy,0000,0000,0000,,Why do you need so much money anyway?
+Dialogue: 0,0:06:25.09,0:06:26.70,Default,Hay,0000,0000,0000,,That's because... uh...
+Dialogue: 0,0:06:27.39,0:06:29.40,Default,Hay,0000,0000,0000,,My parents are unemployed...?
+Dialogue: 0,0:06:33.31,0:06:36.16,Default,Guy,0000,0000,0000,,S-Sorry, I think we got \Nkind of carried away there.
+Dialogue: 0,0:06:36.16,0:06:37.16,Default,Guy,0000,0000,0000,,Later!
+Dialogue: 0,0:06:39.98,0:06:41.50,Italics,,0000,0000,0000,,{\i1}Yes, for example,
+Dialogue: 0,0:06:41.50,0:06:44.91,Italics,,0000,0000,0000,,{\i1}if they were laid off \Nbecause of the bad economy,
+Dialogue: 0,0:06:44.91,0:06:46.92,Italics,,0000,0000,0000,,{\i1}there would be some room for sympathy.
+Dialogue: 0,0:06:46.92,0:06:48.92,Italics,,0000,0000,0000,,{\i1}However, with Hayate's father...
+Dialogue: 0,0:06:49.11,0:06:55.00,Note,,0000,0000,0000,,{\an8}Father
+Dialogue: 0,0:06:49.58,0:06:52.52,Default,Dad,0000,0000,0000,,Yeah! Ever heard of self-realization?!
+Dialogue: 0,0:06:52.52,0:06:56.90,Default,Dad,0000,0000,0000,,I think there's a much more suitable \Njob for me out there somewhere!
+Dialogue: 0,0:06:56.90,0:06:59.85,Italics,Nar,0000,0000,0000,,With his head in the clouds, he's an \Ninsanely unproductive member of society.
+Dialogue: 0,0:06:59.58,0:07:04.00,On Top,,0000,0000,0000,,Mother
+Dialogue: 0,0:06:59.85,0:07:03.53,Default,Mom,0000,0000,0000,,Woohoo! It's not as if I'm \Nfrittering our money away!
+Dialogue: 0,0:07:03.53,0:07:05.52,Default,Mom,0000,0000,0000,,I'm investing in my dreams!
+Dialogue: 0,0:07:06.65,0:07:09.18,Italics,,0000,0000,0000,,{\i1}And his mother also neglects the housework,
+Dialogue: 0,0:07:09.18,0:07:11.11,Italics,,0000,0000,0000,,{\i1}throwing away money left and right.
+Dialogue: 0,0:07:11.24,0:07:13.56,Italics,Hay,0000,0000,0000,,{\i1}If a man will not work, he shall not eat!
+Dialogue: 0,0:07:13.56,0:07:15.65,Italics,Hay,0000,0000,0000,,{\i1}But I have faith!
+Dialogue: 0,0:07:15.65,0:07:17.90,Italics,Hay,0000,0000,0000,,{\i1}The one to have the last laugh will surely...
+Dialogue: 0,0:07:17.90,0:07:20.66,Italics,,0000,0000,0000,,{\i1}Surely, it'll be he, who's \Nhonest and hard-working!
+Dialogue: 0,0:07:21.30,0:07:23.65,Default,Man,0000,0000,0000,,Ayasaki, you're fired.
+Dialogue: 0,0:07:24.64,0:07:26.87,Default,Man,0000,0000,0000,,You've been lying about \Nyour age, haven't you?
+Dialogue: 0,0:07:26.87,0:07:28.99,Default,Man,0000,0000,0000,,I hear you're still in high school.
+Dialogue: 0,0:07:28.99,0:07:30.52,Default,Hay,0000,0000,0000,,H-How did you know that?!
+Dialogue: 0,0:07:30.52,0:07:34.17,Default,Man,0000,0000,0000,,Your parents came by earlier and told me.
+Dialogue: 0,0:07:34.80,0:07:37.35,Default,Man,0000,0000,0000,,I thought you were a serious \Nand capable young man.
+Dialogue: 0,0:07:37.35,0:07:38.85,Default,,0000,0000,0000,,You let me down.
+Dialogue: 0,0:07:38.95,0:07:42.52,Default,Man,0000,0000,0000,,I turned over the 170,000 yen you \Nearned so far this month to them.
+Dialogue: 0,0:07:42.52,0:07:44.59,Default,Hay,0000,0000,0000,,Y-You gave it to them?
+Dialogue: 0,0:07:44.59,0:07:46.60,Default,Hay,0000,0000,0000,,Hand over that kind of \Nmoney to those parents,
+Dialogue: 0,0:07:46.60,0:07:50.28,Default,,0000,0000,0000,,and they're bound to fritter it all \Naway, investing in their dreams!
+Dialogue: 0,0:07:50.28,0:07:53.06,Default,Man,0000,0000,0000,,That's absurd. What parents would do that?
+Dialogue: 0,0:07:53.06,0:07:56.18,Default,Hay,0000,0000,0000,,{\i1}My{\i0} parents! That's why I lied \Nabout my age to work part-time!
+Dialogue: 0,0:07:56.83,0:07:58.44,Italics,Hay,0000,0000,0000,,{\i1}This can't be happening...
+Dialogue: 0,0:07:58.44,0:08:02.60,Italics,Hay,0000,0000,0000,,{\i1}But even they must know that this \Nmoney need to be spent carefully...
+Dialogue: 0,0:08:02.60,0:08:04.26,Default,Hay,0000,0000,0000,,Dad! Mom!
+Dialogue: 0,0:08:05.47,0:08:06.63,Default,Hay,0000,0000,0000,,Where are my wages?!
+Dialogue: 0,0:08:07.84,0:08:08.96,On Top,,0000,0000,0000,,Wages
+Dialogue: 0,0:08:10.43,0:08:13.29,Default,Hay,0000,0000,0000,,Thank goodness! They haven't spent it yet!
+Dialogue: 0,0:08:14.92,0:08:17.99,Italics,Mom,0000,0000,0000,,Sorry! I tried "investing in my \Ndream", but it didn't work out.
+Dialogue: 0,0:08:17.99,0:08:18.97,Italics,Mom,0000,0000,0000,,Teehee. Mom.
+Dialogue: 0,0:08:28.24,0:08:31.39,Default,Hay,0000,0000,0000,,H-How are we supposed to make \Nit to next year on this?
+Dialogue: 0,0:08:32.61,0:08:35.46,Default,Hay,0000,0000,0000,,We don't even have any savings left.
+Dialogue: 0,0:08:39.80,0:08:40.94,Default,Hay,0000,0000,0000,,To Hayate.
+Dialogue: 0,0:08:40.94,0:08:42.78,Default,Hay,0000,0000,0000,,A Christmas Present for you.
+Dialogue: 0,0:08:55.39,0:08:56.57,Default,Hay,0000,0000,0000,,What's this?
+Dialogue: 0,0:08:56.57,0:08:58.51,Default,Hay,0000,0000,0000,,Ones, tens, hundreds, \Nthousands, ten thousands,
+Dialogue: 0,0:08:58.51,0:09:01.29,Default,,0000,0000,0000,,hundred thousands, millions, \Nten millions, hundred million?!
+Dialogue: 0,0:09:01.41,0:09:04.80,Default,Hay,0000,0000,0000,,An IOU for 156,804,000 yen?!
+Dialogue: 0,0:09:04.80,0:09:08.27,Default,2,0000,0000,0000,,We borrowed money from \Nsome very generous people.
+Dialogue: 0,0:09:04.91,0:09:07.13,Default,,0000,0000,0000,,{\an7}Mother
+Dialogue: 0,0:09:04.91,0:09:07.13,Default,,0000,0000,0000,,{\an9}Father
+Dialogue: 0,0:09:08.27,0:09:10.43,Default,2,0000,0000,0000,,So, we'll be counting on you to pay it off.
+Dialogue: 0,0:09:10.43,0:09:12.57,Default,Hay,0000,0000,0000,,You idiots!
+Dialogue: 0,0:09:12.42,0:09:16.35,OS,Mom,0000,0000,0000,,To Hayate\NSorry, I got carried away gambling... no real helping it.\N But well, what's done is done.
+Dialogue: 0,0:09:12.57,0:09:15.20,Italics,Mom,0000,0000,0000,,But well, what's done is done.
+Dialogue: 0,0:09:15.20,0:09:16.76,Default,Hay,0000,0000,0000,,D-Don't just brush it off!
+Dialogue: 0,0:09:16.76,0:09:20.73,Italics,Dad,0000,0000,0000,,{\i1}But it'll be tedious to work if off \Nand our family has no money left.
+Dialogue: 0,0:09:20.73,0:09:24.98,Italics,Mom,0000,0000,0000,,{\i1}Mommy and Daddy gave it a lot of thought, \Nand we came up with a brilliant idea.
+Dialogue: 0,0:09:24.98,0:09:26.14,Default,Hay,0000,0000,0000,,Brilliant idea?
+Dialogue: 0,0:09:26.98,0:09:27.89,Italics,2,0000,0000,0000,,{\i1}We know!!\N{\i1}
+Dialogue: 0,0:09:27.89,0:09:30.01,Italics,,0000,0000,0000,,We'll give Hayate as a present by way of an apology!!!\N{\i1}
+Dialogue: 0,0:09:30.01,0:09:31.09,Italics,,0000,0000,0000,,It's Christmas, after all.
+Dialogue: 0,0:09:31.09,0:09:33.93,Default,Hay,0000,0000,0000,,D-Dad! Mom!
+Dialogue: 0,0:09:33.93,0:09:37.07,Default,Yakuza,0000,0000,0000,,Hey! Mr. Ayasaki, are you here?
+Dialogue: 0,0:09:37.07,0:09:39.60,Default,Yakuza,0000,0000,0000,,We've come for your boy!
+Dialogue: 0,0:09:43.69,0:09:47.62,Default,Hay,0000,0000,0000,,Could it be that you're the \N"very generous people"?
+Dialogue: 0,0:09:48.33,0:09:49.69,Default,Yakuza,0000,0000,0000,,You bet.
+Dialogue: 0,0:09:49.69,0:09:53.69,Default,,0000,0000,0000,,We're the "very generous people" \Nfolk who lent your parents money.
+Dialogue: 0,0:09:53.72,0:09:56.88,Default,Hay,0000,0000,0000,,C-Come on, Mr. Very Generous People,
+Dialogue: 0,0:09:56.88,0:09:59.35,Default,,0000,0000,0000,,my parents, who owe you the \Ndebt, aren't here anymore.
+Dialogue: 0,0:09:59.35,0:10:03.11,Default,Hay,0000,0000,0000,,Besides, there's no way I can \Npay back 156,804,000 yen...
+Dialogue: 0,0:10:03.11,0:10:04.84,Default,,0000,0000,0000,,You ain't got nothin' to worry 'bout.
+Dialogue: 0,0:10:04.84,0:10:06.39,Default,,0000,0000,0000,,We're pros here, too.
+Dialogue: 0,0:10:06.82,0:10:08.77,Default,,0000,0000,0000,,If ya just come with us...
+Dialogue: 0,0:10:08.77,0:10:10.86,Default,,0000,0000,0000,,For example, ya could go \Nto a tropical paradise
+Dialogue: 0,0:10:10.86,0:10:13.84,Default,,0000,0000,0000,,and devote yerself to free volunteer work.
+Dialogue: 0,0:10:14.84,0:10:20.30,Default,,0000,0000,0000,,Or ya could find employment \Nwith a global courier service.
+Dialogue: 0,0:10:22.90,0:10:25.87,Default,,0000,0000,0000,,Oh, becomin' a consultant,
+Dialogue: 0,0:10:25.87,0:10:28.60,Default,,0000,0000,0000,,who teaches the value of traffic \Netiquette, could be good, too.
+Dialogue: 0,0:10:33.96,0:10:37.36,Default,,0000,0000,0000,,Well, we'll be able to help \Nya out in a lotta ways.
+Dialogue: 0,0:10:44.38,0:10:46.24,Default,,0000,0000,0000,,Hey! Hold it right there, sonny boy!
+Dialogue: 0,0:10:50.83,0:10:52.96,Default,Hay,0000,0000,0000,,I've managed to get away somehow, but...
+Dialogue: 0,0:10:52.96,0:10:54.46,Default,Hay,0000,0000,0000,,I never thought they'd go so far.
+Dialogue: 0,0:10:54.46,0:10:56.46,Default,,0000,0000,0000,,My parents are unbelievable.
+Dialogue: 0,0:11:01.79,0:11:06.22,Default,Hay,0000,0000,0000,,No matter how many times I look at it, \NI guess it's still 156,804,000 yen.
+Dialogue: 0,0:11:08.62,0:11:10.98,Default,Hay,0000,0000,0000,,I guess I've been abandoned for real.
+Dialogue: 0,0:11:13.88,0:11:15.24,Default,San,0000,0000,0000,,But have faith.
+Dialogue: 0,0:11:15.24,0:11:17.89,Default,San,0000,0000,0000,,The one to have the last laugh will surely...
+Dialogue: 0,0:11:19.13,0:11:20.66,Default,Hay,0000,0000,0000,,NO!
+Dialogue: 0,0:11:21.13,0:11:24.15,Default,Hay,0000,0000,0000,,In the end, it's the dishonest \Nguys who win in this world!
+Dialogue: 0,0:11:24.15,0:11:27.50,Default,Hay,0000,0000,0000,,There's nothing to gain from \Nworking hard at honest jobs!
+Dialogue: 0,0:11:28.07,0:11:32.54,Default,Hay,0000,0000,0000,,Nello from "A Dog of Flanders" stayed \Na nice guy and he wound up dead!
+Dialogue: 0,0:11:32.54,0:11:33.78,Default,Nag,0000,0000,0000,,What is wrong with this machine?!
+Dialogue: 0,0:11:33.78,0:11:35.84,Default,Nag,0000,0000,0000,,Does it not take credit cards?!
+Dialogue: 0,0:11:43.78,0:11:47.89,Italics,Nar,0000,0000,0000,,It was the fateful encounter of boy and girl.
+Dialogue: 0,0:11:51.14,0:11:52.39,Default,Hay,0000,0000,0000,,Hayate the Combat Butler\N(Hayate no Goto{\u1}ku{\u0})
+Dialogue: 0,0:11:56.23,0:11:57.43,Default,Nag,0000,0000,0000,,Christmas.\N({\u1}Ku{\u0}risuma{\u1}su{\u0})
+Dialogue: 0,0:11:58.37,0:11:59.68,Default,Yakuza,0000,0000,0000,,We lost him.
+Dialogue: 0,0:11:59.68,0:12:01.17,Default,Yakuza,0000,0000,0000,,Spry kid, that one.
+Dialogue: 0,0:12:01.72,0:12:03.43,Default,Yakuza,0000,0000,0000,,Find him, even if you have to \Nsearch every nook and cranny.
+Dialogue: 0,0:12:05.35,0:12:08.38,Default,Yakuza,0000,0000,0000,,And you two, this isn't \Neven close to being enough.
+Dialogue: 0,0:12:08.38,0:12:11.32,Default,Yakuza,0000,0000,0000,,If you don't bring it all by tomorrow, \Nyou know what's coming, right?!
+Dialogue: 0,0:12:11.32,0:12:12.44,Default,Guys,0000,0000,0000,,Y-Yes, sir!
+Dialogue: 0,0:12:14.59,0:12:19.53,Italics,Hay,0000,0000,0000,,{\i1}Debt collectors of their kind...\NThey'll never let me get away, no matter what.
+Dialogue: 0,0:12:19.53,0:12:21.53,Default,,0000,0000,0000,,That's exactly right.
+Dialogue: 0,0:12:22.07,0:12:23.45,Default,,0000,0000,0000,,You're finished!
+Dialogue: 0,0:12:23.45,0:12:25.15,Default,,0000,0000,0000,,Don't fight it, just turn \Nyourself over to those guys...
+Dialogue: 0,0:12:25.15,0:12:27.87,Default,,0000,0000,0000,,O Hayate, you mustn't ever give up.
+Dialogue: 0,0:12:27.87,0:12:29.38,Default,,0000,0000,0000,,You were born a man and thus,
+Dialogue: 0,0:12:29.38,0:12:31.61,Default,,0000,0000,0000,,you must continue to strive to the very end.
+Dialogue: 0,0:12:31.61,0:12:34.27,Default,,0000,0000,0000,,Hah! What the hell can he do now?
+Dialogue: 0,0:12:34.27,0:12:35.90,Default,,0000,0000,0000,,Let us kidnap that girl.
+Dialogue: 0,0:12:35.90,0:12:36.50,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:36.50,0:12:41.28,Default,,0000,0000,0000,,We shall kidnap her and gratefully \Naccept 150 million yen in ransom.
+Dialogue: 0,0:12:41.28,0:12:42.28,Default,,0000,0000,0000,,{\i1}Good idea.
+Dialogue: 0,0:12:42.28,0:12:45.18,Default,,0000,0000,0000,,H-Hey, don't you think that's a bad \Nidea, no matter what the situation?
+Dialogue: 0,0:12:45.18,0:12:48.78,Default,,0000,0000,0000,,{\i1}But my very life's in danger because \Nof those worthless parents of mine!
+Dialogue: 0,0:12:48.78,0:12:51.58,Default,,0000,0000,0000,,That is right. A modicum of \Nvillainy should be permitted.
+Dialogue: 0,0:12:51.58,0:12:53.01,Default,,0000,0000,0000,,No, it {\i1}ought{\i0} to be permitted!
+Dialogue: 0,0:12:53.01,0:12:54.15,Default,,0000,0000,0000,,Don't do it!
+Dialogue: 0,0:12:54.15,0:12:56.79,Default,,0000,0000,0000,,Even Nello and Patrasche are \Nsurely in Heaven right now,
+Dialogue: 0,0:12:56.79,0:12:58.29,Default,,0000,0000,0000,,exhorting you to avenge them.
+Dialogue: 0,0:12:58.29,0:13:02.54,Default,,0000,0000,0000,,{\i1}Yeah, and even if I get caught, I'll \Nhave warm meals and a bed in prison.
+Dialogue: 0,0:13:02.54,0:13:03.64,Default,,0000,0000,0000,,See here! Do not touch me!
+Dialogue: 0,0:13:04.27,0:13:06.57,Default,,0000,0000,0000,,Hey, hey, you're cute!
+Dialogue: 0,0:13:06.57,0:13:09.18,Default,,0000,0000,0000,,All alone on the night of Christmas Eve?
+Dialogue: 0,0:13:09.18,0:13:10.89,Default,,0000,0000,0000,,Come someplace fun with us.
+Dialogue: 0,0:13:17.48,0:13:19.98,Default,,0000,0000,0000,,Don't go hitting on girls on the \Nanniversary of Nello's death!
+Dialogue: 0,0:13:19.98,0:13:22.48,Default,,0000,0000,0000,,Go look at a Rubens painting \Nand observe it in mourning!
+Dialogue: 0,0:13:22.48,0:13:23.23,Default,,0000,0000,0000,,You fools!
+Dialogue: 0,0:13:23.23,0:13:24.74,Default,,0000,0000,0000,,H-Hey...
+Dialogue: 0,0:13:24.74,0:13:26.82,Default,,0000,0000,0000,,I've never even been hit by my dad!
+Dialogue: 0,0:13:28.51,0:13:30.28,Default,,0000,0000,0000,,Sorry about that!
+Dialogue: 0,0:13:32.53,0:13:35.50,Default,,0000,0000,0000,,{\i1}Sh-Shoot, I automatically leapt \Nout at them without thinking...
+Dialogue: 0,0:13:35.83,0:13:36.76,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:13:43.25,0:13:46.09,Default,,0000,0000,0000,,I don't really get it, but you saved me.
+Dialogue: 0,0:13:48.92,0:13:51.43,Default,,0000,0000,0000,,By the way, do you understand how this works?
+Dialogue: 0,0:13:51.43,0:13:52.22,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:51.74,0:13:55.59,On Top,,0000,0000,0000,,Warm
+Dialogue: 0,0:13:52.22,0:13:53.72,Default,,0000,0000,0000,,I want this thing labeled "warm",
+Dialogue: 0,0:13:53.72,0:13:56.60,Default,,0000,0000,0000,,but it will not come out, \Neven when I press the button.
+Dialogue: 0,0:13:56.60,0:13:59.10,Default,,0000,0000,0000,,Well, you need to put in a \N100 yen coin or something...
+Dialogue: 0,0:13:59.10,0:14:02.98,Default,,0000,0000,0000,,Without this "warm" thing, \NI will freeze to death!
+Dialogue: 0,0:14:16.31,0:14:19.71,Default,,0000,0000,0000,,It's not good for a girl to \Ncatch a chill, so wear that.
+Dialogue: 0,0:14:20.35,0:14:22.04,Default,,0000,0000,0000,,What a cheap-looking coat.
+Dialogue: 0,0:14:22.65,0:14:24.88,Default,,0000,0000,0000,,The craftsmanship is shoddy \Nand the fabric is heavy.
+Dialogue: 0,0:14:24.88,0:14:26.88,Default,,0000,0000,0000,,On top of which, it's too baggy for me.
+Dialogue: 0,0:14:27.38,0:14:29.47,Default,,0000,0000,0000,,But it's warm. I like it.
+Dialogue: 0,0:14:31.36,0:14:35.52,Default,,0000,0000,0000,,Yes, I shall do something for you \Nin thanks for this "warm" thing.
+Dialogue: 0,0:14:35.52,0:14:36.52,Default,,0000,0000,0000,,In thanks?
+Dialogue: 0,0:14:36.52,0:14:38.30,Default,,0000,0000,0000,,It can be anything. Just name it.
+Dialogue: 0,0:14:38.30,0:14:40.76,Default,,0000,0000,0000,,Anything... Really?
+Dialogue: 0,0:14:41.48,0:14:42.19,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:14:45.15,0:14:48.18,Italics,,0000,0000,0000,,{\i1}I know! Since it's come to this, \NI have no choice but to go for it!
+Dialogue: 0,0:14:48.18,0:14:50.78,Italics,,0000,0000,0000,,{\i1}In that moment, the boy found his resolve.
+Dialogue: 0,0:14:50.78,0:14:53.51,Italics,,0000,0000,0000,,{\i1}In thanks for his help, he would ask her...
+Dialogue: 0,0:14:53.51,0:14:55.69,Italics,,0000,0000,0000,,{\i1}...to be his hostage, so \Nhe could demand ransom.
+Dialogue: 0,0:14:55.69,0:14:57.95,Default,,0000,0000,0000,,Then I'll get straight to the point.
+Dialogue: 0,0:14:57.95,0:14:58.66,Default,,0000,0000,0000,,Sure, sure.
+Dialogue: 0,0:14:59.16,0:15:00.91,Default,,0000,0000,0000,,Won't you go with me?
+Dialogue: 0,0:15:00.91,0:15:01.67,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:15:03.32,0:15:05.17,Default,,0000,0000,0000,,I want you!
+Dialogue: 0,0:15:05.17,0:15:07.05,Italics,,0000,0000,0000,,{\i1}His questionable choice of words...
+Dialogue: 0,0:15:07.05,0:15:10.01,Italics,,0000,0000,0000,,{\i1}...was to thoroughly complicate \Ntheir relationship!
+Dialogue: 0,0:15:10.01,0:15:13.76,Default,,0000,0000,0000,,Idio... It may be Christmas Eve, but \Nto make a sudden confession like that?!
+Dialogue: 0,0:15:13.76,0:15:17.52,Default,,0000,0000,0000,,D-Do you know exactly what it \Nis that you're asking here?!
+Dialogue: 0,0:15:18.67,0:15:20.82,Default,,0000,0000,0000,,I could never joke about something like this.
+Dialogue: 0,0:15:21.73,0:15:23.11,Default,,0000,0000,0000,,This is life or death.
+Dialogue: 0,0:15:23.11,0:15:25.40,Default,,0000,0000,0000,,From the moment I first \Nlaid eyes on you, I...
+Dialogue: 0,0:15:25.81,0:15:27.58,Default,,0000,0000,0000,,I decided that I would take you away with me!
+Dialogue: 0,0:15:27.58,0:15:29.86,Italics,,0000,0000,0000,,{\i1}His earnestness is conveyed.
+Dialogue: 0,0:15:29.86,0:15:32.86,Italics,,0000,0000,0000,,{\i1}However, whether it is \Nconveyed accurately or not...
+Dialogue: 0,0:15:32.86,0:15:34.37,Italics,,0000,0000,0000,,{\i1}...is a different story.
+Dialogue: 0,0:15:34.53,0:15:35.87,Default,,0000,0000,0000,,A-All right.
+Dialogue: 0,0:15:36.37,0:15:37.87,Default,,0000,0000,0000,,But in exchange...
+Dialogue: 0,0:15:38.37,0:15:40.63,Default,,0000,0000,0000,,Absolutely no cheating or anything, got it?!
+Dialogue: 0,0:15:40.63,0:15:41.87,Default,,0000,0000,0000,,Huh? Uh...
+Dialogue: 0,0:15:43.05,0:15:43.88,Default,,0000,0000,0000,,Sure.
+Dialogue: 0,0:15:45.52,0:15:46.38,Default,,0000,0000,0000,,{\i1}Cheating?
+Dialogue: 0,0:15:46.88,0:15:47.99,Default,,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:15:47.99,0:15:51.26,Default,,0000,0000,0000,,Then, would you tell me your \Nguardian's phone number?
+Dialogue: 0,0:15:51.26,0:15:52.05,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:15:52.36,0:15:54.44,Default,,0000,0000,0000,,Then wait here for a sec.
+Dialogue: 0,0:15:56.05,0:15:58.35,Default,,0000,0000,0000,,{\i1}My heart's still pounding.
+Dialogue: 0,0:15:58.35,0:16:01.06,Default,,0000,0000,0000,,{\i1}But that boy is strong and kind.
+Dialogue: 0,0:16:01.06,0:16:02.60,Default,,0000,0000,0000,,He's just so cool!
+Dialogue: 0,0:16:08.55,0:16:11.48,On Top,,0000,0000,0000,,To Hayate
+Dialogue: 0,0:16:08.80,0:16:11.76,Default,,0000,0000,0000,,Hayate... Is that his name?
+Dialogue: 0,0:16:13.37,0:16:13.99,Default,,0000,0000,0000,,Haya...
+Dialogue: 0,0:16:18.62,0:16:22.75,Default,,0000,0000,0000,,Now, to make an anonymous ransom demand.
+Dialogue: 0,0:16:23.62,0:16:25.93,Default,,0000,0000,0000,,No one can stop me now!
+Dialogue: 0,0:16:28.75,0:16:30.25,Default,,0000,0000,0000,,{\i1}Yes, hello?
+Dialogue: 0,0:16:30.25,0:16:32.26,Default,,0000,0000,0000,,Oh, hello? This is Ayasaki.
+Dialogue: 0,0:16:33.01,0:16:35.26,Default,,0000,0000,0000,,{\i1}What's a kidnapper doing introducing himself?
+Dialogue: 0,0:16:36.76,0:16:40.09,Default,,0000,0000,0000,,It's over. My perfect plan...
+Dialogue: 0,0:16:40.09,0:16:42.16,Default,,0000,0000,0000,,And it hadn't even begun.
+Dialogue: 0,0:16:51.76,0:16:55.75,Default,,0000,0000,0000,,Daddy, Mommy, why isn't he wearing \Na coat when it's so cold out?
+Dialogue: 0,0:16:55.75,0:16:56.61,Default,,0000,0000,0000,,Shh!
+Dialogue: 0,0:16:57.80,0:17:00.99,Italics,Hay,0000,0000,0000,,{\i1}Yeah, in the end, this is pretty \Nmuch how it goes for me.
+Dialogue: 0,0:17:00.99,0:17:03.69,Italics,Hay,0000,0000,0000,,{\i1}Whether I try to do honest \Nwork or commit a crime,
+Dialogue: 0,0:17:03.69,0:17:05.00,Italics,,0000,0000,0000,,it's never going to work out.
+Dialogue: 0,0:17:05.57,0:17:07.94,Italics,Hay,0000,0000,0000,,{\i1}I feel so tired somehow.
+Dialogue: 0,0:17:10.89,0:17:12.66,Italics,Hay,0000,0000,0000,,{\i1}If I just fell asleep now, would I die?
+Dialogue: 0,0:17:13.10,0:17:14.22,Italics,Hay,0000,0000,0000,,{\i1}But that'd be fine, too.
+Dialogue: 0,0:17:14.22,0:17:17.22,Italics,,0000,0000,0000,,{\i1}There's nothing but pain, even \Nif I were to stay alive...
+Dialogue: 0,0:17:17.72,0:17:20.72,Italics,Hay,0000,0000,0000,,{\i1}No one would care if I died anyway...
+Dialogue: 0,0:17:22.22,0:17:23.62,Default,Mar,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:17:35.45,0:17:38.49,Default,Mar,0000,0000,0000,,This is terrible! You're so cold!
+Dialogue: 0,0:17:53.96,0:17:57.47,Default,Mar,0000,0000,0000,,You will catch a cold if you sleep out here.
+Dialogue: 0,0:17:58.72,0:18:00.34,Italics,Nar,0000,0000,0000,,{\i1}He was blindsided.
+Dialogue: 0,0:18:00.34,0:18:02.22,Italics,,0000,0000,0000,,{\i1}This kind smile...
+Dialogue: 0,0:18:02.22,0:18:05.43,Italics,,0000,0000,0000,,{\i1}To the boy's heart, frozen \Nin life's pit of despair,
+Dialogue: 0,0:18:05.43,0:18:07.11,Italics,,0000,0000,0000,,{\i1}it apparently made quite an impact.
+Dialogue: 0,0:18:14.65,0:18:16.36,Default,Mar,0000,0000,0000,,What? Um, wait...
+Dialogue: 0,0:18:16.36,0:18:18.95,Italics,Hay,0000,0000,0000,,{\i1}Patrasche, I was wrong.
+Dialogue: 0,0:18:18.95,0:18:21.45,Italics,Hay,0000,0000,0000,,{\i1}There are incredibly kind people \Nin this world, like her.
+Dialogue: 0,0:18:21.45,0:18:24.45,Italics,Hay,0000,0000,0000,,{\i1}And yet, I was going to do something \Nfoolish like kidnapping...
+Dialogue: 1,0:18:24.91,0:18:25.91,Default,Nag,0000,0000,0000,,{\an8}What are you doing?!
+Dialogue: 1,0:18:25.91,0:18:26.91,Default,Guys,0000,0000,0000,,{\an8}Don't make a fuss!
+Dialogue: 0,0:18:27.16,0:18:29.25,Default,Hay,0000,0000,0000,,That's right! What am I doing?!
+Dialogue: 1,0:18:29.46,0:18:30.79,Default,Guy,0000,0000,0000,,Quit dragging your feet!
+Dialogue: 0,0:18:30.79,0:18:31.33,Default,Nag,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:32.46,0:18:33.59,Default,Guy,0000,0000,0000,,Get in there already!
+Dialogue: 0,0:18:35.59,0:18:36.71,Default,Hay,0000,0000,0000,,What?
+Dialogue: 0,0:18:36.71,0:18:40.47,Default,Mar,0000,0000,0000,,Oh, dear! That child! She's \Ngetting kidnapped again!
+Dialogue: 0,0:18:40.47,0:18:42.14,Default,Hay,0000,0000,0000,,Are you an acquaintance of hers?
+Dialogue: 0,0:18:42.14,0:18:45.89,Default,Mar,0000,0000,0000,,Yes. What shall I do? And \NHimegami isn't here, either.
+Dialogue: 0,0:18:46.89,0:18:48.14,Default,Hay,0000,0000,0000,,I'm going to borrow this.
+Dialogue: 0,0:18:49.98,0:18:51.81,Default,Hay,0000,0000,0000,,You call the police.
+Dialogue: 0,0:18:52.77,0:18:54.90,Default,Hay,0000,0000,0000,,I will rescue her!
+Dialogue: 0,0:18:54.90,0:18:57.49,Default,Mar,0000,0000,0000,,Rescue her? But they're in a car!
+Dialogue: 0,0:19:00.95,0:19:05.58,Italics,Nar,0000,0000,0000,,{\i1}That's right! This anime will \Nnever condone brutal crimes!
+Dialogue: 0,0:19:05.58,0:19:07.95,Italics,Nar,0000,0000,0000,,{\i1}Kidnapping is not cool!
+Dialogue: 0,0:19:07.95,0:19:10.00,Default,Guy,0000,0000,0000,,All right, the kidnapping's a success!
+Dialogue: 0,0:19:10.00,0:19:13.33,Default,Guy,0000,0000,0000,,Now, we'll be able to rustle up a \Nfat ransom and pay off our debt!
+Dialogue: 0,0:19:13.33,0:19:15.09,Default,Nag,0000,0000,0000,,Hey, you two idiots.
+Dialogue: 0,0:19:16.67,0:19:19.72,Default,Nag,0000,0000,0000,,You're polluting the air, so would \Nyou do me a favor and stop breathing?
+Dialogue: 0,0:19:19.72,0:19:21.34,Default,Nag,0000,0000,0000,,You're destroying the environment.
+Dialogue: 0,0:19:21.34,0:19:22.97,Default,Nag,0000,0000,0000,,You have to take good care of Earth.
+Dialogue: 0,0:19:22.97,0:19:24.39,Default,Guy,0000,0000,0000,,Y-You damn brat!
+Dialogue: 0,0:19:24.39,0:19:25.68,Default,Guy,0000,0000,0000,,If you make us mad...
+Dialogue: 0,0:19:25.68,0:19:28.18,Default,Nag,0000,0000,0000,,I told you not to breathe, didn't I, baldy?!
+Dialogue: 0,0:19:29.39,0:19:32.48,Default,Guy,0000,0000,0000,,You keep that up and you're \Nseriously gonna get hurt!
+Dialogue: 0,0:19:33.19,0:19:34.69,Default,Nag,0000,0000,0000,,Stay away from me, pervert!
+Dialogue: 0,0:19:34.69,0:19:37.36,Default,Nag,0000,0000,0000,,Come any closer and I'm \Ncalling for help, you fool!
+Dialogue: 0,0:19:38.57,0:19:40.24,Default,Guy,0000,0000,0000,,You're the fool, little girl!
+Dialogue: 0,0:19:40.74,0:19:43.82,Default,Guy,0000,0000,0000,,You think there's anyone who can \Ncatch up to a car going this fast?!
+Dialogue: 0,0:19:43.82,0:19:44.74,Default,Nag,0000,0000,0000,,Sure there is!
+Dialogue: 0,0:19:44.74,0:19:46.95,Default,Nag,0000,0000,0000,,He said he would risk his \Nlife to take me away!
+Dialogue: 0,0:19:46.95,0:19:48.58,Default,Nag,0000,0000,0000,,So if I call for him, he'll come!
+Dialogue: 0,0:19:48.58,0:19:51.21,Default,Guy,0000,0000,0000,,Then why don't you try calling \Nhim right this minute?
+Dialogue: 0,0:19:54.33,0:19:56.42,Default,Nag,0000,0000,0000,,HAYATE!
+Dialogue: 0,0:20:04.01,0:20:05.01,Default,Guys,0000,0000,0000,,What?!
+Dialogue: 0,0:20:06.30,0:20:07.60,Default,Nag,0000,0000,0000,,Hayate...
+Dialogue: 0,0:20:17.02,0:20:19.90,Default,Hay,0000,0000,0000,,You scoundrels! Give that \Ngirl back without a fuss!
+Dialogue: 0,0:20:22.57,0:20:23.57,Default,Guy,0000,0000,0000,,B-Bro!
+Dialogue: 0,0:20:23.57,0:20:26.16,Default,Guy,0000,0000,0000,,Shuddup! H-He suddenly jumped in front of me!
+Dialogue: 0,0:20:26.16,0:20:27.28,Default,Nag,0000,0000,0000,,How dare you two...!
+Dialogue: 0,0:20:30.95,0:20:33.66,Default,Hay,0000,0000,0000,,Would you please return that girl to me?
+Dialogue: 0,0:20:33.66,0:20:35.50,Default,2,0000,0000,0000,,Y-Yes, sir!
+Dialogue: 0,0:20:37.46,0:20:38.67,Default,Nag,0000,0000,0000,,Hayate!
+Dialogue: 0,0:20:41.51,0:20:42.92,Default,Cop,0000,0000,0000,,{\an8}Hey, shut up and walk.
+Dialogue: 0,0:20:41.51,0:20:43.42,Default,Cop,0000,0000,0000,,What the hell was that guy?
+Dialogue: 0,0:20:43.57,0:20:44.43,Default,,0000,0000,0000,,{\an8}Come on.
+Dialogue: 0,0:20:44.76,0:20:46.80,Default,Nag,0000,0000,0000,,Hey, are you all right?
+Dialogue: 0,0:20:46.80,0:20:49.10,Default,Hay,0000,0000,0000,,Please don't worry. I work out.
+Dialogue: 0,0:20:49.81,0:20:52.10,Default,Hay,0000,0000,0000,,I'm really glad that you're all right.
+Dialogue: 0,0:20:52.81,0:20:54.89,Default,Nag,0000,0000,0000,,It seems I must thank you again.
+Dialogue: 0,0:20:54.89,0:20:56.44,Default,Hay,0000,0000,0000,,You don't have to thank me.
+Dialogue: 0,0:20:56.44,0:20:57.65,Default,Hay,0000,0000,0000,,I very nearly...
+Dialogue: 0,0:20:58.61,0:21:00.94,Default,Nag,0000,0000,0000,,Huh? What is it? No need to hold back.
+Dialogue: 0,0:21:00.94,0:21:02.15,Default,,0000,0000,0000,,Tell me whatever you want.
+Dialogue: 0,0:21:02.69,0:21:07.03,Default,Hay,0000,0000,0000,,Then, this time, could you \Nmaybe find me... a new job...
+Dialogue: 0,0:21:07.03,0:21:08.32,Default,Nag,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:21:08.91,0:21:11.12,Default,Nag,0000,0000,0000,,A-Are you really all right?!
+Dialogue: 0,0:21:11.12,0:21:13.16,Default,Nag,0000,0000,0000,,There's some kind of red \Nliquid coming out of you!
+Dialogue: 0,0:21:13.16,0:21:16.46,Default,Hay,0000,0000,0000,,This is nothing... Just a bit too \Nmuch to put on the airwaves...
+Dialogue: 0,0:21:16.46,0:21:18.96,Default,,0000,0000,0000,,These scrapes on my head, \Nabdomen, and four limbs...
+Dialogue: 0,0:21:19.71,0:21:20.88,Default,Nag,0000,0000,0000,,Hayate!
+Dialogue: 0,0:21:20.88,0:21:22.59,Default,Nag,0000,0000,0000,,Hey, Hayate!
+Dialogue: 0,0:21:23.09,0:21:23.63,Default,Mar,0000,0000,0000,,Nagi!
+Dialogue: 0,0:21:24.51,0:21:25.76,Default,Nag,0000,0000,0000,,Ah! Maria!
+Dialogue: 0,0:21:25.76,0:21:27.97,Default,Nag,0000,0000,0000,,Perfect timing! We need to treat him quickly!
+Dialogue: 0,0:21:27.97,0:21:31.68,Default,Mar,0000,0000,0000,,I did contact Mr. Klaus and \Nask him to come pick us up...
+Dialogue: 0,0:21:31.68,0:21:33.22,Default,Mar,0000,0000,0000,,But this is...
+Dialogue: 0,0:21:33.22,0:21:35.48,Default,Mar,0000,0000,0000,,Where in the world did \Nyou get that shabby coat?
+Dialogue: 0,0:21:36.06,0:21:39.48,Default,Nag,0000,0000,0000,,Uh, this is certainly a \Npitifully cheaply-made coat,
+Dialogue: 0,0:21:39.48,0:21:42.44,Default,Nag,0000,0000,0000,,but it's a coat that my savior \Nwas kind enough to give to me.
+Dialogue: 0,0:21:42.44,0:21:45.53,Default,Nag,0000,0000,0000,,I would disgrace the Sanzenin name \Nif I didn't wear it with care, right?
+Dialogue: 0,0:21:45.53,0:21:47.70,Default,Mar,0000,0000,0000,,Your... savior?
+Dialogue: 0,0:21:48.16,0:21:51.37,Default,Nag,0000,0000,0000,,That reminds me! We had yet to find \Na replacement for Himegami, right?
+Dialogue: 0,0:21:51.37,0:21:52.41,Default,Nag,0000,0000,0000,,Let's make it him!
+Dialogue: 0,0:21:52.41,0:21:52.83,Default,Mar,0000,0000,0000,,Pardon?
+Dialogue: 0,0:21:53.70,0:21:56.29,Default,Cop,0000,0000,0000,,We'll transport the injured in this car!
+Dialogue: 0,0:21:56.29,0:21:58.62,Default,Nag,0000,0000,0000,,No need! Everything is taken care of!
+Dialogue: 0,0:22:01.63,0:22:04.67,Default,Nag,0000,0000,0000,,I promised that I would find him a new job.
+Dialogue: 0,0:22:04.67,0:22:05.88,Default,Nag,0000,0000,0000,,And I owe him.
+Dialogue: 0,0:22:05.88,0:22:09.64,Default,Nag,0000,0000,0000,,So I will make him Nagi \NSanzenin's new butler!
+Dialogue: 0,0:22:10.47,0:22:14.10,Default,Nar,0000,0000,0000,,{\i1}Yes, it was truly a fateful encounter.
+Dialogue: 0,0:22:14.10,0:22:18.48,Default,Nar,0000,0000,0000,,{\i1}As of this night, the boy's fate \Nbegins to change greatly, but...
+Dialogue: 0,0:22:18.89,0:22:20.94,Default,Nar,0000,0000,0000,,{\i1}Check back with us for more details.
+Dialogue: 0,0:22:20.94,0:22:23.94,Default,Nar,0000,0000,0000,,{\i1}We will continue to fight the broadcast \Nregulations again next time!
+Dialogue: 0,0:22:26.55,0:22:31.18,On Top,,0000,0000,0000,,{\an8}Moshi boku no yume ga kimi no kokoro
+Dialogue: 0,0:22:26.55,0:22:31.18,On Top,,0000,0000,0000,,If my dreams have taken your heart
+Dialogue: 0,0:22:32.60,0:22:36.40,On Top,,0000,0000,0000,,{\an8}Kizutsuke-tetara
+Dialogue: 0,0:22:32.60,0:22:36.40,On Top,,0000,0000,0000,,And brought it pain
+Dialogue: 0,0:22:36.85,0:22:41.87,On Top,,0000,0000,0000,,{\an8}Sono omoi wa itsuka
+Dialogue: 0,0:22:36.85,0:22:41.87,On Top,,0000,0000,0000,,Someday, that anguish
+Dialogue: 0,0:22:42.56,0:22:45.24,On Top,,0000,0000,0000,,{\an8}Boku ga morau yo
+Dialogue: 0,0:22:42.56,0:22:45.24,On Top,,0000,0000,0000,,I will take from you
+Dialogue: 0,0:22:47.28,0:22:51.54,On Top,,0000,0000,0000,,{\an8}Taisetsu na mono ni furue-nagara
+Dialogue: 0,0:22:47.28,0:22:51.54,On Top,,0000,0000,0000,,While trembling over something precious
+Dialogue: 0,0:22:52.99,0:22:57.63,On Top,,0000,0000,0000,,{\an8}Kakezuri-mawatte
+Dialogue: 0,0:22:52.99,0:22:57.63,On Top,,0000,0000,0000,,And madly dashing about
+Dialogue: 0,0:22:57.66,0:23:02.80,On Top,,0000,0000,0000,,{\an8}Seou itami ni hibi wa
+Dialogue: 0,0:22:57.66,0:23:02.80,On Top,,0000,0000,0000,,The hurt I bore made the days
+Dialogue: 0,0:23:03.00,0:23:07.64,On Top,,0000,0000,0000,,{\an8}Muimi ni sugita
+Dialogue: 0,0:23:03.00,0:23:07.64,On Top,,0000,0000,0000,,Go by emptily
+Dialogue: 0,0:23:08.13,0:23:13.31,On Top,,0000,0000,0000,,{\an8}Oikaketa mama de oikosare-tsuzuke
+Dialogue: 0,0:23:08.13,0:23:13.31,On Top,,0000,0000,0000,,Just chasing and continually being overtaken
+Dialogue: 0,0:23:13.85,0:23:18.24,On Top,,0000,0000,0000,,{\an8}Tohou ni kureru kaze
+Dialogue: 0,0:23:13.85,0:23:18.24,On Top,,0000,0000,0000,,A wind who's lost its bearing
+Dialogue: 0,0:23:18.98,0:23:23.28,On Top,,0000,0000,0000,,{\an8}Kimi no doko ni furetara
+Dialogue: 0,0:23:18.98,0:23:23.28,On Top,,0000,0000,0000,,What part of you should I touch
+Dialogue: 0,0:23:24.27,0:23:28.75,On Top,,0000,0000,0000,,{\an8}Ii ka o sagashita
+Dialogue: 0,0:23:24.27,0:23:28.75,On Top,,0000,0000,0000,,I sought it out
+Dialogue: 0,0:23:29.44,0:23:33.92,On Top,,0000,0000,0000,,{\an8}Mamoritai yo kimi dake wa tsuyoku
+Dialogue: 0,0:23:29.44,0:23:33.92,On Top,,0000,0000,0000,,You alone, I want to protect so much
+Dialogue: 0,0:23:34.28,0:23:39.17,On Top,,0000,0000,0000,,{\an8}Yokubou no wadachi kara touzakatte
+Dialogue: 0,0:23:34.28,0:23:39.17,On Top,,0000,0000,0000,,Getting away from the rut of desire
+Dialogue: 0,0:23:39.79,0:23:44.34,On Top,,0000,0000,0000,,{\an8}Itsuka subete te ni ireru sore ga
+Dialogue: 0,0:23:39.79,0:23:44.34,On Top,,0000,0000,0000,,Someday, it will all be ours and that
+Dialogue: 0,0:23:44.34,0:23:48.52,On Top,,0000,0000,0000,,{\an8}Kimi to boku no Proof
+Dialogue: 0,0:23:44.34,0:23:48.52,On Top,,0000,0000,0000,,Is our proof, yours and mine
+Dialogue: 0,0:23:48.80,0:23:58.90,On Top,,0000,0000,0000,,{\an8}Namida mo zenbu azukeru yo
+Dialogue: 0,0:23:48.80,0:23:58.90,On Top,,0000,0000,0000,,Even all my tears, I entrust to you
+Dialogue: 0,0:24:00.02,0:24:02.99,On Top,,0000,0000,0000,,{\pos(316,224)}Preview
+Dialogue: 0,0:24:01.50,0:24:04.39,On Top,,0000,0000,0000,,Hayate, you were looking \Nfor live-in work, right?
+Dialogue: 0,0:24:03.02,0:24:22.80,OS,,0000,0000,0000,,{\an8\pos(174,307)}The next episode of \N"Hayate the Combat Butler" is...
+Dialogue: 0,0:24:04.39,0:24:05.30,On Top,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:24:05.30,0:24:07.91,On Top,,0000,0000,0000,,Then why don't you work as \Nmy butler at this house?
+Dialogue: 0,0:24:07.91,0:24:10.46,On Top,,0000,0000,0000,,B-But Hayate doesn't even \Nknow what a butler does...
+Dialogue: 0,0:24:10.46,0:24:12.01,On Top,,0000,0000,0000,,I'll do it! No matter what happens,
+Dialogue: 0,0:24:12.01,0:24:15.81,On Top,,0000,0000,0000,,I, Hayate Ayasaki, will put my life \Non the line and protect you, Miss!
+Dialogue: 0,0:24:15.81,0:24:18.06,On Top,,0000,0000,0000,,What am I going to do with \Nthese two clueless people?
+Dialogue: 0,0:24:18.06,0:24:19.47,On Top,,0000,0000,0000,,Next time on "Hayate the Combat Butler",
+Dialogue: 0,0:24:19.47,0:24:22.08,On Top,,0000,0000,0000,,"A New Beginning with \NNagi Sanzenin's Estate"!
+Dialogue: 0,0:24:22.08,0:24:24.31,On Top,,0000,0000,0000,,So we finally meet again, sonny boy.
+Dialogue: 0,0:24:22.83,0:24:26.05,Default,,0000,0000,0000,,A New Beginning with \NNagi Sanzenin's Estate
+Dialogue: 0,0:24:24.31,0:24:27.11,On Top,,0000,0000,0000,,Frankly, the next episode's \Ngoing to be funny-cool, too!
+Dialogue: 0,0:24:40.02,0:24:46.45,Default,,0000,0000,0000,,{\an8}Please watch "Hayate the Combat \NButler" again next time.

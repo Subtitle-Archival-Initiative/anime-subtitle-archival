@@ -1,0 +1,483 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.05,0:00:05.80,On Top,,0000,0000,0000,,When watching "Hayate the Combat Butler",
+Dialogue: 0,0:00:05.80,0:00:08.65,On Top,,0000,0000,0000,,please keep the room bright \Nand sit well away from the TV.
+Dialogue: 0,0:00:08.65,0:00:09.56,On Top,,0000,0000,0000,,That's right.
+Dialogue: 0,0:00:12.99,0:00:15.66,OS,,0000,0000,0000,,Payday!!
+Dialogue: 0,0:00:18.41,0:00:22.46,OS,,0000,0000,0000,,Seaside Camp
+Dialogue: 0,0:00:18.62,0:00:22.58,Italics,,0000,0000,0000,,For seaside camp at Hakuou Academy,
+Dialogue: 0,0:00:22.58,0:00:25.35,Italics,,0000,0000,0000,,they take a private jet.
+Dialogue: 0,0:00:35.22,0:00:38.64,Italics,,0000,0000,0000,,With her fear of flying, \NHinagiku does not participate.
+Dialogue: 0,0:00:38.64,0:00:42.62,Italics,,0000,0000,0000,,But you mustn't panic. \NDon't change the channel.
+Dialogue: 0,0:00:43.29,0:00:46.06,Italics,,0000,0000,0000,,A butler is one who serves.
+Dialogue: 0,0:00:46.51,0:00:49.61,Italics,,0000,0000,0000,,A butler is one who waits upon others.
+Dialogue: 0,0:00:49.61,0:00:52.95,Italics,,0000,0000,0000,,A butler is a formal guardian,
+Dialogue: 0,0:00:52.95,0:00:55.49,Italics,,0000,0000,0000,,who is there to support his \Nmistress in all aspects of her life.
+Dialogue: 0,0:00:56.49,0:00:57.64,Italics,,0000,0000,0000,,Yes!
+Dialogue: 0,0:00:57.64,0:01:01.87,Italics,,0000,0000,0000,,This is about a boy who fights \Nand puts his life on the line for a girl...
+Dialogue: 0,0:01:01.87,0:01:05.21,Italics,,0000,0000,0000,,A super combat battle story!
+Dialogue: 0,0:01:05.86,0:01:08.41,Default,,0000,0000,0000,,What's this? We're suddenly \Non a summer break episode?
+Dialogue: 0,0:01:08.41,0:01:09.56,Default,,0000,0000,0000,,It seems, due to rotation issues,
+Dialogue: 0,0:01:09.56,0:01:11.71,Default,,0000,0000,0000,,Episode 18 and 20 were \Nswapped at the last minute.
+Dialogue: 0,0:01:12.51,0:01:18.48,On Top,,0000,0000,0000,,{\an8}Daichi ni kaketa bokura no yukue
+Dialogue: 0,0:01:12.51,0:01:18.48,On Top,,0000,0000,0000,,Our destination that we've \Nstaked upon this earth
+Dialogue: 0,0:01:19.05,0:01:25.31,On Top,,0000,0000,0000,,{\an8}Tsuki-nukeru hayate no gotoku
+Dialogue: 0,0:01:19.05,0:01:25.31,On Top,,0000,0000,0000,,Like the sudden gale that cuts across
+Dialogue: 0,0:01:25.73,0:01:28.82,On Top,,0000,0000,0000,,{\an8}Unmei ni makete
+Dialogue: 0,0:01:25.73,0:01:28.82,On Top,,0000,0000,0000,,Giving in to fate
+Dialogue: 0,0:01:28.82,0:01:33.23,On Top,,0000,0000,0000,,{\an8}Shagami-komu nante tsumannai yo
+Dialogue: 0,0:01:28.82,0:01:33.23,On Top,,0000,0000,0000,,And hunkering down is no fun
+Dialogue: 0,0:01:33.23,0:01:37.49,On Top,,0000,0000,0000,,{\an8}Sore ja kakko warui yo!
+Dialogue: 0,0:01:33.23,0:01:37.49,On Top,,0000,0000,0000,,That's just not cool!
+Dialogue: 0,0:01:38.07,0:01:41.08,On Top,,0000,0000,0000,,{\an8}Uso kara deta makoto
+Dialogue: 0,0:01:38.07,0:01:41.08,On Top,,0000,0000,0000,,Many a true word is spoken in jest
+Dialogue: 0,0:01:41.58,0:01:46.96,On Top,,0000,0000,0000,,{\an8}Koukai wa kitto mi kara deta sabi
+Dialogue: 0,0:01:41.58,0:01:46.96,On Top,,0000,0000,0000,,Regret is probably reaping what you sowed
+Dialogue: 0,0:01:46.96,0:01:49.92,On Top,,0000,0000,0000,,{\an8}Zettai, nase ba naru!
+Dialogue: 0,0:01:46.96,0:01:49.92,On Top,,0000,0000,0000,,Where there's a will, \Nthere's definitely a way!
+Dialogue: 0,0:01:50.09,0:01:56.47,On Top,,0000,0000,0000,,{\an8}Ooki na hamon ni nomi-komareteku
+Dialogue: 0,0:01:50.09,0:01:56.47,On Top,,0000,0000,0000,,As a great rippling wave swallows us up
+Dialogue: 0,0:01:56.80,0:02:02.97,On Top,,0000,0000,0000,,{\an8}Karada nami ni makasereba
+Dialogue: 0,0:01:56.80,0:02:02.97,On Top,,0000,0000,0000,,Just let it take you
+Dialogue: 0,0:02:03.31,0:02:06.02,On Top,,0000,0000,0000,,{\an8}Kanchigai no yume
+Dialogue: 0,0:02:03.31,0:02:06.02,On Top,,0000,0000,0000,,Dreams that are misguided
+Dialogue: 0,0:02:06.18,0:02:09.27,On Top,,0000,0000,0000,,{\an8}Mato-hazure no kitai
+Dialogue: 0,0:02:06.18,0:02:09.27,On Top,,0000,0000,0000,,Hopes that are way off base
+Dialogue: 0,0:02:09.27,0:02:15.03,On Top,,0000,0000,0000,,{\an8}Tsuyoku omoeba itsuka tsukameru sa!
+Dialogue: 0,0:02:09.27,0:02:15.03,On Top,,0000,0000,0000,,You'll grab them someday, \Nif you just have conviction
+Dialogue: 0,0:02:15.78,0:02:21.91,On Top,,0000,0000,0000,,{\an8}Daichi keri-age hashiri-dasou
+Dialogue: 0,0:02:15.78,0:02:21.91,On Top,,0000,0000,0000,,Let's kick up the earth and start running
+Dialogue: 0,0:02:22.16,0:02:28.83,On Top,,0000,0000,0000,,{\an8}Kimama ni mau kaze no gotoku
+Dialogue: 0,0:02:22.16,0:02:28.83,On Top,,0000,0000,0000,,Like the capricious breeze that dances about
+Dialogue: 0,0:02:41.05,0:02:44.51,Default,,0000,0000,0000,,The Rare Cards Are Swimsuits
+Dialogue: 0,0:02:46.43,0:02:49.72,Italics,,0000,0000,0000,,The number of participants \Nis small for seaside camp.
+Dialogue: 0,0:02:49.72,0:02:53.47,Italics,,0000,0000,0000,,Well, now, that's because the fee \Nto participate is insanely expensive.
+Dialogue: 0,0:02:53.47,0:02:55.42,Italics,,0000,0000,0000,,It is not for the convenience \Nof anime production.
+Dialogue: 0,0:02:55.42,0:02:59.29,Italics,,0000,0000,0000,,And for Hayate, \Nthis is his first plane ride.
+Dialogue: 0,0:02:59.29,0:03:01.79,Italics,,0000,0000,0000,,But you know, he once rode \Nin a chopper, didn't he?
+Dialogue: 0,0:03:01.79,0:03:02.99,Italics,,0000,0000,0000,,Oh, well...
+Dialogue: 0,0:03:11.71,0:03:14.13,Default,,0000,0000,0000,,Thank you very much, Miss.
+Dialogue: 0,0:03:22.13,0:03:24.51,Default,,0000,0000,0000,,Wow, it's so pretty!
+Dialogue: 0,0:03:24.51,0:03:25.70,Default,,0000,0000,0000,,What is?
+Dialogue: 0,0:03:25.70,0:03:26.82,Default,,0000,0000,0000,,Kumo-umi (cloud sea)!
+Dialogue: 0,0:03:27.10,0:03:28.73,Default,,0000,0000,0000,,Oh-ho!
+Dialogue: 0,0:03:28.73,0:03:31.02,Default,,0000,0000,0000,,Katsy, why don't you come look \Nat the kumo-umi with us?
+Dialogue: 0,0:03:31.72,0:03:32.94,Default,,0000,0000,0000,,"Unkai".
+Dialogue: 0,0:03:32.94,0:03:34.40,Default,,0000,0000,0000,,Unkai?!
+Dialogue: 0,0:03:34.40,0:03:37.02,Default,,0000,0000,0000,,Written as "sea of clouds", \Nit's read as "unkai".
+Dialogue: 0,0:03:39.24,0:03:42.82,Default,,0000,0000,0000,,Once summer break's over, \NI'm putting it on the kanji test.
+Dialogue: 0,0:03:42.82,0:03:44.24,Default,,0000,0000,0000,,Crushed!
+Dialogue: 0,0:03:44.61,0:03:46.83,Default,,0000,0000,0000,,Unkai. Unkai. Unkai. Unkai. Unkai.
+Dialogue: 0,0:03:47.54,0:03:49.10,Default,,0000,0000,0000,,Little Master Taiga.
+Dialogue: 0,0:03:51.83,0:03:53.46,Default,,0000,0000,0000,,Little Master Taiga.
+Dialogue: 0,0:04:02.74,0:04:04.32,Default,,0000,0000,0000,,I am thirsty.
+Dialogue: 0,0:04:04.32,0:04:06.06,Default,,0000,0000,0000,,I-Is cola okay?
+Dialogue: 0,0:04:06.06,0:04:06.86,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:06.86,0:04:08.25,Default,,0000,0000,0000,,G-Got it.
+Dialogue: 0,0:04:10.05,0:04:11.56,Default,,0000,0000,0000,,H-Himuro...
+Dialogue: 0,0:04:15.90,0:04:17.82,Default,,0000,0000,0000,,It's cold and delicious.
+Dialogue: 0,0:04:23.20,0:04:24.11,Default,,0000,0000,0000,,Seconds, please.
+Dialogue: 0,0:04:24.11,0:04:25.48,Default,,0000,0000,0000,,Oh, sure.
+Dialogue: 0,0:04:29.54,0:04:31.70,Default,,0000,0000,0000,,Nonohara, could I sit down now?
+Dialogue: 0,0:04:31.70,0:04:34.92,Default,,0000,0000,0000,,Young Master, I told you, did I not?
+Dialogue: 0,0:04:35.57,0:04:36.58,Default,,0000,0000,0000,,You did.
+Dialogue: 0,0:04:36.58,0:04:37.41,Default,,0000,0000,0000,,And what did I say?
+Dialogue: 0,0:04:37.41,0:04:40.36,Default,,0000,0000,0000,,The best way to prevent \Nblood clots is to run.
+Dialogue: 0,0:04:40.36,0:04:41.26,Default,,0000,0000,0000,,One more time.
+Dialogue: 0,0:04:41.26,0:04:44.18,Default,,0000,0000,0000,,The best way to prevent \Nblood clots is to run!
+Dialogue: 0,0:04:44.72,0:04:47.14,Default,,0000,0000,0000,,Then run, damn you!
+Dialogue: 0,0:04:49.10,0:04:51.56,Default,,0000,0000,0000,,Nonohara, keep it down.
+Dialogue: 0,0:04:53.14,0:04:54.35,Default,,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:04:54.96,0:04:59.53,Default,,0000,0000,0000,,Miss, thank you for paying \Nthe fee for seaside camp...
+Dialogue: 0,0:04:59.69,0:05:03.99,OS,,0000,0000,0000,,Air Sickness Bag
+Dialogue: 0,0:05:01.25,0:05:03.08,Default,,0000,0000,0000,,Hayate, I think it'd be better
+Dialogue: 0,0:05:03.08,0:05:05.32,Default,,0000,0000,0000,,if you didn't try to thank me \Nfor paying while you're airsick.
+Dialogue: 0,0:05:06.61,0:05:07.82,Default,,0000,0000,0000,,Pardon me...
+Dialogue: 0,0:05:12.06,0:05:14.19,Italics,,0000,0000,0000,,A luxury resort island \Nwith white sand beaches,
+Dialogue: 0,0:05:14.19,0:05:17.02,Italics,,0000,0000,0000,,floating in the blue seas of the tropics.
+Dialogue: 0,0:05:17.02,0:05:18.67,Italics,,0000,0000,0000,,That is Hakuou Island.
+Dialogue: 0,0:05:18.67,0:05:22.40,Italics,,0000,0000,0000,,The Hakuou Academy's island used \Nexclusively for its seaside camp.
+Dialogue: 0,0:05:34.96,0:05:36.03,Default,,0000,0000,0000,,We're here!
+Dialogue: 0,0:05:34.96,0:05:37.04,On Top,,0000,0000,0000,,Make sure you follow me!
+Dialogue: 0,0:05:38.08,0:05:39.15,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:05:39.15,0:05:40.48,Default,,0000,0000,0000,,Come on, get on already.
+Dialogue: 0,0:05:40.48,0:05:41.53,Default,,0000,0000,0000,,Up we go.
+Dialogue: 0,0:05:41.53,0:05:43.77,Default,,0000,0000,0000,,And now, to your right, you will see...
+Dialogue: 0,0:05:47.01,0:05:50.09,Default,,0000,0000,0000,,I feel like we got some \Nirrelevant images in there...
+Dialogue: 0,0:05:50.09,0:05:52.94,Default,,0000,0000,0000,,The screen capture people certainly \Nwon't be able to let their guards down.
+Dialogue: 0,0:05:52.94,0:05:53.89,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:03.39,0:06:06.21,Default,,0000,0000,0000,,Welcome to Hakuou Island, \NHakuou Academy's island
+Dialogue: 0,0:06:06.21,0:06:07.97,Default,,0000,0000,0000,,used exclusively for its seaside camp.
+Dialogue: 0,0:06:08.29,0:06:09.64,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:06:09.64,0:06:11.44,Default,,0000,0000,0000,,Pardon me.
+Dialogue: 0,0:06:11.44,0:06:13.47,Default,,0000,0000,0000,,Installed here just this year,
+Dialogue: 0,0:06:13.47,0:06:17.10,Default,,0000,0000,0000,,I am Hakuou Island's in-house butler \Nand manager, Schmidt Offenbach.
+Dialogue: 0,0:06:17.66,0:06:19.56,Default,,0000,0000,0000,,Please call me Schmidt.
+Dialogue: 0,0:06:19.56,0:06:21.06,Default,,0000,0000,0000,,Oh, I didn't know.
+Dialogue: 0,0:06:21.50,0:06:25.45,Default,,0000,0000,0000,,Yes, and to make this \Na happy summer break memory,
+Dialogue: 0,0:06:25.45,0:06:27.90,Default,,0000,0000,0000,,I shall work hard to {\i1}create{\i0} for you.
+Dialogue: 0,0:06:27.90,0:06:30.04,Default,,0000,0000,0000,,Then we'll place ourselves in your hands.
+Dialogue: 0,0:06:30.04,0:06:31.57,Default,,0000,0000,0000,,We're in your hands!
+Dialogue: 0,0:06:31.96,0:06:34.70,Default,,0000,0000,0000,,Then let me show you \Nto your rooms right away.
+Dialogue: 0,0:06:34.79,0:06:35.99,OS,,0000,0000,0000,,The Avarice Room
+Dialogue: 0,0:06:38.21,0:06:39.42,OS,,0000,0000,0000,,The Simpleton Room
+Dialogue: 0,0:06:39.93,0:06:42.37,Default,,0000,0000,0000,,It looks like we're the only \Nones assigned 3 to a room.
+Dialogue: 0,0:06:42.37,0:06:44.64,Default,,0000,0000,0000,,Is that because we're underachievers?!
+Dialogue: 0,0:06:44.64,0:06:46.26,Default,,0000,0000,0000,,I doubt that, but...
+Dialogue: 0,0:06:46.26,0:06:47.38,OS,,0000,0000,0000,,Can't show you!
+Dialogue: 0,0:06:49.74,0:06:52.47,Default,,0000,0000,0000,,Say, Himuro, which bed do you want?
+Dialogue: 0,0:06:58.23,0:06:59.44,OS,,0000,0000,0000,,The Fortitude Room
+Dialogue: 0,0:06:59.44,0:07:02.19,Default,,0000,0000,0000,,Man, that was heavy!
+Dialogue: 0,0:07:03.41,0:07:04.83,Default,,0000,0000,0000,,Young Master.
+Dialogue: 0,0:07:04.83,0:07:08.28,Default,,0000,0000,0000,,Not heavy! Not heavy! Not heavy at all!
+Dialogue: 0,0:07:08.36,0:07:09.65,OS,,0000,0000,0000,,The Social Recluse Room
+Dialogue: 0,0:07:10.27,0:07:12.80,Default,,0000,0000,0000,,The main room is yours, Miss.
+Dialogue: 0,0:07:13.36,0:07:15.77,Default,,0000,0000,0000,,Klaus and I will be in the guest room.
+Dialogue: 0,0:07:15.77,0:07:17.62,Default,,0000,0000,0000,,Then, I will see you later.
+Dialogue: 0,0:07:19.29,0:07:21.38,Default,,0000,0000,0000,,I wouldn't have minded \Nbeing in the same room...
+Dialogue: 0,0:07:22.83,0:07:26.26,Default,,0000,0000,0000,,Everyone change into your swimwear! \NAssemble by the pool!
+Dialogue: 0,0:07:26.25,0:07:27.05,OS,,0000,0000,0000,,{\an8}SIGN: Taiga{names from right to left}
+Dialogue: 0,0:07:27.05,0:07:27.85,OS,,0000,0000,0000,,{\an8}SIGN: Nagi
+Dialogue: 0,0:07:27.85,0:07:28.65,OS,,0000,0000,0000,,{\an8}SIGN: Izumi
+Dialogue: 0,0:07:28.65,0:07:29.42,OS,,0000,0000,0000,,{\an8}SIGN: Risa
+Dialogue: 0,0:07:35.78,0:07:37.25,Default,,0000,0000,0000,,Before we go swim in the ocean,
+Dialogue: 0,0:07:37.25,0:07:39.61,Default,,0000,0000,0000,,we will practice swimming in this pool.
+Dialogue: 0,0:07:39.61,0:07:41.27,Default,,0000,0000,0000,,We'll start with some stretching!
+Dialogue: 0,0:08:03.08,0:08:05.28,Default,,0000,0000,0000,,Okay, then I think it's time \Nto get into the pool...
+Dialogue: 0,0:08:06.32,0:08:08.22,Default,,0000,0000,0000,,Thank you for waiting!
+Dialogue: 0,0:08:08.22,0:08:09.67,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:09.67,0:08:12.63,Default,,0000,0000,0000,,Schmidt, what the hell is that?!
+Dialogue: 0,0:08:12.63,0:08:16.05,Default,,0000,0000,0000,,A synchronized swimming puppeteer machine!
+Dialogue: 0,0:08:16.39,0:08:19.68,Default,,0000,0000,0000,,A synchronized swimming puppeteer machine?
+Dialogue: 0,0:08:19.96,0:08:21.33,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:08:23.69,0:08:25.38,Default,,0000,0000,0000,,Then I shall waste no time...
+Dialogue: 0,0:08:25.38,0:08:26.65,Default,,0000,0000,0000,,Push.
+Dialogue: 0,0:08:27.56,0:08:29.65,Default,,0000,0000,0000,,Zambot Moon Attack!
+Dialogue: 0,0:08:39.47,0:08:42.20,Default,,0000,0000,0000,,Hey, why is he in the foreground?!
+Dialogue: 0,0:08:43.16,0:08:46.17,Default,,0000,0000,0000,,Hey, you! What do you think \Nyou're doing to the Miss?!
+Dialogue: 0,0:08:49.36,0:08:53.31,Default,,0000,0000,0000,,Oh, no, this is one of the attractions \Nfor creating happy memories.
+Dialogue: 0,0:08:53.31,0:08:55.05,Default,,0000,0000,0000,,Please watch for a while.
+Dialogue: 0,0:08:55.05,0:08:56.26,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:56.26,0:08:57.51,Default,,0000,0000,0000,,Uh, okay...
+Dialogue: 0,0:08:57.94,0:08:59.88,Default,,0000,0000,0000,,Start the music!
+Dialogue: 0,0:09:00.38,0:09:04.23,On Top,,0000,0000,0000,,The neverending blue sky
+Dialogue: 0,0:09:06.01,0:09:13.03,On Top,,0000,0000,0000,,With a heart and mind fresh as can be
+Dialogue: 0,0:09:06.89,0:09:09.61,Default,,0000,0000,0000,,Schmidt! Stop this!
+Dialogue: 0,0:09:09.61,0:09:13.03,Default,,0000,0000,0000,,How is this going to make \Nfor happy memories?!
+Dialogue: 0,0:09:16.41,0:09:18.32,Default,,0000,0000,0000,,H-Himuro!
+Dialogue: 0,0:09:18.32,0:09:20.37,On Top,,0000,0000,0000,,Power of Flower
+Dialogue: 0,0:09:18.32,0:09:20.37,Default,,0000,0000,0000,,Don't worry about me!
+Dialogue: 0,0:09:20.37,0:09:24.39,On Top,,0000,0000,0000,,An indomitable spirit!
+Dialogue: 0,0:09:24.39,0:09:27.19,On Top,,0000,0000,0000,,Watch me from where you are!
+Dialogue: 0,0:09:25.14,0:09:28.03,Default,,0000,0000,0000,,Nonohara, h-help!
+Dialogue: 0,0:09:27.19,0:09:31.84,On Top,,0000,0000,0000,,Power of Flower
+Dialogue: 0,0:09:28.03,0:09:29.08,Default,,0000,0000,0000,,Young Master,
+Dialogue: 0,0:09:29.38,0:09:31.84,Default,,0000,0000,0000,,I do not recall raising you to be so weak!
+Dialogue: 0,0:09:31.84,0:09:33.42,Default,,0000,0000,0000,,Y-Yes, sir!
+Dialogue: 0,0:09:33.79,0:09:36.14,On Top,,0000,0000,0000,,Power of Flower
+Dialogue: 0,0:09:35.22,0:09:37.23,Default,,0000,0000,0000,,Miss, are you all right?!
+Dialogue: 0,0:09:36.14,0:09:40.76,On Top,,0000,0000,0000,,I may be small now
+Dialogue: 0,0:09:37.23,0:09:38.93,Default,,0000,0000,0000,,Yeah, I'm managing somehow.
+Dialogue: 0,0:09:39.21,0:09:41.58,Default,,0000,0000,0000,,But that butler named Schmidt...
+Dialogue: 0,0:09:40.76,0:09:45.79,On Top,,0000,0000,0000,,But I'll reach high and look at the future
+Dialogue: 0,0:09:41.58,0:09:45.31,Default,,0000,0000,0000,,He said he would have us make \Nhappy summer break memories,
+Dialogue: 0,0:09:45.31,0:09:46.94,Default,,0000,0000,0000,,but he's the one enjoying himself!
+Dialogue: 0,0:09:46.11,0:09:48.50,On Top,,0000,0000,0000,,Powerful Flower
+Dialogue: 0,0:09:46.94,0:09:49.41,Default,,0000,0000,0000,,Yes, I think so, too.
+Dialogue: 0,0:09:48.50,0:09:52.93,On Top,,0000,0000,0000,,And someday, even that bud
+Dialogue: 0,0:09:52.93,0:09:54.99,Default,,0000,0000,0000,,Wh-What are you doing?!
+Dialogue: 0,0:09:53.22,0:09:59.86,On Top,,0000,0000,0000,,Will bloom large right \Nin the middle of your heart
+Dialogue: 0,0:09:55.39,0:09:59.85,Default,,0000,0000,0000,,Please {\i1}create{\i0} happy summer break \Nmemories with your mistress.
+Dialogue: 0,0:09:59.85,0:10:02.58,Default,,0000,0000,0000,,And now, for the finale... Push.
+Dialogue: 0,0:10:00.22,0:10:05.94,On Top,,0000,0000,0000,,Power of Flower
+Dialogue: 0,0:10:15.97,0:10:19.86,Default,,0000,0000,0000,,Bravo! Bravo! Bravo! Bravo!
+Dialogue: 0,0:10:26.02,0:10:29.48,OS,,0000,0000,0000,,Hakuou
+Dialogue: 0,0:10:35.41,0:10:38.32,Default,,0000,0000,0000,,Were you able to make some happy memories?
+Dialogue: 0,0:10:41.73,0:10:45.05,Default,,0000,0000,0000,,Like hell we could've!
+Dialogue: 0,0:10:48.54,0:10:51.00,Default,,0000,0000,0000,,It is noon. That was the lunch bell.
+Dialogue: 0,0:10:53.16,0:10:56.35,Default,,0000,0000,0000,,A luxurious barbeque has been prepared \Nat the beachside restaurant.
+Dialogue: 0,0:10:56.35,0:10:57.88,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:10:57.88,0:11:00.82,Default,,0000,0000,0000,,Katsy, you can punch Schmidt after lunch.
+Dialogue: 0,0:11:00.82,0:11:01.80,Default,,0000,0000,0000,,True.
+Dialogue: 0,0:11:02.06,0:11:04.10,Default,,0000,0000,0000,,However, before that...
+Dialogue: 0,0:11:09.81,0:11:12.76,Default,,0000,0000,0000,,Having lunch in your school \Nswimwear would be unfortunate,
+Dialogue: 0,0:11:12.76,0:11:14.90,Default,,0000,0000,0000,,so I have prepared \Nfabulous swimwear for you!
+Dialogue: 0,0:11:18.06,0:11:19.16,Default,,0000,0000,0000,,I'm taking this!
+Dialogue: 0,0:11:19.16,0:11:20.41,Default,,0000,0000,0000,,I shall go with this one.
+Dialogue: 0,0:11:20.41,0:11:22.20,Default,,0000,0000,0000,,Hmm, then I'll pick this one.
+Dialogue: 0,0:11:22.76,0:11:26.58,Default,,0000,0000,0000,,However, I shall take the liberty \Nof {\i1}creating{\i0} the selections for you.
+Dialogue: 0,0:11:26.58,0:11:27.70,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:28.60,0:11:31.16,Default,,0000,0000,0000,,Please leave the changing to me as well.
+Dialogue: 0,0:11:31.16,0:11:32.54,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:32.92,0:11:34.67,Default,,0000,0000,0000,,This is not Lancelot!
+Dialogue: 0,0:11:43.84,0:11:46.41,Default,,0000,0000,0000,,As I thought, he's the one enjoying this.
+Dialogue: 0,0:11:46.41,0:11:48.21,Default,,0000,0000,0000,,He is enjoying himself far too much.
+Dialogue: 0,0:11:51.40,0:11:53.06,Default,,0000,0000,0000,,Is "daidai-iro (orange)" orange?\N({\u1}Da{\u0}idai-iro tte oren{\u1}ji{\u0}?)
+Dialogue: 0,0:11:55.31,0:11:57.11,Default,,0000,0000,0000,,Think about the answer yourself.\N({\u1}Ji{\u0}bun de kangaenasa{\u1}i{\u0})
+Dialogue: 0,0:11:59.58,0:12:02.10,Italics,,0000,0000,0000,,Izumi Segawa.
+Dialogue: 0,0:12:03.74,0:12:06.18,Italics,,0000,0000,0000,,Miki Hanabishi.
+Dialogue: 0,0:12:08.24,0:12:10.80,Italics,,0000,0000,0000,,Risa Asakaze.
+Dialogue: 0,0:12:12.91,0:12:15.42,Italics,,0000,0000,0000,,Yukiji Katsura.
+Dialogue: 0,0:12:17.84,0:12:20.74,Italics,,0000,0000,0000,,Miss Nagi Sanzenin.
+Dialogue: 0,0:12:22.83,0:12:26.73,Italics,,0000,0000,0000,,And Young Master Taiga Ohkouchi.
+Dialogue: 0,0:12:27.37,0:12:29.81,Default,,0000,0000,0000,,Hey, now, why are you finishing up with him?
+Dialogue: 0,0:12:29.81,0:12:32.89,Default,,0000,0000,0000,,No matter how you look at it, \Nyou're panning way too much!
+Dialogue: 0,0:12:32.89,0:12:35.79,Italics,,0000,0000,0000,,And so, here they are at lunch time.
+Dialogue: 0,0:12:36.90,0:12:38.48,Default,,0000,0000,0000,,This bikini...
+Dialogue: 0,0:12:38.48,0:12:40.85,Default,,0000,0000,0000,,Yes, this is eros.
+Dialogue: 0,0:12:41.56,0:12:44.09,Default,,0000,0000,0000,,Schmidt's sensibilities are a bit odd.
+Dialogue: 0,0:12:44.09,0:12:47.04,Default,,0000,0000,0000,,You think so? I rather like it.
+Dialogue: 0,0:12:48.78,0:12:50.36,Default,,0000,0000,0000,,Ladies and gentlemen,
+Dialogue: 0,0:12:50.36,0:12:53.61,Default,,0000,0000,0000,,in order to make your seaside \Ncamp lunch a happy memory,
+Dialogue: 0,0:12:53.61,0:12:56.25,Default,,0000,0000,0000,,I have taken the liberty \Nof preparing this for you.
+Dialogue: 0,0:12:56.25,0:12:57.29,Italics,,0000,0000,0000,,Create.
+Dialogue: 0,0:12:57.57,0:13:00.28,Default,,0000,0000,0000,,It looks like he might be up \Nto something again.
+Dialogue: 0,0:13:00.28,0:13:01.63,Default,,0000,0000,0000,,No, surely not...
+Dialogue: 0,0:13:02.97,0:13:04.63,Default,,0000,0000,0000,,Eating a live alligator!
+Dialogue: 0,0:13:06.13,0:13:09.22,Default,,0000,0000,0000,,Naturally, it is still alive. {\i1}Create.{\i0}
+Dialogue: 0,0:13:18.40,0:13:21.29,Italics,,0000,0000,0000,,Right around when hell was \Nbreaking loose on Hakuou Island,
+Dialogue: 0,0:13:21.29,0:13:22.69,Italics,,0000,0000,0000,,Isumi was...
+Dialogue: 0,0:13:22.69,0:13:26.78,Italics,,0000,0000,0000,,...trying to get to the seaside camp \Nand had gotten lost again.
+Dialogue: 0,0:13:33.85,0:13:35.25,Default,,0000,0000,0000,,Sniff, sniff.
+Dialogue: 0,0:13:35.25,0:13:36.41,Default,,0000,0000,0000,,Woof, woof.
+Dialogue: 0,0:13:36.71,0:13:41.11,Default,,0000,0000,0000,,Peter! Come over here! \NThere's someone buried here!
+Dialogue: 0,0:13:41.11,0:13:43.07,Default,,0000,0000,0000,,We have to let Uncle know!
+Dialogue: 0,0:13:43.07,0:13:44.97,Italics,,0000,0000,0000,,Meanwhile, Hinagiku was...
+Dialogue: 0,0:13:44.97,0:13:47.42,Italics,,0000,0000,0000,,...fully enjoying a day off in the city.
+Dialogue: 0,0:13:47.42,0:13:48.85,Italics,,0000,0000,0000,,Tres bien.
+Dialogue: 0,0:13:49.22,0:13:54.68,Default,,0000,0000,0000,,All right! Today, let's do \Na TurboGrafx challenge in Ikebukuro!
+Dialogue: 0,0:13:55.28,0:13:57.34,Default,,0000,0000,0000,,Oh, you there, miss!
+Dialogue: 0,0:13:57.34,0:13:59.15,Default,,0000,0000,0000,,Huh? Me?
+Dialogue: 0,0:13:59.15,0:14:00.94,OS,,0000,0000,0000,,Can't show you!
+Dialogue: 0,0:14:05.79,0:14:08.20,Default,,0000,0000,0000,,You're good at this, miss!
+Dialogue: 0,0:14:07.04,0:14:08.20,On Top,,0000,0000,0000,,Darn you little...!
+Dialogue: 0,0:14:08.20,0:14:12.48,Default,,0000,0000,0000,,Well, this is a highly \Ntechnologically advanced program.
+Dialogue: 0,0:14:12.48,0:14:14.91,Default,,0000,0000,0000,,It's pushing the limits of the hardware.
+Dialogue: 0,0:14:14.91,0:14:16.20,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:14:22.92,0:14:24.95,Italics,,0000,0000,0000,,After rampaging its heart out,
+Dialogue: 0,0:14:24.95,0:14:28.72,Italics,,0000,0000,0000,,Mr. Alligator went "see \Nyou later" back to nature.
+Dialogue: 0,0:14:28.72,0:14:31.90,Italics,,0000,0000,0000,,Hayate and the others \Nlearned how precious life is.
+Dialogue: 0,0:14:31.90,0:14:33.74,Italics,,0000,0000,0000,,Humans. Alligator. Coral. Seagulls.
+Dialogue: 0,0:14:33.74,0:14:38.51,Italics,,0000,0000,0000,,They are all invaluable members \Nand their fellows of Spaceship Earth.
+Dialogue: 0,0:14:38.51,0:14:40.85,Default,,0000,0000,0000,,I wish you well, Alligator!
+Dialogue: 0,0:14:40.85,0:14:43.93,Default,,0000,0000,0000,,Don't ever get caught by humans again!
+Dialogue: 0,0:14:43.93,0:14:48.65,Default,,0000,0000,0000,,Find a nice bride and raise \Na warm alligator family!
+Dialogue: 0,0:14:49.10,0:14:53.84,Default,,0000,0000,0000,,When the families meet, make \Nsure to do it at your bride's home!
+Dialogue: 0,0:14:50.68,0:14:53.30,On Top,,0000,0000,0000,,Yum! It was just so yum!
+Dialogue: 0,0:14:50.78,0:14:56.41,OS,,0000,0000,0000,,{\pos(424.741,73)}*This is in Tigerese.
+Dialogue: 0,0:14:53.30,0:14:54.54,On Top,,0000,0000,0000,,I can't eat any more!
+Dialogue: 0,0:14:54.54,0:14:56.41,On Top,,0000,0000,0000,,But I still want to have it again!
+Dialogue: 0,0:14:57.92,0:14:59.96,Italics,,0000,0000,0000,,After lunch, it's free time.
+Dialogue: 0,0:15:00.25,0:15:04.17,Italics,,0000,0000,0000,,Every conceivable kind of marine sport \Nwas being created for them.
+Dialogue: 0,0:15:06.06,0:15:09.92,Italics,,0000,0000,0000,,Izumi Segawa, Miki Hanabishi, \Nand Risa Asakaze
+Dialogue: 0,0:15:09.92,0:15:13.18,Italics,,0000,0000,0000,,encountered the brilliantly \Nblue sea on Hakuou Island.
+Dialogue: 0,0:15:17.72,0:15:19.52,Italics,,0000,0000,0000,,They encountered...
+Dialogue: 0,0:15:22.68,0:15:24.77,Italics,,0000,0000,0000,,Oh, they encountered...
+Dialogue: 0,0:15:28.73,0:15:30.43,Italics,,0000,0000,0000,,Oh, they so encountered...
+Dialogue: 0,0:15:32.33,0:15:33.39,Default,,0000,0000,0000,,Head!
+Dialogue: 0,0:15:35.58,0:15:39.04,On Top,,0000,0000,0000,,Hinagiku Katsura in "Delineating \Nthe Passionate World", coming up next!
+Dialogue: 0,0:15:37.83,0:15:39.04,OS,,0000,0000,0000,,{\pos(420.333,270)}Coming Up Next
+Dialogue: 0,0:15:46.97,0:15:49.56,Default,,0000,0000,0000,,Aren't you going to play around, Miss?
+Dialogue: 0,0:15:52.57,0:15:56.22,Default,,0000,0000,0000,,I enjoy spending time like this the best.
+Dialogue: 0,0:16:08.70,0:16:10.74,Default,,0000,0000,0000,,I have brought you a drink.
+Dialogue: 0,0:16:11.61,0:16:14.30,Default,,0000,0000,0000,,Thanks. {\i1}Create.{\i0}
+Dialogue: 0,0:16:15.67,0:16:17.50,Default,,0000,0000,0000,,Merci. {\i1}Create.{\i0}
+Dialogue: 0,0:16:18.83,0:16:22.27,Italics,,0000,0000,0000,,He's a good butler \Nwhen he's not up to anything...
+Dialogue: 0,0:16:34.28,0:16:35.78,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:39.77,0:16:41.73,Default,,0000,0000,0000,,Ooh! This is good stuff!
+Dialogue: 0,0:16:42.10,0:16:43.35,OS,,0000,0000,0000,,{\pos(482,30)}Tail Fin
+Dialogue: 0,0:16:42.10,0:16:43.35,OS,,0000,0000,0000,,{\pos(272,84)}Dark Meat
+Dialogue: 0,0:16:42.10,0:16:43.35,OS,,0000,0000,0000,,{\an8\pos(308,196)}You Are Here
+Dialogue: 0,0:16:42.10,0:16:43.35,OS,,0000,0000,0000,,{\pos(500,230)}Hyakujou (stomach)
+Dialogue: 0,0:16:42.10,0:16:43.35,OS,,0000,0000,0000,,{\pos(94,300)}Saezuri (tongue)
+Dialogue: 0,0:16:46.94,0:16:48.49,Default,,0000,0000,0000,,What do you think?
+Dialogue: 0,0:16:49.24,0:16:50.42,Default,,0000,0000,0000,,Of what?!
+Dialogue: 0,0:16:50.42,0:16:54.53,Default,,0000,0000,0000,,I will now have you enjoy \Na wonderful deep sea outing.
+Dialogue: 0,0:16:54.53,0:16:56.37,Default,,0000,0000,0000,,But we can't see anything.
+Dialogue: 0,0:16:56.91,0:16:58.08,Italics,,0000,0000,0000,,Create...
+Dialogue: 0,0:16:58.08,0:16:59.08,Default,,0000,0000,0000,,Don't try to gloss it over!
+Dialogue: 0,0:17:00.48,0:17:02.14,Default,,0000,0000,0000,,This must be Diana's doing.
+Dialogue: 0,0:17:02.14,0:17:03.41,Default,,0000,0000,0000,,Little Master?
+Dialogue: 0,0:17:11.54,0:17:12.91,Default,,0000,0000,0000,,Let's walk.
+Dialogue: 0,0:17:12.91,0:17:14.76,Default,,0000,0000,0000,,Yes, Miss.
+Dialogue: 0,0:17:15.05,0:17:18.34,Italics,,0000,0000,0000,,And thus, the time for supper came to pass.
+Dialogue: 0,0:17:18.94,0:17:21.39,Italics,,0000,0000,0000,,Meals at hotels are apparently luxurious,
+Dialogue: 0,0:17:21.39,0:17:24.43,Italics,,0000,0000,0000,,but that has nothing to do with her.
+Dialogue: 0,0:17:26.76,0:17:30.27,Default,,0000,0000,0000,,C-Camp... Ranchu goldfish...
+Dialogue: 0,0:17:30.27,0:17:32.07,Default,,0000,0000,0000,,F-First kiss?!
+Dialogue: 0,0:17:33.47,0:17:37.66,Italics,,0000,0000,0000,,Dinner at the Hakuou Academy's \Nseaside camp was a formal affair.
+Dialogue: 0,0:17:43.87,0:17:47.18,Default,,0000,0000,0000,,To the Hakuou Academy's seaside camp!
+Dialogue: 0,0:17:47.18,0:17:49.04,Italics,,0000,0000,0000,,Create!
+Dialogue: 0,0:17:55.21,0:17:57.85,Default,,0000,0000,0000,,Oh? You seem rather glum...
+Dialogue: 0,0:18:00.92,0:18:04.01,Default,,0000,0000,0000,,I don't want a seaside camp like this!
+Dialogue: 0,0:18:04.01,0:18:05.05,Default,,0000,0000,0000,,Me, neither.
+Dialogue: 0,0:18:05.05,0:18:06.90,Default,,0000,0000,0000,,I want to go home!
+Dialogue: 0,0:18:08.00,0:18:11.52,Italics,,0000,0000,0000,,We're sick of this seaside camp, too.
+Dialogue: 0,0:18:17.16,0:18:18.45,Default,,0000,0000,0000,,Idiot Trio...
+Dialogue: 0,0:18:18.45,0:18:19.70,Default,,0000,0000,0000,,Idiot Trio?!
+Dialogue: 0,0:18:20.05,0:18:21.85,Default,,0000,0000,0000,,Oh, sorry.
+Dialogue: 0,0:18:21.85,0:18:24.03,Default,,0000,0000,0000,,It's just like the three girls say.
+Dialogue: 0,0:18:24.03,0:18:27.41,Default,,0000,0000,0000,,Schmidt, we don't want to be \Nyour entertainment any longer!
+Dialogue: 0,0:18:27.70,0:18:29.51,Default,,0000,0000,0000,,Miss Katsura, with all due respect,
+Dialogue: 0,0:18:29.51,0:18:33.00,Default,,0000,0000,0000,,I am merely exerting myself so that \Nyou may {\i1}create{\i0} this seaside camp
+Dialogue: 0,0:18:33.00,0:18:36.01,Default,,0000,0000,0000,,to be a happy summer break memory.
+Dialogue: 0,0:18:36.27,0:18:38.66,Default,,0000,0000,0000,,And your exertions are a nuisance.
+Dialogue: 0,0:18:38.66,0:18:40.06,Default,,0000,0000,0000,,Master Himuro.
+Dialogue: 0,0:18:40.06,0:18:43.78,Default,,0000,0000,0000,,Schmidt, your meddlesome way isn't good \Nfor the Young Master's education.
+Dialogue: 0,0:18:43.78,0:18:45.27,Default,,0000,0000,0000,,You, too, Master Nonohara?
+Dialogue: 0,0:18:45.62,0:18:46.69,Default,,0000,0000,0000,,Miss...
+Dialogue: 0,0:18:47.08,0:18:49.81,Default,,0000,0000,0000,,If everyone wants to go home, I'll go, too.
+Dialogue: 0,0:18:50.40,0:18:52.20,Default,,0000,0000,0000,,Then, shall we go home?
+Dialogue: 0,0:18:52.20,0:18:55.36,Default,,0000,0000,0000,,Oh, put the leftovers in tupperwares, \Nokay? I'll be taking it with me.
+Dialogue: 0,0:18:55.36,0:18:57.23,Default,,0000,0000,0000,,Not so fast.
+Dialogue: 0,0:18:57.23,0:18:58.54,Default,,0000,0000,0000,,Schmidt.
+Dialogue: 0,0:18:59.61,0:19:01.28,Default,,0000,0000,0000,,Move aside.
+Dialogue: 0,0:19:03.62,0:19:06.05,Default,,0000,0000,0000,,When it comes to seaside camp \Nduring summer break,
+Dialogue: 0,0:19:06.05,0:19:07.56,Default,,0000,0000,0000,,you must have a test of courage at night!
+Dialogue: 0,0:19:08.08,0:19:11.26,Default,,0000,0000,0000,,In order for this to be a happy \Nsummer break memory for you all,
+Dialogue: 0,0:19:11.26,0:19:15.59,Default,,0000,0000,0000,,I have had these people assemble \Nfrom all over the world!
+Dialogue: 0,0:19:20.55,0:19:23.13,Default,,0000,0000,0000,,The fun is only beginning!
+Dialogue: 0,0:19:23.13,0:19:24.89,Default,,0000,0000,0000,,It's show time!
+Dialogue: 0,0:19:29.17,0:19:30.31,Default,,0000,0000,0000,,Miss!
+Dialogue: 0,0:19:33.56,0:19:34.96,Default,,0000,0000,0000,,Miss!
+Dialogue: 0,0:19:35.52,0:19:37.25,Default,,0000,0000,0000,,Miss!
+Dialogue: 0,0:19:37.69,0:19:39.26,Default,,0000,0000,0000,,Miss!
+Dialogue: 0,0:19:39.26,0:19:42.36,Italics,,0000,0000,0000,,Hayate fought valiantly to protect Nagi.
+Dialogue: 0,0:19:45.20,0:19:47.42,Default,,0000,0000,0000,,I-I'm counting on you, Nonohara!
+Dialogue: 0,0:19:47.81,0:19:48.74,Default,,0000,0000,0000,,Take that.
+Dialogue: 0,0:19:51.41,0:19:54.58,Italics,,0000,0000,0000,,Nonohara had Azumamiya fight.
+Dialogue: 0,0:19:57.96,0:20:00.72,Default,,0000,0000,0000,,Heave-ho! Heave-ho! Heave-ho!
+Dialogue: 0,0:20:00.72,0:20:02.84,Italics,,0000,0000,0000,,Taiga protected Himuro.
+Dialogue: 0,0:20:06.22,0:20:07.93,OS,,0000,0000,0000,,Freezing Killer Jet
+Dialogue: 0,0:20:08.01,0:20:10.68,Italics,,0000,0000,0000,,Klaus sprayed them with insecticide!
+Dialogue: 0,0:20:11.02,0:20:13.34,Default,,0000,0000,0000,,They often appear during the summer.
+Dialogue: 0,0:20:14.14,0:20:16.67,Italics,,0000,0000,0000,,Tama set up a mosquito coil!
+Dialogue: 0,0:20:19.37,0:20:21.65,Italics,,0000,0000,0000,,Create happy memories!
+Dialogue: 0,0:20:25.91,0:20:27.70,Default,,0000,0000,0000,,Like hell we could!
+Dialogue: 0,0:20:28.16,0:20:29.79,Default,,0000,0000,0000,,Everyone, we're going home!
+Dialogue: 0,0:20:32.28,0:20:33.95,Default,,0000,0000,0000,,Is everyone here?
+Dialogue: 0,0:20:33.95,0:20:35.46,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:20:35.46,0:20:39.49,Default,,0000,0000,0000,,But that sure was one \Nhell of a seaside camp.
+Dialogue: 0,0:20:39.49,0:20:41.97,Default,,0000,0000,0000,,That's Hakuou Academy for you...
+Dialogue: 0,0:20:43.80,0:20:48.59,Default,,0000,0000,0000,,Oh? Katsy, this plane \Nis flying over mountains.
+Dialogue: 0,0:20:48.59,0:20:49.56,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:49.56,0:20:52.31,Default,,0000,0000,0000,,We're not heading back \Nto the Hakuou Academy?!
+Dialogue: 0,0:20:53.69,0:20:56.48,Default,,0000,0000,0000,,Hey, where do you think you're going?
+Dialogue: 0,0:20:56.91,0:20:59.07,Default,,0000,0000,0000,,If you do not like the seaside camp,
+Dialogue: 0,0:20:59.07,0:21:01.57,Default,,0000,0000,0000,,I shall {\i1}create{\i0} a school camp in the woods.
+Dialogue: 0,0:21:02.41,0:21:03.66,Default,,0000,0000,0000,,Schmidt?!
+Dialogue: 0,0:21:03.95,0:21:07.21,Italics,,0000,0000,0000,,Who knows where the group is headed?
+Dialogue: 0,0:21:07.21,0:21:10.91,Italics,,0000,0000,0000,,Next time, they will fight \Nthe memories of a summer.
+Dialogue: 0,0:21:10.91,0:21:13.71,OS,,0000,0000,0000,,Maria's Room
+Dialogue: 0,0:21:14.68,0:21:16.70,Default,,0000,0000,0000,,Hello, I'm Maria.
+Dialogue: 0,0:21:16.70,0:21:19.88,Default,,0000,0000,0000,,Our guests today are Miss \NSakuya Aizawa's butlers,
+Dialogue: 0,0:21:19.88,0:21:22.25,Default,,0000,0000,0000,,Mr. Makita and Mr. Kunieda.
+Dialogue: 0,0:21:22.25,0:21:23.50,Default,,0000,0000,0000,,I'm Makita.
+Dialogue: 0,0:21:23.50,0:21:24.42,Default,,0000,0000,0000,,I'm Kunieda.
+Dialogue: 0,0:21:24.42,0:21:28.12,Default,,0000,0000,0000,,Neither of you have appeared \Nin the episodes recently,
+Dialogue: 0,0:21:28.12,0:21:30.39,Default,,0000,0000,0000,,but what kinds of things \Ndo you do on your days off?
+Dialogue: 0,0:21:30.39,0:21:33.36,Default,,0000,0000,0000,,I bought a guitar a short while ago, but...
+Dialogue: 0,0:21:33.36,0:21:35.40,Default,,0000,0000,0000,,E and stuff is fine, but F is just...!
+Dialogue: 0,0:21:35.40,0:21:36.76,Default,,0000,0000,0000,,Oh, I'm Makita.
+Dialogue: 0,0:21:36.76,0:21:38.43,Default,,0000,0000,0000,,Cleaning my room, I suppose...
+Dialogue: 0,0:21:38.43,0:21:41.16,Default,,0000,0000,0000,,Oh, but when I'm cleaning, \NI can't help but end up reading books.
+Dialogue: 0,0:21:41.16,0:21:42.36,Default,,0000,0000,0000,,Oh, I'm Kunieda.
+Dialogue: 0,0:21:42.76,0:21:45.26,Default,,0000,0000,0000,,Wow, I had no idea.
+Dialogue: 0,0:21:45.94,0:21:48.14,Default,,0000,0000,0000,,Thank you for joining me today.
+Dialogue: 0,0:21:48.58,0:21:50.67,On Top,,0000,0000,0000,,Well, then see you again next time.
+Dialogue: 0,0:21:50.41,0:21:51.87,OS,,0000,0000,0000,,{\pos(238,271)} Please look forward to next time.
+Dialogue: 0,0:21:55.91,0:22:00.79,On Top,,0000,0000,0000,,Naida kokoro no ho ni kaze ga fuki-nuketetta
+Dialogue: 0,0:21:55.91,0:22:00.79,On Top,,0000,0000,0000,,A breeze crossed the wilted sail of my heart
+Dialogue: 0,0:22:00.88,0:22:05.42,On Top,,0000,0000,0000,,Kimochi yureru soshite Lose My Way
+Dialogue: 0,0:22:00.88,0:22:05.42,On Top,,0000,0000,0000,,My feelings waver and then I lose my way
+Dialogue: 0,0:22:05.72,0:22:08.59,On Top,,0000,0000,0000,,Zutto kimi ga iru nara ii ka
+Dialogue: 0,0:22:05.72,0:22:08.59,On Top,,0000,0000,0000,,I guess if you'll always be here, it's okay
+Dialogue: 0,0:22:08.71,0:22:13.06,On Top,,0000,0000,0000,,Sore mo waruku wa nai So I Go Together
+Dialogue: 0,0:22:08.71,0:22:13.06,On Top,,0000,0000,0000,,That's not so bad, so I go together
+Dialogue: 0,0:22:14.18,0:22:16.43,On Top,,0000,0000,0000,,Tenki-yohou nante nai
+Dialogue: 0,0:22:14.18,0:22:16.43,On Top,,0000,0000,0000,,Weather forecasts don't exist
+Dialogue: 0,0:22:16.64,0:22:19.02,On Top,,0000,0000,0000,,Zenbu kibun-shidai
+Dialogue: 0,0:22:16.64,0:22:19.02,On Top,,0000,0000,0000,,It's all mood-dependent
+Dialogue: 0,0:22:19.23,0:22:21.65,On Top,,0000,0000,0000,,Nanimo shinpai nai
+Dialogue: 0,0:22:19.23,0:22:21.65,On Top,,0000,0000,0000,,There's nothing to worry about
+Dialogue: 0,0:22:21.86,0:22:24.40,On Top,,0000,0000,0000,,Makasete! Jiyuu-jizai
+Dialogue: 0,0:22:21.86,0:22:24.40,On Top,,0000,0000,0000,,Leave it to me! Perfectly free
+Dialogue: 0,0:22:24.65,0:22:26.74,On Top,,0000,0000,0000,,Keri-ageta kutsu ni
+Dialogue: 0,0:22:24.65,0:22:26.74,On Top,,0000,0000,0000,,On the shoe that I kick up
+Dialogue: 0,0:22:26.90,0:22:29.41,On Top,,0000,0000,0000,,"Put A Wish" Zettai hareru!
+Dialogue: 0,0:22:26.90,0:22:29.41,On Top,,0000,0000,0000,,"Put a Wish" it'll definitely clear up!
+Dialogue: 0,0:22:29.61,0:22:32.08,On Top,,0000,0000,0000,,Kekka wa... I'm Looking At Nothing...
+Dialogue: 0,0:22:29.61,0:22:32.08,On Top,,0000,0000,0000,,And the result is, I'm looking at nothing
+Dialogue: 0,0:22:32.12,0:22:34.74,On Top,,0000,0000,0000,,Mou ichido, yari-naoshi!
+Dialogue: 0,0:22:32.12,0:22:34.74,On Top,,0000,0000,0000,,One more time, a do-over!
+Dialogue: 0,0:22:34.74,0:22:38.92,On Top,,0000,0000,0000,,Tama ni wa kakete-miyou
+Dialogue: 0,0:22:34.74,0:22:38.92,On Top,,0000,0000,0000,,I'll try betting once in a while
+Dialogue: 0,0:22:39.25,0:22:42.59,On Top,,0000,0000,0000,,Nee kimi ni yudanete-mitai
+Dialogue: 0,0:22:39.25,0:22:42.59,On Top,,0000,0000,0000,,Hey, I want to try entrusting you with it
+Dialogue: 0,0:22:44.50,0:22:47.22,On Top,,0000,0000,0000,,Sassou to kake-nukete To Fly
+Dialogue: 0,0:22:44.50,0:22:47.22,On Top,,0000,0000,0000,,Running through gallantly, to fly
+Dialogue: 0,0:22:47.67,0:22:49.93,On Top,,0000,0000,0000,,Harema ga mieru The Sky
+Dialogue: 0,0:22:47.67,0:22:49.93,On Top,,0000,0000,0000,,I can see a break in the weather, the sky
+Dialogue: 0,0:22:50.13,0:22:51.89,On Top,,0000,0000,0000,,Shinjiteta yo
+Dialogue: 0,0:22:50.13,0:22:51.89,On Top,,0000,0000,0000,,I had faith
+Dialogue: 0,0:22:52.55,0:22:54.72,On Top,,0000,0000,0000,,Soshite Make My Way
+Dialogue: 0,0:22:52.55,0:22:54.72,On Top,,0000,0000,0000,,And then, I make my way
+Dialogue: 0,0:22:54.93,0:22:57.64,On Top,,0000,0000,0000,,Sotto sashi-dasu kimi no te de
+Dialogue: 0,0:22:54.93,0:22:57.64,On Top,,0000,0000,0000,,With the hand you quietly reach out
+Dialogue: 0,0:22:57.93,0:23:02.44,On Top,,0000,0000,0000,,Muteki ni nareru kara So I Go Together
+Dialogue: 0,0:22:57.93,0:23:02.44,On Top,,0000,0000,0000,,I can become invincible, so I go together
+Dialogue: 0,0:23:04.19,0:23:10.45,On Top,,0000,0000,0000,,Hoshi ga kirei da ashita mo hareru sa
+Dialogue: 0,0:23:04.19,0:23:10.45,On Top,,0000,0000,0000,,Stars so beautiful, \Nit'll be clear again tomorrow
+Dialogue: 0,0:23:26.42,0:23:27.13,Default,,0000,0000,0000,,This is Nagi...
+Dialogue: 0,0:23:27.13,0:23:27.88,Default,,0000,0000,0000,,...and Hayate's...
+Dialogue: 0,0:23:27.88,0:23:29.72,OS,,0000,0000,0000,,SIGN: Butler Report
+Dialogue: 0,0:23:27.89,0:23:29.72,Default,,0000,0000,0000,,...Butler Report!
+Dialogue: 0,0:23:30.01,0:23:31.69,Default,,0000,0000,0000,,Hello, hello, hello! I'm Nagi Sanzenin.
+Dialogue: 0,0:23:31.69,0:23:32.72,Default,,0000,0000,0000,,I am Hayate Ayasaki.
+Dialogue: 0,0:23:32.72,0:23:34.88,Default,,0000,0000,0000,,Oh? We're playing your song again?
+Dialogue: 0,0:23:34.88,0:23:36.35,Default,,0000,0000,0000,,On a certain jungle-like dot-com site,
+Dialogue: 0,0:23:36.35,0:23:38.66,Default,,0000,0000,0000,,I currently rank higher than Hinagiku,
+Dialogue: 0,0:23:38.66,0:23:40.38,Default,,0000,0000,0000,,but to be extra safe, \NI'm giving it one more push!
+Dialogue: 0,0:23:40.38,0:23:41.33,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:23:41.33,0:23:45.36,Default,,0000,0000,0000,,Now is the time to prove who's \Nthe heroine of "Hayate the Combat Butler"!
+Dialogue: 0,0:23:45.36,0:23:46.52,Default,,0000,0000,0000,,That's my Miss!
+Dialogue: 0,0:23:46.52,0:23:49.03,Default,,0000,0000,0000,,Your competitiveness \Nis growing ever more polished.
+Dialogue: 0,0:23:50.14,0:23:54.34,On Top,,0000,0000,0000,,Hayate, the word "defeat" does not \Nexist in Nagi Sanzenin's vocabulary!
+Dialogue: 0,0:23:54.74,0:23:55.79,Default,,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:23:56.37,0:23:59.37,Default,,0000,0000,0000,,{\pos(320,224)}Preview
+Dialogue: 0,0:23:57.32,0:24:00.09,On Top,,0000,0000,0000,,And now, next time on \N"Hayate the Combat Butler"...
+Dialogue: 0,0:23:59.37,0:24:19.39,OS,,0000,0000,0000,,{\an8\pos(174,307)}The next episode of \N"Hayate the Combat Butler" is...
+Dialogue: 0,0:24:00.09,0:24:02.30,On Top,,0000,0000,0000,,Saki's been acting strange lately.
+Dialogue: 0,0:24:02.30,0:24:04.30,On Top,,0000,0000,0000,,It seems she's got \Nsomething on her mind, but...
+Dialogue: 0,0:24:04.30,0:24:07.34,On Top,,0000,0000,0000,,Saki doesn't look it, but I guess her \Ncoming-of-age ceremony is next year.
+Dialogue: 0,0:24:07.34,0:24:10.24,On Top,,0000,0000,0000,,Incidentally, how was your \Ncoming-of-age ceremony, Maria?
+Dialogue: 0,0:24:10.24,0:24:12.99,On Top,,0000,0000,0000,,I'm a young and fresh \N17 years old, you know.
+Dialogue: 0,0:24:12.99,0:24:14.26,On Top,,0000,0000,0000,,Next time on "Hayate the Combat Butler",
+Dialogue: 0,0:24:14.26,0:24:17.14,On Top,,0000,0000,0000,,"Miss Saki's Little Preoccupation \N(National Edition) 2007".
+Dialogue: 0,0:24:17.14,0:24:20.48,On Top,,0000,0000,0000,,Come to think of it, \Nno one celebrated my birthday.
+Dialogue: 0,0:24:19.39,0:24:22.39,Default,,0000,0000,0000,,Miss Saki's Little \NPreoccupation (National Edition) 2007
+Dialogue: 0,0:24:20.48,0:24:22.39,On Top,,0000,0000,0000,,Well, not that it really matters.
+Dialogue: 0,0:24:22.39,0:24:25.05,On Top,,0000,0000,0000,,Join Hayate again next time to "Release!"

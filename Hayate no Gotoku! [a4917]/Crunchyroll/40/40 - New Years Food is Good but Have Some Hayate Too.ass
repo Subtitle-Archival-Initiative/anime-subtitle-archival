@@ -1,0 +1,527 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.29,0:00:06.16,Default,,0000,0000,0000,,When watching "Hayate the Combat Butler",
+Dialogue: 0,0:00:06.16,0:00:09.44,Default,,0000,0000,0000,,make sure you keep the room bright \Nand sit well away from the TV.
+Dialogue: 0,0:00:11.52,0:00:15.89,Default,,0000,0000,0000,,A Happy New Year to you!
+Dialogue: 0,0:00:15.89,0:00:18.41,Default,,0000,0000,0000,,For the first episode of the \Nyear, we will start with...
+Dialogue: 0,0:00:17.60,0:00:21.82,OS,,0000,0000,0000,,Hayate the Combat Butler!\NAnnual New Year Hidden Talent Contest
+Dialogue: 0,0:00:18.41,0:00:20.00,Default,,0000,0000,0000,,"Hayate the Combat Butler! Annual..."
+Dialogue: 0,0:00:20.00,0:00:21.14,Default,,0000,0000,0000,,Actually, "First"...
+Dialogue: 0,0:00:21.14,0:00:24.91,Default,,0000,0000,0000,,"New Year Hidden Talent Contest"!
+Dialogue: 0,0:00:25.28,0:00:27.95,Default,,0000,0000,0000,,Is it all right that the host isn't Machaaki?
+Dialogue: 0,0:00:27.95,0:00:31.26,Default,,0000,0000,0000,,Looks like we're reusing the set from \N"Burst of Laughter On-Air Battle".
+Dialogue: 0,0:00:31.26,0:00:32.84,Default,,0000,0000,0000,,And now, first up is...
+Dialogue: 0,0:00:32.84,0:00:35.61,Default,,0000,0000,0000,,Red Team, a live performance \Non various instruments
+Dialogue: 0,0:00:35.61,0:00:37.32,Default,,0000,0000,0000,,and leaping through a ring of fire!
+Dialogue: 0,0:00:39.07,0:00:40.72,Default,,0000,0000,0000,,Hot! Hot!
+Dialogue: 0,0:00:41.15,0:00:43.35,Default,,0000,0000,0000,,10 points! 10 points! 10 \Npoints! 10 points! 10 points!
+Dialogue: 0,0:00:43.35,0:00:44.61,Default,,0000,0000,0000,,Next up is the White Team!
+Dialogue: 0,0:00:44.61,0:00:46.98,Default,,0000,0000,0000,,Foreign language comedy routine and \Nleaping through a ring of fire!
+Dialogue: 0,0:00:47.54,0:00:51.51,On Top,,0000,0000,0000,,"Enough's enough!"
+Dialogue: 0,0:00:47.76,0:00:49.49,Default,,0000,0000,0000,,This is unreasonable! Impossible!
+Dialogue: 0,0:00:49.49,0:00:51.52,Default,,0000,0000,0000,,This is cruel! The logic is ill!
+Dialogue: 0,0:00:51.96,0:00:54.13,Default,,0000,0000,0000,,10 points! 10 points! 10 \Npoints! 10 points! 10 points!
+Dialogue: 0,0:00:53.55,0:00:56.19,On Top,,0000,0000,0000,,Head Judge
+Dialogue: 0,0:00:54.13,0:00:55.58,Default,,0000,0000,0000,,A word, please, Head Judge.
+Dialogue: 0,0:00:55.58,0:00:56.85,Default,,0000,0000,0000,,It's so idiotic.
+Dialogue: 0,0:00:56.85,0:01:00.40,Default,,0000,0000,0000,,Are there only stupid shows \Nlike this on during New Year's?
+Dialogue: 0,0:01:00.40,0:01:03.61,Default,,0000,0000,0000,,After all, they even say, "New Year's \Nfood is good, but have some curry, too."
+Dialogue: 0,0:01:03.61,0:01:06.21,Default,,0000,0000,0000,,Oh, as I recall, we have \Na new show starting today.
+Dialogue: 0,0:01:06.21,0:01:07.30,Default,,0000,0000,0000,,Indeed?
+Dialogue: 0,0:01:06.85,0:01:09.82,On Top,,0000,0000,0000,,Gale Force Squadron\NHayate the Combat Butler\NGiant
+Dialogue: 0,0:01:07.30,0:01:09.89,Default,,0000,0000,0000,,"Hayate the Combat Butler - Giant"!{please change hyphen into en-dash, use ALT+0150}
+Dialogue: 0,0:01:10.52,0:01:12.49,On Top,,0000,0000,0000,,Animation Produced by\NSynergy SP
+Dialogue: 0,0:01:12.33,0:01:15.10,Default,,0000,0000,0000,,"Giant"? Does that mean \Nyou're going to become big?
+Dialogue: 0,0:01:13.03,0:01:15.00,OS,,0000,0000,0000,,{\pos(316,66)}Special Skills
+Dialogue: 0,0:01:13.03,0:01:15.00,OS,,0000,0000,0000,,{\pos(309,140)}Photography: Eiichi Terada
+Dialogue: 0,0:01:13.03,0:01:15.00,OS,,0000,0000,0000,,{\pos(301,185)}Art: Toshiko Kaizu
+Dialogue: 0,0:01:13.03,0:01:15.00,OS,,0000,0000,0000,,{\pos(301,225)}Editing: Keiko Onodera
+Dialogue: 0,0:01:13.03,0:01:15.00,OS,,0000,0000,0000,,{\pos(306,273)}Color Coordinator: Kayo Ohno
+Dialogue: 0,0:01:15.10,0:01:17.07,Default,,0000,0000,0000,,That would be like that old show \Nthat tried to get more viewers
+Dialogue: 0,0:01:15.53,0:01:17.50,OS,,0000,0000,0000,,{\pos(331,42)}Director: Keiichiro Kawaguchi
+Dialogue: 0,0:01:15.53,0:01:17.50,OS,,0000,0000,0000,,{\pos(297,121)}Animation Director: Takashi Uchida
+Dialogue: 0,0:01:17.07,0:01:18.88,Default,,0000,0000,0000,,and pointlessly gigantified \Ntheir normal-sized hero...
+Dialogue: 0,0:01:18.03,0:01:18.75,OS,,0000,0000,0000,,{\pos(326,61)}Storyboards:\NEpisode Director: Shinichi Watanabe
+Dialogue: 0,0:01:18.88,0:01:19.60,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:01:19.60,0:01:20.51,Default,,0000,0000,0000,,It's Silver Mask!
+Dialogue: 0,0:01:20.51,0:01:22.42,Italics,,0000,0000,0000,,{\i1}Do you know, ladies and gentlemen?
+Dialogue: 0,0:01:22.42,0:01:27.25,Italics,,0000,0000,0000,,{\i1}That a humongous mansion like \Nthis exists somewhere in Tokyo?
+Dialogue: 0,0:01:27.25,0:01:30.23,Italics,,0000,0000,0000,,{\i1}The Miss's name is Nagi Sanzenin. And...
+Dialogue: 0,0:01:31.36,0:01:34.31,Italics,,0000,0000,0000,,{\i1}Her butler's name is Hayate Ayasaki.
+Dialogue: 0,0:01:34.31,0:01:36.18,Italics,,0000,0000,0000,,{\i1}They are both a bit clueless
+Dialogue: 0,0:01:36.18,0:01:38.70,Italics,,0000,0000,0000,,{\i1}and both have a bit of the \Nwrong idea about each other,
+Dialogue: 0,0:01:38.70,0:01:43.74,Italics,,0000,0000,0000,,{\i1}but they share the immensely strong, \Nloving bond between servant and mistress.
+Dialogue: 0,0:01:44.20,0:01:46.04,Default,,0000,0000,0000,,Happy New Year.
+Dialogue: 0,0:01:46.04,0:01:48.03,Default,,0000,0000,0000,,"Hayate the Combat Butler – \NGiant!" is about to begin.
+Dialogue: 0,0:01:48.03,0:01:48.92,Default,,0000,0000,0000,,Wrong!
+Dialogue: 0,0:01:49.08,0:01:51.75,On Top,,0000,0000,0000,,Zettai nante shinjinai!\N I don't believe in absolutes!
+Dialogue: 0,0:01:51.96,0:01:54.63,On Top,,0000,0000,0000,,Fukanou nante nai! \NNo such thing as impossible!
+Dialogue: 0,0:01:54.80,0:01:59.93,On Top,,0000,0000,0000,,Mirai wa hiraku te no naka ni aru\N The future is in the open palm of my hands
+Dialogue: 0,0:02:00.09,0:02:05.10,On Top,,0000,0000,0000,,Honne o misecha make datoka \NStuff like, showing your true feelings means defeat
+Dialogue: 0,0:02:05.43,0:02:10.23,On Top,,0000,0000,0000,,Dentaku hajiku jinsei datoka\N Or a life tapping away at a calculator
+Dialogue: 0,0:02:10.90,0:02:15.73,On Top,,0000,0000,0000,,Kokoro o itsuwaru kurai nara\N Rather than be false to myself like that
+Dialogue: 0,0:02:16.28,0:02:21.82,On Top,,0000,0000,0000,,Shichiten-battou baka-shoujiki mo kuuzen-zetsugo! \NI'll struggle to be uniquely naive and honest!
+Dialogue: 0,0:02:22.28,0:02:26.74,On Top,,0000,0000,0000,,Komatta kao o mireba ki-ni-naru shi\N If I see a troubled look, I'll be concerned
+Dialogue: 0,0:02:27.33,0:02:31.46,On Top,,0000,0000,0000,,Jinsei isogu riyuu mo betsuni nai shi \NAnd it's not like I've got a reason to hurry through life
+Dialogue: 0,0:02:32.58,0:02:37.34,On Top,,0000,0000,0000,,Takara no chizu wa kimi ni azukeyou \NI'll entrust you with the treasure map
+Dialogue: 0,0:02:38.21,0:02:43.51,On Top,,0000,0000,0000,,Juuou-mujin yori-michi datte tsukiau yo! \NI'll even keep you company on your free-ranging detours
+Dialogue: 0,0:02:44.01,0:02:46.60,On Top,,0000,0000,0000,,Rakkii-sugiru tenkai \NA development that's way too lucky
+Dialogue: 0,0:02:46.60,0:02:49.23,On Top,,0000,0000,0000,,Kotae wa mayowanai \NI won't hesitate to give my answer
+Dialogue: 0,0:02:49.39,0:02:54.40,On Top,,0000,0000,0000,,Kantan sa! Subete wa kimi no tame ni \NIt's easy! It's all for you
+Dialogue: 0,0:02:54.90,0:02:57.40,On Top,,0000,0000,0000,,Fuuhyou wa ki-ni-shinai \NI won't worry about the rumors
+Dialogue: 0,0:02:57.73,0:03:00.03,On Top,,0000,0000,0000,,Rettou-kan ni doujinai!\N I won't let a sense of inferiority get to me!
+Dialogue: 0,0:03:00.36,0:03:05.03,On Top,,0000,0000,0000,,Kakedasu shunkan wa ima koko ni aru \NThe moment to start running is right here, right now
+Dialogue: 0,0:03:18.82,0:03:22.22,Default,,0000,0000,0000,,New Year's Food is Good, \NBut Have Some Hayate, Too
+Dialogue: 0,0:03:22.42,0:03:24.34,Italics,,0000,0000,0000,,{\i1}On the night of New Year's Eve...
+Dialogue: 0,0:03:24.68,0:03:27.09,Default,,0000,0000,0000,,The year is about to come to a close.
+Dialogue: 0,0:03:27.09,0:03:28.74,Default,,0000,0000,0000,,How about going on the year's \Nfirst trip to a shrine?
+Dialogue: 0,0:03:28.74,0:03:29.94,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:29.94,0:03:33.27,Default,,0000,0000,0000,,Staying cooped up at home, steeped in \Nmanga, online games, and lame anime.
+Dialogue: 0,0:03:33.27,0:03:37.02,Default,,0000,0000,0000,,That is the proud, world-renowned way \Nthat Japan celebrates New Year's!
+Dialogue: 0,0:03:37.02,0:03:38.65,Default,,0000,0000,0000,,Well, you have a point, but...
+Dialogue: 0,0:03:42.00,0:03:43.67,Default,,0000,0000,0000,,You've regained your memory!
+Dialogue: 0,0:03:43.67,0:03:47.11,Default,,0000,0000,0000,,Oh, right. I got swallowed up \Nby the Bartra Space-Time Current
+Dialogue: 0,0:03:47.11,0:03:49.45,Default,,0000,0000,0000,,and got flung all the way to Kujukuri!
+Dialogue: 0,0:03:51.99,0:03:54.82,Default,,0000,0000,0000,,Look, Diomitis, it's the dawn of mankind.
+Dialogue: 0,0:03:54.82,0:03:57.11,Default,,0000,0000,0000,,Come to think of it, this is \Nthe year's first sunrise...
+Dialogue: 0,0:03:58.71,0:04:00.89,Italics,,0000,0000,0000,,{\i1}"To think the first sunrise I \Nsaw with my destined partner
+Dialogue: 0,0:04:00.89,0:04:02.63,Italics,,0000,0000,0000,,{\i1}"was the first sunrise of the year...
+Dialogue: 0,0:04:02.63,0:04:04.18,Italics,,0000,0000,0000,,{\i1}"Oh, how romantic!"
+Dialogue: 0,0:04:04.73,0:04:06.41,Default,,0000,0000,0000,,That's not bad.
+Dialogue: 0,0:04:07.39,0:04:12.55,Default,,0000,0000,0000,,{\an8}Songs change with the times and \Nthe times change the songs.
+Dialogue: 0,0:04:09.15,0:04:12.15,Default,,0000,0000,0000,,Man, I guess this year is almost over.
+Dialogue: 0,0:04:12.15,0:04:15.30,Default,,0000,0000,0000,,A lot sure has happened since \NI came to this residence.
+Dialogue: 0,0:04:15.30,0:04:19.66,Default,,0000,0000,0000,,Well, it's passed without mishap and \NI owe it all to the Miss taking me in.
+Dialogue: 0,0:04:19.66,0:04:21.07,Default,,0000,0000,0000,,I should be grateful.
+Dialogue: 0,0:04:21.33,0:04:24.07,Default,,0000,0000,0000,,Wow, I feel embarrassed when you \Nsay it so candidly like that.
+Dialogue: 0,0:04:24.07,0:04:25.52,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:25.52,0:04:28.83,Default,,0000,0000,0000,,Whoa! M-Miss?! Where did you come from?!
+Dialogue: 0,0:04:28.83,0:04:31.45,Default,,0000,0000,0000,,Or rather, what are you doing here?
+Dialogue: 0,0:04:31.45,0:04:33.83,Default,,0000,0000,0000,,Well, uh, it's nothing big, but...
+Dialogue: 0,0:04:33.85,0:04:39.28,On Top,,0000,0000,0000,,Blush
+Dialogue: 0,0:04:34.22,0:04:37.01,Default,,0000,0000,0000,,I was thinking I'd kind of like \Nto see the Asahi (sunrise)...
+Dialogue: 0,0:04:37.01,0:04:39.68,Default,,0000,0000,0000,,Huh? But I only have a copy \Nof the Tokyo Sports here...
+Dialogue: 0,0:04:39.68,0:04:42.71,Default,,0000,0000,0000,,The UFO stories on the front page \Npique my curiosity sometimes.
+Dialogue: 0,0:04:43.61,0:04:44.33,On Top,,0000,0000,0000,,WHAM
+Dialogue: 0,0:04:44.41,0:04:48.65,Default,,0000,0000,0000,,I see, I see. That's the head that \Ncomes up with these stupid jokes.
+Dialogue: 0,0:04:48.65,0:04:49.55,Default,,0000,0000,0000,,Pardon me...
+Dialogue: 0,0:04:49.55,0:04:51.52,Default,,0000,0000,0000,,Darn it, you just don't get it!
+Dialogue: 0,0:04:51.52,0:04:55.10,Default,,0000,0000,0000,,I'm saying I want to go see the first \Nsunrise on a pretty beach somewhere!
+Dialogue: 0,0:04:55.10,0:04:57.34,Default,,0000,0000,0000,,Just you and me!
+Dialogue: 0,0:04:57.34,0:04:59.27,Default,,0000,0000,0000,,Huh? What's the point in going to see that?
+Dialogue: 0,0:04:59.27,0:05:03.57,Default,,0000,0000,0000,,Shut up, you jerk! Quit \Ncomplaining and get ready!
+Dialogue: 0,0:05:02.05,0:05:03.57,Default,,0000,0000,0000,,{\an8}Yes, ma'am!
+Dialogue: 0,0:05:04.91,0:05:08.13,Default,,0000,0000,0000,,Um, could it be that we're bicycling there?
+Dialogue: 0,0:05:08.13,0:05:10.70,Default,,0000,0000,0000,,Yes! We're keeping this a secret \Nfrom Klaus and the others,
+Dialogue: 0,0:05:10.70,0:05:13.68,Default,,0000,0000,0000,,so we can't go by car or chopper, right?
+Dialogue: 0,0:05:15.12,0:05:17.89,Default,,0000,0000,0000,,Uh, you said we were going to the beach,
+Dialogue: 0,0:05:17.89,0:05:19.40,Default,,0000,0000,0000,,but where are we specifically going?
+Dialogue: 0,0:05:19.40,0:05:20.84,Default,,0000,0000,0000,,Kujukuri Beach!
+Dialogue: 0,0:05:21.02,0:05:26.75,OS,,0000,0000,0000,,{\frz319.815\pos(81,180)}Ocean
+Dialogue: 0,0:05:21.02,0:05:33.25,OS,,0000,0000,0000,,{\frz319.815\pos(227,231)}Kujukuri Beach
+Dialogue: 0,0:05:23.65,0:05:24.67,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:05:24.67,0:05:26.84,Default,,0000,0000,0000,,Um, even roughly speaking,
+Dialogue: 0,0:05:26.78,0:05:33.25,OS,,0000,0000,0000,,{\frz319.815\pos(152,121)}Nerima
+Dialogue: 0,0:05:26.84,0:05:30.01,Default,,0000,0000,0000,,it's at least 100km from this \Nmansion to Kujukuri Beach.
+Dialogue: 0,0:05:26.99,0:05:33.25,OS,,0000,0000,0000,,{\frz319.815\pos(90,192)}Roughly 100km
+Dialogue: 0,0:05:30.01,0:05:33.00,Default,,0000,0000,0000,,Wouldn't you be able to \Nmake it in about an hour?
+Dialogue: 0,0:05:33.00,0:05:34.31,Default,,0000,0000,0000,,A-An hour would be...
+Dialogue: 0,0:05:34.31,0:05:35.13,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:05:35.13,0:05:37.83,Default,,0000,0000,0000,,Well, we just have to get there by \Nsunrise, so we can take it slow.
+Dialogue: 0,0:05:37.83,0:05:39.96,Default,,0000,0000,0000,,W-Wouldn't it still be better \Nto take Maria and the others
+Dialogue: 0,0:05:39.96,0:05:41.39,Default,,0000,0000,0000,,and make the trip with everyone?
+Dialogue: 0,0:05:41.29,0:05:42.89,Default,,0000,0000,0000,,{\pos(433,195)}Hahahaha
+Dialogue: 0,0:05:41.39,0:05:43.44,Default,,0000,0000,0000,,Taking a car or a chopper?
+Dialogue: 0,0:05:43.44,0:05:46.19,Default,,0000,0000,0000,,I am saying that I want to go \Nwith you, just the two of us.
+Dialogue: 0,0:05:46.19,0:05:49.84,Default,,0000,0000,0000,,Or what? Do you have a problem \Nwith being alone with me?!
+Dialogue: 0,0:05:49.84,0:05:50.87,Default,,0000,0000,0000,,Goodness, no!
+Dialogue: 0,0:05:52.83,0:05:55.93,Italics,,0000,0000,0000,,{\i1}Riding tandem on bicycles \Nis against the traffic laws,
+Dialogue: 0,0:05:55.93,0:05:58.84,Italics,,0000,0000,0000,,{\i1}but most of Nerima Ward is the \NSanzenin family's private property,
+Dialogue: 0,0:05:58.84,0:06:00.35,Italics,,0000,0000,0000,,{\i1}so it's not a problem.
+Dialogue: 0,0:06:00.35,0:06:02.56,Default,,0000,0000,0000,,This anime certainly puts \Nconvenience above all else.
+Dialogue: 0,0:06:02.56,0:06:04.28,Italics,,0000,0000,0000,,{\i1}It's what's called "the adult circumstances".
+Dialogue: 0,0:06:04.28,0:06:07.96,Default,,0000,0000,0000,,But to think my parents foisted \Noff a debt of 150 million on me
+Dialogue: 0,0:06:07.96,0:06:12.28,Default,,0000,0000,0000,,and I almost got taken to an overseas \Nresort by "very generous people"...
+Dialogue: 0,0:06:12.28,0:06:13.64,Default,,0000,0000,0000,,It's hard to believe it really happened.
+Dialogue: 0,0:06:13.64,0:06:16.28,Default,,0000,0000,0000,,Because they really {\i1}are \N\{\i0}Nunbelievable situations.
+Dialogue: 0,0:06:16.28,0:06:17.93,Default,,0000,0000,0000,,Th-That's true.
+Dialogue: 0,0:06:17.93,0:06:20.40,Default,,0000,0000,0000,,But well, we were able to \Nmeet thanks to that, so...
+Dialogue: 0,0:06:20.69,0:06:22.37,Default,,0000,0000,0000,,Y-Yes...
+Dialogue: 0,0:06:22.89,0:06:25.05,Default,,0000,0000,0000,,B-By the way, Hayate,
+Dialogue: 0,0:06:25.05,0:06:28.32,Default,,0000,0000,0000,,d-does this bicycle have \Nheating or something?
+Dialogue: 0,0:06:28.32,0:06:29.47,Default,,0000,0000,0000,,Pardon?
+Dialogue: 0,0:06:29.47,0:06:31.44,Default,,0000,0000,0000,,My legs are starting to feel chilled...
+Dialogue: 0,0:06:31.44,0:06:32.95,Default,,0000,0000,0000,,Th-That's a bit...
+Dialogue: 0,0:06:33.29,0:06:35.20,Default,,0000,0000,0000,,It looks like your plan to \Nride tandem on a bicycle
+Dialogue: 0,0:06:35.20,0:06:38.42,Default,,0000,0000,0000,,in the middle of this winter night \Nto go all the way to the beach
+Dialogue: 0,0:06:38.42,0:06:39.79,Default,,0000,0000,0000,,was a bit problematic.
+Dialogue: 0,0:06:39.79,0:06:42.90,Default,,0000,0000,0000,,What?! It is {\i1}not{\i0} problematic!
+Dialogue: 0,0:06:42.90,0:06:44.99,Default,,0000,0000,0000,,If I had just instrumentalized my skirt more,
+Dialogue: 0,0:06:44.99,0:06:46.55,Default,,0000,0000,0000,,the plan would have been perfect.
+Dialogue: 0,0:06:47.96,0:06:51.32,Default,,0000,0000,0000,,Now, now, you're going to catch a cold.
+Dialogue: 0,0:06:51.32,0:06:52.76,Default,,0000,0000,0000,,We still have a long way to go,
+Dialogue: 0,0:06:52.76,0:06:55.41,Default,,0000,0000,0000,,so perhaps we should come up with \Na new instrumentality project.
+Dialogue: 0,0:06:55.41,0:06:56.31,Default,,0000,0000,0000,,True...
+Dialogue: 0,0:06:57.04,0:06:59.53,Italics,,0000,0000,0000,,{\i1}This is the legendary diamond-pearl card,
+Dialogue: 0,0:06:59.53,0:07:02.24,Italics,,0000,0000,0000,,{\i1}which is one step above the \Nblack card that has no limit.
+Dialogue: 0,0:07:02.24,0:07:04.36,Default,,0000,0000,0000,,Uh, but no matter how \Namazing the credit card is,
+Dialogue: 0,0:07:04.36,0:07:07.50,Default,,0000,0000,0000,,only convenience stores and Don Quixote \Ndiscount stores are open at this hour.
+Dialogue: 0,0:07:07.50,0:07:08.65,Default,,0000,0000,0000,,W-Welcome.
+Dialogue: 0,0:07:08.65,0:07:10.27,Default,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:07:10.27,0:07:12.57,Default,,0000,0000,0000,,No way! I mean, this is...
+Dialogue: 0,0:07:12.51,0:07:15.48,On Top,,0000,0000,0000,,Takatan Department Store
+Dialogue: 0,0:07:13.15,0:07:15.95,Default,,0000,0000,0000,,...a super prestigious high \Nclass department store!
+Dialogue: 0,0:07:15.95,0:07:18.29,Default,,0000,0000,0000,,It's not normally open at this hour!
+Dialogue: 0,0:07:18.59,0:07:19.90,Default,,0000,0000,0000,,Put it all on this card.
+Dialogue: 0,0:07:19.90,0:07:21.21,Default,,0000,0000,0000,,With pleasure!
+Dialogue: 0,0:07:21.23,0:07:33.96,On Top,,0000,0000,0000,,BAM
+Dialogue: 0,0:07:23.00,0:07:25.13,Default,,0000,0000,0000,,Miss, wh-what is this?
+Dialogue: 0,0:07:25.13,0:07:28.28,Default,,0000,0000,0000,,You sure are ignorant. Don't you \Nknow what a covered carriage is?
+Dialogue: 0,0:07:28.28,0:07:30.89,Default,,0000,0000,0000,,I mean, aren't these usually \Ndrawn by an ox or something?
+Dialogue: 0,0:07:30.89,0:07:32.81,Default,,0000,0000,0000,,They even hitched it up for free.
+Dialogue: 0,0:07:32.81,0:07:33.97,Default,,0000,0000,0000,,Ox?!
+Dialogue: 0,0:07:34.31,0:07:36.18,Default,,0000,0000,0000,,Nagi? Nagi?
+Dialogue: 0,0:07:36.64,0:07:38.64,Default,,0000,0000,0000,,Where could she have gone?
+Dialogue: 0,0:07:39.08,0:07:41.10,Default,,0000,0000,0000,,And Hayate isn't here, either.
+Dialogue: 0,0:07:41.10,0:07:42.27,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:07:42.27,0:07:45.02,Default,,0000,0000,0000,,There she goes again, reading manga \Nand leaving it lying around...
+Dialogue: 0,0:07:45.71,0:07:48.23,Default,,0000,0000,0000,,"The Romance of Kujukuri"...
+Dialogue: 0,0:07:48.74,0:07:49.86,Default,,0000,0000,0000,,Don't tell me...
+Dialogue: 0,0:07:49.86,0:07:51.56,Italics,,0000,0000,0000,,{\i1}"Shiwasu", the twelfth month...
+Dialogue: 0,0:07:51.56,0:07:54.11,Italics,,0000,0000,0000,,{\i1}It means that everyone is \Nbusy at the end of the year
+Dialogue: 0,0:07:54.11,0:07:55.91,Italics,,0000,0000,0000,,{\i1}and that even teachers are running around.
+Dialogue: 0,0:07:55.91,0:07:57.16,Italics,,0000,0000,0000,,{\i1}And...
+Dialogue: 0,0:07:58.97,0:08:02.53,On Top,,0000,0000,0000,,ZWINNNNNNGGGGG
+Dialogue: 0,0:07:59.34,0:08:01.91,Italics,,0000,0000,0000,,{\i1}...the butler-in-debt was also running.
+Dialogue: 0,0:08:03.50,0:08:06.17,Default,,0000,0000,0000,,Inertial drift!
+Dialogue: 0,0:08:06.17,0:08:08.63,Italics,,0000,0000,0000,,{\i1}For your information, this anime \Nis staying within the speed limit.
+Dialogue: 0,0:08:08.63,0:08:10.14,Default,,0000,0000,0000,,Ah! You're amazing, Hayate!
+Dialogue: 0,0:08:10.14,0:08:11.63,Default,,0000,0000,0000,,You are unsurpassed on the \NMetropolitan Expressway!
+Dialogue: 0,0:08:11.63,0:08:13.47,Default,,0000,0000,0000,,Yes! At this point...
+Dialogue: 0,0:08:13.47,0:08:18.06,Default,,0000,0000,0000,,...no one can catch up to me \Nwith my boosters at full power!
+Dialogue: 0,0:08:18.06,0:08:20.76,Default,,0000,0000,0000,,But is it all right for us to be bicycling \Non the Metropolitan Expressway?
+Dialogue: 0,0:08:20.76,0:08:24.41,Default,,0000,0000,0000,,Ah! I'm glad I bought up the \NMetropolitan Expressway.
+Dialogue: 0,0:08:24.41,0:08:25.93,Italics,,0000,0000,0000,,{\i1}Adult circumstances.
+Dialogue: 0,0:08:25.93,0:08:27.02,Default,,0000,0000,0000,,Yup, yup.
+Dialogue: 0,0:08:31.60,0:08:32.74,Italics,,0000,0000,0000,,{\i1}Passing signal?!
+Dialogue: 0,0:08:33.09,0:08:36.61,Default,,0000,0000,0000,,{\i1}At night on the Expressway, this \Nindicates that the race is on.
+Dialogue: 0,0:08:42.98,0:08:44.42,Default,,0000,0000,0000,,H-Hayate...
+Dialogue: 0,0:08:44.42,0:08:47.54,Default,,0000,0000,0000,,I know. The miracle is still to come!
+Dialogue: 0,0:08:47.90,0:08:49.42,Default,,0000,0000,0000,,What shall we do, Maicule?
+Dialogue: 0,0:08:49.42,0:08:52.63,Default,,0000,0000,0000,,Chitt, I have faith in you!
+Dialogue: 0,0:08:54.57,0:08:56.91,Default,,0000,0000,0000,,Not a soul...
+Dialogue: 0,0:08:57.42,0:09:00.35,Default,,0000,0000,0000,,...shall be permitted to run ahead of me!
+Dialogue: 0,0:09:00.37,0:09:01.59,On Top,,0000,0000,0000,,VROOOM
+Dialogue: 0,0:09:05.79,0:09:07.23,Default,,0000,0000,0000,,I can see time!
+Dialogue: 0,0:09:08.31,0:09:10.88,Default,,0000,0000,0000,,That's 600R, the high speed turn of death!
+Dialogue: 0,0:09:10.88,0:09:13.53,Default,,0000,0000,0000,,I'll make him disappear from my \Nrearview mirror with this turn!
+Dialogue: 0,0:09:13.53,0:09:15.57,Italics,,0000,0000,0000,,{\i1}Not that he has a rearview mirror.
+Dialogue: 0,0:09:15.57,0:09:21.03,Default,,0000,0000,0000,,The probability of going in at full \Nthrottle and clearing it is 27.8%.
+Dialogue: 0,0:09:21.03,0:09:23.10,Default,,0000,0000,0000,,Chitt, I have faith in...
+Dialogue: 0,0:09:23.10,0:09:24.66,Default,,0000,0000,0000,,Maicule, please don't spill.
+Dialogue: 0,0:09:26.86,0:09:28.01,Default,,0000,0000,0000,,Can I make it?
+Dialogue: 0,0:09:28.01,0:09:30.21,Default,,0000,0000,0000,,Secret technique, ditch hooking!
+Dialogue: 0,0:09:33.44,0:09:35.55,Default,,0000,0000,0000,,Maicule, what do you want to do?! Maicule?!
+Dialogue: 0,0:09:35.55,0:09:38.22,Default,,0000,0000,0000,,All right, Chitt! Fire the rocket boosters!
+Dialogue: 0,0:09:38.22,0:09:40.01,Default,,0000,0000,0000,,This is madness! Or rather, you're an idiot!
+Dialogue: 0,0:09:39.03,0:09:40.00,On Top,,0000,0000,0000,,Are you an idiot?!
+Dialogue: 0,0:09:41.53,0:09:46.30,On Top,,0000,0000,0000,,Knight Foundation
+Dialogue: 0,0:09:41.81,0:09:43.70,Default,,0000,0000,0000,,{\an8}Maicule?! Maicule?!
+Dialogue: 0,0:09:41.87,0:09:45.24,Default,,0000,0000,0000,,A single man will change the world!
+Dialogue: 0,0:09:43.70,0:09:45.84,Default,,0000,0000,0000,,{\an8}Maicule!
+Dialogue: 0,0:09:46.49,0:09:50.43,Default,,0000,0000,0000,,Youthful mistakes are so hard to admit to.
+Dialogue: 0,0:09:50.43,0:09:54.69,Italics,,0000,0000,0000,,{\i1}This anime is totally staying \Nwithin the speed limit.
+Dialogue: 0,0:09:58.71,0:10:02.90,Default,,0000,0000,0000,,Ah! It's pitch black, but we're at the beach!
+Dialogue: 0,0:10:02.90,0:10:05.01,Default,,0000,0000,0000,,It's the beach! It's the beach!
+Dialogue: 0,0:10:05.01,0:10:06.70,Default,,0000,0000,0000,,I've reached my limit...
+Dialogue: 0,0:10:06.70,0:10:10.84,Default,,0000,0000,0000,,It looks like we'll be able to watch \Nthe first sunrise together now.
+Dialogue: 0,0:10:10.84,0:10:13.63,Default,,0000,0000,0000,,It's the beach!
+Dialogue: 0,0:10:13.63,0:10:17.47,Default,,0000,0000,0000,,I-I'll go buy something \Nwarm for the time being.
+Dialogue: 0,0:10:17.47,0:10:19.70,Default,,0000,0000,0000,,Sure. I'll be waiting right here.
+Dialogue: 0,0:10:19.70,0:10:21.05,Default,,0000,0000,0000,,It's the beach!
+Dialogue: 0,0:10:21.58,0:10:25.72,Default,,0000,0000,0000,,Wait, now that I think about it, \NI don't have my wallet with me.
+Dialogue: 0,0:10:27.65,0:10:28.98,Default,,0000,0000,0000,,Here you are.
+Dialogue: 0,0:10:28.98,0:10:31.08,Default,,0000,0000,0000,,M-Maria!
+Dialogue: 0,0:10:31.08,0:10:33.08,Default,,0000,0000,0000,,Even for you,
+Dialogue: 0,0:10:33.08,0:10:36.78,Default,,0000,0000,0000,,going at such speeds with someone \Nriding in the back is dangerous.
+Dialogue: 0,0:10:37.08,0:10:41.25,Default,,0000,0000,0000,,P-Pardon me. I ended up going \Njust under the speed limit.
+Dialogue: 0,0:10:41.25,0:10:45.30,Default,,0000,0000,0000,,Well, we'll retrieve the bicycle and \Nthat ridiculous covered carriage,
+Dialogue: 0,0:10:45.30,0:10:49.75,Default,,0000,0000,0000,,so please use that money to \Nget yourselves back home.
+Dialogue: 0,0:10:49.75,0:10:54.04,Default,,0000,0000,0000,,Thank you so much for everything.
+Dialogue: 0,0:10:54.04,0:10:57.96,Default,,0000,0000,0000,,Not at all. I'm the one who \Nshould be thanking you.
+Dialogue: 0,0:10:58.45,0:11:02.39,Default,,0000,0000,0000,,You're doing wonderfully, \Nprotecting and guiding Nagi.
+Dialogue: 0,0:11:02.39,0:11:04.84,Default,,0000,0000,0000,,Though, that's not to say \Nthere aren't some problems...
+Dialogue: 0,0:11:04.84,0:11:06.90,Default,,0000,0000,0000,,No, I'm still far from such...
+Dialogue: 0,0:11:06.90,0:11:09.89,Default,,0000,0000,0000,,She seems happy since you came...
+Dialogue: 0,0:11:11.47,0:11:12.99,Default,,0000,0000,0000,,I also...
+Dialogue: 0,0:11:14.46,0:11:16.13,Default,,0000,0000,0000,,Oh, also...
+Dialogue: 0,0:11:16.13,0:11:19.99,Default,,0000,0000,0000,,Happy New Year, Hayate.
+Dialogue: 0,0:11:21.42,0:11:23.95,Default,,0000,0000,0000,,H-Happy New Year.
+Dialogue: 0,0:11:24.41,0:11:26.53,Default,,0000,0000,0000,,I look forward to another year with you.
+Dialogue: 0,0:11:26.53,0:11:28.00,Default,,0000,0000,0000,,Y-Yes, ma'am!
+Dialogue: 0,0:11:37.01,0:11:40.46,Default,,0000,0000,0000,,Miss! It's almost sunrise!
+Dialogue: 0,0:11:40.46,0:11:44.30,Default,,0000,0000,0000,,Here you are. Red bean soup. And Happy New...
+Dialogue: 0,0:11:49.41,0:11:53.40,Default,,0000,0000,0000,,...Year...
+Dialogue: 0,0:12:13.83,0:12:16.85,Default,,0000,0000,0000,,Happy New Year,
+Dialogue: 0,0:12:16.85,0:12:18.22,Default,,0000,0000,0000,,Miss.
+Dialogue: 0,0:12:21.56,0:12:23.72,Default,,0000,0000,0000,,Shall we play a game of karuta cards?\N({\u1}Ka{\u0}ruta-asobi demo shimashou {\u1}ka{\u0}?)
+Dialogue: 0,0:12:25.56,0:12:28.10,Default,,0000,0000,0000,,Karuta cards, huh? What a drag.\N({\u1}Ka{\u0}ruta ka? Katta{\u1}ru{\u0}.)
+Dialogue: 0,0:12:28.44,0:12:30.69,Italics,,0000,0000,0000,,{\i1}On the night of New Year's day...
+Dialogue: 0,0:12:31.44,0:12:33.67,Default,,0000,0000,0000,,Somewhere along the way, \Nwe got a lot of snow...
+Dialogue: 0,0:12:33.67,0:12:36.07,Default,,0000,0000,0000,,We got silvery landscape in no time at all!
+Dialogue: 0,0:12:36.07,0:12:39.07,Default,,0000,0000,0000,,Sakuya also called to say she would \Nbe coming for a New Year's visit.
+Dialogue: 0,0:12:39.07,0:12:41.35,Default,,0000,0000,0000,,What? Saku is coming?
+Dialogue: 0,0:12:41.35,0:12:43.84,Default,,0000,0000,0000,,Before we get to that, why are you \Nthe only one who's dressed up?
+Dialogue: 0,0:12:43.84,0:12:45.53,Default,,0000,0000,0000,,It's fine, isn't it?
+Dialogue: 0,0:12:45.53,0:12:47.91,Default,,0000,0000,0000,,We're not doing anything \Nelse New Year's-like anyway.
+Dialogue: 0,0:12:47.91,0:12:49.64,Default,,0000,0000,0000,,New Year's...
+Dialogue: 0,0:12:49.64,0:12:51.86,Default,,0000,0000,0000,,People are experiencing heavy \Nsnowfall all over the world...
+Dialogue: 0,0:12:51.86,0:12:53.06,Default,,0000,0000,0000,,Freakish weather...
+Dialogue: 0,0:12:53.06,0:12:56.35,Default,,0000,0000,0000,,We live in an era where we can't \Nremain complacent forever.
+Dialogue: 0,0:12:56.35,0:12:58.59,Default,,0000,0000,0000,,Mankind must rethink its \Nculture of mass consumption
+Dialogue: 0,0:12:58.59,0:13:00.35,Default,,0000,0000,0000,,in favor of the environment...
+Dialogue: 0,0:13:00.35,0:13:02.96,Default,,0000,0000,0000,,When you say that in a comfortably \Nheated room, playing a portable game,
+Dialogue: 0,0:13:02.96,0:13:04.68,Default,,0000,0000,0000,,you have zero credibility.
+Dialogue: 0,0:13:04.68,0:13:07.89,Default,,0000,0000,0000,,It's portable, so it's contributing \Nto the environmental cause...
+Dialogue: 0,0:13:07.89,0:13:09.78,Default,,0000,0000,0000,,Oh, dear! Is it a power outage?
+Dialogue: 0,0:13:09.78,0:13:12.80,Default,,0000,0000,0000,,Um, are you two all right?
+Dialogue: 0,0:13:12.80,0:13:16.62,Default,,0000,0000,0000,,Oh, Hayate. I'm fine, but Nagi is...
+Dialogue: 0,0:13:17.53,0:13:19.20,Default,,0000,0000,0000,,I-It got dark all of a sudden, so...
+Dialogue: 0,0:13:19.20,0:13:22.44,Default,,0000,0000,0000,,I see. The snow must have \Ntaken down some power lines.
+Dialogue: 0,0:13:22.44,0:13:25.40,Default,,0000,0000,0000,,Normally, the backup generator \Nshould kick in, but...
+Dialogue: 0,0:13:25.40,0:13:28.92,Default,,0000,0000,0000,,Maybe the breaker's tripped on the \Nbackup generator in the other building.
+Dialogue: 0,0:13:28.92,0:13:30.66,Default,,0000,0000,0000,,The breaker will need to be reset manually.
+Dialogue: 0,0:13:30.66,0:13:34.05,Default,,0000,0000,0000,,Then hurry up and do something \Nabout this breaker thing.
+Dialogue: 0,0:13:34.05,0:13:36.16,Default,,0000,0000,0000,,I'm going to die if it stays this dark.
+Dialogue: 0,0:13:37.18,0:13:38.29,Default,,0000,0000,0000,,Miss...
+Dialogue: 0,0:13:38.29,0:13:41.13,Default,,0000,0000,0000,,So, would you please do something about this
+Dialogue: 0,0:13:41.13,0:13:44.92,Default,,0000,0000,0000,,before the batteries run out on the \Ngame she's playing to distract herself?
+Dialogue: 0,0:13:44.92,0:13:46.01,Default,,0000,0000,0000,,Roger that!
+Dialogue: 0,0:13:47.08,0:13:49.70,Default,,0000,0000,0000,,The time left is approximately 3 hours.
+Dialogue: 0,0:13:49.70,0:13:52.39,Default,,0000,0000,0000,,My mission this time is to restore power.
+Dialogue: 0,0:13:52.39,0:13:53.90,Default,,0000,0000,0000,,The target location:
+Dialogue: 0,0:13:53.90,0:13:56.75,Default,,0000,0000,0000,,the generator station, approximately \N1km from the main house.
+Dialogue: 0,0:13:56.75,0:13:58.10,Default,,0000,0000,0000,,Whatever the case,
+Dialogue: 0,0:13:58.10,0:14:00.29,Default,,0000,0000,0000,,I haven't had such a butler-like job in ages!
+Dialogue: 0,0:14:00.29,0:14:01.48,Default,,0000,0000,0000,,I have to do my best!
+Dialogue: 0,0:14:01.48,0:14:04.25,Italics,,0000,0000,0000,,{\i1}Incidentally, there's a \Nblizzard raging outside.
+Dialogue: 0,0:14:01.50,0:14:05.27,On Top,,0000,0000,0000,,ROOOOAAAARRRR
+Dialogue: 0,0:14:04.25,0:14:05.63,Default,,0000,0000,0000,,Holy...
+Dialogue: 0,0:14:05.63,0:14:08.20,Default,,0000,0000,0000,,I-It's blustering worse than I'd thought...
+Dialogue: 0,0:14:08.20,0:14:10.68,Default,,0000,0000,0000,,Even though we're in Tokyo... in Nerima...
+Dialogue: 0,0:14:10.68,0:14:12.73,Default,,0000,0000,0000,,Could this be what they call \N"tsudere (snooty softy)"?
+Dialogue: 0,0:14:12.73,0:14:14.31,Default,,0000,0000,0000,,Earth sure is a "tsudere".
+Dialogue: 0,0:14:14.31,0:14:16.23,Italics,,0000,0000,0000,,{\i1}That would be what they call a "tundra".
+Dialogue: 0,0:14:16.23,0:14:18.07,Italics,,0000,0000,0000,,{\i1}Incidentally, a "tsudere" is...
+Dialogue: 0,0:14:18.07,0:14:21.08,Default,,0000,0000,0000,,W-Well, I guess I'll see how it goes anyway.
+Dialogue: 0,0:14:22.53,0:14:25.10,Default,,0000,0000,0000,,I am not going anywhere,
+Dialogue: 0,0:14:25.10,0:14:27.25,Default,,0000,0000,0000,,so please just don't pull that, all right?
+Dialogue: 0,0:14:27.25,0:14:29.30,Default,,0000,0000,0000,,Or it'll become an "Oh, dear!" situation.
+Dialogue: 0,0:14:29.30,0:14:31.88,Default,,0000,0000,0000,,Earlier, you said something \Nabout Saku coming?
+Dialogue: 0,0:14:31.88,0:14:33.75,Default,,0000,0000,0000,,Oh, come to think of it, she hasn't shown up.
+Dialogue: 0,0:14:33.75,0:14:37.17,Default,,0000,0000,0000,,It'd be funny if she got \Nstranded out there in the yard.
+Dialogue: 0,0:14:37.17,0:14:38.48,Default,,0000,0000,0000,,No, not funny. Not funny.
+Dialogue: 0,0:14:38.48,0:14:40.60,Default,,0000,0000,0000,,B-But...
+Dialogue: 0,0:14:40.60,0:14:44.04,Default,,0000,0000,0000,,...I feel like I might really get \Nstranded out in this blizzard!
+Dialogue: 0,0:14:44.04,0:14:47.43,Italics,,0000,0000,0000,,{\i1}But this is for the Miss, \Ncowering in the darkness.
+Dialogue: 0,0:14:47.43,0:14:49.65,Italics,,0000,0000,0000,,{\i1}I must restore the power at all costs!
+Dialogue: 0,0:14:49.65,0:14:51.74,Italics,,0000,0000,0000,,{\i1}I can't give up!
+Dialogue: 0,0:14:51.74,0:14:53.62,Italics,,0000,0000,0000,,{\i1}I can't allow myself to give up!
+Dialogue: 0,0:14:53.62,0:14:55.34,Italics,,0000,0000,0000,,{\i1}Snow like this...
+Dialogue: 0,0:14:55.34,0:14:59.50,Italics,,0000,0000,0000,,{\i1}Like hell this snow's going to get me down!
+Dialogue: 0,0:15:01.91,0:15:04.59,Default,,0000,0000,0000,,Wait, this is a snowmaking machine!
+Dialogue: 0,0:15:04.59,0:15:06.92,Default,,0000,0000,0000,,And what are you doing out here?!
+Dialogue: 0,0:15:07.36,0:15:08.34,Default,,0000,0000,0000,,Ah...
+Dialogue: 0,0:15:08.34,0:15:11.26,Default,,0000,0000,0000,,"Wait, this here's a snowmakin' machine!"
+Dialogue: 0,0:15:11.53,0:15:13.64,Default,,0000,0000,0000,,Nice! That was a nice jab.
+Dialogue: 0,0:15:13.64,0:15:18.94,Default,,0000,0000,0000,,Don't tell me you've been out here \Nin this fricking cold just for that?
+Dialogue: 0,0:15:18.94,0:15:21.06,Default,,0000,0000,0000,,Well, somethin' like that.
+Dialogue: 0,0:15:21.06,0:15:24.35,Default,,0000,0000,0000,,"Nice jab!" What point \Nis there in doing that?
+Dialogue: 0,0:15:24.35,0:15:25.88,Default,,0000,0000,0000,,He's good!
+Dialogue: 0,0:15:25.88,0:15:27.57,Default,,0000,0000,0000,,Where are your butlers?
+Dialogue: 0,0:15:27.57,0:15:31.10,Default,,0000,0000,0000,,Oh, when I drew power for \Nthis guy from the power line,
+Dialogue: 0,0:15:31.10,0:15:34.72,Default,,0000,0000,0000,,they said the lights went out in the \Nmain house, so they scurried off.
+Dialogue: 0,0:15:34.72,0:15:36.74,Default,,0000,0000,0000,,This guy is what caused the power outage?
+Dialogue: 0,0:15:37.83,0:15:39.33,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:15:39.86,0:15:43.51,Default,,0000,0000,0000,,At any rate, you'll catch a cold \Nif you say out here forever.
+Dialogue: 0,0:15:43.51,0:15:45.38,Default,,0000,0000,0000,,Please get inside the residence quickly.
+Dialogue: 0,0:15:46.76,0:15:49.31,Default,,0000,0000,0000,,Well, I'd love to,
+Dialogue: 0,0:15:49.31,0:15:51.27,Default,,0000,0000,0000,,but which way's the residence?
+Dialogue: 0,0:15:55.64,0:15:58.31,Default,,0000,0000,0000,,We might seriously die, huh?
+Dialogue: 0,0:15:57.78,0:15:59.25,On Top,,0000,0000,0000,,ROOOOAAAARRRR
+Dialogue: 0,0:15:59.47,0:16:02.02,Default,,0000,0000,0000,,At any rate, this is not \Nsome snow-covered mountain!
+Dialogue: 0,0:16:02.02,0:16:03.10,Default,,0000,0000,0000,,Things will work out!
+Dialogue: 0,0:16:03.10,0:16:05.27,Default,,0000,0000,0000,,Please come with me.
+Dialogue: 0,0:16:05.99,0:16:08.65,Default,,0000,0000,0000,,What's this? Yer more \Ndependable than I'd thought.
+Dialogue: 0,0:16:09.05,0:16:11.36,Italics,,0000,0000,0000,,{\i1}And an hour passed.
+Dialogue: 0,0:16:11.38,0:16:14.73,On Top,,0000,0000,0000,,ROOOAAARRR
+Dialogue: 0,0:16:12.00,0:16:15.19,Default,,0000,0000,0000,,Um, mind if I take back \Neverythin' I said earlier?
+Dialogue: 0,0:16:15.19,0:16:17.62,Default,,0000,0000,0000,,M-May I ask you to wait just a little longer?
+Dialogue: 0,0:16:18.62,0:16:20.23,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:20.23,0:16:22.79,Default,,0000,0000,0000,,A yeti?! It's a snowman!
+Dialogue: 0,0:16:22.79,0:16:24.01,Default,,0000,0000,0000,,This is perfect!
+Dialogue: 0,0:16:24.01,0:16:25.39,Default,,0000,0000,0000,,I'll go ask him for directions real quick.
+Dialogue: 0,0:16:25.39,0:16:27.86,Default,,0000,0000,0000,,A snowman may know the snowy roads well.
+Dialogue: 0,0:16:33.81,0:16:35.82,Default,,0000,0000,0000,,He was kind enough to tell me.
+Dialogue: 0,0:16:35.82,0:16:36.93,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:36.93,0:16:38.80,Default,,0000,0000,0000,,I take back what I said 'bout \Ntakin' what I said back.
+Dialogue: 0,0:16:38.80,0:16:39.97,Default,,0000,0000,0000,,He's done better than I thought.
+Dialogue: 0,0:16:39.78,0:16:41.71,On Top,,0000,0000,0000,,Generator Station
+Dialogue: 0,0:16:39.97,0:16:41.72,Italics,,0000,0000,0000,,{\i1}This be the generator station.
+Dialogue: 0,0:16:41.72,0:16:43.49,Default,,0000,0000,0000,,My coat's drenched.
+Dialogue: 0,0:16:43.49,0:16:47.67,Default,,0000,0000,0000,,I know. We've literally "gotten wet".
+Dialogue: 0,0:16:47.67,0:16:50.21,Default,,0000,0000,0000,,Oh, it's taken longer than I'd thought,
+Dialogue: 0,0:16:50.21,0:16:53.28,Default,,0000,0000,0000,,so I need to hurry up and reset the \Nbreaker and switch to the backup.
+Dialogue: 0,0:16:55.26,0:16:59.11,Default,,0000,0000,0000,,But man, this place is shielded from \Nthe wind, but it's still mega cold.
+Dialogue: 0,0:16:59.11,0:17:02.43,Default,,0000,0000,0000,,Oh, so it's an independent \Ngeothermal power generator.
+Dialogue: 0,0:17:02.43,0:17:05.04,Default,,0000,0000,0000,,It looks like there's a \Nhot spring here as well,
+Dialogue: 0,0:17:05.04,0:17:07.12,Default,,0000,0000,0000,,so perhaps it might be a \Ngood idea to take a dip.
+Dialogue: 0,0:17:07.75,0:17:10.15,Default,,0000,0000,0000,,A hot spring? I...
+Dialogue: 0,0:17:07.98,0:17:10.20,On Top,,0000,0000,0000,,Blush
+Dialogue: 0,0:17:10.15,0:17:13.23,Default,,0000,0000,0000,,Takin' a dip in a hot spring in a \Nplace like this, just the two of us...
+Dialogue: 0,0:17:13.23,0:17:15.09,Default,,0000,0000,0000,,It'd be too embarrassin'.
+Dialogue: 0,0:17:18.54,0:17:19.55,Default,,0000,0000,0000,,Why would that be?
+Dialogue: 0,0:17:20.08,0:17:26.88,On Top,,0000,0000,0000,,Guide Map
+Dialogue: 0,0:17:20.43,0:17:22.17,Default,,0000,0000,0000,,What was that for?
+Dialogue: 0,0:17:22.17,0:17:25.34,Default,,0000,0000,0000,,Shaddup, ya moron! That one \Nseriously ticked me off!
+Dialogue: 0,0:17:25.34,0:17:26.32,Default,,0000,0000,0000,,As I asked before, why?
+Dialogue: 0,0:17:26.32,0:17:27.56,Default,,0000,0000,0000,,Wanna go at it for another round?!
+Dialogue: 0,0:17:26.92,0:17:29.84,On Top,,0000,0000,0000,,Hot Spring\N"Zapping Bath"
+Dialogue: 0,0:17:27.56,0:17:29.21,Default,,0000,0000,0000,,Hey, c'mere for a sec!
+Dialogue: 0,0:17:34.64,0:17:37.15,Default,,0000,0000,0000,,As I said, what was that for?!
+Dialogue: 0,0:17:37.15,0:17:38.95,Default,,0000,0000,0000,,Shaddup!
+Dialogue: 0,0:17:39.76,0:17:41.12,Default,,0000,0000,0000,,P-Please stop!
+Dialogue: 0,0:17:41.12,0:17:42.65,Default,,0000,0000,0000,,Shut yer mouth!
+Dialogue: 0,0:17:45.82,0:17:48.01,Default,,0000,0000,0000,,How d'ya like that? Learn yer lesson yet?
+Dialogue: 0,0:17:48.01,0:17:50.33,Default,,0000,0000,0000,,I don't mean to keep repeating \Nmyself, but what is this about?
+Dialogue: 0,0:17:50.33,0:17:53.98,Default,,0000,0000,0000,,I might not look it, but I'm still \Nthe eldest girl 'round here,
+Dialogue: 0,0:17:53.98,0:17:56.01,Default,,0000,0000,0000,,so don't treat me too much like a kid.
+Dialogue: 0,0:17:56.01,0:17:59.43,Default,,0000,0000,0000,,Coming from someone who does things \Nlike this without hesitation...
+Dialogue: 0,0:17:59.43,0:18:01.43,Default,,0000,0000,0000,,What d'ya say?! I'll show ya!
+Dialogue: 0,0:18:01.43,0:18:02.68,Default,,0000,0000,0000,,I was kidding!
+Dialogue: 0,0:18:03.52,0:18:07.36,Default,,0000,0000,0000,,I'm not treating you like a kid.
+Dialogue: 0,0:18:07.36,0:18:08.35,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:10.42,0:18:12.23,Default,,0000,0000,0000,,Y-Ya aren't?
+Dialogue: 0,0:18:12.84,0:18:15.59,Italics,,0000,0000,0000,,{\i1}This situation's definitely not good...
+Dialogue: 0,0:18:21.01,0:18:23.45,Default,,0000,0000,0000,,I feel like I'm gettin' dizzy from the heat.
+Dialogue: 0,0:18:23.45,0:18:25.36,Default,,0000,0000,0000,,But what shall we do?
+Dialogue: 0,0:18:25.36,0:18:28.27,Default,,0000,0000,0000,,The breaker is located pretty far from here.
+Dialogue: 0,0:18:28.27,0:18:32.92,Default,,0000,0000,0000,,Drenched as I am, I might freeze \Nto death before I get there.
+Dialogue: 0,0:18:32.92,0:18:36.17,Default,,0000,0000,0000,,But I cannot leave the \NMiss waiting any longer!
+Dialogue: 0,0:18:36.17,0:18:39.59,Default,,0000,0000,0000,,Sorry. Want me to come with, too?
+Dialogue: 0,0:18:39.59,0:18:44.18,Default,,0000,0000,0000,,No, I think that might not \Nexactly be advisable...
+Dialogue: 0,0:18:44.80,0:18:48.24,Default,,0000,0000,0000,,I mean, you {\i1}are{\i0} technically a girl...
+Dialogue: 0,0:18:54.44,0:18:55.78,Default,,0000,0000,0000,,Well, I'll be going then.
+Dialogue: 0,0:18:58.92,0:19:02.32,Italics,,0000,0000,0000,,{\i1}Oh, is that the waterproof cell phone \Nthat Kimutaku's been advertising?
+Dialogue: 0,0:19:04.25,0:19:06.74,Default,,0000,0000,0000,,Oh, Makita? Is Kunieda there, too?
+Dialogue: 0,0:19:07.47,0:19:09.79,Italics,,0000,0000,0000,,{\i1}2 hours and 50 minutes \Nsince the mission started.
+Dialogue: 0,0:19:09.79,0:19:11.96,Italics,,0000,0000,0000,,{\i1}5 meters left to the breaker room!
+Dialogue: 0,0:19:11.96,0:19:16.97,Italics,,0000,0000,0000,,{\i1}However, the drenched butler-in-debt \Nwas on the brink of mortal peril.
+Dialogue: 0,0:19:19.93,0:19:21.09,Default,,0000,0000,0000,,This is bad...
+Dialogue: 0,0:19:21.09,0:19:23.56,Default,,0000,0000,0000,,I'm so cold, things are \Nstarting to look blurry.
+Dialogue: 0,0:19:23.56,0:19:26.15,Default,,0000,0000,0000,,Maybe going naked would've \Nbeen better after all.
+Dialogue: 0,0:19:26.15,0:19:28.68,Italics,,0000,0000,0000,,{\i1}But that would be sketchy \Nin terms of your appearance.
+Dialogue: 0,0:19:28.68,0:19:31.06,Default,,0000,0000,0000,,I-I'm going to die at this rate...
+Dialogue: 0,0:19:33.69,0:19:36.07,Default,,0000,0000,0000,,But... just a little longer...
+Dialogue: 0,0:19:36.07,0:19:38.61,Default,,0000,0000,0000,,I'm so close to restoring \Npower for the Miss...
+Dialogue: 0,0:19:41.24,0:19:44.78,Default,,0000,0000,0000,,But I'm just... Miss...
+Dialogue: 0,0:19:46.34,0:19:48.33,Default,,0000,0000,0000,,Oh, dear! The flame in the lamp...
+Dialogue: 0,0:19:48.33,0:19:49.21,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:49.21,0:19:50.97,Default,,0000,0000,0000,,Don't tell me Hayate's...
+Dialogue: 0,0:19:50.97,0:19:53.04,Default,,0000,0000,0000,,Could something have happened to Hayate?
+Dialogue: 0,0:19:53.78,0:19:56.29,Default,,0000,0000,0000,,My Galadriel is dead!
+Dialogue: 0,0:19:56.29,0:19:57.56,Default,,0000,0000,0000,,As I suspected, this must mean...
+Dialogue: 0,0:19:57.56,0:20:00.59,Default,,0000,0000,0000,,I believe that's simply because \Nyou weren't paying attention.
+Dialogue: 0,0:20:00.59,0:20:02.13,Default,,0000,0000,0000,,Oh, the lights!
+Dialogue: 0,0:20:02.13,0:20:04.34,Default,,0000,0000,0000,,Ah!
+Dialogue: 0,0:20:05.09,0:20:07.58,Default,,0000,0000,0000,,Which means Hayate is fine!
+Dialogue: 0,0:20:07.58,0:20:09.77,Italics,,0000,0000,0000,,{\i1}But Galadriel is dead.
+Dialogue: 0,0:20:15.43,0:20:18.00,Default,,0000,0000,0000,,I managed to reset the breakers somehow,
+Dialogue: 0,0:20:18.00,0:20:20.23,Default,,0000,0000,0000,,but I've got no strength left in me...
+Dialogue: 0,0:20:20.78,0:20:24.01,Default,,0000,0000,0000,,Oh, man. I'm so cold...
+Dialogue: 0,0:20:24.01,0:20:26.00,Default,,0000,0000,0000,,I can't take another step.
+Dialogue: 0,0:20:27.28,0:20:28.64,Default,,0000,0000,0000,,Miss..
+Dialogue: 0,0:20:29.29,0:20:30.64,Default,,0000,0000,0000,,Maria...
+Dialogue: 0,0:20:32.39,0:20:36.17,Default,,0000,0000,0000,,I was so... happy...
+Dialogue: 0,0:20:42.37,0:20:43.63,Default,,0000,0000,0000,,Hayate!
+Dialogue: 0,0:20:43.63,0:20:46.59,Default,,0000,0000,0000,,Ya can't give up! Get it together!
+Dialogue: 0,0:20:46.59,0:20:48.22,Default,,0000,0000,0000,,Sakuya...
+Dialogue: 0,0:20:49.93,0:20:51.82,Default,,0000,0000,0000,,I came to save ya.
+Dialogue: 0,0:20:51.82,0:20:53.27,Default,,0000,0000,0000,,You'll be fine now.
+Dialogue: 0,0:20:53.27,0:20:55.41,Default,,0000,0000,0000,,Look at how cold ya are!
+Dialogue: 0,0:20:56.50,0:21:00.35,Default,,0000,0000,0000,,Your hands are incredibly warm...
+Dialogue: 0,0:21:04.39,0:21:06.19,Default,,0000,0000,0000,,Ya hung in there real good.
+Dialogue: 0,0:21:06.19,0:21:08.03,Default,,0000,0000,0000,,I had the wrong idea 'bout ya.
+Dialogue: 0,0:21:08.47,0:21:11.17,Default,,0000,0000,0000,,Yer quite the go-getter, aren't ya?
+Dialogue: 0,0:21:11.17,0:21:12.95,Default,,0000,0000,0000,,Yes, but...
+Dialogue: 0,0:21:13.48,0:21:18.13,Default,,0000,0000,0000,,With it being winter and all, I'm \N"sleet" and tired of the cold...
+Dialogue: 0,0:21:18.13,0:21:19.29,Default,,0000,0000,0000,,Or something like that.
+Dialogue: 0,0:21:27.32,0:21:27.75,On Top,,0000,0000,0000,,Generator Station
+Dialogue: 0,0:21:28.22,0:21:31.54,Default,,0000,0000,0000,,Makita! Kunieda! We're \Nleavin' that moron here!
+Dialogue: 0,0:21:31.54,0:21:32.18,Default,,0000,0000,0000,,Roger that.
+Dialogue: 0,0:21:32.18,0:21:33.52,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:33.52,0:21:36.44,Default,,0000,0000,0000,,W-Wait! Sakuya!
+Dialogue: 0,0:21:37.16,0:21:38.97,Default,,0000,0000,0000,,Oh, the lamp...
+Dialogue: 0,0:21:38.97,0:21:41.86,Default,,0000,0000,0000,,Galadriel is still totally dead.
+Dialogue: 0,0:21:41.86,0:21:45.24,Default,,0000,0000,0000,,But I wonder if Hayate really is all right.
+Dialogue: 0,0:21:45.24,0:21:48.09,Italics,,0000,0000,0000,,{\i1}And thus, New Year's Day came to an end.
+Dialogue: 0,0:21:48.09,0:21:50.87,Italics,,0000,0000,0000,,{\i1}Next time, they will fight \Nagainst a sudden farewell.
+Dialogue: 0,0:21:58.17,0:22:06.34,On Top,,0000,0000,0000,,Aisaretai fureraretetai\NI want to be loved, to feel that touch
+Dialogue: 0,0:22:07.05,0:22:11.30,On Top,,0000,0000,0000,,Motomeru bakari no kimochi wa\NThe sense of continually seeking
+Dialogue: 0,0:22:11.30,0:22:15.10,On Top,,0000,0000,0000,,Hibi o kumoraseteta\NUsed to darken my days
+Dialogue: 0,0:22:16.81,0:22:22.69,On Top,,0000,0000,0000,,Kimi ni deau sono hi made wa\NUntil the day I met you
+Dialogue: 0,0:22:25.69,0:22:32.45,On Top,,0000,0000,0000,,Namae yonde sora ni hibiku-youni\NCall my name so it echoes to the skies
+Dialogue: 0,0:22:34.62,0:22:42.33,On Top,,0000,0000,0000,,Mayoi-michi mo kitto futari nara\NEven lost, with the two of us, surely...
+Dialogue: 0,0:22:42.67,0:22:47.92,On Top,,0000,0000,0000,,Tsunaida te to te hanasanai\NI won't let go of your hand
+Dialogue: 0,0:22:48.42,0:22:50.76,On Top,,0000,0000,0000,,Mamoritainda\NI want to protect you
+Dialogue: 0,0:22:52.64,0:22:56.89,On Top,,0000,0000,0000,,Saa ikou bokura wa\NCome on, let's go, we'll...
+Dialogue: 0,0:22:57.06,0:23:08.90,On Top,,0000,0000,0000,,Ima o mitsumete aruki-hajimeru\N...look at the present and start walking
+Dialogue: 0,0:23:26.04,0:23:26.90,Default,,0000,0000,0000,,Nagi and...
+Dialogue: 0,0:23:26.90,0:23:27.86,Default,,0000,0000,0000,,Hayate's...
+Dialogue: 0,0:23:27.86,0:23:29.75,Default,,0000,0000,0000,,Butler Report!
+Dialogue: 0,0:23:29.75,0:23:31.81,Default,,0000,0000,0000,,Power Come Forth! I'm Nagi Sanzenin.
+Dialogue: 0,0:23:31.81,0:23:33.05,Default,,0000,0000,0000,,I'm Hayate Ayasaki.
+Dialogue: 0,0:23:33.05,0:23:37.32,Default,,0000,0000,0000,,Lots of new developments this time around!\N The arrival of new enemies have certainly made things intense.
+Dialogue: 0,0:23:37.32,0:23:39.94,Default,,0000,0000,0000,,There's going to be a mysterious \Nnew rival showing up next time.
+Dialogue: 0,0:23:39.94,0:23:43.64,Default,,0000,0000,0000,,The plan is for them to be good guys by the \Nfinal episode and help fight the great evil!
+Dialogue: 0,0:23:43.64,0:23:45.75,Default,,0000,0000,0000,,Miss, did you actually watch this episode?
+Dialogue: 0,0:23:45.75,0:23:47.55,Default,,0000,0000,0000,,It was nothing like that!
+Dialogue: 0,0:23:47.55,0:23:48.61,Default,,0000,0000,0000,,Oh, it wasn't?
+Dialogue: 0,0:23:48.61,0:23:52.55,Default,,0000,0000,0000,,The new cour is supposed to be full of \Nstories that fans of the manga will be happy to see!
+Dialogue: 0,0:23:52.55,0:23:54.03,Default,,0000,0000,0000,,I'm not sure how much I believe that.
+Dialogue: 0,0:23:54.03,0:23:55.12,Default,,0000,0000,0000,,Seeya!
+Dialogue: 0,0:23:55.93,0:23:58.90,OS,,0000,0000,0000,,{\pos(320,224)}Preview
+Dialogue: 0,0:23:58.91,0:24:00.03,On Top,,0000,0000,0000,,Good morning!
+Dialogue: 0,0:23:58.93,0:24:18.92,OS,,0000,0000,0000,,{\an8\pos(174,307)}The next episode of \N"Hayate the Combat Butler" is...
+Dialogue: 0,0:24:00.03,0:24:02.34,On Top,,0000,0000,0000,,Hey, now, if you get too absorbed \Nin your chat you're gonna be late!
+Dialogue: 0,0:24:02.34,0:24:05.21,On Top,,0000,0000,0000,,S-something is different about Ms. Katsura!
+Dialogue: 0,0:24:05.21,0:24:06.93,On Top,,0000,0000,0000,,Something about her is radiant...
+Dialogue: 0,0:24:06.93,0:24:10.00,On Top,,0000,0000,0000,,Life is tender, and full \Nof sudden goodbyes, y'know?
+Dialogue: 0,0:24:10.00,0:24:11.32,On Top,,0000,0000,0000,,You're being so stupid!
+Dialogue: 0,0:24:11.32,0:24:14.61,On Top,,0000,0000,0000,,I don't care what happens to you! \NGo die in a ditch, somewhere!
+Dialogue: 0,0:24:14.61,0:24:17.91,On Top,,0000,0000,0000,,Next time, "Despairing Goodbye to the Teacher \N~A Graduation Special"
+Dialogue: 0,0:24:17.91,0:24:21.07,On Top,,0000,0000,0000,,Be ready to Jack On with Hayate \Nthe Combat Butler next time!
+Dialogue: 0,0:24:21.07,0:24:23.07,Default,,0000,0000,0000,,

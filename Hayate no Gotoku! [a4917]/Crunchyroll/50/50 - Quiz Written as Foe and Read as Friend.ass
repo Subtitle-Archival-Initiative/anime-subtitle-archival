@@ -1,0 +1,595 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.30,0:00:06.02,Default,,0000,0000,0000,,When watching "Hayate the Combat Butler",
+Dialogue: 0,0:00:06.02,0:00:09.53,Default,,0000,0000,0000,,make sure you keep the room bright \Nand sit well away from the TV.
+Dialogue: 0,0:00:09.97,0:00:12.03,Default,,0000,0000,0000,,Good morning, Miss!
+Dialogue: 0,0:00:12.29,0:00:13.99,Default,,0000,0000,0000,,Come now.
+Dialogue: 0,0:00:13.99,0:00:15.21,Default,,0000,0000,0000,,Please get up!
+Dialogue: 0,0:00:18.16,0:00:20.94,Default,,0000,0000,0000,,What the heck? It's still \Nlate night 32:00 o'clock.
+Dialogue: 0,0:00:20.94,0:00:23.14,Default,,0000,0000,0000,,Let me sleep a little more.
+Dialogue: 0,0:00:23.14,0:00:25.15,Default,,0000,0000,0000,,Please do not say that.
+Dialogue: 0,0:00:25.15,0:00:28.68,Default,,0000,0000,0000,,It is a pleasantly warm day outside today.
+Dialogue: 0,0:00:30.24,0:00:32.97,Default,,0000,0000,0000,,Why not go out for once?
+Dialogue: 0,0:00:34.93,0:00:37.12,Default,,0000,0000,0000,,I will pack us a lunch.
+Dialogue: 0,0:00:37.12,0:00:40.01,Default,,0000,0000,0000,,Mr. Rice Ball. Mr. Rice Ball.
+Dialogue: 0,0:00:39.60,0:00:40.56,OS,,0000,0000,0000,,High School Girls Ultra Quiz!!
+Dialogue: 0,0:00:40.01,0:00:43.02,Default,,0000,0000,0000,,And look, there are spring-like \Nevents being held everywhere.
+Dialogue: 0,0:00:43.30,0:00:44.69,Default,,0000,0000,0000,,How about trying this one?
+Dialogue: 0,0:00:44.69,0:00:46.86,Default,,0000,0000,0000,,High School Girls Ultra Quiz.
+Dialogue: 0,0:00:46.86,0:00:49.51,Default,,0000,0000,0000,,To participate, you have to be a pair \Nof super-best friend high school girls.
+Dialogue: 0,0:00:49.51,0:00:50.51,Default,,0000,0000,0000,,This is stupid.
+Dialogue: 0,0:00:50.51,0:00:53.98,Default,,0000,0000,0000,,Who are these fools who sign up \Nfor these things willy-nilly?
+Dialogue: 0,0:00:53.98,0:00:55.43,Default,,0000,0000,0000,,What a shame.
+Dialogue: 0,0:00:55.43,0:00:57.76,Default,,0000,0000,0000,,It says they welcome \Nlast-minute participants.
+Dialogue: 0,0:00:57.76,0:00:59.09,Default,,0000,0000,0000,,And the prize is...
+Dialogue: 0,0:01:00.58,0:01:02.29,Default,,0000,0000,0000,,M-Miss?
+Dialogue: 0,0:01:02.59,0:01:06.42,Default,,0000,0000,0000,,If I win this, I get this?
+Dialogue: 0,0:01:06.42,0:01:08.45,Default,,0000,0000,0000,,This... This...
+Dialogue: 0,0:01:08.45,0:01:10.09,Default,,0000,0000,0000,,...will be mine?!
+Dialogue: 0,0:01:10.09,0:01:12.49,Default,,0000,0000,0000,,All right, I'll enter!
+Dialogue: 0,0:01:12.49,0:01:13.50,Default,,0000,0000,0000,,What? Why?
+Dialogue: 0,0:01:13.50,0:01:16.05,Default,,0000,0000,0000,,So that's what's going on. \NHow about pairing up with me?
+Dialogue: 0,0:01:16.05,0:01:18.50,Default,,0000,0000,0000,,How 'bout it? Ya'll do it, right? \NYa will, right? Awesome, right?
+Dialogue: 0,0:01:18.87,0:01:21.07,Default,,0000,0000,0000,,What? You're in Osaka? \NAt the Nanba Grand Kagetsu Theater?
+Dialogue: 0,0:01:21.07,0:01:22.30,Default,,0000,0000,0000,,Damn it! She hung up on me!
+Dialogue: 0,0:01:22.30,0:01:23.93,Default,,0000,0000,0000,,So Sakuya was a no-go.
+Dialogue: 0,0:01:23.93,0:01:25.71,Default,,0000,0000,0000,,Then I'll try Isumi next.
+Dialogue: 0,0:01:25.71,0:01:27.44,Default,,0000,0000,0000,,No, not happening.
+Dialogue: 0,0:01:29.52,0:01:31.82,Default,,0000,0000,0000,,Who can I pair up with?
+Dialogue: 0,0:01:31.82,0:01:34.07,Default,,0000,0000,0000,,Why don't you just enter, Hayate?
+Dialogue: 0,0:01:34.07,0:01:36.65,Default,,0000,0000,0000,,I have several high school \Ngirl outfits ready to go.
+Dialogue: 0,0:01:36.65,0:01:38.57,On Top,,0000,0000,0000,,What?!
+Dialogue: 0,0:01:36.65,0:01:38.57,Default,,0000,0000,0000,,Ooh, I hadn't thought of that!
+Dialogue: 0,0:01:38.57,0:01:43.38,Default,,0000,0000,0000,,I-I will go look for someone \Nwho might pair up with you!
+Dialogue: 0,0:01:43.38,0:01:45.54,Default,,0000,0000,0000,,Damn, he got away.
+Dialogue: 0,0:01:45.54,0:01:47.75,Default,,0000,0000,0000,,Wow, a quiz contest, huh?
+Dialogue: 0,0:01:47.75,0:01:51.10,Default,,0000,0000,0000,,I wonder if entering something like \Nthis will make a good youthful memory.
+Dialogue: 0,0:01:51.10,0:01:52.92,Default,,0000,0000,0000,,Wait, one of the prizes is...
+Dialogue: 0,0:01:52.92,0:01:55.63,Default,,0000,0000,0000,,An all-you-can-eat ticket to Mo-Para!
+Dialogue: 0,0:01:53.05,0:01:55.63,OS,,0000,0000,0000,,Shabu-shabu All-You-Can-Eat Ticket!!
+Dialogue: 0,0:01:53.05,0:01:55.63,OS,,0000,0000,0000,,{\pos(451,216)}Can't \Nshow you!
+Dialogue: 0,0:01:55.63,0:01:57.34,Default,,0000,0000,0000,,This might be good!
+Dialogue: 0,0:01:57.34,0:01:59.62,Default,,0000,0000,0000,,Imagine it! Poofity-poof!
+Dialogue: 0,0:01:59.62,0:02:01.76,Default,,0000,0000,0000,,Poof! Poof!
+Dialogue: 0,0:02:01.76,0:02:03.39,Default,,0000,0000,0000,,Poofity-poof!
+Dialogue: 0,0:02:04.56,0:02:05.76,Default,,0000,0000,0000,,Just kidding!
+Dialogue: 0,0:02:05.76,0:02:07.10,Default,,0000,0000,0000,,Totally just kidding!
+Dialogue: 0,0:02:08.56,0:02:10.70,Default,,0000,0000,0000,,In my wildest dreams, \Nif ⁯I do say so myself...
+Dialogue: 0,0:02:13.55,0:02:14.40,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:02:14.89,0:02:16.52,Default,,0000,0000,0000,,If I do win...
+Dialogue: 0,0:02:16.52,0:02:19.82,Default,,0000,0000,0000,,Maybe I could invite him. \NMaybe I could invite him...
+Dialogue: 0,0:02:19.82,0:02:21.81,Default,,0000,0000,0000,,B-But...
+Dialogue: 0,0:02:23.99,0:02:26.04,Default,,0000,0000,0000,,Who...? Who...?
+Dialogue: 0,0:02:26.04,0:02:28.21,Default,,0000,0000,0000,,Who should I enter it with?!
+Dialogue: 0,0:02:31.69,0:02:33.27,Default,,0000,0000,0000,,Ow, that hurt...
+Dialogue: 0,0:02:33.27,0:02:34.15,Default,,0000,0000,0000,,Hayate!
+Dialogue: 0,0:02:34.15,0:02:36.53,Default,,0000,0000,0000,,Miss Nishizawa! P-Please pardon me.
+Dialogue: 0,0:02:36.53,0:02:38.80,Default,,0000,0000,0000,,I was lost in thought...
+Dialogue: 0,0:02:39.36,0:02:40.69,Default,,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:02:40.69,0:02:42.22,Default,,0000,0000,0000,,Ah! This is...!
+Dialogue: 0,0:02:42.22,0:02:44.35,Default,,0000,0000,0000,,What good, good timing you have!
+Dialogue: 0,0:02:45.97,0:02:46.77,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:47.68,0:02:49.11,Default,,0000,0000,0000,,Miss Nishizawa.
+Dialogue: 0,0:02:49.11,0:02:50.63,Default,,0000,0000,0000,,Y-Yes?
+Dialogue: 0,0:02:51.72,0:02:55.48,Default,,0000,0000,0000,,Won't you please enter \Nthis quiz contest together?
+Dialogue: 0,0:02:55.77,0:02:57.53,Default,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:02:58.19,0:03:00.60,Default,,0000,0000,0000,,Thank goodness! Miss Nagi will be pleased!
+Dialogue: 0,0:03:00.60,0:03:02.23,Default,,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:03:03.96,0:03:08.08,Italics,,0000,0000,0000,,In this episode, I will be serving \Nas a famous host of the Heisei Era!
+Dialogue: 0,0:03:08.08,0:03:09.00,Default,,0000,0000,0000,,Tima!
+Dialogue: 0,0:03:09.16,0:03:11.87,On Top,,0000,0000,0000,,Zettai nante shinjinai!\N I don't believe in absolutes!
+Dialogue: 0,0:03:12.08,0:03:14.75,On Top,,0000,0000,0000,,Fukanou nante nai! \NNo such thing as impossible!
+Dialogue: 0,0:03:14.92,0:03:20.05,On Top,,0000,0000,0000,,Mirai wa hiraku te no naka ni aru\N The future is in the open palm of my hands
+Dialogue: 0,0:03:20.17,0:03:25.22,On Top,,0000,0000,0000,,Honne o misecha make datoka \NStuff like, showing your true feelings means defeat
+Dialogue: 0,0:03:25.55,0:03:30.31,On Top,,0000,0000,0000,,Dentaku hajiku jinsei datoka\N Or a life tapping away at a calculator
+Dialogue: 0,0:03:31.02,0:03:35.81,On Top,,0000,0000,0000,,Kokoro o itsuwaru kurai nara\N Rather than be false to myself like that
+Dialogue: 0,0:03:36.40,0:03:41.78,On Top,,0000,0000,0000,,Shichiten-battou baka-shoujiki mo kuuzen-zetsugo! \NI'll struggle to be uniquely naïve and honest!
+Dialogue: 0,0:03:42.28,0:03:46.74,On Top,,0000,0000,0000,,Komatta kao o mireba ki-ni-naru shi\N If I see a troubled look, I'll be concerned
+Dialogue: 0,0:03:47.33,0:03:51.46,On Top,,0000,0000,0000,,Jinsei isogu riyuu mo betsuni nai shi \NAnd it's not like I've got a reason to hurry through life
+Dialogue: 0,0:03:52.58,0:03:57.29,On Top,,0000,0000,0000,,Takara no chizu wa kimi ni azukeyou \NI'll entrust you with the treasure map
+Dialogue: 0,0:03:58.21,0:04:03.51,On Top,,0000,0000,0000,,Juuou-mujin yori-michi datte tsukiau yo! \NI'll even keep you company on your free-ranging detours
+Dialogue: 0,0:04:03.97,0:04:06.60,On Top,,0000,0000,0000,,Rakkii-sugiru tenkai \NA development that's way too lucky
+Dialogue: 0,0:04:06.60,0:04:09.18,On Top,,0000,0000,0000,,Kotae wa mayowanai \NI won't hesitate to give my answer
+Dialogue: 0,0:04:09.39,0:04:14.40,On Top,,0000,0000,0000,,Kantan sa! Subete wa kimi no tame ni \NIt's easy! It's all for you
+Dialogue: 0,0:04:14.85,0:04:17.40,On Top,,0000,0000,0000,,Fuuhyou wa ki-ni-shinai \NI won't worry about the rumors
+Dialogue: 0,0:04:17.68,0:04:19.98,On Top,,0000,0000,0000,,Rettou-kan ni doujinai!\N I won't let a sense of inferiority get to me!
+Dialogue: 0,0:04:20.32,0:04:24.99,On Top,,0000,0000,0000,,Kakedasu shunkan wa ima koko ni aru \NThe moment to start running is right here, right now
+Dialogue: 0,0:04:38.84,0:04:42.30,Default,,0000,0000,0000,,Quiz! Written as "Foe" \Nand Read as "Friend"!!
+Dialogue: 0,0:04:44.11,0:04:46.88,Default,,0000,0000,0000,,Shine! Jump out! Shake your hips! Come on!
+Dialogue: 0,0:04:46.88,0:04:51.27,Default,,0000,0000,0000,,The 4256th High School Girls Ultra Quiz!
+Dialogue: 0,0:04:53.85,0:04:57.41,Default,,0000,0000,0000,,Now, with the hard-to-draw crowd \Nof several tens of thousands watching,
+Dialogue: 0,0:04:57.41,0:04:58.90,Default,,0000,0000,0000,,it's begun!
+Dialogue: 0,0:04:58.90,0:05:02.11,Default,,0000,0000,0000,,I am Teruo Mikiri, host and narrator, and...
+Dialogue: 0,0:05:02.11,0:05:04.46,Default,,0000,0000,0000,,...Demonking Abe! \NHere to bring you the event, tima!
+Dialogue: 0,0:05:04.46,0:05:05.62,Default,,0000,0000,0000,,Incidentally...
+Dialogue: 0,0:05:05.62,0:05:08.16,Default,,0000,0000,0000,,Do any of you remember me, tima?
+Dialogue: 0,0:05:08.16,0:05:11.54,Default,,0000,0000,0000,,Hey, don't try to hog all the attention.
+Dialogue: 0,0:05:11.54,0:05:13.08,Default,,0000,0000,0000,,Please forgive me, tima.
+Dialogue: 0,0:05:13.50,0:05:15.37,Default,,0000,0000,0000,,And now, here come the participating pairs.
+Dialogue: 0,0:05:15.37,0:05:20.04,OS,,0000,0000,0000,,End of Century
+Dialogue: 0,0:05:15.37,0:05:20.04,OS,,0000,0000,0000,,{\pos(51,19)}Empire
+Dialogue: 0,0:05:15.69,0:05:18.79,Default,,0000,0000,0000,,10,000 pairs, who have gathered \Nfrom all across the nation, tima.
+Dialogue: 0,0:05:18.79,0:05:21.18,Default,,0000,0000,0000,,Which pair will fight their \Nway through this quiz battle
+Dialogue: 0,0:05:21.18,0:05:22.89,Default,,0000,0000,0000,,and win the crown of victory?!
+Dialogue: 0,0:05:22.89,0:05:24.30,Default,,0000,0000,0000,,I can't wait to see, tima!
+Dialogue: 0,0:05:24.30,0:05:31.14,OS,,0000,0000,0000,,Vice President/Secretary
+Dialogue: 0,0:05:24.60,0:05:28.15,Default,,0000,0000,0000,,Aika, why are we here right now?
+Dialogue: 0,0:05:28.15,0:05:31.14,Default,,0000,0000,0000,,I thought that you might \Nlike shabu-shabu, Chiharu.
+Dialogue: 0,0:05:31.14,0:05:43.40,OS,,0000,0000,0000,,Protagonist/Hammy
+Dialogue: 0,0:05:34.22,0:05:36.84,Default,,0000,0000,0000,,Why do I have to end up in this \Nwith the hamster?
+Dialogue: 0,0:05:36.84,0:05:38.59,Default,,0000,0000,0000,,That's my line!
+Dialogue: 0,0:05:38.59,0:05:42.25,Default,,0000,0000,0000,,This is like being \Nhandicapped from the start.
+Dialogue: 0,0:05:43.40,0:05:45.31,Italics,,0000,0000,0000,,Suck it up! Suck it up, me!
+Dialogue: 0,0:05:45.31,0:05:48.16,Default,,0000,0000,0000,,Well, my abilities alone will be \Nmore than enough to win this,
+Dialogue: 0,0:05:48.16,0:05:50.66,Default,,0000,0000,0000,,so I don't care whether I'm paired \Nwith a hammy or a sausage.
+Dialogue: 0,0:05:51.53,0:05:53.66,Italics,,0000,0000,0000,,If I can't put up with this, \Nwhat'll I do when I get a job
+Dialogue: 0,0:05:53.66,0:05:55.88,Italics,,0000,0000,0000,,and my boss turns out to be \Na sexually harassing bastard?
+Dialogue: 0,0:05:55.88,0:05:57.55,Italics,,0000,0000,0000,,Or actually, this is the very first favor
+Dialogue: 0,0:05:57.55,0:05:59.95,Italics,,0000,0000,0000,,that none other than Hayate \Nhas asked of me, after all.
+Dialogue: 0,0:06:00.25,0:06:03.55,Default,,0000,0000,0000,,All right, let's win this quick \Nand take the trophy.
+Dialogue: 0,0:06:03.55,0:06:06.97,Default,,0000,0000,0000,,Once I win, I'm going to \Nhave shabu-shabu with Hayate!
+Dialogue: 0,0:06:07.40,0:06:09.51,Default,,0000,0000,0000,,What are you saying?! \NI will never permit that!
+Dialogue: 0,0:06:09.51,0:06:10.13,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:10.13,0:06:13.37,Default,,0000,0000,0000,,If you want to eat, eat alone, \Nin solitude with a lonely heart.
+Dialogue: 0,0:06:13.37,0:06:16.08,Default,,0000,0000,0000,,Not happening. You can tell me no, \Nbut it's too late now.
+Dialogue: 0,0:06:16.08,0:06:17.18,Default,,0000,0000,0000,,No way I'm backing down! No way!
+Dialogue: 0,0:06:17.18,0:06:19.31,Default,,0000,0000,0000,,Hayate and the trophy are both mine!
+Dialogue: 0,0:06:19.31,0:06:21.44,Default,,0000,0000,0000,,Hayate's having shabu-shabu with me!
+Dialogue: 0,0:06:23.88,0:06:25.53,Italics,,0000,0000,0000,,I made up my mind.
+Dialogue: 0,0:06:25.53,0:06:29.15,Italics,,0000,0000,0000,,This year, I'm going to pursue Hayate, \Neven to the ends of the Earth.
+Dialogue: 0,0:06:30.86,0:06:33.28,Default,,0000,0000,0000,,They both seem to be \Nfull of fighting spirit...
+Dialogue: 0,0:06:34.22,0:06:37.00,Default,,0000,0000,0000,,And now, let's get started with Stage 1!
+Dialogue: 0,0:06:37.00,0:06:40.50,Default,,0000,0000,0000,,Your first hurdle is your typical \N"true or false" quiz, tima!
+Dialogue: 0,0:06:40.50,0:06:43.46,Default,,0000,0000,0000,,Please move to the area that \Nyou believe is the correct answer
+Dialogue: 0,0:06:43.46,0:06:44.84,Default,,0000,0000,0000,,to the quiz questions we give you, tima!
+Dialogue: 0,0:06:45.52,0:06:47.30,Default,,0000,0000,0000,,2-choice questions are a piece of cake!
+Dialogue: 0,0:06:47.30,0:06:49.17,Default,,0000,0000,0000,,At any rate, we have to win this first...
+Dialogue: 0,0:06:49.17,0:06:50.43,Default,,0000,0000,0000,,Question 1!
+Dialogue: 0,0:06:49.43,0:06:50.43,OS,,0000,0000,0000,,Question 1
+Dialogue: 0,0:06:50.43,0:06:53.91,Default,,0000,0000,0000,,Naturally, Ishikawa Station \Nis in Ishikawa Prefecture.
+Dialogue: 0,0:06:54.39,0:06:56.48,Default,,0000,0000,0000,,A trick question right off the bat!
+Dialogue: 0,0:06:56.48,0:06:58.88,Default,,0000,0000,0000,,Or so they want us to think. \NThey're testing how trusting we are.
+Dialogue: 0,0:06:58.88,0:07:00.01,Default,,0000,0000,0000,,True, of course!
+Dialogue: 0,0:07:00.89,0:07:02.39,Default,,0000,0000,0000,,This way! It's false!
+Dialogue: 0,0:07:02.39,0:07:03.40,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:03.40,0:07:04.94,Default,,0000,0000,0000,,I have a feeling it's true!
+Dialogue: 0,0:07:04.94,0:07:07.10,Default,,0000,0000,0000,,Grr! Do as I say!
+Dialogue: 0,0:07:08.53,0:07:10.24,Default,,0000,0000,0000,,The pair fighting over there,
+Dialogue: 0,0:07:10.24,0:07:12.53,Default,,0000,0000,0000,,please hurry up and \Nchoose your answer, tima.
+Dialogue: 0,0:07:12.53,0:07:14.83,Default,,0000,0000,0000,,Don't drag me down already!
+Dialogue: 0,0:07:16.32,0:07:17.39,Default,,0000,0000,0000,,Question closed!
+Dialogue: 0,0:07:17.39,0:07:18.94,Default,,0000,0000,0000,,The correct answer is...
+Dialogue: 0,0:07:18.94,0:07:20.20,Default,,0000,0000,0000,,...false!
+Dialogue: 0,0:07:21.04,0:07:23.72,Default,,0000,0000,0000,,It is actually a station name \Nin Aomori Prefecture!
+Dialogue: 0,0:07:23.72,0:07:25.71,Default,,0000,0000,0000,,Pairs who got it wrong, goodbye, baby!
+Dialogue: 0,0:07:26.83,0:07:27.78,Default,,0000,0000,0000,,See that?!
+Dialogue: 0,0:07:27.78,0:07:29.14,Default,,0000,0000,0000,,If you've played the Momo-Tetsu game,
+Dialogue: 0,0:07:29.14,0:07:30.95,Default,,0000,0000,0000,,it's an easy, common knowledge question!
+Dialogue: 0,0:07:30.95,0:07:33.01,Default,,0000,0000,0000,,If you know the answer, say so first!
+Dialogue: 0,0:07:33.01,0:07:35.70,Default,,0000,0000,0000,,Question 2. Between \Nchimpanzees and giant pandas,
+Dialogue: 0,0:07:35.70,0:07:38.97,Default,,0000,0000,0000,,the one who weighs less \Nat birth is the giant panda.
+Dialogue: 0,0:07:40.01,0:07:42.86,Default,,0000,0000,0000,,They say it's "giant" so \Nthe panda probably weighs more.
+Dialogue: 0,0:07:42.86,0:07:43.82,Default,,0000,0000,0000,,False!
+Dialogue: 0,0:07:44.10,0:07:46.64,Default,,0000,0000,0000,,This is true! No mistake about it!
+Dialogue: 0,0:07:46.64,0:07:48.23,Default,,0000,0000,0000,,It's false! Don't get in my way!
+Dialogue: 0,0:07:48.23,0:07:49.90,Default,,0000,0000,0000,,True! Just come with me!
+Dialogue: 0,0:07:49.90,0:07:51.36,Default,,0000,0000,0000,,It's that pair again...
+Dialogue: 0,0:07:51.36,0:07:53.24,Default,,0000,0000,0000,,I'm telling you it's true!
+Dialogue: 0,0:07:53.70,0:07:55.26,Default,,0000,0000,0000,,Okay, and the correct answer is...
+Dialogue: 0,0:07:55.26,0:07:56.33,Default,,0000,0000,0000,,...true!
+Dialogue: 0,0:07:56.33,0:07:58.06,Default,,0000,0000,0000,,Bye-bye to the false pairs!
+Dialogue: 0,0:07:58.78,0:07:59.78,Default,,0000,0000,0000,,See? I told you.
+Dialogue: 0,0:07:59.78,0:08:04.72,Default,,0000,0000,0000,,Giant panda babies are 15cm long, \Nweighing just 90-130 grams.
+Dialogue: 0,0:08:04.72,0:08:06.89,Default,,0000,0000,0000,,I saw it on Animal Planet.
+Dialogue: 0,0:08:06.89,0:08:08.38,Default,,0000,0000,0000,,Then say so first!
+Dialogue: 0,0:08:08.38,0:08:09.30,OS,,0000,0000,0000,,Question 3
+Dialogue: 0,0:08:08.38,0:08:10.67,Default,,0000,0000,0000,,Question 3, a Japanese sake question.
+Dialogue: 0,0:08:10.67,0:08:12.37,Default,,0000,0000,0000,,For delicious warm sake,
+Dialogue: 0,0:08:12.37,0:08:15.52,Default,,0000,0000,0000,,the recommended temperature for \Nperfectly warmed sake is 40 degrees Celsius!
+Dialogue: 0,0:08:16.34,0:08:19.12,Default,,0000,0000,0000,,That's not a question \Nfor high school girls, tima.
+Dialogue: 0,0:08:19.12,0:08:20.26,Default,,0000,0000,0000,,So what?
+Dialogue: 0,0:08:20.26,0:08:22.15,Default,,0000,0000,0000,,Go call the agency \Nif you've got a problem with it!
+Dialogue: 0,0:08:22.15,0:08:23.77,Default,,0000,0000,0000,,Please don't, tima!
+Dialogue: 0,0:08:23.77,0:08:25.31,Default,,0000,0000,0000,,No one's moving.
+Dialogue: 0,0:08:25.31,0:08:28.36,Default,,0000,0000,0000,,Legally-speaking, sake's something \Nhigh school girls don't deal with.
+Dialogue: 0,0:08:28.36,0:08:30.56,Default,,0000,0000,0000,,Oh, yes, yes, I forgot to mention this,
+Dialogue: 0,0:08:30.56,0:08:34.04,Default,,0000,0000,0000,,but every pair in this \Ncontest can use a lifeline!
+Dialogue: 0,0:08:34.04,0:08:37.08,Default,,0000,0000,0000,,Oh, this is totally ripping off "Who Wants \Nto be a Millionaire", right, tima?
+Dialogue: 0,0:08:37.07,0:08:42.08,OS,,0000,0000,0000,,{\pos(320,77.5)}The temperature for perfectly \Nwarm sake is 40 degrees Celsius.
+Dialogue: 0,0:08:37.07,0:08:42.08,OS,,0000,0000,0000,,{\pos(167.901,150)}True
+Dialogue: 0,0:08:37.07,0:08:42.08,OS,,0000,0000,0000,,{\pos(167.243,168.667)}False
+Dialogue: 0,0:08:37.07,0:08:42.08,OS,,0000,0000,0000,,{\pos(434.568,169.334)}Hell if I know
+Dialogue: 0,0:08:37.08,0:08:39.55,Default,,0000,0000,0000,,There! There, there!
+Dialogue: 0,0:08:39.55,0:08:42.14,Default,,0000,0000,0000,,That rule sounds so tacked on.
+Dialogue: 0,0:08:42.14,0:08:45.50,Default,,0000,0000,0000,,However, you can only use one \Nkind of lifeline just once, tima.
+Dialogue: 0,0:08:45.50,0:08:47.38,Default,,0000,0000,0000,,Think carefully.
+Dialogue: 0,0:08:48.55,0:08:49.59,Default,,0000,0000,0000,,Telephone!
+Dialogue: 0,0:08:50.97,0:08:54.38,Default,,0000,0000,0000,,Ooh, the Sanzenin-Nishizawa pair \Nhas gone straight for the telephone!
+Dialogue: 0,0:08:54.38,0:08:55.88,Default,,0000,0000,0000,,No willpower, tima.
+Dialogue: 0,0:08:55.88,0:08:58.56,Default,,0000,0000,0000,,H-Huh?! Wh-What should I do?
+Dialogue: 0,0:08:58.56,0:09:00.77,Default,,0000,0000,0000,,I'm suddenly being put on the spot?
+Dialogue: 0,0:09:01.15,0:09:03.09,Default,,0000,0000,0000,,But I know the answer.
+Dialogue: 0,0:09:03.09,0:09:04.51,Default,,0000,0000,0000,,The correct answer is...!
+Dialogue: 0,0:09:04.51,0:09:05.31,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:09:06.02,0:09:07.85,Default,,0000,0000,0000,,The correct answer is false.
+Dialogue: 0,0:09:07.85,0:09:09.97,Default,,0000,0000,0000,,Perfectly warmed sake \Nis approximately 45 degrees Celsius.
+Dialogue: 0,0:09:09.97,0:09:11.82,Default,,0000,0000,0000,,That's my Maria! \NI knew I could count on you!
+Dialogue: 0,0:09:11.82,0:09:14.40,On Top,,0000,0000,0000,,Incidentally, the temperature of sake \Nis divided into 6 levels.
+Dialogue: 0,0:09:14.40,0:09:18.24,On Top,,0000,0000,0000,,Super hot, hot, perfect, lukewarm, \Nskin temperature, and barely warm.
+Dialogue: 0,0:09:16.33,0:09:18.24,Default,,0000,0000,0000,,What about my role?
+Dialogue: 0,0:09:19.49,0:09:21.97,Default,,0000,0000,0000,,Okay, the correct answer is false!
+Dialogue: 0,0:09:21.97,0:09:24.71,Default,,0000,0000,0000,,No one got it wrong! Darn!
+Dialogue: 0,0:09:24.71,0:09:26.58,Default,,0000,0000,0000,,You saved us, Maria!
+Dialogue: 0,0:09:26.58,0:09:27.83,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:09:27.83,0:09:29.25,Default,,0000,0000,0000,,I wish you luck.
+Dialogue: 0,0:09:29.25,0:09:31.42,Default,,0000,0000,0000,,So, on to Stage 2!
+Dialogue: 0,0:09:31.42,0:09:34.28,Default,,0000,0000,0000,,Next up is the familiar scatter quiz!
+Dialogue: 0,0:09:34.28,0:09:38.14,Default,,0000,0000,0000,,Questions will be scattered from above. \NPick one up and answer it, tima!
+Dialogue: 0,0:09:38.14,0:09:40.05,Default,,0000,0000,0000,,The time limit is 5 minutes.
+Dialogue: 0,0:09:40.05,0:09:43.26,Default,,0000,0000,0000,,Just answer one question \Nto move on to the next stage, tima!
+Dialogue: 0,0:09:43.26,0:09:44.93,Default,,0000,0000,0000,,And now... GO!
+Dialogue: 0,0:09:44.00,0:09:44.93,On Top,,0000,0000,0000,,GO!
+Dialogue: 0,0:09:46.27,0:09:48.01,Default,,0000,0000,0000,,All right, I'll go!
+Dialogue: 0,0:09:48.01,0:09:49.82,Default,,0000,0000,0000,,What? That's okay. I'll do it.
+Dialogue: 0,0:09:49.82,0:09:52.40,Default,,0000,0000,0000,,Shut up! You can do this!
+Dialogue: 0,0:09:52.40,0:09:55.15,Default,,0000,0000,0000,,Oh, yeah, bubble popping! \NOnce you get started, you can't stop.
+Dialogue: 0,0:09:55.15,0:09:56.40,Default,,0000,0000,0000,,Wait, she's already gone!
+Dialogue: 0,0:09:56.40,0:09:58.34,Default,,0000,0000,0000,,I'm just telling you to stay out of my way!
+Dialogue: 0,0:09:59.92,0:10:01.49,Default,,0000,0000,0000,,Huh? What happened?
+Dialogue: 0,0:10:01.88,0:10:03.62,Default,,0000,0000,0000,,I-I got a cramp in my leg.
+Dialogue: 0,0:10:03.62,0:10:04.79,Default,,0000,0000,0000,,Oh, really!
+Dialogue: 0,0:10:06.16,0:10:08.42,Default,,0000,0000,0000,,But running isn't really my thing.
+Dialogue: 0,0:10:08.92,0:10:10.63,OS,,0000,0000,0000,,Nothing!\N Moron Moron
+Dialogue: 0,0:10:09.23,0:10:10.63,Default,,0000,0000,0000,,Too bad, you got nothing, tima.
+Dialogue: 0,0:10:10.63,0:10:11.71,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:11.71,0:10:15.13,Default,,0000,0000,0000,,I mean, most of the envelopes have \Nnothing, so do your best, tima.
+Dialogue: 0,0:10:15.13,0:10:16.09,Default,,0000,0000,0000,,Oh, man.
+Dialogue: 0,0:10:16.92,0:10:19.30,Default,,0000,0000,0000,,Get running. You have no endurance.
+Dialogue: 0,0:10:19.30,0:10:20.80,Default,,0000,0000,0000,,Are you in any position to say that?!
+Dialogue: 0,0:10:20.80,0:10:21.79,Default,,0000,0000,0000,,Just go!
+Dialogue: 0,0:10:21.79,0:10:22.68,Default,,0000,0000,0000,,Yes, yes, yes.
+Dialogue: 0,0:10:22.68,0:10:24.14,OS,,0000,0000,0000,,Nothing\N Moron!
+Dialogue: 0,0:10:22.68,0:10:25.02,Default,,0000,0000,0000,,Nothing! Nothing! Nothing!
+Dialogue: 0,0:10:26.35,0:10:28.44,Default,,0000,0000,0000,,I-I think I might be done for...
+Dialogue: 0,0:10:28.44,0:10:29.74,Default,,0000,0000,0000,,I am not giving up!
+Dialogue: 0,0:10:29.74,0:10:30.48,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:30.48,0:10:31.74,Default,,0000,0000,0000,,For Hayate!
+Dialogue: 0,0:10:31.74,0:10:33.40,Default,,0000,0000,0000,,Until I have my hands \Non that victory trophy!
+Dialogue: 0,0:10:33.40,0:10:35.40,Default,,0000,0000,0000,,Though my leg may be cramping!
+Dialogue: 0,0:10:35.40,0:10:38.78,Default,,0000,0000,0000,,You're right! Shabu-shabu with Hayate \Nis waiting for me beyond this suffering!
+Dialogue: 0,0:10:38.78,0:10:40.67,Default,,0000,0000,0000,,Still saying such impudent things?!
+Dialogue: 0,0:10:40.67,0:10:43.23,Default,,0000,0000,0000,,Hayate likes shabu-shabu, too! I'm sure!
+Dialogue: 0,0:10:43.23,0:10:44.41,Default,,0000,0000,0000,,Trophy!
+Dialogue: 0,0:10:44.41,0:10:46.35,Default,,0000,0000,0000,,Shabu-shabu!
+Dialogue: 0,0:10:45.42,0:10:47.91,On Top,,0000,0000,0000,,One minute left, tima!
+Dialogue: 0,0:10:46.91,0:10:47.91,Default,,0000,0000,0000,,Crap!
+Dialogue: 0,0:10:49.11,0:10:50.22,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:10:50.22,0:10:51.88,Default,,0000,0000,0000,,Okay. Nothing!
+Dialogue: 0,0:10:51.88,0:10:53.16,Default,,0000,0000,0000,,I mean, here's your question.
+Dialogue: 0,0:10:53.16,0:10:54.75,Default,,0000,0000,0000,,That's confusing!
+Dialogue: 0,0:10:54.75,0:10:58.30,Default,,0000,0000,0000,,Now, here is your question. What's \Nthe minimum fare on the Yamanote Line?
+Dialogue: 0,0:10:58.30,0:11:00.26,Default,,0000,0000,0000,,Um, two-thousand...
+Dialogue: 0,0:11:00.79,0:11:03.80,Default,,0000,0000,0000,,Th-The current fare in 2008 is 130 yen.
+Dialogue: 0,0:11:03.80,0:11:05.43,Default,,0000,0000,0000,,That is correct, tima!
+Dialogue: 0,0:11:06.54,0:11:08.07,Default,,0000,0000,0000,,Piece of cake.
+Dialogue: 0,0:11:08.07,0:11:10.48,Default,,0000,0000,0000,,Behold the latent power of the ordinary!
+Dialogue: 0,0:11:10.93,0:11:13.56,Default,,0000,0000,0000,,And now, on to Stage 3!
+Dialogue: 0,0:11:13.56,0:11:16.01,Default,,0000,0000,0000,,Locked room escape quiz, tima!
+Dialogue: 0,0:11:16.01,0:11:18.73,Default,,0000,0000,0000,,If you can escape from \Nthat room within 3 minutes,
+Dialogue: 0,0:11:18.73,0:11:20.90,Default,,0000,0000,0000,,you will gain the opportunity \Nto answer the quiz question.
+Dialogue: 0,0:11:21.19,0:11:24.91,Default,,0000,0000,0000,,Hmm, I suppose it wouldn't hurt \Nto leave this to the commoner.
+Dialogue: 0,0:11:26.70,0:11:28.39,Default,,0000,0000,0000,,Huh? It won't open!
+Dialogue: 0,0:11:28.39,0:11:29.56,Default,,0000,0000,0000,,And the window, too!
+Dialogue: 0,0:11:29.56,0:11:32.17,Default,,0000,0000,0000,,And the floor, too! \NNone of it seems likely to open!
+Dialogue: 0,0:11:34.15,0:11:36.32,Default,,0000,0000,0000,,As long as we can get out, \NI'm not picky about how we do it.
+Dialogue: 0,0:11:36.32,0:11:37.80,Default,,0000,0000,0000,,That's the commoner.
+Dialogue: 0,0:11:37.80,0:11:40.31,Default,,0000,0000,0000,,Well, I'll be escaping \None step ahead of you...
+Dialogue: 0,0:11:41.13,0:11:41.93,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:42.65,0:11:43.59,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:43.59,0:11:46.26,Default,,0000,0000,0000,,A h-high rise?!
+Dialogue: 0,0:11:48.68,0:11:51.07,Default,,0000,0000,0000,,20 seconds left!
+Dialogue: 0,0:11:49.15,0:11:51.07,On Top,,0000,0000,0000,,What'll we do? What'll we do?
+Dialogue: 0,0:11:51.07,0:11:53.13,On Top,,0000,0000,0000,,Key! Key! Was there a key somewhere?
+Dialogue: 0,0:11:52.12,0:11:54.89,Default,,0000,0000,0000,,Good grief, you really are totally useless.
+Dialogue: 0,0:11:53.13,0:11:54.62,On Top,,0000,0000,0000,,I don't see one, I don't see one.
+Dialogue: 0,0:11:54.62,0:11:56.14,On Top,,0000,0000,0000,,What'll we do? What'll we do?
+Dialogue: 0,0:11:54.89,0:11:57.28,Default,,0000,0000,0000,,Let's see, the typical escape methods
+Dialogue: 0,0:11:57.28,0:11:59.44,Default,,0000,0000,0000,,for these Crimson Room-esque games are...
+Dialogue: 0,0:11:59.44,0:12:01.34,Default,,0000,0000,0000,,First, you take this and do this...
+Dialogue: 0,0:12:01.34,0:12:03.39,Default,,0000,0000,0000,,And you'd find something \Nlike this around here...
+Dialogue: 0,0:12:03.39,0:12:04.93,Default,,0000,0000,0000,,And once you do this...
+Dialogue: 0,0:12:04.93,0:12:07.63,Default,,0000,0000,0000,,You open this thing here and you get this...
+Dialogue: 0,0:12:07.63,0:12:09.43,Default,,0000,0000,0000,,And when you do this with it...
+Dialogue: 0,0:12:10.63,0:12:11.76,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:12:12.96,0:12:14.29,Default,,0000,0000,0000,,Oh, it opened!
+Dialogue: 0,0:12:14.29,0:12:16.27,Default,,0000,0000,0000,,You have successfully escaped, tima!
+Dialogue: 0,0:12:14.29,0:12:17.92,OS,,0000,0000,0000,,{\pos(320,69)}Congratulations!
+Dialogue: 0,0:12:16.27,0:12:18.86,Default,,0000,0000,0000,,Congratulations! And now, \Nhere is your question.
+Dialogue: 0,0:12:17.04,0:12:17.92,On Top,,0000,0000,0000,,You're kidding!
+Dialogue: 0,0:12:18.86,0:12:23.40,Default,,0000,0000,0000,,What is the world's first video game console \Nthat was released in 1972?
+Dialogue: 0,0:12:23.93,0:12:26.04,Default,,0000,0000,0000,,Um... "Brain Age..."
+Dialogue: 0,0:12:27.16,0:12:28.35,Default,,0000,0000,0000,,It's the Odyssey!
+Dialogue: 0,0:12:29.01,0:12:30.60,Default,,0000,0000,0000,,That is correct, tima!
+Dialogue: 0,0:12:30.60,0:12:32.52,Default,,0000,0000,0000,,Next up, we are finally at the last stage!
+Dialogue: 0,0:12:35.99,0:12:38.82,Default,,0000,0000,0000,,So you repaid the debt \Nyou owed me from Stage 2.
+Dialogue: 0,0:12:39.63,0:12:41.56,Default,,0000,0000,0000,,In the end, it just means this \Nis a piece of cake
+Dialogue: 0,0:12:41.56,0:12:43.15,Default,,0000,0000,0000,,as long as we have my brains.
+Dialogue: 0,0:12:43.15,0:12:45.46,Default,,0000,0000,0000,,When the last stage is over,
+Dialogue: 0,0:12:45.46,0:12:48.12,Default,,0000,0000,0000,,will the goddess of victory \Nbestow her smile upon them?
+Dialogue: 0,0:12:48.12,0:12:49.55,Default,,0000,0000,0000,,Oh, Mr. Mikiri,
+Dialogue: 0,0:12:49.55,0:12:53.32,Default,,0000,0000,0000,,you just sounded exactly like the narrator \Nwe always hear in the show, tima.
+Dialogue: 0,0:12:53.32,0:12:55.12,Default,,0000,0000,0000,,Quit it with the "tima"s! It's annoying!
+Dialogue: 0,0:12:55.12,0:12:58.76,Default,,0000,0000,0000,,And their triangle love with the butler!
+Dialogue: 0,0:12:58.76,0:13:01.79,Default,,0000,0000,0000,,Will this bring a subtle change \Nto their relationship? Or maybe not?
+Dialogue: 0,0:13:01.79,0:13:03.44,Default,,0000,0000,0000,,For now, it'll be continued \Nin the second half.
+Dialogue: 0,0:13:03.44,0:13:04.26,Default,,0000,0000,0000,,Tima!
+Dialogue: 0,0:13:06.42,0:13:08.00,Default,,0000,0000,0000,,The carotid artery. ({\u1}Ke{\u0}i-doumya{\u1}ku{\u0}.)
+Dialogue: 0,0:13:10.86,0:13:12.65,Default,,0000,0000,0000,,Even if you eat, don't go to sleep right away! \N({\u1}Ku{\u0}ttemo sugu neru {\u1}na{\u0}!)
+Dialogue: 0,0:13:13.06,0:13:15.56,Default,,0000,0000,0000,,Do you all wanna go to New York?
+Dialogue: 0,0:13:15.56,0:13:16.71,Default,,0000,0000,0000,,I do!
+Dialogue: 0,0:13:16.71,0:13:18.06,Default,,0000,0000,0000,,Pay your own way.
+Dialogue: 0,0:13:18.06,0:13:19.36,Default,,0000,0000,0000,,I ain't got money!
+Dialogue: 0,0:13:19.36,0:13:23.32,Default,,0000,0000,0000,,Now, let's bring out our \Nmagnificent finalists, tima!
+Dialogue: 0,0:13:23.32,0:13:24.25,Default,,0000,0000,0000,,Our first team...
+Dialogue: 0,0:13:24.25,0:13:25.46,Default,,0000,0000,0000,,...is these two!
+Dialogue: 0,0:13:27.23,0:13:29.64,Default,,0000,0000,0000,,"We're friends who even \Ntake baths together."
+Dialogue: 0,0:13:29.64,0:13:31.95,Default,,0000,0000,0000,,It's the Sanzenin-Nishizawa pair, tima!
+Dialogue: 0,0:13:31.95,0:13:33.64,Default,,0000,0000,0000,,Don't introduce us like that!
+Dialogue: 0,0:13:33.64,0:13:35.79,Default,,0000,0000,0000,,Who leaked that information?!
+Dialogue: 0,0:13:36.60,0:13:37.90,Default,,0000,0000,0000,,And the second team!
+Dialogue: 0,0:13:37.90,0:13:41.46,Default,,0000,0000,0000,,"We were originally supposed to have \Nmore scenes in the 3rd half-season."
+Dialogue: 0,0:13:41.46,0:13:44.08,Default,,0000,0000,0000,,It's the Aika Kasumi-Chiharu Harukaze pair!
+Dialogue: 0,0:13:44.43,0:13:47.35,Default,,0000,0000,0000,,Gack! The vice president \Nand secretary of the student council?!
+Dialogue: 0,0:13:47.35,0:13:50.22,Default,,0000,0000,0000,,It seems we have survived \Nbeing eliminated somehow, Aika.
+Dialogue: 0,0:13:50.22,0:13:52.22,Default,,0000,0000,0000,,So it seems, Chiharu.
+Dialogue: 0,0:13:52.22,0:13:53.64,Default,,0000,0000,0000,,And finally, the third team.
+Dialogue: 0,0:13:53.64,0:13:55.85,Default,,0000,0000,0000,,"We eat the strawberry \Nfirst on our shortcakes
+Dialogue: 0,0:13:55.85,0:13:57.36,Default,,0000,0000,0000,,"and the pickled bamboo \Nshoots first on our ramen."
+Dialogue: 0,0:13:57.36,0:13:58.17,Default,,0000,0000,0000,,You do?
+Dialogue: 0,0:13:58.17,0:13:59.40,Default,,0000,0000,0000,,Well, something like that.
+Dialogue: 0,0:13:59.87,0:14:03.94,Default,,0000,0000,0000,,The favorite to win! It's the Hinagiku \NKatsura-Miki Hanabishi pair!
+Dialogue: 0,0:14:03.94,0:14:06.53,Default,,0000,0000,0000,,What?! Even Hinagiku was in this?!
+Dialogue: 0,0:14:07.16,0:14:09.95,Default,,0000,0000,0000,,Hey, I came along because you asked me \Nto help you choose a gift
+Dialogue: 0,0:14:09.95,0:14:12.43,Default,,0000,0000,0000,,to celebrate your relative \Ngetting into school.
+Dialogue: 0,0:14:12.43,0:14:13.59,Default,,0000,0000,0000,,What's going on here?
+Dialogue: 0,0:14:13.59,0:14:17.54,Default,,0000,0000,0000,,Um, that is to say, the prize {\i1}is{\i0} the gift...
+Dialogue: 0,0:14:17.54,0:14:20.37,Default,,0000,0000,0000,,As long as we have Hina, \Nour victory is assured!
+Dialogue: 0,0:14:17.54,0:14:22.46,OS,,0000,0000,0000,,Hina!
+Dialogue: 0,0:14:20.37,0:14:22.46,Default,,0000,0000,0000,,Looks like we'll get \Nsome good footage again.
+Dialogue: 0,0:14:22.73,0:14:26.23,Default,,0000,0000,0000,,Rah! Rah! Miss!
+Dialogue: 0,0:14:25.80,0:14:30.55,OS,,0000,0000,0000,,Miss & Nishizawa
+Dialogue: 0,0:14:26.23,0:14:27.46,Default,,0000,0000,0000,,Go for it! Go...
+Dialogue: 0,0:14:27.46,0:14:29.81,Default,,0000,0000,0000,,I can't see!
+Dialogue: 0,0:14:29.81,0:14:31.72,Default,,0000,0000,0000,,Pardon me. I'll be more careful.
+Dialogue: 0,0:14:31.72,0:14:32.97,Default,,0000,0000,0000,,Okay, ignoring the cheering squad
+Dialogue: 0,0:14:32.97,0:14:34.88,Default,,0000,0000,0000,,that's getting more attention \Nthan the participants...
+Dialogue: 0,0:14:34.88,0:14:36.41,Default,,0000,0000,0000,,The final stage!
+Dialogue: 0,0:14:36.41,0:14:39.03,Default,,0000,0000,0000,,Don't Slip Now, Speed Quiz Round, tima!
+Dialogue: 0,0:14:42.31,0:14:43.72,Default,,0000,0000,0000,,Get an answer right
+Dialogue: 0,0:14:43.72,0:14:46.25,Default,,0000,0000,0000,,and the slides will go up bit by bit \Nfor the other pairs, tima!
+Dialogue: 0,0:14:46.25,0:14:49.02,Default,,0000,0000,0000,,The last pair to keep \Nfrom sliding down will win, tima!
+Dialogue: 0,0:14:49.02,0:14:52.90,Default,,0000,0000,0000,,Well, with Hina, \NI've got an army at my back...
+Dialogue: 0,0:14:53.56,0:14:56.62,Default,,0000,0000,0000,,Oh, right, she's already \Nout of it at this height...
+Dialogue: 0,0:14:56.90,0:14:58.91,Default,,0000,0000,0000,,I-I'll be okay.
+Dialogue: 0,0:14:58.91,0:15:00.93,Default,,0000,0000,0000,,A-As long as we stay at this height.
+Dialogue: 0,0:15:00.93,0:15:03.09,Default,,0000,0000,0000,,We're going to answer \Nevery question, all right?
+Dialogue: 0,0:15:03.09,0:15:05.84,Default,,0000,0000,0000,,No getting things wrong either, \Nokay? Okay? Okay?
+Dialogue: 0,0:15:05.84,0:15:08.99,Default,,0000,0000,0000,,This is a battle I absolutely cannot lose!
+Dialogue: 0,0:15:09.36,0:15:12.39,Default,,0000,0000,0000,,We've come this far! We can't lose now!
+Dialogue: 0,0:15:12.39,0:15:13.85,Default,,0000,0000,0000,,And now, Question 1!
+Dialogue: 0,0:15:13.09,0:15:13.85,OS,,0000,0000,0000,,Question 1
+Dialogue: 0,0:15:13.85,0:15:16.49,Default,,0000,0000,0000,,In Japanese, it's "I think, therefore I am".
+Dialogue: 0,0:15:16.49,0:15:17.72,Default,,0000,0000,0000,,In Latin, that's...
+Dialogue: 0,0:15:18.73,0:15:20.21,Default,,0000,0000,0000,,"Cogito ergo sum".
+Dialogue: 0,0:15:20.21,0:15:22.14,Default,,0000,0000,0000,,Correct, tima!
+Dialogue: 0,0:15:25.86,0:15:27.14,Default,,0000,0000,0000,,Next question!
+Dialogue: 0,0:15:27.14,0:15:29.21,Default,,0000,0000,0000,,The true taste of coffee is...
+Dialogue: 0,0:15:29.21,0:15:30.12,Default,,0000,0000,0000,,A barista.
+Dialogue: 0,0:15:30.12,0:15:31.12,Default,,0000,0000,0000,,Correct!
+Dialogue: 0,0:15:31.57,0:15:33.65,Default,,0000,0000,0000,,According to quantum theoretical thought...
+Dialogue: 0,0:15:33.65,0:15:34.84,Default,,0000,0000,0000,,Schrödinger's cat.
+Dialogue: 0,0:15:34.84,0:15:35.79,Default,,0000,0000,0000,,The Treaty of Mersen.
+Dialogue: 0,0:15:35.79,0:15:36.59,Default,,0000,0000,0000,,The Sarashina Diary.
+Dialogue: 0,0:15:36.59,0:15:37.98,Default,,0000,0000,0000,,The two-crop system. A theremin.
+Dialogue: 0,0:15:37.98,0:15:38.83,Default,,0000,0000,0000,,A backward pivot throw.
+Dialogue: 0,0:15:38.83,0:15:42.37,Default,,0000,0000,0000,,So strong! The Katsura-Hanabishi pair \Nis overwhelmingly strong!
+Dialogue: 0,0:15:42.37,0:15:43.68,Default,,0000,0000,0000,,You're doing good!
+Dialogue: 0,0:15:43.68,0:15:45.34,Default,,0000,0000,0000,,You answer some, too.
+Dialogue: 0,0:15:51.12,0:15:51.93,Default,,0000,0000,0000,,Aika...
+Dialogue: 0,0:15:52.60,0:15:55.14,Default,,0000,0000,0000,,To be honest, I have \Nabout reached my limit...
+Dialogue: 0,0:15:55.14,0:15:56.72,Default,,0000,0000,0000,,Y-You, too, Chiharu?
+Dialogue: 0,0:15:56.72,0:15:58.97,Default,,0000,0000,0000,,Yes, then...
+Dialogue: 0,0:15:58.97,0:16:00.56,Default,,0000,0000,0000,,Shall we fall soon...
+Dialogue: 0,0:16:00.56,0:16:02.23,Default,,0000,0000,0000,,Oh, but she's gone already!
+Dialogue: 0,0:16:02.23,0:16:03.24,Default,,0000,0000,0000,,In that case...
+Dialogue: 0,0:16:03.24,0:16:04.75,Default,,0000,0000,0000,,...I shall join her!
+Dialogue: 0,0:16:04.75,0:16:07.20,Default,,0000,0000,0000,,The Kasumi-Haruka pair has dropped out.
+Dialogue: 0,0:16:07.20,0:16:08.97,Default,,0000,0000,0000,,Meanwhile, the Sanzenin-Nishizawa pair
+Dialogue: 0,0:16:08.97,0:16:11.08,Default,,0000,0000,0000,,also looks to be struggling \Nquite a bit, tima!
+Dialogue: 0,0:16:11.60,0:16:12.83,Default,,0000,0000,0000,,Th-The next one...
+Dialogue: 0,0:16:12.83,0:16:14.45,Default,,0000,0000,0000,,We have to answer it!
+Dialogue: 0,0:16:14.45,0:16:15.55,Default,,0000,0000,0000,,Question!
+Dialogue: 0,0:16:15.55,0:16:16.91,Default,,0000,0000,0000,,Father's least favorite...
+Dialogue: 0,0:16:16.91,0:16:18.60,Default,,0000,0000,0000,,It's mine!
+Dialogue: 0,0:16:19.77,0:16:20.67,Default,,0000,0000,0000,,Papa-ya!
+Dialogue: 0,0:16:20.67,0:16:21.58,Default,,0000,0000,0000,,Yes, but...
+Dialogue: 0,0:16:22.16,0:16:24.58,Default,,0000,0000,0000,,Now, name four other tropical fruits.
+Dialogue: 0,0:16:26.04,0:16:28.03,Default,,0000,0000,0000,,Kiwi, mango, pineapple, durian.
+Dialogue: 0,0:16:28.03,0:16:30.46,Default,,0000,0000,0000,,Correct yet again, tima!
+Dialogue: 0,0:16:30.82,0:16:32.22,Default,,0000,0000,0000,,This is bananas!
+Dialogue: 0,0:16:32.22,0:16:34.88,Default,,0000,0000,0000,,Now, what will you do, \NSanzenin-Nishizawa pair?
+Dialogue: 0,0:16:34.88,0:16:36.47,Default,,0000,0000,0000,,They're at quite a nice angle, tima.
+Dialogue: 0,0:16:36.75,0:16:39.14,Default,,0000,0000,0000,,You lose if either one of you fall, tima.
+Dialogue: 0,0:16:39.14,0:16:40.77,Default,,0000,0000,0000,,Don't copy me!
+Dialogue: 0,0:16:42.65,0:16:44.75,Default,,0000,0000,0000,,I think this might be my limit...
+Dialogue: 0,0:16:44.75,0:16:45.89,Default,,0000,0000,0000,,Maybe. Maybe.
+Dialogue: 0,0:16:47.26,0:16:49.28,Default,,0000,0000,0000,,This is nothing!
+Dialogue: 0,0:16:49.28,0:16:51.37,Default,,0000,0000,0000,,For Hayate!
+Dialogue: 0,0:16:51.37,0:16:53.40,Default,,0000,0000,0000,,I will win and get the trophy!
+Dialogue: 0,0:16:53.40,0:16:56.85,Default,,0000,0000,0000,,Come to think of it, Little Nagi's \Nbeen going on and on about the trophy...
+Dialogue: 0,0:16:57.32,0:17:01.12,OS,,0000,0000,0000,,Can't show you!
+Dialogue: 0,0:16:57.62,0:17:01.12,Default,,0000,0000,0000,,Oh, come to think of it, \Nthe trophy shown on the flier...
+Dialogue: 0,0:17:01.44,0:17:03.59,Default,,0000,0000,0000,,...might've looked somewhat like Hayate.
+Dialogue: 0,0:17:04.08,0:17:05.95,Default,,0000,0000,0000,,Little Nagi...
+Dialogue: 0,0:17:07.43,0:17:08.92,Default,,0000,0000,0000,,I've reached my limit!
+Dialogue: 0,0:17:09.63,0:17:11.76,Default,,0000,0000,0000,,Hayate...
+Dialogue: 0,0:17:15.81,0:17:16.97,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:20.06,0:17:21.81,Default,,0000,0000,0000,,F-Fight it.
+Dialogue: 0,0:17:23.69,0:17:27.27,Default,,0000,0000,0000,,You're going to win \Nand get the trophy, right?
+Dialogue: 0,0:17:27.27,0:17:30.82,Default,,0000,0000,0000,,Let's try hanging in there \Njust a little longer.
+Dialogue: 0,0:17:31.34,0:17:32.23,Default,,0000,0000,0000,,Hammy...
+Dialogue: 0,0:17:33.82,0:17:38.24,Default,,0000,0000,0000,,With the two of us together, \NI'm sure we'll be invincible!
+Dialogue: 0,0:17:38.24,0:17:42.24,Default,,0000,0000,0000,,Yes, I understand! Let's do our best!
+Dialogue: 0,0:17:42.67,0:17:44.16,Default,,0000,0000,0000,,And now for the question!
+Dialogue: 0,0:17:44.16,0:17:46.58,Default,,0000,0000,0000,,What kind of dumpling goes silent \Nwhen you look at it?
+Dialogue: 0,0:17:46.58,0:17:47.42,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:17:47.42,0:17:48.47,Default,,0000,0000,0000,,Me!
+Dialogue: 0,0:17:48.96,0:17:51.68,Default,,0000,0000,0000,,Sanzenin-Nishizawa pair, go ahead.
+Dialogue: 0,0:17:51.68,0:17:55.03,Default,,0000,0000,0000,,"Mitara shhh (if you look, shhh)"... \NSo it's mitarashi dumplings!
+Dialogue: 0,0:17:55.03,0:17:56.05,Default,,0000,0000,0000,,Correct!
+Dialogue: 0,0:17:56.32,0:17:57.47,Default,,0000,0000,0000,,You did it!
+Dialogue: 0,0:18:00.70,0:18:04.68,Default,,0000,0000,0000,,Among the episode titles for Japanese anime, \Nwhat was the longest ever?
+Dialogue: 0,0:18:04.68,0:18:06.13,Default,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:18:06.13,0:18:09.64,Default,,0000,0000,0000,,The 187 character long title \Nfor Episode 26 of "School Rumble".
+Dialogue: 0,0:18:09.64,0:18:11.06,Default,,0000,0000,0000,,Correct, tima!
+Dialogue: 0,0:18:11.06,0:18:12.36,Default,,0000,0000,0000,,That's my Little Nagi!
+Dialogue: 0,0:18:12.98,0:18:14.07,Default,,0000,0000,0000,,A bronze statue!
+Dialogue: 0,0:18:14.07,0:18:14.86,Default,,0000,0000,0000,,"Matango"!
+Dialogue: 0,0:18:14.86,0:18:15.48,Default,,0000,0000,0000,,Sam!
+Dialogue: 0,0:18:15.48,0:18:16.19,Default,,0000,0000,0000,,Color flashing!
+Dialogue: 0,0:18:17.99,0:18:20.06,Default,,0000,0000,0000,,Impossible! I'm being put on the defensive?!
+Dialogue: 0,0:18:20.06,0:18:22.99,Default,,0000,0000,0000,,Never mind that. How are they \Npressing the button in their position?
+Dialogue: 0,0:18:22.99,0:18:24.90,Default,,0000,0000,0000,,That's all fine and good, but...
+Dialogue: 0,0:18:24.90,0:18:26.68,Default,,0000,0000,0000,,I'm... just...
+Dialogue: 0,0:18:27.46,0:18:30.04,Default,,0000,0000,0000,,Go for it! Call for it! Fine weather for it!
+Dialogue: 0,0:18:27.77,0:18:30.04,On Top,,0000,0000,0000,,Hang in there!
+Dialogue: 0,0:18:30.53,0:18:32.33,Default,,0000,0000,0000,,Now, will the next one settle it?
+Dialogue: 0,0:18:32.33,0:18:35.76,Default,,0000,0000,0000,,Koyuki's, the cake shop known \Nfor their ultimate seafood cake!
+Dialogue: 0,0:18:35.76,0:18:38.51,Default,,0000,0000,0000,,How much does one \Nof their cream puffs cost?!
+Dialogue: 0,0:18:38.51,0:18:39.22,Default,,0000,0000,0000,,Me!
+Dialogue: 0,0:18:39.22,0:18:41.31,Default,,0000,0000,0000,,You two are in no position \Nto be able to push the button,
+Dialogue: 0,0:18:41.31,0:18:42.18,Default,,0000,0000,0000,,but what is your answer?!
+Dialogue: 0,0:18:42.18,0:18:43.66,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:18:43.93,0:18:45.07,Default,,0000,0000,0000,,As I recall...
+Dialogue: 0,0:18:53.77,0:18:55.23,Default,,0000,0000,0000,,200 yen a piece!
+Dialogue: 0,0:19:02.14,0:19:03.95,Default,,0000,0000,0000,,Correct, tima!
+Dialogue: 0,0:19:11.31,0:19:13.29,Default,,0000,0000,0000,,Well, that's about as far as we get.
+Dialogue: 0,0:19:13.29,0:19:15.04,Default,,0000,0000,0000,,Adieu!
+Dialogue: 0,0:19:17.34,0:19:18.88,Default,,0000,0000,0000,,Aww...
+Dialogue: 0,0:19:18.88,0:19:20.30,Default,,0000,0000,0000,,That was one heck of a fall...
+Dialogue: 0,0:19:20.30,0:19:23.55,Default,,0000,0000,0000,,The Katsura-Hanabishi pair has \Nsuffered an unexpected defeat, tima!
+Dialogue: 0,0:19:23.55,0:19:27.98,Default,,0000,0000,0000,,And so, victory goes \Nto the Sanzenin-Nishizawa pair.
+Dialogue: 0,0:19:31.55,0:19:33.90,Default,,0000,0000,0000,,I'm surprised you remembered the price.
+Dialogue: 0,0:19:33.90,0:19:35.32,Default,,0000,0000,0000,,Same to you.
+Dialogue: 0,0:19:35.32,0:19:38.13,Default,,0000,0000,0000,,Well, you did well for a hamster.
+Dialogue: 0,0:19:38.13,0:19:41.62,Default,,0000,0000,0000,,I guess you were pretty gutsy \Nfor a delicate rich girl.
+Dialogue: 0,0:19:43.00,0:19:45.28,Default,,0000,0000,0000,,That's right! The trophy!
+Dialogue: 0,0:19:52.37,0:19:55.08,OS,,0000,0000,0000,,{\pos(169.877,150.667)}Can't \Nshow you!
+Dialogue: 0,0:19:52.37,0:19:55.08,OS,,0000,0000,0000,,Shabu-shabu All-You-Can-Eat Ticket
+Dialogue: 0,0:19:53.09,0:19:55.08,Default,,0000,0000,0000,,What should I do with this?
+Dialogue: 0,0:19:55.42,0:19:57.71,Default,,0000,0000,0000,,Maybe I'll go with my family, after all.
+Dialogue: 0,0:19:57.71,0:19:59.49,Default,,0000,0000,0000,,Miss Nishizawa!
+Dialogue: 0,0:20:00.39,0:20:02.13,Default,,0000,0000,0000,,H-Hayate...
+Dialogue: 0,0:20:02.44,0:20:05.12,Default,,0000,0000,0000,,Really, congratulations on your victory!
+Dialogue: 0,0:20:05.12,0:20:07.39,Default,,0000,0000,0000,,You fought magnificently out there!
+Dialogue: 0,0:20:08.43,0:20:11.07,Default,,0000,0000,0000,,I think I might be a bit \Nembarrassed to hear that.
+Dialogue: 0,0:20:11.07,0:20:12.53,Default,,0000,0000,0000,,Th-Thank you.
+Dialogue: 0,0:20:12.53,0:20:15.57,Default,,0000,0000,0000,,Not at all. I should be \Nthe one to thank you.
+Dialogue: 0,0:20:15.57,0:20:17.96,Default,,0000,0000,0000,,Thank you so very much.
+Dialogue: 0,0:20:18.37,0:20:22.12,Default,,0000,0000,0000,,I hope we can continue to work \Ntogether in the future, Miss Nishizawa.
+Dialogue: 0,0:20:32.73,0:20:34.71,Default,,0000,0000,0000,,Yeah, of course!
+Dialogue: 0,0:20:35.56,0:20:38.46,Italics,,0000,0000,0000,,Hayate, I guess it might \Nstill be a long way off
+Dialogue: 0,0:20:38.46,0:20:43.22,Italics,,0000,0000,0000,,before my feelings reach your heart.
+Dialogue: 0,0:20:43.22,0:20:46.46,Italics,,0000,0000,0000,,But even so, I can still...
+Dialogue: 0,0:20:46.46,0:20:50.61,Italics,,0000,0000,0000,,...keep my gaze squarely \Non you like this, right?
+Dialogue: 0,0:20:51.07,0:20:51.89,Italics,,0000,0000,0000,,Right?
+Dialogue: 0,0:20:51.89,0:20:54.64,Default,,0000,0000,0000,,What are you doing, Hayate?!
+Dialogue: 0,0:20:54.64,0:20:57.36,Default,,0000,0000,0000,,We're leaving! We have to celebrate tonight!
+Dialogue: 0,0:20:57.36,0:20:59.11,Default,,0000,0000,0000,,Yes, Miss.
+Dialogue: 0,0:20:59.11,0:21:00.19,Default,,0000,0000,0000,,Oh, wait.
+Dialogue: 0,0:21:00.60,0:21:01.85,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:21:01.85,0:21:04.92,Default,,0000,0000,0000,,If you've got something to say, \Nmake it quick, hamster.
+Dialogue: 0,0:21:04.92,0:21:07.03,Default,,0000,0000,0000,,Hey, if you feel up to it,
+Dialogue: 0,0:21:07.41,0:21:10.87,Default,,0000,0000,0000,,how about the three of us \Ngo eat shabu-shabu now?
+Dialogue: 0,0:21:11.69,0:21:13.83,Default,,0000,0000,0000,,Or something like that...
+Dialogue: 0,0:21:15.87,0:21:17.17,Default,,0000,0000,0000,,Miss.
+Dialogue: 0,0:21:17.17,0:21:18.17,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:21:26.30,0:21:28.89,Default,,0000,0000,0000,,I swear, this meat is paper thin.
+Dialogue: 0,0:21:28.89,0:21:30.97,Default,,0000,0000,0000,,It's shabu-shabu, so of course it's thin!
+Dialogue: 0,0:21:30.97,0:21:34.27,Default,,0000,0000,0000,,What did you say?! I came \Nbecause you asked me to come!
+Dialogue: 0,0:21:34.27,0:21:35.64,Default,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:21:35.64,0:21:39.07,Default,,0000,0000,0000,,Now, now, I will skim \Nall the scum off the top.
+Dialogue: 0,0:21:39.90,0:21:42.00,Default,,0000,0000,0000,,Incidentally, shabu-shabu is very healthy
+Dialogue: 0,0:21:42.00,0:21:44.44,Default,,0000,0000,0000,,and also great for middle-aged \Npeople living alone.
+Dialogue: 0,0:21:44.44,0:21:48.16,OS,,0000,0000,0000,,Shabu-Shabu
+Dialogue: 0,0:21:44.44,0:21:48.43,Italics,,0000,0000,0000,,Next time, they will battle the 150 \Nmillion yen we'd totally forgotten about.
+Dialogue: 0,0:21:44.44,0:21:51.45,OS,,0000,0000,0000,,{\pos(538.601,200.667)}Can't \Nshow you!
+Dialogue: 0,0:21:48.43,0:21:51.45,Italics,,0000,0000,0000,,More like, that was a lot \Nof dialogue in this episode, huh?
+Dialogue: 0,0:21:58.21,0:22:06.38,On Top,,0000,0000,0000,,Aisaretai fureraretetai\NI want to be loved, to feel that touch
+Dialogue: 0,0:22:07.13,0:22:11.35,On Top,,0000,0000,0000,,Motomeru bakari no kimochi wa\NThe sense of continually seeking
+Dialogue: 0,0:22:11.35,0:22:15.18,On Top,,0000,0000,0000,,Hibi o kumoraseteta\NUsed to darken my days
+Dialogue: 0,0:22:16.89,0:22:22.77,On Top,,0000,0000,0000,,Kimi ni deau sono hi made wa\NUntil the day I met you
+Dialogue: 0,0:22:25.74,0:22:32.53,On Top,,0000,0000,0000,,Namae yonde sora ni hibiku-youni\NCall my name so it echoes to the skies
+Dialogue: 0,0:22:34.70,0:22:42.42,On Top,,0000,0000,0000,,Mayoi-michi mo kitto futari nara\NEven lost, with the two of us, surely...
+Dialogue: 0,0:22:42.75,0:22:48.01,On Top,,0000,0000,0000,,Tsunaida te to te hanasanai\NI won't let go of your hand
+Dialogue: 0,0:22:48.47,0:22:50.84,On Top,,0000,0000,0000,,Mamoritainda\NI want to protect you
+Dialogue: 0,0:22:52.72,0:22:56.93,On Top,,0000,0000,0000,,Saa ikou bokura wa\NCome on, let's go, we'll...
+Dialogue: 0,0:22:57.10,0:23:08.95,On Top,,0000,0000,0000,,Ima o mitsumete aruki-hajimeru\N...look at the present and start walking
+Dialogue: 0,0:23:26.00,0:23:26.92,Default,,0000,0000,0000,,This is Nagi...
+Dialogue: 0,0:23:26.92,0:23:27.80,Default,,0000,0000,0000,,...and Hayate's...
+Dialogue: 0,0:23:27.80,0:23:29.61,Default,,0000,0000,0000,,...Butler Report!
+Dialogue: 0,0:23:28.05,0:23:29.31,OS,,0000,0000,0000,,Butler Report
+Dialogue: 0,0:23:29.61,0:23:31.93,Default,,0000,0000,0000,,Try saying my name. I'm Nagi Sanzenin.
+Dialogue: 0,0:23:31.93,0:23:32.80,Default,,0000,0000,0000,,I am Hayate Ayasaki.
+Dialogue: 0,0:23:32.80,0:23:34.80,Default,,0000,0000,0000,,Time flies. This is already Episode 50 \Nof "Hayate the Combat Butler".
+Dialogue: 0,0:23:34.80,0:23:36.48,Default,,0000,0000,0000,,The story is finally \Ncoming up on the climax!
+Dialogue: 0,0:23:36.48,0:23:39.60,Default,,0000,0000,0000,,Will Hayate be able to defeat the Great \NSuper-Dimensional Evil Butler General?!
+Dialogue: 0,0:23:39.60,0:23:41.15,Default,,0000,0000,0000,,Um, we'll have to see about that...
+Dialogue: 0,0:23:41.15,0:23:43.35,Default,,0000,0000,0000,,By the way, this song is your \Ncharacter song, isn't it, Miss?
+Dialogue: 0,0:23:43.35,0:23:45.83,Default,,0000,0000,0000,,Yes. Actually, the next episode \Nwill be our last Butler Report.
+Dialogue: 0,0:23:45.83,0:23:47.36,Default,,0000,0000,0000,,I must take the anchor position, after all.
+Dialogue: 0,0:23:47.36,0:23:48.86,Default,,0000,0000,0000,,So, the fan service shot is of me, too.
+Dialogue: 0,0:23:48.86,0:23:50.15,Default,,0000,0000,0000,,This is improper, Miss!
+Dialogue: 0,0:23:50.15,0:23:51.26,Default,,0000,0000,0000,,Not to worry. For the next episode,
+Dialogue: 0,0:23:51.26,0:23:53.20,Default,,0000,0000,0000,,we'll prepare a fan service shot \Nof you bathing in a cross-dress outfit.
+Dialogue: 0,0:23:53.20,0:23:54.07,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:23:54.07,0:23:55.31,Default,,0000,0000,0000,,Well, see you!
+Dialogue: 0,0:23:55.95,0:23:58.95,Default,,0000,0000,0000,,{\pos(320,224)}Preview
+Dialogue: 0,0:23:57.12,0:23:59.57,On Top,,0000,0000,0000,,What? Something important \Nthe Miss had ordered?
+Dialogue: 0,0:23:58.95,0:24:18.93,OS,,0000,0000,0000,,{\an8\pos(174,307)}The next episode of \N"Hayate the Combat Butler" is...
+Dialogue: 0,0:23:59.57,0:24:02.30,On Top,,0000,0000,0000,,Yes. Might I ask you \Nto go get it from the store?
+Dialogue: 0,0:24:02.30,0:24:04.12,On Top,,0000,0000,0000,,I understand. I will go right away.
+Dialogue: 0,0:24:04.12,0:24:05.46,On Top,,0000,0000,0000,,Don't be in such a hurry!
+Dialogue: 0,0:24:05.46,0:24:06.67,On Top,,0000,0000,0000,,Huh? Why?
+Dialogue: 0,0:24:06.67,0:24:09.66,On Top,,0000,0000,0000,,I just suddenly don't want to \Nsee your face anymore!
+Dialogue: 0,0:24:09.66,0:24:10.46,On Top,,0000,0000,0000,,What?!
+Dialogue: 0,0:24:10.46,0:24:14.60,On Top,,0000,0000,0000,,Mister Ayasaki, I would like to give you \Nthis gift of 150 million yen.
+Dialogue: 0,0:24:14.60,0:24:17.06,On Top,,0000,0000,0000,,I would like to poach you for my company.
+Dialogue: 0,0:24:17.06,0:24:18.77,On Top,,0000,0000,0000,,Next time on "Hayate the Combat Butler"...
+Dialogue: 0,0:24:18.77,0:24:19.54,On Top,,0000,0000,0000,,"Spring."
+Dialogue: 0,0:24:18.93,0:24:21.98,Default,,0000,0000,0000,,Spring
+Dialogue: 0,0:24:19.54,0:24:21.98,On Top,,0000,0000,0000,,Don't be such a stranger, Hayate!
+Dialogue: 0,0:24:21.98,0:24:23.96,On Top,,0000,0000,0000,,I will protect the Miss!

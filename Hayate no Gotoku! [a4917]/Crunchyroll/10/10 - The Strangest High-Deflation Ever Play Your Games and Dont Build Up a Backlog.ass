@@ -1,0 +1,595 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.00,0:00:05.72,On Top,,0000,0000,0000,,When watching "Hayate the Combat Butler",
+Dialogue: 0,0:00:05.72,0:00:08.69,On Top,,0000,0000,0000,,please keep the room bright \Nand sit well away from the TV.
+Dialogue: 0,0:00:08.69,0:00:09.52,On Top,,0000,0000,0000,,That's right.
+Dialogue: 0,0:00:16.71,0:00:20.49,Italics,,0000,0000,0000,,Let us stop the chitchat now
+Dialogue: 0,0:00:20.49,0:00:24.40,Italics,,0000,0000,0000,,Come, let us quietly see this through
+Dialogue: 0,0:00:24.40,0:00:29.37,Italics,,0000,0000,0000,,If it's romance, look, it's already begun
+Dialogue: 0,0:00:46.76,0:00:51.56,OS,,0000,0000,0000,,{\pos(91,135)}Maria All the Way
+Dialogue: 0,0:00:52.20,0:00:55.07,Italics,,0000,0000,0000,,A butler is one who serves.
+Dialogue: 0,0:00:55.56,0:00:58.57,Italics,,0000,0000,0000,,A butler is one who waits upon others.
+Dialogue: 0,0:00:58.57,0:01:01.94,Italics,,0000,0000,0000,,A butler is a formal guardian,
+Dialogue: 0,0:01:01.94,0:01:04.46,Italics,,0000,0000,0000,,who is there to support his \Nmistress in all aspects of her life.
+Dialogue: 0,0:01:05.42,0:01:06.60,Italics,,0000,0000,0000,,Yes!
+Dialogue: 0,0:01:06.60,0:01:10.89,Italics,,0000,0000,0000,,This is about a boy who fights \Nand puts his life on the line for a girl...
+Dialogue: 0,0:01:10.89,0:01:14.51,Italics,,0000,0000,0000,,A super combat battle story!
+Dialogue: 0,0:01:14.51,0:01:17.62,Default,,0000,0000,0000,,Today, we have an original \Nepisode drafted by Mr. Hata.
+Dialogue: 0,0:01:17.62,0:01:18.49,Default,,0000,0000,0000,,Isn't that right?
+Dialogue: 0,0:01:18.49,0:01:19.72,Default,,0000,0000,0000,,That's what I hear.
+Dialogue: 0,0:01:21.43,0:01:27.40,On Top,,0000,0000,0000,,{\an8}Daichi ni kaketa bokura no yukue
+Dialogue: 0,0:01:21.43,0:01:27.40,On Top,,0000,0000,0000,,Our destination that we've \Nstaked upon this earth
+Dialogue: 0,0:01:28.00,0:01:34.24,On Top,,0000,0000,0000,,{\an8}Tsuki-nukeru hayate no gotoku
+Dialogue: 0,0:01:28.00,0:01:34.24,On Top,,0000,0000,0000,,Like the sudden gale that cuts across
+Dialogue: 0,0:01:34.71,0:01:37.78,On Top,,0000,0000,0000,,{\an8}Unmei ni makete
+Dialogue: 0,0:01:34.71,0:01:37.78,On Top,,0000,0000,0000,,Giving in to fate
+Dialogue: 0,0:01:37.78,0:01:42.18,On Top,,0000,0000,0000,,{\an8}Shagami-komu nante tsumannai yo
+Dialogue: 0,0:01:37.78,0:01:42.18,On Top,,0000,0000,0000,,And hunkering down is no fun
+Dialogue: 0,0:01:42.18,0:01:46.45,On Top,,0000,0000,0000,,{\an8}Sore ja kakko warui yo!
+Dialogue: 0,0:01:42.18,0:01:46.45,On Top,,0000,0000,0000,,That's just not cool!
+Dialogue: 0,0:01:47.02,0:01:50.02,On Top,,0000,0000,0000,,{\an8}Uso kara deta makoto
+Dialogue: 0,0:01:47.02,0:01:50.02,On Top,,0000,0000,0000,,Many a true word is spoken in jest
+Dialogue: 0,0:01:50.53,0:01:55.90,On Top,,0000,0000,0000,,{\an8}Koukai wa kitto mi kara deta sabi
+Dialogue: 0,0:01:50.53,0:01:55.90,On Top,,0000,0000,0000,,Regret is probably reaping what you sowed
+Dialogue: 0,0:01:55.90,0:01:58.87,On Top,,0000,0000,0000,,{\an8}Zettai, nase ba naru!
+Dialogue: 0,0:01:55.90,0:01:58.87,On Top,,0000,0000,0000,,Where there's a will, \Nthere's definitely a way!
+Dialogue: 0,0:01:59.03,0:02:05.44,On Top,,0000,0000,0000,,{\an8}Ooki na hamon ni nomi-komareteku
+Dialogue: 0,0:01:59.03,0:02:05.44,On Top,,0000,0000,0000,,As a great rippling wave swallows us up
+Dialogue: 0,0:02:05.77,0:02:11.91,On Top,,0000,0000,0000,,{\an8}Karada nami ni makasereba
+Dialogue: 0,0:02:05.77,0:02:11.91,On Top,,0000,0000,0000,,Just let it take you
+Dialogue: 0,0:02:12.28,0:02:14.98,On Top,,0000,0000,0000,,{\an8}Kanchigai no yume
+Dialogue: 0,0:02:12.28,0:02:14.98,On Top,,0000,0000,0000,,Dreams that are misguided
+Dialogue: 0,0:02:15.15,0:02:18.22,On Top,,0000,0000,0000,,{\an8}Mato-hazure no kitai
+Dialogue: 0,0:02:15.15,0:02:18.22,On Top,,0000,0000,0000,,Hopes that are way off base
+Dialogue: 0,0:02:18.22,0:02:23.96,On Top,,0000,0000,0000,,{\an8}Tsuyoku omoeba itsuka tsukameru sa!
+Dialogue: 0,0:02:18.22,0:02:23.96,On Top,,0000,0000,0000,,You'll grab them someday, \Nif you just have conviction
+Dialogue: 0,0:02:24.73,0:02:30.87,On Top,,0000,0000,0000,,{\an8}Daichi keri-age hashiri-dasou
+Dialogue: 0,0:02:24.73,0:02:30.87,On Top,,0000,0000,0000,,Let's kick up the earth and start running
+Dialogue: 0,0:02:31.13,0:02:37.80,On Top,,0000,0000,0000,,{\an8}Kimama ni mau kaze no gotoku
+Dialogue: 0,0:02:31.13,0:02:37.80,On Top,,0000,0000,0000,,Like the capricious breeze that dances about
+Dialogue: 0,0:02:50.02,0:02:53.52,Default,,0000,0000,0000,,The Strangest High-Deflation Ever. \NPlay Your Games and Don't Build Up a Backlog
+Dialogue: 0,0:02:54.96,0:02:56.65,Default,,0000,0000,0000,,Damn it! Damn it!
+Dialogue: 0,0:02:56.65,0:02:58.49,Default,,0000,0000,0000,,What is this game?!
+Dialogue: 0,0:02:58.49,0:03:01.42,Default,,0000,0000,0000,,This game's got awfully crappy graphics.
+Dialogue: 0,0:03:01.42,0:03:03.46,Default,,0000,0000,0000,,This is a PS3 game?
+Dialogue: 0,0:03:03.46,0:03:04.50,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:03:04.50,0:03:06.67,Default,,0000,0000,0000,,But I'm tired of high-deflation games,
+Dialogue: 0,0:03:06.67,0:03:09.00,Default,,0000,0000,0000,,so I felt like giving an older game a try.
+Dialogue: 0,0:03:09.00,0:03:12.20,Default,,0000,0000,0000,,Huh. So you're sayin' \Nmodern games're lukewarm?
+Dialogue: 0,0:03:12.20,0:03:13.59,Default,,0000,0000,0000,,Then wouldn't it be better \Nto play outside or somethin'?
+Dialogue: 0,0:03:13.59,0:03:14.85,Default,,0000,0000,0000,,That would be tiring.
+Dialogue: 0,0:03:14.85,0:03:16.24,Default,,0000,0000,0000,,Well, yeah, but...
+Dialogue: 0,0:03:16.24,0:03:17.98,Default,,0000,0000,0000,,Rather than do something so tiring,
+Dialogue: 0,0:03:17.98,0:03:19.98,Default,,0000,0000,0000,,I want to play games from the good old days
+Dialogue: 0,0:03:19.98,0:03:22.21,Default,,0000,0000,0000,,and get a renewed perspective \Non our current era of high-deflation.
+Dialogue: 0,0:03:22.21,0:03:28.69,OS,,0000,0000,0000,,{\an9} New Heroic Dragon Tale
+Dialogue: 0,0:03:22.68,0:03:26.12,Default,,0000,0000,0000,,I obtained an old, rare game in \Nan attempt to cleanse my tainted soul
+Dialogue: 0,0:03:26.12,0:03:28.46,Default,,0000,0000,0000,,with the purity of \Nsomething old school, but...
+Dialogue: 0,0:03:28.95,0:03:31.48,Default,,0000,0000,0000,,It's more you-know-what than rare, though.
+Dialogue: 0,0:03:31.48,0:03:33.96,Default,,0000,0000,0000,,Well, to put it simply, \Nthat's what it comes down to.
+Dialogue: 0,0:03:33.96,0:03:36.64,Default,,0000,0000,0000,,I mean, I'd heard that it was you-know-what,
+Dialogue: 0,0:03:36.64,0:03:38.97,Default,,0000,0000,0000,,but this game is even worse \Nthan I'd been led to expect.
+Dialogue: 0,0:03:38.97,0:03:42.00,Default,,0000,0000,0000,,But isn't that the appeal of retro games?
+Dialogue: 0,0:03:39.13,0:03:42.90,OS,,0000,0000,0000,,{\pos(107.556,155.7)} A Black-Hearted Santa\N has appeared!
+Dialogue: 0,0:03:39.13,0:03:43.47,OS,,0000,0000,0000,,{\pos(103,20)} Hayate LV Small Fry
+Dialogue: 0,0:03:40.97,0:03:42.90,Default,,0000,0000,0000,,{\pos(569.778,175.5)}Command \NRun \NTools\N Attack \NDefend \NKowtow
+Dialogue: 0,0:03:42.00,0:03:44.77,Default,,0000,0000,0000,,I mean, yeah, the audio's fair at best, \Nthe movement's choppy,
+Dialogue: 0,0:03:42.90,0:03:44.20,OS,,0000,0000,0000,,{\pos(107.556,155.7)}Hayate throws a punch!
+Dialogue: 0,0:03:44.20,0:03:45.20,OS,,0000,0000,0000,,{\pos(107.556,155.7)}The Black-Hearted\N Santa swiftly dodges!
+Dialogue: 0,0:03:44.77,0:03:48.46,Default,,0000,0000,0000,,and the screen's so cluttered, \Nyou can barely tell where you're at...
+Dialogue: 0,0:03:45.20,0:03:46.44,OS,,0000,0000,0000,,{\pos(102.223,198)}The Black-Hearted\N Santa \Nattacks!
+Dialogue: 0,0:03:46.47,0:03:47.74,OS,,0000,0000,0000,,{\pos(104,189.9)}He delivers\N a marvelous blow! \NHayate takes \N69372 damage!
+Dialogue: 0,0:03:47.74,0:03:48.44,OS,,0000,0000,0000,,{\pos(104,230.4)}Hayate has died.
+Dialogue: 0,0:03:48.46,0:03:50.20,Default,,0000,0000,0000,,Shuddup, you Kansai person.
+Dialogue: 0,0:03:48.46,0:03:50.21,OS,,0000,0000,0000,,{\pos(104,230.4)}Shuddup, \Nyou Kansai person.
+Dialogue: 0,0:03:50.21,0:03:51.44,OS,,0000,0000,0000,,{\pos(104,230.4)}Go have some\N octopus balls
+Dialogue: 0,0:03:50.29,0:03:52.91,Default,,0000,0000,0000,,Go have some octopus balls \Nas your side dish with white rice.
+Dialogue: 0,0:03:51.44,0:03:52.91,OS,,0000,0000,0000,,{\pos(104,230.4)}as your side dish \Nwith white rice.
+Dialogue: 0,0:03:53.61,0:03:56.76,Default,,0000,0000,0000,,The hell was that?! \NYou makin' fun of Kansai people?!
+Dialogue: 0,0:03:56.76,0:04:00.22,Default,,0000,0000,0000,,H-Hey, Sakuya, you don't have to \Nget so pissed at a silly game.
+Dialogue: 0,0:04:00.22,0:04:02.62,Default,,0000,0000,0000,,And you, your game play sucks, \Nso don't blame it on the game
+Dialogue: 0,0:04:00.48,0:04:01.85,OS,,0000,0000,0000,,{\pos(104,230.4)}And you, \Nyour game play sucks,
+Dialogue: 0,0:04:01.85,0:04:03.05,OS,,0000,0000,0000,,{\pos(104,230.4)}so don't blame it \Non the game,
+Dialogue: 0,0:04:02.62,0:04:03.69,Default,,0000,0000,0000,,you little squirt!
+Dialogue: 0,0:04:03.05,0:04:03.69,OS,,0000,0000,0000,,{\pos(104,230.4)}YOU LITTLE SQUIRT!
+Dialogue: 0,0:04:04.62,0:04:05.92,Default,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:04:05.92,0:04:09.09,Default,,0000,0000,0000,,Why you! You're nothing but a crappy game!
+Dialogue: 0,0:04:09.52,0:04:13.90,Default,,0000,0000,0000,,I'm never enterin' more than \N"AAAA" for a character name!
+Dialogue: 0,0:04:13.90,0:04:20.64,OS,,0000,0000,0000,,Grab a hold of freedom
+Dialogue: 0,0:04:15.60,0:04:20.64,Default,,0000,0000,0000,,Um, dinner is ready. \NWhat are you two both doing?
+Dialogue: 0,0:04:20.64,0:04:23.94,Default,,0000,0000,0000,,Nothing! We were just consigning \Na societal evil to oblivion!
+Dialogue: 0,0:04:23.94,0:04:34.19,OS,,0000,0000,0000,,{\pos(101.333,50.4)}Melf me all da way
+Dialogue: 0,0:04:23.94,0:04:34.19,OS,,0000,0000,0000,,{\pos(276.444,61.2)}One hour of \Ngaming a day
+Dialogue: 0,0:04:24.23,0:04:25.08,Default,,0000,0000,0000,,Pardon?
+Dialogue: 0,0:04:25.08,0:04:27.01,Default,,0000,0000,0000,,Never mind that. What's for dinner?
+Dialogue: 0,0:04:27.01,0:04:28.85,Default,,0000,0000,0000,,Green peppers stuffed with meat, \Namong other things.
+Dialogue: 0,0:04:28.85,0:04:31.14,Default,,0000,0000,0000,,What? But I hate green peppers.
+Dialogue: 0,0:04:31.14,0:04:34.19,Default,,0000,0000,0000,,It's 'cause yer so picky \Nthat you're not growin' any taller.
+Dialogue: 0,0:04:34.19,0:04:36.61,Default,,0000,0000,0000,,Nah, it's not just yer height...
+Dialogue: 0,0:04:36.61,0:04:39.19,Default,,0000,0000,0000,,Wh-What are you trying \Nto get at?! Don't stare at me!
+Dialogue: 0,0:04:39.19,0:04:41.61,Default,,0000,0000,0000,,I didn't say anythin' yet.
+Dialogue: 0,0:04:41.61,0:04:43.58,Default,,0000,0000,0000,,What d'you think I was referrin' to?
+Dialogue: 0,0:04:49.46,0:04:50.94,Default,,0000,0000,0000,,The next morning!
+Dialogue: 0,0:04:50.94,0:04:52.67,OS,,0000,0000,0000,,Butlers must be manly!!
+Dialogue: 0,0:04:53.75,0:04:55.31,Default,,0000,0000,0000,,Why does the sun...
+Dialogue: 0,0:04:58.22,0:05:00.99,Default,,0000,0000,0000,,...rise every morning?
+Dialogue: 0,0:05:02.94,0:05:06.63,Default,,0000,0000,0000,,What are you doing griping about \Nnature in your first waking moment?
+Dialogue: 0,0:05:06.63,0:05:09.05,Default,,0000,0000,0000,,The sun just doesn't get it!
+Dialogue: 0,0:05:09.44,0:05:12.14,Default,,0000,0000,0000,,It's only when you miss deadlines \Nand take breaks once in while
+Dialogue: 0,0:05:12.14,0:05:15.06,Default,,0000,0000,0000,,that people will appreciate it \Nwhen you actually have a chapter in print.
+Dialogue: 0,0:05:15.06,0:05:19.30,Default,,0000,0000,0000,,A-Airing such an appalling statement \Non TV is a bit questionable...
+Dialogue: 0,0:05:19.68,0:05:23.27,Default,,0000,0000,0000,,Anyway, please change quickly \Nand prepare for school.
+Dialogue: 0,0:05:23.27,0:05:25.30,Default,,0000,0000,0000,,Sakuya and the others \Nare waiting, after all.
+Dialogue: 0,0:05:26.57,0:05:28.49,Default,,0000,0000,0000,,Makita! Kunieda!
+Dialogue: 0,0:05:28.49,0:05:31.01,Default,,0000,0000,0000,,All righty, I'm off to school!
+Dialogue: 0,0:05:32.00,0:05:34.78,Default,,0000,0000,0000,,Hmph! School, school! What an annoying girl!
+Dialogue: 0,0:05:34.78,0:05:37.36,Italics,,0000,0000,0000,,Hmph! School, school! What an annoying...
+Dialogue: 0,0:05:38.28,0:05:40.43,On Top,,0000,0000,0000,,Tell me, Maria, is this déjà vu?
+Dialogue: 0,0:05:40.05,0:05:46.02,OS,,0000,0000,0000,,{\an8\pos(453.333,216)}When watching Hayate the Combat Butler, \Nplease keep the room bright \Nand sit away from the TV
+Dialogue: 0,0:05:40.43,0:05:43.46,On Top,,0000,0000,0000,,I feel like I've seen this scene before.
+Dialogue: 0,0:05:43.46,0:05:45.21,On Top,,0000,0000,0000,,The thing is, it seems \Nthis episode takes place
+Dialogue: 0,0:05:45.21,0:05:47.49,On Top,,0000,0000,0000,,during the same time \Nperiod as two episodes back.
+Dialogue: 0,0:05:47.49,0:05:49.73,Default,,0000,0000,0000,,Hmm, zapping, huh?
+Dialogue: 0,0:05:49.73,0:05:51.96,Default,,0000,0000,0000,,Anime sure has become \Na lot more complicated.
+Dialogue: 0,0:05:52.38,0:05:55.54,Default,,0000,0000,0000,,After all, this is the era of DTT, \NEPG recording, digital coloring,
+Dialogue: 0,0:05:55.54,0:05:57.12,Default,,0000,0000,0000,,outsourcing whole episodes overseas,
+Dialogue: 0,0:05:57.12,0:06:01.17,Default,,0000,0000,0000,,the leaking of storyboards \Nto online auctions, and manga ministers...
+Dialogue: 0,0:06:02.55,0:06:03.89,Default,,0000,0000,0000,,Yes, it can't be helped.
+Dialogue: 0,0:06:03.89,0:06:06.25,Default,,0000,0000,0000,,I don't like it, but I'll go along \Nwith that course of action.
+Dialogue: 0,0:06:06.25,0:06:08.41,Default,,0000,0000,0000,,Especially since it's looking like \NI might not have to go to school.
+Dialogue: 0,0:06:08.86,0:06:11.24,Default,,0000,0000,0000,,Oh, dear, so that's \Nthe tack you're taking this time.
+Dialogue: 0,0:06:11.55,0:06:17.39,OS,,0000,0000,0000,,Oh dear
+Dialogue: 0,0:06:12.31,0:06:14.11,Default,,0000,0000,0000,,"'All righty, I'm off to school!'
+Dialogue: 0,0:06:14.11,0:06:16.26,Default,,0000,0000,0000,,"Sakuya left the room in high spirits,
+Dialogue: 0,0:06:16.26,0:06:18.41,Default,,0000,0000,0000,,"but she suddenly got the urge \Nto watch M-1 DVDs
+Dialogue: 0,0:06:18.41,0:06:19.85,Default,,0000,0000,0000,,"and she u-turned back \Nto second floor of the residence.
+Dialogue: 0,0:06:19.85,0:06:22.89,Default,,0000,0000,0000,,"And click. When she opened the door \Nto the gaming room, there she found..."
+Dialogue: 0,0:06:26.73,0:06:28.50,OS,,0000,0000,0000,,{\pos(103.111,241.2)}Heh heh heh heh....
+Dialogue: 0,0:06:28.28,0:06:32.40,Default,,0000,0000,0000,,You saw me. Bastard, \Nyou're not getting out of here alive.
+Dialogue: 0,0:06:28.50,0:06:30.47,OS,,0000,0000,0000,,{\pos(103.111,241.2)}You~~~ saw~~~\N me~~~ Bastard...
+Dialogue: 0,0:06:31.02,0:06:32.40,On Top,,0000,0000,0000,,Makita. Kunieda.
+Dialogue: 0,0:06:32.40,0:06:33.61,Default,,0000,0000,0000,,Yes, Miss!
+Dialogue: 0,0:06:35.17,0:06:38.78,Default,,0000,0000,0000,,Nooo! Wait! Oh, you're going to break me!
+Dialogue: 0,0:06:38.78,0:06:40.87,Default,,0000,0000,0000,,Eh? It's not a small fire?
+Dialogue: 0,0:06:40.87,0:06:44.46,Default,,0000,0000,0000,,Wait! What's a game console doin', \Ntalkin' like it's totally normal?!
+Dialogue: 0,0:06:44.46,0:06:47.59,Default,,0000,0000,0000,,This is horrible... I'm all sticky, tima.
+Dialogue: 0,0:06:47.91,0:06:50.85,Default,,0000,0000,0000,,"Tima"? What's with that \Nartificial-soundin' sentence endin'?
+Dialogue: 0,0:06:50.85,0:06:53.17,Default,,0000,0000,0000,,Was that the cuttin' edge for yer time?
+Dialogue: 0,0:06:53.73,0:06:57.52,Default,,0000,0000,0000,,Ah-ha, I bet you're the demon king \Ninside that game or somethin'.
+Dialogue: 0,0:06:57.52,0:06:59.38,Italics,,0000,0000,0000,,What superhuman deductive powers!
+Dialogue: 0,0:06:59.38,0:07:01.00,Default,,0000,0000,0000,,Tima! How did you know?!
+Dialogue: 0,0:07:01.00,0:07:03.07,Italics,,0000,0000,0000,,It seems she was really right.
+Dialogue: 0,0:07:03.42,0:07:05.32,Default,,0000,0000,0000,,Ah, I knew it!
+Dialogue: 0,0:07:05.32,0:07:07.28,Default,,0000,0000,0000,,Yeah, lemme guess. \N'Cause you're a crappy game,
+Dialogue: 0,0:07:07.28,0:07:08.59,Default,,0000,0000,0000,,you've gotten shoddy \Ntreatment over the years
+Dialogue: 0,0:07:08.59,0:07:10.16,Default,,0000,0000,0000,,and the resentment's been \Ngradually buildin' up,
+Dialogue: 0,0:07:10.16,0:07:12.09,Default,,0000,0000,0000,,and with yer rage over \Nwhat happened last night,
+Dialogue: 0,0:07:12.09,0:07:13.96,Default,,0000,0000,0000,,ya finally became aware as a monster.
+Dialogue: 0,0:07:13.96,0:07:15.81,Default,,0000,0000,0000,,Yeah, that's 'bout what happened, right?
+Dialogue: 0,0:07:15.81,0:07:18.12,Default,,0000,0000,0000,,Wh-What superhuman deductive powers, tima!
+Dialogue: 0,0:07:18.12,0:07:19.73,Italics,,0000,0000,0000,,I already said that.
+Dialogue: 0,0:07:19.73,0:07:21.25,Default,,0000,0000,0000,,Besides, I may not look it,
+Dialogue: 0,0:07:21.25,0:07:23.65,Default,,0000,0000,0000,,but I'm a Kansai person, who's so \Ncapable I even turned down Hakuou.
+Dialogue: 0,0:07:23.65,0:07:24.89,Default,,0000,0000,0000,,And we don't got enough time.
+Dialogue: 0,0:07:24.89,0:07:28.36,Default,,0000,0000,0000,,Makita! Kunieda! Shut that thing down \Nbefore it gets up to no good!
+Dialogue: 0,0:07:28.36,0:07:30.37,Default,,0000,0000,0000,,Go after its reset button or the power cord!
+Dialogue: 0,0:07:30.37,0:07:31.10,Default,,0000,0000,0000,,Yes, Miss!
+Dialogue: 0,0:07:31.10,0:07:33.73,Default,,0000,0000,0000,,N-Nooo! Don't come near me, tima!
+Dialogue: 0,0:07:33.73,0:07:36.34,Italics,,0000,0000,0000,,But that "tima" sentence \Nendin' sure gets on my nerves.
+Dialogue: 0,0:07:36.34,0:07:37.20,Default,,0000,0000,0000,,Wait... Huh?
+Dialogue: 0,0:07:37.20,0:07:38.62,Default,,0000,0000,0000,,Tima!
+Dialogue: 0,0:07:38.62,0:07:40.84,Default,,0000,0000,0000,,You will be punished!
+Dialogue: 0,0:07:48.71,0:07:50.18,Default,,0000,0000,0000,,The Demon King's castle!
+Dialogue: 0,0:08:00.09,0:08:03.56,OS,,0000,0000,0000,,On Sale
+Dialogue: 0,0:08:07.37,0:08:10.13,OS,,0000,0000,0000,,Demon King \Nthe Great Slygian of Abe (temp)
+Dialogue: 0,0:08:11.94,0:08:15.02,Default,,0000,0000,0000,,I can't move! I'm unable to escape, tima!
+Dialogue: 0,0:08:15.02,0:08:18.16,Default,,0000,0000,0000,,You will be punished! You will be \Npunished! You will be punished!
+Dialogue: 0,0:08:18.70,0:08:21.45,Default,,0000,0000,0000,,Oh, shut up, shut up, shut up!
+Dialogue: 0,0:08:21.45,0:08:24.37,Default,,0000,0000,0000,,And after I finally got out \Ninto the real world, too...
+Dialogue: 0,0:08:24.64,0:08:27.87,Default,,0000,0000,0000,,Th-The hero will come \Nat the end of the world...
+Dialogue: 0,0:08:27.87,0:08:30.42,Default,,0000,0000,0000,,That's right, tima! I'm the final boss.
+Dialogue: 0,0:08:30.12,0:08:32.59,OS,,0000,0000,0000,,House For Sale
+Dialogue: 0,0:08:30.42,0:08:32.59,Default,,0000,0000,0000,,And this castle is the stage \Nfor the final battle.
+Dialogue: 0,0:08:32.59,0:08:36.33,Default,,0000,0000,0000,,If I can turn the tables on the hero here...
+Dialogue: 0,0:08:40.30,0:08:42.53,OS,,0000,0000,0000,,That will be the end of dreams...
+Dialogue: 0,0:08:43.57,0:08:45.62,Default,,0000,0000,0000,,Tima!
+Dialogue: 0,0:08:45.62,0:08:48.84,Default,,0000,0000,0000,,This time, I just might \Nget out of this place, tima!
+Dialogue: 0,0:08:48.84,0:08:52.04,Italics,,0000,0000,0000,,Um, don't you normally get sent back \Nto the title screen or something?
+Dialogue: 0,0:08:52.04,0:08:55.17,Default,,0000,0000,0000,,All right! Now that's decided, \NI better start by capturing the hero, tima!
+Dialogue: 0,0:08:55.17,0:08:57.02,Italics,,0000,0000,0000,,Not that she's listening...
+Dialogue: 0,0:08:57.48,0:08:58.35,Default,,0000,0000,0000,,Push.
+Dialogue: 0,0:09:13.26,0:09:15.23,OS,,0000,0000,0000,,Ultimate Super Awesome \NDemon King Guillotine Scythe
+Dialogue: 0,0:09:15.50,0:09:17.60,Default,,0000,0000,0000,,Th-That should do it!
+Dialogue: 0,0:09:17.86,0:09:22.61,Default,,0000,0000,0000,,Um, Mr. Hero, please fall \Nfor the trap! Tima!
+Dialogue: 0,0:09:24.08,0:09:26.30,Default,,0000,0000,0000,,M-Maria, what do you think of this?!
+Dialogue: 0,0:09:26.30,0:09:27.51,Default,,0000,0000,0000,,Oh, my, it's fantastic!
+Dialogue: 0,0:09:27.87,0:09:28.61,Default,,0000,0000,0000,,Tima!
+Dialogue: 0,0:09:29.69,0:09:31.25,Default,,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:09:31.25,0:09:34.79,Default,,0000,0000,0000,,You can't walk around the residence \Ndressed in a sailor uniform.
+Dialogue: 0,0:09:35.18,0:09:36.17,Default,,0000,0000,0000,,Tima-ma!
+Dialogue: 0,0:09:38.76,0:09:40.99,Default,,0000,0000,0000,,Tima! Tima! Tima! Tima!
+Dialogue: 0,0:09:41.36,0:09:43.63,Default,,0000,0000,0000,,Tima! Tima! Tima! Tima!
+Dialogue: 0,0:09:43.63,0:09:46.86,Default,,0000,0000,0000,,Tima! Tima! Tima! Tima! \NTima! Tima! Tima! Tima!
+Dialogue: 0,0:09:46.86,0:09:50.17,Italics,,0000,0000,0000,,Demon King the Great Stygian of Abe (temp)
+Dialogue: 0,0:09:50.17,0:09:52.24,Italics,,0000,0000,0000,,gave herself over to lonely tears.
+Dialogue: 0,0:09:52.24,0:09:56.16,Default,,0000,0000,0000,,They're awful. No one will notice me, tima.
+Dialogue: 0,0:09:56.16,0:09:59.40,Default,,0000,0000,0000,,You will be punished!
+Dialogue: 0,0:09:59.40,0:10:02.15,Default,,0000,0000,0000,,Oh, shut up, shut up, shut up!
+Dialogue: 0,0:10:04.30,0:10:06.47,Default,,0000,0000,0000,,Huh? Has someone come, tima?
+Dialogue: 0,0:10:07.56,0:10:08.84,Default,,0000,0000,0000,,No answer.
+Dialogue: 0,0:10:08.84,0:10:13.93,Default,,0000,0000,0000,,What? After we came all this way \Nto see Nagi's new butler?
+Dialogue: 0,0:10:13.93,0:10:17.36,Default,,0000,0000,0000,,It can't be helped. \NAs much as it breaks my heart,
+Dialogue: 0,0:10:17.36,0:10:19.09,Default,,0000,0000,0000,,I guess we'll have to head out \Nto Ekoda or something.
+Dialogue: 0,0:10:19.09,0:10:21.80,Default,,0000,0000,0000,,Yes. And skip classes, of course.
+Dialogue: 0,0:10:21.80,0:10:24.77,OS,,0000,0000,0000,,Sanzenin
+Dialogue: 0,0:10:28.63,0:10:29.91,Default,,0000,0000,0000,,What is this?
+Dialogue: 0,0:10:31.18,0:10:32.31,Default,,0000,0000,0000,,What? Wait!
+Dialogue: 0,0:10:32.58,0:10:33.75,Default,,0000,0000,0000,,Miki?!
+Dialogue: 0,0:10:39.45,0:10:41.88,Default,,0000,0000,0000,,Miki, your panties are grownup.
+Dialogue: 0,0:10:41.88,0:10:42.66,Default,,0000,0000,0000,,They are new.
+Dialogue: 0,0:10:42.66,0:10:43.76,Default,,0000,0000,0000,,Let me see.
+Dialogue: 0,0:10:53.77,0:10:55.83,OS,,0000,0000,0000,,Can't show you!
+Dialogue: 0,0:10:54.50,0:10:56.10,Default,,0000,0000,0000,,Owowow...
+Dialogue: 0,0:10:56.10,0:10:57.41,Default,,0000,0000,0000,,Wh-What in the world?!
+Dialogue: 0,0:10:57.41,0:10:58.64,Default,,0000,0000,0000,,Heavy...
+Dialogue: 0,0:10:58.64,0:11:02.47,Italics,,0000,0000,0000,,Th-Thank you for noticing me!
+Dialogue: 0,0:11:02.47,0:11:03.82,Italics,,0000,0000,0000,,Uh... Ahem.
+Dialogue: 0,0:11:03.82,0:11:06.90,Italics,,0000,0000,0000,,Now, heroes, hurry up and \Novercome the trials and tribulations,
+Dialogue: 0,0:11:05.54,0:11:06.90,On Top,,0000,0000,0000,,I hear a boinging sound.
+Dialogue: 0,0:11:06.90,0:11:11.58,Italics,,0000,0000,0000,,and get to the castle, where I, \NDemon King Abe, am waiting for you, tima!
+Dialogue: 0,0:11:07.08,0:11:08.53,On Top,,0000,0000,0000,,What's that?
+Dialogue: 0,0:11:12.12,0:11:14.99,OS,,0000,0000,0000,,A slime has appeared!!
+Dialogue: 0,0:11:15.46,0:11:16.43,Default,,0000,0000,0000,,This is fail.
+Dialogue: 0,0:11:16.43,0:11:19.11,Default,,0000,0000,0000,,Wow! It's a moving doodle!
+Dialogue: 0,0:11:19.11,0:11:23.07,Default,,0000,0000,0000,,No, the way I see it, a crappy game \Nthat was downtrodden for many years...
+Dialogue: 0,0:11:23.07,0:11:24.44,Default,,0000,0000,0000,,Omitting the rest of the explanation.
+Dialogue: 0,0:11:24.44,0:11:28.23,Default,,0000,0000,0000,,What?! Then we're inside \Nthe world of a game?!
+Dialogue: 0,0:11:28.23,0:11:31.70,Default,,0000,0000,0000,,Come, heroes! After him! \NAfter the eager monster!
+Dialogue: 0,0:11:32.10,0:11:33.26,Default,,0000,0000,0000,,Hm, it cannot be helped.
+Dialogue: 0,0:11:33.26,0:11:37.73,Default,,0000,0000,0000,,When you get down to it, it is my fault \Nfor picking up that controller.
+Dialogue: 0,0:11:37.73,0:11:39.58,Default,,0000,0000,0000,,Since it has come to this...
+Dialogue: 0,0:11:39.58,0:11:42.71,Default,,0000,0000,0000,,Y-You can't, Miki! You can't fight it alone!
+Dialogue: 0,0:11:42.71,0:11:46.45,OS,,0000,0000,0000,,{\pos(569.778,108.9)} Right? Right?
+Dialogue: 0,0:11:42.71,0:11:46.45,OS,,0000,0000,0000,,{\pos(475.556,254.7)} Is that your final answer?
+Dialogue: 0,0:11:43.50,0:11:45.81,Default,,0000,0000,0000,,Great Demon King, she is the hero!
+Dialogue: 0,0:11:46.45,0:11:47.05,OS,,0000,0000,0000,,The slime attacks!!
+Dialogue: 0,0:11:47.19,0:11:48.19,OS,,0000,0000,0000,,The slime attacks Risa!!
+Dialogue: 0,0:11:48.19,0:11:52.66,OS,,0000,0000,0000,,Risa is hit for 42837 points!!
+Dialogue: 0,0:11:48.46,0:11:52.66,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:11:52.66,0:11:56.63,OS,,0000,0000,0000,,{\pos(53.333,14.4)} Damnd
+Dialogue: 0,0:11:52.66,0:11:56.63,OS,,0000,0000,0000,,{\pos(367.111,43.2)} Sodom
+Dialogue: 0,0:11:53.21,0:11:55.19,Default,,0000,0000,0000,,Risa is dead.
+Dialogue: 0,0:11:53.32,0:11:56.63,OS,,0000,0000,0000,,{\pos(320,217.8)} Risa is dead!!
+Dialogue: 0,0:11:55.19,0:11:56.13,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:57.85,0:11:59.25,Default,,0000,0000,0000,,I'll leave the rest to you.
+Dialogue: 0,0:11:59.25,0:12:01.12,Default,,0000,0000,0000,,N-No way!
+Dialogue: 0,0:12:01.87,0:12:02.37,OS,,0000,0000,0000,,The slime attacks!!
+Dialogue: 0,0:12:02.47,0:12:03.84,OS,,0000,0000,0000,,The slime attacks Miki!! \NThe slime attacks Izumi!!
+Dialogue: 0,0:12:07.64,0:12:11.31,Default,,0000,0000,0000,,N-Not good! At this rate, the heroes \NI finally got will end up dead, tima!
+Dialogue: 0,0:12:11.31,0:12:12.59,Default,,0000,0000,0000,,You will be punished!
+Dialogue: 0,0:12:12.59,0:12:13.51,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:12:13.95,0:12:14.85,Default,,0000,0000,0000,,Push.
+Dialogue: 0,0:12:20.69,0:12:21.35,OS,,0000,0000,0000,,{\pos(64.889,18)} Bro
+Dialogue: 0,0:12:20.69,0:12:21.35,OS,,0000,0000,0000,,{\pos(90.667,131.4)} Congrats to \NKing-Show comeback
+Dialogue: 0,0:12:20.69,0:12:21.35,OS,,0000,0000,0000,,{\pos(570.667,13.5)} World \NConquest
+Dialogue: 0,0:12:20.69,0:12:21.35,OS,,0000,0000,0000,,{\pos(528.889,115.2)} Gorangai
+Dialogue: 0,0:12:21.89,0:12:27.66,OS,,0000,0000,0000,,{\pos(91,74)} World \NConquest
+Dialogue: 0,0:12:21.89,0:12:27.66,OS,,0000,0000,0000,,{\pos(407.111,57.6)} Gorangai
+Dialogue: 0,0:12:21.89,0:12:27.66,OS,,0000,0000,0000,,{\pos(173,33)} Activate
+Dialogue: 0,0:12:22.03,0:12:24.50,Default,,0000,0000,0000,,Hey, are you okay?
+Dialogue: 0,0:12:25.27,0:12:26.79,Default,,0000,0000,0000,,Just barely...
+Dialogue: 0,0:12:25.92,0:12:27.66,OS,,0000,0000,0000,,{\pos(496,21.6)} Izumi Segawa
+Dialogue: 0,0:12:27.66,0:12:29.89,Default,,0000,0000,0000,,Yes! Saved by the skin of her teeth, tima!
+Dialogue: 0,0:12:29.89,0:12:32.40,Default,,0000,0000,0000,,You will be punished!
+Dialogue: 0,0:12:35.10,0:12:39.69,Italics,,0000,0000,0000,,{\an8}Calling me from somewhere
+Dialogue: 0,0:12:35.44,0:12:37.86,Default,,0000,0000,0000,,Somehow, I feel like on of us has it easy...
+Dialogue: 0,0:12:37.86,0:12:39.69,Default,,0000,0000,0000,,Rissy, no fair!
+Dialogue: 0,0:12:39.69,0:12:42.87,Default,,0000,0000,0000,,What?! It may not look it, but it's \Ncramped in here and tough for me, too!
+Dialogue: 0,0:12:40.28,0:12:45.24,Italics,,0000,0000,0000,,{\an8}An echoing cry on the verge of tears
+Dialogue: 0,0:12:42.87,0:12:46.41,Default,,0000,0000,0000,,Oh, I can't wait to be revived, \Nso I can fight with you!
+Dialogue: 0,0:12:45.24,0:12:47.93,Italics,,0000,0000,0000,,{\an8}I'll be right there!
+Dialogue: 0,0:12:46.74,0:12:48.48,Default,,0000,0000,0000,,Y-You do?
+Dialogue: 0,0:12:48.28,0:12:52.25,Italics,,0000,0000,0000,,{\an8}Because I belong to you now
+Dialogue: 0,0:12:48.48,0:12:49.89,Default,,0000,0000,0000,,Then, I'm sure it'll be rough,
+Dialogue: 0,0:12:49.89,0:12:52.50,Default,,0000,0000,0000,,but we'll revive you for sure \Nwhen we find a village or something.
+Dialogue: 0,0:12:52.50,0:12:53.60,Default,,0000,0000,0000,,I appreciate that.
+Dialogue: 0,0:12:53.60,0:12:55.22,Default,,0000,0000,0000,,By the way, could I ask you \Nfor one more favor?
+Dialogue: 0,0:12:55.22,0:12:56.75,Default,,0000,0000,0000,,Hm? What is it?
+Dialogue: 0,0:12:56.75,0:12:58.66,Default,,0000,0000,0000,,I'm thirsty, so go buy me a Pocari.
+Dialogue: 0,0:12:57.44,0:13:03.01,Italics,,0000,0000,0000,,{\an8}Pushed around by the terribly selfish crowd
+Dialogue: 0,0:13:03.01,0:13:08.44,Italics,,0000,0000,0000,,{\an8}If you're about to fall \Non to the hard asphalt
+Dialogue: 0,0:13:04.30,0:13:05.57,Default,,0000,0000,0000,,You're awful, Rissy!
+Dialogue: 0,0:13:05.57,0:13:07.40,Default,,0000,0000,0000,,Quit playing a game within a game!
+Dialogue: 0,0:13:07.40,0:13:09.80,Default,,0000,0000,0000,,Y-You're wrong! Th-This is, you know!
+Dialogue: 0,0:13:08.55,0:13:14.22,Italics,,0000,0000,0000,,{\an8}Here, it's okay, I'll draw you into my arms
+Dialogue: 0,0:13:09.80,0:13:12.00,Default,,0000,0000,0000,,I'm checking to see if we can make \Ncontact with the outside world!
+Dialogue: 0,0:13:12.00,0:13:13.27,Default,,0000,0000,0000,,Lies!
+Dialogue: 0,0:13:13.27,0:13:16.91,Italics,,0000,0000,0000,,While the three girls \Nwere bickering in the game world,
+Dialogue: 0,0:13:16.91,0:13:19.17,Italics,,0000,0000,0000,,there was just one person \Nat the residence back in the real world,
+Dialogue: 0,0:13:19.17,0:13:21.47,Italics,,0000,0000,0000,,who had noticed the strange occurrence.
+Dialogue: 0,0:13:21.47,0:13:23.01,Default,,0000,0000,0000,,What shall I do?
+Dialogue: 0,0:13:23.01,0:13:27.24,Default,,0000,0000,0000,,I become lost yet again \Nwhen I woke up this morning.
+Dialogue: 0,0:13:27.24,0:13:31.20,Italics,,0000,0000,0000,,Incidentally, this ghostly air... \NIt is likely some sort of monster.
+Dialogue: 0,0:13:31.62,0:13:33.69,OS,,0000,0000,0000,,Fruition of Love
+Dialogue: 0,0:13:33.69,0:13:36.66,Italics,,0000,0000,0000,,And the monster is most likely...!
+Dialogue: 0,0:13:36.66,0:13:37.30,OS,,0000,0000,0000,,Dating Site
+Dialogue: 0,0:13:41.29,0:13:43.07,Default,,0000,0000,0000,,Not in here...
+Dialogue: 0,0:13:47.28,0:13:50.51,Default,,0000,0000,0000,,The top 3 will finally be \Nannounced in the second half!
+Dialogue: 0,0:13:52.97,0:13:54.95,Default,,0000,0000,0000,,Sushi rice beam! (Sumeshi biimu)
+Dialogue: 0,0:13:57.53,0:13:59.42,Default,,0000,0000,0000,,Monsieur in the mood. (Musshu muramura)
+Dialogue: 0,0:13:59.42,0:14:02.39,OS,,0000,0000,0000,,{\pos(152.889,270.9)} Presented by Nagi Sanzenin
+Dialogue: 0,0:13:59.42,0:14:02.39,OS,,0000,0000,0000,,{\pos(484.444,45.9)} Today's Fortunes Countdown
+Dialogue: 0,0:13:59.42,0:14:02.39,Default,,0000,0000,0000,,Today's fortunes countdown!
+Dialogue: 0,0:14:03.42,0:14:07.36,OS,,0000,0000,0000,,{\pos(569.778,283.5)}Aries 4th\NSagittarius 5th\NVirgo 6th\NAquarius 7th\NPisces 8th\NCancer 9th\NCapricorn 10th\NLeo 11th\NLibra 12th
+Dialogue: 0,0:14:07.77,0:14:13.10,OS,,0000,0000,0000,,Today's 3rd Place
+Dialogue: 0,0:14:09.61,0:14:12.24,Default,,0000,0000,0000,,Coming in 3rd is Cancer. \NLucky spot is oil fields.
+Dialogue: 0,0:14:12.24,0:14:14.26,Default,,0000,0000,0000,,There may be a wonderful \Nencounter waiting for you.
+Dialogue: 0,0:14:13.63,0:14:18.04,OS,,0000,0000,0000,,The Much-Anticipated 2nd Place
+Dialogue: 0,0:14:16.12,0:14:19.76,Default,,0000,0000,0000,,Coming in 2nd is Taurus. \NA happy day, where everything will go well.
+Dialogue: 0,0:14:19.76,0:14:21.62,Default,,0000,0000,0000,,Might be your one chance to quit being \Nan unproductive member of society.
+Dialogue: 0,0:14:20.74,0:14:27.08,Default,,0000,0000,0000,,1st Place
+Dialogue: 0,0:14:21.62,0:14:23.50,Default,,0000,0000,0000,,Come, let's work up that courage!
+Dialogue: 0,0:14:25.62,0:14:27.08,Default,,0000,0000,0000,,I-In first place is...!
+Dialogue: 0,0:14:28.88,0:14:31.24,Italics,,0000,0000,0000,,Bright smiles! A great selection!
+Dialogue: 0,0:14:31.24,0:14:33.92,Italics,,0000,0000,0000,,We, at the Rental Video \NTachibana Shinjuku Flagship store,
+Dialogue: 0,0:14:33.92,0:14:37.42,Italics,,0000,0000,0000,,shall be awaiting you, \Nthe discerning customer.
+Dialogue: 0,0:14:37.42,0:14:40.80,Default,,0000,0000,0000,,And now, please continue to enjoy \NEpisode 10 of Hayate the Combat Butler,
+Dialogue: 0,0:14:37.42,0:14:44.40,OS,,0000,0000,0000,,{\pos(238.222,104.4)} Showing Now Hayate the Combat Butler!
+Dialogue: 0,0:14:37.42,0:14:44.40,OS,,0000,0000,0000,,{\pos(361.778,254.7)} Episode 10. Please enjoy.
+Dialogue: 0,0:14:40.80,0:14:44.40,Default,,0000,0000,0000,,"I Saw the Tears of Snakewoman \Nin the Fires of Hell".
+Dialogue: 0,0:14:44.40,0:14:48.37,Italics,,0000,0000,0000,,The three student council girls \Ntrapped in the cursed game world...
+Dialogue: 0,0:14:48.04,0:14:49.87,Italics,,0000,0000,0000,,...after much pain and effort,
+Dialogue: 0,0:14:49.87,0:14:53.43,Italics,,0000,0000,0000,,finally arrived in \Nan otherworldly kind of village.
+Dialogue: 0,0:14:55.61,0:15:00.61,Default,,0000,0000,0000,,Where's the church?! We want to \Nrevive our friend from the coffin!
+Dialogue: 0,0:15:00.41,0:15:13.72,OS,,0000,0000,0000,,Captain Cam
+Dialogue: 0,0:15:00.61,0:15:01.68,Default,,0000,0000,0000,,Nuu, nuu!
+Dialogue: 0,0:15:01.68,0:15:02.85,Default,,0000,0000,0000,,Nuu, nu-nu, nuu!
+Dialogue: 0,0:15:02.85,0:15:04.22,Default,,0000,0000,0000,,Nu-nu, nuu, nuu, nuu!
+Dialogue: 0,0:15:04.22,0:15:08.26,Default,,0000,0000,0000,,Wah! No matter who I talk to, \Nall they say is "nuu, nuu"!
+Dialogue: 0,0:15:08.66,0:15:11.85,Default,,0000,0000,0000,,It appears this game is too much for us.
+Dialogue: 0,0:15:11.85,0:15:13.72,Default,,0000,0000,0000,,It cannot be helped. \NSince it has come to this...
+Dialogue: 0,0:15:15.73,0:15:19.10,Default,,0000,0000,0000,,I'm insanely fired up right now!
+Dialogue: 0,0:15:20.20,0:15:22.63,Default,,0000,0000,0000,,King Scascher!
+Dialogue: 0,0:15:44.46,0:15:45.46,Default,,0000,0000,0000,,Hello?
+Dialogue: 0,0:15:45.46,0:15:47.41,Default,,0000,0000,0000,,Yes, it is me. Miki.
+Dialogue: 0,0:15:47.41,0:15:49.33,Default,,0000,0000,0000,,I feel bad, but please come right away.
+Dialogue: 0,0:15:50.05,0:15:51.31,Default,,0000,0000,0000,,I'm here.
+Dialogue: 0,0:15:51.76,0:15:52.52,Default,,0000,0000,0000,,So?
+Dialogue: 0,0:15:52.52,0:15:53.30,Default,,0000,0000,0000,,That was fast!
+Dialogue: 0,0:15:53.63,0:15:57.05,Default,,0000,0000,0000,,Um, Hina, you didn't get attacked \Nby anything weird on your way here?
+Dialogue: 0,0:15:57.05,0:16:00.21,Default,,0000,0000,0000,,Huh? Oh, all kinds of things showed up,
+Dialogue: 0,0:16:00.21,0:16:02.01,Default,,0000,0000,0000,,but just I drove them away with this.
+Dialogue: 0,0:16:02.01,0:16:03.70,Default,,0000,0000,0000,,Oooh!
+Dialogue: 0,0:16:03.70,0:16:05.36,Default,,0000,0000,0000,,So what in the world is going on?
+Dialogue: 0,0:16:05.36,0:16:07.41,Default,,0000,0000,0000,,Would you explain it \Nto me so I can understand?
+Dialogue: 0,0:16:07.91,0:16:09.27,Default,,0000,0000,0000,,Do not let this shock you now.
+Dialogue: 0,0:16:09.27,0:16:11.69,Default,,0000,0000,0000,,We are actually inside a cursed game
+Dialogue: 0,0:16:11.69,0:16:13.28,Default,,0000,0000,0000,,and mumble, mumble, omitting the rest!
+Dialogue: 0,0:16:15.13,0:16:16.40,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:16:16.40,0:16:18.94,Default,,0000,0000,0000,,There's no way such \Nan unscientific thing would happen.
+Dialogue: 0,0:16:18.94,0:16:20.64,Default,,0000,0000,0000,,What? Uh, but...
+Dialogue: 0,0:16:20.64,0:16:22.73,Default,,0000,0000,0000,,This is one of those things. \NWhich is to say...
+Dialogue: 0,0:16:22.73,0:16:28.73,Default,,0000,0000,0000,,Hardcore gamer Nagi must be throwing \Na large surprise event for us.
+Dialogue: 0,0:16:28.73,0:16:29.50,Default,,0000,0000,0000,,Yup!
+Dialogue: 0,0:16:31.10,0:16:34.29,Default,,0000,0000,0000,,But those monsters \Nand things sure were well-made.
+Dialogue: 0,0:16:32.86,0:16:34.29,On Top,,0000,0000,0000,,That's our student \Ncouncil president for you.
+Dialogue: 0,0:16:34.29,0:16:35.47,On Top,,0000,0000,0000,,A super pragmatist.
+Dialogue: 0,0:16:34.29,0:16:37.16,Default,,0000,0000,0000,,I wonder what kind of mechanism \Nthey have that makes them move.
+Dialogue: 0,0:16:35.47,0:16:37.16,On Top,,0000,0000,0000,,In a way, it's an incredible \Ntalent that she's got.
+Dialogue: 0,0:16:37.16,0:16:40.33,Default,,0000,0000,0000,,So, you three, don't tell me you plan \Nto skip our afternoon classes.
+Dialogue: 0,0:16:40.33,0:16:41.35,Default,,0000,0000,0000,,N-No.
+Dialogue: 0,0:16:41.73,0:16:43.48,Default,,0000,0000,0000,,Then let's finish up here
+Dialogue: 0,0:16:43.48,0:16:45.68,Default,,0000,0000,0000,,and get back to school \Nbefore the end of lunch break.
+Dialogue: 0,0:16:45.68,0:16:48.84,Default,,0000,0000,0000,,Oh, but I wonder where the goal is.
+Dialogue: 0,0:16:50.65,0:16:52.53,Default,,0000,0000,0000,,H-How promising!
+Dialogue: 0,0:16:52.53,0:16:55.77,Default,,0000,0000,0000,,Yes! That lady is truly worthy \Nof being called a hero, tima!
+Dialogue: 0,0:16:55.77,0:16:59.86,Default,,0000,0000,0000,,You will be punished! You will be \Npunished! You will be punished!
+Dialogue: 0,0:17:02.12,0:17:04.01,Default,,0000,0000,0000,,If that lady can make it here,
+Dialogue: 0,0:17:04.01,0:17:05.57,Default,,0000,0000,0000,,maybe I can finally be \Nfree of this annoying skull
+Dialogue: 0,0:17:05.57,0:17:09.87,Default,,0000,0000,0000,,and this meaningless "tima" \Nsentence ending, tima!
+Dialogue: 0,0:17:10.28,0:17:11.24,Default,,0000,0000,0000,,Push.
+Dialogue: 0,0:17:12.01,0:17:14.61,OS,,0000,0000,0000,,Over here, tima!
+Dialogue: 0,0:17:19.78,0:17:22.09,Default,,0000,0000,0000,,A full set of equipment suddenly \Ncame falling out of the sky...
+Dialogue: 0,0:17:24.09,0:17:25.89,OS,,0000,0000,0000,,Over here, tima!
+Dialogue: 0,0:17:26.32,0:17:30.53,Default,,0000,0000,0000,,I see, so we're expected to use these \Nto get over to that tower.
+Dialogue: 0,0:17:30.53,0:17:31.46,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:17:31.46,0:17:32.78,Default,,0000,0000,0000,,I-Is that what it means?
+Dialogue: 0,0:17:32.78,0:17:35.90,Default,,0000,0000,0000,,All right! Then let's all \Ngo defeat the Demon King!
+Dialogue: 0,0:17:35.90,0:17:38.09,On Top,,0000,0000,0000,,Hakuou, fight!
+Dialogue: 0,0:17:38.09,0:17:39.92,On Top,,0000,0000,0000,,F-Fight!
+Dialogue: 0,0:17:39.92,0:17:41.00,On Top,,0000,0000,0000,,Fight!
+Dialogue: 0,0:17:40.02,0:17:42.09,Default,,0000,0000,0000,,Hinagiku sure is serious.
+Dialogue: 0,0:17:41.00,0:17:42.09,On Top,,0000,0000,0000,,Fight!
+Dialogue: 0,0:17:42.09,0:17:45.56,Default,,0000,0000,0000,,It seems we can leave the rest \Nof the episode to Miss Katsura.
+Dialogue: 0,0:17:45.56,0:17:46.38,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:46.90,0:17:48.60,Default,,0000,0000,0000,,Then, since this is the perfect opportunity,
+Dialogue: 0,0:17:48.60,0:17:51.08,Default,,0000,0000,0000,,I think I'll read some mail \Ncheering us on for once.
+Dialogue: 0,0:17:51.08,0:17:54.98,Default,,0000,0000,0000,,A postcard from penname Tama \NFangirl of N Ward, Tokyo.
+Dialogue: 0,0:17:54.98,0:17:58.19,Default,,0000,0000,0000,,"Hello to Hayate, Nagi, and Maria."
+Dialogue: 0,0:17:58.19,0:17:59.36,Default,,0000,0000,0000,,Hello!
+Dialogue: 0,0:17:59.73,0:18:00.69,Default,,0000,0000,0000,,Hello.
+Dialogue: 0,0:18:01.16,0:18:02.49,OS,,0000,0000,0000,,Hello.
+Dialogue: 0,0:18:02.49,0:18:05.40,Default,,0000,0000,0000,,"I always look forward to \Nwatching Hayate the Combat Butler."
+Dialogue: 0,0:18:05.40,0:18:07.05,Default,,0000,0000,0000,,Good. Thank you!
+Dialogue: 0,0:18:07.05,0:18:10.65,Default,,0000,0000,0000,,"By the way, I was surprised when \NI saw the profiles on the official homepage.
+Dialogue: 0,0:18:10.65,0:18:13.37,Default,,0000,0000,0000,,"I had no idea that you were \Njust 17 years old, Maria."
+Dialogue: 0,0:18:14.02,0:18:17.24,Default,,0000,0000,0000,,Y-Yes, I'm 17 years old. What of it?
+Dialogue: 0,0:18:17.24,0:18:22.24,Default,,0000,0000,0000,,"Y-You seem rather composed \Nand I totally thought you were over 20.
+Dialogue: 0,0:18:22.24,0:18:25.54,Default,,0000,0000,0000,,"Wh-Why don't you try acting \Nmore like a g-girl of 17 for once
+Dialogue: 0,0:18:25.54,0:18:28.17,Default,,0000,0000,0000,,"and say things like 'uber bad'?"
+Dialogue: 0,0:18:28.17,0:18:31.54,Default,,0000,0000,0000,,Hey, T-Tama Fangirl, \NMaria is young! She's young!
+Dialogue: 0,0:18:31.54,0:18:32.29,Default,,0000,0000,0000,,After all...
+Dialogue: 0,0:18:32.29,0:18:33.78,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:18:35.32,0:18:38.15,Default,,0000,0000,0000,,So I look that old...
+Dialogue: 0,0:18:38.15,0:18:40.72,Default,,0000,0000,0000,,I don't mean to repeat myself, \Nbut I am 17 years old.
+Dialogue: 0,0:18:40.72,0:18:41.66,Default,,0000,0000,0000,,I'm bursting with freshness!
+Dialogue: 0,0:18:41.66,0:18:42.81,Default,,0000,0000,0000,,It's not that I've aged before my time,
+Dialogue: 0,0:18:42.81,0:18:44.60,Default,,0000,0000,0000,,it's just that I face endless \Nhardship every day,
+Dialogue: 0,0:18:44.60,0:18:45.94,Default,,0000,0000,0000,,thanks to some people.
+Dialogue: 0,0:18:46.84,0:18:49.28,Default,,0000,0000,0000,,S-Sorry about that! We're \Nalways grateful that we have you!
+Dialogue: 0,0:18:49.28,0:18:50.31,Default,,0000,0000,0000,,Right, Hayate?!
+Dialogue: 0,0:18:51.81,0:18:54.33,Default,,0000,0000,0000,,Hey, why haven't you said anything?!
+Dialogue: 0,0:18:54.33,0:18:56.54,Default,,0000,0000,0000,,Since the majority of the cast \Nis comprised of stooge characters,
+Dialogue: 0,0:18:56.54,0:18:59.42,Default,,0000,0000,0000,,I handle the straight man role \Nto make things interesting.
+Dialogue: 0,0:18:59.42,0:19:01.94,Default,,0000,0000,0000,,It's only natural, since I'm the one \Nwith the most common sense here.
+Dialogue: 0,0:19:01.94,0:19:06.20,Default,,0000,0000,0000,,B-But then, a little girl sent \Nin this postcard to the show. Scary.
+Dialogue: 0,0:19:06.56,0:19:09.43,OS,,0000,0000,0000,,Maria seems kind of mean
+Dialogue: 0,0:19:13.76,0:19:17.31,Default,,0000,0000,0000,,It's fine. It's fine. I'm just...
+Dialogue: 0,0:19:18.90,0:19:21.32,On Top,,0000,0000,0000,,Bright smiles! A great selection!
+Dialogue: 0,0:19:19.46,0:19:21.12,Default,,0000,0000,0000,,Wait! Wha?! Hayate!
+Dialogue: 0,0:19:21.12,0:19:22.76,Default,,0000,0000,0000,,Why aren't you saying?!
+Dialogue: 0,0:19:21.32,0:19:24.08,On Top,,0000,0000,0000,,We, at the Rental Video \NTachibana Shinkuju Flagship store,
+Dialogue: 0,0:19:22.76,0:19:24.70,Default,,0000,0000,0000,,Um, on to the next postcard!
+Dialogue: 0,0:19:24.08,0:19:27.28,On Top,,0000,0000,0000,,shall be awaiting you, \Nthe discerning customer.
+Dialogue: 0,0:19:24.70,0:19:28.86,Default,,0000,0000,0000,,A postcard from Sergeant Naohikov \NFuruitch of K Ward, Tokyo.
+Dialogue: 0,0:19:27.28,0:19:31.02,On Top,,0000,0000,0000,,And now, please continue to enjoy \NEpisode 10 of Hayate the Combat Butler...
+Dialogue: 0,0:19:28.86,0:19:31.02,Default,,0000,0000,0000,,"I love Maria!"
+Dialogue: 0,0:19:32.98,0:19:34.72,Default,,0000,0000,0000,,Last battle!
+Dialogue: 0,0:19:34.72,0:19:37.19,OS,,0000,0000,0000,,{\pos(161.778,312.3)} Can't show you
+Dialogue: 0,0:19:34.72,0:19:37.19,OS,,0000,0000,0000,,{\pos(480.889,313.2)} Can't show
+Dialogue: 0,0:19:37.61,0:19:41.46,Italics,,0000,0000,0000,,Having crossed oceans \Nand beat all kinds of dungeons,
+Dialogue: 0,0:19:41.46,0:19:43.97,Italics,,0000,0000,0000,,with almost 100 hours \Nof play time behind them,
+Dialogue: 0,0:19:43.97,0:19:49.20,Italics,,0000,0000,0000,,the student council party \Nfinally made it to the Demon King!
+Dialogue: 0,0:19:50.67,0:19:53.24,Default,,0000,0000,0000,,Finally, the time has come \Nfor the last battle
+Dialogue: 0,0:19:53.24,0:19:54.54,Default,,0000,0000,0000,,to determine the fate of this universe.
+Dialogue: 0,0:19:55.00,0:19:58.88,Default,,0000,0000,0000,,O Demon King the Great \NStygian of Abe (temp),
+Dialogue: 0,0:19:58.88,0:20:01.11,Default,,0000,0000,0000,,come fight us fair and square!
+Dialogue: 0,0:20:02.95,0:20:08.92,OS,,0000,0000,0000,,{\pos(215.111,47.7)} Welcome Heroes Party
+Dialogue: 0,0:20:02.95,0:20:08.92,OS,,0000,0000,0000,,{\pos(342.222,178.2)} Reserved
+Dialogue: 0,0:20:04.33,0:20:06.01,Default,,0000,0000,0000,,I could not have asked for more, tima.
+Dialogue: 0,0:20:06.01,0:20:08.92,Default,,0000,0000,0000,,Now, face my ultimate \Nsuper lethal technique!
+Dialogue: 0,0:20:09.38,0:20:10.29,Default,,0000,0000,0000,,Push.
+Dialogue: 0,0:20:19.49,0:20:21.17,Default,,0000,0000,0000,,The Demon King has been defeated.
+Dialogue: 0,0:20:19.53,0:20:22.50,OS,,0000,0000,0000,,The Demon King has been defeated.
+Dialogue: 0,0:20:21.17,0:20:22.12,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:22.12,0:20:23.83,Default,,0000,0000,0000,,Weak! The Demon King's weak!
+Dialogue: 0,0:20:26.24,0:20:29.05,Default,,0000,0000,0000,,Truly a hero. Your swordsmanship \Nwas brilliant, tima.
+Dialogue: 0,0:20:29.05,0:20:31.94,Default,,0000,0000,0000,,Huh? But I haven't done anything yet.
+Dialogue: 0,0:20:32.55,0:20:34.24,Default,,0000,0000,0000,,I can resign myself to my fate now.
+Dialogue: 0,0:20:34.24,0:20:36.68,Default,,0000,0000,0000,,I can feel at peace crossing over \Ninto the other world, tima.
+Dialogue: 0,0:20:38.38,0:20:40.93,Default,,0000,0000,0000,,Or so I thought, but I don't \Nwant to go, after all, tima.
+Dialogue: 0,0:20:40.93,0:20:43.02,Default,,0000,0000,0000,,Though, I feel like it \Nwouldn't be so bad to go, tima.
+Dialogue: 0,0:20:43.02,0:20:44.32,Default,,0000,0000,0000,,Hmm... But then again...
+Dialogue: 0,0:20:44.32,0:20:45.41,Default,,0000,0000,0000,,Which is it?!
+Dialogue: 0,0:20:45.41,0:20:46.91,Default,,0000,0000,0000,,She is being damned indecisive.
+Dialogue: 0,0:20:46.91,0:20:51.50,Default,,0000,0000,0000,,You will be punished \Nfor not making up your mind!
+Dialogue: 0,0:20:56.20,0:20:58.04,OS,,0000,0000,0000,,Ending 4 "Beyond Oblivion"
+Dialogue: 0,0:20:57.84,0:21:01.22,Default,,0000,0000,0000,,Hinagiku Katsura and \Nthe three student council girls
+Dialogue: 0,0:20:58.04,0:20:59.54,OS,,0000,0000,0000,,Hinagiku Katsura
+Dialogue: 0,0:20:59.54,0:21:01.34,OS,,0000,0000,0000,,and the three student council girls
+Dialogue: 0,0:21:01.22,0:21:02.72,Default,,0000,0000,0000,,defeated the Demon King in this way
+Dialogue: 0,0:21:01.34,0:21:03.84,OS,,0000,0000,0000,,defeated the Demon King in this way
+Dialogue: 0,0:21:02.72,0:21:05.94,Default,,0000,0000,0000,,and traversed space-time, \Nreturning safely to the real world.
+Dialogue: 0,0:21:03.84,0:21:06.51,OS,,0000,0000,0000,,and traversed space-time, \Nreturning safely to the real world.
+Dialogue: 0,0:21:06.28,0:21:09.95,Default,,0000,0000,0000,,With their memories of their adventures \Nin the game world completely lost to them...
+Dialogue: 0,0:21:06.51,0:21:08.31,OS,,0000,0000,0000,,With their memories \Nof their adventures in the game world
+Dialogue: 0,0:21:08.31,0:21:09.95,OS,,0000,0000,0000,,completely lost to them...
+Dialogue: 0,0:21:09.95,0:21:13.54,Default,,0000,0000,0000,,Thank you, hero. Thank you, \NHakuou Academy student council.
+Dialogue: 0,0:21:13.54,0:21:15.92,Default,,0000,0000,0000,,Kind of grateful. Kind of a happy ending.
+Dialogue: 0,0:21:15.92,0:21:19.84,Default,,0000,0000,0000,,However, your battle has only just begun.
+Dialogue: 0,0:21:19.84,0:21:23.29,Default,,0000,0000,0000,,I will fight again next time \Nto win the role of protagonist!
+Dialogue: 0,0:21:23.29,0:21:25.20,OS,,0000,0000,0000,,{\pos(562.667,72)}Izumi Segawa\N Class: Normal \NPerson
+Dialogue: 0,0:21:23.29,0:21:25.20,OS,,0000,0000,0000,,{\pos(562.667,143.1)}Specialty: \NNothing Notable
+Dialogue: 0,0:21:23.83,0:21:25.92,Default,,0000,0000,0000,,That was kind of fun, wasn't it?
+Dialogue: 0,0:21:25.06,0:21:27.06,OS,,0000,0000,0000,,{\pos(224,68.4)}Miki Hanabishi \NClass: Fox Hound
+Dialogue: 0,0:21:25.06,0:21:27.06,OS,,0000,0000,0000,,{\pos(225.778,107.1)}Specialty: \NIntel Gathering
+Dialogue: 0,0:21:25.92,0:21:28.58,Default,,0000,0000,0000,,I suppose that's \Na happily-ever-after for now.
+Dialogue: 0,0:21:26.36,0:21:28.17,OS,,0000,0000,0000,,{\pos(536,78.3)}Risa Asakaze \NClass: Aspiring\N Good-for-Nothing
+Dialogue: 0,0:21:26.36,0:21:28.17,OS,,0000,0000,0000,,{\pos(476.444,168.3)}Specialty: H*rricane M*xer
+Dialogue: 0,0:21:28.17,0:21:31.07,OS,,0000,0000,0000,,{\pos(482.667,177.3)}Hinagiku Katsura \NClass: Student Council President
+Dialogue: 0,0:21:28.58,0:21:29.47,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:31.84,0:21:34.92,Default,,0000,0000,0000,,Hey, wait! Aren't ya forgettin' somethin'?!
+Dialogue: 0,0:21:35.54,0:21:39.71,Default,,0000,0000,0000,,Pardon me. I opened the door normally.
+Dialogue: 0,0:21:39.71,0:21:42.20,Default,,0000,0000,0000,,What's up with this old \NShowa-era punch line?!
+Dialogue: 0,0:21:42.20,0:21:44.05,Default,,0000,0000,0000,,Is it me or are we gettin' \Nshoddy treatment lately?!
+Dialogue: 0,0:21:44.05,0:21:46.00,Italics,,0000,0000,0000,,It's always been like that.
+Dialogue: 0,0:21:46.00,0:21:48.10,Italics,,0000,0000,0000,,Uh, next time, we will return \Nto our normal format
+Dialogue: 0,0:21:48.10,0:21:51.92,Italics,,0000,0000,0000,,and bring you a butler episode \Nthat will thrill you!
+Dialogue: 0,0:21:52.89,0:21:57.52,On Top,,0000,0000,0000,,{\an8}Moshi boku no yume ga kimi no kokoro
+Dialogue: 0,0:21:52.89,0:21:57.52,On Top,,0000,0000,0000,,If my dreams have taken your heart
+Dialogue: 0,0:21:58.93,0:22:02.77,On Top,,0000,0000,0000,,{\an8}Kizutsuke-tetara
+Dialogue: 0,0:21:58.93,0:22:02.77,On Top,,0000,0000,0000,,And brought it pain
+Dialogue: 0,0:22:03.17,0:22:08.20,On Top,,0000,0000,0000,,{\an8}Sono omoi wa itsuka
+Dialogue: 0,0:22:03.17,0:22:08.20,On Top,,0000,0000,0000,,Someday, that anguish
+Dialogue: 0,0:22:08.87,0:22:11.61,On Top,,0000,0000,0000,,{\an8}Boku ga morau yo
+Dialogue: 0,0:22:08.87,0:22:11.61,On Top,,0000,0000,0000,,I will take from you
+Dialogue: 0,0:22:13.58,0:22:17.95,On Top,,0000,0000,0000,,{\an8}Taisetsu na mono ni furue-nagara
+Dialogue: 0,0:22:13.58,0:22:17.95,On Top,,0000,0000,0000,,While trembling over something precious
+Dialogue: 0,0:22:19.32,0:22:23.99,On Top,,0000,0000,0000,,{\an8}Kakezuri-mawatte
+Dialogue: 0,0:22:19.32,0:22:23.99,On Top,,0000,0000,0000,,And madly dashing about
+Dialogue: 0,0:22:23.99,0:22:29.16,On Top,,0000,0000,0000,,{\an8}Seou itami ni hibi wa
+Dialogue: 0,0:22:23.99,0:22:29.16,On Top,,0000,0000,0000,,The hurt I bore made the days
+Dialogue: 0,0:22:29.36,0:22:34.00,On Top,,0000,0000,0000,,{\an8}Muimi ni sugita
+Dialogue: 0,0:22:29.36,0:22:34.00,On Top,,0000,0000,0000,,Go by emptily
+Dialogue: 0,0:22:34.50,0:22:39.69,On Top,,0000,0000,0000,,{\an8}Oikaketa mama de oikosare-tsuzuke
+Dialogue: 0,0:22:34.50,0:22:39.69,On Top,,0000,0000,0000,,Just chasing and continually being overtaken
+Dialogue: 0,0:22:40.19,0:22:44.61,On Top,,0000,0000,0000,,{\an8}Tohou ni kureru kaze
+Dialogue: 0,0:22:40.19,0:22:44.61,On Top,,0000,0000,0000,,A wind who's lost its bearing
+Dialogue: 0,0:22:45.31,0:22:49.68,On Top,,0000,0000,0000,,{\an8}Kimi no doko ni furetara
+Dialogue: 0,0:22:45.31,0:22:49.68,On Top,,0000,0000,0000,,What part of you should I touch
+Dialogue: 0,0:22:50.61,0:22:55.15,On Top,,0000,0000,0000,,{\an8}Ii ka o sagashita
+Dialogue: 0,0:22:50.61,0:22:55.15,On Top,,0000,0000,0000,,I sought it out
+Dialogue: 0,0:22:55.79,0:23:00.29,On Top,,0000,0000,0000,,{\an8}Mamoritai yo kimi dake wa tsuyoku
+Dialogue: 0,0:22:55.79,0:23:00.29,On Top,,0000,0000,0000,,You alone, I want to protect so much
+Dialogue: 0,0:23:00.62,0:23:05.56,On Top,,0000,0000,0000,,{\an8}Yokubou no wadachi kara touzakatte
+Dialogue: 0,0:23:00.62,0:23:05.56,On Top,,0000,0000,0000,,Getting away from the rut of desire
+Dialogue: 0,0:23:06.13,0:23:10.70,On Top,,0000,0000,0000,,{\an8}Itsuka subete te ni ireru sore ga
+Dialogue: 0,0:23:06.13,0:23:10.70,On Top,,0000,0000,0000,,Someday, it will all be ours and that
+Dialogue: 0,0:23:10.70,0:23:14.84,On Top,,0000,0000,0000,,{\an8}Kimi to boku no Proof
+Dialogue: 0,0:23:10.70,0:23:14.84,On Top,,0000,0000,0000,,Is our proof, yours and mine
+Dialogue: 0,0:23:15.14,0:23:25.28,On Top,,0000,0000,0000,,{\an8}Namida mo zenbu azukeru yo
+Dialogue: 0,0:23:15.14,0:23:25.28,On Top,,0000,0000,0000,,Even all my tears, I entrust to you
+Dialogue: 0,0:23:26.77,0:23:27.76,Default,,0000,0000,0000,,Nagi's...
+Dialogue: 0,0:23:27.42,0:23:29.49,OS,,0000,0000,0000,,Sign: Butler Report
+Dialogue: 0,0:23:27.76,0:23:29.49,Default,,0000,0000,0000,,...Butler Report!
+Dialogue: 0,0:23:30.13,0:23:33.58,Default,,0000,0000,0000,,Since Hayate is out this time I will be \Ndoing as I please with this segment!
+Dialogue: 0,0:23:33.58,0:23:34.93,Default,,0000,0000,0000,,Oh, my, this could mean trouble.
+Dialogue: 0,0:23:34.93,0:23:37.05,Default,,0000,0000,0000,,Now's your only chance \Nto sit back and relax, Maria.
+Dialogue: 0,0:23:37.05,0:23:37.82,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:23:37.82,0:23:39.57,Default,,0000,0000,0000,,The fact that I am in charge of this segment
+Dialogue: 0,0:23:39.57,0:23:41.77,Default,,0000,0000,0000,,means that I am free to do whatever I wish!
+Dialogue: 0,0:23:41.77,0:23:44.58,Default,,0000,0000,0000,,In response to requests from Maria fans, \NI could insert a fan service shot of Maria!
+Dialogue: 0,0:23:44.58,0:23:45.60,Default,,0000,0000,0000,,Nooo!
+Dialogue: 0,0:23:45.60,0:23:48.44,Default,,0000,0000,0000,,Nobody may want it, but I could \Nalso insert a shot of Klaus bathing!
+Dialogue: 0,0:23:48.44,0:23:49.47,Default,,0000,0000,0000,,Nooo!
+Dialogue: 0,0:23:49.47,0:23:52.54,Default,,0000,0000,0000,,Keep doing this and production \Nwill never catch up to the schedule!
+Dialogue: 0,0:23:52.54,0:23:54.71,Default,,0000,0000,0000,,Oh, that would be bad. \NWe won't do any more Klaus after this!
+Dialogue: 0,0:23:54.71,0:23:56.00,Default,,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:23:56.41,0:23:59.42,Default,,0000,0000,0000,,{\pos(320,224)}Preview
+Dialogue: 0,0:23:56.97,0:23:59.10,On Top,,0000,0000,0000,,Nagi, why don't we go \Nto the primary family residence for once,
+Dialogue: 0,0:23:59.10,0:24:00.45,On Top,,0000,0000,0000,,where your grandfather resides?
+Dialogue: 0,0:23:59.42,0:24:19.44,OS,,0000,0000,0000,,{\an8\pos(174,307)}The next episode of \N"Hayate the Combat Butler" is...
+Dialogue: 0,0:24:00.45,0:24:02.02,On Top,,0000,0000,0000,,I would like to introduce Hayate as well.
+Dialogue: 0,0:24:02.02,0:24:04.19,On Top,,0000,0000,0000,,I don't want to. Besides, \NI don't think there's any need
+Dialogue: 0,0:24:04.19,0:24:06.18,On Top,,0000,0000,0000,,to pay our respects \Nto that old geezer at this point.
+Dialogue: 0,0:24:06.18,0:24:09.79,On Top,,0000,0000,0000,,Man, it's been a long time \Nsince I've seen Grandpa Mikado.
+Dialogue: 0,0:24:09.79,0:24:10.89,On Top,,0000,0000,0000,,I'm gonna pester him for some pocket change.
+Dialogue: 0,0:24:10.89,0:24:13.00,On Top,,0000,0000,0000,,What's this, Saku? You're going, too?
+Dialogue: 0,0:24:13.00,0:24:14.79,On Top,,0000,0000,0000,,Next time on "Hayate the Combat Butler",
+Dialogue: 0,0:24:14.79,0:24:17.10,On Top,,0000,0000,0000,,"The Value of My Life: Priceless".
+Dialogue: 0,0:24:17.10,0:24:20.37,On Top,,0000,0000,0000,,In other words, your life \Nis utterly meaningless.
+Dialogue: 0,0:24:19.44,0:24:22.44,Default,,0000,0000,0000,,The Value of My Life: Priceless
+Dialogue: 0,0:24:20.37,0:24:22.44,On Top,,0000,0000,0000,,An armor runs within your heart!

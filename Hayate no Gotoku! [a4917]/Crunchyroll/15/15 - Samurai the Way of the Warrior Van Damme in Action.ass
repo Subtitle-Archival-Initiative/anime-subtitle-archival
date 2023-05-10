@@ -1,0 +1,545 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.10,0:00:06.01,Default,,0000,0000,0000,,When watching "Hayate the Combat Butler",
+Dialogue: 0,0:00:06.01,0:00:08.83,Default,,0000,0000,0000,,please keep the room bright and \Nsit well away from the TV.
+Dialogue: 0,0:00:08.83,0:00:09.57,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:00:15.46,0:00:17.87,Default,,0000,0000,0000,,All right, I'm going to do my best!
+Dialogue: 0,0:00:17.87,0:00:21.31,Default,,0000,0000,0000,,Okay, I keep this up and I \Ncan finish this large pizza!
+Dialogue: 0,0:00:21.31,0:00:22.61,Default,,0000,0000,0000,,Wait, that's not it!
+Dialogue: 0,0:00:22.61,0:00:25.50,Default,,0000,0000,0000,,I have to get recharged and \Nprepare for tomorrow's exam!
+Dialogue: 0,0:00:32.03,0:00:36.19,Italics,,0000,0000,0000,,{\i1}Hayate, I wonder what you're eating tonight.
+Dialogue: 0,0:00:37.37,0:00:43.00,Italics,,0000,0000,0000,,{\i1}To the butler-in-debt, it was a wish \Nthat was never to come true again.
+Dialogue: 0,0:00:53.11,0:00:55.82,On Top,SIGN,0000,0000,0000,,Student ID
+Dialogue: 0,0:00:56.13,0:00:57.62,Default,,0000,0000,0000,,It wasn't a dream.
+Dialogue: 0,0:00:57.62,0:01:00.68,Default,,0000,0000,0000,,I can go to school again.
+Dialogue: 0,0:01:02.45,0:01:06.36,Default,,0000,0000,0000,,And I owe it all to Maria \Nfor recommending me.
+Dialogue: 0,0:01:06.86,0:01:08.84,Default,,0000,0000,0000,,M-Maria?
+Dialogue: 0,0:01:09.35,0:01:10.61,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:01:12.25,0:01:15.59,Default,,0000,0000,0000,,Please go here and study hard.
+Dialogue: 0,0:01:12.25,0:01:16.72,OS,SIGN,0000,0000,0000,,{\pos(320,110)}Student ID
+Dialogue: 0,0:01:17.50,0:01:18.92,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:01:18.92,0:01:21.09,Default,,0000,0000,0000,,Th-This is from Hakuou Academy...
+Dialogue: 0,0:01:21.09,0:01:22.23,Default,,0000,0000,0000,,My student ID?!
+Dialogue: 0,0:01:23.18,0:01:25.28,Italics,,0000,0000,0000,,{\i1}Please watch me, Maria!
+Dialogue: 0,0:01:25.28,0:01:28.94,Italics,,0000,0000,0000,,{\i1}I will also strive to live up to \Nyour expectations, without fail!
+Dialogue: 0,0:01:28.94,0:01:29.64,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:01:30.08,0:01:33.85,Default,,0000,0000,0000,,I'm going to attend Hakuou Academy \Nand become a first-rate butler!
+Dialogue: 0,0:01:33.85,0:01:35.52,Italics,,0000,0000,0000,,{\i1}No, no. Even if you go to school,
+Dialogue: 0,0:01:35.52,0:01:38.58,Italics,,0000,0000,0000,,{\i1}it's not like that'll turn you \Ninto a first-rate butler.
+Dialogue: 0,0:01:39.30,0:01:42.07,Italics,,0000,0000,0000,,{\i1}A butler is one who serves.
+Dialogue: 0,0:01:42.57,0:01:45.63,Italics,,0000,0000,0000,,{\i1}A butler is one who waits upon others.
+Dialogue: 0,0:01:45.92,0:01:49.01,Italics,,0000,0000,0000,,{\i1}A butler is a formal guardian,
+Dialogue: 0,0:01:49.01,0:01:51.51,Italics,,0000,0000,0000,,{\i1}who is there to support his mistress \Nin all aspects of her life.
+Dialogue: 0,0:01:52.62,0:01:53.67,Italics,,0000,0000,0000,,{\i1}Yes!
+Dialogue: 0,0:01:53.67,0:01:58.02,Italics,,0000,0000,0000,,{\i1}This is about a boy who fights and puts \Nhis life on the line for a girl...
+Dialogue: 0,0:01:58.02,0:02:01.31,Italics,,0000,0000,0000,,{\i1}A super combat battle story!
+Dialogue: 0,0:02:02.51,0:02:06.76,Default,,0000,0000,0000,,I shall patiently teach you what \Nit is to be a first-rate butler.
+Dialogue: 0,0:02:08.48,0:02:14.48,On Top,,0000,0000,0000,,{\an8}Daichi ni kaketa bokura no yukue
+Dialogue: 0,0:02:08.48,0:02:14.48,On Top,,0000,0000,0000,,Our destination that we've \Nstaked upon this earth
+Dialogue: 0,0:02:15.07,0:02:21.32,On Top,,0000,0000,0000,,{\an8}Tsuki-nukeru hayate no gotoku
+Dialogue: 0,0:02:15.07,0:02:21.32,On Top,,0000,0000,0000,,Like the sudden gale that cuts across
+Dialogue: 0,0:02:21.78,0:02:24.83,On Top,,0000,0000,0000,,{\an8}Unmei ni makete
+Dialogue: 0,0:02:21.78,0:02:24.83,On Top,,0000,0000,0000,,Giving in to fate
+Dialogue: 0,0:02:24.83,0:02:29.25,On Top,,0000,0000,0000,,{\an8}Shagami-komu nante tsumannai yo
+Dialogue: 0,0:02:24.83,0:02:29.25,On Top,,0000,0000,0000,,And hunkering down is no fun
+Dialogue: 0,0:02:29.25,0:02:33.50,On Top,,0000,0000,0000,,{\an8}Sore ja kakko warui yo!
+Dialogue: 0,0:02:29.25,0:02:33.50,On Top,,0000,0000,0000,,That's just not cool!
+Dialogue: 0,0:02:34.09,0:02:37.09,On Top,,0000,0000,0000,,{\an8}Uso kara deta makoto
+Dialogue: 0,0:02:34.09,0:02:37.09,On Top,,0000,0000,0000,,Many a true word is spoken in jest
+Dialogue: 0,0:02:37.59,0:02:42.97,On Top,,0000,0000,0000,,{\an8}Koukai wa kitto mi kara deta sabi
+Dialogue: 0,0:02:37.59,0:02:42.97,On Top,,0000,0000,0000,,Regret is probably reaping what you sowed
+Dialogue: 0,0:02:42.97,0:02:45.93,On Top,,0000,0000,0000,,{\an8}Zettai, nase ba naru!
+Dialogue: 0,0:02:42.97,0:02:45.93,On Top,,0000,0000,0000,,Where there's a will, \Nthere's definitely a way!
+Dialogue: 0,0:02:46.10,0:02:52.52,On Top,,0000,0000,0000,,{\an8}Ooki na hamon ni nomi-komareteku
+Dialogue: 0,0:02:46.10,0:02:52.52,On Top,,0000,0000,0000,,As a great rippling wave swallows us up
+Dialogue: 0,0:02:52.85,0:02:58.99,On Top,,0000,0000,0000,,{\an8}Karada nami ni makasereba
+Dialogue: 0,0:02:52.85,0:02:58.99,On Top,,0000,0000,0000,,Just let it take you
+Dialogue: 0,0:02:59.36,0:03:02.03,On Top,,0000,0000,0000,,{\an8}Kanchigai no yume
+Dialogue: 0,0:02:59.36,0:03:02.03,On Top,,0000,0000,0000,,Dreams that are misguided
+Dialogue: 0,0:03:02.20,0:03:05.28,On Top,,0000,0000,0000,,{\an8}Mato-hazure no kitai
+Dialogue: 0,0:03:02.20,0:03:05.28,On Top,,0000,0000,0000,,Hopes that are way off base
+Dialogue: 0,0:03:05.28,0:03:11.04,On Top,,0000,0000,0000,,{\an8}Tsuyoku omoeba itsuka tsukameru sa!
+Dialogue: 0,0:03:05.28,0:03:11.04,On Top,,0000,0000,0000,,You'll grab them someday, \Nif you just have conviction
+Dialogue: 0,0:03:11.79,0:03:17.92,On Top,,0000,0000,0000,,{\an8}Daichi keri-age hashiri-dasou
+Dialogue: 0,0:03:11.79,0:03:17.92,On Top,,0000,0000,0000,,Let's kick up the earth and start running
+Dialogue: 0,0:03:18.21,0:03:24.85,On Top,,0000,0000,0000,,{\an8}Kimama ni mau kaze no gotoku
+Dialogue: 0,0:03:18.21,0:03:24.85,On Top,,0000,0000,0000,,Like the capricious breeze that dances about
+Dialogue: 0,0:03:36.90,0:03:40.32,Default,SIGN,0000,0000,0000,,{\pos(320,224)}Samurai, the Way of the Warrior, Van Damme in Action
+Dialogue: 0,0:03:45.14,0:03:47.10,Default,,0000,0000,0000,,You seem awfully happy, Hayate.
+Dialogue: 0,0:03:47.10,0:03:49.96,Default,,0000,0000,0000,,Whoa! I didn't know you \Nstayed the night, Hinagiku!
+Dialogue: 0,0:03:49.96,0:03:51.72,Default,,0000,0000,0000,,G-Good morning.
+Dialogue: 0,0:03:51.72,0:03:52.45,Default,,0000,0000,0000,,Morning.
+Dialogue: 0,0:03:52.45,0:03:56.79,Default,,0000,0000,0000,,But what's the matter? \NYou seem to be in an awfully foul mood...
+Dialogue: 0,0:03:56.79,0:03:58.06,Default,,0000,0000,0000,,You have to ask?!
+Dialogue: 0,0:03:58.06,0:04:01.80,Default,,0000,0000,0000,,Really! You suddenly disappeared \Nlike that yesterday evening,
+Dialogue: 0,0:04:01.80,0:04:04.35,Default,,0000,0000,0000,,you showed no signs of coming \Nback late into the night,
+Dialogue: 0,0:04:04.35,0:04:06.23,Default,,0000,0000,0000,,and you were absolutely nowhere to be found.
+Dialogue: 0,0:04:06.23,0:04:10.20,Default,,0000,0000,0000,,And after all that, you don't think \Nyou caused anyone to worry?!
+Dialogue: 0,0:04:10.20,0:04:13.44,Default,,0000,0000,0000,,I'm sorry! I'm sorry! \NI'm really sorry! I really am sorry!
+Dialogue: 0,0:04:13.44,0:04:16.21,Default,,0000,0000,0000,,So, judging by your behavior, \Nyou got accepted?
+Dialogue: 0,0:04:16.21,0:04:17.94,Default,,0000,0000,0000,,Oh, yes, thank you.
+Dialogue: 0,0:04:21.27,0:04:23.32,Default,,0000,0000,0000,,Then I'll forgive you for the time being.
+Dialogue: 0,0:04:23.32,0:04:25.41,Default,,0000,0000,0000,,I'm going home now,
+Dialogue: 0,0:04:25.41,0:04:27.65,Default,,0000,0000,0000,,but be sure to say hello \Nif you see me at school.
+Dialogue: 0,0:04:27.65,0:04:29.95,Default,,0000,0000,0000,,What? Oh, all right. Roger that.
+Dialogue: 0,0:04:29.95,0:04:30.78,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:04:37.73,0:04:40.54,Default,,0000,0000,0000,,We'll be students at the same school...
+Dialogue: 0,0:04:45.46,0:04:50.30,Default,,0000,0000,0000,,So, you've been holding your \Nstudent ID since last night?
+Dialogue: 0,0:04:50.30,0:04:52.48,Default,,0000,0000,0000,,Yes! I slept with it in \Nmy hands all night long!
+Dialogue: 0,0:04:52.48,0:04:55.93,Default,,0000,0000,0000,,I swear! How adorable can you get?!
+Dialogue: 0,0:04:55.93,0:04:58.12,Default,,0000,0000,0000,,I guess it made you really happy.
+Dialogue: 0,0:04:58.12,0:04:59.00,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:04:59.00,0:05:02.41,Default,,0000,0000,0000,,You know those people who \Nburst into song in musicals?
+Dialogue: 0,0:05:02.41,0:05:05.28,Default,,0000,0000,0000,,I think I know what that \Nurge feels like now!
+Dialogue: 0,0:05:05.94,0:05:07.47,Default,,0000,0000,0000,,You don't need to get how that feels!
+Dialogue: 0,0:05:07.47,0:05:10.37,Default,,0000,0000,0000,,There aren't any character songs \Nfor a scene like this anyway.
+Dialogue: 0,0:05:10.37,0:05:14.55,Default,,0000,0000,0000,,Or rather, a musical anime would \Nbe tough production-wise.
+Dialogue: 0,0:05:14.55,0:05:15.37,Default,,0000,0000,0000,,Right...
+Dialogue: 0,0:05:15.74,0:05:18.84,Default,,0000,0000,0000,,Oh, that reminds me, what \Nshould I do about a uniform?
+Dialogue: 0,0:05:18.84,0:05:19.77,Default,,0000,0000,0000,,Uniform?
+Dialogue: 0,0:05:19.77,0:05:22.32,Default,,0000,0000,0000,,Yes. Hakuou's students wear uniforms, right?
+Dialogue: 0,0:05:22.32,0:05:23.92,Default,,0000,0000,0000,,Staying in my butler uniform would be...
+Dialogue: 0,0:05:23.92,0:05:25.18,Default,,0000,0000,0000,,You shouldn't need one.
+Dialogue: 0,0:05:25.18,0:05:25.64,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:25.88,0:05:28.73,Default,,0000,0000,0000,,Indeed. And it will be easier to \Ntell you apart that way, too.
+Dialogue: 0,0:05:28.73,0:05:32.60,Default,,0000,0000,0000,,Don't worry. There are other \Nbutlers at the school, too.
+Dialogue: 0,0:05:33.32,0:05:37.10,Default,,0000,0000,0000,,Besides, the others will respect \Nyou more in your butler uniform.
+Dialogue: 0,0:05:37.10,0:05:38.25,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:38.25,0:05:42.26,Default,,0000,0000,0000,,But the bigger question is whether \Nwe'll be in the same class or not.
+Dialogue: 0,0:05:42.26,0:05:42.99,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:42.99,0:05:44.36,Default,,0000,0000,0000,,Indeed.
+Dialogue: 0,0:05:44.36,0:05:47.15,Default,,0000,0000,0000,,What are you saying? I'll be in high school.
+Dialogue: 0,0:05:47.15,0:05:50.53,Default,,0000,0000,0000,,You're still 13 years old, \Nso you're in middle school.
+Dialogue: 0,0:05:50.53,0:05:52.84,Default,,0000,0000,0000,,Oh, right, you don't know, do you?
+Dialogue: 0,0:05:52.84,0:05:54.44,Default,,0000,0000,0000,,Huh? Know what?
+Dialogue: 0,0:05:54.44,0:05:58.03,Default,,0000,0000,0000,,I've skipped grades, so I'm in high school.
+Dialogue: 0,0:06:00.17,0:06:03.27,Default,,0000,0000,0000,,What?! You're in high school?!
+Dialogue: 0,0:06:03.27,0:06:04.87,Default,,0000,0000,0000,,Don't be so surprised.
+Dialogue: 0,0:06:04.87,0:06:07.76,Default,,0000,0000,0000,,That's... But, it's like that \N4-panel comic series...
+Dialogue: 0,0:06:07.76,0:06:09.58,Default,,0000,0000,0000,,Ah-ah! Don't say any more than that!
+Dialogue: 0,0:06:09.58,0:06:11.93,Default,,0000,0000,0000,,But how is it possible? You're so little!
+Dialogue: 0,0:06:11.93,0:06:13.38,Default,,0000,0000,0000,,Don't call me little!
+Dialogue: 0,0:06:13.38,0:06:15.15,Default,,0000,0000,0000,,B-But... really?
+Dialogue: 0,0:06:15.15,0:06:17.30,Default,,0000,0000,0000,,Darn it! You're one skeptical bastard!
+Dialogue: 0,0:06:17.30,0:06:19.24,Default,,0000,0000,0000,,Fine, take a look at this!
+Dialogue: 0,0:06:19.24,0:06:20.20,Default,,0000,0000,0000,,Ta-da!
+Dialogue: 0,0:06:19.60,0:06:20.85,On Top,,0000,0000,0000,,Student ID
+Dialogue: 0,0:06:21.13,0:06:23.06,Default,,0000,0000,0000,,Th-This is...!
+Dialogue: 0,0:06:24.09,0:06:26.94,Default,,0000,0000,0000,,You look so grumpy in the photo.
+Dialogue: 0,0:06:26.94,0:06:29.42,Default,,0000,0000,0000,,That's not the jab you should be making!
+Dialogue: 0,0:06:29.42,0:06:33.03,Default,,0000,0000,0000,,Wow! That really {\i1}is{\i0} a high school ID!
+Dialogue: 0,0:06:33.35,0:06:36.72,Default,,0000,0000,0000,,I told you so from the start, didn't I?!
+Dialogue: 0,0:06:37.45,0:06:40.15,Default,,0000,0000,0000,,Hakuou has butlers, people \Nwho've skipped grades,
+Dialogue: 0,0:06:40.15,0:06:43.37,Default,,0000,0000,0000,,and all kinds of other \Nstudents, so it's quite fun.
+Dialogue: 0,0:06:43.37,0:06:45.49,Default,,0000,0000,0000,,Wow, I had no idea.
+Dialogue: 0,0:06:45.49,0:06:49.28,Default,,0000,0000,0000,,Wait, I had to work hard \Nto make you believe me,
+Dialogue: 0,0:06:49.28,0:06:51.63,Default,,0000,0000,0000,,but I guess you implicitly \Nbelieve what Maria says.
+Dialogue: 0,0:06:51.63,0:06:53.76,Default,,0000,0000,0000,,Oh, no, I didn't really mean it like that.
+Dialogue: 0,0:06:53.76,0:06:55.92,Default,,0000,0000,0000,,Honestly! Taking me for a fool!
+Dialogue: 0,0:06:55.92,0:06:57.98,Default,,0000,0000,0000,,I may not look it, but my grades are...
+Dialogue: 0,0:06:59.09,0:07:02.44,Default,,0000,0000,0000,,In that case, I hope we \Nend up in the same class.
+Dialogue: 0,0:07:05.43,0:07:07.07,Default,,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:07:07.07,0:07:10.50,Default,,0000,0000,0000,,Oh, I can't wait for it to be Monday!
+Dialogue: 0,0:07:10.50,0:07:13.88,Italics,,0000,0000,0000,,{\i1}And so, to accommodate length issues,
+Dialogue: 0,0:07:13.88,0:07:16.54,Italics,,0000,0000,0000,,{\i1}maybe we'll just skip forward \Nall the way to Monday morning.
+Dialogue: 0,0:07:20.78,0:07:22.28,Default,,0000,0000,0000,,Wow...
+Dialogue: 0,0:07:29.26,0:07:33.71,Default,,0000,0000,0000,,See that? There's nothing here when \Nyou come this early in the morning.
+Dialogue: 0,0:07:33.71,0:07:35.94,Default,,0000,0000,0000,,We're not doing this again after today.
+Dialogue: 0,0:07:37.39,0:07:39.49,Default,,0000,0000,0000,,That's my school.
+Dialogue: 0,0:07:39.49,0:07:40.98,Default,,0000,0000,0000,,I know that already.
+Dialogue: 0,0:07:40.98,0:07:44.39,Default,,0000,0000,0000,,Oh, do you? Had you already found out?
+Dialogue: 0,0:07:44.39,0:07:46.22,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:46.22,0:07:48.43,Default,,0000,0000,0000,,Well, it's fine if you're just happy.
+Dialogue: 0,0:07:48.79,0:07:52.84,Default,,0000,0000,0000,,But you certainly are amazing. Skipping \Ngrades to be in high school.
+Dialogue: 0,0:07:53.36,0:07:55.33,Default,,0000,0000,0000,,It's not especially amazing.
+Dialogue: 0,0:07:55.33,0:07:57.14,Default,,0000,0000,0000,,I'm not the only one who's skipped grades.
+Dialogue: 0,0:07:57.14,0:07:58.71,Default,,0000,0000,0000,,A couple students to it every year.
+Dialogue: 0,0:07:58.71,0:07:59.79,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:59.79,0:08:03.43,Default,,0000,0000,0000,,Besides, the record holder for \Nskipping grades at this school
+Dialogue: 0,0:08:03.43,0:08:06.50,Default,,0000,0000,0000,,enrolled at age 10 and graduated at age 13.
+Dialogue: 0,0:08:06.50,0:08:07.08,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:07.34,0:08:10.36,Default,,0000,0000,0000,,On top of that, she served as student \Nbody president two terms in a row
+Dialogue: 0,0:08:10.36,0:08:13.02,Default,,0000,0000,0000,,and her grades were at the top of her \Nclass for all 3 years by a wide margin.
+Dialogue: 0,0:08:13.02,0:08:17.26,Default,,0000,0000,0000,,A formidable student with 3 of the silver \Nwatches awarded to the top achiever.
+Dialogue: 0,0:08:17.26,0:08:21.74,Default,,0000,0000,0000,,I see. I guess behemoths like \Nthat really exist in this world.
+Dialogue: 0,0:08:21.74,0:08:26.24,Default,,0000,0000,0000,,There {\i1}is{\i0} a behemoth like \Nthat, really close to you.
+Dialogue: 0,0:08:28.77,0:08:31.01,Default,,0000,0000,0000,,Oh, dear, have I caught a cold?
+Dialogue: 0,0:08:31.39,0:08:33.44,Default,,0000,0000,0000,,Anyway, students who skip \Ngrades or transfer in
+Dialogue: 0,0:08:33.44,0:08:36.94,Default,,0000,0000,0000,,or have their tuition waived \Nas scholarship students...
+Dialogue: 0,0:08:36.94,0:08:40.13,Default,,0000,0000,0000,,They have a duty to contribute to \Nthe school's record, reputation,
+Dialogue: 0,0:08:40.13,0:08:41.60,Default,,0000,0000,0000,,and rate of college enrollment.
+Dialogue: 0,0:08:41.60,0:08:44.28,Default,,0000,0000,0000,,If students like that get bad grades,
+Dialogue: 0,0:08:44.28,0:08:48.44,Default,,0000,0000,0000,,they inevitably face flunking or \Nother harsh punishments sometimes.
+Dialogue: 0,0:08:48.44,0:08:49.88,Default,,0000,0000,0000,,Th-They do?!
+Dialogue: 0,0:08:51.65,0:08:52.91,Italics,,0000,0000,0000,,{\i1}Come to think of it,
+Dialogue: 0,0:08:52.91,0:08:56.24,Italics,,0000,0000,0000,,{\i1}the student council people \Nsaid something similar, too.
+Dialogue: 0,0:08:56.24,0:08:58.77,Italics,,0000,0000,0000,,{\i1}I was in high spirits, \Njust by getting accepted,
+Dialogue: 0,0:08:58.77,0:09:01.28,Italics,,0000,0000,0000,,{\i1}but this is still a prestigious school.
+Dialogue: 0,0:09:01.28,0:09:05.20,Italics,,0000,0000,0000,,{\i1}I transferred in with borderline grades. \NWill I really be able to cut it?
+Dialogue: 0,0:09:05.20,0:09:07.20,Default,,0000,0000,0000,,But knowing you, you'll be fine.
+Dialogue: 0,0:09:07.20,0:09:09.53,Default,,0000,0000,0000,,You're capable of anything, after all.
+Dialogue: 0,0:09:10.66,0:09:12.46,Default,,0000,0000,0000,,What's wrong, Hayate?
+Dialogue: 0,0:09:15.52,0:09:19.76,Default,,0000,0000,0000,,In battle, you must always be \Nreading two or three moves ahead.
+Dialogue: 0,0:09:19.76,0:09:21.57,Default,,0000,0000,0000,,By Char Aznable.
+Dialogue: 0,0:09:22.79,0:09:26.59,Default,,0000,0000,0000,,Waking up early can certainly pay off. \NYou get to meet interesting people.
+Dialogue: 0,0:09:28.54,0:09:30.84,Default,,0000,0000,0000,,Heave-ho! Heave-ho! Heave-ho! Heave-ho!
+Dialogue: 0,0:09:30.84,0:09:34.77,Default,,0000,0000,0000,,If I make the jab that he's the most \Ninteresting person here, would I lose?
+Dialogue: 0,0:09:30.84,0:09:38.76,Italics,,0000,0000,0000,,{\an8}Heave-ho! Heave-ho! Heave-ho!
+Dialogue: 0,0:09:34.77,0:09:35.80,Default,,0000,0000,0000,,Probably.
+Dialogue: 0,0:09:35.80,0:09:38.75,Default,,0000,0000,0000,,Or rather, was there a point to the \Nsaying that he quoted earlier?
+Dialogue: 0,0:09:39.05,0:09:41.37,Default,,0000,0000,0000,,Himuro, is that enough with the flowers?
+Dialogue: 0,0:09:41.37,0:09:43.09,Default,,0000,0000,0000,,Thank you, Little Master Taiga.
+Dialogue: 0,0:09:43.09,0:09:44.65,Default,,0000,0000,0000,,Himuro thanked me!
+Dialogue: 0,0:09:45.09,0:09:46.28,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:09:46.28,0:09:48.44,Default,,0000,0000,0000,,That outfit... You're a butler as well?
+Dialogue: 0,0:09:48.44,0:09:51.70,Default,,0000,0000,0000,,Uh, yes, I'm a butler of the \NSanzenin household. My name is...
+Dialogue: 0,0:09:51.70,0:09:52.52,Default,,0000,0000,0000,,Sanzenin?
+Dialogue: 0,0:09:52.81,0:09:55.32,Default,,0000,0000,0000,,Oh, so you're the one...
+Dialogue: 0,0:09:55.32,0:09:56.54,Default,,0000,0000,0000,,Which means...
+Dialogue: 0,0:09:56.87,0:09:59.50,Italics,,0000,0000,0000,,{\i1}Wow, he's really pretty.
+Dialogue: 0,0:10:01.01,0:10:03.24,Default,,0000,0000,0000,,Hey, what are you trying to do to Hayate?!
+Dialogue: 0,0:10:03.24,0:10:04.46,Default,,0000,0000,0000,,Yes, that's right.
+Dialogue: 0,0:10:04.46,0:10:08.60,Default,,0000,0000,0000,,As I recall, if someone can make \Nthis young lady apologize in tears,
+Dialogue: 0,0:10:08.60,0:10:11.71,Default,,0000,0000,0000,,that person gets to inherit the \NSanzenin family fortune...
+Dialogue: 0,0:10:13.30,0:10:15.35,Default,,0000,0000,0000,,I won't let you lay a hand on the Miss!
+Dialogue: 0,0:10:15.35,0:10:16.66,Default,,0000,0000,0000,,I will protect her!
+Dialogue: 0,0:10:16.66,0:10:18.19,Default,,0000,0000,0000,,Hayate!
+Dialogue: 0,0:10:18.45,0:10:22.56,Default,,0000,0000,0000,,Well, to be honest, I have my source \Nof funds called Little Master Taiga,
+Dialogue: 0,0:10:22.56,0:10:24.44,Default,,0000,0000,0000,,so I'm not really interested.
+Dialogue: 0,0:10:24.44,0:10:25.42,Default,,0000,0000,0000,,Source of funds?!
+Dialogue: 0,0:10:27.16,0:10:30.34,Default,,0000,0000,0000,,It's going to be stolen from you \Nif you're not paying attention.
+Dialogue: 0,0:10:30.69,0:10:31.82,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:32.31,0:10:36.07,Default,,0000,0000,0000,,W-Wait, that's my string tie!\N How did you do that?!
+Dialogue: 0,0:10:36.66,0:10:37.82,Default,,0000,0000,0000,,A foolish question.
+Dialogue: 0,0:10:38.09,0:10:40.37,Default,,0000,0000,0000,,It's obvious, isn't it?
+Dialogue: 0,0:10:41.42,0:10:43.75,Default,,0000,0000,0000,,It's because I'm a first-rate butler.
+Dialogue: 0,0:10:44.09,0:10:46.50,Default,,0000,0000,0000,,A first-rate... butler...?
+Dialogue: 0,0:10:46.86,0:10:50.62,Default,,0000,0000,0000,,People don't wear butler uniforms \Nat this school just for show.
+Dialogue: 0,0:10:51.08,0:10:52.76,Default,,0000,0000,0000,,We shall be on our way now, Little Master.
+Dialogue: 0,0:10:52.76,0:10:53.76,Default,,0000,0000,0000,,Oh, okay!
+Dialogue: 0,0:10:56.07,0:10:57.52,Italics,,0000,0000,0000,,{\i1}Incredible!
+Dialogue: 0,0:10:57.52,0:11:00.88,Italics,,0000,0000,0000,,{\i1}So that's the pinnacle of what I \Nwant to be, a first-rate butler!
+Dialogue: 0,0:11:00.88,0:11:04.92,Italics,,0000,0000,0000,,{\i1}Well, not that I understand how \Nthat's related to being a butler...
+Dialogue: 0,0:11:05.89,0:11:08.93,Default,,0000,0000,0000,,Butlers are incredible, aren't they, Miss?!
+Dialogue: 0,0:11:08.93,0:11:12.32,Default,,0000,0000,0000,,I don't really care, but you \Nnever got your string tie back.
+Dialogue: 0,0:11:12.32,0:11:13.89,Default,,0000,0000,0000,,Oh, shoot!
+Dialogue: 0,0:11:13.89,0:11:15.01,Default,,0000,0000,0000,,Wait, he's gone already!
+Dialogue: 0,0:11:19.29,0:11:22.85,Italics,,0000,0000,0000,,{\i1}So this is... This is what it \Nis to be a first-rate butler!
+Dialogue: 0,0:11:22.85,0:11:24.81,Default,,0000,0000,0000,,No, that was out-and-out theft.
+Dialogue: 0,0:11:24.81,0:11:27.32,Default,,0000,0000,0000,,Or rather, don't force me to take \Njabs at your monologues, too.
+Dialogue: 0,0:11:29.49,0:11:31.75,Default,,0000,0000,0000,,Suke, Kaku, teach them a lesson.
+Dialogue: 0,0:11:34.30,0:11:36.24,Default,,0000,0000,0000,,I'll make coffee for you any time.
+Dialogue: 0,0:11:37.36,0:11:39.24,Default,,0000,0000,0000,,I'm so sorry, Maria.
+Dialogue: 0,0:11:39.24,0:11:41.75,Default,,0000,0000,0000,,Honestly! What did you go to school for?
+Dialogue: 0,0:11:44.23,0:11:45.19,Default,,0000,0000,0000,,There.
+Dialogue: 0,0:11:46.71,0:11:50.64,Default,,0000,0000,0000,,This time, please go to school properly \Nwithout losing your string tie.
+Dialogue: 0,0:11:50.64,0:11:53.74,Default,,0000,0000,0000,,O-Of course! You can count on me!
+Dialogue: 0,0:11:53.74,0:11:55.56,Default,,0000,0000,0000,,Are you sure about that?
+Dialogue: 0,0:11:54.79,0:11:57.19,On Top,,0000,0000,0000,,{\an8}I can't breathe! I can't breathe, Maria!
+Dialogue: 0,0:11:57.19,0:11:59.25,Default,,0000,0000,0000,,Hey, we're going to be late!
+Dialogue: 0,0:11:59.25,0:12:02.05,Default,,0000,0000,0000,,I wouldn't mind it one bit if \Nyou decide not to go, you know!
+Dialogue: 0,0:12:02.05,0:12:03.78,Default,,0000,0000,0000,,Oh, I'm going! I'm going!
+Dialogue: 0,0:12:03.78,0:12:05.67,Default,,0000,0000,0000,,Then I'll see you two later.
+Dialogue: 0,0:12:05.67,0:12:07.17,Default,,0000,0000,0000,,Yes, we'll be going then!
+Dialogue: 0,0:12:07.17,0:12:08.21,Default,,0000,0000,0000,,Come, Miss!
+Dialogue: 0,0:12:08.21,0:12:09.69,Default,,0000,0000,0000,,Hey, you stupid! Quit it!
+Dialogue: 0,0:12:09.69,0:12:11.41,Default,,0000,0000,0000,,This is embarrassing!
+Dialogue: 0,0:12:16.63,0:12:17.97,Default,,0000,0000,0000,,Quiet down!
+Dialogue: 0,0:12:18.68,0:12:22.17,Default,,0000,0000,0000,,Starting today, we're going to have \Na new friend joining our class!
+Dialogue: 0,0:12:22.92,0:12:24.96,Default,,0000,0000,0000,,Is it a transfer student, Katsy?
+Dialogue: 0,0:12:24.96,0:12:26.11,Default,,0000,0000,0000,,Is it a boy? Or a girl?
+Dialogue: 0,0:12:26.11,0:12:27.70,Default,,0000,0000,0000,,It's a boy, more or less.
+Dialogue: 0,0:12:27.70,0:12:29.67,Default,,0000,0000,0000,,What do you mean, "more or less"?
+Dialogue: 0,0:12:30.06,0:12:33.40,Default,,0000,0000,0000,,Me! Katsy, is this boy a cool guy?
+Dialogue: 0,0:12:33.67,0:12:35.83,Default,,0000,0000,0000,,What? You want to know if he's cool?
+Dialogue: 0,0:12:35.83,0:12:38.59,Default,,0000,0000,0000,,I-It makes me nervous if they're \Ngoing to talk about stuff like that.
+Dialogue: 0,0:12:39.89,0:12:42.49,Italics,,0000,0000,0000,,{\i1}I bet Ayasaki's nervous.
+Dialogue: 0,0:12:42.49,0:12:44.00,Italics,,0000,0000,0000,,{\i1}All right! I'll take this chance
+Dialogue: 0,0:12:44.00,0:12:47.45,Italics,,0000,0000,0000,,{\i1}to soften up the crowd for him, \Nand to make up for earlier.
+Dialogue: 0,0:12:48.14,0:12:50.91,Default,,0000,0000,0000,,The transfer student is {\i1}really{\i0} cute!
+Dialogue: 0,0:12:51.45,0:12:52.29,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:52.29,0:12:53.29,Default,,0000,0000,0000,,He's kind of like
+Dialogue: 0,0:12:53.29,0:12:56.86,Default,,0000,0000,0000,,if you boil down Kimutaku and \NTackey's DNA with Joe Odagiri
+Dialogue: 0,0:12:56.86,0:12:59.22,Default,,0000,0000,0000,,and add Orly and Brad Pitt to the mix!
+Dialogue: 0,0:12:59.22,0:13:01.92,Default,,0000,0000,0000,,Just hearing his voice \Nwill make you feel faint!
+Dialogue: 0,0:13:01.92,0:13:04.78,Default,,0000,0000,0000,,The sound effect for a sidelong \Nglance from him is like "BAM"!
+Dialogue: 0,0:13:04.78,0:13:07.29,Default,,0000,0000,0000,,And he's sort of like Golgo for girls.
+Dialogue: 0,0:13:07.29,0:13:09.90,Default,,0000,0000,0000,,Not to mention, he's a butler \Nfor the Sanzenin family!
+Dialogue: 0,0:13:09.90,0:13:11.32,Default,,0000,0000,0000,,He's practically a genius
+Dialogue: 0,0:13:11.32,0:13:13.81,Default,,0000,0000,0000,,and his athletic abilities \Nare incredible, too!
+Dialogue: 0,0:13:13.81,0:13:16.14,Default,,0000,0000,0000,,Huh? A butler for the Sanzenin family?
+Dialogue: 0,0:13:16.56,0:13:18.05,Default,,0000,0000,0000,,And so...!
+Dialogue: 0,0:13:18.05,0:13:20.34,Default,,0000,0000,0000,,Transfer student, please come on in!
+Dialogue: 0,0:13:23.67,0:13:25.70,Default,,0000,0000,0000,,Uh, hello.
+Dialogue: 0,0:13:28.94,0:13:30.60,Default,,0000,0000,0000,,Is that Hayata?
+Dialogue: 0,0:13:30.60,0:13:34.11,Default,,0000,0000,0000,,Wait, I thought he didn't pass \Nthe transfer admission test.
+Dialogue: 0,0:13:34.11,0:13:36.14,Default,,0000,0000,0000,,Well, a lot happened...
+Dialogue: 0,0:13:37.34,0:13:40.37,Italics,,0000,0000,0000,,{\i1}Oh, their focus on me hurts...
+Dialogue: 0,0:13:40.37,0:13:45.37,Italics,,0000,0000,0000,,{\i1}Aww. So the cool transfer \Nstudent was Hayata.
+Dialogue: 0,0:13:45.71,0:13:49.09,Italics,,0000,0000,0000,,{\i1}Well, it's true that he's \Nnot exactly ugly, but...
+Dialogue: 0,0:13:49.51,0:13:53.56,Italics,,0000,0000,0000,,{\i1}We're talking about some awfully \Npoor-looking Orlys and Brad Pitts.
+Dialogue: 0,0:13:53.99,0:13:56.45,Default,,0000,0000,0000,,Okay, Ayasaki, come introduce yourself.
+Dialogue: 0,0:13:56.45,0:13:57.30,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:59.05,0:14:02.24,Italics,,0000,0000,0000,,{\i1}I-It's easy for you to give \Nme this satisfied look,
+Dialogue: 0,0:14:02.24,0:14:05.40,Italics,,0000,0000,0000,,{\i1}as if to say, "I warmed \Nup the crowd for you!"...
+Dialogue: 0,0:14:09.42,0:14:11.16,Default,,0000,0000,0000,,So this is adversity!
+Dialogue: 0,0:14:11.16,0:14:13.84,Default,,0000,0000,0000,,This classroom is so cold, like it \Ngot hit with the Crackle spell,
+Dialogue: 0,0:14:13.84,0:14:15.20,Default,,0000,0000,0000,,and to think I have to introduce myself!
+Dialogue: 0,0:14:15.54,0:14:16.88,Default,,0000,0000,0000,,It can't be helped.
+Dialogue: 0,0:14:16.88,0:14:19.99,Default,,0000,0000,0000,,I can't very well bring shame to the Miss.
+Dialogue: 0,0:14:20.72,0:14:25.94,Italics,,0000,0000,0000,,{\i1}The boy named Hayate Ayasaki has worked \Namong adults from a tender age.
+Dialogue: 0,0:14:25.94,0:14:26.99,Italics,,0000,0000,0000,,{\i1}And so...
+Dialogue: 0,0:14:29.62,0:14:31.21,Default,,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:14:31.21,0:14:35.13,Italics,,0000,0000,0000,,{\i1}This kind of sales-pitch smile \Nis one of his greatest fortes.
+Dialogue: 0,0:14:37.54,0:14:42.86,Default,,0000,0000,0000,,As Miss Katsura just mentioned in her \Nintroduction, I am Hayate Ayasaki.
+Dialogue: 0,0:14:43.33,0:14:45.63,Default,,0000,0000,0000,,As a butler of the Sanzenin household,
+Dialogue: 0,0:14:45.63,0:14:49.83,Default,,0000,0000,0000,,I have the honor of serving Miss \NNagi, who is also in this class.
+Dialogue: 0,0:14:50.40,0:14:53.96,Default,,0000,0000,0000,,Miss Katsura's earlier introduction \Nwas a little exaggerated
+Dialogue: 0,0:14:53.96,0:14:57.82,Default,,0000,0000,0000,,and I myself am not a \Nparticularly astute student,
+Dialogue: 0,0:14:58.32,0:15:02.55,Default,,0000,0000,0000,,but I hope that I can have fun \Nlearning alongside all of you.
+Dialogue: 0,0:15:04.99,0:15:08.25,Default,,0000,0000,0000,,So, I look forward to \Ngetting to know everyone.
+Dialogue: 0,0:15:18.75,0:15:20.66,Default,,0000,0000,0000,,There, I've repaid my debt!
+Dialogue: 0,0:15:23.99,0:15:27.52,Default,,0000,0000,0000,,Ah, but school really is such fun, isn't it?
+Dialogue: 0,0:15:27.52,0:15:29.91,Default,,0000,0000,0000,,What? You think so?
+Dialogue: 0,0:15:29.91,0:15:32.14,Default,,0000,0000,0000,,Aren't you having fun, Miss?
+Dialogue: 0,0:15:32.14,0:15:34.69,Default,,0000,0000,0000,,There are a lot of people here.
+Dialogue: 0,0:15:34.69,0:15:37.27,Default,,0000,0000,0000,,I want to live as quietly and \Ninconspicuously as possible,
+Dialogue: 0,0:15:37.27,0:15:41.20,Default,,0000,0000,0000,,and spend the majority of \Nmy days on manga and games.
+Dialogue: 0,0:15:41.20,0:15:42.95,Default,,0000,0000,0000,,That's called a useless member of society.
+Dialogue: 0,0:15:43.24,0:15:45.04,Default,,0000,0000,0000,,The reason I skipped grades
+Dialogue: 0,0:15:45.04,0:15:48.23,Default,,0000,0000,0000,,was also because I didn't want to \Ngo to school for 12 whole years.
+Dialogue: 0,0:15:48.92,0:15:51.60,Default,,0000,0000,0000,,Th-That's really hardcore.
+Dialogue: 0,0:15:51.60,0:15:55.78,Default,,0000,0000,0000,,But {\i1}I{\i0} am happy that I get to go \Nto school like this with you.
+Dialogue: 0,0:15:55.78,0:15:56.48,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:15:56.97,0:15:59.43,Default,,0000,0000,0000,,I suppose I have Maria to \Nthank for that as well.
+Dialogue: 0,0:16:01.34,0:16:04.13,Default,,0000,0000,0000,,And I have you to thank, too.
+Dialogue: 0,0:16:06.71,0:16:10.19,Default,,0000,0000,0000,,If you hadn't laid the groundwork for this,
+Dialogue: 0,0:16:10.19,0:16:12.98,Default,,0000,0000,0000,,I would not be here today.
+Dialogue: 0,0:16:15.31,0:16:17.71,Default,,0000,0000,0000,,Thank you very much, Miss.
+Dialogue: 0,0:16:19.94,0:16:22.29,Default,,0000,0000,0000,,No, uh, right...
+Dialogue: 0,0:16:22.29,0:16:25.15,Default,,0000,0000,0000,,Getting to be with you, I also...
+Dialogue: 0,0:16:25.49,0:16:28.11,Default,,0000,0000,0000,,You still like the unpopular spots, \Nthe same as ever, don't you?
+Dialogue: 0,0:16:28.11,0:16:30.01,Default,,0000,0000,0000,,H-Hinagiku, you...!
+Dialogue: 0,0:16:30.01,0:16:31.76,Default,,0000,0000,0000,,Oh, Hinagiku, hello.
+Dialogue: 0,0:16:31.76,0:16:32.82,Default,,0000,0000,0000,,Hello.
+Dialogue: 0,0:16:32.82,0:16:35.75,Default,,0000,0000,0000,,But what are you doing out here?
+Dialogue: 0,0:16:36.16,0:16:38.84,Default,,0000,0000,0000,,A little something came up, so I \Nthought I'd drop by the clubroom.
+Dialogue: 0,0:16:38.84,0:16:40.26,Default,,0000,0000,0000,,This is a shortcut.
+Dialogue: 0,0:16:40.26,0:16:42.57,Default,,0000,0000,0000,,Wow, you're the student body president,
+Dialogue: 0,0:16:42.57,0:16:44.53,Default,,0000,0000,0000,,and you still participate in \Nextracurricular activities!
+Dialogue: 0,0:16:44.53,0:16:47.01,Default,,0000,0000,0000,,What's the use if you \Ncan't juggle that much?
+Dialogue: 0,0:16:47.32,0:16:48.51,Default,,0000,0000,0000,,Come to think of it,
+Dialogue: 0,0:16:48.51,0:16:50.83,Default,,0000,0000,0000,,don't you participate in any \Nextracurricular activities, Miss?
+Dialogue: 0,0:16:50.83,0:16:52.00,Default,,0000,0000,0000,,Huh? Why?
+Dialogue: 0,0:16:52.00,0:16:54.82,Default,,0000,0000,0000,,Well, I do believe the best \Npart of going to school
+Dialogue: 0,0:16:54.82,0:16:57.40,Default,,0000,0000,0000,,is participating in extracurricular \Nactivities with your friends.
+Dialogue: 0,0:16:57.40,0:17:01.48,Default,,0000,0000,0000,,Y-You fool! I have no need \Nfor such things anymore!
+Dialogue: 0,0:17:01.48,0:17:04.30,Default,,0000,0000,0000,,Oh, but you're still a \Nregistered member, you know.
+Dialogue: 0,0:17:04.30,0:17:05.70,Default,,0000,0000,0000,,Hinagiku!
+Dialogue: 0,0:17:05.70,0:17:07.39,Default,,0000,0000,0000,,Um, what registered member?
+Dialogue: 0,0:17:07.39,0:17:09.97,Default,,0000,0000,0000,,She's in the same club as I am.
+Dialogue: 0,0:17:09.97,0:17:13.91,Default,,0000,0000,0000,,Y-You fool! Th-That was just \Na one-day trial membership!
+Dialogue: 0,0:17:13.91,0:17:15.73,Default,,0000,0000,0000,,You treated it as a darned \Napplication without my permission!
+Dialogue: 0,0:17:15.99,0:17:17.58,Default,,0000,0000,0000,,So, what club?
+Dialogue: 0,0:17:17.58,0:17:18.67,Default,,0000,0000,0000,,The kendo team.
+Dialogue: 0,0:17:19.12,0:17:20.65,Default,,0000,0000,0000,,The kendo team?!
+Dialogue: 0,0:17:22.40,0:17:24.67,Default,,0000,0000,0000,,When I started high school,
+Dialogue: 0,0:17:24.67,0:17:27.38,Default,,0000,0000,0000,,there was a time when I thought \Nthat the acute societal withdrawal
+Dialogue: 0,0:17:27.38,0:17:29.15,Default,,0000,0000,0000,,might be problematic if it continued...
+Dialogue: 0,0:17:29.15,0:17:38.53,On Top,SIGN,0000,0000,0000,,Kendo Team
+Dialogue: 0,0:17:32.07,0:17:35.99,Default,,0000,0000,0000,,So, based on what I saw during the \Nnew student recruitment activities,
+Dialogue: 0,0:17:35.99,0:17:38.54,Default,,0000,0000,0000,,I thought about getting \Ninto some kind of sport.
+Dialogue: 0,0:17:44.55,0:17:47.40,Italics,,0000,0000,0000,,{\i1}Because she was really cool.
+Dialogue: 0,0:17:47.76,0:17:49.84,Default,,0000,0000,0000,,But why did she quit?
+Dialogue: 0,0:17:49.84,0:17:51.86,Default,,0000,0000,0000,,Beats me. Ask her.
+Dialogue: 0,0:17:51.86,0:17:53.37,Default,,0000,0000,0000,,Well, because...
+Dialogue: 0,0:17:53.64,0:17:55.55,Default,,0000,0000,0000,,Both the protective gear and \Nthe bamboo sword were heavy
+Dialogue: 0,0:17:55.55,0:17:56.81,Default,,0000,0000,0000,,and I couldn't move very well.
+Dialogue: 0,0:17:56.81,0:17:58.77,Default,,0000,0000,0000,,That's why you should use \Nthe children's sizes
+Dialogue: 0,0:17:58.77,0:18:00.67,Default,,0000,0000,0000,,instead of the same equipment as me.
+Dialogue: 0,0:18:00.67,0:18:02.77,Default,,0000,0000,0000,,Like hell I'm using children's equipment!
+Dialogue: 0,0:18:02.77,0:18:05.10,Default,,0000,0000,0000,,But you quit just because of that?
+Dialogue: 0,0:18:05.10,0:18:06.92,Default,,0000,0000,0000,,Yes, I quit just because of that.
+Dialogue: 0,0:18:08.20,0:18:09.78,Italics,,0000,0000,0000,,{\i1}Because I knew right away.
+Dialogue: 0,0:18:11.11,0:18:13.14,Italics,,0000,0000,0000,,{\i1}That even if I practiced the same sport,
+Dialogue: 0,0:18:13.14,0:18:15.72,Italics,,0000,0000,0000,,{\i1}it was unlikely that I'd ever be like her.
+Dialogue: 0,0:18:20.70,0:18:25.56,Italics,,0000,0000,0000,,{\i1}So there was a time when the Miss \Ntried a sport on her own initiative.
+Dialogue: 0,0:18:26.05,0:18:28.86,Italics,,0000,0000,0000,,{\i1}But if I leave the Miss to her own devices,
+Dialogue: 0,0:18:28.86,0:18:31.92,Italics,,0000,0000,0000,,{\i1}she's going to end up a deadbeat \Nslacker or an internet game addict.
+Dialogue: 0,0:18:32.70,0:18:35.81,Default,,0000,0000,0000,,I'm thinking finding employment \Nmight mean an admission of defeat.
+Dialogue: 0,0:18:37.20,0:18:38.81,Default,,0000,0000,0000,,All right, Miss!
+Dialogue: 0,0:18:39.18,0:18:42.62,Default,,0000,0000,0000,,How about you come take a peek at the \Nkendo team with me after school?!
+Dialogue: 0,0:18:42.62,0:18:43.06,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:51.97,0:18:54.84,Default,,0000,0000,0000,,Wow, so this is the kendo team.
+Dialogue: 0,0:18:54.84,0:18:58.73,Default,,0000,0000,0000,,Of course. Like hell this could be \Nthe manga club or the anime club.
+Dialogue: 0,0:18:58.74,0:19:04.66,On Top,SIGN,0000,0000,0000,,Be pure, righteous, and beautiful
+Dialogue: 0,0:18:59.28,0:19:01.98,Default,,0000,0000,0000,,But I feel like there aren't \Nthat many people...
+Dialogue: 0,0:19:01.98,0:19:05.95,Default,,0000,0000,0000,,Well, it's not a popular club \Nto begin with at this school.
+Dialogue: 0,0:19:05.95,0:19:08.09,Default,,0000,0000,0000,,You look good in your uniform, Hinagiku.
+Dialogue: 0,0:19:08.09,0:19:08.67,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:09.18,0:19:10.15,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:10.15,0:19:12.11,Default,,0000,0000,0000,,W-Why, thank you.
+Dialogue: 0,0:19:12.11,0:19:14.11,Default,,0000,0000,0000,,Then, shall we get the \Nintroductions out of the way
+Dialogue: 0,0:19:14.11,0:19:16.38,Default,,0000,0000,0000,,and get you practicing \Nwith us a bit, Hayate?
+Dialogue: 0,0:19:16.38,0:19:17.60,Default,,0000,0000,0000,,That guy just...
+Dialogue: 0,0:19:17.60,0:19:19.69,Default,,0000,0000,0000,,...addressed Miss Katsura as "Hinagiku"!
+Dialogue: 0,0:19:19.69,0:19:21.58,Default,,0000,0000,0000,,A-And she called him "Hayate"?!
+Dialogue: 0,0:19:21.58,0:19:24.59,Default,,0000,0000,0000,,But Hinagiku, what about my protective gear?
+Dialogue: 0,0:19:24.59,0:19:26.32,Default,,0000,0000,0000,,Can't you do without, Hayate?
+Dialogue: 0,0:19:26.32,0:19:28.31,Default,,0000,0000,0000,,B-But Hinagiku...
+Dialogue: 0,0:19:28.31,0:19:32.26,Default,,0000,0000,0000,,"Hinagiku"! "Hayate"! "Hinagiku"! "Hayate"!
+Dialogue: 0,0:19:32.26,0:19:35.08,Default,,0000,0000,0000,,Then I'll get permission \Nfrom our advisor first.
+Dialogue: 0,0:19:35.08,0:19:36.23,Default,,0000,0000,0000,,Miss Katsura.
+Dialogue: 0,0:19:36.23,0:19:39.50,Default,,0000,0000,0000,,There's no need to let a guy like \Nhim practice kendo with us.
+Dialogue: 0,0:19:39.50,0:19:41.33,Default,,0000,0000,0000,,Azumamiya...
+Dialogue: 0,0:19:41.33,0:19:43.02,Default,,0000,0000,0000,,You there, butler.
+Dialogue: 0,0:19:43.87,0:19:45.23,Default,,0000,0000,0000,,Fight me!
+Dialogue: 0,0:19:45.23,0:19:46.23,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:46.23,0:19:48.88,Default,,0000,0000,0000,,If you lose to me, never come here again!
+Dialogue: 0,0:19:48.88,0:19:51.51,Default,,0000,0000,0000,,Even if he wins, it's not \Nlike we'll come again.
+Dialogue: 0,0:19:51.51,0:19:52.12,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:52.45,0:19:55.79,Italics,,0000,0000,0000,,{\i1}If I lose here, the Miss will \Nnever practice kendo...
+Dialogue: 0,0:19:55.79,0:19:59.12,Italics,,0000,0000,0000,,{\i1}No, I doubt she'll attempt \Nany other sport, either.
+Dialogue: 0,0:19:59.64,0:20:01.34,Italics,,0000,0000,0000,,{\i1}In which case, I can't lose!
+Dialogue: 0,0:20:01.73,0:20:04.01,Default,,0000,0000,0000,,I understand! I will accept your challenge!
+Dialogue: 0,0:20:04.01,0:20:05.13,Default,,0000,0000,0000,,Hayate?
+Dialogue: 0,0:20:06.58,0:20:08.32,Default,,0000,0000,0000,,Oh, a flurry of petals!
+Dialogue: 0,0:20:08.99,0:20:10.60,Default,,0000,0000,0000,,This is getting interesting.
+Dialogue: 0,0:20:10.96,0:20:13.26,Default,,0000,0000,0000,,Becoming a sword for your mistress...
+Dialogue: 0,0:20:13.26,0:20:15.05,Default,,0000,0000,0000,,Quite a fine approach to take.
+Dialogue: 0,0:20:15.05,0:20:17.54,Default,,0000,0000,0000,,Oh, you're the Prince of Ties!
+Dialogue: 0,0:20:17.54,0:20:19.23,Default,,0000,0000,0000,,Please give me back the string tie!
+Dialogue: 0,0:20:19.23,0:20:22.82,Default,,0000,0000,0000,,Thank you for the interesting \Nnickname. But no, thank you.
+Dialogue: 0,0:20:22.82,0:20:24.73,Default,,0000,0000,0000,,Heave-ho. Heave-ho.
+Dialogue: 0,0:20:25.01,0:20:29.51,Default,,0000,0000,0000,,But I wonder if the Little Master \NAzumamiya is up to fighting him.
+Dialogue: 0,0:20:29.51,0:20:30.30,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:30.30,0:20:31.52,Default,,0000,0000,0000,,Take a look.
+Dialogue: 0,0:20:36.29,0:20:38.97,Default,,0000,0000,0000,,H-His swordsman's chi \Nis striking the petals!
+Dialogue: 0,0:20:40.69,0:20:41.43,Default,,0000,0000,0000,,Hiten...
+Dialogue: 0,0:20:41.72,0:20:42.76,Default,,0000,0000,0000,,Don't!
+Dialogue: 0,0:20:42.76,0:20:45.10,Default,,0000,0000,0000,,And due to copyright issues, \Ndon't say any more either!
+Dialogue: 0,0:20:45.10,0:20:48.10,Default,,0000,0000,0000,,I see, so it means there's \Nno need for me to hold back.
+Dialogue: 0,0:20:48.10,0:20:49.56,Default,,0000,0000,0000,,You said your name was Hayate, was it?!
+Dialogue: 0,0:20:49.56,0:20:50.82,Default,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:20:50.82,0:20:53.49,Default,,0000,0000,0000,,I, Kotaro Azumamiya, have \Njudged you to be an opponent,
+Dialogue: 0,0:20:53.49,0:20:56.25,Default,,0000,0000,0000,,whom I must spend the rest \Nof my life to defeat!
+Dialogue: 0,0:20:58.11,0:20:59.85,Default,,0000,0000,0000,,Heave-ho. Heave-ho.
+Dialogue: 0,0:21:03.16,0:21:06.55,Italics,,0000,0000,0000,,{\i1}The mystery kendo team member, who \Nhas suddenly declared a rivalry,
+Dialogue: 0,0:21:06.55,0:21:08.18,Italics,,0000,0000,0000,,{\i1}Kotaro Azumamiya.
+Dialogue: 0,0:21:08.18,0:21:10.70,Italics,,0000,0000,0000,,{\i1}How powerful might he actually be?
+Dialogue: 0,0:21:10.70,0:21:15.40,Italics,,0000,0000,0000,,{\i1}The story has suddenly taken a \Nclassic school drama turn of events
+Dialogue: 0,0:21:15.40,0:21:19.66,Italics,,0000,0000,0000,,{\i1}and next time, he will finally \Nfight his destined rival.
+Dialogue: 0,0:21:19.97,0:21:21.40,Default,,0000,0000,0000,,Hold on a second!
+Dialogue: 0,0:21:21.40,0:21:23.57,Default,,0000,0000,0000,,When did I ever say that I would fight?!
+Dialogue: 0,0:21:23.57,0:21:24.36,Default,,0000,0000,0000,,Nonohara!
+Dialogue: 0,0:21:24.36,0:21:25.45,Default,,0000,0000,0000,,Come, Nonohara!
+Dialogue: 0,0:21:25.45,0:21:26.67,Default,,0000,0000,0000,,Nonohara?
+Dialogue: 0,0:21:26.67,0:21:28.17,Default,,0000,0000,0000,,He's my butler.
+Dialogue: 0,0:21:28.17,0:21:29.08,Default,,0000,0000,0000,,Your opponent...
+Dialogue: 0,0:21:30.01,0:21:33.30,Default,,0000,0000,0000,,...will be this combat \Nbutler, Kaede Nonohara!
+Dialogue: 0,0:21:33.30,0:21:35.60,Default,,0000,0000,0000,,C-Combat butler?!
+Dialogue: 0,0:21:35.99,0:21:40.27,Italics,,0000,0000,0000,,{\i1}Um, it seems next time, \Nhe'll be fighting this guy.
+Dialogue: 0,0:21:41.22,0:21:43.64,Default,,0000,0000,0000,,Himuro, is that enough with the flowers?
+Dialogue: 0,0:21:43.64,0:21:45.44,Default,,0000,0000,0000,,Thank you, Little Master Taiga.
+Dialogue: 0,0:21:46.19,0:21:49.25,Default,,0000,0000,0000,,Um, could I ask the non-members to leave?
+Dialogue: 0,0:21:49.71,0:21:51.87,Default,,0000,0000,0000,,What did this guy show up for?
+Dialogue: 0,0:21:55.83,0:22:00.75,On Top,,0000,0000,0000,,{\an8}Naida kokoro no ho ni kaze ga fuki-nuketetta
+Dialogue: 0,0:21:55.83,0:22:00.75,On Top,,0000,0000,0000,,A breeze crossed the wilted sail of my heart
+Dialogue: 0,0:22:00.79,0:22:05.34,On Top,,0000,0000,0000,,{\an8}Kimochi yureru soshite Lose My Way
+Dialogue: 0,0:22:00.79,0:22:05.34,On Top,,0000,0000,0000,,My feelings waver and then I lose my way
+Dialogue: 0,0:22:05.59,0:22:08.51,On Top,,0000,0000,0000,,{\an8}Zutto kimi ga iru nara ii ka
+Dialogue: 0,0:22:05.59,0:22:08.51,On Top,,0000,0000,0000,,I guess if you'll always be here, it's okay
+Dialogue: 0,0:22:08.63,0:22:12.97,On Top,,0000,0000,0000,,{\an8}Sore mo waruku wa nai So I Go Together
+Dialogue: 0,0:22:08.63,0:22:12.97,On Top,,0000,0000,0000,,That's not so bad, so I go together
+Dialogue: 0,0:22:14.10,0:22:16.35,On Top,,0000,0000,0000,,{\an8}Tenki-yohou nante nai
+Dialogue: 0,0:22:14.10,0:22:16.35,On Top,,0000,0000,0000,,Weather forecasts don't exist
+Dialogue: 0,0:22:16.56,0:22:18.94,On Top,,0000,0000,0000,,{\an8}Zenbu kibun-shidai
+Dialogue: 0,0:22:16.56,0:22:18.94,On Top,,0000,0000,0000,,It's all mood-dependent
+Dialogue: 0,0:22:19.14,0:22:21.56,On Top,,0000,0000,0000,,{\an8}Nanimo shinpai nai
+Dialogue: 0,0:22:19.14,0:22:21.56,On Top,,0000,0000,0000,,There's nothing to worry about
+Dialogue: 0,0:22:21.77,0:22:24.36,On Top,,0000,0000,0000,,{\an8}Makasete! Jiyuu-jizai
+Dialogue: 0,0:22:21.77,0:22:24.36,On Top,,0000,0000,0000,,Leave it to me! Perfectly free
+Dialogue: 0,0:22:24.52,0:22:26.65,On Top,,0000,0000,0000,,{\an8}Keri-ageta kutsu ni
+Dialogue: 0,0:22:24.52,0:22:26.65,On Top,,0000,0000,0000,,On the shoe that I kick up
+Dialogue: 0,0:22:26.86,0:22:29.32,On Top,,0000,0000,0000,,{\an8}"Put A Wish" Zettai hareru!
+Dialogue: 0,0:22:26.86,0:22:29.32,On Top,,0000,0000,0000,,"Put a Wish" it'll definitely clear up!
+Dialogue: 0,0:22:29.53,0:22:31.99,On Top,,0000,0000,0000,,{\an8}Kekka wa... I'm Looking At Nothing...
+Dialogue: 0,0:22:29.53,0:22:31.99,On Top,,0000,0000,0000,,And the result is, I'm looking at nothing
+Dialogue: 0,0:22:31.99,0:22:34.62,On Top,,0000,0000,0000,,{\an8}Mou ichido, yari-naoshi!
+Dialogue: 0,0:22:31.99,0:22:34.62,On Top,,0000,0000,0000,,One more time, a do-over!
+Dialogue: 0,0:22:34.62,0:22:38.83,On Top,,0000,0000,0000,,{\an8}Tama ni wa kakete-miyou
+Dialogue: 0,0:22:34.62,0:22:38.83,On Top,,0000,0000,0000,,I'll try betting once in a while
+Dialogue: 0,0:22:39.16,0:22:42.50,On Top,,0000,0000,0000,,{\an8}Nee kimi ni yudanete-mitai
+Dialogue: 0,0:22:39.16,0:22:42.50,On Top,,0000,0000,0000,,Hey, I want to try entrusting you with it
+Dialogue: 0,0:22:44.42,0:22:47.17,On Top,,0000,0000,0000,,{\an8}Sassou to kake-nukete To Fly
+Dialogue: 0,0:22:44.42,0:22:47.17,On Top,,0000,0000,0000,,Running through gallantly, to fly
+Dialogue: 0,0:22:47.59,0:22:49.84,On Top,,0000,0000,0000,,{\an8}Harema ga mieru The Sky
+Dialogue: 0,0:22:47.59,0:22:49.84,On Top,,0000,0000,0000,,I can see a break in the weather, the sky
+Dialogue: 0,0:22:50.05,0:22:51.84,On Top,,0000,0000,0000,,{\an8}Shinjiteta yo
+Dialogue: 0,0:22:50.05,0:22:51.84,On Top,,0000,0000,0000,,I had faith
+Dialogue: 0,0:22:52.51,0:22:54.60,On Top,,0000,0000,0000,,{\an8}Soshite Make My Way
+Dialogue: 0,0:22:52.51,0:22:54.60,On Top,,0000,0000,0000,,And then, I make my way
+Dialogue: 0,0:22:54.85,0:22:57.56,On Top,,0000,0000,0000,,{\an8}Sotto sashi-dasu kimi no te de
+Dialogue: 0,0:22:54.85,0:22:57.56,On Top,,0000,0000,0000,,With the hand you quietly reach out
+Dialogue: 0,0:22:57.85,0:23:02.31,On Top,,0000,0000,0000,,{\an8}Muteki ni nareru kara So I Go Together
+Dialogue: 0,0:22:57.85,0:23:02.31,On Top,,0000,0000,0000,,I can become invincible, so I go together
+Dialogue: 0,0:23:04.06,0:23:10.36,On Top,,0000,0000,0000,,{\an8}Hoshi ga kirei da ashita mo hareru sa
+Dialogue: 0,0:23:04.06,0:23:10.36,On Top,,0000,0000,0000,,Stars so beautiful, it'll \Nbe clear again tomorrow
+Dialogue: 0,0:23:26.33,0:23:27.29,On Top,,0000,0000,0000,,This is Nagi...
+Dialogue: 0,0:23:27.29,0:23:28.25,On Top,,0000,0000,0000,,...and Hayate's...
+Dialogue: 0,0:23:28.25,0:23:30.51,OS,,0000,0000,0000,,{\pos(322,240)}Butler Report
+Dialogue: 0,0:23:28.57,0:23:29.87,On Top,,0000,0000,0000,,...Butler Report!
+Dialogue: 0,0:23:30.75,0:23:32.61,On Top,,0000,0000,0000,,Hey, there, I'm Nagi Sanzenin.
+Dialogue: 0,0:23:32.61,0:23:33.52,On Top,,0000,0000,0000,,I am Hayate Ayasaki.
+Dialogue: 0,0:23:33.52,0:23:34.85,On Top,,0000,0000,0000,,I'm Hinagiku Katsura.
+Dialogue: 0,0:23:34.85,0:23:36.51,On Top,,0000,0000,0000,,Hinagiku, when did you get here?
+Dialogue: 0,0:23:36.51,0:23:38.68,On Top,,0000,0000,0000,,What's this, Hinagiku? \NWhat are you here for?
+Dialogue: 0,0:23:38.68,0:23:41.10,On Top,,0000,0000,0000,,I'm going to be in this segment \Nfor a while, too, now.
+Dialogue: 0,0:23:41.10,0:23:42.58,On Top,,0000,0000,0000,,Well, speaking of you, Hinagiku,
+Dialogue: 0,0:23:42.58,0:23:45.13,On Top,,0000,0000,0000,,it seems you're #1 in popularity in \Na certain weekly manga magazine.
+Dialogue: 0,0:23:45.13,0:23:45.98,On Top,,0000,0000,0000,,Truly impressive!
+Dialogue: 0,0:23:45.98,0:23:48.35,On Top,,0000,0000,0000,,Oh, Hayate, flattery won't \Nget you anything, you know.
+Dialogue: 0,0:23:48.35,0:23:49.92,On Top,,0000,0000,0000,,No, no, you excel both \Nacademically and athletically.
+Dialogue: 0,0:23:49.92,0:23:52.11,On Top,,0000,0000,0000,,I wish the Miss would learn a \Nthing or two from you, too.
+Dialogue: 0,0:23:52.11,0:23:53.63,On Top,,0000,0000,0000,,Hayate, it's time already!
+Dialogue: 0,0:23:53.63,0:23:55.43,On Top,,0000,0000,0000,,What are you so angry for, Miss?
+Dialogue: 0,0:23:55.43,0:23:56.28,On Top,,0000,0000,0000,,Good grief.
+Dialogue: 0,0:23:56.28,0:23:59.29,Default,,0000,0000,0000,,{\pos(320,240)}Preview
+Dialogue: 0,0:23:57.69,0:24:00.10,On Top,,0000,0000,0000,,So, there you have it. Hello, \NI am Kaede Nonohara.
+Dialogue: 0,0:23:59.29,0:24:19.31,OS,,0000,0000,0000,,{\an8\pos(174,307)}The next episode of "Hayate \Nthe Combat Butler" is...
+Dialogue: 0,0:24:00.10,0:24:02.47,On Top,,0000,0000,0000,,I serve as a butler for \Nthe Azumamiya family.
+Dialogue: 0,0:24:02.47,0:24:04.83,On Top,,0000,0000,0000,,Now, Nonohara, defeat him right this minute!
+Dialogue: 0,0:24:04.83,0:24:05.92,On Top,,0000,0000,0000,,Certainly.
+Dialogue: 0,0:24:05.92,0:24:07.84,On Top,,0000,0000,0000,,Safety Shutter!
+Dialogue: 0,0:24:07.84,0:24:08.68,On Top,,0000,0000,0000,,Hayate!
+Dialogue: 0,0:24:08.68,0:24:11.42,On Top,,0000,0000,0000,,We butlers are not tools \Nto be used by our masters.
+Dialogue: 0,0:24:11.42,0:24:13.89,On Top,,0000,0000,0000,,It is not as if we must \Nmerely do as we are told.
+Dialogue: 0,0:24:13.89,0:24:15.68,On Top,,0000,0000,0000,,Next time on "Hayate the Combat Butler",
+Dialogue: 0,0:24:15.68,0:24:17.07,On Top,,0000,0000,0000,,"Even in Defeat, Kendo Rage".
+Dialogue: 0,0:24:17.07,0:24:18.72,On Top,,0000,0000,0000,,Hayate, I have faith in you.
+Dialogue: 0,0:24:18.72,0:24:21.29,On Top,,0000,0000,0000,,That there's no way you'll lose \Nagainst a butler like him!
+Dialogue: 0,0:24:19.31,0:24:22.31,Default,SIGN,0000,0000,0000,,Even in Defeat, Kendo Rage
+Dialogue: 0,0:24:21.29,0:24:23.07,On Top,,0000,0000,0000,,Wipe away the tears beneath the mask.

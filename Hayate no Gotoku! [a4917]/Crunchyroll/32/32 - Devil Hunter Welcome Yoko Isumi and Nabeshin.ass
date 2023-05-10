@@ -1,0 +1,581 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.16,0:00:04.62,On Top,,0000,0000,0000,,When watching TV,
+Dialogue: 0,0:00:04.62,0:00:06.06,On Top,,0000,0000,0000,,please keep the room bright...
+Dialogue: 0,0:00:06.06,0:00:08.19,On Top,,0000,0000,0000,,...and sit well away from the TV.
+Dialogue: 0,0:00:08.19,0:00:09.25,On Top,,0000,0000,0000,,That's right.
+Dialogue: 0,0:00:20.83,0:00:23.42,Italics,,0000,0000,0000,,Hayate has been rather low on sleep lately.
+Dialogue: 0,0:00:23.42,0:00:27.00,Italics,,0000,0000,0000,,The reason for that... is a bit like this.
+Dialogue: 0,0:00:43.88,0:00:46.27,Default,,0000,0000,0000,,I love you, Brenda.
+Dialogue: 0,0:00:49.32,0:00:52.87,Default,,0000,0000,0000,,Why are you here?! Why did you \Nwake me?! Why try to seduce me?!
+Dialogue: 0,0:00:57.23,0:00:59.01,Default,,0000,0000,0000,,Wh-What the?!
+Dialogue: 0,0:00:59.01,0:01:00.90,Default,,0000,0000,0000,,Don't look at me like I look delicious!
+Dialogue: 0,0:01:03.83,0:01:05.48,Default,,0000,0000,0000,,I'm going to be eaten!
+Dialogue: 0,0:01:05.48,0:01:08.51,Default,,0000,0000,0000,,Stop! Don't eat me!
+Dialogue: 0,0:01:06.30,0:01:08.51,On Top,,0000,0000,0000,,I'm an afro.
+Dialogue: 0,0:01:08.51,0:01:10.36,Default,,0000,0000,0000,,I won't taste good!
+Dialogue: 0,0:01:09.80,0:01:12.06,On Top,,0000,0000,0000,,I'm an afro.
+Dialogue: 0,0:01:10.36,0:01:12.06,Default,,0000,0000,0000,,I'm bland!
+Dialogue: 0,0:01:12.06,0:01:13.74,On Top,,0000,0000,0000,,I'm an afro.
+Dialogue: 0,0:01:12.90,0:01:14.20,Default,,0000,0000,0000,,Wait, it's a dream!
+Dialogue: 0,0:01:14.72,0:01:17.16,On Top,,0000,0000,0000,,I'm an afro.
+Dialogue: 0,0:01:16.53,0:01:17.59,Default,,0000,0000,0000,,It seems kind of afro-ish...
+Dialogue: 0,0:01:17.59,0:01:18.50,Default,,0000,0000,0000,,Afro...
+Dialogue: 0,0:01:18.50,0:01:20.22,Default,,0000,0000,0000,,Wait, what?!
+Dialogue: 0,0:01:21.93,0:01:23.90,Default,,0000,0000,0000,,An afro?!
+Dialogue: 0,0:01:30.76,0:01:32.63,Default,,0000,0000,0000,,Pardon me for interrupting your nifty scene,
+Dialogue: 0,0:01:32.63,0:01:34.59,Default,,0000,0000,0000,,but who are you showing off for \Nand what are you showing off?
+Dialogue: 0,0:01:34.59,0:01:35.30,Default,,0000,0000,0000,,Oh, this way!
+Dialogue: 0,0:01:35.30,0:01:36.15,Default,,0000,0000,0000,,More like, who?
+Dialogue: 0,0:01:36.51,0:01:39.78,Italics,,0000,0000,0000,,Nabeshin! He looks good in an afro.
+Dialogue: 0,0:01:39.78,0:01:43.15,Italics,,0000,0000,0000,,Nabeshin! He apparently \Nowns four red jackets.
+Dialogue: 0,0:01:43.15,0:01:45.56,Italics,,0000,0000,0000,,Nabeshin! An immature director,
+Dialogue: 0,0:01:45.56,0:01:48.37,Italics,,0000,0000,0000,,who was invited by Kawaguchi \Nand shamelessly came on the show.
+Dialogue: 0,0:01:48.37,0:01:50.84,Italics,,0000,0000,0000,,Nabeshin! Creates \Nopportunities for tons of jabs!
+Dialogue: 0,0:01:50.84,0:01:52.83,Italics,,0000,0000,0000,,The number of women he's done is...
+Dialogue: 0,0:01:52.83,0:01:55.48,Default,,0000,0000,0000,,Or rather, this is an awfully old intro.
+Dialogue: 0,0:01:55.48,0:01:57.11,Default,,0000,0000,0000,,That's news to me!
+Dialogue: 0,0:01:57.11,0:01:59.20,Default,,0000,0000,0000,,This is our current intro.
+Dialogue: 0,0:01:59.20,0:02:00.55,Default,,0000,0000,0000,,That's news to me!
+Dialogue: 0,0:02:00.55,0:02:03.50,Italics,,0000,0000,0000,,Whosoever commands the butlers, \Ncommands the world!
+Dialogue: 0,0:02:03.50,0:02:09.15,Italics,,0000,0000,0000,,The Great Butler War that will \Nshake up the world has just begun!
+Dialogue: 0,0:02:09.52,0:02:12.52,Default,,0000,0000,0000,,Huh, so this is the current intro.
+Dialogue: 0,0:02:12.52,0:02:13.95,Default,,0000,0000,0000,,I want a redo using this.
+Dialogue: 0,0:02:13.95,0:02:15.86,Default,,0000,0000,0000,,It's a lot of work to reanimate, you know!
+Dialogue: 0,0:02:16.15,0:02:18.82,On Top,,0000,0000,0000,,Zettai nante shinjinai!\NI don't believe in absolutes!
+Dialogue: 0,0:02:18.99,0:02:21.66,On Top,,0000,0000,0000,,Fukanou nante nai!\NNo such thing as impossible!
+Dialogue: 0,0:02:21.86,0:02:26.95,On Top,,0000,0000,0000,,Mirai wa hiraku te no naka ni aru\NThe future is in the open palm of my hands
+Dialogue: 0,0:02:27.12,0:02:32.17,On Top,,0000,0000,0000,,Dou yattemo katenai akuma ga\NA demon that I just can't win against
+Dialogue: 0,0:02:32.46,0:02:37.26,On Top,,0000,0000,0000,,Megami no kao o shite chakkari (O_O;)\NBrazenly pretending to be a goddess (O_O;)
+Dialogue: 0,0:02:37.97,0:02:42.80,On Top,,0000,0000,0000,,Keikenchi ja tannai kurai dakara\NExperience points are almost not enough
+Dialogue: 0,0:02:43.30,0:02:48.73,On Top,,0000,0000,0000,,Isshou tanren shikou-sakugo ni sessa-takuma\NTraining for life, working hard at trial and error
+Dialogue: 0,0:02:49.19,0:02:53.69,On Top,,0000,0000,0000,,Mondai nara muzukashii-hodo ude ga naru shi\NTougher the problem the more it gets me going
+Dialogue: 0,0:02:54.27,0:02:58.40,On Top,,0000,0000,0000,,Yorokobu kao ga mirerya sore de ii shi\NSeeing the joy on your face is enough for me
+Dialogue: 0,0:02:59.49,0:03:04.24,On Top,,0000,0000,0000,,Takara no chizu o boku wa te ni ireta\NI've found a treasure map
+Dialogue: 0,0:03:05.16,0:03:10.46,On Top,,0000,0000,0000,,Juuou-mujin kimi o tsurete tsuki-susumou!\NTotally free, I'll take you and push forward!
+Dialogue: 0,0:03:10.92,0:03:13.50,On Top,,0000,0000,0000,,Happii na kanchigai\NA happy misunderstanding
+Dialogue: 0,0:03:13.50,0:03:16.13,On Top,,0000,0000,0000,,Chikai wa yuruganai!\NMy pledge will stand fast!
+Dialogue: 0,0:03:16.38,0:03:21.34,On Top,,0000,0000,0000,,Kaze no yukue mo kaete-miseru\NI'll even change the direction of the wind
+Dialogue: 0,0:03:21.84,0:03:24.39,On Top,,0000,0000,0000,,Kakkou wa kini-shinai\NI won't care how I look
+Dialogue: 0,0:03:24.39,0:03:27.22,On Top,,0000,0000,0000,,Unmei ja kujikenai!\NNo destiny will discourage me!
+Dialogue: 0,0:03:27.43,0:03:32.44,On Top,,0000,0000,0000,,Ano kumo chirasu hayate no gotoku!\NLike the sudden gale scattering the clouds!
+Dialogue: 0,0:03:45.30,0:03:49.41,Default,,0000,0000,0000,,Devil Hunter Welcome Yoko Isumi, \Nand Nabeshin
+Dialogue: 0,0:03:50.46,0:03:52.73,Default,,0000,0000,0000,,Um, the episode title screen is over...
+Dialogue: 0,0:03:52.73,0:03:55.17,Default,,0000,0000,0000,,What? Oh, okay, okay, okay, okay...
+Dialogue: 0,0:03:55.17,0:03:57.70,Default,,0000,0000,0000,,Then I guess I'll do this. \NAnd ignore the script.
+Dialogue: 0,0:03:57.70,0:04:00.26,Default,,0000,0000,0000,,It's hard to tell \Nif he's motivated or not...
+Dialogue: 0,0:04:00.59,0:04:03.72,Default,,0000,0000,0000,,I'll be turning 43 this year. \NSo what about it?!
+Dialogue: 0,0:04:05.18,0:04:08.22,OS,,0000,0000,0000,,Mystery Woman
+Dialogue: 0,0:04:05.18,0:04:09.41,Default,,0000,0000,0000,,The machine clinging to my legs \Ncries out! It's a Walther P38!
+Dialogue: 0,0:04:09.41,0:04:10.77,Default,,0000,0000,0000,,C-Could it possibly be...?!
+Dialogue: 0,0:04:10.77,0:04:12.48,Default,,0000,0000,0000,,Hayate Ayasaki...
+Dialogue: 0,0:04:13.10,0:04:14.76,Default,,0000,0000,0000,,Was that right, Mikako?
+Dialogue: 0,0:04:15.03,0:04:17.56,Default,,0000,0000,0000,,Something like that, Director.
+Dialogue: 0,0:04:17.56,0:04:20.19,Default,,0000,0000,0000,,It seems sort of fated \Nthat everything's going to vanish.
+Dialogue: 0,0:04:20.19,0:04:21.77,Default,,0000,0000,0000,,Time for you to go!
+Dialogue: 0,0:04:21.77,0:04:23.74,Default,,0000,0000,0000,,That's from Ame-Yoko, isn't it?
+Dialogue: 0,0:04:23.74,0:04:25.61,Default,,0000,0000,0000,,What? H-How did you know that?
+Dialogue: 0,0:04:25.61,0:04:28.30,Default,,0000,0000,0000,,There's a Nakata and \NCompany's label on the grip.
+Dialogue: 0,0:04:28.30,0:04:29.88,Default,,0000,0000,0000,,What? F-For real?
+Dialogue: 0,0:04:29.88,0:04:32.19,Default,,0000,0000,0000,,Wait, you're right. Looks so cheap!
+Dialogue: 0,0:04:32.19,0:04:34.14,Italics,,0000,0000,0000,,Nakata and Company is...
+Dialogue: 0,0:04:34.14,0:04:35.27,Default,,0000,0000,0000,,But I'm still shooting you!
+Dialogue: 0,0:04:35.12,0:04:36.71,OS,,0000,0000,0000,,This Week's Butler Battle
+Dialogue: 0,0:04:35.27,0:04:36.71,Italics,,0000,0000,0000,,Listen to the narration!
+Dialogue: 0,0:04:41.46,0:04:44.01,Default,,0000,0000,0000,,So what if I can't handle hot food?!
+Dialogue: 0,0:04:44.29,0:04:46.47,Default,,0000,0000,0000,,A-Are you serious?!
+Dialogue: 0,0:04:47.29,0:04:49.41,Default,,0000,0000,0000,,He's fast! Or actually, he's crazy!
+Dialogue: 0,0:04:50.31,0:04:56.56,OS,,0000,0000,0000,,{\pos(526,106)}Escape
+Dialogue: 0,0:04:50.62,0:04:52.80,Default,,0000,0000,0000,,Um, what are you doing?
+Dialogue: 0,0:04:52.80,0:04:56.58,Default,,0000,0000,0000,,Oh, sorry, storyboard deadline. \NAnd we're cutting it next week.
+Dialogue: 0,0:04:56.58,0:04:58.57,Default,,0000,0000,0000,,Storyboards for anime?
+Dialogue: 0,0:04:58.57,0:04:59.88,Default,,0000,0000,0000,,Basically.
+Dialogue: 0,0:04:59.88,0:05:01.95,Default,,0000,0000,0000,,Oh, I never introduced myself.
+Dialogue: 0,0:05:00.57,0:05:04.11,OS,,0000,0000,0000,,{\an9\pos(621,18)}Director Shinichi Watanabe
+Dialogue: 0,0:05:00.57,0:05:04.11,OS,,0000,0000,0000,,{\an9\pos(621,45)}Address: 29-29 Nerima Town, \NNerima City, Nerima Prefecture
+Dialogue: 0,0:05:01.95,0:05:04.11,Italics,,0000,0000,0000,,It's supposedly a pretty rare business card.
+Dialogue: 0,0:05:04.43,0:05:07.28,Default,,0000,0000,0000,,"Shinichi Watanabe". "Nabeshin" for short...
+Dialogue: 0,0:05:07.28,0:05:11.62,Default,,0000,0000,0000,,Yup, yup. Directing anime and voice \Nperformances is my main occupation.
+Dialogue: 0,0:05:11.62,0:05:14.77,Default,,0000,0000,0000,,Being a butler's a part-time job, \Nso don't disturb me.
+Dialogue: 0,0:05:14.77,0:05:16.67,Default,,0000,0000,0000,,Disturb you? But you're \Nthe one who started...
+Dialogue: 0,0:05:16.67,0:05:18.12,Default,,0000,0000,0000,,And he falls asleep now?!
+Dialogue: 0,0:05:18.12,0:05:22.52,Default,,0000,0000,0000,,Mr. Nabeshin, please wake up! \NDon't sleep like a log on the show!
+Dialogue: 0,0:05:22.52,0:05:25.17,Default,,0000,0000,0000,,Oh, sorry. I didn't get \Nany sleep again last night.
+Dialogue: 0,0:05:25.17,0:05:26.22,Default,,0000,0000,0000,,An all-nighter?
+Dialogue: 0,0:05:26.51,0:05:28.60,Default,,0000,0000,0000,,Last night, on a park swing...
+Dialogue: 0,0:05:28.60,0:05:30.93,Default,,0000,0000,0000,,Why is it Kawaguchi?!
+Dialogue: 0,0:05:30.93,0:05:32.90,Default,,0000,0000,0000,,The thing that's wrong \Nwith Kawaguchi is that...
+Dialogue: 0,0:05:30.93,0:05:35.02,OS,,0000,0000,0000,,{\pos(537,115)}Ecstasy
+Dialogue: 0,0:05:32.90,0:05:35.02,Default,,0000,0000,0000,,I never asked to hear about Mr. Kawaguchi.
+Dialogue: 0,0:05:36.31,0:05:44.78,OS,,0000,0000,0000,,{\pos(605,13)}Topple
+Dialogue: 0,0:05:40.10,0:05:42.40,Default,,0000,0000,0000,,Mr. Nabeshin, what is it now?!
+Dialogue: 0,0:05:42.40,0:05:44.53,Default,,0000,0000,0000,,I-I'm hungry.
+Dialogue: 0,0:05:45.76,0:05:48.11,Default,,0000,0000,0000,,Working night after night in the park?
+Dialogue: 0,0:05:48.11,0:05:49.37,Default,,0000,0000,0000,,Apparently.
+Dialogue: 0,0:05:49.37,0:05:50.98,Default,,0000,0000,0000,,And an afro for no purpose...
+Dialogue: 0,0:05:50.98,0:05:52.53,Default,,0000,0000,0000,,It really is for no purpose.
+Dialogue: 0,0:05:52.88,0:05:55.45,Default,,0000,0000,0000,,In this day and age, \Nhe's like a protected species.
+Dialogue: 0,0:05:55.45,0:05:56.64,Default,,0000,0000,0000,,Uh-huh...
+Dialogue: 0,0:05:56.64,0:05:58.25,Default,,0000,0000,0000,,I must safeguard him.
+Dialogue: 0,0:05:58.25,0:06:00.04,Default,,0000,0000,0000,,What?! That's where this is going?!
+Dialogue: 0,0:06:00.04,0:06:01.29,Default,,0000,0000,0000,,Seconds!
+Dialogue: 0,0:06:01.58,0:06:05.55,Default,,0000,0000,0000,,Yes, yes, don't worry about weight gain \Nand eat as much as you like.
+Dialogue: 0,0:06:05.55,0:06:06.92,Default,,0000,0000,0000,,Don't trouble yourself on my account!
+Dialogue: 0,0:06:06.92,0:06:08.21,Default,,0000,0000,0000,,May I ask for one more thing?
+Dialogue: 0,0:06:08.21,0:06:09.27,Default,,0000,0000,0000,,Once more, please.
+Dialogue: 0,0:06:09.27,0:06:11.51,Default,,0000,0000,0000,,May I invite my wife and kid, too?!
+Dialogue: 0,0:06:11.51,0:06:13.29,Default,,0000,0000,0000,,Y-Yes, you may.
+Dialogue: 0,0:06:13.29,0:06:15.51,Default,,0000,0000,0000,,They're already wolfing it down \Nbefore you even said that!
+Dialogue: 0,0:06:15.51,0:06:16.48,Default,,0000,0000,0000,,Don't trouble yourself on our account!
+Dialogue: 0,0:06:17.15,0:06:18.44,Default,,0000,0000,0000,,Thanks for the food.
+Dialogue: 0,0:06:18.44,0:06:20.84,Default,,0000,0000,0000,,You finished that food amazingly quickly.
+Dialogue: 0,0:06:20.84,0:06:22.25,Default,,0000,0000,0000,,That was yum-yum.
+Dialogue: 0,0:06:22.25,0:06:23.83,Default,,0000,0000,0000,,The dessert is yum-yum, too.
+Dialogue: 0,0:06:23.83,0:06:24.94,Default,,0000,0000,0000,,Yum-yum!
+Dialogue: 0,0:06:25.19,0:06:27.61,Default,,0000,0000,0000,,She was my kind of maid. Where did she go?
+Dialogue: 0,0:06:27.61,0:06:29.32,Default,,0000,0000,0000,,Do you mean Maria?
+Dialogue: 0,0:06:29.32,0:06:31.16,Default,,0000,0000,0000,,She's busy with a lot of things, so...
+Dialogue: 0,0:06:31.82,0:06:33.11,Default,,0000,0000,0000,,As thanks for the meal,
+Dialogue: 0,0:06:33.11,0:06:37.41,Default,,0000,0000,0000,,I was going to show her the DVD \Nof us on "Welcome Newly-Weds!"
+Dialogue: 0,0:06:37.41,0:06:40.06,Default,,0000,0000,0000,,We weren't newly-weds at the time, though.
+Dialogue: 0,0:06:40.06,0:06:42.00,Default,,0000,0000,0000,,You can at least watch it, Hayate.
+Dialogue: 0,0:06:42.00,0:06:43.29,Default,,0000,0000,0000,,I don't care about something like that.
+Dialogue: 0,0:06:43.62,0:06:45.84,Default,,0000,0000,0000,,What do you mean "something like that"?!
+Dialogue: 0,0:06:45.84,0:06:48.19,Default,,0000,0000,0000,,I-I'm busy with a lot \Nof things to do, so bye!
+Dialogue: 0,0:06:48.19,0:06:49.88,Default,,0000,0000,0000,,Hold on, Hayate!
+Dialogue: 0,0:06:49.88,0:06:52.81,Default,,0000,0000,0000,,Please explain regarding "something \Nlike that" in the Kansai dialect.
+Dialogue: 0,0:06:52.81,0:06:54.27,Default,,0000,0000,0000,,I'm gonna getcha!
+Dialogue: 0,0:06:54.27,0:06:55.60,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:06:55.60,0:06:57.14,Italics,,0000,0000,0000,,Hayate had the following thought...
+Dialogue: 0,0:06:57.14,0:06:58.81,Default,,0000,0000,0000,,I can't put up with this anymore!
+Dialogue: 0,0:06:58.81,0:07:00.91,On Top,,0000,0000,0000,,I don't want this! You can't! I reject it!
+Dialogue: 0,0:06:59.10,0:07:01.48,Default,,0000,0000,0000,,And this is one of my shows.
+Dialogue: 0,0:07:00.91,0:07:03.85,On Top,,0000,0000,0000,,So mean! No fair! Slow! How far?!
+Dialogue: 0,0:07:01.48,0:07:03.21,Default,,0000,0000,0000,,It brings back memories!
+Dialogue: 0,0:07:04.25,0:07:06.02,Default,,0000,0000,0000,,Shoot! I'm dancing to their tune!
+Dialogue: 0,0:07:06.29,0:07:08.40,Default,,0000,0000,0000,,Isn't this enough already?!
+Dialogue: 0,0:07:08.71,0:07:12.99,Default,,0000,0000,0000,,And this is the bucket-shaped \Nwashing machine we won on the show.
+Dialogue: 0,0:07:12.99,0:07:14.35,Default,,0000,0000,0000,,So useless!
+Dialogue: 0,0:07:14.35,0:07:15.37,Default,,0000,0000,0000,,What is the big idea here?
+Dialogue: 0,0:07:15.37,0:07:17.62,Default,,0000,0000,0000,,Whoever gets away with it wins, Kobayashi!
+Dialogue: 0,0:07:17.62,0:07:19.62,Default,,0000,0000,0000,,I'll do it! Backwards!
+Dialogue: 0,0:07:19.62,0:07:22.35,Default,,0000,0000,0000,,It's no use. At this rate, \Nnever mind the residence,
+Dialogue: 0,0:07:19.62,0:07:22.35,On Top,,0000,0000,0000,,Lululu, Excel!
+Dialogue: 0,0:07:22.35,0:07:24.32,Default,,0000,0000,0000,,this entire anime is \Ngoing to get taken over.
+Dialogue: 0,0:07:22.43,0:07:25.65,On Top,,0000,0000,0000,,Lalala, Excel!
+Dialogue: 0,0:07:24.32,0:07:25.66,Default,,0000,0000,0000,,All right, I'll say it!
+Dialogue: 0,0:07:25.66,0:07:26.54,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:07:26.54,0:07:27.34,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:27.62,0:07:29.79,Default,,0000,0000,0000,,Please forgive my husband.
+Dialogue: 0,0:07:29.79,0:07:30.80,Default,,0000,0000,0000,,Please.
+Dialogue: 0,0:07:30.80,0:07:31.97,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:31.97,0:07:34.57,Default,,0000,0000,0000,,Just as tuna will die \Nif they're not continually swimming,
+Dialogue: 0,0:07:34.57,0:07:38.25,Default,,0000,0000,0000,,my husband can't survive \Nunless he's continually in the spotlight.
+Dialogue: 0,0:07:38.25,0:07:39.69,Default,,0000,0000,0000,,How unfortunate...
+Dialogue: 0,0:07:39.69,0:07:41.56,Default,,0000,0000,0000,,This is not exactly by way of an apology,
+Dialogue: 0,0:07:41.56,0:07:43.65,OS,,0000,0000,0000,,Nabeshin
+Dialogue: 0,0:07:41.56,0:07:43.65,OS,,0000,0000,0000,,Desktop Calendar
+Dialogue: 0,0:07:42.09,0:07:43.18,Default,,0000,0000,0000,,but please take these.
+Dialogue: 0,0:07:43.65,0:07:45.37,Default,,0000,0000,0000,,What are these things?
+Dialogue: 0,0:07:45.37,0:07:46.86,Default,,0000,0000,0000,,These are trifling things, but...
+Dialogue: 0,0:07:47.44,0:07:49.16,Default,,0000,0000,0000,,They're my husband's Comiket goods.
+Dialogue: 0,0:07:49.16,0:07:51.00,Default,,0000,0000,0000,,Y-You're giving them to me?
+Dialogue: 0,0:07:51.00,0:07:52.99,Default,,0000,0000,0000,,Please buy them. At retail price.
+Dialogue: 0,0:07:53.66,0:07:55.59,Default,,0000,0000,0000,,I don't want them! I mean, ma'am!
+Dialogue: 0,0:07:55.59,0:07:56.62,Default,,0000,0000,0000,,I'm outta here!
+Dialogue: 0,0:07:56.62,0:08:00.50,Default,,0000,0000,0000,,I said that enough is enough \Nis enough is enough!
+Dialogue: 0,0:08:00.50,0:08:01.48,Default,,0000,0000,0000,,Hayate.
+Dialogue: 0,0:08:02.01,0:08:03.35,Default,,0000,0000,0000,,Look, look.
+Dialogue: 0,0:08:03.35,0:08:06.10,Default,,0000,0000,0000,,Please leave!
+Dialogue: 0,0:08:06.10,0:08:07.12,Default,,0000,0000,0000,,Tama!
+Dialogue: 0,0:08:07.12,0:08:08.13,Default,,0000,0000,0000,,Meow!
+Dialogue: 0,0:08:08.13,0:08:10.51,Default,,0000,0000,0000,,Thank you for having us!
+Dialogue: 0,0:08:12.90,0:08:15.53,Default,,0000,0000,0000,,To hell with afros... To hell with afros...
+Dialogue: 0,0:08:15.53,0:08:17.36,Default,,0000,0000,0000,,Hayate...?
+Dialogue: 0,0:08:17.36,0:08:19.32,Default,,0000,0000,0000,,Another afro?!
+Dialogue: 0,0:08:19.32,0:08:20.85,Default,,0000,0000,0000,,It's a wig, though.
+Dialogue: 0,0:08:20.85,0:08:23.10,On Top,,0000,0000,0000,,Hayate! I said, Hayate!
+Dialogue: 0,0:08:20.85,0:08:23.10,Default,,0000,0000,0000,,She's been calling for you for a while now.
+Dialogue: 0,0:08:23.10,0:08:25.10,Default,,0000,0000,0000,,Thank you for your kindness!
+Dialogue: 0,0:08:25.52,0:08:28.15,Default,,0000,0000,0000,,It seems Isumi is heading over here.
+Dialogue: 0,0:08:28.15,0:08:30.59,Default,,0000,0000,0000,,What? Isumi is?
+Dialogue: 0,0:08:30.59,0:08:33.05,Default,,0000,0000,0000,,That's right. And she's coming alone!
+Dialogue: 0,0:08:32.24,0:08:33.45,OS,,0000,0000,0000,,Iz A Shopping Arcade
+Dialogue: 0,0:08:33.45,0:08:35.57,Default,,0000,0000,0000,,Alone?
+Dialogue: 0,0:08:35.57,0:08:36.49,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:08:36.49,0:08:39.20,Default,,0000,0000,0000,,Members of Isumi's household \Ninformed me, so there's no mistake.
+Dialogue: 0,0:08:37.20,0:08:39.20,OS,,0000,0000,0000,,Iz Headed Ur Way
+Dialogue: 0,0:08:39.84,0:08:40.99,On Top,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:08:39.84,0:08:40.99,Default,,0000,0000,0000,,But Isumi...
+Dialogue: 0,0:08:40.99,0:08:43.24,Default,,0000,0000,0000,,...gets so terribly lost every single time.
+Dialogue: 0,0:08:41.86,0:08:42.87,On Top,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:08:43.83,0:08:45.04,On Top,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:08:45.04,0:08:49.41,Default,,0000,0000,0000,,She knows she'll get lost, \Nso why does she always go out alone?
+Dialogue: 0,0:08:50.46,0:08:51.97,Default,,0000,0000,0000,,That's easy!
+Dialogue: 0,0:08:51.97,0:08:54.26,Default,,0000,0000,0000,,She actually thinks \Nof herself as a reliable person.
+Dialogue: 0,0:08:54.26,0:08:55.93,Default,,0000,0000,0000,,I shall be fine next time.
+Dialogue: 0,0:08:54.55,0:08:55.93,OS,,0000,0000,0000,,Glint
+Dialogue: 0,0:08:55.93,0:08:57.77,Default,,0000,0000,0000,,That's what she thinks.
+Dialogue: 0,0:08:57.77,0:08:59.00,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:59.00,0:09:01.93,Default,,0000,0000,0000,,But she always ends up \Ngetting lost anyway.
+Dialogue: 0,0:09:01.93,0:09:03.91,Default,,0000,0000,0000,,That's why she's oddly... you know.
+Dialogue: 0,0:09:03.91,0:09:05.12,Default,,0000,0000,0000,,"You know"?
+Dialogue: 0,0:09:05.12,0:09:06.89,Default,,0000,0000,0000,,She's stubborn.
+Dialogue: 0,0:09:06.89,0:09:10.73,Default,,0000,0000,0000,,I am an oddly stubborn person.
+Dialogue: 0,0:09:12.08,0:09:14.06,Default,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:09:14.06,0:09:16.74,Italics,,0000,0000,0000,,She had gotten lost, as always.
+Dialogue: 0,0:09:14.41,0:09:16.74,On Top,,0000,0000,0000,,Oh, dear. Oh, dear.
+Dialogue: 0,0:09:16.74,0:09:18.66,Italics,,0000,0000,0000,,I am in trouble. I am in trouble,
+Dialogue: 0,0:09:18.95,0:09:20.66,Italics,,0000,0000,0000,,but I shall be fine today!
+Dialogue: 0,0:09:18.95,0:09:20.66,OS,,0000,0000,0000,,Glint
+Dialogue: 0,0:09:20.66,0:09:24.58,OS,,0000,0000,0000,,Ta-da
+Dialogue: 0,0:09:21.72,0:09:24.58,Italics,,0000,0000,0000,,Why? Because I have a cell phone with me.
+Dialogue: 0,0:09:24.89,0:09:30.13,Italics,,0000,0000,0000,,If I use this, it will tell me where I am now \Nand what path I should take.
+Dialogue: 0,0:09:34.89,0:09:36.68,Italics,,0000,0000,0000,,And the girl thought...
+Dialogue: 0,0:09:36.68,0:09:38.58,Italics,,0000,0000,0000,,"There is nowhere to punch in numbers!
+Dialogue: 0,0:09:36.68,0:09:39.05,On Top,,0000,0000,0000,,Stare...
+Dialogue: 0,0:09:38.58,0:09:39.90,Italics,,0000,0000,0000,,"The latest and greatest cell phone!
+Dialogue: 0,0:09:39.90,0:09:41.90,Italics,,0000,0000,0000,,"With a 240 megapixel camera \Nwith shake reduction
+Dialogue: 0,0:09:40.32,0:09:43.84,On Top,,0000,0000,0000,,Stare...
+Dialogue: 0,0:09:41.90,0:09:43.84,Italics,,0000,0000,0000,,"and a 1seg receiver.
+Dialogue: 0,0:09:43.84,0:09:45.57,Italics,,0000,0000,0000,,"And it apparently has \Nthe ability to play music,
+Dialogue: 0,0:09:45.57,0:09:46.86,Italics,,0000,0000,0000,,"but no buttons!
+Dialogue: 0,0:09:46.86,0:09:49.14,Italics,,0000,0000,0000,,"Come to think of it, \Nit looks like it might open...
+Dialogue: 0,0:09:49.14,0:09:53.92,Italics,,0000,0000,0000,,"Yes! Open! It opens! This is \Nsomething that undoubtedly opens!"
+Dialogue: 0,0:09:58.30,0:10:00.12,Default,,0000,0000,0000,,Open sesame!
+Dialogue: 0,0:10:00.12,0:10:02.03,Default,,0000,0000,0000,,Open sesame-sesame!
+Dialogue: 0,0:10:02.03,0:10:03.99,Default,,0000,0000,0000,,Open sesame and salt!
+Dialogue: 0,0:10:07.12,0:10:09.63,Default,,0000,0000,0000,,This cell phone is broken...
+Dialogue: 0,0:10:09.63,0:10:12.17,Default,,0000,0000,0000,,It's yer head that's broken!
+Dialogue: 0,0:10:13.04,0:10:15.61,Default,,0000,0000,0000,,S-Sakuya... That hurt...
+Dialogue: 0,0:10:15.61,0:10:18.19,Default,,0000,0000,0000,,Why the heck?! Why can't \Nya open a cell phone?!
+Dialogue: 0,0:10:18.19,0:10:21.40,Default,,0000,0000,0000,,What are you, Kars?! \NHave ya stopped thinkin'?!
+Dialogue: 0,0:10:21.40,0:10:22.43,Italics,,0000,0000,0000,,Kars is...
+Dialogue: 0,0:10:21.89,0:10:22.43,OS,,0000,0000,0000,,Boom
+Dialogue: 0,0:10:25.03,0:10:26.85,Default,,0000,0000,0000,,Isumin Kick!\N({\u1}I{\u0}sumin kik{\u1}ku{\u0}!)
+Dialogue: 0,0:10:27.24,0:10:30.92,Default,,0000,0000,0000,,Sniff, sniff, smoked egg smells good.\N({\u1}Ku{\u0}n-kun kun-tama ii nio{\u1}i{\u0}.)
+Dialogue: 0,0:10:31.27,0:10:34.36,Default,,0000,0000,0000,,I swear! Ya play the dummy \Nto the hilt all day long.
+Dialogue: 0,0:10:34.77,0:10:37.26,Default,,0000,0000,0000,,So? What the heck are ya doin' here?
+Dialogue: 0,0:10:37.26,0:10:41.11,Default,,0000,0000,0000,,I am not telling someone who smacks \Npeople's heads with paper fans.
+Dialogue: 0,0:10:41.11,0:10:42.59,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:10:42.59,0:10:45.33,Default,,0000,0000,0000,,Incidentally, if it's Nagi's \Nhouse, it's over that way.
+Dialogue: 0,0:10:45.99,0:10:48.58,Default,,0000,0000,0000,,I-I was just about to head \Nthat way as well...
+Dialogue: 0,0:10:48.58,0:10:50.58,Default,,0000,0000,0000,,Ah, sorry 'bout that.
+Dialogue: 0,0:10:50.58,0:10:51.38,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:10:52.23,0:10:53.93,Default,,0000,0000,0000,,Will ya be able to get there?
+Dialogue: 0,0:10:54.60,0:10:56.23,Default,,0000,0000,0000,,A missy who can't even use a cell phone
+Dialogue: 0,0:10:57.16,0:11:00.32,Default,,0000,0000,0000,,and has zero sense of direction...
+Dialogue: 0,0:11:01.68,0:11:05.45,Default,,0000,0000,0000,,Well, don't ya worry. \NI'll make sure ya get there.
+Dialogue: 0,0:11:05.45,0:11:08.18,Default,,0000,0000,0000,,I-I do not really need your help to...
+Dialogue: 0,0:11:08.18,0:11:11.04,Default,,0000,0000,0000,,Yeah, okay, okay. I get it, I get it.
+Dialogue: 0,0:11:11.04,0:11:12.24,Default,,0000,0000,0000,,Please help!
+Dialogue: 0,0:11:12.24,0:11:14.02,Default,,0000,0000,0000,,I get it, I get it.
+Dialogue: 0,0:11:20.92,0:11:23.78,Italics,,0000,0000,0000,,Crap... Crap... This is bad!
+Dialogue: 0,0:11:23.78,0:11:25.99,Default,,0000,0000,0000,,Please, help us!
+Dialogue: 0,0:11:28.29,0:11:30.05,Default,,0000,0000,0000,,Splish-splash!
+Dialogue: 0,0:11:30.05,0:11:31.17,Default,,0000,0000,0000,,Crap! This is bad!
+Dialogue: 0,0:11:31.17,0:11:33.21,Default,,0000,0000,0000,,Hallucinatin' in the middle of town is bad!
+Dialogue: 0,0:11:33.58,0:11:36.27,Default,,0000,0000,0000,,For the sake of us \Nboys 'n girls' bright future,
+Dialogue: 0,0:11:36.27,0:11:39.04,Default,,0000,0000,0000,,this kinda immorality \Nshouldn't be permitted!
+Dialogue: 0,0:11:39.04,0:11:40.97,Default,,0000,0000,0000,,Calm down, Sakuya.
+Dialogue: 0,0:11:41.66,0:11:44.07,Default,,0000,0000,0000,,This fish is not a hallucination.
+Dialogue: 0,0:11:44.07,0:11:46.41,Default,,0000,0000,0000,,What? But ya don't see 'em at the fish shop.
+Dialogue: 0,0:11:46.41,0:11:47.93,Default,,0000,0000,0000,,He is a kind of land god.
+Dialogue: 0,0:11:47.93,0:11:49.89,Default,,0000,0000,0000,,A "land god"?
+Dialogue: 0,0:11:49.89,0:11:51.21,Default,,0000,0000,0000,,He is harmless.
+Dialogue: 0,0:11:51.21,0:11:52.08,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:11:52.08,0:11:54.40,Default,,0000,0000,0000,,Truly what I would expect \Nof the famed Lady Isumi!
+Dialogue: 0,0:11:54.40,0:11:55.51,Default,,0000,0000,0000,,Color me surprised!
+Dialogue: 0,0:11:55.51,0:11:57.61,Default,,0000,0000,0000,,So? How may I help you?
+Dialogue: 0,0:11:57.61,0:11:59.74,Default,,0000,0000,0000,,Yes, the truth is...
+Dialogue: 0,0:12:00.28,0:12:02.99,Default,,0000,0000,0000,,We would like your help \Nin defeating a monster.
+Dialogue: 0,0:12:02.99,0:12:04.28,Default,,0000,0000,0000,,Defeating a monster?
+Dialogue: 0,0:12:04.28,0:12:06.09,Default,,0000,0000,0000,,Isn't {\i1}he{\i0} a monster?!
+Dialogue: 0,0:12:06.09,0:12:07.50,Default,,0000,0000,0000,,Goodness, no!
+Dialogue: 0,0:12:07.50,0:12:11.46,Default,,0000,0000,0000,,A monster has been ravaging our pond lately \Nand we are at our wits' end!
+Dialogue: 0,0:12:11.73,0:12:15.01,Default,,0000,0000,0000,,Truly, we feel as doomed \Nas a carp on a cutting board!
+Dialogue: 0,0:12:15.01,0:12:16.25,Default,,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:12:16.61,0:12:18.02,Default,,0000,0000,0000,,Let's go Isumi.
+Dialogue: 0,0:12:18.02,0:12:20.49,Default,,0000,0000,0000,,This place'll also be swallowed \Nup by the Sea of Decay soon.
+Dialogue: 0,0:12:20.49,0:12:23.39,Default,,0000,0000,0000,,A god who says such worthless \Nthings can just go 'n perish.
+Dialogue: 0,0:12:23.39,0:12:25.09,Default,,0000,0000,0000,,Oh, please!
+Dialogue: 0,0:12:25.09,0:12:26.73,Default,,0000,0000,0000,,Wait, Sakuya.
+Dialogue: 0,0:12:26.73,0:12:29.01,Default,,0000,0000,0000,,A monster formidable enough \Nto trouble the land...
+Dialogue: 0,0:12:29.01,0:12:31.17,Default,,0000,0000,0000,,Even if he is a "worthless god",
+Dialogue: 0,0:12:31.17,0:12:33.13,Default,,0000,0000,0000,,A worthless god?!
+Dialogue: 0,0:12:33.13,0:12:34.34,Default,,0000,0000,0000,,it still bothers me.
+Dialogue: 0,0:12:34.34,0:12:35.89,Default,,0000,0000,0000,,Even if he's mad worthless?
+Dialogue: 0,0:12:35.89,0:12:37.52,Default,,0000,0000,0000,,Even if he is mad worthless!
+Dialogue: 0,0:12:37.52,0:12:39.05,Default,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:12:39.05,0:12:42.61,Default,,0000,0000,0000,,Some of the remarks were hurtful, \Nbut that aside, thank you very much!
+Dialogue: 0,0:12:42.61,0:12:44.88,On Top,,0000,0000,0000,,Lighthearted afro...
+Dialogue: 0,0:12:44.88,0:12:47.47,On Top,,0000,0000,0000,,Wonderful afro...
+Dialogue: 0,0:12:45.70,0:12:47.47,Default,,0000,0000,0000,,What's with that tedious afro?
+Dialogue: 0,0:12:47.47,0:12:49.88,Default,,0000,0000,0000,,Please rewatch the first half later.
+Dialogue: 0,0:12:47.47,0:12:49.88,On Top,,0000,0000,0000,,Full-bodied afro...
+Dialogue: 0,0:12:49.88,0:12:52.83,Default,,0000,0000,0000,,Still, as always, Isumi is late...
+Dialogue: 0,0:12:52.83,0:12:55.56,Default,,0000,0000,0000,,Um, shall I go check on her?
+Dialogue: 0,0:12:55.56,0:12:58.21,Default,,0000,0000,0000,,I suppose... Then, I'm sorry, \Nbut I'll be counting on you.
+Dialogue: 0,0:12:58.96,0:13:01.01,Default,,0000,0000,0000,,Isumi is delicate,
+Dialogue: 0,0:13:01.01,0:13:03.92,Default,,0000,0000,0000,,so I'm worried that she may be \Ngetting hassled by some weirdo.
+Dialogue: 0,0:13:04.23,0:13:07.23,Default,,0000,0000,0000,,Ya sure got hassled by a weirdo...
+Dialogue: 0,0:13:07.23,0:13:11.05,Default,,0000,0000,0000,,Though, I kinda knew ya \Nhad a strange power...
+Dialogue: 0,0:13:12.14,0:13:16.70,Default,,0000,0000,0000,,Is it 'cause these monsters're always \Nhasslin' ya that yer always gettin' lost?
+Dialogue: 0,0:13:16.70,0:13:20.24,Default,,0000,0000,0000,,I suppose... I think I get \Nhassled maybe 2-3 times a year.
+Dialogue: 0,0:13:20.24,0:13:21.23,Default,,0000,0000,0000,,Then that's not it!
+Dialogue: 0,0:13:21.23,0:13:23.27,Default,,0000,0000,0000,,But he is not a monster, you know.
+Dialogue: 0,0:13:23.27,0:13:24.07,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:13:24.07,0:13:27.82,Default,,0000,0000,0000,,He is a land god. A fairy born \Nout of nature, if you will.
+Dialogue: 0,0:13:27.82,0:13:29.46,Default,,0000,0000,0000,,Callin' somethin' like this a "fairy"
+Dialogue: 0,0:13:29.46,0:13:31.87,Default,,0000,0000,0000,,totally ruins the image \Nfor the like of Tinker Bell.
+Dialogue: 0,0:13:31.87,0:13:33.43,Default,,0000,0000,0000,,Then what're monsters?
+Dialogue: 0,0:13:33.43,0:13:36.28,Default,,0000,0000,0000,,Monsters are beings that have \Nattained supernatural powers.
+Dialogue: 0,0:13:36.28,0:13:37.83,Default,,0000,0000,0000,,Beings that've attained supernatural powers?
+Dialogue: 0,0:13:37.83,0:13:42.01,Default,,0000,0000,0000,,For example, they say that if a cat \Nlicks lamp oil every night for 20 years,
+Dialogue: 0,0:13:42.01,0:13:44.54,Default,,0000,0000,0000,,it attains supernatural powers \Nand becomes a goblin cat.
+Dialogue: 0,0:13:44.54,0:13:45.53,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:13:45.53,0:13:46.68,Default,,0000,0000,0000,,And people, too.
+Dialogue: 0,0:13:46.68,0:13:50.19,Default,,0000,0000,0000,,If they attain supernatural powers \Nsomehow, they become ogres.
+Dialogue: 0,0:13:50.19,0:13:53.44,Default,,0000,0000,0000,,Beings who have thus attained \Nsuch powers are called "monsters".
+Dialogue: 0,0:13:53.44,0:13:55.90,Default,,0000,0000,0000,,Then, the monster that's \Ntroublin' him is also...?
+Dialogue: 0,0:13:55.90,0:13:56.70,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:13:57.22,0:13:58.62,Default,,0000,0000,0000,,Considering he is a carp,
+Dialogue: 0,0:13:58.62,0:14:01.02,Default,,0000,0000,0000,,it is probably the koi herpes virus, \Nwhich has been rampant lately,
+Dialogue: 0,0:14:01.02,0:14:03.16,Default,,0000,0000,0000,,attaining supernatural powers \Nto become a monster...
+Dialogue: 0,0:14:03.16,0:14:04.36,Default,,0000,0000,0000,,We will call it...
+Dialogue: 0,0:14:04.36,0:14:06.24,Default,,0000,0000,0000,,...the Koi Herpes Monster!
+Dialogue: 0,0:14:06.24,0:14:07.53,Default,,0000,0000,0000,,What the hell's up with that?!
+Dialogue: 0,0:14:07.83,0:14:08.71,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:14:08.71,0:14:09.57,Default,,0000,0000,0000,,Carp?
+Dialogue: 0,0:14:09.57,0:14:11.95,Default,,0000,0000,0000,,What did the Koi Herpes Monster do to ya?!
+Dialogue: 0,0:14:11.95,0:14:14.55,Default,,0000,0000,0000,,What did he do? Well...
+Dialogue: 0,0:14:13.91,0:14:16.20,OS,,0000,0000,0000,,{\pos(125,21)}Blush
+Dialogue: 0,0:14:14.55,0:14:16.50,Default,,0000,0000,0000,,H-He turned me into live sashimi.
+Dialogue: 0,0:14:18.99,0:14:22.64,Default,,0000,0000,0000,,Is that somethin' to blush \Nabout?! Live sashimi?!
+Dialogue: 0,0:14:22.64,0:14:25.58,Default,,0000,0000,0000,,It was when I was doing \Nsynchronized swimming in the pond...
+Dialogue: 0,0:14:25.58,0:14:27.42,Default,,0000,0000,0000,,And yer just gonna start \Nnarratin' the flashback?!
+Dialogue: 0,0:14:27.90,0:14:32.39,Default,,0000,0000,0000,,Carpassion synchro-, love-nized...
+Dialogue: 0,0:14:33.38,0:14:36.57,Default,,0000,0000,0000,,What are you doing?! No! Nooo!
+Dialogue: 0,0:14:36.57,0:14:40.26,Default,,0000,0000,0000,,Stop! Don't be so rough! \NDon't force my skin off!
+Dialogue: 0,0:14:40.26,0:14:41.77,Default,,0000,0000,0000,,What did I just say?!
+Dialogue: 0,0:14:42.11,0:14:44.20,Default,,0000,0000,0000,,Whoops, I forgot the wasabi.
+Dialogue: 0,0:14:44.20,0:14:45.74,Default,,0000,0000,0000,,Wasabi. Wasabi.
+Dialogue: 0,0:14:45.74,0:14:46.94,Default,,0000,0000,0000,,This is my chance!
+Dialogue: 0,0:14:46.94,0:14:49.36,Default,,0000,0000,0000,,Now's my chance to run! \NRight now, I can get away!
+Dialogue: 0,0:14:49.36,0:14:50.95,Default,,0000,0000,0000,,Though I'm not quite full-fleshed!
+Dialogue: 0,0:14:50.95,0:14:55.36,Default,,0000,0000,0000,,So the Koi Herpes Monster bastard \Ntried to eat ya with wasabi?
+Dialogue: 0,0:14:55.36,0:14:56.08,Default,,0000,0000,0000,,De-{\i1}fin{\i0}-itely.
+Dialogue: 0,0:14:56.08,0:14:57.54,Default,,0000,0000,0000,,What a bastard.
+Dialogue: 0,0:14:57.54,0:14:59.92,Default,,0000,0000,0000,,If it were me, I'd definitely \Ndo carp cooked in miso soup.
+Dialogue: 0,0:15:01.27,0:15:04.51,Default,,0000,0000,0000,,Nooo! Don't!
+Dialogue: 0,0:15:04.51,0:15:07.02,Default,,0000,0000,0000,,Anything but that! \NPlease have mercy...
+Dialogue: 0,0:15:07.02,0:15:09.34,Default,,0000,0000,0000,,Quit doin' synchronized \Nswimmin' in the carp miso soup!
+Dialogue: 0,0:15:09.68,0:15:11.88,Default,,0000,0000,0000,,More like, ya like synchronized \Nswimmin' {\i1}that{\i0} much?!
+Dialogue: 0,0:15:11.88,0:15:14.25,Default,,0000,0000,0000,,Ya in love with it?! Ya just can't stop?!
+Dialogue: 0,0:15:14.25,0:15:15.39,Default,,0000,0000,0000,,A bit...
+Dialogue: 0,0:15:15.39,0:15:19.07,Default,,0000,0000,0000,,Even so, he is technically a land god, \Nso the paper fan is a bit...
+Dialogue: 0,0:15:19.07,0:15:20.94,Default,,0000,0000,0000,,Visually, it evokes domestic violence, too,
+Dialogue: 0,0:15:20.94,0:15:22.31,Default,,0000,0000,0000,,so you may suffer divine retribution...
+Dialogue: 0,0:15:22.31,0:15:24.07,Default,,0000,0000,0000,,But don't ya think she'd like it?
+Dialogue: 0,0:15:24.07,0:15:24.87,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:15:24.87,0:15:28.40,Default,,0000,0000,0000,,If ya tell Nagi 'bout this, \Nshe could use it as material for her manga.
+Dialogue: 0,0:15:28.73,0:15:29.95,Default,,0000,0000,0000,,I cannot do that.
+Dialogue: 0,0:15:29.95,0:15:32.91,Default,,0000,0000,0000,,Huh? Why not? It's funny.
+Dialogue: 0,0:15:32.91,0:15:34.82,Default,,0000,0000,0000,,Ya don't come across \Nstories like this every day.
+Dialogue: 0,0:15:35.24,0:15:40.01,Default,,0000,0000,0000,,Nagi is excessively terrified of the dark. \NI could never tell her this.
+Dialogue: 0,0:15:42.18,0:15:46.94,Default,,0000,0000,0000,,Come to think of it, when did she \Nbecome so scared of the dark?
+Dialogue: 0,0:15:46.94,0:15:49.91,Default,,0000,0000,0000,,I didn't think she was so bad \Nwith it way back when.
+Dialogue: 0,0:15:51.84,0:15:54.55,Italics,,0000,0000,0000,,So, something did happen, huh?
+Dialogue: 0,0:15:54.55,0:15:55.94,Default,,0000,0000,0000,,I never intended...
+Dialogue: 0,0:15:56.87,0:15:59.60,Default,,0000,0000,0000,,...to make her cry like that.
+Dialogue: 0,0:16:04.65,0:16:05.85,Default,,0000,0000,0000,,I'm scared!
+Dialogue: 0,0:16:06.73,0:16:08.00,Default,,0000,0000,0000,,I'm scared!
+Dialogue: 0,0:16:12.75,0:16:17.83,Default,,0000,0000,0000,,That is why I will never hurt \Na friend of mine ever again.
+Dialogue: 0,0:16:19.26,0:16:21.85,Default,,0000,0000,0000,,That's quite a grand \Nresolution, little girl!
+Dialogue: 0,0:16:22.46,0:16:24.53,Default,,0000,0000,0000,,Th-That voice!
+Dialogue: 0,0:16:25.41,0:16:26.42,Default,,0000,0000,0000,,So he's...
+Dialogue: 0,0:16:26.42,0:16:29.05,Default,,0000,0000,0000,,That's right! I'm the Koi Herpes Monster,
+Dialogue: 0,0:16:29.05,0:16:31.29,Default,,0000,0000,0000,,who became a monster \Nby attaining supernatural powers.
+Dialogue: 0,0:16:31.29,0:16:34.73,Default,,0000,0000,0000,,And my name is the Great Koi Herpes Monster!
+Dialogue: 0,0:16:35.24,0:16:38.14,Default,,0000,0000,0000,,He's got the same exact \Nnamin' sensibility as you.
+Dialogue: 0,0:16:38.37,0:16:41.22,Default,,0000,0000,0000,,No, he tacked on a "Great".
+Dialogue: 0,0:16:41.22,0:16:44.42,Default,,0000,0000,0000,,He is the one! He tried \Nto turn me into live sashimi!
+Dialogue: 0,0:16:44.42,0:16:45.27,Default,,0000,0000,0000,,Or actually, he didn't try, he did!
+Dialogue: 0,0:16:45.27,0:16:47.60,Default,,0000,0000,0000,,You think he can win against {\i1}me{\i0},
+Dialogue: 0,0:16:47.60,0:16:49.69,Default,,0000,0000,0000,,now that you brought \Nthis person to help you?!
+Dialogue: 0,0:16:49.69,0:16:51.68,Default,,0000,0000,0000,,Shuddup, Anpanman's enemy!
+Dialogue: 0,0:16:51.68,0:16:53.82,Default,,0000,0000,0000,,I am not Anpanman's enemy!
+Dialogue: 0,0:16:53.82,0:16:55.53,Default,,0000,0000,0000,,I am the Great Koi Herpes...
+Dialogue: 0,0:16:56.97,0:16:58.62,Default,,0000,0000,0000,,Bye-bycteria!
+Dialogue: 0,0:16:58.62,0:17:00.69,Default,,0000,0000,0000,,I am busy, so I will make this brief.
+Dialogue: 0,0:17:00.69,0:17:02.54,Default,,0000,0000,0000,,Switching on work mode.
+Dialogue: 0,0:17:02.84,0:17:05.01,Default,,0000,0000,0000,,Yer merciless when ya get like this.
+Dialogue: 0,0:17:07.88,0:17:08.92,Default,,0000,0000,0000,,Crap!
+Dialogue: 0,0:17:09.45,0:17:12.11,Default,,0000,0000,0000,,We can't have you underestimating us!
+Dialogue: 0,0:17:12.11,0:17:14.99,Default,,0000,0000,0000,,Herpes!
+Dialogue: 0,0:17:20.31,0:17:24.20,Default,,0000,0000,0000,,I see. He's a virus, so he multiplies.
+Dialogue: 0,0:17:24.20,0:17:25.92,Default,,0000,0000,0000,,This is a large undertaking.
+Dialogue: 0,0:17:25.92,0:17:26.73,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:26.73,0:17:29.17,Default,,0000,0000,0000,,Then, I am going to use an enormous power,
+Dialogue: 0,0:17:29.17,0:17:31.77,Default,,0000,0000,0000,,so you draw the attention of the enemy \Nwhile I do that, Sakuya.
+Dialogue: 0,0:17:31.77,0:17:32.57,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:17:32.57,0:17:36.85,Default,,0000,0000,0000,,Not to worry. Humans cannot \Ncontract the koi herpes virus!
+Dialogue: 0,0:17:36.57,0:17:37.74,OS,,0000,0000,0000,,{\pos(121,21)}Twinkle
+Dialogue: 0,0:17:38.17,0:17:41.64,Default,,0000,0000,0000,,"Twinkle"?! This isn't an issue \Nof if I can contract it or not, is it?!
+Dialogue: 0,0:17:41.64,0:17:44.54,Default,,0000,0000,0000,,Or actually, ya just said \Nit all cool and stuff!
+Dialogue: 0,0:17:44.80,0:17:47.33,Italics,,0000,0000,0000,,I will never hurt a friend \Nof mine ever again.
+Dialogue: 0,0:17:47.33,0:17:48.60,Default,,0000,0000,0000,,Ya said so!
+Dialogue: 0,0:17:48.60,0:17:50.80,Default,,0000,0000,0000,,You are full of energy, so you will be fine.
+Dialogue: 0,0:17:50.80,0:17:54.22,Default,,0000,0000,0000,,Ya moron! I'm pretty frail, too, ya know!
+Dialogue: 0,0:17:54.22,0:17:56.17,Default,,0000,0000,0000,,Wait, where'd the Carp God go?
+Dialogue: 0,0:17:56.17,0:17:56.97,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:17:57.26,0:17:59.81,Default,,0000,0000,0000,,Mr. Great Monster, Mr. Great Monster,
+Dialogue: 0,0:17:59.81,0:18:02.30,Default,,0000,0000,0000,,they were just talking about you guys,
+Dialogue: 0,0:18:02.30,0:18:05.89,Default,,0000,0000,0000,,saying, "Aren't they a rip-off \Nof the Black Devil on 'The Funnies'?"
+Dialogue: 0,0:18:07.23,0:18:09.85,Default,,0000,0000,0000,,Ya fool! What're ya saying'?! \NAnd I mean that in all kinds of ways!
+Dialogue: 0,0:18:09.85,0:18:12.61,Default,,0000,0000,0000,,We aren't a rip-off! We were inspired by it!
+Dialogue: 0,0:18:12.61,0:18:14.28,Default,,0000,0000,0000,,Like it matters!
+Dialogue: 0,0:18:14.58,0:18:17.68,Default,,0000,0000,0000,,We're not letting you live, \Nno matter what it takes!
+Dialogue: 0,0:18:18.33,0:18:20.50,Default,,0000,0000,0000,,And I get cornered in 4 scenes?!
+Dialogue: 0,0:18:20.50,0:18:22.62,Default,,0000,0000,0000,,Die in another 2 scenes!
+Dialogue: 0,0:18:25.20,0:18:26.88,Default,,0000,0000,0000,,Watch out!
+Dialogue: 0,0:18:29.52,0:18:31.18,Default,,0000,0000,0000,,Butler-in-debt...
+Dialogue: 0,0:18:31.68,0:18:33.71,Default,,0000,0000,0000,,Are you all right, Sakuya?
+Dialogue: 0,0:18:33.71,0:18:35.77,Italics,,0000,0000,0000,,Just what I would expect of my dear Hayate.
+Dialogue: 0,0:18:35.77,0:18:39.84,Italics,,0000,0000,0000,,He appears like a sudden gale \Nwhen there is someone in trouble.
+Dialogue: 0,0:18:39.84,0:18:41.55,Default,,0000,0000,0000,,A new player, huh?
+Dialogue: 0,0:18:41.55,0:18:43.97,Default,,0000,0000,0000,,But one additional kid won't matter...
+Dialogue: 0,0:18:43.97,0:18:44.78,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:44.78,0:18:48.93,Default,,0000,0000,0000,,Who are these people, who look like \Nthey're a rip-off of underling suits?
+Dialogue: 0,0:18:49.27,0:18:51.31,Default,,0000,0000,0000,,We're not rip-offs! We're...
+Dialogue: 0,0:18:57.86,0:19:00.61,Default,,0000,0000,0000,,So who are these weird people?!
+Dialogue: 0,0:19:00.61,0:19:02.32,Default,,0000,0000,0000,,They're not people! They're monsters!
+Dialogue: 0,0:19:02.32,0:19:04.99,Default,,0000,0000,0000,,The carp miso soup asked \NIsumi to defeat 'em!
+Dialogue: 0,0:19:06.12,0:19:07.68,Default,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:19:07.68,0:19:10.24,Default,,0000,0000,0000,,Super Letter M Straddle Combining!
+Dialogue: 0,0:19:16.22,0:19:18.38,Default,,0000,0000,0000,,I also got cornered easily!
+Dialogue: 0,0:19:19.13,0:19:21.21,Default,,0000,0000,0000,,We're in big trouble!
+Dialogue: 0,0:19:27.72,0:19:29.82,Default,,0000,0000,0000,,Eight Leaves, Sixth Form...
+Dialogue: 0,0:19:29.82,0:19:31.19,Default,,0000,0000,0000,,Isu...mi?
+Dialogue: 0,0:19:31.62,0:19:33.94,Default,,0000,0000,0000,,...Crush and Destroy.
+Dialogue: 0,0:19:40.90,0:19:42.99,Italics,,0000,0000,0000,,Th-This can't be...
+Dialogue: 0,0:19:43.31,0:19:46.24,Italics,,0000,0000,0000,,Then, was that strange incident also...
+Dialogue: 0,0:19:46.24,0:19:48.26,Italics,,0000,0000,0000,,...Isumi's doing?
+Dialogue: 0,0:19:56.91,0:20:00.22,Default,,0000,0000,0000,,Please keep this a secret from Nagi.
+Dialogue: 0,0:20:01.33,0:20:04.81,Default,,0000,0000,0000,,Now, shall we go to Nagi's place?
+Dialogue: 0,0:20:04.81,0:20:07.68,Default,,0000,0000,0000,,Yes! Wait, Isumi, it's this way.
+Dialogue: 0,0:20:09.72,0:20:12.01,Default,,0000,0000,0000,,Sheesh, ya can never be too sure with ya.
+Dialogue: 0,0:20:15.41,0:20:19.40,Default,,0000,0000,0000,,No live sashimi! No carp miso soup, either!
+Dialogue: 0,0:20:19.40,0:20:20.99,Default,,0000,0000,0000,,Wait, it's over.
+Dialogue: 0,0:20:21.32,0:20:26.19,Default,,0000,0000,0000,,Woohoo! Now I can go \Nsynchronized swimming again!
+Dialogue: 0,0:20:26.19,0:20:27.91,Italics,,0000,0000,0000,,Do whatever you want.
+Dialogue: 0,0:20:28.21,0:20:30.70,Default,,0000,0000,0000,,Ah! So you're finally here, Isumi.
+Dialogue: 0,0:20:30.95,0:20:32.73,Default,,0000,0000,0000,,And Hayate, good work.
+Dialogue: 0,0:20:32.73,0:20:33.54,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:33.54,0:20:34.98,Default,,0000,0000,0000,,Yes, well...
+Dialogue: 0,0:20:34.98,0:20:36.67,Default,,0000,0000,0000,,Bring everyone tea then.
+Dialogue: 0,0:20:36.67,0:20:38.21,Default,,0000,0000,0000,,Yes, please leave it to me.
+Dialogue: 0,0:20:38.48,0:20:41.01,Default,,0000,0000,0000,,Say, mind if I ask ya one thing?
+Dialogue: 0,0:20:41.01,0:20:42.67,Default,,0000,0000,0000,,Ya know that thing ya did?
+Dialogue: 0,0:20:42.67,0:20:43.95,Default,,0000,0000,0000,,With that power of yers,
+Dialogue: 0,0:20:43.95,0:20:46.75,Default,,0000,0000,0000,,I think ya could've won \Nwithout me drawin' the enemy away.
+Dialogue: 0,0:20:46.75,0:20:47.53,Default,,0000,0000,0000,,How 'bout it?
+Dialogue: 0,0:20:47.53,0:20:48.39,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:20:48.39,0:20:52.33,Default,,0000,0000,0000,,I cannot tell someone who smacks \Npeople's heads with paper fans.
+Dialogue: 0,0:20:52.33,0:20:55.40,Default,,0000,0000,0000,,Wha?! Ya were still holdin' \Nthat against me?!
+Dialogue: 0,0:20:55.40,0:20:58.31,Default,,0000,0000,0000,,You give me far too much credit, Sakuya.
+Dialogue: 0,0:20:58.31,0:20:59.43,Default,,0000,0000,0000,,Liar!
+Dialogue: 0,0:20:59.43,0:21:02.28,Default,,0000,0000,0000,,Arg! The way ya said \Nthat totally pisses me off!
+Dialogue: 0,0:21:02.28,0:21:04.70,Default,,0000,0000,0000,,Those two get along well, don't they?
+Dialogue: 0,0:21:05.32,0:21:07.07,Default,,0000,0000,0000,,Well, of course, they're friends.
+Dialogue: 0,0:21:07.07,0:21:08.99,Default,,0000,0000,0000,,Why? Why?!
+Dialogue: 0,0:21:08.99,0:21:10.71,Default,,0000,0000,0000,,I'm dissolvin' our friendship!
+Dialogue: 0,0:21:10.71,0:21:12.52,Default,,0000,0000,0000,,This is good-bye! \NI'm positively denyin' ya!
+Dialogue: 0,0:21:12.52,0:21:14.16,Default,,0000,0000,0000,,Arg!!!
+Dialogue: 0,0:21:19.15,0:21:21.59,Default,,0000,0000,0000,,Friends, huh?
+Dialogue: 0,0:21:21.59,0:21:23.57,Default,,0000,0000,0000,,You are good, afro!
+Dialogue: 0,0:21:25.21,0:21:27.24,Default,,0000,0000,0000,,You, too, Mr. Carp.
+Dialogue: 0,0:21:27.24,0:21:28.84,Default,,0000,0000,0000,,Friends!
+Dialogue: 0,0:21:28.84,0:21:32.32,Italics,,0000,0000,0000,,That's right, you have to take good \Ncare of your friends and afro hair.
+Dialogue: 0,0:21:32.32,0:21:33.94,Italics,,0000,0000,0000,,Next time, they will fight
+Dialogue: 0,0:21:33.94,0:21:37.74,Italics,,0000,0000,0000,,against another familiar-looking \Nsuper pretty-boy butler.
+Dialogue: 0,0:21:37.74,0:21:40.00,Default,,0000,0000,0000,,Carp cooked in miso soup \Nwith the sashimi I found!
+Dialogue: 0,0:21:41.28,0:21:42.73,Default,,0000,0000,0000,,Thanks for the meal!
+Dialogue: 0,0:21:43.24,0:21:46.73,Default,,0000,0000,0000,,I am Nabeshin, da-da-da!
+Dialogue: 0,0:21:46.73,0:21:50.03,Default,,0000,0000,0000,,I look good in an afro, da-da-da!
+Dialogue: 0,0:21:50.03,0:21:51.87,Default,,0000,0000,0000,,Whoever gets away with it wins.
+Dialogue: 0,0:21:50.03,0:21:51.87,On Top,,0000,0000,0000,,I hate tedious afros!
+Dialogue: 0,0:21:52.58,0:21:54.58,On Top,,0000,0000,0000,,Waratte lun-lun-lun\NSmile lun-lun-lun
+Dialogue: 0,0:21:54.58,0:21:58.38,On Top,,0000,0000,0000,,Lala-lun-lun-lulu naita hi mo\NLala-lun-lun-lulu even on a day I've cried
+Dialogue: 0,0:21:58.38,0:22:04.05,On Top,,0000,0000,0000,,Sawagu kaze ni yureru egao kokoro hareteku\NA smile wavers in the wind and clears my heart
+Dialogue: 0,0:22:04.05,0:22:07.26,On Top,,0000,0000,0000,,Kyou mo lun-lun-lun mawarun-lun-lulu\NToday again lun-lun-lun turning lun-lun-lulu
+Dialogue: 0,0:22:07.26,0:22:18.48,On Top,,0000,0000,0000,,Taiyou no shita de kimi to odoru kimagure na dansu\NA whimsical dance with you under the sun
+Dialogue: 0,0:22:21.94,0:22:26.49,On Top,,0000,0000,0000,,Nanige-naku sashi-dasu te ni mitorete\NRiveted by the hand you've casually offered
+Dialogue: 0,0:22:26.82,0:22:33.12,On Top,,0000,0000,0000,,Tsugi no kotoba maigo ni natchau no\NMy next words become lost
+Dialogue: 0,0:22:33.12,0:22:38.04,On Top,,0000,0000,0000,,Otonabite tsutsumi-komu manazashi ni\NThe mature gaze that envelopes me
+Dialogue: 0,0:22:38.25,0:22:43.13,On Top,,0000,0000,0000,,Tsuyogari wasurete-yuku\NMakes me forget my bravado
+Dialogue: 0,0:22:43.63,0:22:49.76,On Top,,0000,0000,0000,,Sotto furetete nemurenai yoru no nagai toki mo\NKeep that soft touch on long sleepless nights
+Dialogue: 0,0:22:49.88,0:22:54.93,On Top,,0000,0000,0000,,Yume kara sameta bakari no hoho ni mo\NAnd on my cheek, just awakened from a dream
+Dialogue: 0,0:22:55.77,0:22:56.68,On Top,,0000,0000,0000,,Lun-lun-lun\NLun-lun-lun
+Dialogue: 0,0:22:56.68,0:23:00.48,On Top,,0000,0000,0000,,Lala-lun-lun-lulu tsun to shita\NLala-lun-lun-lulu that hoity profile
+Dialogue: 0,0:23:01.06,0:23:06.19,On Top,,0000,0000,0000,,Yokogao hora atto iu ma waratteru desho?\NLook, there's a smile there already, see?
+Dialogue: 0,0:23:06.19,0:23:09.45,On Top,,0000,0000,0000,,Sora to lun-lun-lun mawarun-lun-lulu\NWith the sky lun-lun-lun turning lun-lun-lulu
+Dialogue: 0,0:23:09.45,0:23:13.87,On Top,,0000,0000,0000,,Kimi ga fukasu kaze no naka\NIn a breeze of your making
+Dialogue: 0,0:23:13.87,0:23:20.79,On Top,,0000,0000,0000,,Odoru hidamari no dansu\NA dance in a sunny spot
+Dialogue: 0,0:23:26.43,0:23:27.21,Default,,0000,0000,0000,,This is Nagi...
+Dialogue: 0,0:23:27.21,0:23:28.05,Default,,0000,0000,0000,,...and Hayate...
+Dialogue: 0,0:23:28.05,0:23:29.01,OS,,0000,0000,0000,,{\pos(224,46)}Ayumu Nishizawa's
+Dialogue: 0,0:23:28.05,0:23:29.01,OS,,0000,0000,0000,,{\pos(207,288)}Lettering by Mikako Takahashi
+Dialogue: 0,0:23:28.05,0:23:29.39,Default,,0000,0000,0000,,and Ayumu Nishizawa's...
+Dialogue: 0,0:23:29.01,0:23:30.88,OS,,0000,0000,0000,,Butler Report
+Dialogue: 0,0:23:29.39,0:23:31.34,Default,,0000,0000,0000,,...Butler Report!
+Dialogue: 0,0:23:31.34,0:23:33.67,Default,,0000,0000,0000,,Ooh, Yah, Tah! I'm Nagi Sanzenin!
+Dialogue: 0,0:23:33.67,0:23:34.75,Default,,0000,0000,0000,,I am Hayate Ayasaki.
+Dialogue: 0,0:23:34.75,0:23:36.10,Default,,0000,0000,0000,,I am Ayumu Nishizawa.
+Dialogue: 0,0:23:36.10,0:23:38.00,Default,,0000,0000,0000,,Miss Nishizawa, you have \Nappeared in every single episode,
+Dialogue: 0,0:23:38.00,0:23:39.73,Default,,0000,0000,0000,,but we rarely get to \Nmeet in the show, do we?
+Dialogue: 0,0:23:39.73,0:23:41.89,Default,,0000,0000,0000,,I know! I envy you, Sanzenin.
+Dialogue: 0,0:23:41.89,0:23:44.35,Default,,0000,0000,0000,,Even the poor hamster apparently has fans,
+Dialogue: 0,0:23:44.35,0:23:46.03,Default,,0000,0000,0000,,so we've prepared a fan service scene today.
+Dialogue: 0,0:23:46.03,0:23:47.40,Default,,0000,0000,0000,,It's a scene that really pushes the limit!
+Dialogue: 0,0:23:47.40,0:23:49.36,Default,,0000,0000,0000,,What?! This is news to me!
+Dialogue: 0,0:23:49.36,0:23:50.91,Default,,0000,0000,0000,,Hayate, you're not allowed to look!
+Dialogue: 0,0:23:50.91,0:23:52.36,Default,,0000,0000,0000,,What?! That's easy for you to say, but...
+Dialogue: 0,0:23:52.36,0:23:54.74,Default,,0000,0000,0000,,But we have no time, \Nso it'll have to wait until next time.
+Dialogue: 0,0:23:54.74,0:23:55.98,Default,,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:23:56.37,0:23:59.37,Default,,0000,0000,0000,,{\pos(320,224)}Preview
+Dialogue: 0,0:23:58.84,0:24:01.80,On Top,,0000,0000,0000,,When it comes to autumn, \Nit's the season of culture. Right?
+Dialogue: 0,0:23:59.37,0:24:16.05,OS,,0000,0000,0000,,{\an8\pos(174,307)}The next episode of \N"Hayate the Combat Butler" is...
+Dialogue: 0,0:24:01.80,0:24:05.61,On Top,,0000,0000,0000,,So, next time will be the Hakuou \NAcademy culture fest episode.
+Dialogue: 0,0:24:05.61,0:24:07.18,On Top,,0000,0000,0000,,As members of the student council,
+Dialogue: 0,0:24:07.18,0:24:09.81,On Top,,0000,0000,0000,,we'll work hard to liven up \Nthe culture fest, too!
+Dialogue: 0,0:24:09.81,0:24:12.58,On Top,,0000,0000,0000,,So, Hayata, we'll leave the rest to you!
+Dialogue: 0,0:24:12.58,0:24:13.84,On Top,,0000,0000,0000,,R-Right...
+Dialogue: 0,0:24:14.28,0:24:16.10,On Top,,0000,0000,0000,,Next time on "Hayate the Combat Butler",
+Dialogue: 0,0:24:16.10,0:24:18.49,On Top,,0000,0000,0000,,"Why?! Academy Culture Fest – Part 1".
+Dialogue: 0,0:24:17.51,0:24:19.60,Default,,0000,0000,0000,,Next Hayate the Combat Butler \NWhy?! Academy Culture Fest – Part 1
+Dialogue: 0,0:24:18.49,0:24:19.60,On Top,,0000,0000,0000,,Did you know?
+Dialogue: 0,0:24:19.60,0:24:23.59,On Top,,0000,0000,0000,,In the old days, the saury was a fish \Nthat was used only for oil extraction.
