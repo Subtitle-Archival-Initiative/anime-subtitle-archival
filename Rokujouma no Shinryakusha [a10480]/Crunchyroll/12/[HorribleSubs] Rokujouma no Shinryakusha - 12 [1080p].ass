@@ -1,0 +1,445 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Invaders-Overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Internal/Narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Title,Open Sans Semibold,48,&H00B3ECDF,&H000000FF,&H00733B28,&H001A100D,1,0,0,0,100,100,0,0,1,3,0,8,13,13,13,1
+Style: Invaders-Ep_Title,Open Sans Semibold,36,&H00F1F1F4,&H000000FF,&H00D1AF76,&H00D1AF76,1,0,0,0,100,100,0,0,1,2,1,1,53,13,73,1
+Style: Invaders-End,Open Sans Semibold,48,&H00F4F7F1,&H000000FF,&H00CA9342,&H00CA9342,1,0,0,0,100,100,0,0,1,2,1,7,133,13,13,1
+Style: Invaders-Script_Title,Open Sans Semibold,36,&H003762B0,&H000000FF,&H0067BBFF,&H00A1723E,1,0,0,0,100,100,0,0,1,2,0,9,13,187,13,1
+Style: Invaders-Name_List,Open Sans Semibold,42,&H00464646,&H000000FF,&H00F9F9F9,&H00A1723E,0,0,0,0,100,100,0,0,1,2,0,4,13,13,13,1
+Style: Invaders-Knitting_Sign,Open Sans Semibold,42,&H00424444,&H000000FF,&H006E7070,&H00A1723E,1,0,0,0,100,100,0,0,1,2,0,8,13,13,107,1
+Style: Invaders-Knitting_Sign_Small,Open Sans Semibold,30,&H002B2E2D,&H000000FF,&H00575958,&H00A1723E,1,0,0,0,100,100,0,0,1,2,0,8,13,40,13,1
+Style: Invaders-Knitting_Sign_Small2,Open Sans Semibold,30,&H00424444,&H000000FF,&H006E7070,&H00A1723E,1,0,0,0,100,100,0,0,1,2,0,9,13,13,107,1
+Style: Invaders-Harukaze_Park,Open Sans Semibold,33,&H003B1F0F,&H000000FF,&H0073452F,&H00A1723E,1,0,0,0,100,100,0,0,1,2,0,5,13,267,107,1
+Style: Invaders-Harukaze_Shopping_District,Open Sans Semibold,30,&H0067D0E3,&H000000FF,&H00BBFFFF,&H00A1723E,0,0,0,0,100,100,0,0,1,2,0,8,13,13,53,1
+Style: Invaders-Play_Poster,Open Sans Semibold,33,&H00FEFCFF,&H000000FF,&H00F1AA93,&H008B6E7C,1,0,0,0,100,100,0,0,1,1,1,8,133,13,13,1
+Style: Invaders-Play_Poster_Large,Open Sans Semibold,45,&H00FEFCFF,&H000000FF,&H00F1AA93,&H00413633,1,0,0,0,100,100,0,0,1,0,1,9,13,13,13,1
+Style: Invaders-Performance,Open Sans Semibold,45,&H007269E2,&H000000FF,&H00EAF0F1,&H00413633,1,0,0,0,100,100,0,0,1,2,0,2,13,13,13,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.25,0:00:10.19,Default,Kiriha,0000,0000,0000,,Ruth, I think it's just about done.
+Dialogue: 0,0:00:10.19,0:00:12.88,Default,Ruth,0000,0000,0000,,Let's skim off the scum.
+Dialogue: 0,0:00:15.88,0:00:18.33,Default,Theia,0000,0000,0000,,Koutarou, you read the script, right?
+Dialogue: 0,0:00:18.33,0:00:19.33,Default,Theia,0000,0000,0000,,Time for practice!
+Dialogue: 0,0:00:19.77,0:00:21.29,Default,Theia,0000,0000,0000,,Wake up, Koutarou!
+Dialogue: 0,0:00:21.29,0:00:22.04,Default,Theia,0000,0000,0000,,Koutarou!
+Dialogue: 0,0:00:22.74,0:00:24.11,Default,Theia,0000,0000,0000,,Koutarou!
+Dialogue: 0,0:00:27.42,0:00:30.83,Default,Theia,0000,0000,0000,,I can't get used to this, no \Nmatter how many times I see it.
+Dialogue: 0,0:00:30.83,0:00:33.88,Default,Theia,0000,0000,0000,,Why do you have to \Nsleep all weird, Sanae?
+Dialogue: 0,0:00:34.55,0:00:36.39,Default,Ruth,0000,0000,0000,,Good morning, Your Highness.
+Dialogue: 0,0:00:36.87,0:00:39.56,Default,Ruth,0000,0000,0000,,Please wake Yurika-san up first.
+Dialogue: 0,0:00:39.56,0:00:40.60,Default,Theia,0000,0000,0000,,Sure.
+Dialogue: 0,0:00:41.45,0:00:42.77,Default,Theia,0000,0000,0000,,Yurika, wake up.
+Dialogue: 0,0:00:42.77,0:00:43.61,Default,Theia,0000,0000,0000,,It's morning.
+Dialogue: 0,0:00:43.61,0:00:47.49,Default,Yurika,0000,0000,0000,,I can't eat anymore...
+Dialogue: 0,0:00:48.06,0:00:50.27,Default,Theia,0000,0000,0000,,Stop talking in your sleep.
+Dialogue: 0,0:00:50.48,0:00:54.65,Default,Yurika,0000,0000,0000,,I told you, I'm full.
+Dialogue: 0,0:00:54.65,0:00:56.09,Default,Theia,0000,0000,0000,,You won't wake up, huh?
+Dialogue: 0,0:00:56.09,0:00:57.87,Default,Theia,0000,0000,0000,,How's this, then?
+Dialogue: 0,0:00:58.39,0:00:59.79,Default,Theia,0000,0000,0000,,Tickle, tickle, tickle!
+Dialogue: 0,0:01:00.75,0:01:02.54,Default,Yurika,0000,0000,0000,,I can't...
+Dialogue: 0,0:01:02.54,0:01:04.75,Default,Yurika,0000,0000,0000,,I can't eat that much...
+Dialogue: 0,0:01:04.75,0:01:06.22,Default,Theia,0000,0000,0000,,Wake up!
+Dialogue: 0,0:01:07.08,0:01:09.48,Default,Yurika,0000,0000,0000,,I can just pick out the meat...
+Dialogue: 0,0:01:09.48,0:01:11.14,Default,Karama,0000,0000,0000,,Theia-chan, we'll help!
+Dialogue: 0,0:01:11.14,0:01:13.59,Default,Korama,0000,0000,0000,,You need to use shock treatment!
+Dialogue: 0,0:01:13.59,0:01:15.01,Default,Karama,0000,0000,0000,,Wake up!
+Dialogue: 0,0:01:15.01,0:01:16.65,Default,Korama,0000,0000,0000,,It's morning!
+Dialogue: 0,0:01:17.33,0:01:18.93,Default,Karama,0000,0000,0000,,Wake up!
+Dialogue: 0,0:01:21.39,0:01:24.33,Default,Yurika,0000,0000,0000,,Potatoes are attacking me!
+Dialogue: 0,0:01:25.35,0:01:26.98,Default,Karama,0000,0000,0000,,She's still not up!
+Dialogue: 0,0:01:26.98,0:01:29.29,Default,Korama,0000,0000,0000,,We need something more stimulating!
+Dialogue: 0,0:01:29.29,0:01:33.34,Default,Theia,0000,0000,0000,,She's must be a pretty heavy\N sleeper if that didn't wake her...
+Dialogue: 0,0:01:39.88,0:01:41.66,Default,Sanae,0000,0000,0000,,It's so warm...
+Dialogue: 0,0:01:45.09,0:01:51.92,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,And just like that, I'd spent three \Nwhole seasons together with these guys.
+Dialogue: 0,0:01:52.55,0:01:58.00,Invaders-Title,,0000,0000,0000,,Invaders of the Rokujyouma!?
+Dialogue: 0,0:01:58.57,0:02:01.51,Default,Ruth,0000,0000,0000,,Um, what's Christmas?
+Dialogue: 0,0:02:01.51,0:02:05.00,Invaders-Ep_Title,,0000,0000,0000,,Invasion Going Well?!
+Dialogue: 0,0:02:01.84,0:02:02.41,Default,Kiriha,0000,0000,0000,,Hm?
+Dialogue: 0,0:02:02.41,0:02:04.31,Default,Theia,0000,0000,0000,,Why do you ask, Ruth?
+Dialogue: 0,0:02:04.31,0:02:06.75,Default,Ruth,0000,0000,0000,,Well, several members of our class
+Dialogue: 0,0:02:06.75,0:02:10.11,Default,Ruth,0000,0000,0000,,have been talking about it, \Never since December started.
+Dialogue: 0,0:02:10.11,0:02:11.98,Default,Ruth,0000,0000,0000,,I thought you would know, Kiriha-sama.
+Dialogue: 0,0:02:12.20,0:02:13.13,Default,Kiriha,0000,0000,0000,,Indeed.
+Dialogue: 0,0:02:13.13,0:02:15.04,Default,Kiriha,0000,0000,0000,,I don't know the specifics,
+Dialogue: 0,0:02:15.04,0:02:16.32,Default,Kiriha,0000,0000,0000,,but from what I've heard—
+Dialogue: 0,0:02:16.69,0:02:19.21,Default,Yurika,0000,0000,0000,,I'll tell you!
+Dialogue: 0,0:02:19.21,0:02:24.70,Default,Yurika,0000,0000,0000,,Christmas is when you get to eat \Nall the chicken and cake you want!
+Dialogue: 0,0:02:25.24,0:02:26.92,Default,Sanae,0000,0000,0000,,That's not right.
+Dialogue: 0,0:02:26.92,0:02:29.17,Default,Sanae,0000,0000,0000,,It's when Santa gives you presents.
+Dialogue: 0,0:02:29.47,0:02:30.74,Default,Ruth,0000,0000,0000,,Santa?
+Dialogue: 0,0:02:30.74,0:02:31.90,Default,Ruth,0000,0000,0000,,Do you know this man?
+Dialogue: 0,0:02:31.90,0:02:34.64,Default,Sanae,0000,0000,0000,,No, not really...
+Dialogue: 0,0:02:34.64,0:02:37.76,Default,Theia,0000,0000,0000,,You receive presents from \Nsomeone you don't even know?
+Dialogue: 0,0:02:37.76,0:02:40.04,Default,Theia,0000,0000,0000,,What if it's something dangerous?
+Dialogue: 0,0:02:40.04,0:02:42.03,Default,Sanae,0000,0000,0000,,It's not like that!
+Dialogue: 0,0:02:42.03,0:02:42.76,Default,Theia,0000,0000,0000,,Why not?
+Dialogue: 0,0:02:43.05,0:02:43.77,Default,Sanae,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:44.54,0:02:45.80,Default,Sanae,0000,0000,0000,,Why...
+Dialogue: 0,0:02:45.80,0:02:50.84,Default,Kiriha,0000,0000,0000,,I heard that Christmas was \Na formal religious event.
+Dialogue: 0,0:02:50.84,0:02:52.75,Default,Karama,0000,0000,0000,,Got the wrong info...
+Dialogue: 0,0:02:52.75,0:02:54.45,Default,Karama,0000,0000,0000,,That's a problem.
+Dialogue: 0,0:02:54.45,0:02:56.57,Default,Shizuka,0000,0000,0000,,That's not really wrong, either.
+Dialogue: 0,0:02:56.57,0:03:00.65,Default,Shizuka,0000,0000,0000,,It's only recently that couples \Nget all lovey-dovey instead.
+Dialogue: 0,0:03:00.99,0:03:03.12,Default,Ruth,0000,0000,0000,,Lovey-dovey?
+Dialogue: 0,0:03:03.37,0:03:04.42,Default,Shizuka,0000,0000,0000,,That's right.
+Dialogue: 0,0:03:04.42,0:03:06.33,Default,Shizuka,0000,0000,0000,,It's a day as sweet as cake!
+Dialogue: 0,0:03:07.15,0:03:09.79,Default,Kenji,0000,0000,0000,,Everyone's talking about Christmas.
+Dialogue: 0,0:03:10.11,0:03:12.50,Default,Kenji,0000,0000,0000,,So, what are you doing, Kou?
+Dialogue: 0,0:03:12.73,0:03:14.21,Default,Koutarou,0000,0000,0000,,Hm? What about me?
+Dialogue: 0,0:03:14.55,0:03:17.53,Default,Kenji,0000,0000,0000,,Christmas. What are your plans?
+Dialogue: 0,0:03:17.53,0:03:20.79,Default,Kenji,0000,0000,0000,,You're not seriously going to\N tell me you don't have any?
+Dialogue: 0,0:03:20.79,0:03:22.30,Default,Kenji,0000,0000,0000,,You're in high school, come on.
+Dialogue: 0,0:03:23.31,0:03:26.28,Default,Koutarou,0000,0000,0000,,Well, if I had to say—
+Dialogue: 0,0:03:26.28,0:03:29.18,Default,Yurika,0000,0000,0000,,It doesn't have to be couples!
+Dialogue: 0,0:03:29.18,0:03:31.53,Default,Yurika,0000,0000,0000,,You can get together with friends or family,
+Dialogue: 0,0:03:31.53,0:03:33.69,Default,Yurika,0000,0000,0000,,and eat good food.
+Dialogue: 0,0:03:33.93,0:03:34.91,Default,Sanae,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:34.91,0:03:36.94,Default,Sanae,0000,0000,0000,,You have a party with everyone!
+Dialogue: 0,0:03:37.19,0:03:38.64,Default,Theia,0000,0000,0000,,A party?
+Dialogue: 0,0:03:38.64,0:03:40.23,Default,Theia,0000,0000,0000,,N-No, we can't!
+Dialogue: 0,0:03:40.23,0:03:43.73,Default,Theia,0000,0000,0000,,We have to practice for the play, instead!
+Dialogue: 0,0:03:43.73,0:03:46.16,Default,Yurika,0000,0000,0000,,What? Really?
+Dialogue: 0,0:03:46.16,0:03:46.95,Default,Theia,0000,0000,0000,,Of course!
+Dialogue: 0,0:03:46.95,0:03:49.41,Default,Theia,0000,0000,0000,,We're going to really \Nstart practicing tomorrow.
+Dialogue: 0,0:03:50.91,0:03:53.66,Default,Kenji,0000,0000,0000,,So much for getting worked \Nup about Christmas.
+Dialogue: 0,0:03:53.66,0:03:56.29,Default,Kenji,0000,0000,0000,,Wait, you're practicing with \NTheia-chan, aren't you?
+Dialogue: 0,0:03:57.22,0:03:57.75,Default,Koutarou,0000,0000,0000,,No.
+Dialogue: 0,0:03:58.01,0:04:00.09,Default,Kenji,0000,0000,0000,,Hm? You have something else?
+Dialogue: 0,0:04:00.33,0:04:01.40,Default,Koutarou,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:01.40,0:04:04.72,Default,Koutarou,0000,0000,0000,,I {\i1}do{\i0} have plans for Christmas!
+Dialogue: 0,0:04:07.18,0:04:08.14,Default,Kenji,0000,0000,0000,,Hey, Kou!
+Dialogue: 0,0:04:24.95,0:04:27.32,Invaders-Script_Title,,0000,0000,0000,,The Silver Princess \Nand the Blue Knight\N Part 2
+Dialogue: 0,0:04:28.76,0:04:31.09,Default,Harumi,0000,0000,0000,,We're going to start practicing again.
+Dialogue: 0,0:04:31.09,0:04:33.00,Default,Harumi,0000,0000,0000,,I'll be with Satomi-kun.
+Dialogue: 0,0:04:33.28,0:04:35.72,Default,Koutarou,0000,0000,0000,,How about some Christmas cake?
+Dialogue: 0,0:04:35.72,0:04:36.71,Default,Koutarou,0000,0000,0000,,Here you go.
+Dialogue: 0,0:04:37.27,0:04:38.92,Default,Koutarou,0000,0000,0000,,Only three days until Christmas Eve.
+Dialogue: 0,0:04:38.92,0:04:43.28,Default,Koutarou,0000,0000,0000,,The Harukaze Pastry Studio \Nis taking orders for cakes!
+Dialogue: 0,0:04:45.37,0:04:46.92,Default,Koutarou,0000,0000,0000,,Sakuraba-senpai.
+Dialogue: 0,0:04:47.63,0:04:48.60,Default,Koutarou,0000,0000,0000,,Hey, there.
+Dialogue: 0,0:04:48.60,0:04:50.59,Default,Harumi,0000,0000,0000,,Hello, Santa.
+Dialogue: 0,0:04:50.59,0:04:51.60,Default,Harumi,0000,0000,0000,,You working here?
+Dialogue: 0,0:04:52.07,0:04:53.69,Default,Koutarou,0000,0000,0000,,Ho, ho, ho.
+Dialogue: 0,0:04:53.69,0:04:56.24,Default,Koutarou,0000,0000,0000,,I started today.
+Dialogue: 0,0:04:56.24,0:04:58.31,Default,Koutarou,0000,0000,0000,,Please have this present, young lady.
+Dialogue: 0,0:05:00.46,0:05:04.29,Default,Harumi,0000,0000,0000,,I think I've been a pretty good girl.
+Dialogue: 0,0:05:04.29,0:05:06.03,Default,Harumi,0000,0000,0000,,You're only going to give me this flier?
+Dialogue: 0,0:05:06.37,0:05:08.49,Default,Koutarou,0000,0000,0000,,Hm... This is a problem...
+Dialogue: 0,0:05:08.75,0:05:11.27,Default,Harumi,0000,0000,0000,,I'll take this, then, Santa.
+Dialogue: 0,0:05:14.11,0:05:15.29,Default,Harumi,0000,0000,0000,,Does it look good on me?
+Dialogue: 0,0:05:15.55,0:05:17.03,Default,Koutarou,0000,0000,0000,,Very cute.
+Dialogue: 0,0:05:17.03,0:05:18.00,Default,Koutarou,0000,0000,0000,,You look like a little kid.
+Dialogue: 0,0:05:19.17,0:05:21.78,Default,Harumi,0000,0000,0000,,You're such a tease, Satomi-kun.
+Dialogue: 0,0:05:21.78,0:05:23.55,Default,Koutarou,0000,0000,0000,,I'm only telling the truth.
+Dialogue: 0,0:05:23.55,0:05:25.22,Default,Koutarou,0000,0000,0000,,Hm? Here you go.
+Dialogue: 0,0:05:25.22,0:05:27.37,Default,Koutarou,0000,0000,0000,,We're accepting orders for cakes!
+Dialogue: 0,0:05:29.03,0:05:31.54,Default,Harumi,0000,0000,0000,,Sorry for bugging you.
+Dialogue: 0,0:05:31.54,0:05:33.89,Default,Harumi,0000,0000,0000,,Oh, I'll help you out to make it up to you.
+Dialogue: 0,0:05:33.89,0:05:34.83,Default,Koutarou,0000,0000,0000,,You can't.
+Dialogue: 0,0:05:34.83,0:05:36.51,Default,Koutarou,0000,0000,0000,,I wouldn't be working for myself.
+Dialogue: 0,0:05:36.51,0:05:37.85,Default,Koutarou,0000,0000,0000,,Actually...
+Dialogue: 0,0:05:38.23,0:05:41.61,Default,Koutarou,0000,0000,0000,,There is something I'd like \Nfor you to help me with.
+Dialogue: 0,0:05:41.61,0:05:44.94,Default,Koutarou,0000,0000,0000,,I wanted to ask when I had \Nmore time tomorrow, but...
+Dialogue: 0,0:05:45.66,0:05:46.90,Default,Harumi,0000,0000,0000,,What is it?
+Dialogue: 0,0:05:48.10,0:05:51.01,Default,Theia,0000,0000,0000,,Koutarou's started a new job?
+Dialogue: 0,0:05:51.01,0:05:55.87,Default,Shizuka,0000,0000,0000,,Yeah, according to Makkenji, he suddenly\N decided at lunch today to get one.
+Dialogue: 0,0:05:56.22,0:05:59.48,Default,Theia,0000,0000,0000,,I've been telling him since this morning \Nwe need to start practice, too.
+Dialogue: 0,0:05:59.48,0:06:00.83,Default,Theia,0000,0000,0000,,I can't believe him...
+Dialogue: 0,0:06:01.11,0:06:02.62,Default,Karama,0000,0000,0000,,Perfect!
+Dialogue: 0,0:06:02.62,0:06:04.77,Default,Korama,0000,0000,0000,,It's a etheric stove!
+Dialogue: 0,0:06:04.77,0:06:07.44,Default,Sanae,0000,0000,0000,,He didn't say anything \Nuntil this morning, either.
+Dialogue: 0,0:06:07.44,0:06:09.18,Default,Sanae,0000,0000,0000,,Why suddenly want a job?
+Dialogue: 0,0:06:09.53,0:06:11.06,Default,Shizuka,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:11.06,0:06:15.02,Default,Shizuka,0000,0000,0000,,Supposedly, Satomi-kun didn't\N tell Makkenji-kun why, either.
+Dialogue: 0,0:06:15.65,0:06:18.40,Invaders-Flashback,Makkenji,0000,0000,0000,,I bet there's a reason why \Nhe wants to keep it secret.
+Dialogue: 0,0:06:19.05,0:06:21.90,Invaders-Flashback,Makkenji,0000,0000,0000,,I just hope he found himself a girl.
+Dialogue: 0,0:06:21.90,0:06:23.40,Default,Sanae,0000,0000,0000,,A girl?
+Dialogue: 0,0:06:24.40,0:06:26.44,Default,Yurika,0000,0000,0000,,Satomi-san did?!
+Dialogue: 0,0:06:27.19,0:06:31.15,Default,Shizuka,0000,0000,0000,,Yeah, he's going to go on a wonderful \NChristmas date with his girlfriend,
+Dialogue: 0,0:06:31.15,0:06:33.52,Default,Shizuka,0000,0000,0000,,so he's working hard at his job.
+Dialogue: 0,0:06:34.03,0:06:36.54,Default,Shizuka,0000,0000,0000,,How nice. Someone's growing up.
+Dialogue: 0,0:06:37.77,0:06:42.42,Default,Ruth,0000,0000,0000,,He promised that he'd practice \Nas soon as the script was done...
+Dialogue: 0,0:06:42.99,0:06:46.32,Default,Ruth,0000,0000,0000,,Her Highness is working so hard, and yet...
+Dialogue: 0,0:06:46.32,0:06:48.72,Default,Ruth,0000,0000,0000,,He's all lovey-dovey... \Nwith a girlfriend...
+Dialogue: 0,0:06:48.93,0:06:51.14,Default,Shizuka,0000,0000,0000,,Um, Ruth-san...
+Dialogue: 0,0:06:53.05,0:06:54.32,Default,Koutarou,0000,0000,0000,,I'm back.
+Dialogue: 0,0:06:54.32,0:06:55.93,Default,Kiriha,0000,0000,0000,,Welcome back, Koutarou.
+Dialogue: 0,0:06:55.93,0:06:57.25,Default,Kiriha,0000,0000,0000,,It must be cold out.
+Dialogue: 0,0:06:57.25,0:06:59.38,Default,Koutarou,0000,0000,0000,,It was {\i1}so{\i0} cold.
+Dialogue: 0,0:06:59.38,0:07:00.87,Default,Koutarou,0000,0000,0000,,Oh, we're having stew today?
+Dialogue: 0,0:07:00.87,0:07:01.65,Default,Koutarou,0000,0000,0000,,I'm happy.
+Dialogue: 0,0:07:02.18,0:07:03.56,Default,Koutarou,0000,0000,0000,,I'm back.
+Dialogue: 0,0:07:03.87,0:07:05.04,Default,Koutarou,0000,0000,0000,,Oh, Ruth-san.
+Dialogue: 0,0:07:05.04,0:07:09.55,Default,Ruth,0000,0000,0000,,Satomi-sama, could you \Nexplain yourself this instant?
+Dialogue: 0,0:07:09.55,0:07:10.28,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:12.37,0:07:13.57,Default,Koutarou,0000,0000,0000,,No, I'm trying to tell you...
+Dialogue: 0,0:07:15.08,0:07:17.30,Default,Koutarou,0000,0000,0000,,It's only a three day part-time job.
+Dialogue: 0,0:07:17.30,0:07:20.21,Default,Koutarou,0000,0000,0000,,I'll keep lunches open for practice.
+Dialogue: 0,0:07:20.42,0:07:25.53,Default,Koutarou,0000,0000,0000,,It's not like there's some special reason \NI didn't talk about the job I was taking.
+Dialogue: 0,0:07:25.53,0:07:30.02,Default,Ruth,0000,0000,0000,,Why did you have to get a new job, anyway?
+Dialogue: 0,0:07:30.02,0:07:32.47,Default,Yurika,0000,0000,0000,,Yeah. It's weird.
+Dialogue: 0,0:07:32.47,0:07:36.31,Default,Koutarou,0000,0000,0000,,Well, I kind of needed some \Nmoney for New Year's...
+Dialogue: 0,0:07:36.64,0:07:38.87,Default,Ruth,0000,0000,0000,,Is that {\i1}really{\i0} the only reason?
+Dialogue: 0,0:07:38.87,0:07:40.43,Default,Yurika,0000,0000,0000,,I don't believe it.
+Dialogue: 0,0:07:40.72,0:07:41.24,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:41.93,0:07:43.00,Default,Koutarou,0000,0000,0000,,Well...
+Dialogue: 0,0:07:43.53,0:07:45.92,Default,Kiriha,0000,0000,0000,,It's time to stop hiding it, Koutarou.
+Dialogue: 0,0:07:45.92,0:07:46.44,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:46.44,0:07:48.73,Default,Kiriha,0000,0000,0000,,Everyone already knows, so there's no point.
+Dialogue: 0,0:07:48.73,0:07:49.82,Default,Kiriha,0000,0000,0000,,Right?
+Dialogue: 0,0:07:50.14,0:07:55.71,Default,Kiriha,0000,0000,0000,,Actually, Koutarou and I have promised \Nto go on a date for Christmas.
+Dialogue: 0,0:07:56.17,0:07:59.33,Default,Kiriha,0000,0000,0000,,Koutarou's working so he can pay for me.
+Dialogue: 0,0:08:01.42,0:08:02.67,Default,Yurika,0000,0000,0000,,You're so cruel...
+Dialogue: 0,0:08:02.67,0:08:05.17,Default,Yurika,0000,0000,0000,,You have Sakuraba-senpai, too!
+Dialogue: 0,0:08:05.17,0:08:07.00,Default,Koutarou,0000,0000,0000,,No, you know...
+Dialogue: 0,0:08:07.96,0:08:09.71,Default,Ruth,0000,0000,0000,,Satomi-sama...
+Dialogue: 0,0:08:09.71,0:08:12.93,Default,Ruth,0000,0000,0000,,Her Highness has stayed up so many \Nnights for the play, and yet, you...
+Dialogue: 0,0:08:13.50,0:08:15.89,Default,Theia,0000,0000,0000,,What a ridiculous act.
+Dialogue: 0,0:08:16.15,0:08:17.97,Default,Sanae,0000,0000,0000,,It's obviously a lie.
+Dialogue: 0,0:08:17.97,0:08:23.10,Default,Sanae,0000,0000,0000,,I don't sense anything sneaky from you two.
+Dialogue: 0,0:08:23.47,0:08:26.48,Default,Shizuka,0000,0000,0000,,You two feel like nothing but \Nfriends since the amusement park.
+Dialogue: 0,0:08:27.32,0:08:30.19,Default,Kiriha,0000,0000,0000,,Oh well, everyone's gotten a lot sharper.
+Dialogue: 0,0:08:30.55,0:08:32.53,Default,Theia,0000,0000,0000,,Well, who cares about the job?
+Dialogue: 0,0:08:32.53,0:08:36.03,Default,Theia,0000,0000,0000,,We'll study hard during winter break.
+Dialogue: 0,0:08:36.03,0:08:36.81,Default,Theia,0000,0000,0000,,Got it?
+Dialogue: 0,0:08:36.81,0:08:38.82,Default,Koutarou,0000,0000,0000,,Y-Yeah, leave it to me!
+Dialogue: 0,0:08:38.82,0:08:41.23,Default,Sanae,0000,0000,0000,,Anyway, let's eat.
+Dialogue: 0,0:08:41.23,0:08:43.64,Default,Ruth,0000,0000,0000,,O-Oh, we don't have a ladle.
+Dialogue: 0,0:08:43.64,0:08:45.07,Default,Ruth,0000,0000,0000,,I'll go—
+Dialogue: 0,0:08:45.07,0:08:47.02,Default,Koutarou,0000,0000,0000,,Thank you, Kiriha-san.
+Dialogue: 0,0:08:47.02,0:08:48.15,Default,Koutarou,0000,0000,0000,,You helped me out.
+Dialogue: 0,0:08:49.03,0:08:50.30,Default,Kiriha,0000,0000,0000,,No problem.
+Dialogue: 0,0:08:50.71,0:08:53.58,Default,Kiriha,0000,0000,0000,,I wish you would have told me first, though.
+Dialogue: 0,0:08:53.58,0:08:54.02,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:54.02,0:08:55.30,Default,Kiriha,0000,0000,0000,,Anyway, let's eat.
+Dialogue: 0,0:08:58.27,0:09:00.22,Default,All,0000,0000,0000,,It looks great!
+Dialogue: 0,0:09:00.84,0:09:02.68,Default,All,0000,0000,0000,,Let's eat!
+Dialogue: 0,0:09:06.01,0:09:08.61,Default,Karama,0000,0000,0000,,All my power's being sucked out...
+Dialogue: 0,0:09:09.50,0:09:12.12,Default,Korama,0000,0000,0000,,Brother!
+Dialogue: 0,0:09:12.80,0:09:14.76,Default,Shizuka,0000,0000,0000,,Stew really is the best in the winter!
+Dialogue: 0,0:09:14.76,0:09:17.22,Default,Yurika,0000,0000,0000,,Meat! Where's the meat?!
+Dialogue: 0,0:09:17.22,0:09:19.82,Default,Sanae,0000,0000,0000,,Come on, Koutarou. Let's eat!
+Dialogue: 0,0:09:19.82,0:09:21.54,Default,Kiriha,0000,0000,0000,,Koutarou, I got you some.
+Dialogue: 0,0:09:21.54,0:09:22.58,Default,Koutarou,0000,0000,0000,,Thanks!
+Dialogue: 0,0:09:23.29,0:09:25.50,Default,Theia,0000,0000,0000,,Hey, Koutarou. Don't get it everywhere.
+Dialogue: 0,0:09:26.90,0:09:28.11,Default,Ruth,0000,0000,0000,,Your Highness...
+Dialogue: 0,0:09:29.33,0:09:31.90,Default,Karama,0000,0000,0000,,Brother, switch with me...
+Dialogue: 0,0:09:31.90,0:09:34.17,Default,Korama,0000,0000,0000,,N-No thanks.
+Dialogue: 0,0:09:39.82,0:09:40.60,Default,Koutarou,0000,0000,0000,,All right.
+Dialogue: 0,0:09:44.74,0:09:46.50,Default,Harumi,0000,0000,0000,,That's a great tree.
+Dialogue: 0,0:09:46.50,0:09:48.06,Default,Koutarou,0000,0000,0000,,Oh, Sakuraba-senpai.
+Dialogue: 0,0:09:48.52,0:09:51.75,Default,Koutarou,0000,0000,0000,,I was able to get it with \Nmy pay from yesterday.
+Dialogue: 0,0:09:51.75,0:09:53.52,Default,Koutarou,0000,0000,0000,,A little bit more expensive \Nthan I was hoping, though.
+Dialogue: 0,0:09:53.52,0:09:54.85,Default,Harumi,0000,0000,0000,,I see.
+Dialogue: 0,0:09:54.85,0:09:58.25,Default,Harumi,0000,0000,0000,,I brought these from home, \Nfeel free to use them.
+Dialogue: 0,0:09:58.25,0:10:00.49,Default,Koutarou,0000,0000,0000,,Thank you. That helps!
+Dialogue: 0,0:10:02.01,0:10:04.67,Default,Harumi,0000,0000,0000,,I want to see the smiles on everyone's faces.
+Dialogue: 0,0:10:04.67,0:10:05.57,Default,Koutarou,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:05.57,0:10:09.00,Default,Koutarou,0000,0000,0000,,Please keep it secret until then, though.
+Dialogue: 0,0:10:09.23,0:10:10.23,Default,Harumi,0000,0000,0000,,Of course.
+Dialogue: 0,0:10:10.23,0:10:12.59,Default,Harumi,0000,0000,0000,,It's a surprise party, after all.
+Dialogue: 0,0:10:38.47,0:10:49.37,Default,P,0000,0000,0000,,Everyone, make sure you keep yourselves \Nin line during the the holiday season...
+Dialogue: 0,0:10:49.37,0:10:54.21,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,And then it was the day of the \Nclosing ceremony, Christmas Eve.
+Dialogue: 0,0:10:54.67,0:10:56.99,Default,S1,0000,0000,0000,,See you when third semester starts!
+Dialogue: 0,0:10:56.99,0:10:58.19,Default,S2,0000,0000,0000,,Have a good New Year.
+Dialogue: 0,0:10:58.19,0:10:59.93,Default,S1,0000,0000,0000,,Merry Christmas.
+Dialogue: 0,0:11:00.85,0:11:03.68,Default,Makkenji,0000,0000,0000,,What? A surprise Christmas party?
+Dialogue: 0,0:11:03.90,0:11:04.91,Default,Koutarou,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:04.91,0:11:08.51,Default,Koutarou,0000,0000,0000,,I was thinking of holding it \Nin the Knitting Club room.
+Dialogue: 0,0:11:08.51,0:11:11.19,Default,Koutarou,0000,0000,0000,,I'm having Sakuraba-senpai \Nhelp me out, but...
+Dialogue: 0,0:11:11.44,0:11:14.86,Default,Makkenji,0000,0000,0000,,You're not going to ask me \Nto help out, too, are you?
+Dialogue: 0,0:11:15.54,0:11:17.80,Default,Makkenji,0000,0000,0000,,You could have asked earlier!
+Dialogue: 0,0:11:17.80,0:11:19.02,Default,Koutarou,0000,0000,0000,,I need more people.
+Dialogue: 0,0:11:19.02,0:11:19.65,Default,Koutarou,0000,0000,0000,,Please!
+Dialogue: 0,0:11:22.36,0:11:25.61,Default,Koutarou,0000,0000,0000,,All you have to do is get everyone to come.
+Dialogue: 0,0:11:25.61,0:11:26.33,Default,Koutarou,0000,0000,0000,,Please?
+Dialogue: 0,0:11:26.67,0:11:28.83,Default,Makkenji,0000,0000,0000,,I have a lot of complaints,
+Dialogue: 0,0:11:28.83,0:11:31.08,Default,Makkenji,0000,0000,0000,,but I'll accept out of the\N kindness of my heart.
+Dialogue: 0,0:11:31.08,0:11:32.31,Default,Koutarou,0000,0000,0000,,I owe you!
+Dialogue: 0,0:11:32.31,0:11:34.56,Default,,0000,0000,0000,,Okay, see you at the club room at 3 PM!
+Dialogue: 0,0:11:34.56,0:11:35.22,Default,Makkenji,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:37.55,0:11:42.29,Invaders-Name_List,,0000,0000,0000,,Sanae \NKiriha-san \NYurika \NTheia \NRuth-san \NLandlady
+Dialogue: 0,0:11:42.29,0:11:43.26,Invaders-Name_List,,0000,0000,0000,,Sanae
+Dialogue: 0,0:11:42.29,0:11:45.23,Default,Makkenji,0000,0000,0000,,Huh? Who's Sanae?
+Dialogue: 0,0:11:45.23,0:11:48.01,Default,Shizuka,0000,0000,0000,,Looks like your guess was wrong.
+Dialogue: 0,0:11:48.54,0:11:51.48,Default,Shizuka,0000,0000,0000,,Guess it wasn't for a girlfriend, after all.
+Dialogue: 0,0:11:51.71,0:11:57.80,Default,Makkenji,0000,0000,0000,,I guess I was just hoping things were \Nfinally going somewhere for him.
+Dialogue: 0,0:11:58.22,0:11:59.86,Default,Makkenji,0000,0000,0000,,To think it was something like this...
+Dialogue: 0,0:12:00.39,0:12:01.55,Default,Shizuka,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:01.55,0:12:04.59,Default,Shizuka,0000,0000,0000,,So, what are you planning?
+Dialogue: 0,0:12:04.59,0:12:06.34,Default,Makkenji,0000,0000,0000,,Well, I'll help, of course.
+Dialogue: 0,0:12:06.34,0:12:09.53,Default,Makkenji,0000,0000,0000,,I'll make sure it turns out interesting.
+Dialogue: 0,0:12:13.16,0:12:14.96,Default,Koutarou,0000,0000,0000,,That took a while.
+Dialogue: 0,0:12:14.96,0:12:18.15,Default,Koutarou,0000,0000,0000,,I need to pick up the cake, too.
+Dialogue: 0,0:12:18.15,0:12:19.79,Default,Harumi,0000,0000,0000,,Satomi-kun!
+Dialogue: 0,0:12:19.79,0:12:21.16,Default,Koutarou,0000,0000,0000,,Oh, Senpai!
+Dialogue: 0,0:12:21.16,0:12:22.55,Default,Harumi,0000,0000,0000,,Satomi-kun!
+Dialogue: 0,0:12:22.86,0:12:24.66,Default,Koutarou,0000,0000,0000,,Are you done setting up the room?
+Dialogue: 0,0:12:27.27,0:12:29.31,Default,Harumi,0000,0000,0000,,It's terrible.
+Dialogue: 0,0:12:29.31,0:12:30.10,Default,Harumi,0000,0000,0000,,Come quickly!
+Dialogue: 0,0:12:30.49,0:12:31.07,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:34.31,0:12:35.52,Default,R,0000,0000,0000,,Sumo!
+Dialogue: 0,0:12:37.02,0:12:39.02,Invaders-Knitting_Sign,,0000,0000,0000,,Knitting Society
+Dialogue: 0,0:12:39.61,0:12:41.57,Default,R,0000,0000,0000,,Kamibasami attack!
+Dialogue: 0,0:12:41.57,0:12:43.77,Invaders-Knitting_Sign_Small,,0000,0000,0000,,Knitting Society
+Dialogue: 0,0:12:44.11,0:12:45.41,Default,R,0000,0000,0000,,Fullback!
+Dialogue: 0,0:12:45.41,0:12:46.89,Default,Koutarou,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:12:46.89,0:12:50.66,Default,Harumi,0000,0000,0000,,Um, I don't really know, either...
+Dialogue: 0,0:12:50.66,0:12:53.21,Invaders-Knitting_Sign_Small2,,0000,0000,0000,,Knitting Society
+Dialogue: 0,0:12:51.14,0:12:53.21,Default,Koutarou,0000,0000,0000,,Did they get the wrong room?
+Dialogue: 0,0:12:53.21,0:12:58.23,Default,Harumi,0000,0000,0000,,Well, it seems like they got \Npermission to use this room.
+Dialogue: 0,0:12:58.23,0:13:00.67,Default,Koutarou,0000,0000,0000,,What? Why?!
+Dialogue: 0,0:13:01.04,0:13:04.75,Default,Harumi,0000,0000,0000,,Anyway, let's prepare \Nanother room, Satomi-kun.
+Dialogue: 0,0:13:04.75,0:13:06.51,Default,Koutarou,0000,0000,0000,,Yeah, but we don't have much time...
+Dialogue: 0,0:13:06.51,0:13:09.89,Default,Harumi,0000,0000,0000,,How about your apartment?
+Dialogue: 0,0:13:09.89,0:13:10.66,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:11.39,0:13:12.49,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:13:12.49,0:13:14.27,Default,Koutarou,0000,0000,0000,,Apartment 106, huh?
+Dialogue: 0,0:13:15.23,0:13:18.63,Default,Koutarou,0000,0000,0000,,Sorry, Senpai, I'll be going ahead.
+Dialogue: 0,0:13:18.63,0:13:19.98,Default,Koutarou,0000,0000,0000,,Please come later!
+Dialogue: 0,0:13:20.23,0:13:22.33,Default,Harumi,0000,0000,0000,,Okay, I will!
+Dialogue: 0,0:13:31.33,0:13:34.94,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Yeah, I shouldn't have tried to act cool,
+Dialogue: 0,0:13:34.94,0:13:39.04,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,and just had this party at\N my apartment from the start.
+Dialogue: 0,0:13:39.96,0:13:42.96,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,That's where I met all of them.
+Dialogue: 0,0:13:44.37,0:13:47.01,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I think I ran into Sanae first.
+Dialogue: 0,0:13:47.71,0:13:50.14,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,She's like my little sister now.
+Dialogue: 0,0:13:50.46,0:13:55.10,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I've gotten used to her clinging \Nto me, and going into my body.
+Dialogue: 0,0:14:00.02,0:14:03.28,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Theia's grown up quite a bit.
+Dialogue: 0,0:14:03.67,0:14:08.86,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,She's a lot kinder and more straightforward \Nthan she was when I first met her.
+Dialogue: 0,0:14:08.86,0:14:12.43,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I wouldn't mind serving under her now.
+Dialogue: 0,0:14:17.31,0:14:19.68,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Ruth-san is very dedicated.
+Dialogue: 0,0:14:19.68,0:14:21.88,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I'm glad she's around.
+Dialogue: 0,0:14:22.49,0:14:27.04,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,If Ruth-san wasn't here, I don't think things\N would have have gone well with Theia.
+Dialogue: 0,0:14:31.05,0:14:34.43,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I thought that Yurika was \Ncompletely unreliable at first,
+Dialogue: 0,0:14:35.27,0:14:39.48,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,but she's surprisingly committed.
+Dialogue: 0,0:14:39.73,0:14:42.68,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I don't get bored with her around.
+Dialogue: 0,0:14:48.92,0:14:55.91,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I feel like I can really talk to Kiriha-san \Nsince that amusement park was invaded.
+Dialogue: 0,0:14:57.13,0:15:00.75,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Kiriha-san said that we're best friends now.
+Dialogue: 0,0:15:06.17,0:15:10.51,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I wanted to show them how I felt.
+Dialogue: 0,0:15:10.87,0:15:13.29,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,There wasn't really any reason \Nto keep it a surprise.
+Dialogue: 0,0:15:14.46,0:15:18.39,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,It would have been enough to \Njust have fun with everyone.
+Dialogue: 0,0:15:27.40,0:15:31.36,Default,All,0000,0000,0000,,Merry Christmas!
+Dialogue: 0,0:15:31.88,0:15:32.44,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:34.27,0:15:36.18,Default,Karama,0000,0000,0000,,Koutarou's surprised!
+Dialogue: 0,0:15:36.18,0:15:37.91,Default,Korama,0000,0000,0000,,We got him!
+Dialogue: 0,0:15:39.21,0:15:41.00,Default,Kiriha,0000,0000,0000,,It went better than expected.
+Dialogue: 0,0:15:41.23,0:15:43.00,Default,Sanae,0000,0000,0000,,Our plan wins!
+Dialogue: 0,0:15:43.23,0:15:45.54,Default,Yurika,0000,0000,0000,,You're so easy, Satomi-san.
+Dialogue: 0,0:15:45.84,0:15:48.92,Default,Theia,0000,0000,0000,,You still have a long way to go, Koutarou.
+Dialogue: 0,0:15:49.30,0:15:51.93,Default,Ruth,0000,0000,0000,,Sorry for surprising you, Satomi-sama.
+Dialogue: 0,0:15:52.83,0:15:54.14,Default,,0000,0000,0000,,This is...
+Dialogue: 0,0:15:54.46,0:15:59.39,Default,Makkenji,0000,0000,0000,,Kurano-san and the others figured \Nout what you were planning!
+Dialogue: 0,0:16:00.14,0:16:01.42,Default,Koutarou,0000,0000,0000,,Makkenji!
+Dialogue: 0,0:16:01.94,0:16:03.61,Default,Koutarou,0000,0000,0000,,You betrayed me!
+Dialogue: 0,0:16:03.61,0:16:07.18,Default,Makkenji,0000,0000,0000,,No, they asked me first.
+Dialogue: 0,0:16:07.18,0:16:08.19,Default,Makkenji,0000,0000,0000,,I didn't betray anyone!
+Dialogue: 0,0:16:08.19,0:16:11.70,Default,Koutarou,0000,0000,0000,,No, you're the one who called \Nall those athletes right?!
+Dialogue: 0,0:16:12.42,0:16:14.08,Default,Shizuka,0000,0000,0000,,That was me.
+Dialogue: 0,0:16:14.57,0:16:17.40,Default,Shizuka,0000,0000,0000,,I had Sakuraba-senpai help, too.
+Dialogue: 0,0:16:19.84,0:16:22.28,Default,Harumi,0000,0000,0000,,I-I'm sorry, Satomi-kun.
+Dialogue: 0,0:16:22.28,0:16:25.56,Default,Harumi,0000,0000,0000,,They convinced me it'd be more fun this way.
+Dialogue: 0,0:16:26.36,0:16:28.55,Default,Koutarou,0000,0000,0000,,N-No fair...
+Dialogue: 0,0:16:29.59,0:16:31.18,Default,Koutarou,0000,0000,0000,,Actually, you guys...
+Dialogue: 0,0:16:31.18,0:16:32.01,Default,Koutarou,0000,0000,0000,,Come on!
+Dialogue: 0,0:16:32.42,0:16:34.72,Default,Theia,0000,0000,0000,,Don't get so mad, Koutarou.
+Dialogue: 0,0:16:34.72,0:16:38.30,Default,Ruth,0000,0000,0000,,You were trying to do the \Nsame thing, you know?
+Dialogue: 0,0:16:38.30,0:16:41.47,Default,Yurika,0000,0000,0000,,Yeah. Hoisted by your own leotard.
+Dialogue: 0,0:16:41.47,0:16:43.08,Default,Koutarou,0000,0000,0000,,It's "petard"!
+Dialogue: 0,0:16:43.08,0:16:45.21,Default,Koutarou,0000,0000,0000,,Sigh. What was the point of me working?
+Dialogue: 0,0:16:45.21,0:16:46.44,Default,Kiriha,0000,0000,0000,,Koutarou.
+Dialogue: 0,0:16:46.73,0:16:49.81,Default,Kiriha,0000,0000,0000,,We brought the tree you \Ngot with your earnings.
+Dialogue: 0,0:16:51.16,0:16:54.03,Default,Sanae,0000,0000,0000,,The Harukaze Pastry Studio \NChristmas cake is here, too!
+Dialogue: 0,0:17:00.39,0:17:01.95,Default,All,0000,0000,0000,,Cheers!
+Dialogue: 0,0:17:02.55,0:17:04.99,Default,Kiriha,0000,0000,0000,,What would you like, Harumi-senpai?
+Dialogue: 0,0:17:04.99,0:17:06.83,Default,Harumi,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:17:06.83,0:17:09.17,Default,Harumi,0000,0000,0000,,Everything looks great. \NI don't know what to pick.
+Dialogue: 0,0:17:09.17,0:17:10.63,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:17:10.63,0:17:12.34,Default,Kiriha,0000,0000,0000,,These are really good.
+Dialogue: 0,0:17:12.34,0:17:14.13,Default,Harumi,0000,0000,0000,,Did you make all of this by yourselves?
+Dialogue: 0,0:17:14.13,0:17:15.41,Default,Kiriha,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:17.23,0:17:19.76,Default,Koutarou,0000,0000,0000,,Jeez, you guys got me good.
+Dialogue: 0,0:17:19.76,0:17:22.17,Default,Sanae,0000,0000,0000,,Koutarou, I want some chicken!
+Dialogue: 0,0:17:22.82,0:17:23.59,Default,Koutarou,0000,0000,0000,,Hm? Sure.
+Dialogue: 0,0:17:23.59,0:17:24.71,Default,Sanae,0000,0000,0000,,Yay!
+Dialogue: 0,0:17:26.05,0:17:27.31,Default,BG,0000,0000,0000,,That looks great.
+Dialogue: 0,0:17:36.50,0:17:39.24,Default,Sanae,0000,0000,0000,,Koutarou, what are you thinking?
+Dialogue: 0,0:17:41.22,0:17:42.44,Default,Koutarou,0000,0000,0000,,Nothing.
+Dialogue: 0,0:17:42.44,0:17:43.61,Default,Koutarou,0000,0000,0000,,I'm going to eat some!
+Dialogue: 0,0:17:46.67,0:17:54.24,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I think these invaders may have
+Dialogue: 0,0:17:55.02,0:17:56.62,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,invaded my heart, instead.
+Dialogue: 0,0:18:00.81,0:18:02.63,Default,Harumi,0000,0000,0000,,We had fun today.
+Dialogue: 0,0:18:02.63,0:18:06.09,Default,Koutarou,0000,0000,0000,,Yeah, it sure was fun being surprised.
+Dialogue: 0,0:18:06.09,0:18:08.00,Default,Harumi,0000,0000,0000,,Come on, Satomi-kun.
+Dialogue: 0,0:18:08.00,0:18:10.77,Default,Harumi,0000,0000,0000,,I apologized for that.
+Dialogue: 0,0:18:10.77,0:18:14.61,Default,Koutarou,0000,0000,0000,,No, I'm going to remember that forever.
+Dialogue: 0,0:18:14.61,0:18:18.49,Invaders-Harukaze_Park,,0000,0000,0000,,Harukaze \NPark
+Dialogue: 0,0:18:15.42,0:18:18.49,Default,Koutarou,0000,0000,0000,,But, Santa isn't like that.
+Dialogue: 0,0:18:21.27,0:18:23.19,Default,Koutarou,0000,0000,0000,,Ho, ho, ho.
+Dialogue: 0,0:18:24.08,0:18:26.03,Default,Harumi,0000,0000,0000,,Oh, Santa.
+Dialogue: 0,0:18:26.03,0:18:27.77,Default,Harumi,0000,0000,0000,,We meet again.
+Dialogue: 0,0:18:27.77,0:18:33.13,Default,Koutarou,0000,0000,0000,,Yes, and I have a present\N for a good girl this time.
+Dialogue: 0,0:18:36.43,0:18:38.12,Default,Harumi,0000,0000,0000,,Thank you.
+Dialogue: 0,0:18:38.12,0:18:39.92,Default,Harumi,0000,0000,0000,,Can I open it now?
+Dialogue: 0,0:18:39.92,0:18:41.10,Default,Koutarou,0000,0000,0000,,Ho, ho, ho.
+Dialogue: 0,0:18:41.10,0:18:42.55,Default,Koutarou,0000,0000,0000,,Of course.
+Dialogue: 0,0:18:43.34,0:18:46.89,Default,Koutarou,0000,0000,0000,,It's nothing special, but \Nyou can use it right now.
+Dialogue: 0,0:18:48.35,0:18:52.40,Default,Harumi,0000,0000,0000,,Was this the piece you \Nknitted at the beginning?
+Dialogue: 0,0:18:52.77,0:18:54.12,Default,Koutarou,0000,0000,0000,,You're right.
+Dialogue: 0,0:18:54.12,0:18:56.69,Default,Koutarou,0000,0000,0000,,So it might be a bit rough here, but...
+Dialogue: 0,0:19:04.28,0:19:07.89,Default,Koutarou,0000,0000,0000,,I wanted you to have my first project.
+Dialogue: 0,0:19:08.40,0:19:10.98,Default,Koutarou,0000,0000,0000,,Sorry for giving you this as my present.
+Dialogue: 0,0:19:10.98,0:19:13.71,Default,Harumi,0000,0000,0000,,No, I'm really happy.
+Dialogue: 0,0:19:13.71,0:19:16.78,Default,Harumi,0000,0000,0000,,This will bring back lots\N of memories for me.
+Dialogue: 0,0:19:23.51,0:19:24.75,Default,Harumi,0000,0000,0000,,Does it suit me?
+Dialogue: 0,0:19:29.34,0:19:30.78,Default,Koutarou,0000,0000,0000,,It doesn't.
+Dialogue: 0,0:19:30.78,0:19:32.93,Default,Koutarou,0000,0000,0000,,You should have gotten a better muffler.
+Dialogue: 0,0:19:40.60,0:19:41.95,Default,Harumi,0000,0000,0000,,That's enough.
+Dialogue: 0,0:19:41.95,0:19:44.74,Default,Harumi,0000,0000,0000,,Why are you talking back to your princess?
+Dialogue: 0,0:19:46.99,0:19:50.16,Default,Koutarou,0000,0000,0000,,Princess Alaia, forgive me.
+Dialogue: 0,0:19:50.91,0:19:52.66,Default,Harumi,0000,0000,0000,,As long as you understand.
+Dialogue: 0,0:19:52.66,0:19:55.63,Default,Harumi,0000,0000,0000,,Allow me to give this to you.
+Dialogue: 0,0:20:00.41,0:20:05.94,Default,Harumi,0000,0000,0000,,Lord Veltorion, this sword will protect you,
+Dialogue: 0,0:20:05.94,0:20:07.71,Default,Harumi,0000,0000,0000,,from any enemy you may face,
+Dialogue: 0,0:20:07.71,0:20:09.55,Default,Harumi,0000,0000,0000,,or from any hardship.
+Dialogue: 0,0:20:10.65,0:20:17.20,Default,Koutarou,0000,0000,0000,,Then I shall protect you \Nwith my life and this sword,
+Dialogue: 0,0:20:17.95,0:20:18.98,Default,Koutarou,0000,0000,0000,,Princess Alaia.
+Dialogue: 0,0:20:37.92,0:20:39.25,Default,R,0000,0000,0000,,Koutarou.
+Dialogue: 0,0:20:44.69,0:20:48.67,Default,R,0000,0000,0000,,You still haven't remembered, have you?
+Dialogue: 0,0:20:49.78,0:20:52.18,Default,R,0000,0000,0000,,But that's all right.
+Dialogue: 0,0:20:53.26,0:20:57.06,Default,R,0000,0000,0000,,You still have places you need to be,
+Dialogue: 0,0:20:57.06,0:20:59.19,Default,R,0000,0000,0000,,and people you need to meet.
+Dialogue: 0,0:21:00.94,0:21:08.57,Default,R,0000,0000,0000,,After countless years and \Ndistance, someday, again...
+Dialogue: 0,0:21:50.37,0:21:52.07,Invaders-Harukaze_Shopping_District,,0000,0000,0000,,Harukaze Shopping District
+Dialogue: 0,0:21:52.08,0:21:54.78,Invaders-Play_Poster,,0000,0000,0000,,The Silver Princess and the Blue Knight\NPart 2
+Dialogue: 0,0:22:47.63,0:22:49.29,Invaders-Play_Poster_Large,,0000,0000,0000,,The Silver Princess \Nand the Blue Knight\NPart 2
+Dialogue: 0,0:22:49.09,0:22:53.09,Invaders-Performance,,0000,0000,0000,,Performance Today
+Dialogue: 0,0:22:56.94,0:22:59.52,Default,Theia,0000,0000,0000,,E-Everyone, are you all ready?
+Dialogue: 0,0:22:59.76,0:23:01.01,Default,Ruth,0000,0000,0000,,Yes, Your Highness.
+Dialogue: 0,0:23:01.01,0:23:02.39,Default,Ruth,0000,0000,0000,,Everything's perfect.
+Dialogue: 0,0:23:02.39,0:23:04.71,Default,Yurika,0000,0000,0000,,The dragon's great, too.
+Dialogue: 0,0:23:04.71,0:23:07.65,Default,Kiriha,0000,0000,0000,,You can relax a bit more, Theia.
+Dialogue: 0,0:23:07.65,0:23:09.24,Default,Kiriha,0000,0000,0000,,It'll be fine.
+Dialogue: 0,0:23:09.57,0:23:11.20,Default,Theia,0000,0000,0000,,R-Right.
+Dialogue: 0,0:23:11.45,0:23:14.91,Default,Sanae,0000,0000,0000,,If you forget a line, I'll help you out.
+Dialogue: 0,0:23:15.70,0:23:17.31,Default,Koutarou,0000,0000,0000,,All right, everyone,
+Dialogue: 0,0:23:17.31,0:23:20.00,Default,Koutarou,0000,0000,0000,,we're going to make this play happen!
+Dialogue: 0,0:23:26.96,0:23:29.97,Default,Sanae,0000,0000,0000,,It's the last episode of \NMahou Shoujo Love Love Heart.
+Dialogue: 0,0:23:29.97,0:23:30.83,Default,Sanae,0000,0000,0000,,Too bad!
+Dialogue: 0,0:23:30.83,0:23:32.25,Default,Yurika,0000,0000,0000,,I'm sad.
+Dialogue: 0,0:23:32.25,0:23:34.06,Default,Yurika,0000,0000,0000,,I loved everyone.
+Dialogue: 0,0:23:34.06,0:23:36.64,Default,Theia,0000,0000,0000,,I know. It's sad.
+Dialogue: 0,0:23:36.64,0:23:38.46,Default,Kiriha,0000,0000,0000,,I'm sure we'll meet again.
+Dialogue: 0,0:23:37.66,0:23:41.06,Invaders-End,,0000,0000,0000,,The End?!
+Dialogue: 0,0:23:38.46,0:23:40.27,Default,Kiriha,0000,0000,0000,,See you again.

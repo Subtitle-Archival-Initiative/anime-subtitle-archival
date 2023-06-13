@@ -1,0 +1,377 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Invaders-Overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Internal/Narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback_Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Invaders-Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,20,0
+Style: Invaders-Title,Open Sans Semibold,48,&H00B3ECDF,&H000000FF,&H00733B28,&H001A100D,1,0,0,0,100,100,0,0,1,3,0,8,13,13,13,1
+Style: Invaders-Corona_Convention2,Open Sans Semibold,42,&H005A5A5A,&H000000FF,&H00F9F9F9,&H00B69361,0,0,0,0,100,100,0,0,1,2,0,8,13,13,53,1
+Style: Invaders-Approved,Open Sans Semibold,45,&H004933D6,&H000000FF,&H00F9F8FB,&H00B69361,1,0,0,0,100,100,0,0,1,3,0,2,13,13,20,1
+Style: Invaders-Ep_Title,Open Sans Semibold,36,&H00FBE9F8,&H000000FF,&H00B99256,&H00B99256,1,0,0,0,100,100,0,0,1,2,1,3,13,60,73,1
+Style: Invaders-Next_Episode,Open Sans Semibold,36,&H00EADCC0,&H000000FF,&H00A1723E,&H00A1723E,1,0,0,0,100,100,0,0,1,2,1,7,87,13,40,1
+Style: Invaders-Two_Adults,Open Sans Semibold,42,&H00494D53,&H000000FF,&H00E7E7E7,&H00AFB183,1,0,0,0,100,100,0,0,1,3,0,8,13,13,200,1
+Style: Invaders-Beetle_Show,Open Sans Semibold,38,&H00CABDBA,&H000000FF,&H009D5F39,&H00AFB183,1,0,0,0,100,100,0,0,1,3,0,2,13,13,133,1
+Style: Invaders-Tall_Sign,Open Sans Semibold,30,&H006688BB,&H000000FF,&H0088CFFF,&H00AFB183,0,0,0,0,100,100,0,0,1,3,0,2,13,400,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.27,0:00:05.82,Invaders-Flashback,G,0000,0000,0000,,Goodbye!
+Dialogue: 0,0:00:05.82,0:00:07.02,Invaders-Flashback,B,0000,0000,0000,,Let's go, Kii-chan.
+Dialogue: 0,0:00:07.02,0:00:07.65,Invaders-Flashback,G,0000,0000,0000,,Yeah!
+Dialogue: 0,0:00:19.92,0:00:22.94,Default,Kiriha,0000,0000,0000,,Nothing's changed, at all.
+Dialogue: 0,0:00:22.94,0:00:25.49,Default,Koutarou,0000,0000,0000,,You've been here before?
+Dialogue: 0,0:00:25.49,0:00:27.25,Default,Kiriha,0000,0000,0000,,Yeah, ten years ago.
+Dialogue: 0,0:00:28.89,0:00:30.38,Default,Kiriha,0000,0000,0000,,Anyway, let's go, Koutarou.
+Dialogue: 0,0:00:30.38,0:00:31.26,Default,Koutarou,0000,0000,0000,,Right.
+Dialogue: 0,0:00:36.30,0:00:38.31,Default,Theia,0000,0000,0000,,Letting himself get seduced just like that...
+Dialogue: 0,0:00:38.31,0:00:41.90,Default,Ruth,0000,0000,0000,,Satomi-sama needs to \Nremember he's {\i1}your{\i0} knight.
+Dialogue: 0,0:00:41.90,0:00:44.20,Default,Sanae,0000,0000,0000,,He's being drawn in by Kiriha's sex appeal.
+Dialogue: 0,0:00:44.20,0:00:47.39,Default,Yurika,0000,0000,0000,,He has Sakuraba-senpai, and he's still...
+Dialogue: 0,0:00:47.39,0:00:49.02,Default,Yurika,0000,0000,0000,,I'm not letting him get away with this!
+Dialogue: 0,0:01:00.83,0:01:09.16,Invaders-Title,,0000,0000,0000,,Invaders of the Rokujyouma!?
+Dialogue: 0,0:02:14.19,0:02:18.98,Invaders-Corona_Convention2,,0000,0000,0000,,Corona Convention
+Dialogue: 0,0:02:15.90,0:02:18.98,Invaders-Approved,,0000,0000,0000,,Approved
+Dialogue: 0,0:02:20.70,0:02:24.68,Invaders-Ep_Title,Title,0000,0000,0000,,Someday, With Them...
+Dialogue: 0,0:02:21.85,0:02:23.41,Default,Kiriha,0000,0000,0000,,This hasn't changed, either.
+Dialogue: 0,0:02:26.11,0:02:27.12,Default,Kiriha,0000,0000,0000,,What's wrong, Koutarou?
+Dialogue: 0,0:02:27.44,0:02:28.62,Default,Koutarou,0000,0000,0000,,Ah, nothing.
+Dialogue: 0,0:02:30.46,0:02:32.63,Default,Koutarou,0000,0000,0000,,Is it okay for them to be \Nmessing around over there?
+Dialogue: 0,0:02:33.02,0:02:34.37,Default,Karama,0000,0000,0000,,Spin, spin!
+Dialogue: 0,0:02:34.37,0:02:36.03,Default,Korama,0000,0000,0000,,I'm dizzy!
+Dialogue: 0,0:02:36.03,0:02:37.97,Default,Kiriha,0000,0000,0000,,I told them they could have the day off.
+Dialogue: 0,0:02:38.24,0:02:40.43,Default,Koutarou,0000,0000,0000,,Isn't this risky, since they usually hide?
+Dialogue: 0,0:02:40.65,0:02:42.80,Default,Kiriha,0000,0000,0000,,I'm sure no one will notice \Nthem, given our location.
+Dialogue: 0,0:02:43.62,0:02:44.56,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:02:44.97,0:02:46.77,Default,Kiriha,0000,0000,0000,,Koutarou, let's go to the next one.
+Dialogue: 0,0:03:02.78,0:03:04.20,Default,Koutarou,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:03:10.37,0:03:13.08,Invaders-Internal/Narrator,All,0000,0000,0000,,Stare...
+Dialogue: 0,0:03:13.08,0:03:14.21,Invaders-Two_Adults,All,0000,0000,0000,,2 Adults
+Dialogue: 0,0:03:14.87,0:03:16.93,Default,Koutarou,0000,0000,0000,,Are you sure this is what you want to see?
+Dialogue: 0,0:03:16.93,0:03:19.09,Default,Koutarou,0000,0000,0000,,It looks like a movie for kids...
+Dialogue: 0,0:03:19.43,0:03:22.46,Default,Kiriha,0000,0000,0000,,Yeah. I wanted to see this.
+Dialogue: 0,0:03:22.46,0:03:23.61,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:03:23.61,0:03:25.80,Default,Koutarou,0000,0000,0000,,Well, I don't think I mind.
+Dialogue: 0,0:03:31.18,0:03:33.19,Default,Theia,0000,0000,0000,,They went into the theater.
+Dialogue: 0,0:03:33.47,0:03:35.56,Default,Yurika,0000,0000,0000,,It's dark in there.
+Dialogue: 0,0:03:35.56,0:03:37.41,Default,Yurika,0000,0000,0000,,Will Satomi-san and Kiriha-san...
+Dialogue: 0,0:03:37.41,0:03:39.35,Default,Sanae,0000,0000,0000,,You're imagining too much!
+Dialogue: 0,0:03:39.35,0:03:40.14,Default,Sanae,0000,0000,0000,,What now?
+Dialogue: 0,0:03:40.14,0:03:41.07,Default,Sanae,0000,0000,0000,,Should we head in, too?
+Dialogue: 0,0:03:41.34,0:03:43.07,Default,Theia,0000,0000,0000,,No need for that.
+Dialogue: 0,0:03:43.07,0:03:46.37,Default,Theia,0000,0000,0000,,I prepared a surveillance drone \Nspecifically for this situation.
+Dialogue: 0,0:03:46.37,0:03:49.96,Default,Theia,0000,0000,0000,,I'll have Ruth set it so it'll\N notify us when they leave—
+Dialogue: 0,0:03:51.37,0:03:52.73,Default,Theia,0000,0000,0000,,Where's Ruth?
+Dialogue: 0,0:03:52.73,0:03:53.72,Default,Sanae,0000,0000,0000,,That's weird.
+Dialogue: 0,0:03:53.72,0:03:55.02,Default,Sanae,0000,0000,0000,,She was just here.
+Dialogue: 0,0:03:55.02,0:03:56.50,Default,Yurika,0000,0000,0000,,Hey!
+Dialogue: 0,0:03:56.72,0:03:58.88,Default,Yurika,0000,0000,0000,,Look at this!
+Dialogue: 0,0:04:00.24,0:04:02.09,Default,Theia,0000,0000,0000,,Rhinoceros beetles?!
+Dialogue: 0,0:04:03.21,0:04:04.18,Default,Sanae,0000,0000,0000,,This is...
+Dialogue: 0,0:04:04.18,0:04:05.74,Invaders-Beetle_Show,,0000,0000,0000,,"Beetle Warriors: Rhinoceros Man Hero Show"
+Dialogue: 0,0:04:04.39,0:04:06.12,Default,Yurika,0000,0000,0000,,This is terrible!
+Dialogue: 0,0:04:06.12,0:04:08.38,Default,Theia,0000,0000,0000,,A whole bunch of rhinoceros beetles!
+Dialogue: 0,0:04:09.07,0:04:10.85,Default,R,0000,0000,0000,,Whatever evil tries to challenge us,
+Dialogue: 0,0:04:11.44,0:04:14.32,Default,R,0000,0000,0000,,we rhinocerose warriors will fight them!
+Dialogue: 0,0:04:14.32,0:04:16.92,Default,R,0000,0000,0000,,Rhinoceros Man Number One!
+Dialogue: 0,0:04:16.92,0:04:19.51,Default,Atlas,0000,0000,0000,,Rhinoceros Atlas!
+Dialogue: 0,0:04:24.09,0:04:27.57,Default,Ruth,0000,0000,0000,,So this is where you were, Hercules-chan.
+Dialogue: 0,0:04:28.01,0:04:28.69,Default,Dude,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:29.60,0:04:32.79,Default,Ruth,0000,0000,0000,,I've been so worried.
+Dialogue: 0,0:04:32.79,0:04:37.47,Default,Ruth,0000,0000,0000,,I thought you'd been multiplying!
+Dialogue: 0,0:04:39.09,0:04:40.96,Invaders-Internal/Narrator,Shizuka,0000,0000,0000,,Why is Ruth-san here?!
+Dialogue: 0,0:04:42.34,0:04:45.04,Default,Ruth,0000,0000,0000,,Are you one of them, too?!
+Dialogue: 0,0:04:45.04,0:04:47.51,Invaders-Internal/Narrator,Shizuka,0000,0000,0000,,She's going to ruin my part-time pay!
+Dialogue: 0,0:04:47.51,0:04:49.61,Invaders-Internal/Narrator,Shizuka,0000,0000,0000,,I have to deal with her!
+Dialogue: 0,0:04:51.06,0:04:52.85,Default,Shizuka,0000,0000,0000,,Sorry, but I'm taking you down!
+Dialogue: 0,0:04:53.98,0:04:55.52,Default,Ruth,0000,0000,0000,,Rhinoceros Beetle!
+Dialogue: 0,0:04:57.97,0:04:59.61,Default,R,0000,0000,0000,,Wait!
+Dialogue: 0,0:04:59.61,0:05:02.67,Default,Koutarou,0000,0000,0000,,That was pretty good.
+Dialogue: 0,0:05:03.68,0:05:04.84,Default,Kiriha,0000,0000,0000,,I'm glad.
+Dialogue: 0,0:05:04.84,0:05:07.25,Default,Koutarou,0000,0000,0000,,We got a reprint of the old pamphlet, too.
+Dialogue: 0,0:05:07.25,0:05:08.77,Default,Koutarou,0000,0000,0000,,Pretty cool.
+Dialogue: 0,0:05:08.77,0:05:09.42,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:05:12.57,0:05:13.78,Default,Koutarou,0000,0000,0000,,This is...
+Dialogue: 0,0:05:13.78,0:05:14.96,Default,Kiriha,0000,0000,0000,,The same as mine, huh?
+Dialogue: 0,0:05:16.80,0:05:21.42,Invaders-Flashback,Kiriha,0000,0000,0000,,I got this from the person \NI liked a long time ago.
+Dialogue: 0,0:05:22.18,0:05:28.68,Default,Koutarou,0000,0000,0000,,So, you came here with the\N person you liked ten years ago?
+Dialogue: 0,0:05:30.66,0:05:32.52,Default,Kiriha,0000,0000,0000,,Koutarou, let's go on that next.
+Dialogue: 0,0:05:42.25,0:05:43.10,Invaders-Flashback,Koutarou,0000,0000,0000,,Kii-chan!
+Dialogue: 0,0:05:44.28,0:05:44.94,Invaders-Flashback,Kiriha,0000,0000,0000,,There!
+Dialogue: 0,0:05:44.94,0:05:47.39,Invaders-Flashback,Koutarou,0000,0000,0000,,Hey, be more careful.
+Dialogue: 0,0:05:51.07,0:05:51.83,Default,Koutarou,0000,0000,0000,,Kiriha-san.
+Dialogue: 0,0:05:56.19,0:05:56.80,Default,Koutarou,0000,0000,0000,,There.
+Dialogue: 0,0:06:00.09,0:06:02.09,Default,Koutarou,0000,0000,0000,,Hey, be more careful.
+Dialogue: 0,0:06:05.43,0:06:07.87,Default,Koutarou,0000,0000,0000,,You're not a kid.
+Dialogue: 0,0:06:08.76,0:06:09.82,Default,Kiriha,0000,0000,0000,,Sorry.
+Dialogue: 0,0:06:10.30,0:06:13.35,Default,Kiriha,0000,0000,0000,,You're right. I'm not...
+Dialogue: 0,0:06:13.60,0:06:14.47,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:06:16.14,0:06:19.61,Default,Kiriha,0000,0000,0000,,I have to do what I need to do.
+Dialogue: 0,0:06:19.61,0:06:23.07,Default,Kiriha,0000,0000,0000,,Koutarou, there's something \NI want to talk to you about.
+Dialogue: 0,0:06:28.81,0:06:30.40,Default,Kiriha,0000,0000,0000,,It all started ten years ago.
+Dialogue: 0,0:06:31.03,0:06:33.96,Default,Kiriha,0000,0000,0000,,I got into a fight with my \Nfather over something minor,
+Dialogue: 0,0:06:33.96,0:06:35.93,Default,Kiriha,0000,0000,0000,,and ran away from home.
+Dialogue: 0,0:06:36.38,0:06:37.58,Default,Koutarou,0000,0000,0000,,Ran away from home, huh?
+Dialogue: 0,0:06:37.58,0:06:38.71,Default,Koutarou,0000,0000,0000,,Doesn't sound like you.
+Dialogue: 0,0:06:39.46,0:06:42.05,Default,Kiriha,0000,0000,0000,,I was a kid back then, too.
+Dialogue: 0,0:06:42.73,0:06:46.71,Default,Kiriha,0000,0000,0000,,And I'd lost my mother, so \NI guess I was a bit unstable.
+Dialogue: 0,0:06:47.79,0:06:48.92,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:06:49.39,0:06:52.76,Default,Kiriha,0000,0000,0000,,You lost your mother, too, didn't you?
+Dialogue: 0,0:06:58.21,0:07:02.15,Default,Kiriha,0000,0000,0000,,I left home, and headed towards the \Nsurface, which was forbidden to me.
+Dialogue: 0,0:07:02.91,0:07:05.05,Default,Kiriha,0000,0000,0000,,And that's when I met {\i1}him.{\i0}
+Dialogue: 0,0:07:06.75,0:07:09.84,Default,Kiriha,0000,0000,0000,,I don't remember his name, \Nor what he looks like.
+Dialogue: 0,0:07:10.32,0:07:14.95,Default,Kiriha,0000,0000,0000,,What I do remember is that he \Nwas about the same age I am now,
+Dialogue: 0,0:07:14.95,0:07:17.53,Default,Kiriha,0000,0000,0000,,and that I called him "Onii-chan."
+Dialogue: 0,0:07:19.79,0:07:26.55,Default,Kiriha,0000,0000,0000,,The places we went, and the \Nfeelings I had at the time...
+Dialogue: 0,0:07:29.45,0:07:32.46,Default,Koutarou,0000,0000,0000,,So, we went around the park today because...
+Dialogue: 0,0:07:32.46,0:07:35.47,Default,Kiriha,0000,0000,0000,,That's right, because of \Nmy memories with him.
+Dialogue: 0,0:07:36.81,0:07:39.14,Default,Koutarou,0000,0000,0000,,You really liked him, huh?
+Dialogue: 0,0:07:41.21,0:07:44.75,Default,Kiriha,0000,0000,0000,,He was my first and only love.
+Dialogue: 0,0:07:45.95,0:07:48.46,Default,Kiriha,0000,0000,0000,,I was taken right back underground,
+Dialogue: 0,0:07:48.46,0:07:49.65,Default,Kiriha,0000,0000,0000,,and haven't seen him since.
+Dialogue: 0,0:07:50.10,0:07:51.31,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:07:52.65,0:07:55.15,Default,Kiriha,0000,0000,0000,,That's why when it was decided \Nwe'd invade the surface,
+Dialogue: 0,0:07:55.15,0:07:57.07,Default,Kiriha,0000,0000,0000,,I volunteered to be the commander.
+Dialogue: 0,0:07:58.18,0:08:02.12,Default,Koutarou,0000,0000,0000,,Wait, you're invading because you \Nwant to see your first love again?
+Dialogue: 0,0:08:02.12,0:08:06.26,Default,Kiriha,0000,0000,0000,,That's why I needed to \Nrecommend we invade peacefully.
+Dialogue: 0,0:08:06.26,0:08:10.59,Default,Kiriha,0000,0000,0000,,I didn't want to drag this town, \Nwhere I met him, into a war.
+Dialogue: 0,0:08:11.95,0:08:13.32,Default,Koutarou,0000,0000,0000,,But, wait...
+Dialogue: 0,0:08:13.32,0:08:19.77,Default,Koutarou,0000,0000,0000,,You said you wanted Apartment 106\N to mass produce weapons, right?
+Dialogue: 0,0:08:19.77,0:08:22.42,Default,Kiriha,0000,0000,0000,,That was in order to get you to resist.
+Dialogue: 0,0:08:22.42,0:08:22.85,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:23.55,0:08:27.85,Default,Kiriha,0000,0000,0000,,If I had taken Apartment 106 at that moment,
+Dialogue: 0,0:08:27.85,0:08:30.32,Default,Kiriha,0000,0000,0000,,there was a danger things \Nwould have turned into a war.
+Dialogue: 0,0:08:31.60,0:08:35.29,Default,Kiriha,0000,0000,0000,,It would give credit to the radicals \Nthat advocate military action.
+Dialogue: 0,0:08:36.24,0:08:40.80,Default,Kiriha,0000,0000,0000,,But, if I forego the\N invasion of Apartment 106,
+Dialogue: 0,0:08:40.80,0:08:42.83,Default,Kiriha,0000,0000,0000,,that radical faction would \Nprobably take action on their own,
+Dialogue: 0,0:08:43.09,0:08:45.75,Default,Kiriha,0000,0000,0000,,and try to invade the surface.
+Dialogue: 0,0:08:46.44,0:08:51.88,Default,Kiriha,0000,0000,0000,,That's why I can't win or lose\N the fight over Apartment 106.
+Dialogue: 0,0:08:52.54,0:08:55.45,Default,Kiriha,0000,0000,0000,,You have to maintain \Ncontrol over Apartment 106
+Dialogue: 0,0:08:55.45,0:08:59.29,Default,Kiriha,0000,0000,0000,,until I'm able to peacefully \Ntake over this city.
+Dialogue: 0,0:09:00.27,0:09:01.75,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:09:01.75,0:09:03.26,Default,Koutarou,0000,0000,0000,,It finally makes sense.
+Dialogue: 0,0:09:04.06,0:09:07.35,Default,Koutarou,0000,0000,0000,,You really are too kind to invade.
+Dialogue: 0,0:09:09.22,0:09:11.10,Default,Kiriha,0000,0000,0000,,Guess I couldn't keep it hidden.
+Dialogue: 0,0:09:11.79,0:09:14.54,Default,Koutarou,0000,0000,0000,,Anyway, if you would have \Njust told me earlier,
+Dialogue: 0,0:09:14.54,0:09:16.33,Default,Koutarou,0000,0000,0000,,I would have helped you out.
+Dialogue: 0,0:09:16.88,0:09:17.91,Default,Kiriha,0000,0000,0000,,I see...
+Dialogue: 0,0:09:19.35,0:09:21.10,Default,Kiriha,0000,0000,0000,,I'm sorry, Koutarou.
+Dialogue: 0,0:09:21.10,0:09:24.08,Default,Kiriha,0000,0000,0000,,I was deceiving you purely for my own gain.
+Dialogue: 0,0:09:25.10,0:09:26.51,Default,Koutarou,0000,0000,0000,,It's fine.
+Dialogue: 0,0:09:26.94,0:09:29.50,Default,Koutarou,0000,0000,0000,,But, you know, I guess I feel a little bad.
+Dialogue: 0,0:09:32.01,0:09:37.09,Default,Koutarou,0000,0000,0000,,I think any guy would have fallen for you \Nif you were hitting on them seriously.
+Dialogue: 0,0:09:40.65,0:09:41.79,Default,Kiriha,0000,0000,0000,,Koutarou...
+Dialogue: 0,0:09:41.79,0:09:43.80,Default,Kiriha,0000,0000,0000,,You really are a guy, after all.
+Dialogue: 0,0:09:45.69,0:09:48.61,Default,Koutarou,0000,0000,0000,,I'm a young guy, it's only natural!
+Dialogue: 0,0:09:49.56,0:09:54.94,Default,Kiriha,0000,0000,0000,,If you actually meant what you were \Nsaying, I think any girl would be happy.
+Dialogue: 0,0:09:58.70,0:09:59.82,Default,Theia,0000,0000,0000,,Ruth...
+Dialogue: 0,0:09:59.82,0:10:01.11,Default,Theia,0000,0000,0000,,Ruth.
+Dialogue: 0,0:10:01.11,0:10:01.99,Default,Theia,0000,0000,0000,,Ruth!
+Dialogue: 0,0:10:05.62,0:10:06.89,Default,Ruth,0000,0000,0000,,Your Highness...
+Dialogue: 0,0:10:06.89,0:10:08.39,Default,Ruth,0000,0000,0000,,Everyone...
+Dialogue: 0,0:10:08.39,0:10:10.40,Default,Ruth,0000,0000,0000,,What happened to me?
+Dialogue: 0,0:10:10.40,0:10:12.41,Default,Theia,0000,0000,0000,,You don't remember?
+Dialogue: 0,0:10:12.94,0:10:14.71,Default,Ruth,0000,0000,0000,,Did something happen?
+Dialogue: 0,0:10:14.71,0:10:15.97,Default,Ruth,0000,0000,0000,,No, nothing.
+Dialogue: 0,0:10:15.97,0:10:18.68,Default,Ruth,0000,0000,0000,,Nothing! Yeah, nothing, don't worry about it!
+Dialogue: 0,0:10:18.91,0:10:20.69,Default,Yurika,0000,0000,0000,,It was terrible.
+Dialogue: 0,0:10:20.69,0:10:22.59,Default,Yurika,0000,0000,0000,,You were using a fly swatter \Nto get some rhino—
+Dialogue: 0,0:10:22.59,0:10:25.89,Default,Shizuka,0000,0000,0000,,Well, all of our guests had\N a great time, so no problem.
+Dialogue: 0,0:10:26.19,0:10:27.72,Default,Theia,0000,0000,0000,,Yeah, no problem!
+Dialogue: 0,0:10:27.72,0:10:28.85,Default,Ruth,0000,0000,0000,,Right.
+Dialogue: 0,0:10:35.43,0:10:36.69,Default,Koutarou,0000,0000,0000,,This next?
+Dialogue: 0,0:10:37.29,0:10:40.55,Default,Koutarou,0000,0000,0000,,Doesn't seem like your kind of thing.
+Dialogue: 0,0:10:40.55,0:10:42.91,Default,Koutarou,0000,0000,0000,,Or maybe it is, huh?
+Dialogue: 0,0:10:43.29,0:10:45.52,Default,Kiriha,0000,0000,0000,,You're making it sound like \NI'm some sort of tomboy.
+Dialogue: 0,0:10:45.52,0:10:47.26,Default,Kiriha,0000,0000,0000,,I don't think I like the sound of that.
+Dialogue: 0,0:10:47.26,0:10:49.12,Default,Koutarou,0000,0000,0000,,Yeah, that's what I meant.
+Dialogue: 0,0:10:49.83,0:10:51.83,Default,Koutarou,0000,0000,0000,,You rode this with that guy, too?
+Dialogue: 0,0:10:52.46,0:10:53.37,Default,Kiriha,0000,0000,0000,,No.
+Dialogue: 0,0:10:54.80,0:10:58.76,Invaders-Tall_Sign,Kiriha,0000,0000,0000,,You must be as tall\N as this sign to ride
+Dialogue: 0,0:10:55.13,0:10:56.94,Default,Kiriha,0000,0000,0000,,I couldn't because of that.
+Dialogue: 0,0:10:59.90,0:11:02.37,Default,Kiriha,0000,0000,0000,,I've always wanted to ride it.
+Dialogue: 0,0:11:02.37,0:11:04.72,Default,Kiriha,0000,0000,0000,,Today is the day that dream comes true.
+Dialogue: 0,0:11:04.72,0:11:06.42,Default,Koutarou,0000,0000,0000,,Dream, huh?
+Dialogue: 0,0:11:06.42,0:11:08.26,Default,Koutarou,0000,0000,0000,,Yeah, but Kiriha-san...
+Dialogue: 0,0:11:08.26,0:11:08.93,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:09.93,0:11:10.86,Default,Koutarou,0000,0000,0000,,An earthquake?
+Dialogue: 0,0:11:14.49,0:11:15.86,Default,Yurika,0000,0000,0000,,What's going on?
+Dialogue: 0,0:11:16.17,0:11:17.32,Default,Kiriha,0000,0000,0000,,It couldn't be...
+Dialogue: 0,0:11:21.39,0:11:22.38,Default,Sanae,0000,0000,0000,,What's that?
+Dialogue: 0,0:11:32.91,0:11:34.51,Default,Koutarou,0000,0000,0000,,W-What?
+Dialogue: 0,0:11:34.51,0:11:37.38,Default,Kiriha,0000,0000,0000,,It's a subterranean submarine\N of the earth people.
+Dialogue: 0,0:11:48.96,0:11:51.48,Default,Kiriha,0000,0000,0000,,I knew it'd be you, Tayuma Shijima!
+Dialogue: 0,0:11:59.15,0:12:01.40,Default,Kiriha,0000,0000,0000,,Tayuma, what are you trying to pull here?!
+Dialogue: 0,0:12:01.75,0:12:03.84,Default,Tayuma,0000,0000,0000,,Oh, Commander.
+Dialogue: 0,0:12:03.84,0:12:08.41,Default,Tayuma,0000,0000,0000,,I'm here to regain the glory and honor of the earth people,
+Dialogue: 0,0:12:08.86,0:12:12.41,Default,Tayuma,0000,0000,0000,,instead of the inept \Nleadership of Kiriha Kurano!
+Dialogue: 0,0:12:12.78,0:12:14.75,Default,Kiriha,0000,0000,0000,,Withdraw your soldiers, Tayuma.
+Dialogue: 0,0:12:14.75,0:12:18.14,Default,Kiriha,0000,0000,0000,,I'll forgive the fact you brought \Na subterranean submarine.
+Dialogue: 0,0:12:18.14,0:12:20.73,Default,Tayuma,0000,0000,0000,,I'm afraid I will be unable to do that.
+Dialogue: 0,0:12:21.65,0:12:22.43,Default,Koutarou,0000,0000,0000,,Kiriha-san!
+Dialogue: 0,0:12:22.43,0:12:24.02,Default,Kiriha,0000,0000,0000,,I'm fine, Koutarou!
+Dialogue: 0,0:12:24.02,0:12:25.05,Default,Kiriha,0000,0000,0000,,Stand back.
+Dialogue: 0,0:12:26.93,0:12:28.41,Default,Theia,0000,0000,0000,,Who are these guys?
+Dialogue: 0,0:12:28.41,0:12:30.06,Default,Sanae,0000,0000,0000,,They have guns!
+Dialogue: 0,0:12:30.06,0:12:32.48,Default,Ruth,0000,0000,0000,,From the situation, I'd imagine \Nthey're with Kiriha...
+Dialogue: 0,0:12:32.69,0:12:35.35,Default,Shizuka,0000,0000,0000,,They don't seem to be \Non the same side, though...
+Dialogue: 0,0:12:35.71,0:12:37.85,Default,Theia,0000,0000,0000,,That Koutarou...
+Dialogue: 0,0:12:37.85,0:12:40.32,Default,Theia,0000,0000,0000,,Always getting tied up in something annoying.
+Dialogue: 0,0:12:40.62,0:12:41.73,Default,Ruth,0000,0000,0000,,Your Highness!
+Dialogue: 0,0:12:41.73,0:12:43.24,Default,Shizuka,0000,0000,0000,,I'll go, too!
+Dialogue: 0,0:12:43.71,0:12:45.32,Default,Sanae,0000,0000,0000,,Huh? Where's Yurika?
+Dialogue: 0,0:12:45.80,0:12:46.76,Default,Yurika,0000,0000,0000,,Whatever.
+Dialogue: 0,0:12:54.33,0:12:57.54,Default,Yurika,0000,0000,0000,,I'm a magical girl of love and justice.
+Dialogue: 0,0:12:57.54,0:13:00.01,Default,Yurika,0000,0000,0000,,It's my job to protect everyone.
+Dialogue: 0,0:13:01.01,0:13:02.63,Default,Yurika,0000,0000,0000,,First I need to use my magic to \Nget people to stay away.
+Dialogue: 0,0:13:08.05,0:13:11.31,Default,Kiriha,0000,0000,0000,,Tayuma, do you understand what will \Nhappen if you point your weapons at me?
+Dialogue: 0,0:13:11.54,0:13:18.34,Default,Tayuma,0000,0000,0000,,Of course, I plan on telling Chief Daiha you \Nwere betrayed and killed by a surface-dweller.
+Dialogue: 0,0:13:18.34,0:13:21.74,Default,Tayuma,0000,0000,0000,,That will get our citizens \Nriled up for the invasion.
+Dialogue: 0,0:13:22.57,0:13:24.61,Default,Kiriha,0000,0000,0000,,So, you'd even use my death...
+Dialogue: 0,0:13:24.97,0:13:28.11,Default,Tayuma,0000,0000,0000,,You're going to die for \Nthe glory of the earth people.
+Dialogue: 0,0:13:28.11,0:13:29.90,Default,Tayuma,0000,0000,0000,,You should be honored.
+Dialogue: 0,0:13:29.90,0:13:31.03,Default,Tayuma,0000,0000,0000,,Fire!
+Dialogue: 0,0:13:31.30,0:13:32.25,Default,Koutarou,0000,0000,0000,,Kiriha-san!
+Dialogue: 0,0:13:35.31,0:13:37.29,Default,Karama,0000,0000,0000,,Sis, sorry we're late!
+Dialogue: 0,0:13:38.61,0:13:41.03,Default,Kiriha,0000,0000,0000,,Karama, Korama, disable their guns!
+Dialogue: 0,0:13:41.03,0:13:42.87,Default,Karama,0000,0000,0000,,Roger!
+Dialogue: 0,0:13:42.87,0:13:44.57,Default,Both,0000,0000,0000,,Shock, shock!
+Dialogue: 0,0:13:47.39,0:13:50.27,Default,Tayuma,0000,0000,0000,,The Kurano family's prized \Nautomated dolls, huh?
+Dialogue: 0,0:13:50.27,0:13:51.94,Default,Tayuma,0000,0000,0000,,But I have something, too!
+Dialogue: 0,0:13:51.94,0:13:54.10,Default,Tayuma,0000,0000,0000,,Come to me, Jack-o!
+Dialogue: 0,0:14:03.69,0:14:05.19,Default,Koutarou,0000,0000,0000,,What now?!
+Dialogue: 0,0:14:05.19,0:14:06.78,Default,Kiriha,0000,0000,0000,,It's an Shijima family earth combat doll!
+Dialogue: 0,0:14:13.17,0:14:15.28,Default,Karama,0000,0000,0000,,We're not losing to some earth doll!
+Dialogue: 0,0:14:15.28,0:14:18.37,Default,Korama,0000,0000,0000,,We're not real haniwa dolls if we lose!
+Dialogue: 0,0:14:19.71,0:14:22.47,Default,Kiriha,0000,0000,0000,,Tayuma, do you wish for war no matter what?
+Dialogue: 0,0:14:22.47,0:14:23.46,Default,Kiriha,0000,0000,0000,,There's a more peaceful—
+Dialogue: 0,0:14:23.83,0:14:26.88,Default,Tayuma,0000,0000,0000,,A peaceful takeover is a joke!
+Dialogue: 0,0:14:26.88,0:14:29.02,Default,Tayuma,0000,0000,0000,,You've forgotten the greatness of the earth people,
+Dialogue: 0,0:14:29.02,0:14:30.55,Default,Tayuma,0000,0000,0000,,and cozied up to the surface-dwellers!
+Dialogue: 0,0:14:31.05,0:14:31.76,Default,Kiriha,0000,0000,0000,,That's not—
+Dialogue: 0,0:14:34.50,0:14:36.27,Default,Tayuma,0000,0000,0000,,That's proof enough!
+Dialogue: 0,0:14:36.27,0:14:40.72,Default,Tayuma,0000,0000,0000,,I know you're obsessed \Nwith that lump of metal!
+Dialogue: 0,0:14:42.48,0:14:43.92,Default,Tayuma,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:43.92,0:14:48.60,Default,Tayuma,0000,0000,0000,,I'll destroy that first, and \Nmake it your gravestone.
+Dialogue: 0,0:14:48.60,0:14:49.82,Default,Tayuma,0000,0000,0000,,Jack-o!
+Dialogue: 0,0:14:50.20,0:14:52.41,Default,Tayuma,0000,0000,0000,,Erase everything!
+Dialogue: 0,0:14:52.72,0:14:54.44,Default,Koutarou,0000,0000,0000,,That's enough!
+Dialogue: 0,0:14:58.83,0:15:02.83,Default,Koutarou,0000,0000,0000,,This is a place for everyone \Nto make memories!
+Dialogue: 0,0:15:03.35,0:15:04.92,Default,Tayuma,0000,0000,0000,,And what about it?!
+Dialogue: 0,0:15:05.17,0:15:09.42,Default,Koutarou,0000,0000,0000,,You won't be able to invade the \Nsurface if you don't understand that!
+Dialogue: 0,0:15:10.09,0:15:11.85,Default,Koutarou,0000,0000,0000,,Kiriha-san understands.
+Dialogue: 0,0:15:11.85,0:15:15.06,Default,Koutarou,0000,0000,0000,,That's why she's trying to merge \Nwith the surface and this town.
+Dialogue: 0,0:15:15.52,0:15:18.06,Default,Koutarou,0000,0000,0000,,It's not about weapons, but hearts and minds!
+Dialogue: 0,0:15:18.87,0:15:20.31,Default,Kiriha,0000,0000,0000,,Koutarou...
+Dialogue: 0,0:15:20.31,0:15:22.22,Default,Koutarou,0000,0000,0000,,You're—
+Dialogue: 0,0:15:27.01,0:15:27.94,Default,Kiriha,0000,0000,0000,,Koutarou!
+Dialogue: 0,0:15:28.89,0:15:31.18,Default,Tayuma,0000,0000,0000,,Why are you concerned \Nwith a surface-dweller?!
+Dialogue: 0,0:15:33.21,0:15:34.78,Default,Tayuma,0000,0000,0000,,Jack-o, do it!
+Dialogue: 0,0:15:43.37,0:15:44.92,Default,Koutarou,0000,0000,0000,,Great work, Theia!
+Dialogue: 0,0:15:45.51,0:15:48.38,Default,Theia,0000,0000,0000,,You're supposed to say, "You \Nsaved me, Your Highness!"
+Dialogue: 0,0:15:53.34,0:15:54.24,Default,Theia,0000,0000,0000,,Ruth!
+Dialogue: 0,0:15:54.75,0:15:56.01,Default,Ruth,0000,0000,0000,,Right, Your Highness!
+Dialogue: 0,0:16:01.02,0:16:02.56,Default,Koutarou,0000,0000,0000,,Perfect, Ruth-san!
+Dialogue: 0,0:16:04.93,0:16:08.40,Default,Theia,0000,0000,0000,,How come you didn't act like that with me?!
+Dialogue: 0,0:16:14.85,0:16:15.70,Default,Sanae,0000,0000,0000,,Take that!
+Dialogue: 0,0:16:15.91,0:16:19.70,Default,Shizuka,0000,0000,0000,,You guys really shouldn't try\N to lay your hands on my tenants.
+Dialogue: 0,0:16:20.00,0:16:21.89,Default,Theia,0000,0000,0000,,Take this, Koutarou!
+Dialogue: 0,0:16:21.89,0:16:23.29,Default,Theia,0000,0000,0000,,My Knight,
+Dialogue: 0,0:16:23.29,0:16:24.94,Default,Theia,0000,0000,0000,,here's your sword!
+Dialogue: 0,0:16:31.61,0:16:32.80,Default,Koutarou,0000,0000,0000,,Thank you, Theia!
+Dialogue: 0,0:16:33.44,0:16:34.76,Default,Theia,0000,0000,0000,,No need to thank me.
+Dialogue: 0,0:16:37.87,0:16:39.65,Default,Tayuma,0000,0000,0000,,Who are you guys?
+Dialogue: 0,0:16:39.65,0:16:42.08,Default,Koutarou,0000,0000,0000,,My invaders and landlord!
+Dialogue: 0,0:16:42.08,0:16:45.51,Default,Kiriha,0000,0000,0000,,Tayuma, this is the invasion I desire.
+Dialogue: 0,0:16:45.51,0:16:47.98,Default,Kiriha,0000,0000,0000,,Leave this to me, and return underground.
+Dialogue: 0,0:16:49.15,0:16:51.44,Default,Tayuma,0000,0000,0000,,And I'm saying that's not enough!
+Dialogue: 0,0:16:51.44,0:16:52.54,Default,Tayuma,0000,0000,0000,,Jack-o!
+Dialogue: 0,0:16:52.54,0:16:54.73,Default,Tayuma,0000,0000,0000,,Second Form!
+Dialogue: 0,0:17:05.15,0:17:06.76,Default,Kiriha,0000,0000,0000,,You want to fight to the end?
+Dialogue: 0,0:17:07.43,0:17:08.08,Default,Kiriha,0000,0000,0000,,In that case...
+Dialogue: 0,0:17:09.09,0:17:10.64,Default,Kiriha,0000,0000,0000,,Karama! Korama!
+Dialogue: 0,0:17:10.64,0:17:12.01,Default,Karama,0000,0000,0000,,Right!
+Dialogue: 0,0:17:12.01,0:17:14.13,Default,Korama,0000,0000,0000,,I thought this might happen!
+Dialogue: 0,0:17:18.55,0:17:20.33,Default,Tayuma,0000,0000,0000,,I'm not going to hold back.
+Dialogue: 0,0:17:20.33,0:17:22.75,Default,Koutarou,0000,0000,0000,,Kiriha-san, we're going to help, too.
+Dialogue: 0,0:17:22.75,0:17:23.89,Default,Kiriha,0000,0000,0000,,Right. Thanks!
+Dialogue: 0,0:17:24.28,0:17:26.19,Default,Koutarou,0000,0000,0000,,Here I go!
+Dialogue: 0,0:17:33.76,0:17:34.73,Default,Sanae,0000,0000,0000,,Take that!
+Dialogue: 0,0:17:34.73,0:17:36.71,Default,Sanae,0000,0000,0000,,And that, and that!
+Dialogue: 0,0:17:41.60,0:17:43.22,Default,Theia,0000,0000,0000,,You look like you're standing still!
+Dialogue: 0,0:17:51.72,0:17:52.62,Default,Theia,0000,0000,0000,,Blue Knight.
+Dialogue: 0,0:18:00.64,0:18:02.79,Default,Theia,0000,0000,0000,,T-That's not good!
+Dialogue: 0,0:18:09.55,0:18:11.17,Default,Koutarou,0000,0000,0000,,Let's end this.
+Dialogue: 0,0:18:11.17,0:18:12.54,Default,Tayuma,0000,0000,0000,,Damn it...
+Dialogue: 0,0:18:16.84,0:18:18.01,Default,Koutarou,0000,0000,0000,,How underhanded...
+Dialogue: 0,0:18:18.69,0:18:20.82,Default,Sanae,0000,0000,0000,,Koutarou, I'll be your eyes.
+Dialogue: 0,0:18:24.27,0:18:26.32,Default,Sanae,0000,0000,0000,,You can praise me later!
+Dialogue: 0,0:18:26.32,0:18:27.08,Default,Koutarou,0000,0000,0000,,No problem!
+Dialogue: 0,0:18:34.35,0:18:36.83,Default,Koutarou,0000,0000,0000,,Right there!
+Dialogue: 0,0:18:42.29,0:18:44.12,Default,Tayuma,0000,0000,0000,,Damn you...
+Dialogue: 0,0:18:44.12,0:18:47.30,Default,Kiriha,0000,0000,0000,,You still plan to fight, Tayuma?
+Dialogue: 0,0:18:47.99,0:18:50.35,Default,Tayuma,0000,0000,0000,,If I could have sacrificed you,
+Dialogue: 0,0:18:50.35,0:18:52.88,Default,Tayuma,0000,0000,0000,,the people of the earth \Nwould have chosen fighting.
+Dialogue: 0,0:18:52.88,0:18:54.51,Default,Tayuma,0000,0000,0000,,That's what I thought.
+Dialogue: 0,0:18:55.23,0:18:58.70,Default,Tayuma,0000,0000,0000,,But, the sacrifice didn't have to be you!
+Dialogue: 0,0:18:59.49,0:19:00.38,Default,Kiriha,0000,0000,0000,,It can't be!
+Dialogue: 0,0:19:01.50,0:19:02.80,Default,Koutarou,0000,0000,0000,,What is it?!
+Dialogue: 0,0:19:02.80,0:19:03.74,Default,Kiriha,0000,0000,0000,,He's trying to self-destruct!
+Dialogue: 0,0:19:04.37,0:19:05.59,Default,Kiriha,0000,0000,0000,,Karama, Korama!
+Dialogue: 0,0:19:05.59,0:19:07.48,Default,Kiriha,0000,0000,0000,,Create an etheric field at maximum power!
+Dialogue: 0,0:19:07.48,0:19:09.05,Default,Kiriha,0000,0000,0000,,I don't care if you burn out your circuits!
+Dialogue: 0,0:19:09.05,0:19:10.45,Default,Both,0000,0000,0000,,Right!
+Dialogue: 0,0:19:10.45,0:19:11.93,Default,Tayuma,0000,0000,0000,,Too late!
+Dialogue: 0,0:19:30.62,0:19:34.33,Default,Yurika,0000,0000,0000,,I wonder if my magic made it in time...
+Dialogue: 0,0:19:37.03,0:19:38.52,Default,Tayuma,0000,0000,0000,,No way...
+Dialogue: 0,0:19:38.52,0:19:41.31,Default,Tayuma,0000,0000,0000,,How could you defend against \Nan explosion that big...
+Dialogue: 0,0:19:42.99,0:19:47.04,Default,Kiriha,0000,0000,0000,,It seems like the goddess of \Ncreation isn't on your side.
+Dialogue: 0,0:19:47.29,0:19:50.39,Default,Tayuma,0000,0000,0000,,I'm going to start a war...
+Dialogue: 0,0:19:51.69,0:19:55.79,Default,Tayuma,0000,0000,0000,,I'm going to become a hero!
+Dialogue: 0,0:20:03.39,0:20:06.60,Default,Kiriha,0000,0000,0000,,I don't like hurting people.
+Dialogue: 0,0:20:06.60,0:20:11.86,Default,Kiriha,0000,0000,0000,,However, I'll take up arms to \Nprotect those I care about.
+Dialogue: 0,0:20:12.77,0:20:14.73,Default,Kiriha,0000,0000,0000,,Goddess, forgive me.
+Dialogue: 0,0:20:22.46,0:20:24.30,Default,Koutarou,0000,0000,0000,,What are we going to do about this?
+Dialogue: 0,0:20:24.30,0:20:27.42,Default,Kiriha,0000,0000,0000,,I'm sure the government will \Nmanipulate the information for us.
+Dialogue: 0,0:20:27.42,0:20:30.61,Default,Kiriha,0000,0000,0000,,They'll say the ground suddenly \Nfell in, or something.
+Dialogue: 0,0:20:30.61,0:20:31.87,Default,Koutarou,0000,0000,0000,,They will?
+Dialogue: 0,0:20:32.70,0:20:37.71,Default,Kiriha,0000,0000,0000,,They want to hide certain things, \Neven if they know we exist.
+Dialogue: 0,0:20:38.53,0:20:41.21,Default,Koutarou,0000,0000,0000,,Guess we'll have to go on that \Nroller coaster another time.
+Dialogue: 0,0:20:41.87,0:20:42.75,Default,Kiriha,0000,0000,0000,,Koutarou...
+Dialogue: 0,0:20:43.22,0:20:46.22,Default,Kiriha,0000,0000,0000,,Will you go on a ride with me another time?
+Dialogue: 0,0:20:48.12,0:20:48.72,Default,Koutarou,0000,0000,0000,,No.
+Dialogue: 0,0:20:50.49,0:20:55.10,Default,Koutarou,0000,0000,0000,,I think you should go on that roller \Ncoaster with your first love.
+Dialogue: 0,0:20:55.40,0:20:56.68,Default,Kiriha,0000,0000,0000,,Koutarou...
+Dialogue: 0,0:20:57.09,0:20:59.79,Default,Koutarou,0000,0000,0000,,If you really did come up \Nto the surface just to see him,
+Dialogue: 0,0:21:00.38,0:21:02.64,Default,Koutarou,0000,0000,0000,,then we should find him!
+Dialogue: 0,0:21:02.64,0:21:04.17,Default,Koutarou,0000,0000,0000,,I'll help you out, too.
+Dialogue: 0,0:21:05.11,0:21:08.62,Default,Kiriha,0000,0000,0000,,Thank you, but you don't \Nhave to do that for me.
+Dialogue: 0,0:21:11.25,0:21:13.22,Default,Koutarou,0000,0000,0000,,It's not about me "having to".
+Dialogue: 0,0:21:13.22,0:21:14.08,Default,Koutarou,0000,0000,0000,,We're friends, right?
+Dialogue: 0,0:21:18.43,0:21:19.55,Default,Koutarou,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:21:19.55,0:21:20.41,Default,Kiriha,0000,0000,0000,,Nothing.
+Dialogue: 0,0:21:21.09,0:21:22.47,Default,Kiriha,0000,0000,0000,,Koutarou Satomi,
+Dialogue: 0,0:21:23.09,0:21:27.39,Default,Kiriha,0000,0000,0000,,you're my best and only friend on the surface.
+Dialogue: 0,0:22:59.37,0:23:04.36,Invaders-Internal/Narrator,Roppongi,0000,0000,0000,,I'm telling you earth people \Nare really here this time!
+Dialogue: 0,0:23:04.72,0:23:07.44,Default,Kenichi,0000,0000,0000,,Come on guys. Let's go.
+Dialogue: 0,0:23:07.44,0:23:11.15,Default,Daisaku,0000,0000,0000,,We still haven't gotten our\N different colored suits, though.
+Dialogue: 0,0:23:11.15,0:23:14.37,Default,Hayato,0000,0000,0000,,We still haven't resolved \Nme wanting to be red.
+Dialogue: 0,0:23:14.37,0:23:18.02,Default,Kotarou,0000,0000,0000,,Huh? There's no signature from the \Nearth people anymore, is there?
+Dialogue: 0,0:23:18.73,0:23:21.80,Default,Megumi,0000,0000,0000,,I want to see Lord Baron Devil again!
+Dialogue: 0,0:23:23.21,0:23:24.34,Default,Roppongi,0000,0000,0000,,Whatever.
+Dialogue: 0,0:23:26.94,0:23:28.70,Default,Harumi,0000,0000,0000,,It's almost Christmas.
+Dialogue: 0,0:23:28.70,0:23:31.38,Default,Harumi,0000,0000,0000,,I wonder what I should get Satomi-kun.
+Dialogue: 0,0:23:31.38,0:23:33.61,Default,CP,0000,0000,0000,,Wait a second!
+Dialogue: 0,0:23:33.61,0:23:37.79,Default,CP,0000,0000,0000,,I'm going to have you do all sorts of stuff \Nat the big event at the end of this year!
+Dialogue: 0,0:23:37.58,0:23:40.98,Invaders-Next_Episode,Harumi,0000,0000,0000,,Next Episode: Invasion Going Well?!
+Dialogue: 0,0:23:38.62,0:23:40.57,Default,CP,0000,0000,0000,,I'm not going to wear that!
+Dialogue: 0,0:23:39.75,0:23:40.50,Invaders-Overlap,Harumi,0000,0000,0000,,Huh?

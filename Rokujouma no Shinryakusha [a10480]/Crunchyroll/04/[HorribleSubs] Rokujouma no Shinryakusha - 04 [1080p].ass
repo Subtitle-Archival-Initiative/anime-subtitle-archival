@@ -1,0 +1,480 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Invaders-Overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Internal/Narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback_Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Invaders-Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,20,0
+Style: Invaders-Title,Open Sans Semibold,48,&H00B3ECDF,&H000000FF,&H00733B28,&H001A100D,1,0,0,0,100,100,0,0,1,3,0,8,13,13,13,1
+Style: Invaders-Corona_Convention,Open Sans Semibold,33,&H005A5A5A,&H000000FF,&H00F9F9F9,&H00B69361,0,0,0,0,100,100,0,0,1,2,0,8,13,13,93,1
+Style: Invaders-Corona_Convention2,Open Sans Semibold,42,&H005A5A5A,&H000000FF,&H00F9F9F9,&H00B69361,0,0,0,0,100,100,0,0,1,2,0,8,13,13,53,1
+Style: Invaders-Approved,Open Sans Semibold,45,&H004933D6,&H000000FF,&H00F9F8FB,&H00B69361,1,0,0,0,100,100,0,0,1,3,0,2,13,13,20,1
+Style: Invaders-Ep_Title,Open Sans Semibold,36,&H00EFD1C3,&H000000FF,&H008E218B,&H008E218B,1,0,0,0,100,100,0,0,1,2,1,9,13,60,53,1
+Style: Invaders-Next_Episode,Open Sans Semibold,36,&H00FFF8DE,&H000000FF,&H00AFA54D,&H00AFA54D,1,0,0,0,100,100,0,0,1,2,1,7,80,13,40,1
+Style: Invaders-Lottery_Drawing_Right,Open Sans Semibold,30,&H004466E2,&H000000FF,&H0066FDFF,&H00864ED5,0,0,0,0,100,100,0,0,1,2,0,9,13,67,107,1
+Style: Invaders-Lottery_Drawing_Left,Open Sans Semibold,30,&H004466E2,&H000000FF,&H0066FDFF,&H00864ED5,0,0,0,0,100,100,0,0,1,2,0,7,133,13,187,1
+Style: Invaders-Tsuzure-ya,Open Sans Semibold,30,&H00608088,&H000000FF,&H00343542,&H00864ED5,0,0,0,0,100,100,0,0,1,2,0,8,133,13,53,1
+Style: Invaders-Tsuzure-ya_Sign,Open Sans Semibold,42,&H00272622,&H000000FF,&H005B5E55,&H00864ED5,1,0,0,0,100,100,0,0,1,2,0,2,13,13,53,1
+Style: Invaders-Other_Items,Open Sans Semibold,27,&H0020262D,&H000000FF,&H0090949C,&H00864ED5,0,0,0,0,100,100,0,0,1,2,0,9,13,213,40,1
+Style: Invaders-Yurika_Suit,Open Sans Semibold,30,&H00605A57,&H000000FF,&H00E9E7E1,&H00864ED5,0,0,0,0,100,100,0,0,1,2,0,5,13,13,13,1
+Style: Invaders-Jerk_Sand,Open Sans Semibold,45,&H00A8C7D7,&H000000FF,&H00E8F5FF,&H00A3BFCA,1,0,0,0,100,100,0,0,1,2,1,8,200,13,133,1
+Style: Invaders-Yurika_Suit2,Open Sans Semibold,35,&H0044403E,&H000000FF,&H00F3F0EC,&H00864ED5,1,0,0,0,100,100,0,0,1,2,0,8,13,13,20,1
+Style: Invaders-Hot_Springs_Gods,Open Sans Semibold,42,&H0012191E,&H000000FF,&H00353E59,&H00864ED5,1,0,0,0,100,100,0,0,1,2,0,2,67,13,200,1
+Style: Invaders-Men,Open Sans Semibold,42,&H00EED1D0,&H000000FF,&H00653E3E,&H00864ED5,1,0,0,0,100,100,0,0,1,3,0,4,107,13,200,1
+Style: Invaders-Women,Open Sans Semibold,42,&H00D3C7DE,&H000000FF,&H003D3357,&H00864ED5,1,0,0,0,100,100,0,0,1,3,0,6,13,13,13,1
+Style: Invaders-Hiyashi_Chuka,Open Sans Semibold,30,&H007D6BBB,&H000000FF,&H00D6DCDF,&H00864ED5,1,0,0,0,100,100,0,0,1,2,0,9,13,213,213,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.59,0:00:06.73,Default,Ruth,0000,0000,0000,,Here I go.
+Dialogue: 0,0:00:07.71,0:00:09.12,Default,Shizuka,0000,0000,0000,,You can do it, Ruth-san.
+Dialogue: 0,0:00:09.12,0:00:09.90,Default,Ruth,0000,0000,0000,,Right.
+Dialogue: 0,0:00:11.36,0:00:12.86,Invaders-Lottery_Drawing_Right,,0000,0000,0000,,Lottery Drawing
+Dialogue: 0,0:00:11.36,0:00:12.86,Invaders-Lottery_Drawing_Left,,0000,0000,0000,,Lottery Drawing
+Dialogue: 0,0:00:14.20,0:00:15.40,Invaders-Lottery_Drawing_Right,,0000,0000,0000,,Lottery Drawing
+Dialogue: 0,0:00:14.20,0:00:15.40,Invaders-Lottery_Drawing_Left,,0000,0000,0000,,Lottery Drawing
+Dialogue: 0,0:00:23.54,0:00:25.41,Default,R,0000,0000,0000,,Congratulations!
+Dialogue: 0,0:00:25.41,0:00:27.33,Default,R,0000,0000,0000,,You win the grand prize.
+Dialogue: 0,0:00:27.33,0:00:30.06,Default,R,0000,0000,0000,,You get to enjoy a seaside resort and a hot springs!
+Dialogue: 0,0:00:27.33,0:00:32.29,Invaders-Tsuzure-ya,,0000,0000,0000,,Tsuzure-Ya
+Dialogue: 0,0:00:30.06,0:00:32.30,Default,R,0000,0000,0000,,A voucher for a well-established inn!
+Dialogue: 0,0:00:46.85,0:00:55.19,Invaders-Title,,0000,0000,0000,,Invaders of the Rokujyouma!?
+Dialogue: 0,0:02:00.22,0:02:05.00,Invaders-Corona_Convention2,,0000,0000,0000,,Corona Convention
+Dialogue: 0,0:02:01.93,0:02:05.00,Invaders-Approved,,0000,0000,0000,,Approved
+Dialogue: 0,0:02:05.29,0:02:08.21,Invaders-Ep_Title,,0000,0000,0000,,Swimming and Plots?!
+Dialogue: 0,0:02:06.43,0:02:08.39,Default,Theia,0000,0000,0000,,We get to go to a hot spring together?!
+Dialogue: 0,0:02:08.39,0:02:11.84,Default,Ruth,0000,0000,0000,,Yes, we can take six people in total.
+Dialogue: 0,0:02:11.84,0:02:13.89,Default,Ruth,0000,0000,0000,,It also sounds like\N we can visit the ocean.
+Dialogue: 0,0:02:13.89,0:02:16.24,Default,Ruth,0000,0000,0000,,What do you think about inviting everyone?
+Dialogue: 0,0:02:16.59,0:02:17.55,Default,Theia,0000,0000,0000,,But...
+Dialogue: 0,0:02:18.71,0:02:20.45,Default,Theia,0000,0000,0000,,I'm not sure about these people...
+Dialogue: 0,0:02:20.45,0:02:21.71,Default,Ruth,0000,0000,0000,,Your Highness,
+Dialogue: 0,0:02:21.71,0:02:24.91,Default,Ruth,0000,0000,0000,,I think it's sometimes best to \Nforget your daily struggles
+Dialogue: 0,0:02:24.91,0:02:26.49,Default,Ruth,0000,0000,0000,,and refresh yourself.
+Dialogue: 0,0:02:28.70,0:02:30.86,Default,Theia,0000,0000,0000,,Y-You're the one who won the voucher.
+Dialogue: 0,0:02:30.86,0:02:32.13,Default,Theia,0000,0000,0000,,Why don't you decide?
+Dialogue: 0,0:02:32.49,0:02:34.80,Default,Ruth,0000,0000,0000,,Thank you, Your Highness.
+Dialogue: 0,0:02:34.80,0:02:37.19,Default,Sanae,0000,0000,0000,,Yay! I want to go to the hot springs!
+Dialogue: 0,0:02:37.19,0:02:38.27,Default,Sanae,0000,0000,0000,,Don't you, Koutarou?!
+Dialogue: 0,0:02:38.27,0:02:39.55,Default,Koutarou,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:02:39.55,0:02:40.99,Default,Kiriha,0000,0000,0000,,I don't have any objections.
+Dialogue: 0,0:02:40.99,0:02:42.42,Default,Karama,0000,0000,0000,,Hot springs!
+Dialogue: 0,0:02:42.42,0:02:43.58,Default,Korama,0000,0000,0000,,The beach!
+Dialogue: 0,0:02:42.83,0:02:43.87,Invaders-Overlap,Karama,0000,0000,0000,,Yay!
+Dialogue: 0,0:02:43.87,0:02:45.47,Default,Shizuka,0000,0000,0000,,Thank you, Ruth-san!
+Dialogue: 0,0:02:46.19,0:02:47.80,Default,Yurika,0000,0000,0000,,I'm going, too.
+Dialogue: 0,0:02:47.80,0:02:51.20,Default,Yurika,0000,0000,0000,,Magical girls need to rest sometimes, too.
+Dialogue: 0,0:02:51.20,0:02:53.48,Default,Sanae,0000,0000,0000,,But, only six people can go, right?
+Dialogue: 0,0:02:57.13,0:02:58.99,Default,Yurika,0000,0000,0000,,Oh no...
+Dialogue: 0,0:02:59.40,0:03:02.24,Default,Kiriha,0000,0000,0000,,I don't think we're going to \Nhave any problems with seven.
+Dialogue: 0,0:03:02.24,0:03:03.51,Default,All,0000,0000,0000,,Hm?
+Dialogue: 0,0:03:03.51,0:03:07.95,Default,Kiriha,0000,0000,0000,,Sanae is a ghost, so no \None can see her but us.
+Dialogue: 0,0:03:09.16,0:03:11.20,Default,Karama,0000,0000,0000,,Way to go, Sis!
+Dialogue: 0,0:03:11.20,0:03:12.37,Default,Korama,0000,0000,0000,,You're so smart!
+Dialogue: 0,0:03:12.69,0:03:13.28,Default,Sanae,0000,0000,0000,,I see.
+Dialogue: 0,0:03:13.28,0:03:15.10,Default,Sanae,0000,0000,0000,,I'm a ghost.
+Dialogue: 0,0:03:15.10,0:03:16.71,Default,Sanae,0000,0000,0000,,I totally forgot.
+Dialogue: 0,0:03:17.70,0:03:19.24,Default,Theia,0000,0000,0000,,All's well that ends well.
+Dialogue: 0,0:03:19.24,0:03:20.59,Default,Ruth,0000,0000,0000,,We can all go.
+Dialogue: 0,0:03:21.50,0:03:23.80,Default,Yurika,0000,0000,0000,,Thank you!
+Dialogue: 0,0:03:24.11,0:03:26.20,Default,Kiriha,0000,0000,0000,,It's nice to get out once in a while.
+Dialogue: 0,0:03:26.20,0:03:27.86,Default,Koutarou,0000,0000,0000,,I guess we can call \Na ceasefire for now.
+Dialogue: 0,0:03:27.86,0:03:31.19,Default,Shizuka,0000,0000,0000,,We should start getting ready for the trip.
+Dialogue: 0,0:03:31.19,0:03:32.23,Default,Ruth,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:39.92,0:03:42.05,Default,Theia,0000,0000,0000,,So, this is how Earth sells their swimsuits.
+Dialogue: 0,0:03:42.76,0:03:44.57,Default,Koutarou,0000,0000,0000,,There's a lot of them, huh?
+Dialogue: 0,0:03:45.32,0:03:47.58,Default,Yurika,0000,0000,0000,,There's a sale bin!
+Dialogue: 0,0:03:47.91,0:03:51.17,Default,Shizuka,0000,0000,0000,,I kind of want a new one, too.
+Dialogue: 0,0:03:51.17,0:03:54.33,Default,Ruth,0000,0000,0000,,There's so many. I don't know what to pick.
+Dialogue: 0,0:03:54.33,0:03:57.84,Default,Theia,0000,0000,0000,,Yeah, this'll be difficult.
+Dialogue: 0,0:03:59.17,0:04:02.06,Default,Kiriha,0000,0000,0000,,I hope there's a swimsuit \Nthat'll look good on me.
+Dialogue: 0,0:04:02.06,0:04:03.16,Default,Karama/Korama,0000,0000,0000,,Bounce, bounce.
+Dialogue: 0,0:04:03.16,0:04:04.70,Default,Karama/Korama,0000,0000,0000,,Bounce, bounce!
+Dialogue: 0,0:04:05.26,0:04:06.52,Default,Theia,0000,0000,0000,,Let's go, Ruth.
+Dialogue: 0,0:04:08.41,0:04:09.89,Default,Theia,0000,0000,0000,,How about this?
+Dialogue: 0,0:04:09.89,0:04:11.48,Default,Shizuka,0000,0000,0000,,I don't think it quite fits.
+Dialogue: 0,0:04:11.84,0:04:14.08,Default,Yurika,0000,0000,0000,,She's flat, that's not going to work.
+Dialogue: 0,0:04:14.08,0:04:17.62,Default,Kiriha,0000,0000,0000,,It's vital that a strategist knows herself.
+Dialogue: 0,0:04:17.62,0:04:20.32,Default,Karama/Korama,0000,0000,0000,,Bounce, bounce.
+Dialogue: 0,0:04:17.87,0:04:19.36,Invaders-Overlap,Karama/Korama,0000,0000,0000,,Bounce, bounce.
+Dialogue: 0,0:04:20.66,0:04:23.13,Default,Ruth,0000,0000,0000,,Your Highness, how about this one?
+Dialogue: 0,0:04:23.13,0:04:24.82,Default,Theia,0000,0000,0000,,It's kind of plain.
+Dialogue: 0,0:04:24.82,0:04:25.96,Default,Shizuka,0000,0000,0000,,You think so?
+Dialogue: 0,0:04:25.96,0:04:27.37,Default,Shizuka,0000,0000,0000,,I like the simplicity.
+Dialogue: 0,0:04:27.37,0:04:28.75,Default,Theia,0000,0000,0000,,R-Really?
+Dialogue: 0,0:04:28.75,0:04:30.50,Default,Yurika,0000,0000,0000,,No one will notice your flat chest.
+Dialogue: 0,0:04:30.50,0:04:32.20,Default,Kiriha,0000,0000,0000,,I think it suits you, as well.
+Dialogue: 0,0:04:33.83,0:04:35.51,Default,Theia,0000,0000,0000,,Ruth, let's go to the dressing room.
+Dialogue: 0,0:04:35.51,0:04:36.45,Default,Theia,0000,0000,0000,,Right now!
+Dialogue: 0,0:04:36.45,0:04:36.82,Default,Ruth,0000,0000,0000,,Right.
+Dialogue: 0,0:04:36.82,0:04:37.72,Default,Shizuka,0000,0000,0000,,I'll head there, too.
+Dialogue: 0,0:04:37.72,0:04:38.54,Default,Kiriha,0000,0000,0000,,Me, as well.
+Dialogue: 0,0:04:38.98,0:04:41.54,Default,Yurika,0000,0000,0000,,Don't leave me behind!
+Dialogue: 0,0:04:41.54,0:04:44.37,Default,Koutarou,0000,0000,0000,,Girls have a lot going on.
+Dialogue: 0,0:04:44.37,0:04:45.72,Default,Koutarou,0000,0000,0000,,Oh yeah, Sanae.
+Dialogue: 0,0:04:45.72,0:04:46.55,Default,Koutarou,0000,0000,0000,,What about you?
+Dialogue: 0,0:04:47.82,0:04:49.37,Default,Sanae,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:04:49.37,0:04:51.06,Default,Sanae,0000,0000,0000,,I have one from a long time ago.
+Dialogue: 0,0:04:51.06,0:04:51.92,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:51.92,0:04:52.93,Default,Koutarou,0000,0000,0000,,Really?
+Dialogue: 0,0:04:54.44,0:04:55.19,Default,Sanae,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:58.01,0:04:59.15,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:04:59.15,0:05:00.90,Default,Koutarou,0000,0000,0000,,I definitely want to see it, then.
+Dialogue: 0,0:05:00.90,0:05:01.23,Default,Sanae,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:02.14,0:05:03.99,Default,Koutarou,0000,0000,0000,,You like that swimsuit, right?
+Dialogue: 0,0:05:07.57,0:05:09.70,Default,Sanae,0000,0000,0000,,Just you wait!
+Dialogue: 0,0:05:19.79,0:05:21.13,Default,Koutarou,0000,0000,0000,,Just one question.
+Dialogue: 0,0:05:21.59,0:05:24.13,Default,Koutarou,0000,0000,0000,,Why are we in a spaceship if \Nwe're going to a hot spring?
+Dialogue: 0,0:05:25.20,0:05:26.88,Default,Theia,0000,0000,0000,,Impressed, Neanderthal?
+Dialogue: 0,0:05:26.88,0:05:32.07,Default,Koutarou,0000,0000,0000,,Hey! If you have a ship this big, why \Nare you trying to invade my house?!
+Dialogue: 0,0:05:32.07,0:05:34.28,Default,Theia,0000,0000,0000,,That's apples and oranges!
+Dialogue: 0,0:05:38.88,0:05:41.40,Default,Ruth,0000,0000,0000,,Your Highness, the gate is ready.
+Dialogue: 0,0:05:41.75,0:05:42.92,Default,Theia,0000,0000,0000,,Good work.
+Dialogue: 0,0:05:42.92,0:05:44.21,Default,Koutarou,0000,0000,0000,,That's a gate?
+Dialogue: 0,0:05:44.21,0:05:45.92,Default,Ruth,0000,0000,0000,,Yes, if you go through here,
+Dialogue: 0,0:05:45.92,0:05:47.96,Default,Ruth,0000,0000,0000,,we'll be able to go directly to the inn.
+Dialogue: 0,0:05:47.96,0:05:49.81,Default,Ruth,0000,0000,0000,,Her Highness recommended it.
+Dialogue: 0,0:05:49.81,0:05:52.30,Default,Ruth,0000,0000,0000,,She said we'd be able to \Nsave some money this way.
+Dialogue: 0,0:05:52.79,0:05:53.83,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:05:55.18,0:05:59.34,Default,Theia,0000,0000,0000,,I wanted to show you just how\N great Fortorthen technology is.
+Dialogue: 0,0:06:00.83,0:06:02.63,Default,Koutarou,0000,0000,0000,,Thanks, Tulip.
+Dialogue: 0,0:06:03.47,0:06:07.49,Default,Theia,0000,0000,0000,,It's not like I really cared about how \Nmuch money some Neanderthal had...
+Dialogue: 0,0:06:07.49,0:06:10.29,Default,Koutarou,0000,0000,0000,,You're acting like such an adult now!
+Dialogue: 0,0:06:10.29,0:06:11.76,Default,Koutarou,0000,0000,0000,,You stayed the same height, though.
+Dialogue: 0,0:06:11.76,0:06:14.26,Default,Theia,0000,0000,0000,,Just go already!
+Dialogue: 0,0:06:17.23,0:06:18.81,Invaders-Tsuzure-ya_Sign,,0000,0000,0000,,Tsuzure-Ya
+Dialogue: 0,0:06:21.19,0:06:23.15,Default,Koutarou,0000,0000,0000,,This...
+Dialogue: 0,0:06:23.61,0:06:24.65,Default,Sanae,0000,0000,0000,,It's really...
+Dialogue: 0,0:06:24.65,0:06:26.52,Default,Shizuka,0000,0000,0000,,"Well-established," maybe?
+Dialogue: 0,0:06:26.52,0:06:27.90,Default,Kiriha,0000,0000,0000,,More like "ancient."
+Dialogue: 0,0:06:28.27,0:06:30.11,Default,Theia,0000,0000,0000,,Definitely an antique.
+Dialogue: 0,0:06:30.11,0:06:33.58,Default,Yurika,0000,0000,0000,,Just say it's run-down.
+Dialogue: 0,0:06:43.09,0:06:45.59,Default,Kiriha,0000,0000,0000,,It'll be pretty hard to \Nhave seven people in here.
+Dialogue: 0,0:06:45.59,0:06:47.10,Default,Karama,0000,0000,0000,,We've measured it!
+Dialogue: 0,0:06:47.10,0:06:49.62,Default,Karama,0000,0000,0000,,It's the same size as the \Nroom at Corona House!
+Dialogue: 0,0:06:49.62,0:06:52.04,Default,Karama,0000,0000,0000,,When you subtract the \Nfurniture and other items,
+Dialogue: 0,0:06:49.99,0:06:53.55,Invaders-Other_Items,,0000,0000,0000,,"Other Items"
+Dialogue: 0,0:06:52.04,0:06:53.55,Default,Karama,0000,0000,0000,,you get 11/12ths of that of usable space.
+Dialogue: 0,0:06:53.55,0:06:55.00,Default,Ruth,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:06:55.00,0:06:56.78,Default,Koutarou,0000,0000,0000,,It's not your fault!
+Dialogue: 0,0:06:56.78,0:06:58.56,Default,Koutarou,0000,0000,0000,,We're fine with hot springs and the beach!
+Dialogue: 0,0:06:58.56,0:06:59.64,Default,Koutarou,0000,0000,0000,,Right, Tulip?!
+Dialogue: 0,0:06:59.64,0:07:01.19,Default,Theia,0000,0000,0000,,Th-That's right, Ruth.
+Dialogue: 0,0:07:01.19,0:07:03.81,Default,Sanae,0000,0000,0000,,But, there's someone else \Nin this room with us.
+Dialogue: 0,0:07:05.79,0:07:07.74,Default,Koutarou,0000,0000,0000,,You can't mean—
+Dialogue: 0,0:07:07.74,0:07:09.89,Default,Yurika,0000,0000,0000,,Let's go home!
+Dialogue: 0,0:07:09.89,0:07:10.60,Default,Shizuka,0000,0000,0000,,It's okay!
+Dialogue: 0,0:07:10.60,0:07:12.06,Default,Shizuka,0000,0000,0000,,Everyone relax!
+Dialogue: 0,0:07:12.06,0:07:13.74,Default,Shizuka,0000,0000,0000,,I thought this might happen!
+Dialogue: 0,0:07:16.27,0:07:18.04,Default,Koutarou,0000,0000,0000,,What's with all this stuff?
+Dialogue: 0,0:07:18.04,0:07:21.45,Default,Shizuka,0000,0000,0000,,Someone at Corona House \Nleft all this stuff behind.
+Dialogue: 0,0:07:21.45,0:07:24.14,Default,Shizuka,0000,0000,0000,,They might be kind of old, but...
+Dialogue: 0,0:07:24.14,0:07:27.00,Default,Koutarou,0000,0000,0000,,Well, they're more about the mood.
+Dialogue: 0,0:07:27.67,0:07:28.80,Default,Koutarou,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:07:28.80,0:07:30.40,Default,Sanae,0000,0000,0000,,Hey, watch it!
+Dialogue: 0,0:07:30.40,0:07:32.13,Default,Sanae,0000,0000,0000,,Are you trying to get rid of me, too?!
+Dialogue: 0,0:07:32.13,0:07:33.50,Default,Koutarou,0000,0000,0000,,Get rid of you?
+Dialogue: 0,0:07:33.50,0:07:35.76,Default,Koutarou,0000,0000,0000,,I couldn't get rid of you with \Nsomething like this, anyway.
+Dialogue: 0,0:07:35.76,0:07:37.51,Default,Sanae,0000,0000,0000,,What was that?!
+Dialogue: 0,0:07:37.88,0:07:39.04,Default,Koutarou,0000,0000,0000,,Hey. You know I have these?
+Dialogue: 0,0:07:39.04,0:07:41.39,Default,Koutarou,0000,0000,0000,,My grandma gave them to me.
+Dialogue: 0,0:07:41.82,0:07:43.15,Default,Koutarou,0000,0000,0000,,Don't like it? Try to haunt me, or something!
+Dialogue: 0,0:07:44.25,0:07:45.89,Default,Sanae,0000,0000,0000,,Hey!
+Dialogue: 0,0:07:45.89,0:07:47.85,Default,Shizuka,0000,0000,0000,,Those two are like kids.
+Dialogue: 0,0:07:47.85,0:07:50.71,Default,Yurika,0000,0000,0000,,They act like they're in elementary school.
+Dialogue: 0,0:07:50.71,0:07:52.46,Default,Kiriha,0000,0000,0000,,Let's head to the beach.
+Dialogue: 0,0:07:52.46,0:07:54.19,Default,Theia,0000,0000,0000,,Yeah, let's go, Ruth.
+Dialogue: 0,0:07:54.19,0:07:55.16,Default,Ruth,0000,0000,0000,,Right.
+Dialogue: 0,0:08:01.87,0:08:03.75,Default,Koutarou,0000,0000,0000,,There we go.
+Dialogue: 0,0:08:04.29,0:08:07.17,Default,CP,0000,0000,0000,,Hm? Satomi-kun, right?
+Dialogue: 0,0:08:07.68,0:08:10.93,Default,Koutarou,0000,0000,0000,,Oh, the cosplayers...
+Dialogue: 0,0:08:12.08,0:08:13.59,Default,Koutarou,0000,0000,0000,,Uh, you all...
+Dialogue: 0,0:08:13.93,0:08:17.51,Default,Koutarou,0000,0000,0000,,aren't planning on swimming, are you?
+Dialogue: 0,0:08:17.83,0:08:21.59,Default,CP,0000,0000,0000,,We're having a club meet-up while\N taking a bit of a vacation this summer.
+Dialogue: 0,0:08:21.59,0:08:23.79,Default,CP,0000,0000,0000,,It's almost time for summer's big event,
+Dialogue: 0,0:08:23.79,0:08:25.90,Default,CP,0000,0000,0000,,so we're planning to \Nfocus on making costumes.
+Dialogue: 0,0:08:26.31,0:08:31.74,Default,CA,0000,0000,0000,,We invited Nijino-san, but \Nshe said she was busy.
+Dialogue: 0,0:08:32.06,0:08:33.03,Default,Koutarou,0000,0000,0000,,Yurika?
+Dialogue: 0,0:08:33.03,0:08:35.47,Default,CB,0000,0000,0000,,Yeah, she's new, but she \Nshows a lot of promise.
+Dialogue: 0,0:08:35.47,0:08:37.20,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:08:37.55,0:08:39.10,Default,CP,0000,0000,0000,,But, what a coincidence.
+Dialogue: 0,0:08:39.10,0:08:41.33,Default,CP,0000,0000,0000,,Sakuraba-san is here at the beach, too.
+Dialogue: 0,0:08:41.78,0:08:43.54,Default,Koutarou,0000,0000,0000,,Huh? Sakuraba-senpai's here?
+Dialogue: 0,0:08:43.54,0:08:46.09,Default,CP,0000,0000,0000,,She has a summer house near here.
+Dialogue: 0,0:08:46.09,0:08:48.79,Default,CP,0000,0000,0000,,Rich people have it nice.
+Dialogue: 0,0:08:49.43,0:08:52.28,Default,CP,0000,0000,0000,,She's cute, great at knitting...
+Dialogue: 0,0:08:52.28,0:08:54.68,Default,CP,0000,0000,0000,,It makes me want to get her \Nfor the Cosplay Society.
+Dialogue: 0,0:08:55.20,0:08:57.05,Default,Koutarou,0000,0000,0000,,You and your plots.
+Dialogue: 0,0:08:57.47,0:08:58.59,Default,CP,0000,0000,0000,,Yep.
+Dialogue: 0,0:08:58.59,0:09:02.14,Default,CP,0000,0000,0000,,Anyway, we have to begin fitting our \Noutfits, so we'll talk to you later.
+Dialogue: 0,0:09:04.16,0:09:04.52,Default,Koutarou,0000,0000,0000,,Well...
+Dialogue: 0,0:09:04.98,0:09:05.73,Default,CP,0000,0000,0000,,Hm?
+Dialogue: 0,0:09:06.13,0:09:08.94,Default,Koutarou,0000,0000,0000,,Take care of Yurika for me, okay?
+Dialogue: 0,0:09:10.50,0:09:11.48,Default,CP,0000,0000,0000,,Of course.
+Dialogue: 0,0:09:11.48,0:09:13.60,Default,CP,0000,0000,0000,,She'll be great with a little work.
+Dialogue: 0,0:09:13.60,0:09:15.65,Default,CP,0000,0000,0000,,I won't let her go.
+Dialogue: 0,0:09:16.03,0:09:17.61,Default,CP,0000,0000,0000,,See you.
+Dialogue: 0,0:09:21.63,0:09:25.87,Default,Koutarou,0000,0000,0000,,They really care about Yurika.
+Dialogue: 0,0:09:35.20,0:09:37.84,Default,Koutarou,0000,0000,0000,,That was pretty heavy.
+Dialogue: 0,0:09:37.84,0:09:39.60,Default,B1,0000,0000,0000,,Wow, look at them!
+Dialogue: 0,0:09:39.60,0:09:41.35,Default,B2,0000,0000,0000,,Are they models, or something?
+Dialogue: 0,0:09:41.35,0:09:44.52,Default,Sanae,0000,0000,0000,,Hey, Koutarou, we're here!
+Dialogue: 0,0:09:44.98,0:09:49.31,Default,Sanae,0000,0000,0000,,I'm so cute, you're struck\N speechless, aren't you?
+Dialogue: 0,0:09:49.85,0:09:52.49,Default,Theia,0000,0000,0000,,I'll permit your gazes for today only.
+Dialogue: 0,0:09:52.49,0:09:54.82,Default,Theia,0000,0000,0000,,Tell me how elegant I am!
+Dialogue: 0,0:09:56.50,0:09:58.82,Default,Ruth,0000,0000,0000,,I...
+Dialogue: 0,0:09:59.25,0:10:01.23,Default,Kiriha,0000,0000,0000,,Ruth, there's no reason to be embarrassed.
+Dialogue: 0,0:10:01.23,0:10:02.83,Default,Kiriha,0000,0000,0000,,You should hold your chest high.
+Dialogue: 0,0:10:02.83,0:10:06.58,Default,Yurika,0000,0000,0000,,Everyone's been looking at us
+Dialogue: 0,0:10:03.60,0:10:06.58,Invaders-Yurika_Suit,,0000,0000,0000,,Yurika
+Dialogue: 0,0:10:06.58,0:10:08.38,Default,Shizuka,0000,0000,0000,,How is it, Satomi-kun?
+Dialogue: 0,0:10:08.38,0:10:11.08,Default,Shizuka,0000,0000,0000,,You get six cute girls all to yourself.
+Dialogue: 0,0:10:11.54,0:10:12.33,Default,Shizuka,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:22.48,0:10:23.97,Default,Koutarou,0000,0000,0000,,Sakuraba-senpai...
+Dialogue: 0,0:10:24.32,0:10:25.80,Default,Shizuka,0000,0000,0000,,Satomi-kun...
+Dialogue: 0,0:10:32.76,0:10:34.88,Default,Sanae,0000,0000,0000,,Are we being ignored?
+Dialogue: 0,0:10:34.88,0:10:36.63,Default,Theia,0000,0000,0000,,How dare you, Harumi Sakuraba!?
+Dialogue: 0,0:10:36.63,0:10:37.81,Default,Ruth,0000,0000,0000,,She'll be tough.
+Dialogue: 0,0:10:37.81,0:10:39.07,Default,Kiriha,0000,0000,0000,,She completely stole the spotlight.
+Dialogue: 0,0:10:39.07,0:10:41.34,Default,Yurika,0000,0000,0000,,She looks great.
+Dialogue: 0,0:10:41.34,0:10:42.37,Default,Shizuka,0000,0000,0000,,In this case...
+Dialogue: 0,0:10:43.55,0:10:45.08,Default,Harumi,0000,0000,0000,,Um, Satomi-kun?
+Dialogue: 0,0:10:46.08,0:10:47.90,Default,Koutarou,0000,0000,0000,,Oh, so you're here.
+Dialogue: 0,0:10:47.90,0:10:50.00,Default,Koutarou,0000,0000,0000,,Hm? What's wrong?
+Dialogue: 0,0:10:50.67,0:10:53.46,Default,Theia,0000,0000,0000,,You Neanderthal!
+Dialogue: 0,0:10:53.46,0:10:54.65,Invaders-Jerk_Sand,,0000,0000,0000,,Jerk
+Dialogue: 0,0:10:58.14,0:11:00.12,Default,Koutarou,0000,0000,0000,,How did it come to this?
+Dialogue: 0,0:11:02.17,0:11:05.58,Default,Harumi,0000,0000,0000,,It's because you don't try to \Nunderstand women's feelings.
+Dialogue: 0,0:11:06.39,0:11:09.46,Default,Koutarou,0000,0000,0000,,Um, could you help me?
+Dialogue: 0,0:11:09.46,0:11:11.02,Default,Harumi,0000,0000,0000,,Oh, should I?
+Dialogue: 0,0:11:11.02,0:11:12.90,Default,Koutarou,0000,0000,0000,,You sure are a tease today.
+Dialogue: 0,0:11:14.28,0:11:16.72,Default,Harumi,0000,0000,0000,,That's because something good happened.
+Dialogue: 0,0:11:16.72,0:11:19.11,Default,Harumi,0000,0000,0000,,I guess I'm in a cheerful mood.
+Dialogue: 0,0:11:19.11,0:11:20.38,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:11:21.28,0:11:23.74,Default,Shizuka,0000,0000,0000,,Here I go, Theia-chan!
+Dialogue: 0,0:11:26.06,0:11:26.70,Default,Theia,0000,0000,0000,,Ruth!
+Dialogue: 0,0:11:27.29,0:11:28.91,Default,Ruth,0000,0000,0000,,Wonderful, Your Highness!
+Dialogue: 0,0:11:31.65,0:11:33.38,Default,Kiriha,0000,0000,0000,,Finish, Sanae!
+Dialogue: 0,0:11:33.38,0:11:34.73,Default,Sanae,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:11:34.73,0:11:37.30,Default,Sanae,0000,0000,0000,,Sanae-chan Miracle Attack!
+Dialogue: 0,0:11:47.25,0:11:48.73,Default,Shizuka,0000,0000,0000,,We had a lot of fun.
+Dialogue: 0,0:11:48.73,0:11:49.84,Default,Shizuka,0000,0000,0000,,Should we head back?
+Dialogue: 0,0:11:49.84,0:11:52.73,Default,Sanae,0000,0000,0000,,Yeah. I'll bet Koutarou-the-jerk \Nlearned his lesson, too.
+Dialogue: 0,0:11:57.86,0:12:00.83,Default,Theia,0000,0000,0000,,It seems burying him wasn't enough.
+Dialogue: 0,0:12:00.83,0:12:02.00,Default,Ruth,0000,0000,0000,,Seems that way.
+Dialogue: 0,0:12:02.00,0:12:04.47,Default,Yurika,0000,0000,0000,,They look like they're having a great time.
+Dialogue: 0,0:12:04.47,0:12:05.50,Default,Kiriha,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:12:05.50,0:12:06.83,Default,Kiriha,0000,0000,0000,,I've already taken measures.
+Dialogue: 0,0:12:09.50,0:12:10.93,Default,Karama,0000,0000,0000,,That was heavy.
+Dialogue: 0,0:12:10.93,0:12:13.02,Default,Korama,0000,0000,0000,,Sis got this for us.
+Dialogue: 0,0:12:13.02,0:12:14.08,Default,Koutarou,0000,0000,0000,,Huh? For us?
+Dialogue: 0,0:12:15.04,0:12:20.01,Default,Kiriha,0000,0000,0000,,So, will Koutarou's head split first, \Nor will it be the watermelon?
+Dialogue: 0,0:12:20.98,0:12:21.97,Default,Koutarou,0000,0000,0000,,You can't be...
+Dialogue: 0,0:12:22.35,0:12:24.01,Default,Kiriha,0000,0000,0000,,Now, Koutarou.
+Dialogue: 0,0:12:24.01,0:12:27.45,Default,Kiriha,0000,0000,0000,,Let's have fun together.
+Dialogue: 0,0:12:29.36,0:12:31.10,Default,Koutarou,0000,0000,0000,,No!
+Dialogue: 0,0:12:31.60,0:12:33.32,Default,Hachi,0000,0000,0000,,So much fun...
+Dialogue: 0,0:12:34.11,0:12:36.31,Default,Bro,0000,0000,0000,,This is going better than I thought.
+Dialogue: 0,0:12:40.73,0:12:43.02,Default,Kiriha,0000,0000,0000,,Theia-dono, a little to the left.
+Dialogue: 0,0:12:43.02,0:12:43.82,Default,Ruth,0000,0000,0000,,Right there.
+Dialogue: 0,0:12:43.82,0:12:44.86,Default,Ruth,0000,0000,0000,,Go right forward.
+Dialogue: 0,0:12:44.86,0:12:45.63,Default,Sanae,0000,0000,0000,,Go for it!
+Dialogue: 0,0:12:45.63,0:12:46.39,Default,Koutarou,0000,0000,0000,,Hey, you guys!
+Dialogue: 0,0:12:46.39,0:12:47.62,Default,Koutarou,0000,0000,0000,,Not you, too, Ruth-san!
+Dialogue: 0,0:12:47.62,0:12:50.28,Default,Koutarou,0000,0000,0000,,You're trying to get her to \Nhit my head, aren't you?!
+Dialogue: 0,0:12:50.28,0:12:51.70,Default,Harumi,0000,0000,0000,,Are you sure about this?
+Dialogue: 0,0:12:51.70,0:12:53.30,Default,Harumi,0000,0000,0000,,Satomi-kun's going to get...
+Dialogue: 0,0:12:53.30,0:12:54.34,Default,Yurika,0000,0000,0000,,It's fine.
+Dialogue: 0,0:12:54.34,0:12:56.65,Default,Yurika,0000,0000,0000,,Satomi's pretty tough.
+Dialogue: 0,0:12:59.18,0:13:00.59,Default,Theia,0000,0000,0000,,I guess I missed.
+Dialogue: 0,0:13:02.47,0:13:03.72,Default,Koutarou,0000,0000,0000,,Tulip..
+Dialogue: 0,0:13:03.72,0:13:04.92,Default,Theia,0000,0000,0000,,If it's that bad,
+Dialogue: 0,0:13:04.92,0:13:07.06,Default,Theia,0000,0000,0000,,how about getting up out of the sand?
+Dialogue: 0,0:13:07.06,0:13:08.68,Default,Sanae,0000,0000,0000,,Well, it's my turn next!
+Dialogue: 0,0:13:10.29,0:13:10.89,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:13:10.89,0:13:12.35,Default,Koutarou,0000,0000,0000,,Hey, behind you!
+Dialogue: 0,0:13:12.35,0:13:13.32,Default,Sanae,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:13:13.32,0:13:15.10,Default,Sanae,0000,0000,0000,,You're not going to trick us with that.
+Dialogue: 0,0:13:15.10,0:13:16.31,Default,Koutarou,0000,0000,0000,,No!
+Dialogue: 0,0:13:16.31,0:13:17.70,Default,Koutarou,0000,0000,0000,,Behind you! There's weird guys!
+Dialogue: 0,0:13:17.70,0:13:18.98,Default,,0000,0000,0000,,Weird guys?
+Dialogue: 0,0:13:19.29,0:13:20.16,Default,Bro,0000,0000,0000,,Now!
+Dialogue: 0,0:13:20.16,0:13:21.19,Default,Hachi,0000,0000,0000,,Get them!
+Dialogue: 0,0:13:23.54,0:13:24.19,Default,Kiriha,0000,0000,0000,,Sanae!
+Dialogue: 0,0:13:24.19,0:13:24.74,Default,Ruth,0000,0000,0000,,Your Highness!
+Dialogue: 0,0:13:26.15,0:13:27.76,Default,Theia,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:13:27.76,0:13:28.99,Default,Theia,0000,0000,0000,,You brutes!
+Dialogue: 0,0:13:30.49,0:13:32.19,Default,Bro,0000,0000,0000,,We're not anyone weird.
+Dialogue: 0,0:13:32.19,0:13:36.32,Default,Hachi,0000,0000,0000,,Y-Yeah! We're not really interested in normal girls.
+Dialogue: 0,0:13:36.32,0:13:37.58,Default,Koutarou,0000,0000,0000,,That's pretty strange!
+Dialogue: 0,0:13:38.03,0:13:40.09,Default,Kiriha,0000,0000,0000,,So you're after little girls, then?
+Dialogue: 0,0:13:40.09,0:13:42.31,Default,Shizuka,0000,0000,0000,,You perverts...
+Dialogue: 0,0:13:42.31,0:13:43.82,Default,Shizuka,0000,0000,0000,,Divine Punishment!
+Dialogue: 0,0:13:49.26,0:13:50.31,Default,Bro,0000,0000,0000,,Damn it.
+Dialogue: 0,0:13:50.31,0:13:51.91,Default,Bro,0000,0000,0000,,They're strong.
+Dialogue: 0,0:13:51.91,0:13:54.28,Default,Bro,0000,0000,0000,,Who are they?
+Dialogue: 0,0:13:55.37,0:13:58.39,Default,Hachi,0000,0000,0000,,Bro, the tide's coming in.
+Dialogue: 0,0:14:05.03,0:14:07.49,Invaders-Hot_Springs_Gods,,0000,0000,0000,,Hot Spring of the Gods
+Dialogue: 0,0:14:14.72,0:14:16.43,Default,Koutarou,0000,0000,0000,,I feel better already.
+Dialogue: 0,0:14:20.37,0:14:22.41,Default,Koutarou,0000,0000,0000,,I had fun today.
+Dialogue: 0,0:14:22.41,0:14:24.00,Default,Koutarou,0000,0000,0000,,I guess there were those perverts,
+Dialogue: 0,0:14:24.00,0:14:25.87,Default,Koutarou,0000,0000,0000,,but I got to see Sakuraba-senpai.
+Dialogue: 0,0:14:27.43,0:14:30.64,Default,Koutarou,0000,0000,0000,,Everyone else was getting \Nalong pretty well, too.
+Dialogue: 0,0:14:33.60,0:14:38.23,Default,Theia,0000,0000,0000,,I have to prove myself as \Na worthy successor in order
+Dialogue: 0,0:14:38.23,0:14:41.56,Default,Theia,0000,0000,0000,,to protect my mother, the current Empress.
+Dialogue: 0,0:14:41.56,0:14:46.74,Default,Sanae,0000,0000,0000,,So, you want apartment 106\N to help protect your mother.
+Dialogue: 0,0:14:46.74,0:14:47.54,Default,Theia,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:47.54,0:14:49.53,Default,Theia,0000,0000,0000,,I can't give it up.
+Dialogue: 0,0:14:49.53,0:14:51.05,Default,Sanae,0000,0000,0000,,I see.
+Dialogue: 0,0:14:51.05,0:14:53.29,Default,Sanae,0000,0000,0000,,I guess that's similar to my situation.
+Dialogue: 0,0:14:53.29,0:14:57.31,Default,Sanae,0000,0000,0000,,I have to wait for my mother \Nand father in that room.
+Dialogue: 0,0:14:57.76,0:15:01.28,Default,Sanae,0000,0000,0000,,It'd be terrible if they came \Nback and I wasn't there.
+Dialogue: 0,0:15:01.28,0:15:03.38,Default,Theia,0000,0000,0000,,You can't back down, either, then.
+Dialogue: 0,0:15:04.14,0:15:05.38,Default,Yurika,0000,0000,0000,,Me, too!
+Dialogue: 0,0:15:06.70,0:15:08.09,Default,Yurika,0000,0000,0000,,I-I'm not lying.
+Dialogue: 0,0:15:09.04,0:15:14.55,Default,Yurika,0000,0000,0000,,I owe someone my life, and that's \Nwhy I need that apartment.
+Dialogue: 0,0:15:16.23,0:15:18.52,Default,Kiriha,0000,0000,0000,,How about you tell us about it, Yurika?
+Dialogue: 0,0:15:22.01,0:15:26.49,Default,Yurika,0000,0000,0000,,I'm acting as a magical girl for that person.
+Dialogue: 0,0:15:26.98,0:15:32.24,Default,Yurika,0000,0000,0000,,They were hurt badly trying to save me.
+Dialogue: 0,0:15:32.83,0:15:35.64,Default,Yurika,0000,0000,0000,,So, I can't quit.
+Dialogue: 0,0:15:35.64,0:15:37.00,Default,Yurika,0000,0000,0000,,It's dangerous,
+Dialogue: 0,0:15:37.00,0:15:39.01,Default,Yurika,0000,0000,0000,,and I'd end up causing trouble for my family,
+Dialogue: 0,0:15:39.01,0:15:39.87,Default,Yurika,0000,0000,0000,,so I can't visit them.
+Dialogue: 0,0:15:39.87,0:15:41.21,Default,Yurika,0000,0000,0000,,I'm lonely, but...
+Dialogue: 0,0:15:41.49,0:15:44.67,Default,Yurika,0000,0000,0000,,That person was in the same boat.
+Dialogue: 0,0:15:47.74,0:15:52.47,Default,Kiriha,0000,0000,0000,,I can't step down because I need the \Npeople of the Earth to prosper again.
+Dialogue: 0,0:15:52.47,0:15:55.64,Default,Kiriha,0000,0000,0000,,Also, there was a roller coaster.
+Dialogue: 0,0:15:56.72,0:15:58.10,Default,Ruth,0000,0000,0000,,Roller coaster?
+Dialogue: 0,0:15:58.10,0:15:59.07,Default,Kiriha,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:59.48,0:16:03.18,Default,Kiriha,0000,0000,0000,,When I was young, I went up to the land once.
+Dialogue: 0,0:16:03.18,0:16:05.31,Default,Kiriha,0000,0000,0000,,I didn't get to ride on it.
+Dialogue: 0,0:16:06.04,0:16:07.87,Default,Kiriha,0000,0000,0000,,I've always wanted to try it out.
+Dialogue: 0,0:16:08.91,0:16:10.66,Default,Ruth,0000,0000,0000,,Talking everything over with you all...
+Dialogue: 0,0:16:10.66,0:16:12.90,Default,Ruth,0000,0000,0000,,I guess everyone has their own reasons.
+Dialogue: 0,0:16:13.21,0:16:15.37,Default,Theia,0000,0000,0000,,Well, this is a pickle.
+Dialogue: 0,0:16:15.37,0:16:17.95,Default,Sanae,0000,0000,0000,,Not really. I'm going to win.
+Dialogue: 0,0:16:17.95,0:16:19.72,Default,Kiriha,0000,0000,0000,,I'm not going down that easy.
+Dialogue: 0,0:16:20.35,0:16:21.59,Default,Yurika,0000,0000,0000,,Me, neither.
+Dialogue: 0,0:16:25.30,0:16:25.95,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:16:29.04,0:16:31.19,Default,Koutarou,0000,0000,0000,,I'm glad we came here.
+Dialogue: 0,0:16:43.94,0:16:46.83,Default,Koutarou,0000,0000,0000,,This is mine!
+Dialogue: 0,0:16:48.58,0:16:50.34,Default,Koutarou,0000,0000,0000,,I won't let anyone have it.
+Dialogue: 0,0:16:50.34,0:16:52.19,Default,Ruth,0000,0000,0000,,S-Satomi-sama!
+Dialogue: 0,0:16:52.79,0:16:54.08,Invaders-Internal/Narrator,Ruth,0000,0000,0000,,Satomi-sama is...
+Dialogue: 0,0:16:54.08,0:16:56.20,Invaders-Internal/Narrator,Ruth,0000,0000,0000,,H-He can't...
+Dialogue: 0,0:16:57.41,0:16:58.66,Invaders-Internal/Narrator,Ruth,0000,0000,0000,,I...
+Dialogue: 0,0:16:59.39,0:17:01.24,Invaders-Internal/Narrator,Ruth,0000,0000,0000,,I...
+Dialogue: 0,0:17:02.57,0:17:04.96,Default,Koutarou,0000,0000,0000,,I found this tree.
+Dialogue: 0,0:17:04.96,0:17:07.38,Default,Koutarou,0000,0000,0000,,I won't let you have it, Makkenji.
+Dialogue: 0,0:17:09.71,0:17:11.48,Default,Koutarou,0000,0000,0000,,If you want your own beetle,
+Dialogue: 0,0:17:11.48,0:17:13.01,Default,Koutarou,0000,0000,0000,,you'll have to find your own tree.
+Dialogue: 0,0:17:13.01,0:17:14.26,Invaders-Internal/Narrator,Ruth,0000,0000,0000,,B-Beetle?
+Dialogue: 0,0:17:14.26,0:17:16.34,Default,Koutarou,0000,0000,0000,,Just a little further...
+Dialogue: 0,0:17:16.34,0:17:17.55,Invaders-Internal/Narrator,Ruth,0000,0000,0000,,Satomi-sama...
+Dialogue: 0,0:17:18.06,0:17:22.73,Invaders-Internal/Narrator,Ruth,0000,0000,0000,,Are you confusing me for a \Ntree with a beetle in it?
+Dialogue: 0,0:17:23.42,0:17:25.77,Default,Koutarou,0000,0000,0000,,I got it!
+Dialogue: 0,0:17:25.77,0:17:28.35,Invaders-Internal/Narrator,Ruth,0000,0000,0000,,It wasn't me you wanted...
+Dialogue: 0,0:17:29.86,0:17:31.23,Default,Koutarou,0000,0000,0000,,My beetle.
+Dialogue: 0,0:17:31.55,0:17:34.25,Default,Ruth,0000,0000,0000,,Satomi-sama, you jerk!
+Dialogue: 0,0:17:35.59,0:17:36.82,Default,Koutarou,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:17:36.82,0:17:38.05,Default,Theia,0000,0000,0000,,You Neanderthal.
+Dialogue: 0,0:17:38.05,0:17:39.51,Default,Yurika,0000,0000,0000,,You're the worst.
+Dialogue: 0,0:17:41.15,0:17:42.16,Default,Koutarou,0000,0000,0000,,Hey, Sanae...
+Dialogue: 0,0:17:42.16,0:17:42.70,Default,Sanae,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:42.70,0:17:45.91,Default,Koutarou,0000,0000,0000,,You know that I roll around all \Nthe time when I sleep, right?
+Dialogue: 0,0:17:46.24,0:17:47.95,Default,Sanae,0000,0000,0000,,Yeah, but...
+Dialogue: 0,0:17:47.95,0:17:50.27,Default,Sanae,0000,0000,0000,,I've never had you cling \Nonto me before, though.
+Dialogue: 0,0:17:50.27,0:17:52.69,Default,Koutarou,0000,0000,0000,,Well, you are a ghost, so...
+Dialogue: 0,0:17:54.21,0:17:58.13,Default,Sanae,0000,0000,0000,,You like beetles more than \Ngirls, anyway, right?
+Dialogue: 0,0:17:58.44,0:17:59.75,Default,Koutarou,0000,0000,0000,,Just stop and think about this!
+Dialogue: 0,0:17:59.75,0:18:00.58,Default,Koutarou,0000,0000,0000,,I know I was dreaming,
+Dialogue: 0,0:18:00.58,0:18:02.16,Default,Koutarou,0000,0000,0000,,but it was an {\i1}eight-centimeter{\i0} beetle!
+Dialogue: 0,0:18:02.16,0:18:03.92,Default,Koutarou,0000,0000,0000,,I just had to catch it!
+Dialogue: 0,0:18:03.92,0:18:05.60,Default,Koutarou,0000,0000,0000,,Big beetles are what men dream of.
+Dialogue: 0,0:18:05.60,0:18:07.66,Default,Koutarou,0000,0000,0000,,You couldn't hope for something \Nbetter during the summer.
+Dialogue: 0,0:18:07.66,0:18:08.86,Invaders-Overlap,Koutarou,0000,0000,0000,,A beetle...
+Dialogue: 0,0:18:07.66,0:18:08.92,Default,Koutarou,0000,0000,0000,,Don't you guys think so?
+Dialogue: 0,0:18:09.47,0:18:10.61,Default,Shizuka,0000,0000,0000,,Ruth-san?
+Dialogue: 0,0:18:10.61,0:18:16.03,Default,Ruth,0000,0000,0000,,Satomi-sama, do you really like \Nbeetles that much more than me?!
+Dialogue: 0,0:18:19.77,0:18:22.95,Default,Koutarou,0000,0000,0000,,I don't think I'll be able to go \Nback to the room for a while.
+Dialogue: 0,0:18:24.70,0:18:25.83,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:18:27.71,0:18:29.34,Default,Koutarou,0000,0000,0000,,Kiriha-san?
+Dialogue: 0,0:18:30.78,0:18:32.59,Default,Kiriha,0000,0000,0000,,You're out for a night stroll, too?
+Dialogue: 0,0:18:32.59,0:18:36.09,Default,Koutarou,0000,0000,0000,,No... I kind of ran away,
+Dialogue: 0,0:18:36.54,0:18:38.57,Default,Koutarou,0000,0000,0000,,or maybe got what I deserved...
+Dialogue: 0,0:18:38.57,0:18:39.18,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:18:39.61,0:18:41.39,Default,Koutarou,0000,0000,0000,,Kiriha-san, what's that card?
+Dialogue: 0,0:18:43.27,0:18:44.59,Default,Kiriha,0000,0000,0000,,Doesn't really fit me, huh?
+Dialogue: 0,0:18:45.18,0:18:48.89,Default,Kiriha,0000,0000,0000,,I know, but I just can't get rid of it.
+Dialogue: 0,0:18:57.69,0:19:00.40,Default,Sanae,0000,0000,0000,,Jeez, that Koutarou.
+Dialogue: 0,0:19:02.75,0:19:06.99,Default,Kiriha,0000,0000,0000,,I got this from someone \NI liked a long time ago.
+Dialogue: 0,0:19:06.99,0:19:09.62,Default,Kiriha,0000,0000,0000,,I haven't been able to see them since, but...
+Dialogue: 0,0:19:10.63,0:19:12.12,Default,Koutarou,0000,0000,0000,,You miss them?
+Dialogue: 0,0:19:12.12,0:19:12.86,Default,Kiriha,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:13.34,0:19:14.33,Default,Kiriha,0000,0000,0000,,I do.
+Dialogue: 0,0:19:14.78,0:19:18.31,Default,Kiriha,0000,0000,0000,,I'm not sure what I'd do if \NI saw them again, though.
+Dialogue: 0,0:19:23.44,0:19:25.81,Default,Sanae,0000,0000,0000,,What is he doing—
+Dialogue: 0,0:19:27.60,0:19:29.02,Default,Sanae,0000,0000,0000,,All right...
+Dialogue: 0,0:19:35.47,0:19:37.35,Default,Sanae,0000,0000,0000,,I came to get you!
+Dialogue: 0,0:19:43.28,0:19:43.78,Default,Kiriha,0000,0000,0000,,Sanae!
+Dialogue: 0,0:19:46.28,0:19:48.01,Default,Koutarou,0000,0000,0000,,Are you okay?!
+Dialogue: 0,0:19:49.43,0:19:51.71,Default,Sanae,0000,0000,0000,,Why do you have that?
+Dialogue: 0,0:19:51.71,0:19:52.37,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:52.37,0:19:54.19,Default,Sanae,0000,0000,0000,,Do you just not want me around?
+Dialogue: 0,0:19:54.64,0:19:55.42,Default,Koutarou,0000,0000,0000,,Sanae?
+Dialogue: 0,0:19:57.76,0:19:59.48,Default,Sanae,0000,0000,0000,,I guess so...
+Dialogue: 0,0:19:59.48,0:20:02.70,Default,Sanae,0000,0000,0000,,I mean, who'd want a ghost \Nhaunting their house?
+Dialogue: 0,0:20:03.47,0:20:05.27,Default,Sanae,0000,0000,0000,,No one wants that, right?
+Dialogue: 0,0:20:05.27,0:20:06.93,Default,Koutarou,0000,0000,0000,,What are you—
+Dialogue: 0,0:20:06.93,0:20:08.14,Default,Sanae,0000,0000,0000,,It's fine.
+Dialogue: 0,0:20:08.14,0:20:09.37,Default,Sanae,0000,0000,0000,,I get it.
+Dialogue: 0,0:20:10.35,0:20:13.02,Default,Sanae,0000,0000,0000,,It's my fault for thinking \Nyou were different!
+Dialogue: 0,0:20:13.02,0:20:14.10,Default,Koutarou,0000,0000,0000,,Hey!
+Dialogue: 0,0:20:14.61,0:20:17.05,Default,Koutarou,0000,0000,0000,,Hey, what's wrong, Sanae?!
+Dialogue: 0,0:20:17.57,0:20:18.73,Default,Koutarou,0000,0000,0000,,Sanae!
+Dialogue: 0,0:20:21.78,0:20:25.25,Default,Kiriha,0000,0000,0000,,Nothing seems to go right.
+Dialogue: 0,0:20:25.25,0:20:26.49,Default,Kiriha,0000,0000,0000,,Not for me, or Sanae.
+Dialogue: 0,0:20:28.95,0:20:32.18,Default,Bro,0000,0000,0000,,We lost today because we \Ntook them too lightly.
+Dialogue: 0,0:20:32.18,0:20:34.30,Default,Hachi,0000,0000,0000,,They were really cute—
+Dialogue: 0,0:20:34.30,0:20:36.00,Default,Hachi,0000,0000,0000,,no, I mean, they were strong.
+Dialogue: 0,0:20:36.00,0:20:36.92,Default,Bro,0000,0000,0000,,Yeah, they were.
+Dialogue: 0,0:20:38.19,0:20:40.92,Default,Bro,0000,0000,0000,,But, we have this trump card.
+Dialogue: 0,0:20:40.92,0:20:43.94,Default,Hachi,0000,0000,0000,,Bro, you're not planning \Non using these, are you?
+Dialogue: 0,0:20:43.94,0:20:47.64,Default,Bro,0000,0000,0000,,Yeah, we're getting what we want tomorrow.
+Dialogue: 0,0:20:49.90,0:20:51.52,Default,Yurika,0000,0000,0000,,Time to eat.
+Dialogue: 0,0:21:00.49,0:21:02.12,Default,Koutarou,0000,0000,0000,,Hey, Sanae.
+Dialogue: 0,0:21:03.04,0:21:05.80,Default,Koutarou,0000,0000,0000,,You know, I'm sorry about yesterday.
+Dialogue: 0,0:21:05.80,0:21:07.38,Default,Koutarou,0000,0000,0000,,I didn't mean for that to happen.
+Dialogue: 0,0:21:07.38,0:21:09.79,Default,Koutarou,0000,0000,0000,,It's not like you to be upset this long.
+Dialogue: 0,0:21:09.79,0:21:11.62,Default,Sanae,0000,0000,0000,,I'm just an evil spirit.
+Dialogue: 0,0:21:12.04,0:21:13.61,Default,Sanae,0000,0000,0000,,It's not surprising you'd keep
+Dialogue: 0,0:21:13.61,0:21:16.90,Default,Sanae,0000,0000,0000,,your grandma's charms with you at all times—
+Dialogue: 0,0:21:16.17,0:21:17.33,Invaders-Overlap,Koutarou,0000,0000,0000,,You don't have to say it like that!
+Dialogue: 0,0:21:17.33,0:21:18.99,Default,Sanae,0000,0000,0000,,I'm a ghost!
+Dialogue: 0,0:21:18.99,0:21:20.88,Default,Sanae,0000,0000,0000,,I just want to get rid of you!
+Dialogue: 0,0:21:20.88,0:21:22.49,Default,Sanae,0000,0000,0000,,We'll never get along!
+Dialogue: 0,0:21:22.49,0:21:24.30,Default,Sanae,0000,0000,0000,,You and I are—
+Dialogue: 0,0:21:29.59,0:21:30.68,Default,Sanae,0000,0000,0000,,enemies!
+Dialogue: 0,0:21:37.65,0:21:40.36,Default,Koutarou,0000,0000,0000,,Yeah, we are enemies.
+Dialogue: 0,0:21:43.63,0:21:44.79,Default,Sanae,0000,0000,0000,,That's right.
+Dialogue: 0,0:21:44.79,0:21:49.00,Default,Sanae,0000,0000,0000,,You're right, we'll always be enemies!
+Dialogue: 0,0:21:49.00,0:21:49.57,Default,Shizuka,0000,0000,0000,,Sanae-chan!
+Dialogue: 0,0:21:53.54,0:21:55.34,Default,Sanae,0000,0000,0000,,Koutarou, you jerk.
+Dialogue: 0,0:23:26.13,0:23:41.13,Invaders-Men,,0000,0000,0000,,Men
+Dialogue: 0,0:23:26.13,0:23:41.13,Invaders-Women,,0000,0000,0000,,Women
+Dialogue: 0,0:23:26.13,0:23:41.13,Invaders-Hiyashi_Chuka,,0000,0000,0000,,Cold Ramen
+Dialogue: 0,0:23:27.90,0:23:31.71,Default,Karama,0000,0000,0000,,When you play table tennis, \Nyou're supposed to say "saa!"
+Dialogue: 0,0:23:31.71,0:23:32.84,Default,Korama,0000,0000,0000,,"Saa," right?
+Dialogue: 0,0:23:32.84,0:23:33.98,Default,Korama,0000,0000,0000,,Let's try it!
+Dialogue: 0,0:23:37.18,0:23:38.84,Default,Karama,0000,0000,0000,,That was hard.
+Dialogue: 0,0:23:37.74,0:23:41.14,Invaders-Next_Episode,,0000,0000,0000,,Next Episode: Precious Charms
+Dialogue: 0,0:23:38.84,0:23:41.14,Default,Korama,0000,0000,0000,,Yeah, it was.

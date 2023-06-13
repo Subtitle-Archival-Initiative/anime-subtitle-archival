@@ -1,0 +1,446 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Invaders-Overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Internal/Narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback_Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Invaders-Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,20,0
+Style: Invaders-Title,Open Sans Semibold,48,&H00B3ECDF,&H000000FF,&H00733B28,&H001A100D,1,0,0,0,100,100,0,0,1,3,0,8,13,13,13,1
+Style: Invaders-Ep_Title,Open Sans Semibold,36,&H00E3F5EB,&H000000FF,&H00B69361,&H00B69361,1,0,0,0,100,100,0,0,1,2,1,7,73,13,33,1
+Style: Invaders-Corona_House,Open Sans Semibold,38,&H006F7169,&H000000FF,&H00DFDBD9,&H00112228,0,0,0,0,100,100,0,0,1,2,0,4,133,13,107,1
+Style: Invaders-Kindergarten_First_Day,Open Sans Semibold,35,&H00444340,&H000000FF,&H00F1EFE9,&H00112228,0,0,0,0,100,100,0,0,1,2,0,7,147,13,80,1
+Style: Invaders-Rou,Open Sans Semibold,45,&H00464948,&H000000FF,&H00F6F5F7,&H00B69361,0,0,0,0,100,100,0,0,1,2,0,8,13,133,33,1
+Style: Invaders-Club_Entry,Open Sans Semibold,33,&H004C5052,&H000000FF,&H00E5EDEB,&H00B69361,1,0,0,0,100,100,0,0,1,2,0,8,133,13,200,1
+Style: Invaders-Corona_Convention,Open Sans Semibold,33,&H005A5A5A,&H000000FF,&H00F9F9F9,&H00B69361,0,0,0,0,100,100,0,0,1,2,0,8,13,13,27,1
+Style: Invaders-Agreement,Open Sans Semibold,30,&H00FEFAF9,&H000000FF,&H0012110F,&H00B69361,1,0,0,0,100,100,0,0,1,2,0,8,13,13,27,1
+Style: Invaders-Signatures,Open Sans Semibold,33,&H004A2A35,&H000000FF,&H00BA98A7,&H00B69361,0,0,0,0,100,100,0,0,1,3,0,7,13,13,133,1
+Style: Invaders-Approved,Open Sans Semibold,45,&H004933D6,&H000000FF,&H00F9F8FB,&H00B69361,1,0,0,0,100,100,0,0,1,3,0,2,13,13,20,1
+Style: Invaders-Next_Episode,Open Sans Semibold,36,&H00E8EEF6,&H000000FF,&H00419DE0,&H00419DE0,1,0,0,0,100,100,0,0,1,2,1,7,87,13,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.08,0:00:03.94,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Saturday, April 4th.
+Dialogue: 0,0:00:05.10,0:00:06.56,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,The height of spring.
+Dialogue: 0,0:00:06.56,0:00:08.52,Invaders-Top,,0000,0000,0000,,Corona House
+Dialogue: 0,0:00:06.56,0:00:09.50,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Everyone knows it's the season to start anew.
+Dialogue: 0,0:00:10.03,0:00:12.16,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I, Koutarou Satomi,
+Dialogue: 0,0:00:12.16,0:00:15.70,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,will be living on my own, now \Nthat I've gotten into high school.
+Dialogue: 0,0:00:18.07,0:00:20.07,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,This is my best friend, Makkenji.
+Dialogue: 0,0:00:20.07,0:00:23.34,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,His name's Kenji Matsudaira, making "Makkenji."
+Dialogue: 0,0:00:23.34,0:00:25.29,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,I've been stuck with him ever \Nsince elementary school.
+Dialogue: 0,0:00:30.00,0:00:32.75,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,This is Kasagi Shizuka-san, my landlady.
+Dialogue: 0,0:00:33.22,0:00:34.28,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Supposedly we're the same age,
+Dialogue: 0,0:00:34.28,0:00:36.35,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,but she's managing this apartment complex.
+Dialogue: 0,0:00:37.62,0:00:39.72,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Looks like she was cleaning \Nup the yard for us.
+Dialogue: 0,0:00:42.50,0:00:46.19,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,And this is the apartment \Nthat will become my castle
+Dialogue: 0,0:00:46.19,0:00:47.65,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,for the next three years.
+Dialogue: 0,0:00:48.26,0:00:50.36,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Room 106 at Corona House.
+Dialogue: 0,0:00:51.33,0:00:52.84,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,No security deposit or money put down.
+Dialogue: 0,0:00:52.84,0:00:54.40,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,No fees to use the common area, either!
+Dialogue: 0,0:00:54.40,0:00:56.86,Invaders-Internal/Narrator,Koutarou,0000,0000,0000,,Plus, the rent's only 5,000 yen a month!
+Dialogue: 0,0:00:56.43,0:01:04.85,Invaders-Title,,0000,0000,0000,,{\fad(1500,1200)}Invaders of the Rokujyouma!?
+Dialogue: 0,0:01:05.11,0:01:07.37,Invaders-Internal/Narrator,Yuuichirou,0000,0000,0000,,I see, you're all moved in?
+Dialogue: 0,0:01:07.84,0:01:11.09,Invaders-Internal/Narrator,Yuuichirou,0000,0000,0000,,If you had anyone help, \Nmake sure you thank them.
+Dialogue: 0,0:01:11.09,0:01:12.21,Default,Koutarou,0000,0000,0000,,Sure.
+Dialogue: 0,0:01:12.21,0:01:14.79,Default,Koutarou,0000,0000,0000,,How are things on your end, Dad?
+Dialogue: 0,0:01:14.79,0:01:16.68,Invaders-Internal/Narrator,Yuuichirou,0000,0000,0000,,They relocated me for \Nmy job out of the blue,
+Dialogue: 0,0:01:16.68,0:01:18.51,Invaders-Internal/Narrator,Yuuichirou,0000,0000,0000,,but stuck me in a dorm for singles.
+Dialogue: 0,0:01:18.51,0:01:21.10,Invaders-Internal/Narrator,Yuuichirou,0000,0000,0000,,I can get meals here, and take baths.
+Dialogue: 0,0:01:21.10,0:01:23.27,Invaders-Internal/Narrator,Yuuichirou,0000,0000,0000,,No problems for the foreseeable future.
+Dialogue: 0,0:01:23.65,0:01:24.81,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:01:24.81,0:01:28.19,Default,Koutarou,0000,0000,0000,,Well, this is a good opportunity.
+Dialogue: 0,0:01:28.19,0:01:29.56,Default,Koutarou,0000,0000,0000,,Find someone nice.
+Dialogue: 0,0:01:29.56,0:01:33.57,Invaders-Internal/Narrator,Yuuichirou,0000,0000,0000,,Well, I forgot I have some stuff to clean up.
+Dialogue: 0,0:01:33.57,0:01:35.95,Default,Yuuichirou,0000,0000,0000,,Better get going.
+Dialogue: 0,0:01:33.57,0:01:35.95,Invaders-Kindergarten_First_Day,,0000,0000,0000,,First day of \NKindergarten
+Dialogue: 0,0:01:37.08,0:01:38.70,Default,Koutarou,0000,0000,0000,,Well, that's okay.
+Dialogue: 0,0:01:41.07,0:01:42.25,Default,Yuuichirou,0000,0000,0000,,Anyway, talk to you later.
+Dialogue: 0,0:01:42.25,0:01:43.99,Default,Yuuichirou,0000,0000,0000,,Good night, Koutarou.
+Dialogue: 0,0:01:43.99,0:01:45.09,Default,Koutarou,0000,0000,0000,,Night.
+Dialogue: 0,0:02:25.87,0:02:29.25,Default,Makkenji,0000,0000,0000,,You should take a day off \Nsince you just moved.
+Dialogue: 0,0:02:29.35,0:02:33.23,Invaders-Ep_Title,,0000,0000,0000,,{\fad(500,300)}The invasion begins!?
+Dialogue: 0,0:02:29.58,0:02:32.34,Default,Koutarou,0000,0000,0000,,I need to save some money for this spring.
+Dialogue: 0,0:02:32.34,0:02:35.00,Default,Makkenji,0000,0000,0000,,Didn't your dad leave you some?
+Dialogue: 0,0:02:35.33,0:02:39.37,Default,Koutarou,0000,0000,0000,,I should try not to spend that.
+Dialogue: 0,0:02:39.37,0:02:43.32,Default,Koutarou,0000,0000,0000,,That's why I searched really\N hard for that apartment.
+Dialogue: 0,0:02:43.32,0:02:46.89,Default,Makkenji,0000,0000,0000,,It {\i1}is{\i0} pretty impressive that you found \Na place like that for 5,000 yen.
+Dialogue: 0,0:02:46.89,0:02:48.98,Default,Makkenji,0000,0000,0000,,But aren't you worried?
+Dialogue: 0,0:02:48.98,0:02:51.78,Default,Makkenji,0000,0000,0000,,You know, there's rumors that there's ghosts.
+Dialogue: 0,0:02:52.73,0:02:55.34,Default,Koutarou,0000,0000,0000,,There wasn't anything last night.
+Dialogue: 0,0:02:55.34,0:02:59.58,Default,Koutarou,0000,0000,0000,,Even if there was, I'm not \Ngiving up on that place.
+Dialogue: 0,0:02:59.58,0:03:00.34,Default,Makkenji,0000,0000,0000,,Hey!
+Dialogue: 0,0:03:01.16,0:03:02.84,Default,R,0000,0000,0000,,Satomi-kun.
+Dialogue: 0,0:03:03.10,0:03:05.87,Default,R,0000,0000,0000,,There's not enough people at site B.
+Dialogue: 0,0:03:05.87,0:03:07.70,Default,R,0000,0000,0000,,Could you head over there?
+Dialogue: 0,0:03:07.70,0:03:09.87,Default,Koutarou,0000,0000,0000,,Sure, not a problem.
+Dialogue: 0,0:03:12.94,0:03:16.42,Default,Koutarou,0000,0000,0000,,Site B... Site B...
+Dialogue: 0,0:03:16.84,0:03:17.98,Invaders-Internal/Narrator,R2,0000,0000,0000,,Koutarou.
+Dialogue: 0,0:03:22.32,0:03:22.97,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:03:24.06,0:03:24.89,Invaders-Internal/Narrator,R2,0000,0000,0000,,Koutarou.
+Dialogue: 0,0:03:40.86,0:03:42.45,Default,Koutarou,0000,0000,0000,,Am I just hearing things?
+Dialogue: 0,0:04:08.97,0:04:10.45,Default,Koutarou,0000,0000,0000,,Ouch...
+Dialogue: 0,0:04:14.74,0:04:16.77,Default,Koutarou,0000,0000,0000,,Where am I?
+Dialogue: 0,0:04:24.85,0:04:25.92,Invaders-Internal/Narrator,R2,0000,0000,0000,,Koutarou.
+Dialogue: 0,0:04:27.58,0:04:30.74,Invaders-Internal/Narrator,R2,0000,0000,0000,,I've been waiting for you for so long...
+Dialogue: 0,0:04:34.06,0:04:36.63,Invaders-Internal/Narrator,R2,0000,0000,0000,,Countless days and nights.
+Dialogue: 0,0:04:36.63,0:04:39.66,Invaders-Internal/Narrator,R2,0000,0000,0000,,And within those repeating \Nstates of slumber and consciousness,
+Dialogue: 0,0:04:39.66,0:04:42.93,Invaders-Internal/Narrator,R2,0000,0000,0000,,I wonder just how many times \NI dreamed of this moment.
+Dialogue: 0,0:04:47.58,0:04:51.14,Default,R2,0000,0000,0000,,Koutarou, we've finally met.
+Dialogue: 0,0:05:22.05,0:05:24.17,Default,R2,0000,0000,0000,,Ow...
+Dialogue: 0,0:05:24.17,0:05:27.00,Default,Shizuka,0000,0000,0000,,Um, so what happned there?
+Dialogue: 0,0:05:27.00,0:05:29.07,Default,Makkenji,0000,0000,0000,,So get this, Landlady...
+Dialogue: 0,0:05:29.07,0:05:32.43,Default,Makkenji,0000,0000,0000,,This guy hit his head at \Nwork and passed out.
+Dialogue: 0,0:05:32.43,0:05:34.57,Default,Shizuka,0000,0000,0000,,What?! Are you okay?
+Dialogue: 0,0:05:34.57,0:05:36.78,Default,Koutarou,0000,0000,0000,,Yeah, the doctors said that
+Dialogue: 0,0:05:36.78,0:05:38.94,Default,Koutarou,0000,0000,0000,,there's nothing wrong, \Nother than this bump here.
+Dialogue: 0,0:05:40.90,0:05:42.71,Default,Shizuka,0000,0000,0000,,Well, that's good, but
+Dialogue: 0,0:05:42.71,0:05:45.76,Default,Shizuka,0000,0000,0000,,don't go and worry us like that, Satomi-kun.
+Dialogue: 0,0:05:45.76,0:05:47.20,Default,Shizuka,0000,0000,0000,,Er, Satomi-san.
+Dialogue: 0,0:05:47.20,0:05:49.04,Default,Koutarou,0000,0000,0000,,Why did you change that?
+Dialogue: 0,0:05:49.04,0:05:51.81,Default,Shizuka,0000,0000,0000,,Well, you're a tenant of mine.
+Dialogue: 0,0:05:51.81,0:05:55.16,Default,Koutarou,0000,0000,0000,,Yeah, but I'm going to be your \Nclassmate starting today, too.
+Dialogue: 0,0:05:55.16,0:05:58.57,Default,Makkenji,0000,0000,0000,,Exactly. There's no reason to have \Nto choose your words with this guy.
+Dialogue: 0,0:05:58.57,0:06:00.83,Default,Koutarou,0000,0000,0000,,But {\i1}you{\i0} definitely need to \Nchoose your words better!
+Dialogue: 0,0:06:03.77,0:06:06.78,Default,Shizuka,0000,0000,0000,,Satomi-kun, what are you \Ndoing on the way back?
+Dialogue: 0,0:06:06.78,0:06:08.57,Default,Koutarou,0000,0000,0000,,Sorry, Landlady.
+Dialogue: 0,0:06:08.57,0:06:10.61,Default,Koutarou,0000,0000,0000,,I have something to do, so I'm kinda...
+Dialogue: 0,0:06:10.61,0:06:12.77,Default,Makkenji,0000,0000,0000,,Oh, that?
+Dialogue: 0,0:06:12.77,0:06:15.51,Default,Makkenji,0000,0000,0000,,You'll be alone with the beautiful president.
+Dialogue: 0,0:06:16.06,0:06:19.01,Default,Koutarou,0000,0000,0000,,If you think that all men are \Nonly after women like you are,
+Dialogue: 0,0:06:19.01,0:06:21.25,Default,Koutarou,0000,0000,0000,,you're way off-base, Makkenji.
+Dialogue: 0,0:06:21.25,0:06:22.86,Default,Koutarou,0000,0000,0000,,Sorry. See you later.
+Dialogue: 0,0:06:22.86,0:06:25.95,Default,Shizuka,0000,0000,0000,,Sure. Later, Satomi-kun!
+Dialogue: 0,0:06:27.97,0:06:31.92,Default,Makkenji,0000,0000,0000,,He's part of the Knitting Society.
+Dialogue: 0,0:06:31.92,0:06:32.55,Default,Shizuka,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:32.55,0:06:34.90,Default,Shizuka,0000,0000,0000,,He already chose a club to join?
+Dialogue: 0,0:06:34.90,0:06:37.04,Default,Makkenji,0000,0000,0000,,He was invited during the school \Nacceptance announcements,
+Dialogue: 0,0:06:37.04,0:06:38.37,Default,Makkenji,0000,0000,0000,,and decided to join right away, supposedly.
+Dialogue: 0,0:06:38.98,0:06:43.19,Default,Makkenji,0000,0000,0000,,I thought he was going to \Ncontinue with baseball, but...
+Dialogue: 0,0:07:05.05,0:07:07.84,Default,Harumi,0000,0000,0000,,Satomi-kun, I've been waiting for you.
+Dialogue: 0,0:07:08.57,0:07:11.36,Default,Koutarou,0000,0000,0000,,Sakuraba-senpai, thank \Nyou for having me here.
+Dialogue: 0,0:07:12.11,0:07:13.87,Default,Koutarou,0000,0000,0000,,Ow...
+Dialogue: 0,0:07:14.35,0:07:15.02,Default,Harumi,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:19.62,0:07:21.21,Default,Harumi,0000,0000,0000,,I see.
+Dialogue: 0,0:07:21.70,0:07:26.46,Default,Harumi,0000,0000,0000,,So, it {\i1}was{\i0} you I saw at \Nthe hospital yesterday.
+Dialogue: 0,0:07:26.46,0:07:31.22,Default,Koutarou,0000,0000,0000,,I never would have thought \Nyou'd be at the same hospital.
+Dialogue: 0,0:07:31.22,0:07:34.07,Default,Harumi,0000,0000,0000,,For my whole life, my body's always\N been a bit on the weak side.
+Dialogue: 0,0:07:34.07,0:07:36.47,Default,Harumi,0000,0000,0000,,I go in for periodic checkups.
+Dialogue: 0,0:07:36.47,0:07:38.43,Default,Harumi,0000,0000,0000,,Just in case, you know?
+Dialogue: 0,0:07:38.43,0:07:40.64,Invaders-Rou,,0000,0000,0000,,rou
+Dialogue: 0,0:07:38.43,0:07:40.64,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:07:40.64,0:07:45.86,Default,Koutarou,0000,0000,0000,,Well, if you see me around \Nsomewhere, feel free to say hi.
+Dialogue: 0,0:07:45.86,0:07:50.36,Default,Koutarou,0000,0000,0000,,Especially now that I'm officially \Npart of the Knitting Society with you!
+Dialogue: 0,0:07:46.38,0:07:50.36,Invaders-Club_Entry,,0000,0000,0000,,Club Entry Form
+Dialogue: 0,0:07:52.40,0:07:54.65,Default,Harumi,0000,0000,0000,,Are you sure about this?
+Dialogue: 0,0:07:54.65,0:07:56.07,Default,Harumi,0000,0000,0000,,Joining this club, I mean.
+Dialogue: 0,0:07:56.07,0:07:56.88,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:57.38,0:07:59.34,Default,Harumi,0000,0000,0000,,I thought there were tons of people
+Dialogue: 0,0:07:59.34,0:08:02.79,Default,Harumi,0000,0000,0000,,who'd love to have someone \Nlike you on their sports teams.
+Dialogue: 0,0:08:03.41,0:08:06.51,Default,Koutarou,0000,0000,0000,,There's something I want to do.
+Dialogue: 0,0:08:07.33,0:08:11.22,Default,Koutarou,0000,0000,0000,,Because of that, I'd like to learn how to knit.
+Dialogue: 0,0:08:11.54,0:08:13.69,Default,Koutarou,0000,0000,0000,,Well, I'm not great with my hands,
+Dialogue: 0,0:08:13.69,0:08:16.75,Default,Koutarou,0000,0000,0000,,so I'm not sure how long that'll take, but...
+Dialogue: 0,0:08:18.84,0:08:20.34,Default,Harumi,0000,0000,0000,,Got it.
+Dialogue: 0,0:08:20.34,0:08:21.81,Default,Harumi,0000,0000,0000,,In that case...
+Dialogue: 0,0:08:21.81,0:08:22.83,Default,Koutarou,0000,0000,0000,,Right.
+Dialogue: 0,0:08:22.83,0:08:24.22,Invaders-Club_Entry,,0000,0000,0000,,Club Entry Form
+Dialogue: 0,0:08:24.80,0:08:27.36,Default,Harumi,0000,0000,0000,,Let's start tomorrow.
+Dialogue: 0,0:08:27.36,0:08:29.76,Default,Koutarou,0000,0000,0000,,Sure, Sakuraba-senpai!
+Dialogue: 0,0:08:40.58,0:08:42.07,Default,Koutarou,0000,0000,0000,,I'm back.
+Dialogue: 0,0:08:42.07,0:08:42.73,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:08:48.54,0:08:50.75,Default,Sanae,0000,0000,0000,,So, you're back!
+Dialogue: 0,0:08:51.23,0:08:53.15,Default,Sanae,0000,0000,0000,,All right... Today's the day!
+Dialogue: 0,0:08:53.15,0:08:56.68,Default,Sanae,0000,0000,0000,,I'm going to make a ton of\Nnoise while it's still light out!
+Dialogue: 0,0:08:58.39,0:09:01.78,Default,Sanae,0000,0000,0000,,He didn't notice last night \Nor the night before that,
+Dialogue: 0,0:09:01.78,0:09:03.51,Default,Sanae,0000,0000,0000,,but now's my chance, while he's awake!
+Dialogue: 0,0:09:03.51,0:09:06.48,Default,Sanae,0000,0000,0000,,Now be surprised, my dumb friend!
+Dialogue: 0,0:09:06.48,0:09:08.66,Default,Sanae,0000,0000,0000,,It's mysterious!
+Dialogue: 0,0:09:08.66,0:09:09.95,Default,Sanae,0000,0000,0000,,Huh? Wait...
+Dialogue: 0,0:09:10.72,0:09:13.44,Default,Koutarou,0000,0000,0000,,What are you doing in my room?
+Dialogue: 0,0:09:15.46,0:09:17.48,Default,Sanae,0000,0000,0000,,What?! You can see me?
+Dialogue: 0,0:09:17.48,0:09:19.47,Default,Koutarou,0000,0000,0000,,Of course I can!
+Dialogue: 0,0:09:19.47,0:09:21.53,Default,Koutarou,0000,0000,0000,,How did you get in here?
+Dialogue: 0,0:09:21.53,0:09:23.04,Default,Sanae,0000,0000,0000,,Why?
+Dialogue: 0,0:09:25.82,0:09:26.61,Default,Sanae,0000,0000,0000,,No way!
+Dialogue: 0,0:09:26.61,0:09:28.07,Default,Sanae,0000,0000,0000,,You're touching me...
+Dialogue: 0,0:09:28.07,0:09:29.29,Default,Sanae,0000,0000,0000,,You're touching me!
+Dialogue: 0,0:09:29.67,0:09:31.94,Default,Koutarou,0000,0000,0000,,Go back to your own place!
+Dialogue: 0,0:09:33.29,0:09:35.31,Default,Koutarou,0000,0000,0000,,That's weird...
+Dialogue: 0,0:09:35.31,0:09:37.91,Default,Koutarou,0000,0000,0000,,Did I not lock the windows?
+Dialogue: 0,0:09:37.91,0:09:38.84,Default,Sanae,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:38.84,0:09:40.30,Default,Sanae,0000,0000,0000,,What was that for?!
+Dialogue: 0,0:09:44.60,0:09:46.27,Default,Koutarou,0000,0000,0000,,Y-You...
+Dialogue: 0,0:09:47.82,0:09:50.16,Default,Sanae,0000,0000,0000,,I was waiting for that reaction!
+Dialogue: 0,0:09:50.16,0:09:52.48,Default,Sanae,0000,0000,0000,,It's weird you're able to talk with me,
+Dialogue: 0,0:09:52.48,0:09:53.86,Default,Sanae,0000,0000,0000,,but that also saves me a lot of trouble.
+Dialogue: 0,0:09:53.86,0:09:56.24,Default,Koutarou,0000,0000,0000,,Wh-What are you?
+Dialogue: 0,0:09:56.63,0:09:58.25,Default,Sanae,0000,0000,0000,,I'm Sanae.
+Dialogue: 0,0:09:58.25,0:10:00.08,Default,Sanae,0000,0000,0000,,Sanae Higashihongan.
+Dialogue: 0,0:10:00.08,0:10:02.74,Default,Sanae,0000,0000,0000,,I'm the ghost who lives here!
+Dialogue: 0,0:10:09.38,0:10:10.58,Default,K,0000,0000,0000,,I see.
+Dialogue: 0,0:10:10.58,0:10:12.13,Default,K,0000,0000,0000,,A ghost, huh?
+Dialogue: 0,0:10:12.66,0:10:15.27,Default,K,0000,0000,0000,,So, what does a ghost want with me?
+Dialogue: 0,0:10:15.27,0:10:17.02,Default,S,0000,0000,0000,,This is my house,
+Dialogue: 0,0:10:17.02,0:10:19.13,Default,S,0000,0000,0000,,so I want you to leave!
+Dialogue: 0,0:10:19.13,0:10:20.84,Default,K,0000,0000,0000,,Don't be selfish!
+Dialogue: 0,0:10:20.84,0:10:23.66,Default,K,0000,0000,0000,,This is my home! It took \Na lot of work to find it!
+Dialogue: 0,0:10:23.66,0:10:26.40,Default,K,0000,0000,0000,,I won't hand it over that—
+Dialogue: 0,0:10:27.02,0:10:28.64,Default,K,0000,0000,0000,,You're resorting to violence, now?
+Dialogue: 0,0:10:29.65,0:10:33.69,Default,S,0000,0000,0000,,Shut up! Shut up! Shut up!
+Dialogue: 0,0:10:35.40,0:10:37.30,Default,S,0000,0000,0000,,Take this!
+Dialogue: 0,0:10:37.30,0:10:40.28,Default,S,0000,0000,0000,,Poltergeist attack!
+Dialogue: 0,0:10:53.17,0:10:56.11,Default,K,0000,0000,0000,,Hey!  If that thing had hit me, I'd be dead!
+Dialogue: 0,0:10:56.11,0:10:56.95,Default,S,0000,0000,0000,,You're so dumb.
+Dialogue: 0,0:10:56.95,0:10:57.88,Default,S,0000,0000,0000,,That was the point!
+Dialogue: 0,0:10:58.48,0:11:01.51,Default,S,0000,0000,0000,,Now, I'll finish you!
+Dialogue: 0,0:11:13.87,0:11:16.65,Default,S,0000,0000,0000,,I knew it. Sacred items keep you at bay.
+Dialogue: 0,0:11:16.99,0:11:20.57,Default,S,0000,0000,0000,,And my grandma sent me a ton of them!
+Dialogue: 0,0:11:22.27,0:11:24.90,Default,S,0000,0000,0000,,I've been living here longer than you!
+Dialogue: 0,0:11:24.90,0:11:26.08,Default,S,0000,0000,0000,,So get out!
+Dialogue: 0,0:11:26.08,0:11:27.43,Default,K,0000,0000,0000,,I refuse!
+Dialogue: 0,0:11:27.43,0:11:29.18,Default,K,0000,0000,0000,,I'm trying to make \Nthings easier on my dad,
+Dialogue: 0,0:11:29.18,0:11:31.79,Default,K,0000,0000,0000,,so I'm not giving up this cheap apartment!
+Dialogue: 0,0:11:50.72,0:11:53.19,Default,Gi,0000,0000,0000,,Ow, ow...
+Dialogue: 0,0:11:53.98,0:11:56.67,Default,Gi,0000,0000,0000,,Ow...
+Dialogue: 0,0:11:56.67,0:11:59.29,Default,K,0000,0000,0000,,Who... are you?
+Dialogue: 0,0:12:00.15,0:12:01.72,Default,Gi,0000,0000,0000,,I'm...
+Dialogue: 0,0:12:03.12,0:12:04.53,Default,Gi,0000,0000,0000,,Um...
+Dialogue: 0,0:12:04.53,0:12:07.86,Default,Gi,0000,0000,0000,,Yurika... um...
+Dialogue: 0,0:12:09.10,0:12:11.79,Default,Gi,0000,0000,0000,,I'm the princess of love and courage!
+Dialogue: 0,0:12:11.79,0:12:14.59,Default,Gi,0000,0000,0000,,Magical Girl Rainbow Yurika!
+Dialogue: 0,0:12:17.26,0:12:19.95,Default,Gi,0000,0000,0000,,I'm the princess of love and courage!
+Dialogue: 0,0:12:19.95,0:12:21.63,Default,Gi,0000,0000,0000,,Magical Girl Rainbow Yurika!
+Dialogue: 0,0:12:22.03,0:12:25.47,Default,Gi,0000,0000,0000,,I'll protect the peace of this town!
+Dialogue: 0,0:12:28.22,0:12:30.18,Default,K,0000,0000,0000,,Cosplay?
+Dialogue: 0,0:12:30.18,0:12:31.73,Default,S,0000,0000,0000,,Oh, I see.
+Dialogue: 0,0:12:32.27,0:12:35.81,Default,Y,0000,0000,0000,,No! It's not cosplay...
+Dialogue: 0,0:12:36.62,0:12:38.20,Default,Y,0000,0000,0000,,The glass...
+Dialogue: 0,0:12:38.20,0:12:39.81,Default,Y,0000,0000,0000,,I'm sorry! I'm sorry!
+Dialogue: 0,0:12:39.81,0:12:40.81,Default,Y,0000,0000,0000,,I didn't mean to,
+Dialogue: 0,0:12:40.81,0:12:43.19,Default,Y,0000,0000,0000,,I was just in a hurry!
+Dialogue: 0,0:12:43.19,0:12:45.82,Default,Y,0000,0000,0000,,I can't pay you back, though...
+Dialogue: 0,0:12:45.82,0:12:47.90,Default,Y,0000,0000,0000,,I don't have any money.
+Dialogue: 0,0:12:47.90,0:12:49.70,Default,K,0000,0000,0000,,Why were you in such a hurry?
+Dialogue: 0,0:12:50.61,0:12:52.53,Default,Y,0000,0000,0000,,Ah, that's right!
+Dialogue: 0,0:12:52.53,0:12:55.58,Default,Y,0000,0000,0000,,This room is in danger!
+Dialogue: 0,0:12:56.46,0:12:57.33,Default,Both,0000,0000,0000,,Danger?!
+Dialogue: 0,0:12:57.71,0:12:58.54,Default,Y,0000,0000,0000,,Yes...
+Dialogue: 0,0:12:58.54,0:13:01.42,Default,Y,0000,0000,0000,,Gathering in this room, right now...
+Dialogue: 0,0:13:01.42,0:13:02.88,Default,Y,0000,0000,0000,,are large amounts of magical energy!
+Dialogue: 0,0:13:05.09,0:13:10.60,Default,Y,0000,0000,0000,,Magical girls will come to use it for evil!
+Dialogue: 0,0:13:10.60,0:13:12.91,Default,Y,0000,0000,0000,,So, please, run away from this place!
+Dialogue: 0,0:13:12.91,0:13:13.77,Default,Y,0000,0000,0000,,Right now!
+Dialogue: 0,0:13:16.52,0:13:17.68,Default,Y,0000,0000,0000,,Huh? What?!
+Dialogue: 0,0:13:17.91,0:13:20.03,Default,Y,0000,0000,0000,,Um... open up!
+Dialogue: 0,0:13:20.03,0:13:22.29,Default,Y,0000,0000,0000,,Please, listen to me!
+Dialogue: 0,0:13:22.29,0:13:25.27,Default,K,0000,0000,0000,,If that's the backstory for your \Ncosplay party, hold it somewhere else!
+Dialogue: 0,0:13:25.27,0:13:26.11,Default,S,0000,0000,0000,,That's right.
+Dialogue: 0,0:13:26.11,0:13:27.78,Default,S,0000,0000,0000,,We're busy!
+Dialogue: 0,0:13:33.75,0:13:37.04,Default,Y,0000,0000,0000,,I don't like this, either!
+Dialogue: 0,0:13:37.04,0:13:41.46,Default,Y,0000,0000,0000,,This outfit doesn't hide my \Nchest or butt all the way...
+Dialogue: 0,0:13:42.03,0:13:46.40,Default,Y,0000,0000,0000,,but, the Magical Land says \NI have to wear it proudly!
+Dialogue: 0,0:13:46.40,0:13:49.47,Default,Y,0000,0000,0000,,Please! Believe me!
+Dialogue: 0,0:13:49.47,0:13:52.93,Default,Y,0000,0000,0000,,Believe me!  Please, believe me!
+Dialogue: 0,0:13:51.47,0:13:53.92,Invaders-Overlap,S,0000,0000,0000,,Want to call a temporary truce?
+Dialogue: 0,0:13:53.92,0:13:54.85,Default,K,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:54.85,0:13:55.93,Default,K,0000,0000,0000,,Yeah, I think so.
+Dialogue: 0,0:14:01.52,0:14:03.95,Default,Y,0000,0000,0000,,Will you believe me?
+Dialogue: 0,0:14:03.95,0:14:06.07,Default,Y,0000,0000,0000,,That I'm a magical girl, I mean?
+Dialogue: 0,0:14:06.07,0:14:09.18,Default,K,0000,0000,0000,,Sorry, but that's a little tough.
+Dialogue: 0,0:14:09.18,0:14:11.20,Default,S,0000,0000,0000,,There's no such thing as magic.
+Dialogue: 0,0:14:12.57,0:14:14.79,Default,Y,0000,0000,0000,,Please!
+Dialogue: 0,0:14:17.33,0:14:19.08,Default,Things,0000,0000,0000,,I'm Karama!
+Dialogue: 0,0:14:19.58,0:14:20.71,Default,Things,0000,0000,0000,,I'm Koroma!
+Dialogue: 0,0:14:21.66,0:14:23.91,Default,K,0000,0000,0000,,N-Now what?
+Dialogue: 0,0:14:26.81,0:14:28.59,Default,Ki,0000,0000,0000,,I'm sorry for startling you.
+Dialogue: 0,0:14:32.59,0:14:34.10,Default,K,0000,0000,0000,,W-Who are you?
+Dialogue: 0,0:14:34.10,0:14:36.38,Default,Ki,0000,0000,0000,,A pleasure to meet you.
+Dialogue: 0,0:14:36.38,0:14:38.93,Default,Ki,0000,0000,0000,,My name is Kiriha Kurano.
+Dialogue: 0,0:14:38.93,0:14:41.04,Default,Ki,0000,0000,0000,,A descendant of the Earth People,
+Dialogue: 0,0:14:41.04,0:14:44.98,Default,Ki,0000,0000,0000,,and a member of the Kurano clan, \Nmasters of oracles and incantations.
+Dialogue: 0,0:14:45.46,0:14:47.37,Default,K,0000,0000,0000,,The Earth People?
+Dialogue: 0,0:14:47.37,0:14:49.36,Default,S,0000,0000,0000,,Oh, wow! How cute!
+Dialogue: 0,0:14:49.80,0:14:52.66,Default,Ki,0000,0000,0000,,Basically, the underground people.
+Dialogue: 0,0:14:56.43,0:14:58.66,Default,K,0000,0000,0000,,Um, so basically you're
+Dialogue: 0,0:14:59.01,0:15:03.85,Default,K,0000,0000,0000,,a descendant of people who \Nmoved underground centuries ago,
+Dialogue: 0,0:15:03.85,0:15:06.39,Default,K,0000,0000,0000,,and recently you found the location of
+Dialogue: 0,0:15:06.39,0:15:07.59,Default,K,0000,0000,0000,,a shrine that's important to your people,
+Dialogue: 0,0:15:07.59,0:15:10.40,Default,K,0000,0000,0000,,and that's this room?
+Dialogue: 0,0:15:11.50,0:15:12.98,Default,Ki,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:12.98,0:15:17.75,Default,Ki,0000,0000,0000,,So, Koutarou, would you give us this room?
+Dialogue: 0,0:15:17.75,0:15:20.15,Default,Ki,0000,0000,0000,,We want to rebuild the shrine.
+Dialogue: 0,0:15:21.25,0:15:22.60,Default,K,0000,0000,0000,,I see.
+Dialogue: 0,0:15:22.60,0:15:24.51,Default,K,0000,0000,0000,,I understand, but...
+Dialogue: 0,0:15:24.51,0:15:28.42,Default,S,0000,0000,0000,,Hey, that's not how you treated me!
+Dialogue: 0,0:15:28.42,0:15:30.14,Default,K,0000,0000,0000,,Of course not.
+Dialogue: 0,0:15:30.14,0:15:32.28,Default,K,0000,0000,0000,,She's not acting the way you did.
+Dialogue: 0,0:15:32.28,0:15:33.41,Default,K,0000,0000,0000,,And be quiet, you guys!
+Dialogue: 0,0:15:35.26,0:15:36.73,Default,S,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:15:38.24,0:15:39.27,Default,Ki,0000,0000,0000,,By the way...
+Dialogue: 0,0:15:40.22,0:15:43.83,Default,Ki,0000,0000,0000,,If you're willing to leave, we'll thank you.
+Dialogue: 0,0:15:45.62,0:15:47.55,Default,K,0000,0000,0000,,Gold bars?
+Dialogue: 0,0:15:49.71,0:15:52.66,Default,S,0000,0000,0000,,No, no! You can't have this room!
+Dialogue: 0,0:15:52.66,0:15:53.71,Default,Y,0000,0000,0000,,That's right!
+Dialogue: 0,0:15:53.71,0:15:55.30,Default,Y,0000,0000,0000,,You can't!
+Dialogue: 0,0:15:55.30,0:15:57.14,Default,K,0000,0000,0000,,Very well, Kiriha-san.
+Dialogue: 0,0:15:58.26,0:16:00.13,Default,Ki,0000,0000,0000,,I see, Koutarou.
+Dialogue: 0,0:16:00.13,0:16:00.81,Default,Ki,0000,0000,0000,,Thank you.
+Dialogue: 0,0:16:00.81,0:16:03.48,Default,S,0000,0000,0000,,Why are you getting greedy all of a sudden?!
+Dialogue: 0,0:16:03.48,0:16:06.94,Default,K,0000,0000,0000,,No! I couldn't take something this valuable.
+Dialogue: 0,0:16:06.94,0:16:09.50,Default,K,0000,0000,0000,,But, if she's being so nice,
+Dialogue: 0,0:16:09.50,0:16:12.07,Default,K,0000,0000,0000,,I have to at least consider it...
+Dialogue: 0,0:16:12.07,0:16:13.34,Default,Ki,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:13.34,0:16:15.82,Default,Ki,0000,0000,0000,,Now we can move on to our next goal.
+Dialogue: 0,0:16:15.82,0:16:16.95,Default,Ki,0000,0000,0000,,Karama!
+Dialogue: 0,0:16:16.95,0:16:17.89,Default,Ki,0000,0000,0000,,Koroma!
+Dialogue: 0,0:16:17.89,0:16:19.90,Default,Ki,0000,0000,0000,,It's time to invade the surface world!
+Dialogue: 0,0:16:19.90,0:16:21.66,Default,Both,0000,0000,0000,,Invasion time!
+Dialogue: 0,0:16:24.94,0:16:28.59,Default,Ki,0000,0000,0000,,If we can activate the shrine and \Ngather lots of etheric energy,
+Dialogue: 0,0:16:28.59,0:16:30.55,Default,Ki,0000,0000,0000,,we can make many ether weapons.
+Dialogue: 0,0:16:30.55,0:16:32.13,Default,K,0000,0000,0000,,Hold it!
+Dialogue: 0,0:16:32.13,0:16:34.59,Default,S,0000,0000,0000,,What do you mean, invade the Earth?
+Dialogue: 0,0:16:34.59,0:16:36.20,Default,Ki,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:16:36.20,0:16:39.10,Default,Ki,0000,0000,0000,,We'll treat you as an honored guest, Koutarou.
+Dialogue: 0,0:16:39.53,0:16:41.29,Default,K,0000,0000,0000,,That's not the issue!
+Dialogue: 0,0:16:41.29,0:16:42.11,Default,K,0000,0000,0000,,Forget it!
+Dialogue: 0,0:16:42.11,0:16:43.91,Default,K,0000,0000,0000,,I'm not giving you the room!
+Dialogue: 0,0:16:43.91,0:16:44.95,Default,S,0000,0000,0000,,Well said.
+Dialogue: 0,0:16:44.95,0:16:46.73,Default,S,0000,0000,0000,,I refuse as well!
+Dialogue: 0,0:16:46.73,0:16:48.32,Default,Y,0000,0000,0000,,Me, too!
+Dialogue: 0,0:16:48.32,0:16:50.44,Default,Both,0000,0000,0000,,Shut up, you cosplayer!
+Dialogue: 0,0:16:52.74,0:16:55.24,Default,Ki,0000,0000,0000,,What about this, then?
+Dialogue: 0,0:16:59.58,0:17:03.42,Default,K,0000,0000,0000,,Do you really think this will break my will?
+Dialogue: 0,0:17:03.42,0:17:05.98,Default,K,0000,0000,0000,,We endured being underground for a millennium.
+Dialogue: 0,0:17:05.98,0:17:09.09,Default,K,0000,0000,0000,,But, how long can {\i1}you{\i0} endure?
+Dialogue: 0,0:17:09.09,0:17:10.23,Default,S,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:10.23,0:17:13.16,Default,S,0000,0000,0000,,Why are you being all perverted in my room?!
+Dialogue: 0,0:17:13.16,0:17:15.55,Default,Y,0000,0000,0000,,It's not the time for that!
+Dialogue: 0,0:17:15.55,0:17:18.30,Default,Y,0000,0000,0000,,The magic power...
+Dialogue: 0,0:17:25.55,0:17:26.43,Default,K,0000,0000,0000,,Again?
+Dialogue: 0,0:17:26.43,0:17:28.10,Default,K,0000,0000,0000,,There better not be another one of you!
+Dialogue: 0,0:17:36.00,0:17:38.16,Default,T,0000,0000,0000,,How... How rude!
+Dialogue: 0,0:17:38.16,0:17:39.28,Default,K,0000,0000,0000,,W-What?
+Dialogue: 0,0:17:40.38,0:17:42.54,Default,T,0000,0000,0000,,Don't fondle them, jerk!
+Dialogue: 0,0:17:42.54,0:17:44.61,Default,K,0000,0000,0000,,Sorry! Ah!
+Dialogue: 0,0:17:47.58,0:17:48.94,Default,T,0000,0000,0000,,"Sorry" isn't good enough!
+Dialogue: 0,0:17:48.94,0:17:52.92,Default,T,0000,0000,0000,,You fondled my noble breasts \Nout of sheer lust, didn't you?
+Dialogue: 0,0:17:52.92,0:17:55.16,Default,K,0000,0000,0000,,It was an accident!
+Dialogue: 0,0:17:55.16,0:17:56.84,Default,K,0000,0000,0000,,I wouldn't deliberately touch them,
+Dialogue: 0,0:17:56.84,0:17:59.05,Default,K,0000,0000,0000,,they're barely there in the first place!
+Dialogue: 0,0:17:59.45,0:18:01.64,Default,T,0000,0000,0000,,Barely... there?
+Dialogue: 0,0:18:02.09,0:18:03.43,Default,S,0000,0000,0000,,Well, that's true.
+Dialogue: 0,0:18:03.43,0:18:05.95,Default,S,0000,0000,0000,,If he was going to fondle \Nsomebody, it'd be her.
+Dialogue: 0,0:18:05.95,0:18:07.10,Default,Ki,0000,0000,0000,,You want to?
+Dialogue: 0,0:18:07.10,0:18:08.19,Default,K,0000,0000,0000,,No!
+Dialogue: 0,0:18:09.27,0:18:11.09,Default,S,0000,0000,0000,,And yours are even further\Nout of the question!
+Dialogue: 0,0:18:14.78,0:18:18.78,Default,T,0000,0000,0000,,How dare you, neanderthals?
+Dialogue: 0,0:18:19.87,0:18:21.03,Default,T,0000,0000,0000,,Blue Knight!
+Dialogue: 0,0:18:22.51,0:18:25.25,Default,T,0000,0000,0000,,Activate anti-personnel pulse \Nlaser and sonic impact cannon!
+Dialogue: 0,0:18:25.74,0:18:28.46,Default,BK,0000,0000,0000,,As you wish, my princess.
+Dialogue: 0,0:18:33.16,0:18:35.46,Default,T,0000,0000,0000,,I'll kill you all right now!
+Dialogue: 0,0:18:35.88,0:18:37.03,Default,Ki,0000,0000,0000,,Karama! Koroma!
+Dialogue: 0,0:18:37.03,0:18:38.26,Default,Both,0000,0000,0000,,On it!
+Dialogue: 0,0:18:38.26,0:18:40.39,Default,Both,0000,0000,0000,,Etheric Field! Maximum Power!
+Dialogue: 0,0:18:40.89,0:18:42.89,Default,T,0000,0000,0000,,Wipe them out, Blue Knight!
+Dialogue: 0,0:18:42.89,0:18:45.47,Default,BK,0000,0000,0000,,As you wish, my princess.
+Dialogue: 0,0:18:54.42,0:18:56.23,Default,K,0000,0000,0000,,What is this?!
+Dialogue: 0,0:18:58.31,0:19:02.72,Default,T,0000,0000,0000,,You can regret your insults when \Nyou've been blasted to dust.
+Dialogue: 0,0:19:02.72,0:19:03.71,Default,T,0000,0000,0000,,Blue Knight!
+Dialogue: 0,0:19:03.71,0:19:06.24,Default,BK,0000,0000,0000,,As you wish, my princess.
+Dialogue: 0,0:19:14.46,0:19:16.46,Default,K,0000,0000,0000,,What are you doing to my room?
+Dialogue: 0,0:19:18.27,0:19:19.26,Default,T,0000,0000,0000,,What?!
+Dialogue: 0,0:19:23.49,0:19:28.41,Default,T,0000,0000,0000,,You can't lay a finger on\N me, you neanderthals.
+Dialogue: 0,0:19:28.41,0:19:29.84,Default,S,0000,0000,0000,,Yeah?
+Dialogue: 0,0:19:30.85,0:19:33.77,Default,S,0000,0000,0000,,Special move, Sanae-chan Tulip!
+Dialogue: 0,0:19:35.19,0:19:36.57,Default,K,0000,0000,0000,,Nice job, Sanae!
+Dialogue: 0,0:19:41.05,0:19:43.55,Default,All,0000,0000,0000,,B-Bear?
+Dialogue: 0,0:19:44.82,0:19:46.54,Default,T,0000,0000,0000,,Don't look!
+Dialogue: 0,0:19:46.54,0:19:48.13,Default,T,0000,0000,0000,,How rude!
+Dialogue: 0,0:19:48.13,0:19:49.08,Default,T,0000,0000,0000,,Stop it!
+Dialogue: 0,0:19:49.56,0:19:50.58,Default,Ka,0000,0000,0000,,A bear!
+Dialogue: 0,0:19:50.58,0:19:51.44,Default,T,0000,0000,0000,,Stop!
+Dialogue: 0,0:19:51.44,0:19:53.25,Default,Ko,0000,0000,0000,,It's a bear!
+Dialogue: 0,0:19:53.25,0:19:54.59,Default,T,0000,0000,0000,,Stop it!
+Dialogue: 0,0:19:54.59,0:19:57.17,Default,S,0000,0000,0000,,If you surrender, I'll forgive you.
+Dialogue: 0,0:19:57.95,0:20:00.77,Default,T,0000,0000,0000,,Do you really think a princess of \Nthe Holy Fortorthe Galactic Empire
+Dialogue: 0,0:20:00.77,0:20:04.05,Default,T,0000,0000,0000,,will bow her head to \Nsome outland barbarians?
+Dialogue: 0,0:20:04.05,0:20:05.14,Default,T,0000,0000,0000,,Blue Knight!
+Dialogue: 0,0:20:05.14,0:20:07.76,Default,T,0000,0000,0000,,Transform into Final Attack Mode
+Dialogue: 0,0:20:07.76,0:20:10.00,Default,T,0000,0000,0000,,and fire a limited blast \Nfrom your Genesis Buster!
+Dialogue: 0,0:20:10.00,0:20:12.89,Default,BK,0000,0000,0000,,As you wish, my princess.
+Dialogue: 0,0:20:13.40,0:20:14.78,Default,Ka,0000,0000,0000,,Emergency alert!
+Dialogue: 0,0:20:14.78,0:20:18.86,Default,Ko,0000,0000,0000,,Ultra-high energy readings \Nfifty meters above us!
+Dialogue: 0,0:20:23.43,0:20:26.50,Default,Ka,0000,0000,0000,,Looks like an antimatter cannon!
+Dialogue: 0,0:20:26.50,0:20:28.88,Default,Ki,0000,0000,0000,,That's bad, we'll all be destroyed!
+Dialogue: 0,0:20:28.88,0:20:30.09,Default,K,0000,0000,0000,,What?!
+Dialogue: 0,0:20:30.79,0:20:32.22,Default,Y,0000,0000,0000,,It's huge!
+Dialogue: 0,0:20:32.22,0:20:34.46,Default,S,0000,0000,0000,,No! I don't want to die!
+Dialogue: 0,0:20:34.86,0:20:36.75,Default,K,0000,0000,0000,,You're already dead!
+Dialogue: 0,0:20:36.75,0:20:38.23,Default,K,0000,0000,0000,,Hey, Tulip!
+Dialogue: 0,0:20:38.23,0:20:39.09,Default,K,0000,0000,0000,,Stop it!
+Dialogue: 0,0:20:40.44,0:20:41.62,Default,T,0000,0000,0000,,Blue Knight.
+Dialogue: 0,0:20:41.62,0:20:42.84,Default,T,0000,0000,0000,,Begin firing sequence.
+Dialogue: 0,0:20:42.84,0:20:45.63,Default,BK,0000,0000,0000,,As you wish, my princess.
+Dialogue: 0,0:20:43.98,0:20:45.63,Invaders-Overlap,K,0000,0000,0000,,Hey, I said stop!
+Dialogue: 0,0:20:45.63,0:20:46.34,Default,R,0000,0000,0000,,Please stop, ma'am!
+Dialogue: 0,0:20:46.76,0:20:48.10,Default,T,0000,0000,0000,,Don't try to stop me, Ruth!
+Dialogue: 0,0:20:51.66,0:20:53.14,Default,R,0000,0000,0000,,Princess Theiamillis!
+Dialogue: 0,0:20:53.14,0:20:55.38,Default,R,0000,0000,0000,,Destroying this entire planet is a
+Dialogue: 0,0:20:55.38,0:20:58.02,Default,R,0000,0000,0000,,violation of the treaties \Non intergalactic war.
+Dialogue: 0,0:20:58.02,0:21:01.15,Default,T,0000,0000,0000,,But, they said I was flat-chested...
+Dialogue: 0,0:21:01.53,0:21:07.09,Default,R,0000,0000,0000,,Your task is to make the life form at \Nthese coordinates swear loyalty to you.
+Dialogue: 0,0:21:07.09,0:21:08.83,Default,R,0000,0000,0000,,This will cause you to fail!
+Dialogue: 0,0:21:09.58,0:21:13.40,Default,R,0000,0000,0000,,Do you want to be the fastest\N failure in the history of Fortorthe,
+Dialogue: 0,0:21:13.40,0:21:15.79,Default,R,0000,0000,0000,,and bring shame upon your mother?
+Dialogue: 0,0:21:23.39,0:21:24.49,Default,T,0000,0000,0000,,Blue Knight,
+Dialogue: 0,0:21:24.49,0:21:27.09,Default,T,0000,0000,0000,,turn off the Genesis Buster.
+Dialogue: 0,0:21:29.10,0:21:34.56,Default,Gi,0000,0000,0000,,Satomi-san, what is going... on...
+Dialogue: 0,0:21:43.10,0:21:45.57,Default,Gi,0000,0000,0000,,The room is a mess!
+Dialogue: 0,0:22:04.72,0:22:05.76,Default,Gi,0000,0000,0000,,You guys!
+Dialogue: 0,0:22:06.68,0:22:07.75,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:22:07.75,0:22:10.14,Default,Gi,0000,0000,0000,,The next time you damage this building,
+Dialogue: 0,0:22:10.14,0:22:12.69,Default,Gi,0000,0000,0000,,or cause trouble for the neighbors...
+Dialogue: 0,0:22:12.69,0:22:13.89,Default,All,0000,0000,0000,,Yes?
+Dialogue: 0,0:22:14.26,0:22:17.29,Default,Gi,0000,0000,0000,,You're going to regret
+Dialogue: 0,0:22:18.22,0:22:19.73,Default,Gi,0000,0000,0000,,the fact that you're alive.
+Dialogue: 0,0:22:25.62,0:22:27.20,Default,Gi,0000,0000,0000,,I understand the situation.
+Dialogue: 0,0:22:27.20,0:22:28.07,Default,Gi,0000,0000,0000,,A ghost.
+Dialogue: 0,0:22:28.07,0:22:28.99,Default,Gi,0000,0000,0000,,An underground person.
+Dialogue: 0,0:22:28.99,0:22:30.07,Default,Gi,0000,0000,0000,,An alien.
+Dialogue: 0,0:22:30.07,0:22:31.92,Default,Gi,0000,0000,0000,,And a cosplayer.
+Dialogue: 0,0:22:31.92,0:22:34.29,Default,Gi,0000,0000,0000,,And you're all fighting over this room.
+Dialogue: 0,0:22:34.29,0:22:37.62,Default,Gi,0000,0000,0000,,It's hard to believe, but\N I guess I don't have a choice.
+Dialogue: 0,0:22:38.10,0:22:45.44,Default,Gi,0000,0000,0000,,But, I order you as the landlord \Nto resolve this all peacefully.
+Dialogue: 0,0:22:45.44,0:22:46.64,Default,Gi,0000,0000,0000,,If you can't...
+Dialogue: 0,0:22:47.32,0:22:51.09,Default,Gi,0000,0000,0000,,You're going to find eternal peace, right now.
+Dialogue: 0,0:22:51.80,0:22:53.85,Default,Gi,0000,0000,0000,,Sign this, please.
+Dialogue: 0,0:23:01.21,0:23:02.61,Invaders-Corona_Convention,,0000,0000,0000,,Corona Convention
+Dialogue: 0,0:23:02.61,0:23:07.99,Invaders-Agreement,,0000,0000,0000,,My signature indicates my willingness to abide by the agreements above.
+Dialogue: 0,0:23:02.75,0:23:07.99,Invaders-Signatures,,0000,0000,0000,,Satomi Koutarou
+Dialogue: 0,0:23:03.63,0:23:07.99,Invaders-Signatures,,0000,0000,0000,,Sanae Higashihongan
+Dialogue: 0,0:23:04.46,0:23:07.99,Invaders-Signatures,,0000,0000,0000,,Kiriha Kurano  \N{\fs20}Karama Koruma
+Dialogue: 0,0:23:05.13,0:23:07.99,Invaders-Signatures,,0000,0000,0000,,Theiamillis Gre Fortorthe
+Dialogue: 0,0:23:05.13,0:23:07.99,Invaders-Signatures,,0000,0000,0000,,Ruthkhania Nye Pardomshiha
+Dialogue: 0,0:23:06.30,0:23:07.99,Invaders-Signatures,,0000,0000,0000,,Yurika Nijino
+Dialogue: 0,0:23:08.60,0:23:11.87,Default,Gi,0000,0000,0000,,The treaty is now officially in effect.
+Dialogue: 0,0:23:11.87,0:23:14.83,Default,Gi,0000,0000,0000,,You know what'll happen \Nif you break it, right?
+Dialogue: 0,0:23:14.83,0:23:16.54,Invaders-Approved,,0000,0000,0000,,Approved
+Dialogue: 0,0:23:17.52,0:23:21.34,Default,K,0000,0000,0000,,No matter what anybody \Nsays, this room is mine!
+Dialogue: 0,0:23:21.34,0:23:23.96,Default,K,0000,0000,0000,,I won't let anybody have it!
+Dialogue: 0,0:23:26.11,0:23:28.78,Default,T,0000,0000,0000,,Who is that landlord?
+Dialogue: 0,0:23:28.78,0:23:30.96,Default,S,0000,0000,0000,,How could she hit me?! I'm a ghost!
+Dialogue: 0,0:23:30.96,0:23:33.63,Default,Y,0000,0000,0000,,That hurt...
+Dialogue: 0,0:23:33.63,0:23:35.10,Default,Ko,0000,0000,0000,,But...
+Dialogue: 0,0:23:35.10,0:23:36.07,Default,Ki,0000,0000,0000,,Yes.
+Dialogue: 0,0:23:36.07,0:23:37.65,Default,Ki,0000,0000,0000,,My shoulders feel much better.
+Dialogue: 0,0:23:36.20,0:23:39.60,Invaders-Next_Episode,,0000,0000,0000,,{\fad(500,0)}Next episode: More Invasions?!
+Dialogue: 0,0:23:37.65,0:23:39.65,Default,,0000,0000,0000,,Eh? Huh?

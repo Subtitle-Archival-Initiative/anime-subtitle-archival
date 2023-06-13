@@ -1,0 +1,475 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Invaders-Overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Internal/Narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback_Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Invaders-Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,20,0
+Style: Invaders-Title,Open Sans Semibold,48,&H00B3ECDF,&H000000FF,&H00733B28,&H001A100D,1,0,0,0,100,100,0,0,1,3,0,8,13,13,13,1
+Style: Invaders-Corona_Convention2,Open Sans Semibold,42,&H005A5A5A,&H000000FF,&H00F9F9F9,&H00B69361,0,0,0,0,100,100,0,0,1,2,0,8,13,13,53,1
+Style: Invaders-Approved,Open Sans Semibold,45,&H004933D6,&H000000FF,&H00F9F8FB,&H00B69361,1,0,0,0,100,100,0,0,1,3,0,2,13,13,20,1
+Style: Invaders-Ep_Title,Open Sans Semibold,36,&H00C7CAC2,&H000000FF,&H00A16E41,&H00A16E41,1,0,0,0,100,100,0,0,1,2,1,1,147,13,80,1
+Style: Invaders-Next_Episode,Open Sans Semibold,36,&H00EDE8FF,&H000000FF,&H00824FCD,&H00824FCD,1,0,0,0,100,100,0,0,1,2,1,7,87,13,40,1
+Style: Invaders-Play_Script,Open Sans Semibold,33,&H005A5A5A,&H000000FF,&H00F9F9F9,&H00B69361,0,0,0,0,100,100,0,0,1,2,0,8,13,13,93,1
+Style: Invaders-Application_Guidelines,Open Sans Semibold,36,&H005A5A5A,&H000000FF,&H00F9F9F9,&H00B69361,1,0,0,0,100,100,0,0,1,2,0,8,13,13,187,1
+Style: Invaders-No_Mans,Open Sans Semibold,38,&H00E6BF9A,&H000000FF,&H00FFE6BE,&H00DFBD97,1,0,0,0,100,100,0,0,1,2,2,8,33,13,200,1
+Style: Invaders-Territory_Allocation,Open Sans Semibold,30,&H00183F74,&H000000FF,&H007FB8EA,&H00AFB461,1,0,0,0,100,100,0,0,1,2,0,7,13,13,27,1
+Style: Invaders-Points_Sign,Open Sans Semibold,33,&H00CFF473,&H000000FF,&H00585043,&H00585043,1,0,0,0,100,100,0,0,1,1,1,1,240,13,133,1
+Style: Invaders-Months,Open Sans Semibold,42,&H0026C1CA,&H000000FF,&H0069F2FC,&H0000738B,1,0,0,0,100,100,0,0,1,2,1,8,13,13,13,1
+Style: Invaders-Awesome_Writing,Open Sans Semibold,38,&H0039688C,&H000000FF,&H00A8D4F4,&H0000738B,0,0,0,0,100,100,0,0,1,2,0,8,13,13,40,1
+Style: Invaders-Timestamp,Open Sans Semibold,38,&H00D1E5F3,&H000000FF,&H003F3F3F,&H003F3F3F,1,0,0,0,100,100,0,0,1,1,1,2,13,13,67,1
+Style: Invaders-Winner_Sign,Open Sans Semibold,30,&H00634FBA,&H000000FF,&H00E9EADF,&H003F3F3F,0,0,0,0,100,100,0,0,1,2,0,7,13,13,13,1
+Style: Invaders-Shouharu_Festival,Open Sans Semibold,42,&H00B96068,&H000000FF,&H00FFF1D4,&H003F3F3F,1,0,0,0,100,100,0,0,1,2,0,8,13,13,13,1
+Style: Invaders-Evil,Open Sans Semibold,36,&H001F4B65,&H000000FF,&H00579CB7,&H003F3F3F,0,0,0,0,100,100,0,0,1,2,0,9,13,147,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.39,0:00:15.84,Default,Ruth,0000,0000,0000,,Your Highness, I have your tea.
+Dialogue: 0,0:00:17.03,0:00:19.21,Default,Ruth,0000,0000,0000,,You're looking at that again?
+Dialogue: 0,0:00:19.21,0:00:22.37,Default,Theia,0000,0000,0000,,I got it from Mother, so...
+Dialogue: 0,0:00:25.40,0:00:27.54,Default,Theia,0000,0000,0000,,Why not look at it?
+Dialogue: 0,0:00:28.97,0:00:32.67,Default,Theia,0000,0000,0000,,The legend of the Silver \NPrincess and the Blue Knight...
+Dialogue: 0,0:00:45.81,0:00:54.14,Invaders-Title,,0000,0000,0000,,Invaders of the Rokujyouma!?
+Dialogue: 0,0:01:59.18,0:02:03.96,Invaders-Corona_Convention2,,0000,0000,0000,,Corona Convention
+Dialogue: 0,0:02:00.89,0:02:03.96,Invaders-Approved,,0000,0000,0000,,Approved
+Dialogue: 0,0:02:04.20,0:02:08.12,Invaders-Ep_Title,,0000,0000,0000,,Cultural Festivals and Beetles?!
+Dialogue: 0,0:02:04.77,0:02:05.68,Default,Theia,0000,0000,0000,,What?!
+Dialogue: 0,0:02:05.68,0:02:08.56,Default,Theia,0000,0000,0000,,We have to write a script for the theater club?!
+Dialogue: 0,0:02:08.56,0:02:10.06,Default,Koutarou,0000,0000,0000,,That's right!
+Dialogue: 0,0:02:10.06,0:02:12.36,Default,Koutarou,0000,0000,0000,,The cultural fair is almost here.
+Dialogue: 0,0:02:12.36,0:02:14.56,Default,Koutarou,0000,0000,0000,,My best friend, Matsudaira Kenji,
+Dialogue: 0,0:02:14.56,0:02:15.60,Default,Koutarou,0000,0000,0000,,is in the theater club,
+Dialogue: 0,0:02:15.60,0:02:18.82,Default,Koutarou,0000,0000,0000,,and they still don't know \Nwhat they're doing this year!
+Dialogue: 0,0:02:19.35,0:02:21.07,Default,Koutarou,0000,0000,0000,,I would like to help my friend!
+Dialogue: 0,0:02:21.50,0:02:23.58,Default,Koutarou,0000,0000,0000,,And for that, I need your help!
+Dialogue: 0,0:02:24.10,0:02:27.58,Default,Kiriha,0000,0000,0000,,So, Sanae, where's this act coming from?
+Dialogue: 0,0:02:27.58,0:02:31.31,Default,Sanae,0000,0000,0000,,Mr. Glasses told him that he's got \Nno talent for this sort of thing,
+Dialogue: 0,0:02:31.31,0:02:34.59,Default,Sanae,0000,0000,0000,,so he's not expecting any help, and\N I guess Koutarou didn't like that.
+Dialogue: 0,0:02:34.59,0:02:36.59,Default,Theia,0000,0000,0000,,How idiotic.
+Dialogue: 0,0:02:36.59,0:02:38.68,Default,Koutarou,0000,0000,0000,,If everyone writes one,
+Dialogue: 0,0:02:38.68,0:02:43.85,Default,Koutarou,0000,0000,0000,,the chance one of ours gets \Nused will go up quite a bit!
+Dialogue: 0,0:02:43.85,0:02:46.56,Invaders-Play_Script,,0000,0000,0000,,Theater Club Shouharu Festival Play Script
+Dialogue: 0,0:02:43.85,0:02:46.56,Invaders-Application_Guidelines,,0000,0000,0000,,Application Guidelines
+Dialogue: 0,0:02:45.61,0:02:48.24,Default,Ruth,0000,0000,0000,,The deadline is the end of this month?
+Dialogue: 0,0:02:48.24,0:02:50.09,Default,Ruth,0000,0000,0000,,There's not much time.
+Dialogue: 0,0:02:50.09,0:02:51.94,Default,Yurika,0000,0000,0000,,I can't do this...
+Dialogue: 0,0:02:51.94,0:02:53.81,Default,Koutarou,0000,0000,0000,,I'm not asking you to do this for free.
+Dialogue: 0,0:02:53.81,0:03:12.75,Invaders-Territory_Allocation,,0000,0000,0000,,Corona House #106 Territory Allocation
+Dialogue: 0,0:02:53.81,0:03:12.75,Invaders-No_Mans,,0000,0000,0000,,No Man's Land
+Dialogue: 0,0:02:54.51,0:02:59.04,Default,Koutarou,0000,0000,0000,,If you help me write, I'll give you 5 points.
+Dialogue: 0,0:02:57.80,0:03:00.84,Invaders-Points_Sign,,0000,0000,0000,,5 {\c&H67A7DC&}points
+Dialogue: 0,0:02:59.04,0:03:03.10,Default,Koutarou,0000,0000,0000,,And if any of yours gets \Npicked, I'll give you 20 points!
+Dialogue: 0,0:03:00.84,0:03:02.59,Invaders-Points_Sign,,0000,0000,0000,,{\fs25\c&HEDBC57&}20 {\c&H67A7DC&}points
+Dialogue: 0,0:03:03.52,0:03:05.45,Default,Kiriha,0000,0000,0000,,So, if no one has theirs picked, \Nyou're giving away 20 points,
+Dialogue: 0,0:03:05.45,0:03:08.51,Default,Kiriha,0000,0000,0000,,and if someone has theirs \Npicked, you're losing 40.
+Dialogue: 0,0:03:08.51,0:03:10.44,Default,Kiriha,0000,0000,0000,,That's quite the gift, Koutarou.
+Dialogue: 0,0:03:10.44,0:03:11.74,Default,Karama,0000,0000,0000,,Big!
+Dialogue: 0,0:03:11.74,0:03:12.75,Default,Korama,0000,0000,0000,,Yes, it is!
+Dialogue: 0,0:03:13.18,0:03:14.81,Default,Theia,0000,0000,0000,,You're really dumb, aren't you?
+Dialogue: 0,0:03:15.31,0:03:17.88,Default,Theia,0000,0000,0000,,Is it that important to show him up?
+Dialogue: 0,0:03:18.82,0:03:20.40,Default,Koutarou,0000,0000,0000,,Theiamillis, Your Highness.
+Dialogue: 0,0:03:20.40,0:03:21.47,Default,Theia,0000,0000,0000,,Y-Yeah?
+Dialogue: 0,0:03:21.47,0:03:24.80,Default,Koutarou,0000,0000,0000,,Sometimes men must take up a fight.
+Dialogue: 0,0:03:24.80,0:03:27.01,Default,Theia,0000,0000,0000,,I-I see.
+Dialogue: 0,0:03:27.52,0:03:32.19,Default,Koutarou,0000,0000,0000,,Anyway, I, Koutarou Satomi, \Nwould like to request your help!
+Dialogue: 0,0:03:32.19,0:03:34.77,Default,Koutarou,0000,0000,0000,,Help me get back at my enemy, Makkenji!
+Dialogue: 0,0:03:34.77,0:03:35.59,Default,Yurika,0000,0000,0000,,I'll do it!
+Dialogue: 0,0:03:35.59,0:03:36.94,Default,Yurika,0000,0000,0000,,I'll participate!
+Dialogue: 0,0:03:37.39,0:03:39.73,Default,Yurika,0000,0000,0000,,If mine gets picked, I'll get 25 points,
+Dialogue: 0,0:03:39.73,0:03:41.33,Default,Yurika,0000,0000,0000,,and even if it doesn't, I'll get 5 points!
+Dialogue: 0,0:03:41.33,0:03:43.10,Default,Yurika,0000,0000,0000,,Even if it just helps me out a little...
+Dialogue: 0,0:03:43.10,0:03:43.82,Default,Koutarou,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:43.82,0:03:45.32,Default,Koutarou,0000,0000,0000,,Work hard so they pick yours!
+Dialogue: 0,0:03:47.24,0:03:48.67,Default,Theia,0000,0000,0000,,Very well, Neanderthal.
+Dialogue: 0,0:03:48.67,0:03:50.32,Default,Theia,0000,0000,0000,,If a subordinate requests help,
+Dialogue: 0,0:03:50.32,0:03:51.96,Default,Theia,0000,0000,0000,,it's a master's job to fulfill that request.
+Dialogue: 0,0:03:51.96,0:03:53.75,Default,Sanae,0000,0000,0000,,I'll do it, too!
+Dialogue: 0,0:03:53.75,0:03:55.84,Default,Sanae,0000,0000,0000,,I'm currently in a cease-fire \Nwith you, anyway, so
+Dialogue: 0,0:03:55.84,0:03:58.46,Default,Sanae,0000,0000,0000,,I don't think it'd be that bad to help out.
+Dialogue: 0,0:03:58.46,0:03:59.30,Default,Kiriha,0000,0000,0000,,Well, then.
+Dialogue: 0,0:03:59.30,0:04:01.80,Default,Kiriha,0000,0000,0000,,I guess I'll have to \Nparticipate myself, as well.
+Dialogue: 0,0:04:01.80,0:04:04.89,Default,Kiriha,0000,0000,0000,,I may have the most points, but \NI'm not so nice that I would allow
+Dialogue: 0,0:04:04.89,0:04:08.35,Default,Kiriha,0000,0000,0000,,Theia-dono to overtake my three point lead.
+Dialogue: 0,0:04:08.68,0:04:10.44,Default,Theia,0000,0000,0000,,A prudent course of action.
+Dialogue: 0,0:04:10.44,0:04:14.91,Default,Kiriha,0000,0000,0000,,But, to be honest, I think \Nit'd be fun to try this out.
+Dialogue: 0,0:04:14.91,0:04:16.54,Default,Karama,0000,0000,0000,,That sounds just like you.
+Dialogue: 0,0:04:16.54,0:04:17.67,Default,Korama,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:17.67,0:04:20.17,Default,Koutarou,0000,0000,0000,,I appreciate all of your help!
+Dialogue: 0,0:04:21.82,0:04:24.03,Default,Koutarou,0000,0000,0000,,Just you wait, Makkenji!
+Dialogue: 0,0:04:26.37,0:04:29.22,Default,Koutarou,0000,0000,0000,,To be honest, I'm not sure what to write.
+Dialogue: 0,0:04:29.22,0:04:30.79,Default,Theia,0000,0000,0000,,Left! Left!
+Dialogue: 0,0:04:33.86,0:04:36.62,Default,Ruth,0000,0000,0000,,Your Highness, I have to analyze some data,
+Dialogue: 0,0:04:36.62,0:04:38.67,Default,Ruth,0000,0000,0000,,so I'll be heading back to the Blue Knight.
+Dialogue: 0,0:04:39.01,0:04:41.33,Default,Theia,0000,0000,0000,,Sure, I'll be back soon.
+Dialogue: 0,0:04:41.33,0:04:43.82,Default,Theia,0000,0000,0000,,I've already figured out what I'm writing.
+Dialogue: 0,0:04:43.82,0:04:44.71,Default,Koutarou,0000,0000,0000,,What?!
+Dialogue: 0,0:04:44.71,0:04:46.07,Default,Koutarou,0000,0000,0000,,Are you serious, Tulip?!
+Dialogue: 0,0:04:46.07,0:04:48.68,Default,Theia,0000,0000,0000,,We're just not on the \Nsame level, Neanderthal.
+Dialogue: 0,0:04:48.99,0:04:50.81,Default,Koutarou,0000,0000,0000,,This chick...
+Dialogue: 0,0:04:51.17,0:04:53.90,Default,Ruth,0000,0000,0000,,I'll get everything ready for writing, then.
+Dialogue: 0,0:04:57.82,0:05:00.42,Default,Yurika,0000,0000,0000,,Satomi-san, I'd like to ask you something.
+Dialogue: 0,0:05:00.42,0:05:01.78,Default,Koutarou,0000,0000,0000,,Hm? What is it?
+Dialogue: 0,0:05:01.78,0:05:06.18,Default,Yurika,0000,0000,0000,,Well, the vice president from \Nthe Cosplay Society wants me
+Dialogue: 0,0:05:06.18,0:05:10.53,Default,Yurika,0000,0000,0000,,to take care of her pet while she moves.
+Dialogue: 0,0:05:10.53,0:05:12.53,Default,Koutarou,0000,0000,0000,,Pet? What kind of pet?
+Dialogue: 0,0:05:12.53,0:05:13.42,Default,Yurika,0000,0000,0000,,Well...
+Dialogue: 0,0:05:13.42,0:05:14.91,Default,Koutarou,0000,0000,0000,,What?! You've already brought it here?!
+Dialogue: 0,0:05:16.11,0:05:17.12,Default,Yurika,0000,0000,0000,,Here it is.
+Dialogue: 0,0:05:17.49,0:05:18.75,Default,Sanae,0000,0000,0000,,Show me!
+Dialogue: 0,0:05:19.00,0:05:20.51,Default,Theia,0000,0000,0000,,What is it?
+Dialogue: 0,0:05:23.46,0:05:25.46,Default,Koutarou,0000,0000,0000,,Are you stupid, Yurika?!
+Dialogue: 0,0:05:25.46,0:05:28.74,Default,Koutarou,0000,0000,0000,,Why did you bring that thing into this room?!
+Dialogue: 0,0:05:28.74,0:05:30.32,Default,Koutarou,0000,0000,0000,,Do you understand what you've done?!
+Dialogue: 0,0:05:30.78,0:05:32.61,Default,Yurika,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:05:32.61,0:05:34.79,Default,Sanae,0000,0000,0000,,Why did you decide to take this thing?!
+Dialogue: 0,0:05:34.79,0:05:36.75,Default,Sanae,0000,0000,0000,,Wasn't there something else you could do?!
+Dialogue: 0,0:05:36.75,0:05:38.23,Default,Yurika,0000,0000,0000,,No...
+Dialogue: 0,0:05:38.56,0:05:42.11,Default,Theia,0000,0000,0000,,Hm? Is this bug really that dangerous?
+Dialogue: 0,0:05:42.11,0:05:44.21,Default,Kiriha,0000,0000,0000,,Well, Theia-dono,
+Dialogue: 0,0:05:44.21,0:05:46.56,Default,Kiriha,0000,0000,0000,,this is a rhinoceros beetle.
+Dialogue: 0,0:05:47.36,0:05:50.99,Invaders-Flashback,Ruth,0000,0000,0000,,Do you really like beetles \Nthat much more than me?!
+Dialogue: 0,0:05:51.32,0:05:53.18,Default,Theia,0000,0000,0000,,What should we do, Neanderthal?!
+Dialogue: 0,0:05:53.18,0:05:56.07,Default,Theia,0000,0000,0000,,If Ruth sees this, it'll be awful!
+Dialogue: 0,0:05:56.07,0:05:57.62,Default,Koutarou,0000,0000,0000,,That's why I'm worried!
+Dialogue: 0,0:05:57.95,0:05:59.50,Default,Kiriha,0000,0000,0000,,How long do you have to keep him?
+Dialogue: 0,0:05:59.95,0:06:02.50,Default,Yurika,0000,0000,0000,,The vice president's family \Njust came into a lot of money,
+Dialogue: 0,0:06:02.50,0:06:06.08,Default,Yurika,0000,0000,0000,,so they have a bunch of stuff... \NI think it'll be a while.
+Dialogue: 0,0:06:06.08,0:06:09.39,Default,Yurika,0000,0000,0000,,One or two months...
+Dialogue: 0,0:06:07.15,0:06:08.61,Invaders-Months,,0000,0000,0000,,One month
+Dialogue: 0,0:06:08.74,0:06:11.30,Invaders-Months,,0000,0000,0000,,{\fs30}Two months
+Dialogue: 0,0:06:09.39,0:06:11.30,Default,Koutarou,0000,0000,0000,,People go crazy when \Nthey get a lot of money.
+Dialogue: 0,0:06:11.30,0:06:14.44,Default,Theia,0000,0000,0000,,Yeah, but Ruth always acts on a schedule,
+Dialogue: 0,0:06:14.44,0:06:17.10,Default,Theia,0000,0000,0000,,so I don't think it'll be hard to—
+Dialogue: 0,0:06:17.10,0:06:18.73,Default,Koutarou,0000,0000,0000,,This is bad, Tulip!
+Dialogue: 0,0:06:23.54,0:06:26.99,Default,Ruth,0000,0000,0000,,Sorry, I forgot something.
+Dialogue: 0,0:06:26.99,0:06:27.59,Default,Ruth,0000,0000,0000,,Hm?
+Dialogue: 0,0:06:27.59,0:06:29.61,Default,Ruth,0000,0000,0000,,Were you all doing something?
+Dialogue: 0,0:06:29.61,0:06:31.62,Default,Theia,0000,0000,0000,,Oh, nothing at all.
+Dialogue: 0,0:06:31.62,0:06:34.16,Default,Yurika,0000,0000,0000,,Yeah, we're not doing anything.
+Dialogue: 0,0:06:34.16,0:06:35.62,Default,Yurika,0000,0000,0000,,We definitely don't have a be—
+Dialogue: 0,0:06:36.79,0:06:39.76,Default,Koutarou,0000,0000,0000,,No, it's really nothing.
+Dialogue: 0,0:06:39.76,0:06:40.86,Default,Koutarou,0000,0000,0000,,Right, Tulip?
+Dialogue: 0,0:06:40.86,0:06:43.17,Default,Theia,0000,0000,0000,,The Neanderthal is right.
+Dialogue: 0,0:06:50.09,0:06:53.36,Default,Koutarou,0000,0000,0000,,You said nonfiction,
+Dialogue: 0,0:06:53.36,0:06:55.51,Default,Koutarou,0000,0000,0000,,did your parents run away\Nand elope or something?
+Dialogue: 0,0:06:55.51,0:06:58.40,Default,Sanae,0000,0000,0000,,Yeah, my mom's family was rich,
+Dialogue: 0,0:06:58.40,0:07:00.92,Default,Sanae,0000,0000,0000,,so they wanted her to get \Nmarried for the family, you know?
+Dialogue: 0,0:07:00.92,0:07:03.90,Default,Sanae,0000,0000,0000,,She ran off to my dad's place.
+Dialogue: 0,0:07:04.35,0:07:05.36,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:07:06.09,0:07:08.99,Default,Sanae,0000,0000,0000,,Want to take a break, Koutarou?
+Dialogue: 0,0:07:08.99,0:07:11.54,Default,Sanae,0000,0000,0000,,I've been borrowing your body to write, so...
+Dialogue: 0,0:07:11.54,0:07:12.90,Default,Koutarou,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:07:12.90,0:07:15.20,Default,Koutarou,0000,0000,0000,,I haven't even figured out \Nwhat I'm going to write yet.
+Dialogue: 0,0:07:15.57,0:07:19.14,Default,Koutarou,0000,0000,0000,,It's weird to have a literal ghost writer,
+Dialogue: 0,0:07:19.14,0:07:20.16,Default,Koutarou,0000,0000,0000,,but it's fun.
+Dialogue: 0,0:07:21.37,0:07:22.57,Default,Sanae,0000,0000,0000,,Well, then,
+Dialogue: 0,0:07:22.57,0:07:25.84,Default,Sanae,0000,0000,0000,,after this I'll massage your shoulders \Nand help you out.
+Dialogue: 0,0:07:26.15,0:07:28.05,Default,Koutarou,0000,0000,0000,,Sure, thanks.
+Dialogue: 0,0:07:28.94,0:07:31.26,Default,Koutarou,0000,0000,0000,,You've got pretty nice writing, Sanae.
+Dialogue: 0,0:07:31.26,0:07:32.57,Default,Sanae,0000,0000,0000,,I know, right?
+Dialogue: 0,0:07:32.57,0:07:36.14,Default,Sanae,0000,0000,0000,,Just try remembering how your hand's \Nmoving to make those letters.
+Dialogue: 0,0:07:36.45,0:07:37.77,Default,Koutarou,0000,0000,0000,,Sure, why not?
+Dialogue: 0,0:07:40.35,0:07:43.06,Invaders-Awesome_Writing,,0000,0000,0000,,Keep telling me how awesome I am!
+Dialogue: 0,0:07:47.37,0:07:48.65,Default,Koutarou,0000,0000,0000,,You're awesome.
+Dialogue: 0,0:07:51.53,0:07:54.58,Default,Yurika,0000,0000,0000,,Help me, Satomi-san!
+Dialogue: 0,0:07:53.07,0:07:55.12,Invaders-Overlap,Sanae,0000,0000,0000,,W-What's wrong, Yurika?!
+Dialogue: 0,0:07:55.44,0:08:00.81,Default,Yurika,0000,0000,0000,,Hercules-chan keeps moving \Naround and I can't sleep.
+Dialogue: 0,0:08:00.81,0:08:02.43,Default,Koutarou,0000,0000,0000,,Why do I care?
+Dialogue: 0,0:08:02.43,0:08:05.56,Default,Yurika,0000,0000,0000,,Yeah, but when Hercules-chan moves around,
+Dialogue: 0,0:08:05.56,0:08:07.34,Default,Yurika,0000,0000,0000,,he sounds exactly like a cockroach.
+Dialogue: 0,0:08:07.66,0:08:10.61,Default,Yurika,0000,0000,0000,,Please do something, Satomi-san...
+Dialogue: 0,0:08:10.61,0:08:12.42,Default,Koutarou,0000,0000,0000,,Yeah, but...
+Dialogue: 0,0:08:12.42,0:08:14.18,Default,Sanae,0000,0000,0000,,You just can't get rid of him?
+Dialogue: 0,0:08:14.18,0:08:20.43,Default,Yurika,0000,0000,0000,,No! The vice president really \Nloves the little guy.
+Dialogue: 0,0:08:20.43,0:08:22.43,Default,Koutarou,0000,0000,0000,,Oh, well. I have a good idea.
+Dialogue: 0,0:08:22.43,0:08:23.68,Default,Yurika,0000,0000,0000,,Really?
+Dialogue: 0,0:08:23.68,0:08:27.04,Default,Koutarou,0000,0000,0000,,Yeah, you can keep Hercules in the closet.
+Dialogue: 0,0:08:27.04,0:08:28.13,Default,Koutarou,0000,0000,0000,,And then you—
+Dialogue: 0,0:08:28.13,0:08:29.23,Default,Sanae,0000,0000,0000,,Can get out.
+Dialogue: 0,0:08:31.11,0:08:32.83,Default,Koutarou,0000,0000,0000,,Sanae, I understand how you feel,
+Dialogue: 0,0:08:32.83,0:08:34.26,Default,Koutarou,0000,0000,0000,,but you're not helping.
+Dialogue: 0,0:08:34.26,0:08:35.68,Default,Koutarou,0000,0000,0000,,Just relax a little.
+Dialogue: 0,0:08:35.68,0:08:36.16,Default,Sanae,0000,0000,0000,,Right.
+Dialogue: 0,0:08:36.68,0:08:38.75,Default,Koutarou,0000,0000,0000,,You put Hercules in the closet,
+Dialogue: 0,0:08:38.75,0:08:40.32,Default,Koutarou,0000,0000,0000,,and Yurika, you...
+Dialogue: 0,0:08:40.32,0:08:41.54,Default,Koutarou,0000,0000,0000,,can live in the room for a while.
+Dialogue: 0,0:08:41.98,0:08:42.83,Default,Yurika,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:42.83,0:08:44.25,Default,Yurika,0000,0000,0000,,A-Are you sure?
+Dialogue: 0,0:08:44.69,0:08:47.01,Default,Yurika,0000,0000,0000,,Thank you.
+Dialogue: 0,0:08:47.01,0:08:49.08,Default,Yurika,0000,0000,0000,,Aren't you happy, Hercules-chan?
+Dialogue: 0,0:08:49.08,0:08:50.71,Default,Yurika,0000,0000,0000,,Now you don't have to leave.
+Dialogue: 0,0:08:52.79,0:08:57.08,Default,Yurika,0000,0000,0000,,I'll make sure you get back to your master.
+Dialogue: 0,0:09:15.47,0:09:17.93,Default,Ruth,0000,0000,0000,,Are you not tired, Your Highness?
+Dialogue: 0,0:09:18.39,0:09:21.08,Default,Ruth,0000,0000,0000,,I've got the instant writing device ready...
+Dialogue: 0,0:09:21.08,0:09:25.34,Default,Theia,0000,0000,0000,,No, it's important that I keep myself \Non the same level as this planet.
+Dialogue: 0,0:09:25.76,0:09:30.04,Default,Theia,0000,0000,0000,,Also, I need to play on the same \Nfield as the Neanderthal and Kiriha.
+Dialogue: 0,0:09:33.67,0:09:35.20,Default,Ruth,0000,0000,0000,,A space-time quake.
+Dialogue: 0,0:09:35.20,0:09:37.71,Default,,0000,0000,0000,,Coordinates 125, 88, 493.
+Dialogue: 0,0:09:37.71,0:09:38.99,Default,,0000,0000,0000,,Size 181.
+Dialogue: 0,0:09:38.99,0:09:40.05,Default,Theia,0000,0000,0000,,Right next to this planet.
+Dialogue: 0,0:09:43.87,0:09:44.80,Default,Theia,0000,0000,0000,,Could it be...?
+Dialogue: 0,0:09:50.25,0:09:52.36,Invaders-Timestamp,,0000,0000,0000,,One month later
+Dialogue: 0,0:09:51.10,0:09:52.36,Default,TC,0000,0000,0000,,Thank you for coming here,
+Dialogue: 0,0:09:52.69,0:09:55.24,Default,TC,0000,0000,0000,,savior of the Theater Club!
+Dialogue: 0,0:09:55.24,0:09:57.99,Default,TC,0000,0000,0000,,Congratulations on winning \Nthe scenario competition,
+Dialogue: 0,0:10:00.03,0:10:03.38,Default,TC,0000,0000,0000,,Theiamillis Gre Fortorthe-dono.
+Dialogue: 0,0:10:03.38,0:10:05.33,Default,Theia,0000,0000,0000,,No problem.
+Dialogue: 0,0:10:05.33,0:10:07.58,Invaders-Winner_Sign,,0000,0000,0000,,Winner! \N{\c&H54554A&}Shouharu Festival Playwright \N"The Silver Princess and The Blue Knight"
+Dialogue: 0,0:10:07.58,0:10:09.42,Default,TC,0000,0000,0000,,It was a wonderful script,
+Dialogue: 0,0:10:10.21,0:10:12.29,Default,TC,0000,0000,0000,,"The Silver Princess and The Blue Knight".
+Dialogue: 0,0:10:12.68,0:10:16.81,Default,Theia,0000,0000,0000,,I'm just glad that this \Nplanet understands true art.
+Dialogue: 0,0:10:17.31,0:10:19.01,Default,Koutarou,0000,0000,0000,,Yeah, right.
+Dialogue: 0,0:10:19.32,0:10:21.29,Default,Koutarou,0000,0000,0000,,Why did the Tulip get chosen,
+Dialogue: 0,0:10:21.29,0:10:23.50,Default,Koutarou,0000,0000,0000,,while the rest of us didn't?
+Dialogue: 0,0:10:23.50,0:10:24.39,Default,Koutarou,0000,0000,0000,,Right, Yurika?
+Dialogue: 0,0:10:24.39,0:10:25.75,Default,Yurika,0000,0000,0000,,I know, right?
+Dialogue: 0,0:10:25.75,0:10:29.42,Default,Koutarou,0000,0000,0000,,Do you think you amateurs can \Nreally understand what we wrote?
+Dialogue: 0,0:10:29.42,0:10:30.98,Default,Yurika,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:30.98,0:10:33.79,Default,Karama,0000,0000,0000,,Those two get along really well.
+Dialogue: 0,0:10:33.79,0:10:35.78,Default,Korama,0000,0000,0000,,Yeah, almost too much.
+Dialogue: 0,0:10:35.78,0:10:40.32,Default,Kiriha,0000,0000,0000,,I guess they've grown closer after \Nwriting every night together.
+Dialogue: 0,0:10:42.57,0:10:45.29,Default,Theia,0000,0000,0000,,You losers can go console each other.
+Dialogue: 0,0:10:47.75,0:10:50.96,Default,Koutarou,0000,0000,0000,,Don't get all worked up, you stupid princess.
+Dialogue: 0,0:10:56.88,0:11:00.38,Invaders-Shouharu_Festival,,0000,0000,0000,,Shouharu Festival
+Dialogue: 0,0:11:01.56,0:11:05.68,Default,Ruth,0000,0000,0000,,The play that the princess wrote, "The \NSilver Princess and the Blue Knight",
+Dialogue: 0,0:11:05.68,0:11:11.02,Default,Ruth,0000,0000,0000,,is based on a legend that everyone \Nin the Fortorthen Empire knows.
+Dialogue: 0,0:11:11.70,0:11:15.23,Default,Ruth,0000,0000,0000,,The Fortorthen princess, \NAlaia-sama, caught up in a coup,
+Dialogue: 0,0:11:15.61,0:11:18.31,Default,Ruth,0000,0000,0000,,was defended by Reios-sama, the Blue Knight,
+Dialogue: 0,0:11:18.31,0:11:22.57,Default,Ruth,0000,0000,0000,,while traveling to their old friend \Nin the Land of Pardomshiha.
+Dialogue: 0,0:11:23.56,0:11:24.86,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:11:25.77,0:11:28.37,Default,Koutarou,0000,0000,0000,,Sounds like a story the \Nclub president would like.
+Dialogue: 0,0:11:28.75,0:11:33.66,Default,Ruth,0000,0000,0000,,All Forthorthen girls adore the Blue Knight.
+Dialogue: 0,0:11:33.66,0:11:36.71,Default,Ruth,0000,0000,0000,,Her Highness really likes the story, as well.
+Dialogue: 0,0:11:36.71,0:11:39.09,Default,Koutarou,0000,0000,0000,,So, she was really enthusiastic, then?
+Dialogue: 0,0:11:39.47,0:11:42.27,Default,Ruth,0000,0000,0000,,If she didn't have her script \Nchosen after working so hard,
+Dialogue: 0,0:11:42.27,0:11:44.40,Default,Ruth,0000,0000,0000,,I'm sure she would have \Nbeen extremely dejected.
+Dialogue: 0,0:11:45.04,0:11:47.99,Default,Ruth,0000,0000,0000,,I'd like it if you could do whatever you can,
+Dialogue: 0,0:11:47.99,0:11:51.06,Default,Ruth,0000,0000,0000,,considering this shows her \Nfeelings for the Blue Knight.
+Dialogue: 0,0:11:51.06,0:11:54.14,Default,Koutarou,0000,0000,0000,,I understand, Ruth-san.
+Dialogue: 0,0:11:54.14,0:11:56.34,Default,Koutarou,0000,0000,0000,,That's why I'm helping out here.
+Dialogue: 0,0:11:56.97,0:11:59.57,Default,Koutarou,0000,0000,0000,,I'm the one who asked her in the first place.
+Dialogue: 0,0:12:00.02,0:12:01.83,Default,Ruth,0000,0000,0000,,Thank you.
+Dialogue: 0,0:12:01.83,0:12:04.59,Default,Ruth,0000,0000,0000,,You're quite nice, Satomi-sama.
+Dialogue: 0,0:12:04.59,0:12:06.41,Default,Koutarou,0000,0000,0000,,No, well...
+Dialogue: 0,0:12:06.41,0:12:07.62,Default,Theia,0000,0000,0000,,No!
+Dialogue: 0,0:12:08.16,0:12:11.47,Default,Theia,0000,0000,0000,,You all aren't bad, but... I don't know.
+Dialogue: 0,0:12:11.47,0:12:13.39,Default,Theia,0000,0000,0000,,You're not the Silver Princess!
+Dialogue: 0,0:12:13.39,0:12:15.48,Default,Theia,0000,0000,0000,,You need to be more fragile-looking—
+Dialogue: 0,0:12:15.48,0:12:16.60,Default,TC,0000,0000,0000,,Delicate.
+Dialogue: 0,0:12:16.60,0:12:18.61,Default,TC,0000,0000,0000,,But with a fire burning within her.
+Dialogue: 0,0:12:19.43,0:12:21.06,Default,Theia,0000,0000,0000,,Oh, you understand, don't you?
+Dialogue: 0,0:12:21.06,0:12:22.16,Default,Yurika,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:22.16,0:12:23.94,Default,Yurika,0000,0000,0000,,I'll be the princess!
+Dialogue: 0,0:12:23.94,0:12:26.64,Default,Yurika,0000,0000,0000,,I don't want to be the back of the horse.\NAt least give me a role where they can see my face!
+Dialogue: 0,0:12:26.64,0:12:29.82,Default,TC,0000,0000,0000,,Yeah, we do have a limit \Non the people we have.
+Dialogue: 0,0:12:29.82,0:12:31.43,Default,Theia,0000,0000,0000,,Since whoever we have be the Blue Knight
+Dialogue: 0,0:12:31.43,0:12:33.39,Default,Theia,0000,0000,0000,,will be a far cry from the real thing,
+Dialogue: 0,0:12:33.39,0:12:35.60,Default,Theia,0000,0000,0000,,I don't really mind if Matsudaira does it.
+Dialogue: 0,0:12:36.16,0:12:38.86,Default,Theia,0000,0000,0000,,I don't really want to \Ncompromise the Silver Princess.
+Dialogue: 0,0:12:38.86,0:12:41.50,Default,Yurika,0000,0000,0000,,Why are you ignoring me?
+Dialogue: 0,0:12:41.50,0:12:43.21,Default,Koutarou,0000,0000,0000,,Calm yourself, Comrade Yurika!
+Dialogue: 0,0:12:43.21,0:12:44.28,Default,Yurika,0000,0000,0000,,Satomi-san!
+Dialogue: 0,0:12:44.28,0:12:47.15,Default,Koutarou,0000,0000,0000,,Tulip, I've heard your concerns.
+Dialogue: 0,0:12:47.15,0:12:51.20,Default,Koutarou,0000,0000,0000,,I know someone perfect for\N the role of the Silver Princess.
+Dialogue: 0,0:12:51.20,0:12:52.10,Default,Theia,0000,0000,0000,,What?
+Dialogue: 0,0:12:52.10,0:12:52.77,Default,TC,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:12:52.77,0:12:53.71,Default,TC,0000,0000,0000,,Tell us!
+Dialogue: 0,0:12:53.71,0:12:55.16,Default,Koutarou,0000,0000,0000,,No problem.
+Dialogue: 0,0:12:55.16,0:12:57.04,Default,Koutarou,0000,0000,0000,,In exchange, though,
+Dialogue: 0,0:12:57.04,0:12:59.50,Default,Koutarou,0000,0000,0000,,I want you to give my comrade, \NYurika here a role where her face is shown.
+Dialogue: 0,0:12:59.50,0:13:00.17,Default,Yurika,0000,0000,0000,,Satomi-san...
+Dialogue: 0,0:13:00.67,0:13:02.17,Default,Theia,0000,0000,0000,,Oh, well.
+Dialogue: 0,0:13:02.17,0:13:03.55,Default,Theia,0000,0000,0000,,Is there anything available?
+Dialogue: 0,0:13:03.55,0:13:06.24,Default,TC,0000,0000,0000,,Well, if she can't play the \Nback of the horse any longer...
+Dialogue: 0,0:13:06.24,0:13:09.81,Default,TC,0000,0000,0000,,There's the evil Bandit A that she can play.
+Dialogue: 0,0:13:09.81,0:13:11.81,Default,Yurika,0000,0000,0000,,I-I'll do the bandit!
+Dialogue: 0,0:13:11.81,0:13:15.07,Default,Yurika,0000,0000,0000,,I'll do my best to be evil.
+Dialogue: 0,0:13:14.83,0:13:20.27,Invaders-Evil,,0000,0000,0000,,evil
+Dialogue: 0,0:13:15.07,0:13:17.95,Default,Yurika,0000,0000,0000,,Hey there, leave your \Nmoney and get out of here.
+Dialogue: 0,0:13:17.95,0:13:20.27,Default,Koutarou,0000,0000,0000,,You want that role?
+Dialogue: 0,0:13:20.27,0:13:21.65,Default,Theia,0000,0000,0000,,So, Neanderth—
+Dialogue: 0,0:13:23.59,0:13:24.70,Default,Theia,0000,0000,0000,,Koutarou.
+Dialogue: 0,0:13:24.70,0:13:26.61,Default,Theia,0000,0000,0000,,Who's the person you mention \Nthat's perfect for the role?
+Dialogue: 0,0:13:26.61,0:13:28.08,Default,Koutarou,0000,0000,0000,,Hold on.
+Dialogue: 0,0:13:28.08,0:13:29.52,Default,Koutarou,0000,0000,0000,,I'll bring them now—
+Dialogue: 0,0:13:29.52,0:13:30.88,Default,Harumi,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:13:30.88,0:13:32.45,Default,Harumi,0000,0000,0000,,Oh, Satomi-kun.
+Dialogue: 0,0:13:32.45,0:13:35.62,Default,Harumi,0000,0000,0000,,Could I help with something?
+Dialogue: 0,0:13:35.62,0:13:36.77,Default,Koutarou,0000,0000,0000,,Oh, Senpai!
+Dialogue: 0,0:13:36.77,0:13:38.11,Default,Koutarou,0000,0000,0000,,Good timing!
+Dialogue: 0,0:13:40.41,0:13:42.84,Default,Theia,0000,0000,0000,,Harumi Sakuraba, huh?
+Dialogue: 0,0:13:49.86,0:13:53.90,Default,Harumi,0000,0000,0000,,Reios-sama, you can't fight all on your own!
+Dialogue: 0,0:13:53.90,0:13:56.88,Default,Harumi,0000,0000,0000,,You've already fought so hard for me.
+Dialogue: 0,0:13:56.88,0:14:00.50,Default,Harumi,0000,0000,0000,,Please forget us, and run...
+Dialogue: 0,0:14:01.66,0:14:03.28,Default,Koutarou,0000,0000,0000,,That was good.
+Dialogue: 0,0:14:03.71,0:14:07.45,Default,Koutarou,0000,0000,0000,,I was worried that you didn't \Nwant to actually take the role,
+Dialogue: 0,0:14:07.45,0:14:10.24,Default,Koutarou,0000,0000,0000,,but I think you'll be fine.
+Dialogue: 0,0:14:10.93,0:14:14.58,Default,Harumi,0000,0000,0000,,While I think it's a wonderful story,
+Dialogue: 0,0:14:14.58,0:14:19.21,Default,Harumi,0000,0000,0000,,I don't understand \NPrincess Alaia's feelings...
+Dialogue: 0,0:14:19.21,0:14:21.00,Default,Koutarou,0000,0000,0000,,I see.
+Dialogue: 0,0:14:21.00,0:14:23.74,Default,Koutarou,0000,0000,0000,,Maybe it's hard because you don't \Nhave a partner to practice with?
+Dialogue: 0,0:14:23.74,0:14:25.96,Default,Koutarou,0000,0000,0000,,I'll help you out, if you'd like.
+Dialogue: 0,0:14:25.96,0:14:27.71,Default,Harumi,0000,0000,0000,,Y-You will, Satomi-kun?
+Dialogue: 0,0:14:27.71,0:14:28.54,Default,Koutarou,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:28.54,0:14:30.70,Default,Koutarou,0000,0000,0000,,Soldier A doesn't really \Nget much screen time.
+Dialogue: 0,0:14:34.51,0:14:39.07,Default,Koutarou,0000,0000,0000,,Princess Alaia, it seems this is as \Nfar as I'll be able to accompany you.
+Dialogue: 0,0:14:39.07,0:14:40.52,Default,Harumi,0000,0000,0000,,Reios-sama?
+Dialogue: 0,0:14:40.52,0:14:41.31,Default,Koutarou,0000,0000,0000,,Your Highness,
+Dialogue: 0,0:14:41.31,0:14:43.90,Default,Koutarou,0000,0000,0000,,please run away with your sister.
+Dialogue: 0,0:14:43.90,0:14:45.25,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,I see.
+Dialogue: 0,0:14:45.25,0:14:46.61,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,The princess...
+Dialogue: 0,0:14:46.61,0:14:49.08,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,Alaia's drawn to this person.
+Dialogue: 0,0:14:50.32,0:14:53.39,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,The Forthorthen Empire, \Nand the Knitting Club...
+Dialogue: 0,0:14:53.39,0:14:55.58,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,they're both in danger, and \Ncould disappear any moment,
+Dialogue: 0,0:14:55.58,0:15:00.14,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,but the Blue Knight, \NSatomi-kun, saved me from that.
+Dialogue: 0,0:15:00.14,0:15:03.35,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,That's right. The Silver Princess and I...
+Dialogue: 0,0:15:03.77,0:15:05.80,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,Our feelings are the same.
+Dialogue: 0,0:15:05.80,0:15:07.77,Default,Harumi,0000,0000,0000,,No, Reios-sama.
+Dialogue: 0,0:15:07.77,0:15:09.82,Default,Koutarou,0000,0000,0000,,No, it was because of you, Princess.
+Dialogue: 0,0:15:09.82,0:15:11.58,Default,Koutarou,0000,0000,0000,,All of your subjects adore you.
+Dialogue: 0,0:15:12.02,0:15:14.38,Default,Koutarou,0000,0000,0000,,That is why for all the people, I...
+Dialogue: 0,0:15:14.38,0:15:15.21,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,I understand.
+Dialogue: 0,0:15:15.70,0:15:17.55,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,I understand how she feels.
+Dialogue: 0,0:15:17.96,0:15:19.74,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,The Silver Princess...
+Dialogue: 0,0:15:19.74,0:15:22.28,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,The reason why I didn't fold,
+Dialogue: 0,0:15:22.28,0:15:23.61,Invaders-Internal/Narrator,Harumi,0000,0000,0000,,was because you were there...
+Dialogue: 0,0:15:23.61,0:15:26.83,Default,Harumi,0000,0000,0000,,You've already fought enough.
+Dialogue: 0,0:15:27.25,0:15:30.69,Default,Harumi,0000,0000,0000,,Please forget us and run.
+Dialogue: 0,0:15:30.69,0:15:33.23,Default,Harumi,0000,0000,0000,,You should be able to escape on your own!
+Dialogue: 0,0:15:33.23,0:15:35.99,Default,Harumi,0000,0000,0000,,I want you to live!
+Dialogue: 0,0:15:43.79,0:15:47.00,Default,TC,0000,0000,0000,,Bravo, bravo, Sakuraba-san!
+Dialogue: 0,0:15:47.00,0:15:48.45,Default,Harumi,0000,0000,0000,,President?
+Dialogue: 0,0:15:48.45,0:15:51.03,Default,TC,0000,0000,0000,,I knew it was the right \Nchoice to make you the lead.
+Dialogue: 0,0:15:51.03,0:15:52.59,Default,TC,0000,0000,0000,,I'm looking forward to the play.
+Dialogue: 0,0:15:52.59,0:15:54.22,Default,TC,0000,0000,0000,,I'll be counting on you too, Satomi-kun.
+Dialogue: 0,0:15:54.55,0:15:55.30,Default,Koutarou,0000,0000,0000,,Right!
+Dialogue: 0,0:15:55.30,0:15:59.74,Default,Koutarou,0000,0000,0000,,Koutarou Satomi will back up \NPrincess Alaia with everything he has!
+Dialogue: 0,0:15:59.74,0:16:02.19,Default,Harumi,0000,0000,0000,,S-Satomi-kun...
+Dialogue: 0,0:16:03.27,0:16:07.32,Default,Theia,0000,0000,0000,,So, there really aren't any clues \Nleft after that space-time quake.
+Dialogue: 0,0:16:07.73,0:16:10.29,Default,Ruth,0000,0000,0000,,Yes, we're not even picking up a faint signal.
+Dialogue: 0,0:16:11.60,0:16:13.03,Default,Theia,0000,0000,0000,,There's only one answer, huh?
+Dialogue: 0,0:16:13.44,0:16:15.94,Default,Ruth,0000,0000,0000,,We'll stay alert.
+Dialogue: 0,0:16:15.94,0:16:18.26,Default,Ruth,0000,0000,0000,,Hopefully it's just a warning.
+Dialogue: 0,0:16:23.64,0:16:25.96,Invaders-Timestamp,,0000,0000,0000,,{\a3}A day off close to the festival
+Dialogue: 0,0:16:25.96,0:16:27.58,Default,Sanae,0000,0000,0000,,Work, work.
+Dialogue: 0,0:16:27.58,0:16:29.26,Default,Sanae,0000,0000,0000,,Excavating stuff!
+Dialogue: 0,0:16:29.26,0:16:32.47,Default,Koutarou,0000,0000,0000,,I need to go help out with \Nthe play after it's over.
+Dialogue: 0,0:16:39.22,0:16:41.93,Default,Koutarou,0000,0000,0000,,What are you doing, Tulip?
+Dialogue: 0,0:16:41.93,0:16:45.41,Default,Theia,0000,0000,0000,,Neanderthal, don't just look, help me.
+Dialogue: 0,0:16:45.41,0:16:47.55,Default,Sanae,0000,0000,0000,,You seem like you're just fine.
+Dialogue: 0,0:16:47.55,0:16:48.94,Default,Koutarou,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:16:48.94,0:16:52.53,Default,Theia,0000,0000,0000,,You think a Fortorthen princess would \Npurposely bring shame to herself?
+Dialogue: 0,0:16:53.76,0:16:55.16,Default,Koutarou,0000,0000,0000,,Talk to you later, Tulip.
+Dialogue: 0,0:16:55.16,0:16:56.45,Default,Theia,0000,0000,0000,,Wait, Neanderthal!
+Dialogue: 0,0:16:56.45,0:16:57.03,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:16:58.45,0:17:01.75,Default,Theia,0000,0000,0000,,I guess it'd be better to tell \Nyou then someone that passes by.
+Dialogue: 0,0:17:01.75,0:17:03.00,Default,Theia,0000,0000,0000,,They're props.
+Dialogue: 0,0:17:03.37,0:17:03.87,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:03.87,0:17:06.87,Default,Theia,0000,0000,0000,,I have a bunch of props to \Nuse for the play in here!
+Dialogue: 0,0:17:06.87,0:17:09.02,Default,Theia,0000,0000,0000,,I tried to ask someone to help me carry them,
+Dialogue: 0,0:17:09.02,0:17:10.27,Default,Theia,0000,0000,0000,,but I tripped.
+Dialogue: 0,0:17:10.27,0:17:11.67,Default,Theia,0000,0000,0000,,That's all!
+Dialogue: 0,0:17:11.67,0:17:13.72,Default,Theia,0000,0000,0000,,Just laugh already.
+Dialogue: 0,0:17:16.66,0:17:17.80,Default,Theia,0000,0000,0000,,Neanderthal?
+Dialogue: 0,0:17:17.80,0:17:21.06,Default,Theia,0000,0000,0000,,Didn't you want to laugh at me?
+Dialogue: 0,0:17:21.06,0:17:22.02,Default,Koutarou,0000,0000,0000,,I changed my mind.
+Dialogue: 0,0:17:22.40,0:17:26.25,Default,Koutarou,0000,0000,0000,,I thought you were trying \Nto do something crazy again,
+Dialogue: 0,0:17:26.72,0:17:28.88,Default,Koutarou,0000,0000,0000,,but you actually were trying \Nto help everyone out.
+Dialogue: 0,0:17:29.29,0:17:31.52,Default,Koutarou,0000,0000,0000,,There's nothing really to laugh about there.
+Dialogue: 0,0:17:34.35,0:17:36.95,Default,Koutarou,0000,0000,0000,,Are you hurt, Princess?
+Dialogue: 0,0:17:39.14,0:17:39.82,Default,Theia,0000,0000,0000,,N-No.
+Dialogue: 0,0:17:43.47,0:17:48.04,Default,Koutarou,0000,0000,0000,,I'm sorry for my rudeness, \NPrincess Theiamillis.
+Dialogue: 0,0:17:48.47,0:17:50.50,Default,Theia,0000,0000,0000,,The Blue Knight...
+Dialogue: 0,0:17:51.13,0:17:51.70,Default,Koutarou,0000,0000,0000,,Hm?
+Dialogue: 0,0:17:51.70,0:17:52.63,Default,Koutarou,0000,0000,0000,,What's wrong, Tulip?
+Dialogue: 0,0:17:53.10,0:17:55.06,Default,Sanae,0000,0000,0000,,Did you hit your head or something?
+Dialogue: 0,0:17:56.67,0:17:57.57,Default,Theia,0000,0000,0000,,I'm fine!
+Dialogue: 0,0:17:57.57,0:17:58.64,Default,Theia,0000,0000,0000,,I'm fine!
+Dialogue: 0,0:17:58.64,0:18:00.76,Default,Theia,0000,0000,0000,,This isn't going to work!
+Dialogue: 0,0:18:00.76,0:18:04.27,Default,Theia,0000,0000,0000,,The Blue Knight is fine, but \Nwhat about the princess?!
+Dialogue: 0,0:18:04.67,0:18:09.15,Default,Theia,0000,0000,0000,,Koutarou and the theater club president \Nboth said you were the best!
+Dialogue: 0,0:18:09.15,0:18:10.18,Default,TC,0000,0000,0000,,That's weird...
+Dialogue: 0,0:18:10.18,0:18:12.09,Default,TC,0000,0000,0000,,It was so perfect before...
+Dialogue: 0,0:18:12.09,0:18:14.28,Default,TC,0000,0000,0000,,Sakuraba-san, are you not \Nfeeling well, or something?
+Dialogue: 0,0:18:15.08,0:18:16.74,Default,Harumi,0000,0000,0000,,N-No, that's not it...
+Dialogue: 0,0:18:17.07,0:18:19.31,Default,Theia,0000,0000,0000,,There's no time left!
+Dialogue: 0,0:18:19.31,0:18:20.37,Default,Koutarou,0000,0000,0000,,Stop it, Tulip!
+Dialogue: 0,0:18:20.78,0:18:22.12,Default,Harumi,0000,0000,0000,,Satomi-kun...
+Dialogue: 0,0:18:22.43,0:18:26.49,Default,Koutarou,0000,0000,0000,,Sakuraba-senpai is just tired \Nfrom her first full rehearsal.
+Dialogue: 0,0:18:26.92,0:18:28.51,Default,Koutarou,0000,0000,0000,,I'm sure she's going to be nervous when she's
+Dialogue: 0,0:18:28.51,0:18:29.75,Default,Koutarou,0000,0000,0000,,paired up with Makkenji all of a sudden.
+Dialogue: 0,0:18:30.83,0:18:32.54,Default,Theia,0000,0000,0000,,What should we do, then?!
+Dialogue: 0,0:18:32.54,0:18:34.50,Default,Koutarou,0000,0000,0000,,We do this one step at a time.
+Dialogue: 0,0:18:34.50,0:18:35.94,Default,Koutarou,0000,0000,0000,,Makkenji, change with me.
+Dialogue: 0,0:18:35.94,0:18:36.49,Default,Makkenji,0000,0000,0000,,Hm?
+Dialogue: 0,0:18:39.01,0:18:42.45,Default,Koutarou,0000,0000,0000,,First, we'll rehearse with me,
+Dialogue: 0,0:18:42.45,0:18:45.72,Default,Koutarou,0000,0000,0000,,then she should be able to \Nperform like she did before.
+Dialogue: 0,0:18:46.35,0:18:50.10,Default,Koutarou,0000,0000,0000,,After that, we can gradually put \NMakkenji in, so it works out.
+Dialogue: 0,0:18:50.10,0:18:51.65,Default,Theia,0000,0000,0000,,Do whatever you want.
+Dialogue: 0,0:18:51.65,0:18:54.77,Default,Theia,0000,0000,0000,,We can't make do with \Nher acting as it is now.
+Dialogue: 0,0:18:54.77,0:18:58.15,Default,Koutarou,0000,0000,0000,,Sakuraba-senpai's got a lot more \Nin her than you think, Tulip.
+Dialogue: 0,0:18:59.95,0:19:00.86,Default,Theia,0000,0000,0000,,Right.
+Dialogue: 0,0:19:08.38,0:19:13.21,Default,Koutarou,0000,0000,0000,,Princess Alaia, it seems this is as \Nfar as I'll be able to accompany you.
+Dialogue: 0,0:19:13.21,0:19:14.67,Default,Harumi,0000,0000,0000,,Reios-sama?
+Dialogue: 0,0:19:21.02,0:19:21.88,Default,Koutarou,0000,0000,0000,,Your Highness,
+Dialogue: 0,0:19:21.88,0:19:24.05,Default,Koutarou,0000,0000,0000,,please run with your sister.
+Dialogue: 0,0:19:24.68,0:19:27.44,Default,Koutarou,0000,0000,0000,,I'll draw as many of them as I can.
+Dialogue: 0,0:19:27.44,0:19:29.39,Default,Koutarou,0000,0000,0000,,Get as far away as you can in that time...
+Dialogue: 0,0:19:29.39,0:19:32.85,Default,Harumi,0000,0000,0000,,No, I can't leave you behind, Reios-sama.
+Dialogue: 0,0:19:33.26,0:19:37.57,Default,Harumi,0000,0000,0000,,I was able to come this far because of you.
+Dialogue: 0,0:19:37.98,0:19:39.90,Default,Koutarou,0000,0000,0000,,If you're to thank someone,
+Dialogue: 0,0:19:40.67,0:19:42.89,Default,Koutarou,0000,0000,0000,,it should be the people of this land.
+Dialogue: 0,0:19:43.74,0:19:45.60,Default,Koutarou,0000,0000,0000,,If they didn't help us...
+Dialogue: 0,0:19:45.60,0:19:47.04,Default,Harumi,0000,0000,0000,,Reios-sama!
+Dialogue: 0,0:19:54.85,0:19:56.32,Default,Koutarou,0000,0000,0000,,How was that, Tulip?!
+Dialogue: 0,0:19:56.32,0:19:58.50,Default,Koutarou,0000,0000,0000,,That's Sakuraba-senpai's true acting ability!
+Dialogue: 0,0:19:59.03,0:20:00.13,Default,Theia,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:20:01.30,0:20:03.90,Invaders-Internal/Narrator,Theia,0000,0000,0000,,Her acting just now was completely different.
+Dialogue: 0,0:20:03.90,0:20:06.31,Invaders-Internal/Narrator,Theia,0000,0000,0000,,Harumi Sakuraba's pretty good,
+Dialogue: 0,0:20:08.85,0:20:13.01,Invaders-Internal/Narrator,Theia,0000,0000,0000,,but why do I feel more than\N ever that the Neanderthal
+Dialogue: 0,0:20:13.01,0:20:17.15,Invaders-Internal/Narrator,Theia,0000,0000,0000,,is a lot like the real Blue Knight?
+Dialogue: 0,0:20:17.70,0:20:23.04,Default,TC,0000,0000,0000,,Okay, Sakuraba-san, how about we have \Nyou do the same with Matsudaira-kun—
+Dialogue: 0,0:20:23.04,0:20:25.09,Default,Kiriha,0000,0000,0000,,But, from what I've seen,
+Dialogue: 0,0:20:25.09,0:20:28.55,Default,Kiriha,0000,0000,0000,,it seems that Sakuraba-senpai \Ncan only perform like this
+Dialogue: 0,0:20:28.55,0:20:31.00,Default,Kiriha,0000,0000,0000,,when she's with Satomi-kun.
+Dialogue: 0,0:20:31.36,0:20:32.46,Default,TC,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:34.56,0:20:36.63,Default,Kiriha,0000,0000,0000,,I have a suggestion, in that case.
+Dialogue: 0,0:20:37.14,0:20:41.33,Default,Kiriha,0000,0000,0000,,How about having Satomi-kun \Nbe the Blue Knight?
+Dialogue: 0,0:20:42.11,0:20:43.59,Default,Koutarou,0000,0000,0000,,You want me to be the Blue Knight?
+Dialogue: 0,0:20:43.59,0:20:47.51,Default,Kiriha,0000,0000,0000,,Yes, rather than having Sakuraba-senpai \Ntry acting with Matsudaira-kun,
+Dialogue: 0,0:20:47.51,0:20:51.35,Default,Kiriha,0000,0000,0000,,why not just have you do it, \NSatomi-kun? It's faster.
+Dialogue: 0,0:20:51.35,0:20:52.63,Default,TC,0000,0000,0000,,I see.
+Dialogue: 0,0:20:52.63,0:20:54.27,Default,Makkenji,0000,0000,0000,,I don't have a problem, either.
+Dialogue: 0,0:20:54.64,0:20:57.02,Default,Makkenji,0000,0000,0000,,It's not that I'd like to give up the part,
+Dialogue: 0,0:20:57.43,0:21:02.55,Default,Makkenji,0000,0000,0000,,but unfortunately,\NI can't get Sakuraba-senpai to act like that.
+Dialogue: 0,0:21:02.55,0:21:03.61,Default,Koutarou,0000,0000,0000,,Makkenji...
+Dialogue: 0,0:21:03.61,0:21:07.07,Default,Makkenji,0000,0000,0000,,You're the only one who can do this role.
+Dialogue: 0,0:21:08.86,0:21:10.39,Default,Theia,0000,0000,0000,,Oh, well.
+Dialogue: 0,0:21:10.39,0:21:13.08,Default,Theia,0000,0000,0000,,I'm a little reluctant, but I'll \Nlet Koutarou be the Blue Knight.
+Dialogue: 0,0:21:15.71,0:21:17.68,Default,Koutarou,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:21:17.68,0:21:19.84,Default,Koutarou,0000,0000,0000,,Soldier A was hard enough, but \Nnow I have to be the Blue Knight?!
+Dialogue: 0,0:21:19.84,0:21:21.25,Default,Theia,0000,0000,0000,,There's nothing to worry about!
+Dialogue: 0,0:21:21.25,0:21:22.34,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:22.67,0:21:26.07,Default,Theia,0000,0000,0000,,I know more about the \NBlue Knight than anyone.
+Dialogue: 0,0:21:26.78,0:21:30.88,Default,Theia,0000,0000,0000,,I'll make sure you're the perfect \NBlue Knight before the play.
+Dialogue: 0,0:21:33.06,0:21:34.13,Default,Koutarou,0000,0000,0000,,Seriously?
+Dialogue: 0,0:21:36.16,0:21:39.71,Default,Clan,0000,0000,0000,,Pretty silly to have a play \Nabout the Blue Knight here...
+Dialogue: 0,0:21:40.23,0:21:44.69,Default,Clan,0000,0000,0000,,But, this works out pretty well for me.
+Dialogue: 0,0:21:45.26,0:21:52.06,Default,Clan,0000,0000,0000,,Theiamillis-san, your play won't be\N getting a happily ever after.
+Dialogue: 0,0:23:27.03,0:23:28.84,Default,Kiriha,0000,0000,0000,,The color of the flowers
+Dialogue: 0,0:23:28.84,0:23:31.85,Default,Kiriha,0000,0000,0000,,have already faded away,\N while in idle thoughts,
+Dialogue: 0,0:23:31.85,0:23:33.53,Default,Kiriha,0000,0000,0000,,my life passes vainly by,
+Dialogue: 0,0:23:32.38,0:23:34.48,Invaders-Overlap,Theia,0000,0000,0000,,Hey, what game is this?
+Dialogue: 0,0:23:33.53,0:23:35.43,Default,Kiriha,0000,0000,0000,,as I watch the long rains fall...
+Dialogue: 0,0:23:34.48,0:23:36.74,Invaders-Overlap,Yurika,0000,0000,0000,,I don't understand what she's saying...
+Dialogue: 0,0:23:36.74,0:23:39.03,Default,Sanae,0000,0000,0000,,Yeah, I don't think the people here \Nare going to be able to do this.
+Dialogue: 0,0:23:37.03,0:23:40.44,Invaders-Next_Episode,,0000,0000,0000,,Next Episode: My Knight

@@ -1,0 +1,440 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Invaders-Overlap,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Internal/Narrator,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Invaders-Flashback_Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Invaders-Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,20,0
+Style: Invaders-Title,Open Sans Semibold,48,&H00B3ECDF,&H000000FF,&H00733B28,&H001A100D,1,0,0,0,100,100,0,0,1,3,0,8,13,13,13,1
+Style: Invaders-Corona_Convention2,Open Sans Semibold,42,&H005A5A5A,&H000000FF,&H00F9F9F9,&H00B69361,0,0,0,0,100,100,0,0,1,2,0,8,13,13,53,1
+Style: Invaders-Approved,Open Sans Semibold,45,&H004933D6,&H000000FF,&H00F9F8FB,&H00B69361,1,0,0,0,100,100,0,0,1,3,0,2,13,13,20,1
+Style: Invaders-Ep_Title,Open Sans Semibold,36,&H00FFFAFF,&H000000FF,&H008A5CAC,&H008A5CAC,1,0,0,0,100,100,0,0,1,2,1,3,13,67,80,1
+Style: Invaders-Next_Episode,Open Sans Semibold,36,&H00F7FFFF,&H000000FF,&H004E5367,&H004E5367,1,0,0,0,100,100,0,0,1,2,1,7,87,13,40,1
+Style: Invaders-Chalkboard_Maki,Open Sans Semibold,36,&H00E5EEE1,&H000000FF,&H00374230,&H008351B1,0,0,0,0,100,100,0,0,1,2,0,7,187,13,40,1
+Style: Invaders-Chalkboard_Maki2,Open Sans Semibold,36,&H00E5EEE1,&H000000FF,&H00374230,&H008351B1,0,0,0,0,100,100,0,0,1,2,0,7,40,13,67,1
+Style: Invaders-Club_Form,Open Sans Semibold,39,&H00555857,&H000000FF,&H00FEFEFE,&H008351B1,1,0,0,0,100,100,0,0,1,3,0,8,493,13,40,1
+Style: Invaders-Shopping_District,Open Sans Semibold,36,&H00528BB6,&H000000FF,&H00A6F4FF,&H008351B1,0,0,0,0,100,100,0,0,1,3,0,8,13,13,93,1
+Style: Invaders-Glass_Masks,Open Sans Semibold,36,&H004D4BCE,&H000000FF,&H00E3E7DF,&H004D4BCE,1,0,0,0,100,100,0,0,1,2,1,7,227,13,133,1
+Style: Invaders-Caucasus,Open Sans Semibold,36,&H00E3CEED,&H000000FF,&H00454855,&H004D4BCE,1,0,0,0,100,100,0,0,1,2,0,8,13,13,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.04,0:00:09.14,Default,Maki,0000,0000,0000,,Greater Levitation.
+Dialogue: 0,0:00:09.14,0:00:10.94,Default,,0000,0000,0000,,Modifier, Empower!
+Dialogue: 0,0:00:17.79,0:00:19.55,Default,,0000,0000,0000,,It is time.
+Dialogue: 0,0:00:19.55,0:00:22.44,Default,,0000,0000,0000,,I've had to wait too long, Yurika Nijino.
+Dialogue: 0,0:00:22.44,0:00:25.68,Default,,0000,0000,0000,,No, Magical Girl Rainbow Yurika.
+Dialogue: 0,0:00:26.70,0:00:31.18,Default,,0000,0000,0000,,You will soon find yourself in\Nendless fear and suffering.
+Dialogue: 0,0:00:39.22,0:00:41.47,Default,,0000,0000,0000,,I will end you.
+Dialogue: 0,0:00:56.78,0:01:05.15,Invaders-Title,,0000,0000,0000,,Invaders of the Rokujyouma!?
+Dialogue: 0,0:02:10.19,0:02:14.97,Invaders-Corona_Convention2,,0000,0000,0000,,Corona Convention
+Dialogue: 0,0:02:11.90,0:02:14.97,Invaders-Approved,,0000,0000,0000,,Approved
+Dialogue: 0,0:02:16.03,0:02:19.51,Default,Yurika,0000,0000,0000,,I told you, I'm not cosplaying!
+Dialogue: 0,0:02:17.44,0:02:21.43,Invaders-Ep_Title,,0000,0000,0000,,An Evil Magical Girl Appears?!
+Dialogue: 0,0:02:19.51,0:02:22.54,Default,Yurika,0000,0000,0000,,I really {\i1}am{\i0} a magical girl.
+Dialogue: 0,0:02:23.59,0:02:25.20,Default,CP,0000,0000,0000,,That's Yurika-chan for you.
+Dialogue: 0,0:02:25.20,0:02:28.25,Default,CP,0000,0000,0000,,You really stick to your story, don't you?
+Dialogue: 0,0:02:28.25,0:02:31.24,Default,Koutarou,0000,0000,0000,,Sorry, she's always like this.
+Dialogue: 0,0:02:31.24,0:02:34.70,Default,Yurika,0000,0000,0000,,Satomi-san, not you, too!
+Dialogue: 0,0:02:34.70,0:02:39.21,Default,Yurika,0000,0000,0000,,I'm always telling you, there's evil magical \Ngirls after apartment 106 at Corona House!
+Dialogue: 0,0:02:39.21,0:02:41.62,Default,Yurika,0000,0000,0000,,I'm there to stop them!
+Dialogue: 0,0:02:41.62,0:02:43.09,Default,Koutarou,0000,0000,0000,,I'm really sorry for this.
+Dialogue: 0,0:02:43.09,0:02:44.70,Default,CP,0000,0000,0000,,It's fine.
+Dialogue: 0,0:02:45.29,0:02:48.22,Default,Yurika,0000,0000,0000,,Please believe me!
+Dialogue: 0,0:02:50.62,0:02:53.53,Default,CP,0000,0000,0000,,Stop by the club room sometimes, okay?
+Dialogue: 0,0:02:53.53,0:02:56.94,Default,CA,0000,0000,0000,,We'll just come and take you by \Nforce when we need you, though.
+Dialogue: 0,0:02:59.03,0:03:02.22,Default,Yurika,0000,0000,0000,,How can I get them to believe me?
+Dialogue: 0,0:03:02.22,0:03:04.75,Default,Koutarou,0000,0000,0000,,Don't worry, my friend Yurika.
+Dialogue: 0,0:03:04.75,0:03:06.70,Default,Koutarou,0000,0000,0000,,You're one hell of a cosplayer!
+Dialogue: 0,0:03:06.94,0:03:09.01,Default,Yurika,0000,0000,0000,,I'm trying to tell you...
+Dialogue: 0,0:03:09.01,0:03:10.16,Default,T,0000,0000,0000,,Good morning.
+Dialogue: 0,0:03:13.25,0:03:17.08,Default,T,0000,0000,0000,,This class is getting \Nanother transfer student.
+Dialogue: 0,0:03:25.21,0:03:26.88,Default,T,0000,0000,0000,,Go ahead and introduce yourself.
+Dialogue: 0,0:03:27.60,0:03:31.35,Invaders-Chalkboard_Maki,,0000,0000,0000,,Maki Aika
+Dialogue: 0,0:03:28.03,0:03:29.34,Default,Maki,0000,0000,0000,,My name is Maki Aika.
+Dialogue: 0,0:03:29.78,0:03:31.35,Default,Maki,0000,0000,0000,,Nice to meet you all.
+Dialogue: 0,0:03:31.92,0:03:34.06,Default,Yurika,0000,0000,0000,,M-Maki-chan?!
+Dialogue: 0,0:03:35.04,0:03:36.00,Default,Yurika,0000,0000,0000,,Maki-chan!
+Dialogue: 0,0:03:36.00,0:03:37.37,Default,Yurika,0000,0000,0000,,Maki-chan!
+Dialogue: 0,0:03:37.78,0:03:40.09,Default,Yurika,0000,0000,0000,,I'm glad you made it here!
+Dialogue: 0,0:03:40.09,0:03:41.72,Default,Maki,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:03:42.23,0:03:44.97,Default,Yurika,0000,0000,0000,,Satomi-san, Satomi-san, look!
+Dialogue: 0,0:03:43.70,0:03:53.12,Invaders-Chalkboard_Maki2,,0000,0000,0000,,Maki Aika
+Dialogue: 0,0:03:44.97,0:03:48.04,Default,Yurika,0000,0000,0000,,This is one of the bad magical \Ngirls trying to get that room.
+Dialogue: 0,0:03:48.04,0:03:52.25,Default,Yurika,0000,0000,0000,,She's part of the magical organization "Darkness\N Rainbow". Her name is Dark Navy-chan.
+Dialogue: 0,0:03:52.25,0:03:53.12,Default,Maki,0000,0000,0000,,What?
+Dialogue: 0,0:03:58.14,0:04:04.30,Default,Sanae,0000,0000,0000,,I'm surprised you have a friend willing \Nto cosplay your story with you.
+Dialogue: 0,0:04:04.80,0:04:06.83,Default,Sanae,0000,0000,0000,,I want the egg next!
+Dialogue: 0,0:04:08.03,0:04:10.45,Default,Yurika,0000,0000,0000,,Why won't you believe me?
+Dialogue: 0,0:04:10.90,0:04:13.08,Default,Yurika,0000,0000,0000,,Maki-chan isn't a friend.
+Dialogue: 0,0:04:13.08,0:04:14.79,Default,Yurika,0000,0000,0000,,She's an enemy!
+Dialogue: 0,0:04:14.79,0:04:19.44,Default,Yurika,0000,0000,0000,,Dark Navy is good with magic that \Ncontrols dark navy hearts.
+Dialogue: 0,0:04:19.44,0:04:21.48,Default,Sanae,0000,0000,0000,,You're such a pain.
+Dialogue: 0,0:04:21.48,0:04:23.24,Default,Koutarou,0000,0000,0000,,Don't be like that, Sanae.
+Dialogue: 0,0:04:23.24,0:04:25.84,Default,Koutarou,0000,0000,0000,,Yurika, don't worry about what anyone says.
+Dialogue: 0,0:04:25.84,0:04:27.13,Default,Koutarou,0000,0000,0000,,You're fine the way you are.
+Dialogue: 0,0:04:28.55,0:04:29.83,Default,Yurika,0000,0000,0000,,Satomi-san...
+Dialogue: 0,0:04:30.34,0:04:33.85,Default,Koutarou,0000,0000,0000,,We have aliens, Earth people, ghosts.
+Dialogue: 0,0:04:33.85,0:04:38.00,Default,Koutarou,0000,0000,0000,,It's nice to have a normal person around, \Neven if your hobbies are kind of strange.
+Dialogue: 0,0:04:38.00,0:04:39.84,Default,Yurika,0000,0000,0000,,I'm not normal!
+Dialogue: 0,0:04:39.84,0:04:41.29,Default,Sanae,0000,0000,0000,,Hey, Koutarou.
+Dialogue: 0,0:04:41.29,0:04:42.72,Default,Sanae,0000,0000,0000,,What did you mean by that?
+Dialogue: 0,0:04:44.18,0:04:46.53,Default,Koutarou,0000,0000,0000,,I'm saying it's important to be different.
+Dialogue: 0,0:04:46.53,0:04:48.51,Default,Sanae,0000,0000,0000,,I see!
+Dialogue: 0,0:04:48.51,0:04:51.55,Default,Koutarou,0000,0000,0000,,Anyway, let's get back to the classroom.
+Dialogue: 0,0:04:53.97,0:04:55.27,Default,Yurika,0000,0000,0000,,I'm...
+Dialogue: 0,0:04:55.27,0:04:57.48,Default,Yurika,0000,0000,0000,,I'm going to stay here for a bit longer.
+Dialogue: 0,0:04:58.54,0:04:59.55,Default,Koutarou,0000,0000,0000,,Got it.
+Dialogue: 0,0:04:59.55,0:05:01.07,Default,Koutarou,0000,0000,0000,,Don't be late to class.
+Dialogue: 0,0:05:05.98,0:05:08.83,Default,Maki,0000,0000,0000,,That was someone who lives at the \Nmagical convergence, wasn't it?
+Dialogue: 0,0:05:10.06,0:05:11.40,Default,Yurika,0000,0000,0000,,Maki-chan...
+Dialogue: 0,0:05:14.75,0:05:16.94,Default,Maki,0000,0000,0000,,Do you think you'll \Nbe able to stop us from
+Dialogue: 0,0:05:16.94,0:05:18.38,Default,Maki,0000,0000,0000,,getting to him, or that room?
+Dialogue: 0,0:05:19.02,0:05:22.25,Default,Yurika,0000,0000,0000,,So, we're going to fight...
+Dialogue: 0,0:05:22.55,0:05:23.89,Default,Maki,0000,0000,0000,,Of course we are.
+Dialogue: 0,0:05:23.89,0:05:26.22,Default,Maki,0000,0000,0000,,Why do you think I came here?
+Dialogue: 0,0:05:26.63,0:05:30.73,Default,Maki,0000,0000,0000,,Also, this argument should \Nhave ended centuries ago.
+Dialogue: 0,0:05:33.61,0:05:40.15,Default,Maki,0000,0000,0000,,The wound your predecessor, Rainbow Nana, \Ngave me eight months ago has finally healed.
+Dialogue: 0,0:05:40.72,0:05:43.44,Default,Maki,0000,0000,0000,,And now I'm up against a failure like you.
+Dialogue: 0,0:05:43.44,0:05:44.88,Default,Maki,0000,0000,0000,,I'm not going to lose.
+Dialogue: 0,0:05:45.29,0:05:47.20,Default,Yurika,0000,0000,0000,,That's not true!
+Dialogue: 0,0:05:47.20,0:05:50.83,Default,Yurika,0000,0000,0000,,I'm going to do just fine \Nin Nana-chan's stead!
+Dialogue: 0,0:05:52.01,0:05:56.06,Default,Maki,0000,0000,0000,,It's true you've gotten \Na little clever yourself.
+Dialogue: 0,0:05:57.21,0:05:58.89,Default,Yurika,0000,0000,0000,,You're pretending to be a cosplayer,
+Dialogue: 0,0:05:58.89,0:06:01.86,Default,Yurika,0000,0000,0000,,and telling everyone you're a magical girl.
+Dialogue: 0,0:06:01.86,0:06:04.49,Default,Yurika,0000,0000,0000,,That wasn't really—
+Dialogue: 0,0:06:04.49,0:06:05.94,Default,Maki,0000,0000,0000,,You don't have to play dumb!
+Dialogue: 0,0:06:05.94,0:06:10.18,Default,Maki,0000,0000,0000,,And then you told everyone who \NI was when I transferred in.
+Dialogue: 0,0:06:10.18,0:06:12.39,Default,Maki,0000,0000,0000,,That was pretty underhanded.
+Dialogue: 0,0:06:12.39,0:06:14.46,Default,Yurika,0000,0000,0000,,No, Maki-chan.
+Dialogue: 0,0:06:14.46,0:06:17.28,Default,Yurika,0000,0000,0000,,It's not like I planned any of that...
+Dialogue: 0,0:06:18.08,0:06:21.56,Default,Miki,0000,0000,0000,,Then you're saying someone \Nelse planned it for you?
+Dialogue: 0,0:06:21.85,0:06:22.89,Default,Yurika,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:23.85,0:06:25.64,Default,Yurika,0000,0000,0000,,No, that's not—
+Dialogue: 0,0:06:25.64,0:06:26.91,Default,Maki,0000,0000,0000,,You're not going to fool me.
+Dialogue: 0,0:06:26.91,0:06:28.24,Default,Maki,0000,0000,0000,,I already know what's going on.
+Dialogue: 0,0:06:29.40,0:06:31.06,Default,Maki,0000,0000,0000,,This is getting interesting.
+Dialogue: 0,0:06:31.06,0:06:33.78,Default,Yurika,0000,0000,0000,,Please listen to me, Maki-chan!
+Dialogue: 0,0:06:34.16,0:06:34.54,Default,Yurika,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:34.54,0:06:37.54,Invaders-Club_Form,,0000,0000,0000,,Club Entry Form\N\N{\fs24} Class {\b0}1-A{\b1}\NName: {\b0}Maki Aika{\b1}\N{\b0}Cosplay Society{\b1}
+Dialogue: 0,0:06:34.54,0:06:37.54,Default,Yurika,0000,0000,0000,,I'm going to join that \NCosplay Society of yours.
+Dialogue: 0,0:06:37.89,0:06:39.68,Default,Yurika,0000,0000,0000,,Now we'll be the same.
+Dialogue: 0,0:06:39.68,0:06:41.77,Default,Yurika,0000,0000,0000,,Prepare yourself, Yurika.
+Dialogue: 0,0:06:43.93,0:06:46.52,Default,Yurika,0000,0000,0000,,Not you, too, Maki-chan...
+Dialogue: 0,0:06:48.50,0:06:50.68,Default,Harumi,0000,0000,0000,,Oh, Yurika-san.
+Dialogue: 0,0:06:51.24,0:06:52.74,Default,Yurika,0000,0000,0000,,Sakuraba-senpai?
+Dialogue: 0,0:06:53.21,0:06:54.78,Default,Harumi,0000,0000,0000,,Good timing.
+Dialogue: 0,0:06:54.78,0:06:57.92,Default,Harumi,0000,0000,0000,,I wanted to ask you something.
+Dialogue: 0,0:07:01.10,0:07:03.06,Invaders-Shopping_District,,0000,0000,0000,,Harukaze Shopping District
+Dialogue: 0,0:07:05.40,0:07:10.07,Default,Harumi,0000,0000,0000,,I-I want to get closer to Satomi-kun.
+Dialogue: 0,0:07:10.07,0:07:12.20,Default,Yurika,0000,0000,0000,,You're already pretty friendly.
+Dialogue: 0,0:07:12.20,0:07:14.43,Default,Harumi,0000,0000,0000,,That's not what I meant...
+Dialogue: 0,0:07:15.55,0:07:17.34,Default,Harumi,0000,0000,0000,,I, uh...
+Dialogue: 0,0:07:18.20,0:07:21.00,Default,Harumi,0000,0000,0000,,You know... closer...
+Dialogue: 0,0:07:22.70,0:07:23.35,Default,Yurika,0000,0000,0000,,Oh...
+Dialogue: 0,0:07:24.73,0:07:27.17,Default,Yurika,0000,0000,0000,,That's what you meant.
+Dialogue: 0,0:07:27.42,0:07:31.88,Default,Harumi,0000,0000,0000,,I was hoping Satomi-kun \Ncould treat me less carefully.
+Dialogue: 0,0:07:32.40,0:07:36.14,Default,Harumi,0000,0000,0000,,Like how he treats you or Theiamillis-san.
+Dialogue: 0,0:07:36.35,0:07:38.86,Default,Yurika,0000,0000,0000,,I don't think that's a good idea.
+Dialogue: 0,0:07:38.86,0:07:41.37,Default,Yurika,0000,0000,0000,,I mean, he's kind of mean sometimes,
+Dialogue: 0,0:07:41.37,0:07:44.04,Default,Yurika,0000,0000,0000,,and has no problem with \Nhitting you on the head.
+Dialogue: 0,0:07:44.04,0:07:49.78,Default,Harumi,0000,0000,0000,,But, Satomi-kun's never hit me or \Nsaid anything mean to me...
+Dialogue: 0,0:07:44.46,0:07:45.62,Invaders-Overlap,Yurika,0000,0000,0000,,{\a6}Bop, bop!
+Dialogue: 0,0:07:50.09,0:07:52.53,Default,Yurika,0000,0000,0000,,Well, he's never been nice to—
+Dialogue: 0,0:07:58.83,0:08:00.56,Default,Yurika,0000,0000,0000,,I understand how you feel.
+Dialogue: 0,0:08:00.56,0:08:04.00,Default,Yurika,0000,0000,0000,,I'll do my best to help you.
+Dialogue: 0,0:08:04.69,0:08:09.17,Invaders-Glass_Masks,,0000,0000,0000,,Glass Masks
+Dialogue: 0,0:08:05.10,0:08:07.02,Default,Yurika,0000,0000,0000,,I've read this girls' manga for ten years.
+Dialogue: 0,0:08:07.02,0:08:09.17,Default,Yurika,0000,0000,0000,,I know how to make someone fall in love.
+Dialogue: 0,0:08:10.59,0:08:12.35,Default,Harumi,0000,0000,0000,,Thank you, Yurika-san.
+Dialogue: 0,0:08:13.26,0:08:16.42,Default,Harumi,0000,0000,0000,,So, what do I have to do?
+Dialogue: 0,0:08:16.42,0:08:18.56,Default,Yurika,0000,0000,0000,,Well, you can start by going \Non a double date, or something.
+Dialogue: 0,0:08:18.56,0:08:21.31,Default,Yurika,0000,0000,0000,,Ask Satomi-san to go on a date with you!
+Dialogue: 0,0:08:21.78,0:08:23.93,Default,Harumi,0000,0000,0000,,A-A date?
+Dialogue: 0,0:08:27.54,0:08:28.58,Default,Yurika,0000,0000,0000,,I see...
+Dialogue: 0,0:08:28.58,0:08:31.53,Default,Yurika,0000,0000,0000,,So, Sakuraba-senpai likes Satomi-san...
+Dialogue: 0,0:08:35.51,0:08:40.75,Default,Yurika,0000,0000,0000,,Well, anyway... I guess now that Maki-chan \Nis here, I'm going to have to fight.
+Dialogue: 0,0:08:41.31,0:08:43.60,Default,Yurika,0000,0000,0000,,I'm not sure if I can...
+Dialogue: 0,0:08:43.60,0:08:45.21,Default,Yurika,0000,0000,0000,,But, I have to.
+Dialogue: 0,0:08:45.65,0:08:47.96,Default,Yurika,0000,0000,0000,,Nana-san saved my life.
+Dialogue: 0,0:08:48.34,0:08:50.39,Default,Yurika,0000,0000,0000,,Yurika fight!
+Dialogue: 0,0:08:50.39,0:08:52.43,Default,Yurika,0000,0000,0000,,Yurika fight!
+Dialogue: 0,0:08:53.47,0:08:58.22,Default,Koutarou,0000,0000,0000,,So, cheers to Maki Aika for transferring in!
+Dialogue: 0,0:08:58.22,0:09:00.02,Default,All,0000,0000,0000,,Cheers!
+Dialogue: 0,0:09:00.02,0:09:02.47,Default,Yurika,0000,0000,0000,,A party for Maki-chan?!
+Dialogue: 0,0:09:04.36,0:09:07.16,Default,Yurika,0000,0000,0000,,Satomi-chan, why did you \Ninvite Maki-chan here?
+Dialogue: 0,0:09:07.16,0:09:09.23,Default,Theia,0000,0000,0000,,Oh, you're finally back, Yurika.
+Dialogue: 0,0:09:10.34,0:09:11.94,Default,Maki,0000,0000,0000,,Welcome back, Yurika-san.
+Dialogue: 0,0:09:13.78,0:09:15.99,Default,Koutarou,0000,0000,0000,,We got ourselves a new transfer student.
+Dialogue: 0,0:09:15.99,0:09:18.07,Default,Koutarou,0000,0000,0000,,Why not have a party for her?
+Dialogue: 0,0:09:18.07,0:09:19.73,Default,Yurika,0000,0000,0000,,I told you already.
+Dialogue: 0,0:09:19.73,0:09:22.64,Default,Yurika,0000,0000,0000,,Maki-chan is after this room.
+Dialogue: 0,0:09:22.64,0:09:27.10,Default,Yurika,0000,0000,0000,,She'll be able to take all the data she \Nwants if you just let her walk right in here.
+Dialogue: 0,0:09:27.10,0:09:28.89,Default,Shizuka,0000,0000,0000,,That's your cosplay story, right?
+Dialogue: 0,0:09:28.89,0:09:30.97,Default,Yurika,0000,0000,0000,,It's not a story!
+Dialogue: 0,0:09:31.45,0:09:34.87,Default,Yurika,0000,0000,0000,,Please, Satomi-san, if \Nwe don't kick Maki-chan out,
+Dialogue: 0,0:09:34.87,0:09:36.42,Default,Yurika,0000,0000,0000,,we'll have a real problem!
+Dialogue: 0,0:09:36.42,0:09:38.21,Default,Koutarou,0000,0000,0000,,H-Hey, Yurika...
+Dialogue: 0,0:09:38.21,0:09:40.91,Default,Koutarou,0000,0000,0000,,You shouldn't talk to a friend like—
+Dialogue: 0,0:09:46.48,0:09:47.79,Default,Koutarou,0000,0000,0000,,What's going on?
+Dialogue: 0,0:09:47.79,0:09:49.98,Default,Koutarou,0000,0000,0000,,Explain it to me, Yurika.
+Dialogue: 0,0:09:49.98,0:09:52.13,Default,Koutarou,0000,0000,0000,,What's going on with Aika-san?
+Dialogue: 0,0:09:52.13,0:09:53.21,Default,Yurika,0000,0000,0000,,Well...
+Dialogue: 0,0:09:53.21,0:09:54.32,Default,Makkenji,0000,0000,0000,,Hey, look at this, Kou!
+Dialogue: 0,0:09:54.54,0:09:56.77,Default,Makkenji,0000,0000,0000,,They were having a sale on \Nsnacks and stuff at the store,
+Dialogue: 0,0:09:56.77,0:09:58.65,Default,Makkenji,0000,0000,0000,,so I brought some stuff.
+Dialogue: 0,0:09:58.65,0:09:59.66,Default,Koutarou,0000,0000,0000,,Makkenji?!
+Dialogue: 0,0:10:01.62,0:10:03.87,Default,Koutarou,0000,0000,0000,,Rhinoceros Man chocolate, \Nand Rhinoceros Man gum.
+Dialogue: 0,0:10:04.21,0:10:05.79,Default,Koutarou,0000,0000,0000,,We got potato chips, \Ndessert pancakes...
+Dialogue: 0,0:10:05.79,0:10:06.12,Default,Koutarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:06.69,0:10:08.20,Default,Ruth,0000,0000,0000,,Rhinoceros beetle,
+Dialogue: 0,0:10:08.20,0:10:09.59,Default,Ruth,0000,0000,0000,,Rhinoceros beetle...
+Dialogue: 0,0:10:10.30,0:10:12.93,Default,Ruth,0000,0000,0000,,You chose a rhinoceros beetle over me...
+Dialogue: 0,0:10:12.93,0:10:14.41,Default,Ruth,0000,0000,0000,,Over me!
+Dialogue: 0,0:10:14.41,0:10:16.92,Default,Ruth,0000,0000,0000,,Take this!
+Dialogue: 0,0:10:17.42,0:10:20.44,Default,Ruth,0000,0000,0000,,Take this!
+Dialogue: 0,0:10:20.44,0:10:22.20,Default,Koutarou,0000,0000,0000,,Ruth-san, calm down!
+Dialogue: 0,0:10:22.20,0:10:23.41,Default,Ruth,0000,0000,0000,,Let me go!
+Dialogue: 0,0:10:23.41,0:10:24.43,Default,Ruth,0000,0000,0000,,Let me go, now!
+Dialogue: 0,0:10:24.43,0:10:26.32,Default,Yurika,0000,0000,0000,,Satomi-san, I need to talk to you!
+Dialogue: 0,0:10:26.32,0:10:29.11,Default,Yurika,0000,0000,0000,,We're going to lose apartment 106 at this rate!
+Dialogue: 0,0:10:29.11,0:10:30.47,Default,Koutarou,0000,0000,0000,,This is a bad time, Yurika!
+Dialogue: 0,0:10:30.47,0:10:31.69,Default,Koutarou,0000,0000,0000,,Hey, Makkenji!
+Dialogue: 0,0:10:31.69,0:10:33.02,Default,Koutarou,0000,0000,0000,,Get rid of those snacks!
+Dialogue: 0,0:10:33.33,0:10:34.44,Default,Makkenji,0000,0000,0000,,R-Right...
+Dialogue: 0,0:10:36.49,0:10:38.70,Invaders-Caucasus,,0000,0000,0000,,Caucasus
+Dialogue: 0,0:10:36.49,0:10:38.70,Invaders-Caucasus,,0000,0000,0000,,{\c&H7CF081& \a11}Atlas
+Dialogue: 0,0:10:39.15,0:10:40.11,Default,Ruth,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:40.59,0:10:41.64,Default,Koutarou,0000,0000,0000,,Ruth-san!
+Dialogue: 0,0:10:41.64,0:10:44.03,Default,Yurika,0000,0000,0000,,Satomi-san, please listen to me!
+Dialogue: 0,0:10:44.03,0:10:46.75,Default,Yurika,0000,0000,0000,,We need to kick Maki-chan out, now!
+Dialogue: 0,0:10:46.75,0:10:48.91,Default,Sanae,0000,0000,0000,,Let it go already, Yurika.
+Dialogue: 0,0:10:49.28,0:10:50.95,Default,Sanae,0000,0000,0000,,Why not let her stay for today?
+Dialogue: 0,0:10:50.95,0:10:54.80,Default,Sanae,0000,0000,0000,,You can pretend to be enemies tomorrow.
+Dialogue: 0,0:10:55.16,0:10:58.76,Default,Theia,0000,0000,0000,,Yes, I think you're going a little overboard \Nwith the whole "kick her out" thing.
+Dialogue: 0,0:10:59.18,0:11:02.22,Default,Shizuka,0000,0000,0000,,Yeah, this party is for her.
+Dialogue: 0,0:11:09.59,0:11:12.41,Default,Yurika,0000,0000,0000,,Why doesn't...
+Dialogue: 0,0:11:12.41,0:11:15.07,Default,Yurika,0000,0000,0000,,Why doesn't anyone believe me?!
+Dialogue: 0,0:11:16.02,0:11:17.23,Default,Sanae,0000,0000,0000,,Y-Yurika!
+Dialogue: 0,0:11:17.53,0:11:19.17,Default,Yurika,0000,0000,0000,,I don't care anymore!
+Dialogue: 0,0:11:19.17,0:11:21.91,Default,Yurika,0000,0000,0000,,I don't care what happens anymore!
+Dialogue: 0,0:11:22.25,0:11:23.79,Default,Koutarou,0000,0000,0000,,Y-Yurika...
+Dialogue: 0,0:11:28.17,0:11:29.10,Default,Harumi,0000,0000,0000,,A date...
+Dialogue: 0,0:11:29.55,0:11:30.78,Default,Harumi,0000,0000,0000,,A date...
+Dialogue: 0,0:11:30.78,0:11:32.59,Default,Harumi,0000,0000,0000,,Like a real date, right?
+Dialogue: 0,0:11:32.59,0:11:34.75,Default,Harumi,0000,0000,0000,,But, I can't...
+Dialogue: 0,0:11:39.39,0:11:40.57,Default,Harumi,0000,0000,0000,,Yurika-san?
+Dialogue: 0,0:11:42.27,0:11:44.06,Default,Yurika,0000,0000,0000,,Sakuraba-senpai...
+Dialogue: 0,0:11:50.24,0:11:56.90,Default,Yurika,0000,0000,0000,,I try to tell everyone the truth, \Nbut no one believes me...
+Dialogue: 0,0:11:57.27,0:11:59.86,Default,Harumi,0000,0000,0000,,And that's why you're crying here alone?
+Dialogue: 0,0:12:01.56,0:12:08.75,Default,Harumi,0000,0000,0000,,Even if they don't believe you, you \Nstill care for your friends, correct?
+Dialogue: 0,0:12:08.75,0:12:09.24,Default,Yurika,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:09.66,0:12:11.71,Default,Harumi,0000,0000,0000,,That's why you're so sad, right?
+Dialogue: 0,0:12:17.68,0:12:21.32,Default,Harumi,0000,0000,0000,,I don't know why you're sad,
+Dialogue: 0,0:12:21.32,0:12:23.15,Default,Harumi,0000,0000,0000,,but if you want them to believe you,
+Dialogue: 0,0:12:23.15,0:12:26.72,Default,Harumi,0000,0000,0000,,you'll just have to continue to do things \Nto try and get them to believe you.
+Dialogue: 0,0:12:26.72,0:12:28.93,Default,Harumi,0000,0000,0000,,Not just with words, with actions.
+Dialogue: 0,0:12:29.55,0:12:33.93,Default,Yurika,0000,0000,0000,,Try to get them to believe me \Nwith actions, not just words...
+Dialogue: 0,0:12:35.07,0:12:37.29,Default,Yurika,0000,0000,0000,,Maki-chan is here, so I can...
+Dialogue: 0,0:12:39.13,0:12:41.42,Default,Yurika,0000,0000,0000,,Thank you, Sakuraba-senpai!
+Dialogue: 0,0:12:41.42,0:12:43.32,Default,Yurika,0000,0000,0000,,I'll do my best!
+Dialogue: 0,0:12:43.72,0:12:45.25,Default,Harumi,0000,0000,0000,,You can do it.
+Dialogue: 0,0:12:50.82,0:12:51.85,Default,Koutarou,0000,0000,0000,,Hey, Yurika.
+Dialogue: 0,0:12:51.85,0:12:53.29,Default,Koutarou,0000,0000,0000,,We're going to school.
+Dialogue: 0,0:12:54.32,0:12:56.03,Default,Koutarou,0000,0000,0000,,Do you not feel well?
+Dialogue: 0,0:12:56.56,0:12:58.24,Default,Yurika,0000,0000,0000,,That's not it.
+Dialogue: 0,0:12:58.24,0:13:00.35,Default,Yurika,0000,0000,0000,,But, today is...
+Dialogue: 0,0:13:01.04,0:13:02.76,Default,Yurika,0000,0000,0000,,Just go without me.
+Dialogue: 0,0:13:03.79,0:13:05.93,Default,Koutarou,0000,0000,0000,,Are you sure you're okay?
+Dialogue: 0,0:13:05.93,0:13:09.13,Default,Koutarou,0000,0000,0000,,Does this have to do with what you \Nwere trying to tell me yesterday?
+Dialogue: 0,0:13:10.22,0:13:10.81,Default,Yurika,0000,0000,0000,,Well...
+Dialogue: 0,0:13:10.81,0:13:13.39,Default,Sanae,0000,0000,0000,,Koutarou, we're going to be late!
+Dialogue: 0,0:13:13.39,0:13:15.40,Default,Koutarou,0000,0000,0000,,I know.
+Dialogue: 0,0:13:15.40,0:13:19.27,Default,Koutarou,0000,0000,0000,,Anyway, Yurika, come to school if you can.
+Dialogue: 0,0:13:21.21,0:13:24.49,Default,Kiriha,0000,0000,0000,,I don't think we need to worry about Yurika,
+Dialogue: 0,0:13:24.49,0:13:26.46,Default,Kiriha,0000,0000,0000,,but just in case, I'm going \Nto leave Korama behind.
+Dialogue: 0,0:13:27.98,0:13:29.71,Default,Karama,0000,0000,0000,,Thanks, Korama!
+Dialogue: 0,0:13:29.71,0:13:31.16,Default,Korama,0000,0000,0000,,No problem, Karama!
+Dialogue: 0,0:13:31.54,0:13:33.07,Default,Koutarou,0000,0000,0000,,Thanks, Kiriha-san.
+Dialogue: 0,0:13:33.93,0:13:35.63,Default,Koutarou,0000,0000,0000,,Anyway, we're going to get going.
+Dialogue: 0,0:13:36.34,0:13:38.82,Default,Sanae,0000,0000,0000,,Maybe we should let them \Nknow she'll be absent.
+Dialogue: 0,0:13:38.82,0:13:39.47,Default,Koutarou,0000,0000,0000,,We'll see...
+Dialogue: 0,0:13:46.03,0:13:48.67,Default,Yurika,0000,0000,0000,,I can't depend on words any longer.
+Dialogue: 0,0:13:48.67,0:13:51.98,Default,Yurika,0000,0000,0000,,I'm a magical girl, and \NI will protect this room.
+Dialogue: 0,0:13:51.98,0:13:56.49,Default,Yurika,0000,0000,0000,,I want Satomi-san... I want \Neveryone to believe me.
+Dialogue: 0,0:14:02.58,0:14:05.31,Default,Harumi,0000,0000,0000,,I know Yurika-san said she'd come with me,
+Dialogue: 0,0:14:05.31,0:14:08.72,Default,Harumi,0000,0000,0000,,but I'm the one who has \Nto ask Satomi-kun out...
+Dialogue: 0,0:14:08.72,0:14:10.80,Default,Maki,0000,0000,0000,,Harumi Sakuraba-san, correct?
+Dialogue: 0,0:14:13.10,0:14:14.97,Default,Harumi,0000,0000,0000,,Wh-Who are you?
+Dialogue: 0,0:14:17.87,0:14:20.25,Default,Koutarou,0000,0000,0000,,You want to do a continuation \Nof the Blue Knight play?
+Dialogue: 0,0:14:20.49,0:14:21.40,Default,Ruth,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:21.40,0:14:23.02,Default,Ruth,0000,0000,0000,,The theater club has requested
+Dialogue: 0,0:14:23.02,0:14:26.22,Default,Ruth,0000,0000,0000,,that we have another play at \Nthe beginning of the year...
+Dialogue: 0,0:14:26.22,0:14:28.75,Default,Theia,0000,0000,0000,,Well, of course they would.
+Dialogue: 0,0:14:28.75,0:14:32.71,Default,Theia,0000,0000,0000,,Anyway, Koutarou, you'll have to \Npractice being a knight again.
+Dialogue: 0,0:14:32.71,0:14:34.42,Default,Theia,0000,0000,0000,,Get ready.
+Dialogue: 0,0:14:34.42,0:14:36.70,Default,Kiriha,0000,0000,0000,,Koutarou, everyone else, come here.
+Dialogue: 0,0:14:38.25,0:14:40.65,Default,Sanae,0000,0000,0000,,Yurika left in her cosplaying outfit?!
+Dialogue: 0,0:14:40.65,0:14:41.90,Default,Korama,0000,0000,0000,,That's correct.
+Dialogue: 0,0:14:41.90,0:14:45.15,Default,Korama,0000,0000,0000,,She went somewhere after\N dressing up like a magical girl.
+Dialogue: 0,0:14:45.45,0:14:49.00,Default,Shizuka,0000,0000,0000,,Did she skip school so she \Ncould practice cosplaying?
+Dialogue: 0,0:14:49.00,0:14:51.51,Default,Theia,0000,0000,0000,,That would be the natural assumption.
+Dialogue: 0,0:14:51.51,0:14:54.20,Default,Sanae,0000,0000,0000,,Jeez, and everyone was worried, too...
+Dialogue: 0,0:14:54.20,0:14:56.99,Default,Karama,0000,0000,0000,,Sis, what should we do?
+Dialogue: 0,0:14:56.99,0:14:59.39,Default,Korama,0000,0000,0000,,I'm tracking her on radar.
+Dialogue: 0,0:14:59.39,0:15:01.42,Default,Korama,0000,0000,0000,,I can go after her immediately.
+Dialogue: 0,0:15:01.71,0:15:02.45,Default,Kiriha,0000,0000,0000,,Right.
+Dialogue: 0,0:15:02.45,0:15:04.05,Default,Kiriha,0000,0000,0000,,Korama, follow Yurika—
+Dialogue: 0,0:15:04.05,0:15:04.53,Default,Koutarou,0000,0000,0000,,No.
+Dialogue: 0,0:15:04.53,0:15:05.38,Default,Koutarou,0000,0000,0000,,I'll go.
+Dialogue: 0,0:15:05.69,0:15:07.96,Default,Koutarou,0000,0000,0000,,Korama, tell me where she is.
+Dialogue: 0,0:15:13.81,0:15:21.60,Default,Yurika,0000,0000,0000,,Your friends won't attack that room while \NI'm out here with you, right Maki-chan?
+Dialogue: 0,0:15:21.84,0:15:24.26,Default,Maki,0000,0000,0000,,Yes, I promise.
+Dialogue: 0,0:15:24.26,0:15:27.32,Default,Maki,0000,0000,0000,,Have I lied to you before?
+Dialogue: 0,0:15:27.81,0:15:30.53,Default,Yurika,0000,0000,0000,,That's true. You...
+Dialogue: 0,0:15:30.97,0:15:35.12,Default,Maki,0000,0000,0000,,Also, I can deploy a wide-area spell\N to keep people away from here.
+Dialogue: 0,0:15:35.44,0:15:36.94,Default,Maki,0000,0000,0000,,That works to both of our benefits.
+Dialogue: 0,0:15:39.16,0:15:40.96,Default,Yurika,0000,0000,0000,,Sanctuary modifier.
+Dialogue: 0,0:15:40.96,0:15:43.00,Default,,0000,0000,0000,,Effective area: colossal!
+Dialogue: 0,0:15:50.75,0:15:52.55,Default,Maki,0000,0000,0000,,Here I come, Rainbow Yurika!
+Dialogue: 0,0:15:53.05,0:15:54.71,Default,Yurika,0000,0000,0000,,I'm going to win.
+Dialogue: 0,0:15:54.71,0:15:56.55,Default,Yurika,0000,0000,0000,,I'm going to protect that room!
+Dialogue: 0,0:15:56.89,0:15:59.12,Default,Maki,0000,0000,0000,,Energy bolt. Target option,
+Dialogue: 0,0:15:59.12,0:16:00.45,Default,Maki,0000,0000,0000,,Sidewinder!
+Dialogue: 0,0:16:00.45,0:16:01.48,Default,Yurika,0000,0000,0000,,Quick Cast,
+Dialogue: 0,0:16:01.48,0:16:02.98,Default,Yurika,0000,0000,0000,,Multiple Energy Bolt!
+Dialogue: 0,0:16:02.98,0:16:05.15,Default,,0000,0000,0000,,Target option, spread!
+Dialogue: 0,0:16:10.92,0:16:13.26,Default,Koutarou,0000,0000,0000,,Korama said she'd be around here.
+Dialogue: 0,0:16:14.29,0:16:16.60,Default,Sanae,0000,0000,0000,,Yeah, this is the right way.
+Dialogue: 0,0:16:16.60,0:16:18.70,Default,Sanae,0000,0000,0000,,This soy sauce cup ramen smell...
+Dialogue: 0,0:16:18.70,0:16:20.44,Default,Sanae,0000,0000,0000,,It's definitely Yurika's spirit energy.
+Dialogue: 0,0:16:20.44,0:16:22.50,Default,Koutarou,0000,0000,0000,,Yurika smells like that?
+Dialogue: 0,0:16:23.79,0:16:24.76,Default,Sanae,0000,0000,0000,,Inside there!
+Dialogue: 0,0:16:24.76,0:16:26.25,Default,Sanae,0000,0000,0000,,I'm sure she's in there, Koutarou!
+Dialogue: 0,0:16:26.65,0:16:27.55,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:31.66,0:16:32.88,Default,Koutarou,0000,0000,0000,,S-Sanae?
+Dialogue: 0,0:16:33.66,0:16:34.84,Default,Sanae,0000,0000,0000,,What's this?
+Dialogue: 0,0:16:35.38,0:16:38.22,Default,Sanae,0000,0000,0000,,Koutarou, there's an invisible \Nwall or something here.
+Dialogue: 0,0:16:38.46,0:16:39.71,Default,Koutarou,0000,0000,0000,,What?
+Dialogue: 0,0:16:39.71,0:16:41.85,Default,Koutarou,0000,0000,0000,,Yeah, right.
+Dialogue: 0,0:16:41.85,0:16:43.10,Default,Koutarou,0000,0000,0000,,Let's go.
+Dialogue: 0,0:16:43.10,0:16:43.56,Default,Sanae,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:44.13,0:16:45.19,Default,Sanae,0000,0000,0000,,Why?
+Dialogue: 0,0:16:46.56,0:16:47.69,Default,Koutarou,0000,0000,0000,,Yurika...
+Dialogue: 0,0:16:47.69,0:16:50.30,Default,Koutarou,0000,0000,0000,,Yurika's just a regular cosplayer...
+Dialogue: 0,0:16:51.23,0:16:52.64,Default,Maki,0000,0000,0000,,Tiny Memory Flash!
+Dialogue: 0,0:16:52.64,0:16:55.28,Default,Modifier,0000,0000,0000,,Modifier, extend length!
+Dialogue: 0,0:16:55.67,0:16:57.42,Default,Yurika,0000,0000,0000,,Anti-Magic Shield!
+Dialogue: 0,0:16:59.37,0:16:59.78,Default,Yurika,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:00.26,0:17:02.25,Default,Yurika,0000,0000,0000,,Anti-Magic Shield!
+Dialogue: 0,0:17:04.17,0:17:05.06,Default,Yurika,0000,0000,0000,,Where's Maki-chan?
+Dialogue: 0,0:17:05.06,0:17:05.88,Default,Maki,0000,0000,0000,,Right here!
+Dialogue: 0,0:17:14.40,0:17:15.80,Default,Yurika,0000,0000,0000,,What just happened?
+Dialogue: 0,0:17:15.80,0:17:17.38,Default,Maki,0000,0000,0000,,Did you forget?
+Dialogue: 0,0:17:17.38,0:17:20.26,Default,Maki,0000,0000,0000,,My magic is the dark navy that \Ncontrols people's hearts and minds.
+Dialogue: 0,0:17:20.26,0:17:22.73,Default,Yurika,0000,0000,0000,,That's right...
+Dialogue: 0,0:17:22.73,0:17:26.21,Default,Yurika,0000,0000,0000,,You can erase people's \Nmemories for a few seconds.
+Dialogue: 0,0:17:26.21,0:17:31.84,Default,Yurika,0000,0000,0000,,But, if I give up now, I can't call \Nmyself a resident of apartment 106!
+Dialogue: 0,0:17:31.84,0:17:34.99,Default,Yurika,0000,0000,0000,,I have to use my actions \Nto get them to believe me!
+Dialogue: 0,0:17:35.21,0:17:37.77,Default,Maki,0000,0000,0000,,It seems you've got more courage than before,
+Dialogue: 0,0:17:37.77,0:17:38.75,Default,Maki,0000,0000,0000,,but you won't be—
+Dialogue: 0,0:17:38.75,0:17:39.45,Default,Sanae,0000,0000,0000,,I found her!
+Dialogue: 0,0:17:40.01,0:17:41.83,Default,Koutarou,0000,0000,0000,,Yurika! Aika-san!
+Dialogue: 0,0:17:41.83,0:17:43.16,Default,Yurika,0000,0000,0000,,Satomi-san!
+Dialogue: 0,0:17:43.16,0:17:44.29,Default,Yurika,0000,0000,0000,,Sanae-chan!
+Dialogue: 0,0:17:44.29,0:17:47.55,Default,Maki,0000,0000,0000,,Are you saying you got through \Nboth of our barriers?
+Dialogue: 0,0:17:53.10,0:17:54.49,Default,Koutarou,0000,0000,0000,,Let's leave, Yurika.
+Dialogue: 0,0:17:54.93,0:17:56.52,Default,Koutarou,0000,0000,0000,,Let's go back to school.
+Dialogue: 0,0:17:56.52,0:17:58.77,Default,Koutarou,0000,0000,0000,,You can do your cosplay another time.
+Dialogue: 0,0:17:59.29,0:18:00.72,Default,Yurika,0000,0000,0000,,Satomi-san...
+Dialogue: 0,0:18:01.11,0:18:03.44,Default,Koutarou,0000,0000,0000,,You're just a normal cosplayer.
+Dialogue: 0,0:18:03.87,0:18:05.70,Default,Koutarou,0000,0000,0000,,You don't have to be here.
+Dialogue: 0,0:18:05.70,0:18:06.35,Default,Koutarou,0000,0000,0000,,So, let's go...
+Dialogue: 0,0:18:06.77,0:18:09.05,Default,Yurika,0000,0000,0000,,You still won't listen to me?
+Dialogue: 0,0:18:09.05,0:18:11.35,Default,Yurika,0000,0000,0000,,I'm a magical girl!
+Dialogue: 0,0:18:11.35,0:18:12.84,Default,Yurika,0000,0000,0000,,Maki-chan is my enemy.
+Dialogue: 0,0:18:12.84,0:18:14.19,Default,Yurika,0000,0000,0000,,I'm fighting her right now.
+Dialogue: 0,0:18:15.39,0:18:16.37,Default,Koutarou,0000,0000,0000,,Yurika...
+Dialogue: 0,0:18:16.37,0:18:17.65,Default,Miki,0000,0000,0000,,I've figured this out.
+Dialogue: 0,0:18:17.92,0:18:19.55,Default,Miki,0000,0000,0000,,Koutarou Satomi.
+Dialogue: 0,0:18:19.55,0:18:22.63,Default,Miki,0000,0000,0000,,You're a mage that has evolved \Nall on his own in this world,
+Dialogue: 0,0:18:22.63,0:18:25.85,Default,Miki,0000,0000,0000,,and then gave Yurika \Nknowledge and helped her.
+Dialogue: 0,0:18:26.50,0:18:28.12,Default,Sanae,0000,0000,0000,,What are you saying, Maki?
+Dialogue: 0,0:18:28.39,0:18:30.17,Default,Maki,0000,0000,0000,,You even have a ghost...
+Dialogue: 0,0:18:30.44,0:18:32.15,Default,Yurika,0000,0000,0000,,No!
+Dialogue: 0,0:18:32.15,0:18:34.21,Default,Yurika,0000,0000,0000,,They don't have anything to do with this.
+Dialogue: 0,0:18:34.67,0:18:37.63,Default,Yurika,0000,0000,0000,,Your fight's with me!
+Dialogue: 0,0:18:40.66,0:18:42.14,Default,Maki,0000,0000,0000,,That's right.
+Dialogue: 0,0:18:42.14,0:18:46.49,Default,Maki,0000,0000,0000,,I'm not planning on trying to \Nfight all of you mages at once.
+Dialogue: 0,0:18:47.12,0:18:48.52,Default,Maki,0000,0000,0000,,I'll be taking my leave...
+Dialogue: 0,0:18:48.87,0:18:52.23,Default,Maki,0000,0000,0000,,but only {\i1}after{\i0} I take \Ncare of you first, Yurika.
+Dialogue: 0,0:18:52.51,0:18:54.05,Default,Maki,0000,0000,0000,,Bind Person! Modifier,
+Dialogue: 0,0:18:54.05,0:18:55.73,Default,Modifier,0000,0000,0000,,double effect!
+Dialogue: 0,0:18:55.73,0:18:58.63,Default,Yurika,0000,0000,0000,,Quick Cast, Anti-Magic Shield!
+Dialogue: 0,0:19:01.50,0:19:03.78,Default,Maki,0000,0000,0000,,I'll be sending you to hell, Yurika!
+Dialogue: 0,0:19:09.31,0:19:10.82,Default,Maki,0000,0000,0000,,You dispelled it?
+Dialogue: 0,0:19:11.70,0:19:14.63,Default,Maki,0000,0000,0000,,No way. Without a staff \Nor an incantation...
+Dialogue: 0,0:19:15.22,0:19:18.09,Invaders-Internal/Narrator,Maki,0000,0000,0000,,Also, what was that white light just now?
+Dialogue: 0,0:19:18.32,0:19:20.55,Default,Koutarou,0000,0000,0000,,Maki-san, just stop already.
+Dialogue: 0,0:19:21.12,0:19:22.36,Default,Maki,0000,0000,0000,,I'll just have to...
+Dialogue: 0,0:19:29.70,0:19:31.28,Default,Koutarou,0000,0000,0000,,Sakuraba-senpai!
+Dialogue: 0,0:19:31.28,0:19:33.48,Default,Harumi,0000,0000,0000,,S-Satomi-kun.
+Dialogue: 0,0:19:33.48,0:19:34.40,Default,Harumi,0000,0000,0000,,Yurika-san.
+Dialogue: 0,0:19:34.40,0:19:36.90,Default,Koutarou,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:19:37.13,0:19:39.43,Default,Harumi,0000,0000,0000,,I'm not sure why, either...
+Dialogue: 0,0:19:39.43,0:19:41.89,Default,Harumi,0000,0000,0000,,M-My body is moving on its own...
+Dialogue: 0,0:19:41.89,0:19:43.50,Default,Harumi,0000,0000,0000,,I can't do anything.
+Dialogue: 0,0:19:44.71,0:19:46.02,Default,Koutarou,0000,0000,0000,,Stop it, Maki-san!
+Dialogue: 0,0:19:46.02,0:19:48.08,Default,Koutarou,0000,0000,0000,,She has a weak constitution!
+Dialogue: 0,0:19:48.08,0:19:49.58,Default,Koutarou,0000,0000,0000,,Don't get her involved in this!
+Dialogue: 0,0:19:49.58,0:19:54.40,Default,Maki,0000,0000,0000,,It seems this girl is effective \Nagainst you, as well,
+Dialogue: 0,0:19:54.40,0:19:55.41,Default,Maki,0000,0000,0000,,and not just Yurika.
+Dialogue: 0,0:19:56.39,0:19:58.21,Default,Sanae,0000,0000,0000,,What should we do, Koutarou?
+Dialogue: 0,0:19:58.44,0:20:02.23,Default,Maki,0000,0000,0000,,Stone Rain! Modifier, effective time double!
+Dialogue: 0,0:20:03.59,0:20:04.97,Default,Yurika,0000,0000,0000,,Satomi-san, watch out!
+Dialogue: 0,0:20:05.72,0:20:07.91,Default,,0000,0000,0000,,Quick Cast, Force Field!
+Dialogue: 0,0:20:11.77,0:20:12.60,Default,Sanae,0000,0000,0000,,The stones are...
+Dialogue: 0,0:20:27.61,0:20:30.79,Default,Koutarou,0000,0000,0000,,Magical Girl Rainbow Yurika, huh?
+Dialogue: 0,0:20:31.19,0:20:31.90,Default,Yurika,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:32.62,0:20:34.82,Default,Koutarou,0000,0000,0000,,You were always telling me.
+Dialogue: 0,0:20:35.29,0:20:37.56,Default,Koutarou,0000,0000,0000,,I never believed you.
+Dialogue: 0,0:20:37.56,0:20:40.46,Default,Koutarou,0000,0000,0000,,No, I think I didn't want to believe you.
+Dialogue: 0,0:20:41.61,0:20:42.92,Default,Yurika,0000,0000,0000,,Satomi-san...
+Dialogue: 0,0:20:43.19,0:20:46.33,Default,Koutarou,0000,0000,0000,,Yurika, let's save Sakuraba-senpai together!
+Dialogue: 0,0:20:46.33,0:20:46.97,Default,Yurika,0000,0000,0000,,Right!
+Dialogue: 0,0:20:48.22,0:20:50.85,Default,Maki,0000,0000,0000,,I'm ending this now, Yurika!
+Dialogue: 0,0:20:51.12,0:20:55.90,Default,,0000,0000,0000,,Blast Fireball! Modifier, high concentrate!
+Dialogue: 0,0:20:57.22,0:20:58.12,Default,Koutarou,0000,0000,0000,,What's that?!
+Dialogue: 0,0:20:58.12,0:20:59.42,Default,Yurika,0000,0000,0000,,Be careful.
+Dialogue: 0,0:20:59.42,0:21:00.99,Default,Yurika,0000,0000,0000,,Even if you have protective magic,
+Dialogue: 0,0:21:00.99,0:21:02.70,Default,Yurika,0000,0000,0000,,getting hit by that is dangerous!
+Dialogue: 0,0:21:02.70,0:21:04.49,Default,Koutarou,0000,0000,0000,,We have to get the first hit in, then!
+Dialogue: 0,0:21:04.49,0:21:06.09,Default,Koutarou,0000,0000,0000,,Yurika, back me up!
+Dialogue: 0,0:21:06.09,0:21:07.78,Default,Koutarou,0000,0000,0000,,Sanae, we're splitting up and getting her.
+Dialogue: 0,0:21:07.78,0:21:08.41,Default,Sanae,0000,0000,0000,,Right!
+Dialogue: 0,0:21:12.09,0:21:13.34,Default,Maki,0000,0000,0000,,Not a problem.
+Dialogue: 0,0:21:13.34,0:21:16.08,Default,Maki,0000,0000,0000,,I have no intention of aiming at all of you.
+Dialogue: 0,0:21:18.86,0:21:20.10,Default,Koutarou,0000,0000,0000,,Sakuraba-senpai!
+Dialogue: 0,0:21:20.10,0:21:22.30,Default,Yurika,0000,0000,0000,,Recall, pre-cast teleport.
+Dialogue: 0,0:21:24.51,0:21:25.30,Default,Koutarou,0000,0000,0000,,Yurika!
+Dialogue: 0,0:21:29.15,0:21:30.51,Default,Harumi,0000,0000,0000,,Yurika-san...
+Dialogue: 0,0:21:50.40,0:21:53.13,Default,Koutarou,0000,0000,0000,,Yurika!
+Dialogue: 0,0:23:26.51,0:23:28.23,Default,A,0000,0000,0000,,We're playing {\i1}shiritori{\i0} today!
+Dialogue: 0,0:23:28.23,0:23:29.34,Default,A,0000,0000,0000,,I'll start.
+Dialogue: 0,0:23:29.34,0:23:30.43,Default,A,0000,0000,0000,,Haniwa da ho! (Japanese doll)
+Dialogue: 0,0:23:30.43,0:23:31.59,Default,B,0000,0000,0000,,Holy crap da ho!
+Dialogue: 0,0:23:31.59,0:23:33.37,Default,A,0000,0000,0000,,Hoax da ho!
+Dialogue: 0,0:23:33.37,0:23:34.80,Default,B,0000,0000,0000,,Homunculus da ho!
+Dialogue: 0,0:23:34.80,0:23:37.26,Default,A,0000,0000,0000,,Homing missile da ho!
+Dialogue: 0,0:23:36.70,0:23:40.10,Invaders-Next_Episode,,0000,0000,0000,,Next Episode: The Sun and a Rainbow
+Dialogue: 0,0:23:37.26,0:23:39.08,Default,B,0000,0000,0000,,Why do they all start with "ho?"
+Dialogue: 0,0:23:39.08,0:23:39.70,Default,A,0000,0000,0000,,Ho?
