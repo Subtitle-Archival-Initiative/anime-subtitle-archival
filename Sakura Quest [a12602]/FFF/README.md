@@ -2,14 +2,14 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | -                                   |
-| Translation Check | -                                   |
-| Editing           | -                                   |
-| Typesetting       | -                                   |
+| Translation       | Tyler Hagen (Funimation)            |
+| Translation Check | convexity                           |
+| Editing           | Naine                               |
+| Typesetting       | Chhotu_uttam                        |
 | Styling           | -                                   |
-| Timing            | -                                   |
-| Encoding          | -                                   |
-| Quality Control   | -                                   |
+| Timing            | Hana                                |
+| Encoding          | Naine                               |
+| Quality Control   | Corbyn                              |
 
 ## Release Info
 
