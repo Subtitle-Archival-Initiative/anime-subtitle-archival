@@ -1,0 +1,357 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Title1,Open Sans Semibold,50,&H00E9E9E9,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,13,260,13,0
+Style: Title2,Open Sans Semibold,50,&H00C5436E,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,260,13,13,0
+Style: Title3,Open Sans Semibold,36,&H00F7EEF4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,13,67,0
+Style: Title4,Open Sans Semibold,39,&H005914DF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,13,67,67,0
+Style: Default-no margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default-normal bottom margin no l-r margins,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title - upper corner,Open Sans Semibold,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,9,7,7,13,1
+Style: SignA,Open Sans Semibold,39,&H000B0B0B,&H000000FF,&H00E9E9E9,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,1,1,13,0
+Style: SignB,Open Sans Semibold,39,&H00936B2C,&H000000FF,&H004236B3,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,27,27,13,0
+Style: SignC,Open Sans Semibold,39,&H008CCEDC,&H000000FF,&H00031722,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,1,1,27,0
+Style: SignD,Open Sans Semibold,39,&H00090E0F,&H000000FF,&H007B8283,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,1,1,27,0
+Style: SignE,Open Sans Semibold,39,&H00544781,&H000000FF,&H00D5E6E2,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,1,1,27,0
+Style: SignF,Open Sans Semibold,39,&H00EDEFEE,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,1,1,13,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:07.63,0:01:09.14,Default,,0000,0000,0000,,Bullying?
+Dialogue: 0,0:01:09.14,0:01:10.79,Default,,0000,0000,0000,,And really stereotypical stuff, too.
+Dialogue: 0,0:01:10.79,0:01:13.21,Default,,0000,0000,0000,,Turning right!
+Dialogue: 0,0:01:13.21,0:01:17.84,Default,,0000,0000,0000,,Now then, let's have a chat about those human\Nexperiments you're involved with.
+Dialogue: 0,0:01:17.84,0:01:19.35,Default,,0000,0000,0000,,It was me.
+Dialogue: 0,0:01:19.35,0:01:20.54,Default,,0000,0000,0000,,I know it.
+Dialogue: 0,0:01:20.54,0:01:22.97,Default,,0000,0000,0000,,They know where I was heading.
+Dialogue: 0,0:01:22.97,0:01:25.52,Default,,0000,0000,0000,,I've found you, my love!
+Dialogue: 0,0:01:25.52,0:01:26.94,Default,,0000,0000,0000,,I don't need any excuses.
+Dialogue: 0,0:01:26.94,0:01:29.83,Default,,0000,0000,0000,,Or would you rather be\Nthe material yourself?
+Dialogue: 0,0:01:29.83,0:01:30.75,Default,,0000,0000,0000,,Give it up.
+Dialogue: 0,0:01:30.75,0:01:32.69,Default,,0000,0000,0000,,Maybe you don't need a head.
+Dialogue: 0,0:01:56.20,0:01:59.48,Default,,0000,0000,0000,,It's always the important\Nstuff you lose, isn't it?
+Dialogue: 0,0:01:56.20,0:02:04.02,Default,,0000,0000,0000,,{\an7}<Tanaka Tarou>
+Dialogue: 0,0:01:59.48,0:02:01.63,Default,,0000,0000,0000,,Like a brand new umbrella.
+Dialogue: 0,0:02:01.63,0:02:04.02,Default,,0000,0000,0000,,You never lose your crappy old one.
+Dialogue: 0,0:02:04.40,0:02:07.61,Default,,0000,0000,0000,,I don't mind losing an umbrella,\Nbut a winning lottery ticket...
+Dialogue: 0,0:02:04.40,0:02:10.58,Default,,0000,0000,0000,,{\an7}<Kanra>
+Dialogue: 0,0:02:07.61,0:02:10.58,Default,,0000,0000,0000,,You put them somewhere important\Nbut then forget.
+Dialogue: 0,0:02:10.58,0:02:14.01,Default,,0000,0000,0000,,{\an7}<Tanaka Tarou>
+Dialogue: 0,0:02:10.58,0:02:14.01,Default,,0000,0000,0000,,When you look for them,\Nyou end up finding all these other things.
+Dialogue: 0,0:02:14.01,0:02:17.91,Default,,0000,0000,0000,,{\an7}<Kanra>
+Dialogue: 0,0:02:14.01,0:02:17.91,Default,,0000,0000,0000,,Maybe we just think the things we lose are\Nmore important than we would otherwise.
+Dialogue: 0,0:02:17.91,0:02:19.17,Default,,0000,0000,0000,,'Evening.
+Dialogue: 0,0:02:17.91,0:02:21.67,Default,,0000,0000,0000,,{\an7}<Setton>
+Dialogue: 0,0:02:19.17,0:02:21.67,Default,,0000,0000,0000,,Looking for something?
+Dialogue: 0,0:02:24.31,0:02:26.01,Default,,0000,0000,0000,,Sometimes, I think...
+Dialogue: 0,0:02:27.05,0:02:32.80,Default,,0000,0000,0000,,When I'm asleep, maybe I'm awake there.
+Dialogue: 0,0:02:33.77,0:02:36.17,Default,,0000,0000,0000,,Sometimes, I feel that since\Nmy memories got hazy,
+Dialogue: 0,0:02:36.17,0:02:39.82,Default,,0000,0000,0000,,my sense of passing time\Nhas gotten hazy, as well.
+Dialogue: 0,0:02:41.79,0:02:43.22,Default,,0000,0000,0000,,How long has it been?
+Dialogue: 0,0:02:44.08,0:02:49.76,Default,,0000,0000,0000,,Since I stopped seeing myself\Nwhole, even in dreams?
+Dialogue: 0,0:02:52.45,0:02:54.48,Default,,0000,0000,0000,,There and here...
+Dialogue: 0,0:02:55.70,0:02:59.97,Default,,0000,0000,0000,,In the there not here,\Nwhat types of things do I see?
+Dialogue: 0,0:03:01.01,0:03:02.61,Default,,0000,0000,0000,,What am I looking at?
+Dialogue: 0,0:03:03.48,0:03:07.00,Default,,0000,0000,0000,,In the dream I have over and over,
+Dialogue: 0,0:03:07.61,0:03:10.96,Default,,0000,0000,0000,,I try to find out.
+Dialogue: 0,0:03:18.20,0:03:21.75,Default,,0000,0000,0000,,But the dream's always the same.
+Dialogue: 0,0:03:43.72,0:03:45.71,Title1,,0000,0000,0000,,Ephemeral
+Dialogue: 0,0:03:43.72,0:03:45.71,Title2,,0000,0000,0000,,Dream
+Dialogue: 0,0:03:57.84,0:03:58.59,Default,,0000,0000,0000,,Celty!
+Dialogue: 0,0:03:58.59,0:04:00.13,Default,,0000,0000,0000,,It's amazing!
+Dialogue: 0,0:04:00.13,0:04:03.60,Default,,0000,0000,0000,,Last night, you said you didn't\Nhave work today, right?
+Dialogue: 0,0:04:03.60,0:04:09.21,Default,,0000,0000,0000,,I just did the calculations.\NIt's your first day off in 265 days!
+Dialogue: 0,0:04:13.84,0:04:15.70,Default,,0000,0000,0000,,The look on your face is unhappy.
+Dialogue: 0,0:04:16.25,0:04:20.28,Default,,0000,0000,0000,,He reads expressions on\Nthe face I don't have.
+Dialogue: 0,0:04:24.32,0:04:28.74,Default,,0000,0000,0000,,I heard that humans have dreams in order\Nto organize their memories. Is this true?
+Dialogue: 0,0:04:29.28,0:04:31.39,Default,,0000,0000,0000,,Well, that's certainly a sudden question.
+Dialogue: 0,0:04:31.39,0:04:33.62,Default,,0000,0000,0000,,Why do people dream?
+Dialogue: 0,0:04:33.62,0:04:37.13,Default,,0000,0000,0000,,Put simply: no one knows.
+Dialogue: 0,0:04:37.48,0:04:40.56,Default,,0000,0000,0000,,Medicine has a long way\Nto go in lots of areas,
+Dialogue: 0,0:04:40.56,0:04:42.59,Default,,0000,0000,0000,,especially concerning what\Nhappens up here.
+Dialogue: 0,0:04:42.59,0:04:47.82,Default,,0000,0000,0000,,Everyone knows that you have dreams\Nduring REM, rapid eye movement...
+Dialogue: 0,0:04:47.82,0:04:49.32,Default,,0000,0000,0000,,He's a doctor.
+Dialogue: 0,0:04:49.32,0:04:51.66,Default,,0000,0000,0000,,An underground doctor, to be precise.
+Dialogue: 0,0:04:51.66,0:04:55.41,Default,,0000,0000,0000,,But to be honest, I don't really\Nknow what he does.
+Dialogue: 0,0:04:55.82,0:05:03.24,Default,,0000,0000,0000,,He's letting me live here, and it's thanks to him\Nthat I can continue my job as a transporter.
+Dialogue: 0,0:05:04.53,0:05:08.70,Default,,0000,0000,0000,,Well, I guess the issue is that no one\Nreally knows what "memories" are.
+Dialogue: 0,0:05:09.79,0:05:11.27,Default,,0000,0000,0000,,You listening?
+Dialogue: 0,0:05:11.27,0:05:12.87,Default,,0000,0000,0000,,I feel grateful to him.
+Dialogue: 0,0:05:13.33,0:05:20.70,Default,,0000,0000,0000,,And lately, I've thought that what\NI feel for him is probably love.
+Dialogue: 0,0:05:21.62,0:05:22.95,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:05:22.95,0:05:28.68,Default,,0000,0000,0000,,You seem to think your memories are\Nin your head, but we don't know that.
+Dialogue: 0,0:05:28.68,0:05:30.18,Default,,0000,0000,0000,,Of course they are!
+Dialogue: 0,0:05:31.71,0:05:34.91,Default,,0000,0000,0000,,Anyway, first let's change.
+Dialogue: 0,0:05:34.91,0:05:37.19,Default,,0000,0000,0000,,We can go somewhere.
+Dialogue: 0,0:05:37.19,0:05:39.31,Default,,0000,0000,0000,,I'll take the day off, too.
+Dialogue: 0,0:05:39.31,0:05:42.08,Default,,0000,0000,0000,,See? I'll turn off the phone.
+Dialogue: 0,0:05:44.08,0:05:47.45,Default,,0000,0000,0000,,I'll pull the network cord, as well!\NI won't check my emails at all!
+Dialogue: 0,0:05:47.93,0:05:50.80,Default,,0000,0000,0000,,The whole day is ours!
+Dialogue: 0,0:05:50.80,0:05:52.97,Default,,0000,0000,0000,,Where shall we go?
+Dialogue: 0,0:05:52.97,0:05:55.24,Default,,0000,0000,0000,,Take your horse to the sea?
+Dialogue: 0,0:05:55.24,0:05:56.71,Default,,0000,0000,0000,,Or a hot spring?
+Dialogue: 0,0:05:57.43,0:05:58.87,Default,,0000,0000,0000,,I don't want to go anywhere.
+Dialogue: 0,0:05:59.17,0:06:00.13,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:06:00.66,0:06:05.13,Default,,0000,0000,0000,,If we're taking the day off, I'd like to\Ncook for you, for all you do for me.
+Dialogue: 0,0:06:05.46,0:06:06.38,Default,,0000,0000,0000,,Home cooking!
+Dialogue: 0,0:06:06.92,0:06:08.44,Default,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:06:08.44,0:06:09.76,Default,,0000,0000,0000,,Let's look for a recipe.
+Dialogue: 0,0:06:14.42,0:06:16.47,Default,,0000,0000,0000,,I'm so moved, Celty!
+Dialogue: 0,0:06:18.06,0:06:20.22,Default,,0000,0000,0000,,I wonder what I'd like...
+Dialogue: 0,0:06:25.93,0:06:28.20,Default,,0000,0000,0000,,OK, thanks so much, man.
+Dialogue: 0,0:06:28.66,0:06:31.87,Default,,0000,0000,0000,,I overslept this morning, so it really helps.
+Dialogue: 0,0:06:32.23,0:06:34.21,Default,,0000,0000,0000,,No problem, young man.
+Dialogue: 0,0:06:34.21,0:06:36.91,Default,,0000,0000,0000,,I figured you'd eventually get\Ntired from the trip to Tokyo.
+Dialogue: 0,0:06:37.29,0:06:40.82,Default,,0000,0000,0000,,Times like this are your hunter chance!
+Dialogue: 0,0:06:41.48,0:06:46.03,Default,,0000,0000,0000,,Shoulder to shoulder with the lovely\Nlady next to you, sharing textbooks!
+Dialogue: 0,0:06:46.03,0:06:48.91,Default,,0000,0000,0000,,So what's up? You going\Nwithout the necktie?
+Dialogue: 0,0:06:48.91,0:06:49.82,Default,,0000,0000,0000,,Or did you just forget?
+Dialogue: 0,0:06:51.11,0:06:52.61,Default,,0000,0000,0000,,You OK?
+Dialogue: 0,0:06:52.61,0:06:54.43,Default,,0000,0000,0000,,You didn't forget your wallet, did you?
+Dialogue: 0,0:06:54.89,0:06:56.09,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:07:09.44,0:07:10.52,Default,,0000,0000,0000,,It's yummy!
+Dialogue: 0,0:07:10.52,0:07:12.12,Default,,0000,0000,0000,,It's Russian sushi!
+Dialogue: 0,0:07:10.69,0:07:13.97,Default,,0000,0000,0000,,Simon, you seen Yumacchi?
+Dialogue: 0,0:07:13.97,0:07:15.66,Default,,0000,0000,0000,,Oh, Karisawa!
+Dialogue: 0,0:07:15.66,0:07:16.87,Default,,0000,0000,0000,,Want sushi?
+Dialogue: 0,0:07:16.87,0:07:19.16,Default,,0000,0000,0000,,I have not seen him.
+Dialogue: 0,0:07:19.16,0:07:20.61,Default,,0000,0000,0000,,No luck, huh?
+Dialogue: 0,0:07:19.26,0:07:20.64,Default,,0000,0000,0000,,{\a6}Big trouble today.
+Dialogue: 0,0:07:20.64,0:07:22.78,Default,,0000,0000,0000,,{\a6}The owner got sick.
+Dialogue: 0,0:07:21.19,0:07:24.88,Default,,0000,0000,0000,,Dengeki Bunko's {\i1}accel World {\i0}comes out today.
+Dialogue: 0,0:07:24.02,0:07:25.69,Default,,0000,0000,0000,,{\a6}But he is OK now!
+Dialogue: 0,0:07:24.88,0:07:28.64,Default,,0000,0000,0000,,The two of us went to buy it,\Nthen got some tea and split up.
+Dialogue: 0,0:07:25.69,0:07:27.75,Default,,0000,0000,0000,,{\a6}He took medicine.
+Dialogue: 0,0:07:27.75,0:07:30.00,Default,,0000,0000,0000,,{\a6}But he could not go to get fish.
+Dialogue: 0,0:07:28.64,0:07:34.03,Default,,0000,0000,0000,,But one of the café maids came after me,\Nsaying Yumacchi forgot his cell.
+Dialogue: 0,0:07:30.00,0:07:31.93,Default,,0000,0000,0000,,{\a6}So we have no ingredients.
+Dialogue: 0,0:07:31.93,0:07:34.07,Default,,0000,0000,0000,,{\a6}We are looking for them now.
+Dialogue: 0,0:07:34.03,0:07:34.86,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:34.92,0:07:36.45,Default,,0000,0000,0000,,Don't attract customers then!
+Dialogue: 0,0:07:35.86,0:07:36.74,Default,,0000,0000,0000,,Hello?
+Dialogue: 0,0:07:36.74,0:07:37.97,Default,,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:07:37.97,0:07:40.04,Default,,0000,0000,0000,,What are you looking for?
+Dialogue: 0,0:07:40.04,0:07:41.61,Default,,0000,0000,0000,,I said it's Yumacchi's...
+Dialogue: 0,0:07:41.61,0:07:42.60,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:07:42.62,0:07:50.06,SignA,,0000,0000,0000,,Lost objects
+Dialogue: 0,0:07:44.70,0:07:46.36,Default,,0000,0000,0000,,Lost objects?
+Dialogue: 0,0:07:46.36,0:07:50.16,Default,,0000,0000,0000,,Write what you're looking for here!
+Dialogue: 0,0:07:50.16,0:07:51.78,Default,,0000,0000,0000,,Tell me.
+Dialogue: 0,0:07:53.72,0:07:57.01,Default,,0000,0000,0000,,Are you doing this here all day?
+Dialogue: 0,0:07:57.01,0:07:59.83,Default,,0000,0000,0000,,I am asking everyone!
+Dialogue: 0,0:08:05.36,0:08:06.34,Default,,0000,0000,0000,,My phone!
+Dialogue: 0,0:08:07.71,0:08:09.59,Default,,0000,0000,0000,,Welcome back!
+Dialogue: 0,0:08:13.66,0:08:17.30,Default,,0000,0000,0000,,What am I looking for?
+Dialogue: 0,0:08:17.68,0:08:20.14,Default,,0000,0000,0000,,It's enough that Kazutawno's safe.
+Dialogue: 0,0:08:20.14,0:08:25.23,Default,,0000,0000,0000,,I promised Karisawa and Yumasaki\NI'd stop looking into this.
+Dialogue: 0,0:08:26.65,0:08:28.91,Default,,0000,0000,0000,,Yagiri Pharmaceuticals...
+Dialogue: 0,0:08:28.91,0:08:31.46,Default,,0000,0000,0000,,They say they're secretly hooked up with the Awakusu
+Dialogue: 0,0:08:31.46,0:08:35.61,Default,,0000,0000,0000,,or the North American Nebra, Inc.
+Dialogue: 0,0:08:36.37,0:08:41.46,Default,,0000,0000,0000,,But I'm not gonna find anything standing here.
+Dialogue: 0,0:09:09.31,0:09:11.23,Default,,0000,0000,0000,,Did you see Karisawa-san?
+Dialogue: 0,0:09:11.40,0:09:13.05,Default,,0000,0000,0000,,I have not.
+Dialogue: 0,0:09:13.05,0:09:14.92,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:09:14.92,0:09:17.74,Default,,0000,0000,0000,,Now, how about some Russian sushi?
+Dialogue: 0,0:09:25.83,0:09:30.50,Default,,0000,0000,0000,,Celty! Let's use a kitchen knife, OK?
+Dialogue: 0,0:09:33.80,0:09:35.55,Default,,0000,0000,0000,,This is great!
+Dialogue: 0,0:09:35.55,0:09:36.68,Default,,0000,0000,0000,,Great!
+Dialogue: 0,0:09:37.68,0:09:39.74,Default,,0000,0000,0000,,Good stuff.
+Dialogue: 0,0:09:41.60,0:09:43.68,Default,,0000,0000,0000,,Wait. Why are you crying?
+Dialogue: 0,0:09:44.05,0:09:45.74,Default,,0000,0000,0000,,Crying?
+Dialogue: 0,0:09:45.74,0:09:47.85,Default,,0000,0000,0000,,I'm just so happy.
+Dialogue: 0,0:09:47.85,0:09:49.80,Default,,0000,0000,0000,,It's truly wonderful.
+Dialogue: 0,0:09:49.80,0:09:51.87,Default,,0000,0000,0000,,These super-sweet sautéed and\Nsimmered veggies,
+Dialogue: 0,0:09:51.87,0:09:53.71,Default,,0000,0000,0000,,the bitterness of the miso soup...
+Dialogue: 0,0:09:53.71,0:09:55.38,Default,,0000,0000,0000,,Something's wrong.
+Dialogue: 0,0:09:55.38,0:09:58.45,Default,,0000,0000,0000,,No. Your cooking is avant-garde!
+Dialogue: 0,0:09:58.45,0:10:00.07,Default,,0000,0000,0000,,Just like you!
+Dialogue: 0,0:10:01.12,0:10:03.17,Default,,0000,0000,0000,,That's not a compliment!
+Dialogue: 0,0:10:03.17,0:10:06.35,Default,,0000,0000,0000,,I get it. I screwed it up again.
+Dialogue: 0,0:10:06.35,0:10:07.21,Default,,0000,0000,0000,,Fine!
+Dialogue: 0,0:10:07.21,0:10:08.68,Default,,0000,0000,0000,,Don't force yourself to eat it!
+Dialogue: 0,0:10:08.68,0:10:10.43,Default,,0000,0000,0000,,I'm not forcing myself.
+Dialogue: 0,0:10:10.43,0:10:12.00,Default,,0000,0000,0000,,It's so good...
+Dialogue: 0,0:10:12.61,0:10:14.22,Default,,0000,0000,0000,,I said, "Don't eat it!"
+Dialogue: 0,0:10:19.17,0:10:20.89,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:10:28.89,0:10:30.73,Default,,0000,0000,0000,,How's this thing work, anyway?
+Dialogue: 0,0:10:31.29,0:10:34.83,Default,,0000,0000,0000,,Listen, you've got a talent\Nfor cooking. I know it.
+Dialogue: 0,0:10:35.42,0:10:38.53,Default,,0000,0000,0000,,Who cares if you don't have "watermelon cells"?
+Dialogue: 0,0:10:40.10,0:10:42.39,Default,,0000,0000,0000,,What? Watermelons?
+Dialogue: 0,0:10:42.39,0:10:44.11,Default,,0000,0000,0000,,I mean a sense of taste.
+Dialogue: 0,0:10:44.11,0:10:48.56,Default,,0000,0000,0000,,The brain doesn't have tastes that\Naren't recorded in your DNA.
+Dialogue: 0,0:10:49.49,0:10:53.72,Default,,0000,0000,0000,,But you don't have to eat, and it looks like\Nthe brain has nothing to do with it.
+Dialogue: 0,0:10:55.99,0:10:58.24,Default,,0000,0000,0000,,Cheer up.
+Dialogue: 0,0:10:58.71,0:11:00.97,Default,,0000,0000,0000,,Want to play a game?
+Dialogue: 0,0:11:01.90,0:11:03.96,Default,,0000,0000,0000,,Don't treat me like a kid!
+Dialogue: 0,0:11:03.96,0:11:06.03,Default,,0000,0000,0000,,That makes me more pissed\Noff than anything.
+Dialogue: 0,0:11:06.03,0:11:07.22,Default,,0000,0000,0000,,I'm not.
+Dialogue: 0,0:11:07.55,0:11:11.71,Default,,0000,0000,0000,,You do teach me a lot of things,
+Dialogue: 0,0:11:11.71,0:11:16.38,Default,,0000,0000,0000,,but some of the hazy memories I have\Ndate back a hundred years ago.
+Dialogue: 0,0:11:16.38,0:11:17.69,Default,,0000,0000,0000,,And my head has more...
+Dialogue: 0,0:11:18.20,0:11:21.04,Default,,0000,0000,0000,,Do you need memories from\Nhundreds of years ago?
+Dialogue: 0,0:11:22.31,0:11:23.37,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:11:24.11,0:11:26.33,Default,,0000,0000,0000,,It's like I'm always saying.
+Dialogue: 0,0:11:26.81,0:11:29.25,Default,,0000,0000,0000,,You're fine the way you are.
+Dialogue: 0,0:11:29.89,0:11:31.25,Default,,0000,0000,0000,,What do you know?
+Dialogue: 0,0:11:33.87,0:11:37.59,Default,,0000,0000,0000,,I feel like I'm going to\Nforget my own face!
+Dialogue: 0,0:11:40.93,0:11:43.80,Default,,0000,0000,0000,,Wait! I'm sorry!
+Dialogue: 0,0:11:54.60,0:11:55.77,Default,,0000,0000,0000,,Celty!
+Dialogue: 0,0:11:56.25,0:11:58.48,Default,,0000,0000,0000,,You're back!
+Dialogue: 0,0:12:01.08,0:12:03.65,Default,,0000,0000,0000,,You need to keep your phone on, Doctor.
+Dialogue: 0,0:12:03.65,0:12:06.41,Default,,0000,0000,0000,,We have a patient in emergency condition,\Nand we couldn't reach you.
+Dialogue: 0,0:12:21.42,0:12:23.85,Default,,0000,0000,0000,,Sonohara-san, is something wrong?
+Dialogue: 0,0:12:23.85,0:12:25.12,Default,,0000,0000,0000,,They're not here.
+Dialogue: 0,0:12:25.12,0:12:25.94,Default,,0000,0000,0000,,They're not?
+Dialogue: 0,0:12:25.94,0:12:27.17,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:27.17,0:12:29.18,Default,,0000,0000,0000,,What did you lose this time, Mikado?
+Dialogue: 0,0:12:29.18,0:12:31.38,Default,,0000,0000,0000,,Sonohara's shoes are gone.
+Dialogue: 0,0:12:31.38,0:12:32.66,Default,,0000,0000,0000,,Again?
+Dialogue: 0,0:12:32.66,0:12:34.31,Default,,0000,0000,0000,,Man, people need to get a life.
+Dialogue: 0,0:12:35.18,0:12:38.27,Default,,0000,0000,0000,,I've got a good idea who's doing this stuff.
+Dialogue: 0,0:12:38.61,0:12:39.80,Default,,0000,0000,0000,,Kida-kun...
+Dialogue: 0,0:12:39.80,0:12:40.68,Default,,0000,0000,0000,,OK!
+Dialogue: 0,0:12:40.68,0:12:43.14,Default,,0000,0000,0000,,Wait, Kida-kun!
+Dialogue: 0,0:12:46.60,0:12:52.08,Default,,0000,0000,0000,,Kida-kun was kinda scary, not like normal.
+Dialogue: 0,0:12:52.56,0:12:53.90,Default,,0000,0000,0000,,You think?
+Dialogue: 0,0:12:53.90,0:12:57.25,Default,,0000,0000,0000,,He ran off. That guy...
+Dialogue: 0,0:13:12.33,0:13:16.50,Default,,0000,0000,0000,,When I was a kid, I used to\Nlose things all the time.
+Dialogue: 0,0:13:16.50,0:13:20.34,Default,,0000,0000,0000,,I'd always cry, "I can't\Nfind it! I can't find it!"
+Dialogue: 0,0:13:20.34,0:13:23.57,Default,,0000,0000,0000,,And my mom would help me look.
+Dialogue: 0,0:13:23.98,0:13:25.70,Default,,0000,0000,0000,,Your mom's nice.
+Dialogue: 0,0:13:26.36,0:13:27.55,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:27.55,0:13:29.74,Default,,0000,0000,0000,,My mom and dad both.
+Dialogue: 0,0:13:34.83,0:13:36.21,Default,,0000,0000,0000,,It's OK.
+Dialogue: 0,0:13:36.57,0:13:39.35,Default,,0000,0000,0000,,I'll just go home.
+Dialogue: 0,0:13:39.35,0:13:43.38,Default,,0000,0000,0000,,Thank you, Ryuugamine-kun,\Nfor looking with me.
+Dialogue: 0,0:13:49.65,0:13:53.20,Default,,0000,0000,0000,,Give up on whoever it is, Kida-kun.
+Dialogue: 0,0:13:53.66,0:13:56.88,Default,,0000,0000,0000,,No. She went home.
+Dialogue: 0,0:13:57.47,0:14:00.02,Default,,0000,0000,0000,,No, I don't.
+Dialogue: 0,0:14:00.75,0:14:01.95,Default,,0000,0000,0000,,Me?
+Dialogue: 0,0:14:01.95,0:14:04.27,Default,,0000,0000,0000,,I'm still looking, of course.
+Dialogue: 0,0:14:04.94,0:14:07.36,Default,,0000,0000,0000,,Anyway, see you tomorrow.
+Dialogue: 0,0:14:13.71,0:14:15.74,Default,,0000,0000,0000,,There they are!
+Dialogue: 0,0:14:22.61,0:14:26.17,Default,,0000,0000,0000,,What am I doing?
+Dialogue: 0,0:14:29.86,0:14:32.11,Default,,0000,0000,0000,,Weird, huh?
+Dialogue: 0,0:14:34.14,0:14:36.03,Default,,0000,0000,0000,,I can't remember at all.
+Dialogue: 0,0:14:36.03,0:14:37.89,Default,,0000,0000,0000,,Empty lots are weird, aren't they?
+Dialogue: 0,0:14:38.48,0:14:41.90,Default,,0000,0000,0000,,Once everything's gone, you can't\Nremember what was there.
+Dialogue: 0,0:14:42.73,0:14:44.53,Default,,0000,0000,0000,,Used to be something here, right?
+Dialogue: 0,0:14:44.55,0:14:47.35,SignB,,0000,0000,0000,,FOR SALE
+Dialogue: 0,0:14:45.00,0:14:47.36,Default,,0000,0000,0000,,Something pretty big.
+Dialogue: 0,0:14:50.81,0:14:52.99,Default,,0000,0000,0000,,What am I doing?
+Dialogue: 0,0:14:53.46,0:14:58.37,Default,,0000,0000,0000,,I get mad when Shinra tells me\Nto stop looking for my head.
+Dialogue: 0,0:14:58.76,0:15:03.29,Default,,0000,0000,0000,,But doing a job, making friends...
+Dialogue: 0,0:15:03.87,0:15:06.96,Default,,0000,0000,0000,,Is it like I think I'm human?
+Dialogue: 0,0:15:07.77,0:15:11.68,Default,,0000,0000,0000,,Didn't you want to talk to\Nme about something?
+Dialogue: 0,0:15:17.85,0:15:19.29,Default,,0000,0000,0000,,I remember!
+Dialogue: 0,0:15:19.29,0:15:22.27,Default,,0000,0000,0000,,It was a long, thin, blue building, wasn't it?
+Dialogue: 0,0:15:24.79,0:15:27.25,Default,,0000,0000,0000,,Oh, that old, crappy one!
+Dialogue: 0,0:15:27.25,0:15:29.67,Default,,0000,0000,0000,,There was an elderly lady who sold\Ncigarettes on the first floor.
+Dialogue: 0,0:15:29.67,0:15:31.98,Default,,0000,0000,0000,,Nice work, transporter.
+Dialogue: 0,0:15:33.80,0:15:38.24,Default,,0000,0000,0000,,But I'm sure I can sense\Nmy head in this town.
+Dialogue: 0,0:15:50.65,0:15:52.66,Default,,0000,0000,0000,,Hello, how are you?
+Dialogue: 0,0:15:52.66,0:15:54.34,Default,,0000,0000,0000,,Me?
+Dialogue: 0,0:15:54.34,0:15:58.06,Default,,0000,0000,0000,,I am searching for beautiful Japanese.
+Dialogue: 0,0:15:58.06,0:16:03.17,Default,,0000,0000,0000,,Tell me what it is you are\Nlooking for in your heart.
+Dialogue: 0,0:16:04.78,0:16:08.53,Default,,0000,0000,0000,,Um... Can I see that?
+Dialogue: 0,0:16:08.88,0:16:10.03,Default,,0000,0000,0000,,OK!
+Dialogue: 0,0:16:10.30,0:16:12.09,SignD,,0000,0000,0000,,{\an6}I love you....
+Dialogue: 0,0:16:10.30,0:16:12.09,SignD,,0000,0000,0000,,Hanejima Yuuhei
+Dialogue: 0,0:16:12.09,0:16:14.01,SignD,,0000,0000,0000,,My cat that ran away
+Dialogue: 0,0:16:14.01,0:16:15.77,SignD,,0000,0000,0000,,A job
+Dialogue: 0,0:16:19.68,0:16:21.90,SignD,,0000,0000,0000,,Yumacchi - I'll wait for you on\Nthe first floor of Tora no Ana
+Dialogue: 0,0:16:22.26,0:16:24.04,Default,,0000,0000,0000,,I wonder if she met him.
+Dialogue: 0,0:16:25.44,0:16:27.41,SignD,,0000,0000,0000,,Head
+Dialogue: 0,0:16:28.99,0:16:32.17,Default,,0000,0000,0000,,I looked for a lot of things today.
+Dialogue: 0,0:16:32.17,0:16:36.26,Default,,0000,0000,0000,,And I found some, and I didn't find some.
+Dialogue: 0,0:16:57.83,0:17:01.27,Default,,0000,0000,0000,,His bag was gone, so I thought\Nhe was at work.
+Dialogue: 0,0:17:01.87,0:17:03.01,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:17:03.77,0:17:07.17,Default,,0000,0000,0000,,Something felt different than usual.
+Dialogue: 0,0:17:11.07,0:17:13.41,SignC,,0000,0000,0000,,Yagiri Pharmaceuticals Kanto-area Laboratory
+Dialogue: 0,0:17:14.92,0:17:16.18,Default,,0000,0000,0000,,Fireworks?
+Dialogue: 0,0:17:16.18,0:17:18.68,Default,,0000,0000,0000,,Yeah. They were going nuts.
+Dialogue: 0,0:17:18.68,0:17:21.39,Default,,0000,0000,0000,,It took several people to put him down.
+Dialogue: 0,0:17:21.69,0:17:23.81,Default,,0000,0000,0000,,All for fireworks?
+Dialogue: 0,0:17:23.81,0:17:26.65,Default,,0000,0000,0000,,Man, your staff is harsh.
+Dialogue: 0,0:17:27.60,0:17:29.69,Default,,0000,0000,0000,,It causes problems.
+Dialogue: 0,0:17:29.94,0:17:31.76,Default,,0000,0000,0000,,He was talking nonsense.
+Dialogue: 0,0:17:31.76,0:17:34.03,Default,,0000,0000,0000,,Said his girlfriend was kidnapped,
+Dialogue: 0,0:17:34.49,0:17:37.41,Default,,0000,0000,0000,,and she could only remember this place.
+Dialogue: 0,0:17:37.41,0:17:39.89,Default,,0000,0000,0000,,Demanded to know what we did to her.
+Dialogue: 0,0:17:39.89,0:17:42.70,Default,,0000,0000,0000,,That's not nonsense. It's the truth.
+Dialogue: 0,0:17:43.09,0:17:45.83,Default,,0000,0000,0000,,Can you make it
+Dialogue: 0,0:17:45.83,0:17:51.84,Default,,0000,0000,0000,,so he won't remember anything about us\Nwhen he wakes up, Doctor?
+Dialogue: 0,0:17:52.48,0:17:56.57,Default,,0000,0000,0000,,There's no easy way to erase\Nmemories like that.
+Dialogue: 0,0:17:56.57,0:17:59.43,Default,,0000,0000,0000,,And I'll remember this kid.
+Dialogue: 0,0:17:59.85,0:18:01.78,Default,,0000,0000,0000,,We'll send him back.
+Dialogue: 0,0:18:01.78,0:18:05.39,Default,,0000,0000,0000,,Dunno whether to his\Nhouse or not, though.
+Dialogue: 0,0:18:09.18,0:18:14.94,Default,,0000,0000,0000,,Doctor... The chief and\NI, we both trust you.
+Dialogue: 0,0:18:15.23,0:18:19.20,Default,,0000,0000,0000,,You're keeping our big secret, after all.
+Dialogue: 0,0:18:19.95,0:18:26.48,Default,,0000,0000,0000,,That's right. You're living with quite\Na strange houseguest, aren't you?
+Dialogue: 0,0:18:27.25,0:18:28.46,Default,,0000,0000,0000,,At that point,
+Dialogue: 0,0:18:28.91,0:18:31.23,Default,,0000,0000,0000,,I had forgotten...
+Dialogue: 0,0:18:31.23,0:18:32.76,Default,,0000,0000,0000,,About my head...
+Dialogue: 0,0:18:32.76,0:18:36.84,Default,,0000,0000,0000,,And the memories of hundreds of years\Nof being a Dullahan inside it.
+Dialogue: 0,0:18:38.75,0:18:43.74,Default,,0000,0000,0000,,I wasn't thinking of anything,\Njust... just...
+Dialogue: 0,0:19:01.06,0:19:03.79,Default,,0000,0000,0000,,Hey, would you come with me?
+Dialogue: 0,0:19:04.33,0:19:08.12,Default,,0000,0000,0000,,If I ask for two plates,\Nthe restaurant won't complain.
+Dialogue: 0,0:19:08.82,0:19:10.48,Default,,0000,0000,0000,,I know a good place.
+Dialogue: 0,0:19:10.48,0:19:12.00,Default,,0000,0000,0000,,Please, Celty!
+Dialogue: 0,0:19:12.58,0:19:16.03,Default,,0000,0000,0000,,I don't like eating alone.
+Dialogue: 0,0:19:18.22,0:19:21.05,Default,,0000,0000,0000,,What is this bizarre dish?
+Dialogue: 0,0:19:25.41,0:19:31.19,Default,,0000,0000,0000,,Fried chicken sushi, cheese sushi, mabo\Nsushi, prosciutto sushi,
+Dialogue: 0,0:19:31.19,0:19:33.92,Default,,0000,0000,0000,,and this is sour cream sushi!
+Dialogue: 0,0:19:33.92,0:19:35.76,Default,,0000,0000,0000,,Those things shouldn't be\Nmade into sushi!
+Dialogue: 0,0:19:35.76,0:19:36.96,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:36.96,0:19:38.32,Default,,0000,0000,0000,,It's a special set!
+Dialogue: 0,0:19:38.32,0:19:40.18,Default,,0000,0000,0000,,It's a great deal!
+Dialogue: 0,0:19:42.46,0:19:47.12,Default,,0000,0000,0000,,And a fortune cookie for dessert? Sheesh.
+Dialogue: 0,0:19:47.73,0:19:52.11,Default,,0000,0000,0000,,It's got a fortune inside, you see.
+Dialogue: 0,0:19:52.47,0:19:53.89,Default,,0000,0000,0000,,I'll open it.
+Dialogue: 0,0:19:53.89,0:19:55.41,Default,,0000,0000,0000,,This is yours.
+Dialogue: 0,0:19:58.61,0:20:01.58,SignE,,0000,0000,0000,,Lost and Found Object
+Dialogue: 0,0:20:01.93,0:20:03.24,Default,,0000,0000,0000,,Let me see.
+Dialogue: 0,0:20:04.94,0:20:08.67,Default,,0000,0000,0000,,This means you'll find what\Nyou're looking for.
+Dialogue: 0,0:20:11.49,0:20:13.75,Default,,0000,0000,0000,,I don't know if I like you\Nquite that happy...
+Dialogue: 0,0:20:23.55,0:20:24.69,SignE,,0000,0000,0000,,Unrequited Love
+Dialogue: 0,0:20:26.20,0:20:28.20,Default,,0000,0000,0000,,I'm so happy, Shinra!
+Dialogue: 0,0:20:28.50,0:20:30.20,Default,,0000,0000,0000,,What's yours?
+Dialogue: 0,0:20:31.74,0:20:34.81,Default,,0000,0000,0000,,It didn't have one.
+Dialogue: 0,0:20:35.94,0:20:39.51,Default,,0000,0000,0000,,I can't cry.
+Dialogue: 0,0:20:47.37,0:20:53.78,Default,,0000,0000,0000,,When I'm sad here,\Ndoes my head weep there?
+Dialogue: 0,0:20:47.87,0:20:50.21,SignA,,0000,0000,0000,,Connections
+Dialogue: 0,0:21:04.82,0:21:06.08,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:21:10.76,0:21:12.70,Default,,0000,0000,0000,,I hope not.
+Dialogue: 0,0:21:16.92,0:21:19.63,Default,,0000,0000,0000,,I hope it's smiling.
+Dialogue: 0,0:21:22.67,0:21:23.99,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:21:25.43,0:21:27.02,Default,,0000,0000,0000,,You're still scared...
+Dialogue: 0,0:21:27.60,0:21:29.07,Default,,0000,0000,0000,,No one's here.
+Dialogue: 0,0:21:29.07,0:21:30.89,Default,,0000,0000,0000,,We're alone.
+Dialogue: 0,0:21:32.66,0:21:35.50,Default,,0000,0000,0000,,Do you think you can remember anything?
+Dialogue: 0,0:21:39.95,0:21:42.73,Default,,0000,0000,0000,,You don't have to.
+Dialogue: 0,0:21:42.73,0:21:44.23,Default,,0000,0000,0000,,I told you.
+Dialogue: 0,0:21:44.23,0:21:46.61,Default,,0000,0000,0000,,I don't need your past or your future.
+Dialogue: 0,0:21:47.52,0:21:49.28,Default,,0000,0000,0000,,Just you, as you are now.
+Dialogue: 0,0:21:49.82,0:21:52.26,Default,,0000,0000,0000,,You and I, right now, are eternity.
+Dialogue: 0,0:21:55.98,0:21:58.58,Default,,0000,0000,0000,,I love you, Celty.
+Dialogue: 0,0:22:15.57,0:22:18.66,Default,,0000,0000,0000,,That night, for first time in a long while,
+Dialogue: 0,0:22:19.31,0:22:22.63,Default,,0000,0000,0000,,I had a dream of when I was whole.
+Dialogue: 0,0:22:42.00,0:22:43.80,SignF,,0000,0000,0000,,I am here.
+Dialogue: 0,0:22:44.45,0:22:46.06,SignF,,0000,0000,0000,,I am here.
+Dialogue: 0,0:24:12.55,0:24:14.97,Default-no margin,,0000,0000,0000,,This program is a work of fiction.\NAny resemblance to people, parties,\Nor situations is purely coincidental.
+Dialogue: 0,0:24:14.97,0:24:29.94,Title3,,0000,0000,0000,,Next Time\Non Durarara!!
+Dialogue: 0,0:24:14.97,0:24:29.94,Title4,,0000,0000,0000,,Love and\NCherish
+Dialogue: 0,0:24:15.89,0:24:17.81,Default-no margin,,0000,0000,0000,,My love is different.
+Dialogue: 0,0:24:17.81,0:24:20.98,Default-no margin,,0000,0000,0000,,It isn't like the love that only seeks, only asks.
+Dialogue: 0,0:24:21.47,0:24:23.52,Default-no margin,,0000,0000,0000,,It's a more perfect thing.
+Dialogue: 0,0:24:24.05,0:24:25.00,Default-no margin,,0000,0000,0000,,Next time:
+Dialogue: 0,0:24:25.00,0:24:26.22,Default-no margin,,0000,0000,0000,,Love and Cherish.
+Dialogue: 0,0:24:26.22,0:24:29.30,Default-no margin,,0000,0000,0000,,I'm what Seiji needs.

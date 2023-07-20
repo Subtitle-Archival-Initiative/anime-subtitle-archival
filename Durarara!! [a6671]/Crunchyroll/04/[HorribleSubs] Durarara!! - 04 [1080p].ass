@@ -1,0 +1,354 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Title1,Open Sans Semibold,50,&H00E9E9E9,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,13,260,13,0
+Style: Title2,Open Sans Semibold,50,&H00838522,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,260,13,13,0
+Style: Title3,Open Sans Semibold,36,&H00F7EEF4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,13,67,0
+Style: Title4,Open Sans Semibold,39,&H000F128C,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,13,67,67,0
+Style: Default-no margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default-normal bottom margin no l-r margins,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title - upper corner,Open Sans Semibold,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,9,7,7,13,1
+Style: SignA,Open Sans Semibold,42,&H00B9AB8B,&H000000FF,&H00F6E8CF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,13,13,13,0
+Style: SignB,Open Sans Semibold,33,&H00000B00,&H000000FF,&H00AFDBC4,&H00000000,1,0,0,0,100,100,0,0,1,2,0,5,133,13,7,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:07.67,0:01:09.58,Default,,0000,0000,0000,,What do you mean, urban legend?
+Dialogue: 0,0:01:09.58,0:01:10.80,Default,,0000,0000,0000,,The black bike!
+Dialogue: 0,0:01:10.80,0:01:12.42,Default,,0000,0000,0000,,The Headless Rider!
+Dialogue: 0,0:01:12.42,0:01:16.38,Default,,0000,0000,0000,,The man on the black bike\Ndoesn't have a head!
+Dialogue: 0,0:01:16.38,0:01:19.14,Default,,0000,0000,0000,,Their head's cut clean off,\Nbut they still move.
+Dialogue: 0,0:01:19.14,0:01:23.14,Default,,0000,0000,0000,,It doesn't seem like that hard a job.\NStill, be careful.
+Dialogue: 0,0:01:23.14,0:01:28.36,Default,,0000,0000,0000,,I didn't hear you'd turned into\Na defender of justice.
+Dialogue: 0,0:01:28.36,0:01:29.97,Default,,0000,0000,0000,,Wh-What the hell are you?
+Dialogue: 0,0:01:29.97,0:01:32.65,Default,,0000,0000,0000,,{\i1}Wh-What are you?!{\i0}
+Dialogue: 0,0:02:05.77,0:02:06.93,Default,,0000,0000,0000,,The Headless Rider?
+Dialogue: 0,0:02:06.93,0:02:08.31,Default,,0000,0000,0000,,I've heard of them!
+Dialogue: 0,0:02:09.05,0:02:11.23,Default,,0000,0000,0000,,A friend of mine saw them.
+Dialogue: 0,0:02:11.58,0:02:14.61,Default,,0000,0000,0000,,Can't say I care, honestly.
+Dialogue: 0,0:02:14.93,0:02:17.55,Default,,0000,0000,0000,,I took a photo of them!
+Dialogue: 0,0:02:17.55,0:02:18.51,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:02:20.39,0:02:21.70,Default,,0000,0000,0000,,The Headless Rider?
+Dialogue: 0,0:02:22.08,0:02:24.02,Default,,0000,0000,0000,,He's right here.
+Dialogue: 0,0:02:25.21,0:02:27.28,Default,,0000,0000,0000,,Heard of 'em.
+Dialogue: 0,0:02:27.28,0:02:30.03,Default,,0000,0000,0000,,Might've seen 'em near Sunshine.
+Dialogue: 0,0:02:30.03,0:02:31.28,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:02:31.28,0:02:34.88,Default,,0000,0000,0000,,I dunno, but everyone's making a big deal.\NSo it's gotta be true, right?
+Dialogue: 0,0:02:36.03,0:02:37.82,Default,,0000,0000,0000,,Everyone's talking about them.
+Dialogue: 0,0:02:38.39,0:02:41.26,Default,,0000,0000,0000,,That bike showed up again.
+Dialogue: 0,0:02:38.99,0:02:41.26,Default,,0000,0000,0000,,{\an1}<Kanra>
+Dialogue: 0,0:02:41.26,0:02:44.68,Default,,0000,0000,0000,,{\an1}<Tanaka Tarou>
+Dialogue: 0,0:02:41.26,0:02:44.68,Default,,0000,0000,0000,,But do they really not\Nhave a head?
+Dialogue: 0,0:02:44.68,0:02:47.14,Default,,0000,0000,0000,,{\an1}<Setton>
+Dialogue: 0,0:02:44.68,0:02:47.14,Default,,0000,0000,0000,,It's just a creepy rumor.
+Dialogue: 0,0:02:47.14,0:02:50.45,Default,,0000,0000,0000,,{\an1}<Kanra>
+Dialogue: 0,0:02:47.14,0:02:50.45,Default,,0000,0000,0000,,But I hear some pretty realistic rumors.
+Dialogue: 0,0:02:50.45,0:02:52.15,Default,,0000,0000,0000,,{\an1}<Tanaka Tarou>
+Dialogue: 0,0:02:52.15,0:02:54.27,Default,,0000,0000,0000,,{\an1}<Setton>
+Dialogue: 0,0:02:52.15,0:02:54.27,Default,,0000,0000,0000,,It's impossible for someone\Nto not have a head.
+Dialogue: 0,0:02:54.27,0:02:57.10,Default,,0000,0000,0000,,{\an1}<Kanra>
+Dialogue: 0,0:02:54.27,0:02:58.35,Default,,0000,0000,0000,,Not if they're not human!
+Dialogue: 0,0:03:00.08,0:03:03.87,Default,,0000,0000,0000,,Those who've really gotten\Nclose don't talk about it.
+Dialogue: 0,0:03:05.01,0:03:06.14,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:03:06.14,0:03:07.65,Default,,0000,0000,0000,,I don't know anything about it.
+Dialogue: 0,0:03:10.44,0:03:12.12,Default,,0000,0000,0000,,What about you?
+Dialogue: 0,0:03:12.99,0:03:16.63,Default,,0000,0000,0000,,What's your impression of the\Nlegendary Headless Rider?
+Dialogue: 0,0:03:17.05,0:03:17.92,Default,,0000,0000,0000,,Scared?
+Dialogue: 0,0:03:17.92,0:03:19.07,Default,,0000,0000,0000,,Think they're cool?
+Dialogue: 0,0:03:19.07,0:03:20.63,Default,,0000,0000,0000,,Think they might, actually,\Nbe a nice person?
+Dialogue: 0,0:03:21.04,0:03:22.41,Default,,0000,0000,0000,,No. I think I know.
+Dialogue: 0,0:03:23.61,0:03:25.64,Default,,0000,0000,0000,,You don't know what to think.
+Dialogue: 0,0:03:29.74,0:03:33.49,Default,,0000,0000,0000,,I'll tell you what I know about\Nthe Headless Rider.
+Dialogue: 0,0:03:33.91,0:03:35.98,Default,,0000,0000,0000,,It's a bit of a long story,
+Dialogue: 0,0:03:35.98,0:03:38.50,Default,,0000,0000,0000,,but please keep an open mind.
+Dialogue: 0,0:03:39.63,0:03:41.61,Title1,,0000,0000,0000,,Utterly
+Dialogue: 0,0:03:39.63,0:03:41.61,Title2,,0000,0000,0000,,Alone
+Dialogue: 0,0:03:39.87,0:03:41.61,Default-no margin,,0000,0000,0000,,First, let me introduce myself.
+Dialogue: 0,0:03:41.99,0:03:44.83,Default,,0000,0000,0000,,I'm Kishitani Shinra, age 24.
+Dialogue: 0,0:03:44.83,0:03:47.02,Default,,0000,0000,0000,,I'm a doctor here in Ikebukuro.
+Dialogue: 0,0:03:47.02,0:03:49.24,Default,,0000,0000,0000,,I'm not exactly a licensed professional,\Nbut I operate in the shadows.
+Dialogue: 0,0:03:51.06,0:03:53.96,Default,,0000,0000,0000,,I perform first-aid on people who've been hit\Nwith stuff the cops would question,
+Dialogue: 0,0:03:54.38,0:03:57.46,Default,,0000,0000,0000,,and plastic surgery on people\Nwho need new faces.
+Dialogue: 0,0:03:59.98,0:04:02.59,Default,,0000,0000,0000,,I may not look it, but I'm good at\Nmy job and am well-regarded.
+Dialogue: 0,0:04:03.77,0:04:06.10,Default,,0000,0000,0000,,Now, on to the main point.
+Dialogue: 0,0:04:06.73,0:04:08.10,Default,,0000,0000,0000,,I'm back!
+Dialogue: 0,0:04:19.69,0:04:20.91,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:20.91,0:04:23.90,Default,,0000,0000,0000,,The Headless Rider,
+Dialogue: 0,0:04:23.90,0:04:26.72,Default,,0000,0000,0000,,Celty Sturlson, is my roommate.
+Dialogue: 0,0:04:28.22,0:04:30.24,Default,,0000,0000,0000,,I'm back, Celty.
+Dialogue: 0,0:04:31.35,0:04:32.25,SignA,,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:04:32.67,0:04:35.75,Default,,0000,0000,0000,,It was an easy job, nothing special.
+Dialogue: 0,0:04:36.26,0:04:37.50,Default,,0000,0000,0000,,How were things for you?
+Dialogue: 0,0:04:37.56,0:04:38.50,SignA,,0000,0000,0000,,No peeking.
+Dialogue: 0,0:04:37.75,0:04:38.99,Default,,0000,0000,0000,,No peeking.
+Dialogue: 0,0:04:39.77,0:04:40.73,Default,,0000,0000,0000,,Sorry! Sorry!
+Dialogue: 0,0:04:40.73,0:04:43.68,Default,,0000,0000,0000,,I didn't mean to. I just accidentally...
+Dialogue: 0,0:04:49.91,0:04:52.50,Default,,0000,0000,0000,,You seem upset.
+Dialogue: 0,0:04:52.50,0:04:54.94,Default,,0000,0000,0000,,Maybe you need some calcium.
+Dialogue: 0,0:04:56.27,0:04:58.06,SignB,,0000,0000,0000,,You want me to eat\Neggshells or something?
+Dialogue: 0,0:04:56.46,0:04:58.69,Default,,0000,0000,0000,,You want me to eat\Neggshells or something?
+Dialogue: 0,0:05:01.16,0:05:03.67,Default,,0000,0000,0000,,Might not be a bad idea.
+Dialogue: 0,0:05:03.67,0:05:07.36,Default,,0000,0000,0000,,But you know, nutritional\Nscience isn't my thing,
+Dialogue: 0,0:05:07.36,0:05:10.52,Default,,0000,0000,0000,,so I couldn't tell you how much\Ncalcium is in an eggshell
+Dialogue: 0,0:05:10.52,0:05:15.05,Default,,0000,0000,0000,,or how efficiently your\Nbody could absorb it.
+Dialogue: 0,0:05:15.94,0:05:19.74,Default,,0000,0000,0000,,Of course, since I don't even know\Nwhere your brains are,
+Dialogue: 0,0:05:19.74,0:05:22.96,Default,,0000,0000,0000,,I don't know that it would have\Nany effect in the first place!
+Dialogue: 0,0:05:23.70,0:05:25.30,Default,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:05:31.81,0:05:35.01,Default,,0000,0000,0000,,Hey, Celty, I know it isn't\Nthe first time I've asked,
+Dialogue: 0,0:05:35.01,0:05:39.56,Default,,0000,0000,0000,,but how does the world look\Nto someone without eyes?
+Dialogue: 0,0:05:43.15,0:05:47.57,Default,,0000,0000,0000,,You can't tell someone something\Nyou don't understand yourself.
+Dialogue: 0,0:05:49.33,0:05:54.81,Default,,0000,0000,0000,,She may not have a head,\Nbut she can see and hear and smell.
+Dialogue: 0,0:05:54.81,0:05:59.15,Default,,0000,0000,0000,,But evidently, lacking a head doesn't\Ngive you 360-degree vision.
+Dialogue: 0,0:05:59.15,0:06:02.71,Default,,0000,0000,0000,,She does have a field of vision wider\Nthan that of normal humans.
+Dialogue: 0,0:06:04.29,0:06:06.97,Default,,0000,0000,0000,,This is just a theory of mine,
+Dialogue: 0,0:06:07.28,0:06:13.09,Default,,0000,0000,0000,,but that mysterious smoky stuff that's floating\Nout of your neck all the time...
+Dialogue: 0,0:06:13.09,0:06:15.76,Default,,0000,0000,0000,,You think you're maybe scattering it\Nover your surroundings,
+Dialogue: 0,0:06:15.76,0:06:20.64,Default,,0000,0000,0000,,and when it bounces back, you absorb it,\Nand get your information?
+Dialogue: 0,0:06:21.73,0:06:25.73,Default,,0000,0000,0000,,Of course, the information you'd get about\Nfar-off objects would be less clear.
+Dialogue: 0,0:06:28.04,0:06:29.35,Default,,0000,0000,0000,,Don't care.
+Dialogue: 0,0:06:29.35,0:06:31.49,Default,,0000,0000,0000,,If I can see and hear, that's enough.
+Dialogue: 0,0:06:31.72,0:06:34.99,Default,,0000,0000,0000,,Celty, you're always like that.
+Dialogue: 0,0:06:34.99,0:06:44.27,Default,,0000,0000,0000,,I just wonder how much of the world that\Nyou feel is the same as the world I feel.
+Dialogue: 0,0:06:44.27,0:06:48.56,Default,,0000,0000,0000,,It's not just about sight.\NIt's a question of values, too.
+Dialogue: 0,0:06:48.56,0:06:54.51,Default,,0000,0000,0000,,Not as a human, but as a lone faerie\Nwho appeared in this city...
+Dialogue: 0,0:06:57.38,0:07:00.98,Default,,0000,0000,0000,,What the world is like,\Nviewed through a Dullahan's eyes.
+Dialogue: 0,0:07:15.66,0:07:17.10,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:07:17.72,0:07:21.49,Default,,0000,0000,0000,,If you don't mind,\Ntell me what happened.
+Dialogue: 0,0:07:26.28,0:07:30.78,Default,,0000,0000,0000,,That job today, Orihara-kun\Nsaid it was easy.
+Dialogue: 0,0:07:31.32,0:07:34.80,Default,,0000,0000,0000,,The work itself was a piece of a cake.
+Dialogue: 0,0:07:36.15,0:07:36.85,Default,,0000,0000,0000,,And?
+Dialogue: 0,0:07:41.70,0:07:44.53,Default,,0000,0000,0000,,I do love me the transporters.
+Dialogue: 0,0:07:44.53,0:07:46.15,Default,,0000,0000,0000,,I can't get by without you.
+Dialogue: 0,0:07:46.15,0:07:47.94,Default,,0000,0000,0000,,And you can't get by without me.
+Dialogue: 0,0:07:48.20,0:07:50.70,Default,,0000,0000,0000,,I'd rather the latter weren't the case.
+Dialogue: 0,0:07:50.70,0:07:52.20,Default,,0000,0000,0000,,Don't be like that.
+Dialogue: 0,0:07:52.63,0:07:54.68,Default,,0000,0000,0000,,I'll be using your services again.
+Dialogue: 0,0:07:54.68,0:07:57.58,Default,,0000,0000,0000,,I want to stay on good terms with you.
+Dialogue: 0,0:07:57.58,0:07:59.58,Default,,0000,0000,0000,,For a long time...
+Dialogue: 0,0:08:05.55,0:08:08.09,Default,,0000,0000,0000,,Am I imagining things,\Nthinking you're a creepy guy?
+Dialogue: 0,0:08:08.09,0:08:10.95,Default,,0000,0000,0000,,You sure are.
+Dialogue: 0,0:08:10.95,0:08:13.59,Default,,0000,0000,0000,,By the way, ever heard of a Dullahan?
+Dialogue: 0,0:08:14.91,0:08:18.01,Default,,0000,0000,0000,,It's a headless faerie from Ireland.
+Dialogue: 0,0:08:18.01,0:08:24.52,Default,,0000,0000,0000,,A portrait painter in Yoyogi Park\Nsaid he saw one once.
+Dialogue: 0,0:08:25.23,0:08:29.97,Default,,0000,0000,0000,,He kept yelling,\N"It had no head! It had no head!"
+Dialogue: 0,0:08:29.97,0:08:33.61,Default,,0000,0000,0000,,Think he was talking about a Dullahan?
+Dialogue: 0,0:08:36.76,0:08:38.49,Default,,0000,0000,0000,,Is he still there?
+Dialogue: 0,0:08:38.49,0:08:40.83,Default,,0000,0000,0000,,Don't know, really.
+Dialogue: 0,0:08:47.28,0:08:49.84,Default,,0000,0000,0000,,So she's intrigued, is she?
+Dialogue: 0,0:08:56.53,0:08:59.10,Default,,0000,0000,0000,,Celty Sturlson isn't human.
+Dialogue: 0,0:08:59.85,0:09:05.64,Default,,0000,0000,0000,,She's a type of faerie, out of Celtic folklore,\Ncommonly known as a Dullahan.
+Dialogue: 0,0:09:10.48,0:09:12.65,Default,,0000,0000,0000,,Is there a portrait painter around here?
+Dialogue: 0,0:09:13.46,0:09:16.57,Default,,0000,0000,0000,,Oh, him? He's not here anymore.
+Dialogue: 0,0:09:16.57,0:09:20.44,Default,,0000,0000,0000,,Hey, didn't he say he was\Ngoing to Yokohama?
+Dialogue: 0,0:09:23.52,0:09:26.90,Default,,0000,0000,0000,,A Dullahan carries its severed\Nhead at its side,
+Dialogue: 0,0:09:26.90,0:09:31.78,Default,,0000,0000,0000,,and travels in a two-wheeled carriage called\Na Cóiste Bodhar, pulled by a headless horse.
+Dialogue: 0,0:09:35.31,0:09:39.33,Default,,0000,0000,0000,,They visit the homes of men whose time\Non Earth is about to end.
+Dialogue: 0,0:09:47.49,0:09:50.98,Default,,0000,0000,0000,,If you carelessly open the door,
+Dialogue: 0,0:09:55.12,0:09:57.61,Default,,0000,0000,0000,,they'll throw a bucket full of blood on you.
+Dialogue: 0,0:09:59.78,0:10:02.86,Default,,0000,0000,0000,,It's a horrific, death-besotted legend,
+Dialogue: 0,0:10:02.86,0:10:07.33,Default,,0000,0000,0000,,and rather difficult to connect\Nto the woman herself.
+Dialogue: 0,0:10:07.33,0:10:09.83,Default,,0000,0000,0000,,Except for the part about\Nlacking a head.
+Dialogue: 0,0:10:10.71,0:10:15.80,Default,,0000,0000,0000,,Why she's come to Japan,\Nto Tokyo, to Ikebukuro...
+Dialogue: 0,0:10:15.80,0:10:19.48,Default,,0000,0000,0000,,And why she obsesses so\Nmuch over her head...
+Dialogue: 0,0:10:20.49,0:10:22.97,Default,,0000,0000,0000,,I'll tell you in a moment.
+Dialogue: 0,0:10:30.85,0:10:33.02,Default,,0000,0000,0000,,It was twenty years ago.
+Dialogue: 0,0:10:33.69,0:10:39.23,Default,,0000,0000,0000,,She suddenly woke atop a mountain,\Nmissing her head.
+Dialogue: 0,0:10:39.82,0:10:44.54,Default,,0000,0000,0000,,She then realized that she was missing\Na number of memories,
+Dialogue: 0,0:10:45.29,0:10:51.72,Default,,0000,0000,0000,,such as the reason for her actions and\Nher past, back up to a certain point.
+Dialogue: 0,0:10:52.54,0:10:55.57,Default,,0000,0000,0000,,However, she remembered that\Nshe was a Dullahan,
+Dialogue: 0,0:10:55.57,0:11:02.82,Default,,0000,0000,0000,,and that her name was Celty Sturlson,\Nand how to use her abilities.
+Dialogue: 0,0:11:05.08,0:11:07.56,Default,,0000,0000,0000,,And the first thing that\Nsurprised her was...
+Dialogue: 0,0:11:07.98,0:11:11.75,Default,,0000,0000,0000,,"I wasn't thinking of things\Nwith my head,"
+Dialogue: 0,0:11:11.75,0:11:13.46,Default,,0000,0000,0000,,she said.
+Dialogue: 0,0:11:14.83,0:11:20.07,Default,,0000,0000,0000,,And then she realized she could sense\Nsomething she thought to be her head.
+Dialogue: 0,0:11:27.80,0:11:31.93,Default,,0000,0000,0000,,She considered the situation\Nand hypothesized
+Dialogue: 0,0:11:31.93,0:11:36.75,Default,,0000,0000,0000,,that her consciousness was shared\Nbetween her head and her body,
+Dialogue: 0,0:11:36.75,0:11:40.59,Default,,0000,0000,0000,,and the missing memories were\Nthose inside her head.
+Dialogue: 0,0:11:41.37,0:11:46.24,Default,,0000,0000,0000,,And thus, she decided\Nto recover her head,
+Dialogue: 0,0:11:46.24,0:11:50.60,Default,,0000,0000,0000,,which alone knew the\Nreason for her existence.
+Dialogue: 0,0:11:51.80,0:11:57.15,Default,,0000,0000,0000,,It was possible her head had left\Nher body of its own volition.
+Dialogue: 0,0:11:57.15,0:12:01.36,Default,,0000,0000,0000,,But even so, she wouldn't\Nknow until she had it.
+Dialogue: 0,0:12:02.31,0:12:04.81,Default,,0000,0000,0000,,It's not in Yokohama, either.
+Dialogue: 0,0:12:04.81,0:12:08.12,Default,,0000,0000,0000,,Next is Tama, then Chiba...
+Dialogue: 0,0:12:08.36,0:12:10.76,Default,,0000,0000,0000,,I keep missing it.
+Dialogue: 0,0:12:10.76,0:12:13.61,Default,,0000,0000,0000,,Should've just given up and\Ncome back tomorrow.
+Dialogue: 0,0:12:14.43,0:12:15.96,Default,,0000,0000,0000,,I was frantic.
+Dialogue: 0,0:12:16.35,0:12:19.23,Default,,0000,0000,0000,,When I thought my head\Nmight be there...
+Dialogue: 0,0:12:21.58,0:12:24.03,Default,,0000,0000,0000,,I wanted to get it back, no matter what,
+Dialogue: 0,0:12:24.03,0:12:26.01,Default,,0000,0000,0000,,as soon as possible.
+Dialogue: 0,0:12:26.30,0:12:30.57,Default,,0000,0000,0000,,I don't want to live with\Nthese vague memories.
+Dialogue: 0,0:12:32.46,0:12:37.77,Default,,0000,0000,0000,,She followed the faint trails,\Nall the way here,
+Dialogue: 0,0:12:37.77,0:12:41.32,Default,,0000,0000,0000,,but it seemed the head\Nhad gone overseas.
+Dialogue: 0,0:12:42.00,0:12:44.58,Default,,0000,0000,0000,,The ship was bound for\NJapan, apparently.
+Dialogue: 0,0:12:44.58,0:12:47.44,Default,,0000,0000,0000,,Following it, by sneaking aboard\Nanother ship, was easy enough,
+Dialogue: 0,0:12:47.44,0:12:49.08,Default,,0000,0000,0000,,but the problem was the horse.
+Dialogue: 0,0:12:50.30,0:12:55.49,Default,,0000,0000,0000,,It was the Dullahan's servant spirit,\Nmade to possess a horse's corpse.
+Dialogue: 0,0:12:55.49,0:12:58.53,Default,,0000,0000,0000,,If necessary, it was possible to dismiss it,
+Dialogue: 0,0:12:58.53,0:13:04.44,Default,,0000,0000,0000,,but where it would go after that...\NThat memory was likely in her head.
+Dialogue: 0,0:13:05.06,0:13:09.57,Default,,0000,0000,0000,,So even though she knew how to dismiss it,\Nshe couldn't bring herself to do it.
+Dialogue: 0,0:13:17.51,0:13:19.06,Default,,0000,0000,0000,,And then...
+Dialogue: 0,0:13:23.22,0:13:28.33,Default,,0000,0000,0000,,She... met {\i1}it.{\i0}
+Dialogue: 0,0:13:31.40,0:13:35.13,Default,,0000,0000,0000,,I never did find my head.
+Dialogue: 0,0:13:35.13,0:13:36.26,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:13:36.66,0:13:39.90,Default,,0000,0000,0000,,Oh, I know that painter.
+Dialogue: 0,0:13:41.35,0:13:44.56,Default,,0000,0000,0000,,He's been in south Ikebukuro\NPark for a few days.
+Dialogue: 0,0:13:44.56,0:13:45.81,Default,,0000,0000,0000,,Yeah, that's right.
+Dialogue: 0,0:13:45.81,0:13:47.34,Default,,0000,0000,0000,,Want me to go with you?
+Dialogue: 0,0:13:50.54,0:13:53.48,Default,,0000,0000,0000,,It's inconvenient like that, right?
+Dialogue: 0,0:13:58.40,0:14:00.76,Default,,0000,0000,0000,,OK, it's done.
+Dialogue: 0,0:14:01.48,0:14:03.85,Default,,0000,0000,0000,,Wow! Awesome!
+Dialogue: 0,0:14:03.85,0:14:05.99,Default,,0000,0000,0000,,It's cuter than you are.
+Dialogue: 0,0:14:05.99,0:14:07.91,Default,,0000,0000,0000,,Huh? Hey!
+Dialogue: 0,0:14:07.91,0:14:09.82,Default,,0000,0000,0000,,You're good, mister!
+Dialogue: 0,0:14:09.82,0:14:15.08,Default,,0000,0000,0000,,Not at all. I still can't really\Ndraw the things I like.
+Dialogue: 0,0:14:16.05,0:14:18.00,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:14:18.00,0:14:19.82,Default,,0000,0000,0000,,You're welcome.
+Dialogue: 0,0:14:19.82,0:14:20.61,Default,,0000,0000,0000,,{\a6}Ready to go?
+Dialogue: 0,0:14:20.21,0:14:21.21,Default,,0000,0000,0000,,Come back any time.
+Dialogue: 0,0:14:21.21,0:14:22.63,Default,,0000,0000,0000,,OK!
+Dialogue: 0,0:14:24.78,0:14:28.05,Default,,0000,0000,0000,,Sorry. It's getting dark.
+Dialogue: 0,0:14:28.05,0:14:29.76,Default,,0000,0000,0000,,I'm done for today.
+Dialogue: 0,0:14:29.76,0:14:32.18,Default,,0000,0000,0000,,Did you really see a Dullahan?
+Dialogue: 0,0:14:35.45,0:14:38.59,Default,,0000,0000,0000,,Yeah. I did.
+Dialogue: 0,0:14:38.59,0:14:42.33,Default,,0000,0000,0000,,When I was young, I saw it in\Nthe mountains of Ireland.
+Dialogue: 0,0:14:42.33,0:14:44.69,Default,,0000,0000,0000,,With my own two eyes.
+Dialogue: 0,0:14:46.22,0:14:48.45,Default,,0000,0000,0000,,What did you mean when\Nyou said it lost its head?
+Dialogue: 0,0:14:48.88,0:14:50.72,Default,,0000,0000,0000,,Lost its head?
+Dialogue: 0,0:14:50.72,0:14:54.95,Default,,0000,0000,0000,,No, no. It has no head.
+Dialogue: 0,0:14:55.39,0:14:57.93,Default,,0000,0000,0000,,I can't decide on how the head should look.
+Dialogue: 0,0:15:00.86,0:15:02.25,Default,,0000,0000,0000,,Here...
+Dialogue: 0,0:15:10.17,0:15:11.29,Default,,0000,0000,0000,,It was a woman.
+Dialogue: 0,0:15:11.29,0:15:14.59,Default,,0000,0000,0000,,And a beautiful woman, at that.
+Dialogue: 0,0:15:14.91,0:15:16.74,Default,,0000,0000,0000,,On a foggy night,
+Dialogue: 0,0:15:16.74,0:15:19.05,Default,,0000,0000,0000,,on a mountain road, she passed me.
+Dialogue: 0,0:15:19.78,0:15:22.54,Default,,0000,0000,0000,,She passed by at an incredible speed.
+Dialogue: 0,0:15:22.54,0:15:25.11,Default,,0000,0000,0000,,She was a terrifying beauty.
+Dialogue: 0,0:15:26.45,0:15:30.55,Default,,0000,0000,0000,,She was not of this world. I could tell.
+Dialogue: 0,0:15:31.73,0:15:34.26,Default,,0000,0000,0000,,When I returned to the inn and\Nspoke of my experience,
+Dialogue: 0,0:15:34.26,0:15:37.18,Default,,0000,0000,0000,,they said it had been a Dullahan.
+Dialogue: 0,0:15:37.18,0:15:40.11,Default,,0000,0000,0000,,I was told it had lived there for ages.
+Dialogue: 0,0:15:40.11,0:15:43.71,Default,,0000,0000,0000,,Why doesn't your Dullahan have a head?
+Dialogue: 0,0:15:43.71,0:15:45.80,Default,,0000,0000,0000,,I can't draw it.
+Dialogue: 0,0:15:45.80,0:15:48.68,Default,,0000,0000,0000,,The more I draw it,\Nthe more wrong it looks.
+Dialogue: 0,0:15:49.49,0:15:55.76,Default,,0000,0000,0000,,I remember what I saw,\Nbut I just can't express her on paper.
+Dialogue: 0,0:15:56.45,0:15:58.40,Default,,0000,0000,0000,,What color was her hair?
+Dialogue: 0,0:15:58.40,0:15:59.61,Default,,0000,0000,0000,,Her eyes?
+Dialogue: 0,0:15:59.61,0:16:01.27,Default,,0000,0000,0000,,What kind of expression did she have?
+Dialogue: 0,0:16:02.57,0:16:06.77,Default,,0000,0000,0000,,If I could say it, I wouldn't have\Nthought to try and draw it.
+Dialogue: 0,0:16:07.33,0:16:10.69,Default,,0000,0000,0000,,Come to think of it,\Na strange man recently came by.
+Dialogue: 0,0:16:10.69,0:16:14.57,Default,,0000,0000,0000,,He told me my drawing\Nwas perfect as it was.
+Dialogue: 0,0:16:14.57,0:16:17.84,Default,,0000,0000,0000,,That she didn't need a head.
+Dialogue: 0,0:16:19.08,0:16:21.67,Default,,0000,0000,0000,,Weird guy.
+Dialogue: 0,0:16:21.67,0:16:24.10,Default,,0000,0000,0000,,Why is it so important to you?
+Dialogue: 0,0:16:24.67,0:16:28.57,Default,,0000,0000,0000,,It was the greatest experience of my life.
+Dialogue: 0,0:16:28.57,0:16:30.89,Default,,0000,0000,0000,,That one night was my whole life.
+Dialogue: 0,0:16:30.89,0:16:35.73,Default,,0000,0000,0000,,I want to get back my memories\Nof that moment.
+Dialogue: 0,0:16:42.06,0:16:43.98,Default,,0000,0000,0000,,Thanks, mister.
+Dialogue: 0,0:16:44.66,0:16:46.23,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:16:48.77,0:16:53.26,Default,,0000,0000,0000,,By the way, you don't remember\Nmeeting him, right?
+Dialogue: 0,0:16:55.57,0:16:56.62,Default,,0000,0000,0000,,I don't.
+Dialogue: 0,0:16:56.62,0:17:00.78,Default,,0000,0000,0000,,That Dullahan may or may not be you.
+Dialogue: 0,0:17:00.78,0:17:03.45,Default,,0000,0000,0000,,Or perhaps he was simply mistaken.
+Dialogue: 0,0:17:03.45,0:17:05.27,Default,,0000,0000,0000,,It was me.
+Dialogue: 0,0:17:05.27,0:17:06.56,Default,,0000,0000,0000,,I know it.
+Dialogue: 0,0:17:06.56,0:17:07.50,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:17:10.15,0:17:13.05,Default,,0000,0000,0000,,Where was I going?
+Dialogue: 0,0:17:13.05,0:17:14.44,Default,,0000,0000,0000,,What was I thinking?
+Dialogue: 0,0:17:14.44,0:17:16.24,Default,,0000,0000,0000,,Why was I going there?
+Dialogue: 0,0:17:16.24,0:17:19.28,Default,,0000,0000,0000,,Is it that important?
+Dialogue: 0,0:17:20.52,0:17:25.47,Default,,0000,0000,0000,,You're unique, you're mysterious.
+Dialogue: 0,0:17:25.47,0:17:30.52,Default,,0000,0000,0000,,But your goal is still far, far away.
+Dialogue: 0,0:17:31.02,0:17:32.36,Default,,0000,0000,0000,,What are you getting at?
+Dialogue: 0,0:17:32.36,0:17:35.53,Default,,0000,0000,0000,,I'll be straight. Give it up.
+Dialogue: 0,0:17:37.36,0:17:41.65,Default,,0000,0000,0000,,That strange man may be right.
+Dialogue: 0,0:17:41.65,0:17:44.70,Default,,0000,0000,0000,,Maybe you don't need your head.
+Dialogue: 0,0:17:48.20,0:17:53.25,Default,,0000,0000,0000,,Why don't you forget about your head?\NLet's go somewhere.
+Dialogue: 0,0:17:53.81,0:17:54.80,Default,,0000,0000,0000,,Anywhere...
+Dialogue: 0,0:17:56.45,0:18:02.39,Default,,0000,0000,0000,,If you want, I'll do whatever it takes\Nto get you back home.
+Dialogue: 0,0:18:03.06,0:18:06.58,Default,,0000,0000,0000,,I'll go there too, and forever we'll be-
+Dialogue: 0,0:18:06.58,0:18:12.64,Default,,0000,0000,0000,,I don't dislike you, but I'm fine\Nliving here just like this.
+Dialogue: 0,0:18:12.64,0:18:13.92,Default,,0000,0000,0000,,Don't be like that.
+Dialogue: 0,0:18:13.92,0:18:15.57,Default,,0000,0000,0000,,I'm fine!
+Dialogue: 0,0:18:19.06,0:18:23.18,Default,,0000,0000,0000,,Then be a little more feminine...
+Dialogue: 0,0:18:23.18,0:18:24.50,Default,,0000,0000,0000,,That's enough!
+Dialogue: 0,0:18:31.77,0:18:36.53,Default,,0000,0000,0000,,I suppose there may be a difference\Nin our values, after all.
+Dialogue: 0,0:18:37.19,0:18:40.41,Default,,0000,0000,0000,,Back to the subject at hand...
+Dialogue: 0,0:18:41.23,0:18:46.31,Default,,0000,0000,0000,,Her story... No, our story,\Nafter she boarded the ship.
+Dialogue: 0,0:18:47.27,0:18:50.26,Default,,0000,0000,0000,,She'd spoken to one of the crew\Nand smuggled herself on board,
+Dialogue: 0,0:18:50.26,0:18:53.82,Default,,0000,0000,0000,,but she noticed that she\Nstood out horribly.
+Dialogue: 0,0:18:55.81,0:19:00.06,Default,,0000,0000,0000,,Now that I know her,\Nit doesn't bother me at all, but...
+Dialogue: 0,0:19:04.28,0:19:07.08,Default,,0000,0000,0000,,The first time I saw it,\NI was pretty shocked.
+Dialogue: 0,0:19:07.08,0:19:09.00,Default,,0000,0000,0000,,At the time, I was four.
+Dialogue: 0,0:19:10.64,0:19:13.95,Default,,0000,0000,0000,,I was returning to Japan with my dad.
+Dialogue: 0,0:19:11.90,0:19:16.82,Default,,0000,0000,0000,,{\a6}Dad, this woman, she... Hurry!
+Dialogue: 0,0:19:14.54,0:19:18.26,Default,,0000,0000,0000,,My father, Shingen, was not a\Nnormal person by any means.
+Dialogue: 0,0:19:16.82,0:19:18.25,Default,,0000,0000,0000,,{\a6}Dad, come on!
+Dialogue: 0,0:19:18.85,0:19:20.88,Default,,0000,0000,0000,,When he heard my story,
+Dialogue: 0,0:19:20.88,0:19:24.29,Default,,0000,0000,0000,,the proper thing to do as a parent would\Nhave been to laugh, don't you think?
+Dialogue: 0,0:19:25.51,0:19:27.67,Default,,0000,0000,0000,,But he didn't.
+Dialogue: 0,0:19:27.67,0:19:31.39,Default,,0000,0000,0000,,Perhaps it was his nature as a doctor,\Nbut he was very interested.
+Dialogue: 0,0:19:33.28,0:19:39.08,Default,,0000,0000,0000,,My lady, I apologize, but is it true\Nthat you have no head?
+Dialogue: 0,0:19:39.08,0:19:45.53,Default,,0000,0000,0000,,"If you let me dissect you, just once,\NI'll give you a place to stay."
+Dialogue: 0,0:19:47.35,0:19:49.33,Default,,0000,0000,0000,,She agreed.
+Dialogue: 0,0:19:49.33,0:19:52.30,Default,,0000,0000,0000,,She had her own reasons,\Nbut I'm sure she was nervous.
+Dialogue: 0,0:19:56.46,0:20:00.02,Default,,0000,0000,0000,,She doesn't really seem\Nto remember this.
+Dialogue: 0,0:20:02.13,0:20:07.47,Default,,0000,0000,0000,,Human anesthetic didn't work,\Nso the shock must have been great.
+Dialogue: 0,0:20:08.42,0:20:13.26,Default,,0000,0000,0000,,She seems to have a sense of pain,\Nbut much lessened.
+Dialogue: 0,0:20:17.37,0:20:19.06,Default,,0000,0000,0000,,She has no heart.
+Dialogue: 0,0:20:19.06,0:20:22.50,Default,,0000,0000,0000,,All of her organs are there,\Nbut non-functioning.
+Dialogue: 0,0:20:22.50,0:20:24.77,Default,,0000,0000,0000,,She has blood vessels,\Nbut no blood circulating through them.
+Dialogue: 0,0:20:24.77,0:20:26.73,Default,,0000,0000,0000,,It's simply flesh.
+Dialogue: 0,0:20:26.73,0:20:29.37,Default,,0000,0000,0000,,She's like a walking anatomical model.
+Dialogue: 0,0:20:29.37,0:20:30.62,Default,,0000,0000,0000,,But look.
+Dialogue: 0,0:20:35.37,0:20:37.90,Default,,0000,0000,0000,,What would it take for her to die?
+Dialogue: 0,0:20:39.81,0:20:41.42,Default,,0000,0000,0000,,Wasn't my dad just horrible?
+Dialogue: 0,0:20:41.94,0:20:45.74,Default,,0000,0000,0000,,He was having his four-year-old\Nson dissect a girl.
+Dialogue: 0,0:20:46.36,0:20:50.68,Default,,0000,0000,0000,,But thanks to experiences like this,\NI became an excellent doctor.
+Dialogue: 0,0:20:50.98,0:20:53.49,Default,,0000,0000,0000,,You never know what's going to help you.
+Dialogue: 0,0:20:54.38,0:20:55.48,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:20:58.35,0:21:02.48,Default,,0000,0000,0000,,The moment I saw her, I was entranced.
+Dialogue: 0,0:21:03.38,0:21:07.96,Default,,0000,0000,0000,,And those feelings haven't changed in the\Ntwenty years we've lived together.
+Dialogue: 0,0:21:08.60,0:21:13.71,Default,,0000,0000,0000,,And she's been looking for her head this\Nwhole time, working as a transporter.
+Dialogue: 0,0:21:14.75,0:21:18.23,Default,,0000,0000,0000,,If it came back, what would she do?
+Dialogue: 0,0:21:18.23,0:21:20.71,Default,,0000,0000,0000,,What would happen to her?
+Dialogue: 0,0:21:21.23,0:21:24.89,Default,,0000,0000,0000,,Is her will her head's will?
+Dialogue: 0,0:21:24.89,0:21:26.26,Default,,0000,0000,0000,,Or...
+Dialogue: 0,0:21:26.76,0:21:28.51,Default,,0000,0000,0000,,What are you recording?
+Dialogue: 0,0:21:28.51,0:21:30.89,Default,,0000,0000,0000,,Nothing special.
+Dialogue: 0,0:21:30.89,0:21:35.84,Default,,0000,0000,0000,,I was hoping to tell later generations\Nabout the wonderful life we lead.
+Dialogue: 0,0:21:36.51,0:21:40.48,Default,,0000,0000,0000,,Whatever. Just be quiet.\NI can't sleep.
+Dialogue: 0,0:21:40.96,0:21:43.21,Default,,0000,0000,0000,,Sorry, Celty.
+Dialogue: 0,0:21:44.55,0:21:47.41,Default,,0000,0000,0000,,That's all for now.\NI'll do the rest some other time.
+Dialogue: 0,0:21:52.29,0:21:54.21,Default,,0000,0000,0000,,It's perfect!
+Dialogue: 0,0:21:55.03,0:21:56.89,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:21:56.89,0:22:00.79,Default,,0000,0000,0000,,A Dullahan carries its head\Nwith it, you know.
+Dialogue: 0,0:22:00.79,0:22:04.02,Default,,0000,0000,0000,,It doesn't need a head.
+Dialogue: 0,0:22:04.77,0:22:06.32,Default,,0000,0000,0000,,Of course it does.
+Dialogue: 0,0:22:06.32,0:22:09.32,Default,,0000,0000,0000,,You only think that 'cause you've\Nnever seen the real thing.
+Dialogue: 0,0:22:09.32,0:22:12.17,Default,,0000,0000,0000,,She was a beautiful, beautiful woman.
+Dialogue: 0,0:22:12.17,0:22:13.31,Default,,0000,0000,0000,,Sure was.
+Dialogue: 0,0:22:14.28,0:22:17.24,Default,,0000,0000,0000,,But she's better without a head.
+Dialogue: 0,0:22:17.24,0:22:19.41,Default,,0000,0000,0000,,It's more charming that way.
+Dialogue: 0,0:22:19.41,0:22:20.98,Default,,0000,0000,0000,,She's perfect that way.
+Dialogue: 0,0:22:20.98,0:22:24.15,Default,,0000,0000,0000,,So you don't need to worry about it.
+Dialogue: 0,0:22:24.15,0:22:25.94,Default,,0000,0000,0000,,You don't need to be able to draw it.
+Dialogue: 0,0:22:25.94,0:22:27.74,Default,,0000,0000,0000,,It's fine as it is.
+Dialogue: 0,0:22:31.48,0:22:33.37,Default,,0000,0000,0000,,But I'm going to draw it anyway.
+Dialogue: 0,0:22:33.37,0:22:35.17,Default,,0000,0000,0000,,It's fine as it is!
+Dialogue: 0,0:22:35.84,0:22:37.95,Default,,0000,0000,0000,,You're a strange guy.
+Dialogue: 0,0:22:37.95,0:22:40.33,Default,,0000,0000,0000,,Aw, you flatter me!
+Dialogue: 0,0:24:12.55,0:24:14.97,Default-no margin,,0000,0000,0000,,This program is a work of fiction.\NAny resemblance to people, parties,\Nor situations is purely coincidental.
+Dialogue: 0,0:24:14.97,0:24:29.94,Title3,,0000,0000,0000,,Next Time\Non Durarara!!
+Dialogue: 0,0:24:14.97,0:24:29.94,Title4,,0000,0000,0000,,False\NAdvertising
+Dialogue: 0,0:24:15.73,0:24:19.57,Default-no margin,,0000,0000,0000,,Wanna know about my love-love-getchu-heartbreaking daily life?
+Dialogue: 0,0:24:19.57,0:24:24.78,Default-no margin,,0000,0000,0000,,Turn the channel of your heart to me, the cool, shy Kida Masaomi!
+Dialogue: 0,0:24:24.78,0:24:26.84,Default-no margin,,0000,0000,0000,,Next time: False Advertising.
+Dialogue: 0,0:24:26.84,0:24:30.05,Default-no margin,,0000,0000,0000,,You've got one chance in 300 years, so don't blow it!

@@ -1,0 +1,406 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Title1,Open Sans Semibold,50,&H00E9E9E9,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,13,260,13,0
+Style: Title2,Open Sans Semibold,50,&H002A65D6,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,260,13,13,0
+Style: Title3,Open Sans Semibold,36,&H00F7EEF4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,13,67,0
+Style: Title4,Open Sans Semibold,39,&H0000E6CB,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,13,67,67,0
+Style: Default-no margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default-normal bottom margin no l-r margins,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title - upper corner,Open Sans Semibold,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,9,7,7,13,1
+Style: SignA,Open Sans Semibold,39,&H00EFEEF0,&H000000FF,&H000A1011,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,13,13,27,0
+Style: TitleA,Open Sans Semibold,50,&H00C43E43,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,13,67,13,0
+Style: TitleB,Open Sans Semibold,50,&H00DEDBDB,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,9,13,336,13,0
+Style: SignB,Open Sans Semibold,39,&H00786662,&H000000FF,&H00F9F8ED,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,13,13,27,0
+Style: SignC,Open Sans Semibold,39,&H00358F9A,&H000000FF,&H00113646,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,13,13,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.75,0:01:02.33,Default,,0000,0000,0000,,So where is Masaomi?
+Dialogue: 0,0:01:02.33,0:01:04.08,Default,,0000,0000,0000,,He left a bit ago.
+Dialogue: 0,0:01:04.08,0:01:05.56,Default,,0000,0000,0000,,He had something to do.
+Dialogue: 0,0:01:05.56,0:01:09.08,Default,,0000,0000,0000,,Leave it alone, and the tinder will keep\Npiling up and piling up...
+Dialogue: 0,0:01:09.08,0:01:11.96,Default,,0000,0000,0000,,We're over. Finished!
+Dialogue: 0,0:01:11.96,0:01:14.67,Default,,0000,0000,0000,,You did what you thought\Nwas right, didn't you?
+Dialogue: 0,0:01:14.67,0:01:18.26,Default,,0000,0000,0000,,Is this the leader of the Dollars?
+Dialogue: 0,0:01:18.26,0:01:22.51,Default,,0000,0000,0000,,And if the Dollars are behind them,\Nwe beat them up, too.
+Dialogue: 0,0:01:53.83,0:01:55.14,Default,,0000,0000,0000,,Don't let her get away!
+Dialogue: 0,0:01:55.84,0:01:57.02,Default,,0000,0000,0000,,Find her!
+Dialogue: 0,0:01:58.78,0:02:00.05,Default,,0000,0000,0000,,That way!
+Dialogue: 0,0:02:02.94,0:02:04.70,Default,,0000,0000,0000,,You guys, go that way!
+Dialogue: 0,0:02:04.70,0:02:06.18,Default,,0000,0000,0000,,Block the exits!
+Dialogue: 0,0:02:07.31,0:02:08.22,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:02:08.22,0:02:10.99,Default,,0000,0000,0000,,Why is Kida-kun...
+Dialogue: 0,0:02:12.87,0:02:14.35,Default,,0000,0000,0000,,The girl runs.
+Dialogue: 0,0:02:14.74,0:02:17.53,Default,,0000,0000,0000,,To escape from the shadows\Nthat followed...
+Dialogue: 0,0:02:18.02,0:02:22.09,Default,,0000,0000,0000,,She'd just wanted to know the truth.
+Dialogue: 0,0:02:34.25,0:02:36.83,Default,,0000,0000,0000,,Geez! What a pain...
+Dialogue: 0,0:02:38.70,0:02:40.17,Default,,0000,0000,0000,,Where did they go?
+Dialogue: 0,0:02:40.17,0:02:41.86,Default,,0000,0000,0000,,They won't get away.
+Dialogue: 0,0:02:41.86,0:02:43.66,Default,,0000,0000,0000,,Why is Kida-kun...
+Dialogue: 0,0:02:43.66,0:02:45.13,Default,,0000,0000,0000,,She couldn't feel a thing.
+Dialogue: 0,0:02:45.13,0:02:46.47,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:02:46.47,0:02:51.21,Default,,0000,0000,0000,,The shock at what she'd seen\Nmentally overwhelmed her.
+Dialogue: 0,0:02:51.21,0:02:53.21,TitleA,,0000,0000,0000,,Anar
+Dialogue: 0,0:02:51.21,0:02:53.21,TitleB,,0000,0000,0000,,chy
+Dialogue: 0,0:02:58.91,0:03:02.35,Default,,0000,0000,0000,,I'm glad you're able to leave\Nthe hospital early.
+Dialogue: 0,0:03:02.35,0:03:04.40,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:03:04.40,0:03:05.95,Default,,0000,0000,0000,,You've all been wonderful.
+Dialogue: 0,0:03:20.49,0:03:21.47,Default,,0000,0000,0000,,Here you are.
+Dialogue: 0,0:03:21.70,0:03:23.00,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:03:25.60,0:03:28.75,Default,,0000,0000,0000,,The Slasher incidents had\Nstopped that night,
+Dialogue: 0,0:03:28.75,0:03:31.48,Default,,0000,0000,0000,,and the city was regaining its calm.
+Dialogue: 0,0:03:31.85,0:03:36.77,Default,,0000,0000,0000,,A normal life awaited Sonohara Anri,\Nor it should have.
+Dialogue: 0,0:03:39.36,0:03:40.97,Default,,0000,0000,0000,,Sonohara-san!
+Dialogue: 0,0:03:41.90,0:03:44.47,Default,,0000,0000,0000,,I'm so glad I made it in time...
+Dialogue: 0,0:03:44.47,0:03:46.83,Default,,0000,0000,0000,,I was busy with the student council...
+Dialogue: 0,0:03:46.83,0:03:48.34,Default,,0000,0000,0000,,Ryuugamine-kun...
+Dialogue: 0,0:03:48.34,0:03:50.79,Default,,0000,0000,0000,,I heard, starting tomorrow,\Nyou'll be back at school.
+Dialogue: 0,0:03:50.79,0:03:51.87,Default,,0000,0000,0000,,Are you OK now?
+Dialogue: 0,0:03:51.87,0:03:54.29,Default,,0000,0000,0000,,Yes! I'm fine.
+Dialogue: 0,0:03:54.29,0:03:55.83,Default,,0000,0000,0000,,I'll carry your things.
+Dialogue: 0,0:03:55.83,0:03:59.07,Default,,0000,0000,0000,,N-No, I'm fine.
+Dialogue: 0,0:03:59.07,0:04:00.51,Default,,0000,0000,0000,,Let him carry them!
+Dialogue: 0,0:04:00.76,0:04:04.68,Default,,0000,0000,0000,,He ran the whole way here\N'cause he wanted to.
+Dialogue: 0,0:04:04.68,0:04:08.80,Default,,0000,0000,0000,,Anri, how many times today\Ndo you think he's said this:
+Dialogue: 0,0:04:08.80,0:04:11.16,Default,,0000,0000,0000,,{\i1}Sonohara-san's getting out\Nof the hospital today!{\i0}
+Dialogue: 0,0:04:11.16,0:04:13.37,Default,,0000,0000,0000,,{\i1}I wonder if she'll be OK\Ncoming to school.{\i0}
+Dialogue: 0,0:04:13.37,0:04:14.96,Default,,0000,0000,0000,,{\i1}She's so erotic, so cute-{\i0}
+Dialogue: 0,0:04:14.96,0:04:16.31,Default,,0000,0000,0000,,I didn't say that last one!
+Dialogue: 0,0:04:16.63,0:04:22.15,Default,,0000,0000,0000,,Thanks, both of you, for coming to see me\Nso often, while I was in the hospital.
+Dialogue: 0,0:04:22.65,0:04:24.75,Default,,0000,0000,0000,,Not at all...
+Dialogue: 0,0:04:24.75,0:04:28.35,Default,,0000,0000,0000,,By the way, Masaomi, you just\Ncame out of the hospital, right?
+Dialogue: 0,0:04:28.35,0:04:29.97,Default,,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:04:29.97,0:04:31.83,Default,,0000,0000,0000,,I just missed you.
+Dialogue: 0,0:04:32.58,0:04:33.81,Default,,0000,0000,0000,,Oh, right!
+Dialogue: 0,0:04:33.81,0:04:39.84,Default,,0000,0000,0000,,Sonohara-san, you can use my notes\Nfor the time you were absent.
+Dialogue: 0,0:04:39.84,0:04:45.99,Default,,0000,0000,0000,,They might be a little hard to read,\Nbut if you want them, they're yours.
+Dialogue: 0,0:04:45.99,0:04:50.18,Default,,0000,0000,0000,,Just a second. I'm sure I have\Nthem here somewhere...
+Dialogue: 0,0:04:50.62,0:04:54.17,Default,,0000,0000,0000,,Something's different about Kida-kun.
+Dialogue: 0,0:04:54.17,0:04:57.98,Default,,0000,0000,0000,,The girl felt there was something different,\Nsomething wrong, about the boy.
+Dialogue: 0,0:04:58.77,0:05:02.26,Default,,0000,0000,0000,,Ever since he'd first come to see her...
+Dialogue: 0,0:05:03.36,0:05:05.52,Default,,0000,0000,0000,,You're OK now.
+Dialogue: 0,0:05:09.38,0:05:10.49,Default,,0000,0000,0000,,Kida-kun?
+Dialogue: 0,0:05:13.39,0:05:16.80,Default,,0000,0000,0000,,Anri... What happened?
+Dialogue: 0,0:05:17.44,0:05:20.50,Default,,0000,0000,0000,,It's nothing, really.
+Dialogue: 0,0:05:20.50,0:05:23.04,Default,,0000,0000,0000,,The Slasher kinda...
+Dialogue: 0,0:05:25.73,0:05:29.72,Default,,0000,0000,0000,,But it's nothing, really.
+Dialogue: 0,0:05:39.97,0:05:42.86,Default,,0000,0000,0000,,Sorry, gotta run.
+Dialogue: 0,0:05:42.86,0:05:47.20,Default,,0000,0000,0000,,I'll let Prince Mikado walk\Nthe princess home.
+Dialogue: 0,0:05:47.20,0:05:50.03,Default,,0000,0000,0000,,Don't blow your chance.
+Dialogue: 0,0:05:50.03,0:05:51.51,Default,,0000,0000,0000,,See ya!
+Dialogue: 0,0:05:51.51,0:05:53.20,Default,,0000,0000,0000,,See you tomorrow!
+Dialogue: 0,0:05:54.78,0:05:58.96,Default,,0000,0000,0000,,An indescribable uneasiness\Noverwhelmed her.
+Dialogue: 0,0:05:59.39,0:06:02.67,Default,,0000,0000,0000,,Don't let them do anything till I get there.
+Dialogue: 0,0:06:02.67,0:06:03.46,Default,,0000,0000,0000,,OK?
+Dialogue: 0,0:06:07.13,0:06:10.87,Default,,0000,0000,0000,,<Tanaka Tarou> There are a lot more Yellow\NScarves around lately.
+Dialogue: 0,0:06:12.23,0:06:13.90,Default,,0000,0000,0000,,<Kanra> You're right.
+Dialogue: 0,0:06:13.90,0:06:17.73,Default,,0000,0000,0000,,<Kanra> You can see clearly them,\Nso they stand out more than the Dollars.
+Dialogue: 0,0:06:17.73,0:06:22.65,Default,,0000,0000,0000,,<Setton> They've been around for a long time,\Nbut lately, they seem different.
+Dialogue: 0,0:06:22.98,0:06:24.40,Default,,0000,0000,0000,,<Tanaka Tarou> Different?
+Dialogue: 0,0:06:24.40,0:06:26.50,Default,,0000,0000,0000,,<Setton> I don't really know.
+Dialogue: 0,0:06:26.50,0:06:29.36,Default,,0000,0000,0000,,<Setton> I guess they're not like they used to be.
+Dialogue: 0,0:06:29.36,0:06:33.85,Default,,0000,0000,0000,,<Setton> They're kinda more violent now, I think.
+Dialogue: 0,0:06:34.91,0:06:36.12,Default,,0000,0000,0000,,{\an8}<Saika-san has joined the channel>
+Dialogue: 0,0:06:36.12,0:06:37.42,Default,,0000,0000,0000,,<Tanaka Tarou> Oh, hey, Saika-san.
+Dialogue: 0,0:06:37.42,0:06:38.12,Default,,0000,0000,0000,,<Tanaka Tarou> Evening.
+Dialogue: 0,0:06:38.12,0:06:39.39,Default,,0000,0000,0000,,<Kanra> Evening!
+Dialogue: 0,0:06:39.39,0:06:40.46,Default,,0000,0000,0000,,<Setton> Welcome!
+Dialogue: 0,0:06:40.46,0:06:42.58,Default,,0000,0000,0000,,<Saika> Good evening...
+Dialogue: 0,0:06:42.58,0:06:44.46,Default,,0000,0000,0000,,<Saika> Um, I'm sorry.
+Dialogue: 0,0:06:44.76,0:06:46.61,Default,,0000,0000,0000,,<Tanaka Tarou> Why apologize?
+Dialogue: 0,0:06:46.61,0:06:49.36,Default,,0000,0000,0000,,<Kanra> You weren't used to the net at first,
+Dialogue: 0,0:06:49.36,0:06:52.89,Default,,0000,0000,0000,,<Kanra> so you got a virus, and that's why\Nyou acted that way, right?
+Dialogue: 0,0:06:52.89,0:06:54.76,Default,,0000,0000,0000,,<Kanra> You couldn't help it.
+Dialogue: 0,0:06:54.76,0:06:57.57,Default,,0000,0000,0000,,<Saika> I'm sorry. I'm sorry.
+Dialogue: 0,0:06:59.03,0:07:00.52,Default,,0000,0000,0000,,<Tanaka Tarou> You apologize too much.
+Dialogue: 0,0:07:00.87,0:07:02.82,Default,,0000,0000,0000,,<Kanra> By the way, Saika-san,
+Dialogue: 0,0:07:02.82,0:07:05.48,Default,,0000,0000,0000,,<Kanra> ever heard of a color gang\Ncalled the Yellow Scarves?
+Dialogue: 0,0:07:05.48,0:07:08.78,Default,,0000,0000,0000,,<Saika> The people with the yellow\Nbandanas in town?
+Dialogue: 0,0:07:08.78,0:07:10.70,Default,,0000,0000,0000,,<Kanra> Yeah, those guys.
+Dialogue: 0,0:07:10.70,0:07:14.78,Default,,0000,0000,0000,,<Kanra> Another group, called the\NDollars, is a lot like them.
+Dialogue: 0,0:07:14.78,0:07:22.33,Default,,0000,0000,0000,,<Kanra> Because of the Slasher case, the two of them\Nare in a kind of dangerous situation.
+Dialogue: 0,0:07:22.33,0:07:25.79,Default,,0000,0000,0000,,<Saika> Um... What do you mean?
+Dialogue: 0,0:07:27.58,0:07:29.47,Default,,0000,0000,0000,,<Setton> Let's talk about something else, Kanra-san.
+Dialogue: 0,0:07:29.47,0:07:32.84,Default,,0000,0000,0000,,<Setton> You shouldn't just start talking about that stuff\Nto someone who doesn't know many details.
+Dialogue: 0,0:07:32.84,0:07:34.05,Default,,0000,0000,0000,,<Kanra> No, no.
+Dialogue: 0,0:07:34.05,0:07:36.68,Default,,0000,0000,0000,,<Kanra> If you live in Ikebukuro,\Nyou should know this!
+Dialogue: 0,0:07:36.93,0:07:42.14,Default,,0000,0000,0000,,<Kanra> They never caught the Slasher, right?
+Dialogue: 0,0:07:42.46,0:07:46.90,Default,,0000,0000,0000,,<Kanra> And there are victims among both the\NDollars and Yellow Scarves, right?
+Dialogue: 0,0:07:46.90,0:07:51.70,Default,,0000,0000,0000,,<Kanra> Both think the other's responsible.
+Dialogue: 0,0:07:54.85,0:07:58.62,Default,,0000,0000,0000,,The Dollars don't think it's that big a deal.
+Dialogue: 0,0:07:58.62,0:08:02.33,Default,,0000,0000,0000,,But I think neither side knows much about\Nthe other, and that's creating confusion.
+Dialogue: 0,0:08:02.59,0:08:07.84,Default,,0000,0000,0000,,Either way, if the two of them don't\Nfind and lynch the person behind it,
+Dialogue: 0,0:08:07.84,0:08:11.72,Default,,0000,0000,0000,,a rain of blood's gonna fall on Ikebukuro...
+Dialogue: 0,0:08:11.72,0:08:13.32,Default,,0000,0000,0000,,It's pretty scary.
+Dialogue: 0,0:08:13.32,0:08:15.01,Default,,0000,0000,0000,,A real gang war!
+Dialogue: 0,0:08:17.53,0:08:18.95,SignA,,0000,0000,0000,,{\an8}You have a private message\Nfrom Setton-san
+Dialogue: 0,0:08:20.89,0:08:23.38,Default,,0000,0000,0000,,Don't worry about it, Anri-chan.
+Dialogue: 0,0:08:23.38,0:08:26.25,Default,,0000,0000,0000,,The two of them are just out of control.
+Dialogue: 0,0:08:26.75,0:08:30.99,Default,,0000,0000,0000,,You weren't behind it, so turning\Nyourself in won't do any good.
+Dialogue: 0,0:08:30.99,0:08:32.79,Default,,0000,0000,0000,,Don't do something you'll regret.
+Dialogue: 0,0:08:32.79,0:08:35.73,Default,,0000,0000,0000,,The cops are really scary these days.
+Dialogue: 0,0:08:35.73,0:08:37.66,Default,,0000,0000,0000,,Really scary!
+Dialogue: 0,0:08:37.66,0:08:39.41,Default,,0000,0000,0000,,Really scary, OK?
+Dialogue: 0,0:08:39.41,0:08:40.49,Default,,0000,0000,0000,,Especially the traffic cops!
+Dialogue: 0,0:08:43.01,0:08:44.25,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:08:44.25,0:08:45.46,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:08:48.13,0:08:50.71,Default,,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:08:51.33,0:08:54.76,Default,,0000,0000,0000,,Next time, I'll teach you how to use\Nprivate message mode.
+Dialogue: 0,0:08:56.10,0:08:59.02,Default,,0000,0000,0000,,I'm sorry. I'll be going.
+Dialogue: 0,0:08:59.02,0:09:00.14,Default,,0000,0000,0000,,Oh, OK.
+Dialogue: 0,0:09:00.14,0:09:02.14,Default,,0000,0000,0000,,Good night, Saika-san.
+Dialogue: 0,0:09:02.14,0:09:03.20,Default,,0000,0000,0000,,Night!
+Dialogue: 0,0:09:03.20,0:09:03.67,Default,,0000,0000,0000,,See ya!
+Dialogue: 0,0:09:03.58,0:09:05.12,Default,,0000,0000,0000,,{\a6}<Saika-san has left the channel>
+Dialogue: 0,0:09:07.38,0:09:09.90,Default,,0000,0000,0000,,I'll be going, too.
+Dialogue: 0,0:09:09.90,0:09:11.14,Default,,0000,0000,0000,,Good night.
+Dialogue: 0,0:09:11.14,0:09:12.82,Default,,0000,0000,0000,,Good night!
+Dialogue: 0,0:09:12.84,0:09:14.59,Default,,0000,0000,0000,,{\a6}<Setton-san has left the channel>
+Dialogue: 0,0:09:14.71,0:09:17.36,Default,,0000,0000,0000,,Kanra-san, about the Slasher...
+Dialogue: 0,0:09:17.75,0:09:20.03,Default,,0000,0000,0000,,I'll tell you anything I find.
+Dialogue: 0,0:09:20.03,0:09:21.37,Default,,0000,0000,0000,,And with a good discount.
+Dialogue: 0,0:09:21.66,0:09:24.41,Default,,0000,0000,0000,,Somewhere in this city is the real criminal.
+Dialogue: 0,0:09:24.91,0:09:28.72,Default,,0000,0000,0000,,Catching them will soothe the\Nmisunderstandings between
+Dialogue: 0,0:09:28.72,0:09:30.47,Default,,0000,0000,0000,,the Yellow Scarves and the Dollars.
+Dialogue: 0,0:09:34.35,0:09:36.76,Default,,0000,0000,0000,,I don't know if it'll be that easy.
+Dialogue: 0,0:09:36.87,0:09:40.26,Default,,0000,0000,0000,,Neither the Yellow Scarves nor the Dollars\Nis really a single organization.
+Dialogue: 0,0:09:40.86,0:09:45.73,Default,,0000,0000,0000,,Some of them will probably take advantage\Nof the gang war to mug people.
+Dialogue: 0,0:09:54.63,0:09:58.45,Default,,0000,0000,0000,,If that keeps up, it'll be a real gang war.
+Dialogue: 0,0:09:59.32,0:10:01.45,Default,,0000,0000,0000,,I won't let that happen.
+Dialogue: 0,0:10:01.96,0:10:02.95,Default,,0000,0000,0000,,I dunno.
+Dialogue: 0,0:10:03.30,0:10:06.00,Default,,0000,0000,0000,,It may be too late to stop it.
+Dialogue: 0,0:10:06.00,0:10:09.08,Default,,0000,0000,0000,,There's no way for you to\Nstop the Yellow Scarves.
+Dialogue: 0,0:10:09.44,0:10:11.80,Default,,0000,0000,0000,,Even so, I'll keep it from happening.
+Dialogue: 0,0:10:12.86,0:10:14.63,Default,,0000,0000,0000,,I'll look forward to that.
+Dialogue: 0,0:10:16.03,0:10:18.12,Default,,0000,0000,0000,,I must do something,
+Dialogue: 0,0:10:18.12,0:10:21.35,Default,,0000,0000,0000,,thought the girl with the\Ncursed blade inside her.
+Dialogue: 0,0:10:21.59,0:10:23.68,Default,,0000,0000,0000,,I must do something,
+Dialogue: 0,0:10:23.68,0:10:26.84,Default,,0000,0000,0000,,thought the girl who'd watched the\Nworld through a frame.
+Dialogue: 0,0:10:26.84,0:10:28.01,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:10:30.00,0:10:35.99,Default,,0000,0000,0000,,The young boy who'd come, through the frame\Nand into her world, was already enslaved.
+Dialogue: 0,0:10:38.35,0:10:41.20,Default,,0000,0000,0000,,By the heavy chains of his past.
+Dialogue: 0,0:10:45.47,0:10:47.54,Default,,0000,0000,0000,,It was too late for him to escape.
+Dialogue: 0,0:10:57.97,0:10:58.97,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:10:59.60,0:11:00.63,Default,,0000,0000,0000,,OK.
+Dialogue: 0,0:11:00.63,0:11:01.39,Default,,0000,0000,0000,,Got it.
+Dialogue: 0,0:11:01.80,0:11:03.51,Default,,0000,0000,0000,,Be right there.
+Dialogue: 0,0:11:03.51,0:11:06.14,Default,,0000,0000,0000,,Sorry! A friend has something\Nhe needs right away!
+Dialogue: 0,0:11:06.52,0:11:07.84,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:11:07.84,0:11:11.16,Default,,0000,0000,0000,,If you want to hate someone,\Nhate my friend all you like.
+Dialogue: 0,0:11:11.16,0:11:14.53,Default,,0000,0000,0000,,Hating someone's free,\Nand it doesn't hurt me at all.
+Dialogue: 0,0:11:14.53,0:11:16.18,Default,,0000,0000,0000,,Two birds with one stone!
+Dialogue: 0,0:11:16.18,0:11:18.26,Default,,0000,0000,0000,,Two chicks with one guy!
+Dialogue: 0,0:11:18.26,0:11:19.28,Default,,0000,0000,0000,,Two chicks and one guy?
+Dialogue: 0,0:11:19.57,0:11:23.23,Default,,0000,0000,0000,,See you tomorrow!
+Dialogue: 0,0:11:23.23,0:11:25.77,Default,,0000,0000,0000,,Was it really that important?
+Dialogue: 0,0:11:25.77,0:11:29.67,Default,,0000,0000,0000,,Kida-kun's been acting weird lately,\Ndon't you think?
+Dialogue: 0,0:11:29.67,0:11:30.60,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:11:30.60,0:11:31.54,Default,,0000,0000,0000,,Sure you're not\Noverthinking things?
+Dialogue: 0,0:11:36.74,0:11:38.76,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:11:38.76,0:11:41.14,Default,,0000,0000,0000,,I have to do something.
+Dialogue: 0,0:11:41.14,0:11:41.81,Default,,0000,0000,0000,,Bye.
+Dialogue: 0,0:11:45.40,0:11:49.44,Default,,0000,0000,0000,,I heard some members of the Dollars got\Nmugged by the Yellow Scarves last night.
+Dialogue: 0,0:11:49.44,0:11:53.48,Default,,0000,0000,0000,,I heard that someone almost got killed.
+Dialogue: 0,0:11:53.48,0:11:57.71,Default,,0000,0000,0000,,The Yellow Scarves say that the Dollars\Nare behind the Slasher attacks.
+Dialogue: 0,0:11:59.35,0:12:00.78,Default,,0000,0000,0000,,Something had to be done.
+Dialogue: 0,0:12:01.15,0:12:04.05,Default,,0000,0000,0000,,The boy who led the Dollars knew this.
+Dialogue: 0,0:12:05.06,0:12:10.45,Default,,0000,0000,0000,,But he still didn't know that\Nhe was one of the pieces on the board.
+Dialogue: 0,0:12:10.59,0:12:13.45,Default,,0000,0000,0000,,Come eat sushi!
+Dialogue: 0,0:12:13.45,0:12:15.69,Default,,0000,0000,0000,,Sushi is the soul of Japan!
+Dialogue: 0,0:12:15.69,0:12:16.71,Default,,0000,0000,0000,,It's enka!
+Dialogue: 0,0:12:17.07,0:12:21.22,Default,,0000,0000,0000,,I wonder if it's true, that he does a\Ncossack dance, when he delivers something.
+Dialogue: 0,0:12:21.22,0:12:25.47,Default,,0000,0000,0000,,Those kids last night were lucky\NSimon was out on delivery.
+Dialogue: 0,0:12:27.95,0:12:31.73,Default,,0000,0000,0000,,Swing that pipe down, and you'll be\Nthe main ingredient in sushi.
+Dialogue: 0,0:12:31.73,0:12:33.51,Default,,0000,0000,0000,,Human sushi...
+Dialogue: 0,0:12:33.51,0:12:36.73,Default,,0000,0000,0000,,It hurts, and it doesn't taste good.
+Dialogue: 0,0:12:37.03,0:12:39.83,Default,,0000,0000,0000,,Luck doesn't continue.
+Dialogue: 0,0:12:44.28,0:12:47.49,Default,,0000,0000,0000,,Geez... I don't like the look of things.
+Dialogue: 0,0:12:54.04,0:12:58.62,Default,,0000,0000,0000,,Does anyone know about the\NDollars and the Yellow Scarves?
+Dialogue: 0,0:12:58.62,0:13:00.01,Default,,0000,0000,0000,,Anyone?
+Dialogue: 0,0:13:02.58,0:13:05.03,Default,,0000,0000,0000,,Our boss is Kida Masaomi.
+Dialogue: 0,0:13:05.03,0:13:07.68,Default,,0000,0000,0000,,I've seen him with you, Mother.
+Dialogue: 0,0:13:08.87,0:13:13.81,Default,,0000,0000,0000,,He said he was going to\Ntake revenge for you.
+Dialogue: 0,0:13:13.81,0:13:15.60,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:13:15.60,0:13:18.02,Default,,0000,0000,0000,,Of course, she couldn't believe it.
+Dialogue: 0,0:13:18.30,0:13:22.19,Default,,0000,0000,0000,,But the children could not lie\Nto the girl, their Mother.
+Dialogue: 0,0:13:22.73,0:13:23.94,Default,,0000,0000,0000,,Where is Kida-kun?
+Dialogue: 0,0:13:23.94,0:13:26.22,Default,,0000,0000,0000,,He'll be coming to the meeting today.
+Dialogue: 0,0:13:27.74,0:13:29.95,Default,,0000,0000,0000,,Take me there.
+Dialogue: 0,0:13:30.68,0:13:31.94,Default,,0000,0000,0000,,And then...
+Dialogue: 0,0:13:35.59,0:13:37.94,Default,,0000,0000,0000,,She knew everything.
+Dialogue: 0,0:13:40.23,0:13:41.56,Default,,0000,0000,0000,,Kida-kun is...
+Dialogue: 0,0:13:41.56,0:13:44.17,Default,,0000,0000,0000,,Think she's back here?
+Dialogue: 0,0:13:46.62,0:13:47.75,Default,,0000,0000,0000,,She had to run.
+Dialogue: 0,0:13:47.75,0:13:48.96,Default,,0000,0000,0000,,{\i1}It's simple.{\i0}
+Dialogue: 0,0:13:48.80,0:13:52.95,Default,,0000,0000,0000,,Why is Kida-kun...
+Dialogue: 0,0:13:49.50,0:13:51.47,Default,,0000,0000,0000,,{\i1}I'll love them all.{\i0}
+Dialogue: 0,0:13:51.47,0:13:52.51,Default,,0000,0000,0000,,{\i1}Kida Masaomi...{\i0}
+Dialogue: 0,0:13:52.51,0:13:54.40,Default,,0000,0000,0000,,{\i1}The yellow children, too...{\i0}
+Dialogue: 0,0:13:54.40,0:13:55.83,Default,,0000,0000,0000,,{\i1}All of them.{\i0}
+Dialogue: 0,0:13:55.83,0:13:57.39,Default,,0000,0000,0000,,{\i1}Cut them up{\i0}
+Dialogue: 0,0:13:56.69,0:13:58.65,Default,,0000,0000,0000,,What would happen if she were caught?
+Dialogue: 0,0:13:57.39,0:13:58.65,Default,,0000,0000,0000,,{\i1}and love them.{\i0}
+Dialogue: 0,0:13:58.65,0:14:00.48,Default,,0000,0000,0000,,{\i1}You can't love others.{\i0}
+Dialogue: 0,0:14:00.48,0:14:01.73,Default,,0000,0000,0000,,{\i1}I'll love them for you.{\i0}
+Dialogue: 0,0:14:01.73,0:14:03.85,Default,,0000,0000,0000,,{\i1}So much! So much! So much!{\i0}
+Dialogue: 0,0:14:03.85,0:14:06.45,Default,,0000,0000,0000,,I don't want to hurt anyone!
+Dialogue: 0,0:14:06.45,0:14:11.92,Default,,0000,0000,0000,,The girl was terrified that the boy\Nwould learn she was a monster.
+Dialogue: 0,0:14:11.92,0:14:13.52,Default,,0000,0000,0000,,It's too cramped.
+Dialogue: 0,0:14:13.52,0:14:14.35,Default,,0000,0000,0000,,I'll go.
+Dialogue: 0,0:14:14.35,0:14:15.50,Default,,0000,0000,0000,,Kida-kun!
+Dialogue: 0,0:14:16.70,0:14:18.84,Default,,0000,0000,0000,,Save me, someone!
+Dialogue: 0,0:14:18.84,0:14:20.04,Default,,0000,0000,0000,,Someone!
+Dialogue: 0,0:14:20.96,0:14:22.67,Default,,0000,0000,0000,,Hey, that's...
+Dialogue: 0,0:14:23.97,0:14:26.34,Default,,0000,0000,0000,,Standing in the pouring rain...
+Dialogue: 0,0:14:27.46,0:14:29.43,Default,,0000,0000,0000,,was the female Dullahan.
+Dialogue: 0,0:14:35.12,0:14:37.08,SignB,,0000,0000,0000,,I'm here.\NWhere are you?
+Dialogue: 0,0:14:35.79,0:14:40.28,Default,,0000,0000,0000,,The only thing she'd been able to do was\Nseek help from one just like her,
+Dialogue: 0,0:14:40.28,0:14:44.53,Default,,0000,0000,0000,,another one who shouldn't\Nexist in this world.
+Dialogue: 0,0:14:44.90,0:14:47.90,Default,,0000,0000,0000,,She jumped over the wall on her bike...
+Dialogue: 0,0:14:48.18,0:14:49.70,Default,,0000,0000,0000,,She could do it.
+Dialogue: 0,0:14:53.23,0:14:54.62,Default,,0000,0000,0000,,She's going to move.
+Dialogue: 0,0:15:07.28,0:15:08.30,Default,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:15:09.06,0:15:10.49,Default,,0000,0000,0000,,Celty-san!
+Dialogue: 0,0:15:11.24,0:15:12.95,Default,,0000,0000,0000,,You can tell me what's going on later.
+Dialogue: 0,0:15:12.95,0:15:13.87,Default,,0000,0000,0000,,We're getting out of here.
+Dialogue: 0,0:15:13.87,0:15:14.84,Default,,0000,0000,0000,,Get on back.
+Dialogue: 0,0:15:14.84,0:15:16.46,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:15:22.33,0:15:24.12,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:15:24.12,0:15:25.75,Default,,0000,0000,0000,,Hang on tight.
+Dialogue: 0,0:15:37.58,0:15:40.86,Default,,0000,0000,0000,,I've seen you around for a while.
+Dialogue: 0,0:15:40.86,0:15:45.82,Default,,0000,0000,0000,,I always thought that riding suit was\Ntoo curvy to be a guy.
+Dialogue: 0,0:15:45.82,0:15:48.01,Default,,0000,0000,0000,,I don't care about guys,
+Dialogue: 0,0:15:48.01,0:15:51.26,Default,,0000,0000,0000,,but if you're a girl, I could\Nlove that suit alone.
+Dialogue: 0,0:15:51.26,0:15:54.92,Default,,0000,0000,0000,,If I fell in love with a nun,\NI'd love even the gown she wore.
+Dialogue: 0,0:15:54.92,0:15:57.81,Default,,0000,0000,0000,,He's the one who's always\Nwith Mikado and Anri...
+Dialogue: 0,0:16:00.35,0:16:01.62,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:16:01.62,0:16:03.48,Default,,0000,0000,0000,,She doesn't want him to see her face.
+Dialogue: 0,0:16:03.76,0:16:06.27,Default,,0000,0000,0000,,I don't know why, but I get it.
+Dialogue: 0,0:16:10.96,0:16:11.57,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:24.62,0:16:26.00,Default,,0000,0000,0000,,Damn it...
+Dialogue: 0,0:16:28.12,0:16:28.88,Default,,0000,0000,0000,,Monster!
+Dialogue: 0,0:16:28.88,0:16:29.59,Default,,0000,0000,0000,,Don't!
+Dialogue: 0,0:16:38.93,0:16:42.35,Default,,0000,0000,0000,,She looked just like the headless\Nknight of legend.
+Dialogue: 0,0:16:54.03,0:16:58.54,Default,,0000,0000,0000,,The fragments of information\Ncame together in an instant.
+Dialogue: 0,0:16:59.06,0:17:01.87,Default,,0000,0000,0000,,An intruder with a blade like the Slasher's,
+Dialogue: 0,0:17:01.87,0:17:04.62,Default,,0000,0000,0000,,the black bike coming to their rescue,
+Dialogue: 0,0:17:04.97,0:17:08.02,Default,,0000,0000,0000,,and the rumors that the black bike\Nbelonged to the Dollars.
+Dialogue: 0,0:17:08.02,0:17:10.38,Default,,0000,0000,0000,,They all reached a single conclusion.
+Dialogue: 0,0:17:11.12,0:17:13.44,Default,,0000,0000,0000,,The Slasher was part of the Dollars.
+Dialogue: 0,0:17:13.89,0:17:17.89,Default,,0000,0000,0000,,The young boy didn't know\Nif his conclusion was right.
+Dialogue: 0,0:17:18.47,0:17:21.99,Default,,0000,0000,0000,,All he knew was that,\Nregardless of what he thought,
+Dialogue: 0,0:17:21.99,0:17:26.90,Default,,0000,0000,0000,,he could no longer contain his companions.
+Dialogue: 0,0:17:27.09,0:17:29.48,Default,,0000,0000,0000,,Hey, you ever heard of a Dullahan?
+Dialogue: 0,0:17:30.47,0:17:32.40,Default,,0000,0000,0000,,No, I haven't.
+Dialogue: 0,0:17:32.40,0:17:35.41,Default,,0000,0000,0000,,They say it's a headless knight,\Nwith a headless horse,
+Dialogue: 0,0:17:35.41,0:17:39.00,Default,,0000,0000,0000,,who visits the homes of those about to die.
+Dialogue: 0,0:17:39.62,0:17:41.91,Default,,0000,0000,0000,,Like the grim reaper.
+Dialogue: 0,0:17:43.32,0:17:44.91,Default,,0000,0000,0000,,A sudden thought came to him.
+Dialogue: 0,0:17:45.12,0:17:48.17,Default,,0000,0000,0000,,One of them could die.
+Dialogue: 0,0:17:50.19,0:17:51.68,Default,,0000,0000,0000,,Why...
+Dialogue: 0,0:17:51.68,0:17:54.27,Default,,0000,0000,0000,,Why, at times like this,\Ndo I want to see them first.
+Dialogue: 0,0:17:57.07,0:18:02.54,SignC,,0000,0000,0000,,{\an8}The sky has fallen.
+Dialogue: 0,0:17:58.76,0:18:02.56,Default,,0000,0000,0000,,A phrase meaning that everything\Nchanges for the worse.
+Dialogue: 0,0:18:02.56,0:18:07.82,Default,,0000,0000,0000,,It was the phrase on the banners of the Yellow Scarves\Nin the {\i1}Romance of the Three Kingdoms{\i0}.
+Dialogue: 0,0:18:11.30,0:18:13.59,Default,,0000,0000,0000,,The sky ain't blue, yeah.
+Dialogue: 0,0:18:14.29,0:18:16.78,Default,,0000,0000,0000,,Ain't yellow either.
+Dialogue: 0,0:18:16.80,0:18:19.26,Default,,0000,0000,0000,,{\an8}<Tanaka Tarou-san\Nhas joined the channel>
+Dialogue: 0,0:18:16.97,0:18:21.31,Default,,0000,0000,0000,,{\an8}<Kanra-san has joined the channel>
+Dialogue: 0,0:18:17.57,0:18:19.23,Default,,0000,0000,0000,,Evening!
+Dialogue: 0,0:18:19.23,0:18:21.33,Default,,0000,0000,0000,,Oh, is it just you?
+Dialogue: 0,0:18:21.33,0:18:22.08,Default,,0000,0000,0000,,Evening.
+Dialogue: 0,0:18:22.08,0:18:23.29,Default,,0000,0000,0000,,Seems like it.
+Dialogue: 0,0:18:23.72,0:18:25.79,Default,,0000,0000,0000,,Private message right away, huh?
+Dialogue: 0,0:18:26.10,0:18:28.25,Default,,0000,0000,0000,,There's something I want to ask you.
+Dialogue: 0,0:18:28.25,0:18:28.91,Default,,0000,0000,0000,,Um,
+Dialogue: 0,0:18:28.91,0:18:32.59,Default,,0000,0000,0000,,have the Yellow Scarves been in\NIkebukuro for a long time?
+Dialogue: 0,0:18:32.59,0:18:35.09,Default,,0000,0000,0000,,About three years...
+Dialogue: 0,0:18:35.09,0:18:38.24,Default,,0000,0000,0000,,They were a quiet little group at first.
+Dialogue: 0,0:18:40.42,0:18:42.39,Default,,0000,0000,0000,,The young boy who led the Dollars
+Dialogue: 0,0:18:42.39,0:18:46.48,Default,,0000,0000,0000,,learned of the terrible fight between\Nthe Yellow Scarves and Blue Square,
+Dialogue: 0,0:18:46.48,0:18:48.85,Default,,0000,0000,0000,,not knowing that the girl
+Dialogue: 0,0:18:48.85,0:18:51.98,Default,,0000,0000,0000,,sacrificed to it was his\Nfriend's former lover.
+Dialogue: 0,0:18:52.31,0:18:54.76,Default,,0000,0000,0000,,And not knowing that the\Nman telling him all this
+Dialogue: 0,0:18:54.76,0:19:00.99,Default,,0000,0000,0000,,controlled her heart and had inflicted\Nterrible, lasting wounds on his friend.
+Dialogue: 0,0:19:01.32,0:19:03.87,Default,,0000,0000,0000,,So in the end, the Yellow Scarves\Nwere the only ones left...
+Dialogue: 0,0:19:03.87,0:19:06.75,Default,,0000,0000,0000,,But Blue Square didn't die.
+Dialogue: 0,0:19:08.32,0:19:09.54,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:19:09.54,0:19:12.58,Default,,0000,0000,0000,,The leader of the Yellow Scarves\Ngot sick of fighting
+Dialogue: 0,0:19:12.58,0:19:14.29,Default,,0000,0000,0000,,and left.
+Dialogue: 0,0:19:14.29,0:19:16.55,Default,,0000,0000,0000,,After that, they joined the Yellow Scarves.
+Dialogue: 0,0:19:17.49,0:19:19.55,Default,,0000,0000,0000,,So they merged?
+Dialogue: 0,0:19:19.55,0:19:21.43,Default,,0000,0000,0000,,Basically, yeah.
+Dialogue: 0,0:19:21.43,0:19:28.50,Default,,0000,0000,0000,,Outside of the leaders, no one would bother checking\Nwho was part of which organization.
+Dialogue: 0,0:19:29.14,0:19:33.65,Default,,0000,0000,0000,,They just had to take off their blue clothes,\Nsay they wanted to join,
+Dialogue: 0,0:19:33.65,0:19:35.32,Default,,0000,0000,0000,,and that was it.
+Dialogue: 0,0:19:35.84,0:19:38.67,Default,,0000,0000,0000,,But then the leader who quit...
+Dialogue: 0,0:19:38.67,0:19:43.33,Default,,0000,0000,0000,,He doesn't know, I imagine,\Nthat the ones who sent his
+Dialogue: 0,0:19:43.33,0:19:45.87,Default,,0000,0000,0000,,girlfriend to the hospital are\Nwith his old gang now.
+Dialogue: 0,0:19:47.51,0:19:49.00,Default,,0000,0000,0000,,You take care, too.
+Dialogue: 0,0:19:49.00,0:19:53.08,Default,,0000,0000,0000,,Some people are part of both the Dollars\Nand the Yellow Scarves, it seems.
+Dialogue: 0,0:19:53.36,0:19:57.94,Default,,0000,0000,0000,,That's why, if I send word\Naround the Dollars
+Dialogue: 0,0:19:57.94,0:20:01.09,Default,,0000,0000,0000,,that we had nothing to do with it,\Nthey might tell the Yellow Scarves.
+Dialogue: 0,0:20:01.43,0:20:04.05,Default,,0000,0000,0000,,If it really isn't the Dollars behind it.
+Dialogue: 0,0:20:05.84,0:20:07.96,Default,,0000,0000,0000,,The Dollars don't have any rules,
+Dialogue: 0,0:20:07.96,0:20:10.79,Default,,0000,0000,0000,,and you don't watch them all.
+Dialogue: 0,0:20:11.48,0:20:14.77,Default,,0000,0000,0000,,A part of the Dollars may be the Slasher,
+Dialogue: 0,0:20:14.77,0:20:16.94,Default,,0000,0000,0000,,and you simply don't know it.
+Dialogue: 0,0:20:19.47,0:20:22.20,Default,,0000,0000,0000,,That's how the Dollars work.
+Dialogue: 0,0:20:22.20,0:20:24.70,Default,,0000,0000,0000,,If you're going to be a part of this world,
+Dialogue: 0,0:20:24.70,0:20:27.76,Default,,0000,0000,0000,,you should know that.
+Dialogue: 0,0:20:28.87,0:20:30.45,Default,,0000,0000,0000,,I'll keep that in mind.
+Dialogue: 0,0:20:39.34,0:20:40.53,Default,,0000,0000,0000,,Morning!
+Dialogue: 0,0:20:41.44,0:20:42.74,Default,,0000,0000,0000,,Morning!
+Dialogue: 0,0:20:43.76,0:20:45.01,Default,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:20:45.01,0:20:45.88,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:20:45.88,0:20:47.87,Default,,0000,0000,0000,,You seem down.
+Dialogue: 0,0:20:47.87,0:20:49.74,Default,,0000,0000,0000,,Are you still not feeling well?
+Dialogue: 0,0:20:50.44,0:20:53.09,Default,,0000,0000,0000,,No, that's not it.
+Dialogue: 0,0:20:53.09,0:20:53.89,Default,,0000,0000,0000,,Morning!
+Dialogue: 0,0:20:53.89,0:20:55.06,Default,,0000,0000,0000,,Morning.
+Dialogue: 0,0:20:55.06,0:20:58.61,Default,,0000,0000,0000,,Oh, I saw Kida at the station.
+Dialogue: 0,0:20:58.61,0:21:00.00,Default,,0000,0000,0000,,He said he was staying home today.
+Dialogue: 0,0:21:00.00,0:21:01.56,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:21:01.56,0:21:02.45,Default,,0000,0000,0000,,Dunno.
+Dialogue: 0,0:21:02.45,0:21:04.11,Default,,0000,0000,0000,,He didn't say.
+Dialogue: 0,0:21:04.11,0:21:05.17,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:21:05.17,0:21:06.12,Default,,0000,0000,0000,,See ya.
+Dialogue: 0,0:21:07.04,0:21:08.62,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:21:08.62,0:21:11.51,Default,,0000,0000,0000,,You can't run from your past.
+Dialogue: 0,0:21:11.51,0:21:15.12,Default,,0000,0000,0000,,The reason you're worrying is\Nbecause of your past, right?
+Dialogue: 0,0:21:17.12,0:21:18.47,Default,,0000,0000,0000,,If you can't run,
+Dialogue: 0,0:21:18.47,0:21:20.66,Default,,0000,0000,0000,,then fight and win.
+Dialogue: 0,0:21:20.66,0:21:25.29,Default,,0000,0000,0000,,If I could only fight and be rid of\Nmy past with you,
+Dialogue: 0,0:21:25.29,0:21:26.43,Default,,0000,0000,0000,,I'd love to.
+Dialogue: 0,0:21:27.18,0:21:28.80,Default,,0000,0000,0000,,Why can't you?
+Dialogue: 0,0:21:29.54,0:21:33.10,Default,,0000,0000,0000,,I couldn't fight with you.
+Dialogue: 0,0:21:33.94,0:21:36.60,Default,,0000,0000,0000,,He wanted a place to be.\NThat was all.
+Dialogue: 0,0:21:36.60,0:21:40.86,Default,,0000,0000,0000,,Each time he'd told his friend about\Nthe new city he lived in,
+Dialogue: 0,0:21:41.27,0:21:45.36,Default,,0000,0000,0000,,he'd realized that he wasn't really a\Npart of the things he talked about.
+Dialogue: 0,0:21:45.95,0:21:47.66,Default,,0000,0000,0000,,Now he knew
+Dialogue: 0,0:21:47.66,0:21:56.68,Default,,0000,0000,0000,,that his sole place in the Yellow Scarves\Nhad been only Mikajima Saki.
+Dialogue: 0,0:21:56.68,0:22:03.88,Default,,0000,0000,0000,,{\fad(1,500)}And now he was working for his dear friend,\Nwho was his new life.
+Dialogue: 0,0:22:09.26,0:22:12.02,Default,,0000,0000,0000,,Geez. It's raining again.
+Dialogue: 0,0:22:12.46,0:22:13.78,Default,,0000,0000,0000,,Kadota-san.
+Dialogue: 0,0:22:22.88,0:22:24.28,Default,,0000,0000,0000,,You came back?
+Dialogue: 0,0:22:24.66,0:22:25.77,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:22:28.03,0:22:29.51,Default,,0000,0000,0000,,Let's talk somewhere else.
+Dialogue: 0,0:23:58.33,0:23:59.96,Default-no margin,,0000,0000,0000,,This program is a work of fiction.\NAny resemblance to people, parties,\Nor situations is purely coincidental.
+Dialogue: 0,0:23:59.96,0:24:16.32,Title3,,0000,0000,0000,,Next Time\Non Durarara!!
+Dialogue: 0,0:23:59.96,0:24:16.32,Title4,,0000,0000,0000,,A New King\NWill Arise
+Dialogue: 0,0:24:00.83,0:24:03.26,Default-no margin,,0000,0000,0000,,A great man once said that the world isn't real.
+Dialogue: 0,0:24:03.26,0:24:05.72,Default-no margin,,0000,0000,0000,,A great man once said that the world is symbolic.
+Dialogue: 0,0:24:05.72,0:24:08.05,Default-no margin,,0000,0000,0000,,A horrible past is the product of a delusion.
+Dialogue: 0,0:24:08.05,0:24:09.98,Default-no margin,,0000,0000,0000,,It never existed.
+Dialogue: 0,0:24:09.98,0:24:11.47,Default-no margin,,0000,0000,0000,,Isn't that enough?
+Dialogue: 0,0:24:11.47,0:24:12.43,Default-no margin,,0000,0000,0000,,Next time:
+Dialogue: 0,0:24:12.43,0:24:14.32,Default-no margin,,0000,0000,0000,,The Old King is Dead.

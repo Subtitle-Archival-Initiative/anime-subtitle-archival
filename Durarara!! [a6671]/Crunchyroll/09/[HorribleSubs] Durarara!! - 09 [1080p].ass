@@ -1,0 +1,352 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Title1,Open Sans Semibold,50,&H006012E3,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,13,260,13,0
+Style: Title2,Open Sans Semibold,50,&H00E9E9E9,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,260,13,13,0
+Style: Title3,Open Sans Semibold,36,&H00F7EEF4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,13,67,0
+Style: Title4,Open Sans Semibold,39,&H00DAAE32,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,13,67,67,0
+Style: Default-no margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default-normal bottom margin no l-r margins,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title - upper corner,Open Sans Semibold,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,9,7,7,13,1
+Style: SignA,Open Sans Semibold,36,&H00343922,&H000000FF,&H00EDF1DC,&H00000000,1,0,0,0,100,100,0,0,1,2,1,3,27,27,27,0
+Style: SignB,Open Sans Semibold,36,&H00424239,&H000000FF,&H00F1F1E8,&H00000000,1,0,0,0,100,100,0,0,1,2,2,2,27,27,27,0
+Style: SignC,Open Sans Semibold,36,&H0027211C,&H000000FF,&H00726D65,&H00726D65,1,0,0,0,100,100,0,0,1,2,1,2,267,27,27,0
+Style: SignD,Open Sans Semibold,36,&H00DDDDDD,&H000000FF,&H00010101,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,267,27,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:07.53,0:01:10.71,Default,,0000,0000,0000,,This is an extremely important\Nmatter to me.
+Dialogue: 0,0:01:10.71,0:01:14.26,Default,,0000,0000,0000,,I feel like I'm going to\Nforget my own face!
+Dialogue: 0,0:01:14.26,0:01:15.21,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:01:15.21,0:01:16.53,Default,,0000,0000,0000,,No! No!
+Dialogue: 0,0:01:16.53,0:01:17.30,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:01:17.30,0:01:19.44,Default,,0000,0000,0000,,Yagiri Pharmaceuticals, huh?
+Dialogue: 0,0:01:19.44,0:01:22.93,Default,,0000,0000,0000,,Is this really where they're doing\Nthe human experiments?
+Dialogue: 0,0:01:22.93,0:01:24.82,Default,,0000,0000,0000,,It's not Harima Mika...
+Dialogue: 0,0:01:24.82,0:01:28.40,Default,,0000,0000,0000,,Use as much money, any way you like.
+Dialogue: 0,0:01:28.40,0:01:32.65,Default,,0000,0000,0000,,You and I, right now, are eternity.\NI love you, Celty.
+Dialogue: 0,0:02:08.96,0:02:11.48,Default,,0000,0000,0000,,They're all fake.
+Dialogue: 0,0:02:11.73,0:02:14.31,Default,,0000,0000,0000,,The world's filled with them.
+Dialogue: 0,0:02:14.31,0:02:16.92,Default,,0000,0000,0000,,They say they love you, they cherish you,
+Dialogue: 0,0:02:16.92,0:02:18.63,Default,,0000,0000,0000,,but they just try to hold you down.
+Dialogue: 0,0:02:18.63,0:02:20.54,Default,,0000,0000,0000,,"Look at me."
+Dialogue: 0,0:02:20.54,0:02:21.69,Default,,0000,0000,0000,,"Stay by me."
+Dialogue: 0,0:02:21.69,0:02:23.06,Default,,0000,0000,0000,,They take.
+Dialogue: 0,0:02:23.06,0:02:24.94,Default,,0000,0000,0000,,They make themselves dependent on you.
+Dialogue: 0,0:02:25.57,0:02:27.29,Default,,0000,0000,0000,,My love is different.
+Dialogue: 0,0:02:30.98,0:02:34.71,Default,,0000,0000,0000,,It's a greater, more perfect thing...
+Dialogue: 0,0:02:42.79,0:02:44.48,Default,,0000,0000,0000,,I know, Sis.
+Dialogue: 0,0:02:44.88,0:02:46.11,Default,,0000,0000,0000,,Thanks for the deposit.
+Dialogue: 0,0:02:46.11,0:02:47.48,Default,,0000,0000,0000,,See you.
+Dialogue: 0,0:02:49.76,0:02:52.55,Default,,0000,0000,0000,,Want me to get you something to drink?
+Dialogue: 0,0:02:53.70,0:02:57.01,Default,,0000,0000,0000,,There's a vending machine\Nright over there.
+Dialogue: 0,0:03:02.02,0:03:03.07,Default,,0000,0000,0000,,Wait a second.
+Dialogue: 0,0:03:34.42,0:03:36.09,Default,,0000,0000,0000,,You're so pretty.
+Dialogue: 0,0:03:36.92,0:03:38.90,Title1,,0000,0000,0000,,Love and
+Dialogue: 0,0:03:36.92,0:03:38.90,Title2,,0000,0000,0000,,Cherish
+Dialogue: 0,0:03:41.79,0:03:43.41,Default,,0000,0000,0000,,You still haven't found them?
+Dialogue: 0,0:03:43.73,0:03:46.30,Default,,0000,0000,0000,,No. I'm sorry.
+Dialogue: 0,0:03:46.73,0:03:49.16,Default,,0000,0000,0000,,What the hell was their watcher doing?
+Dialogue: 0,0:03:49.49,0:03:51.51,Default,,0000,0000,0000,,According to the person on duty,
+Dialogue: 0,0:03:51.51,0:03:54.29,Default,,0000,0000,0000,,they'd been staying at the same\Nhotel for several nights,
+Dialogue: 0,0:03:54.29,0:03:57.71,Default,,0000,0000,0000,,but late last night,\NSeiji-san changed locations.
+Dialogue: 0,0:03:57.71,0:04:01.08,Default,,0000,0000,0000,,He was still answering his\Nphone around seven!
+Dialogue: 0,0:04:01.61,0:04:03.09,Default,,0000,0000,0000,,If something happens to him...
+Dialogue: 0,0:04:05.06,0:04:08.78,Default,,0000,0000,0000,,He promised not to leave Ikebukuro,
+Dialogue: 0,0:04:08.78,0:04:10.76,Default,,0000,0000,0000,,so I think we'll find him soon.
+Dialogue: 0,0:04:11.05,0:04:12.25,Default,,0000,0000,0000,,Listen!
+Dialogue: 0,0:04:12.25,0:04:16.23,Default,,0000,0000,0000,,What do you think will happen\Nif the police find that thing?!
+Dialogue: 0,0:04:17.08,0:04:18.23,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:04:19.06,0:04:20.43,Default,,0000,0000,0000,,Enough.
+Dialogue: 0,0:04:21.26,0:04:23.47,Default,,0000,0000,0000,,I can't wait for you people.
+Dialogue: 0,0:04:23.84,0:04:24.91,Default,,0000,0000,0000,,Chief!
+Dialogue: 0,0:04:24.91,0:04:26.78,Default,,0000,0000,0000,,I'll be back soon.
+Dialogue: 0,0:04:28.89,0:04:32.97,Default,,0000,0000,0000,,To me, it was just a doll.
+Dialogue: 0,0:04:34.10,0:04:39.80,Default,,0000,0000,0000,,An expensive, beautiful foreign doll,\Nlike my uncle used to buy me.
+Dialogue: 0,0:04:40.43,0:04:44.05,Default,,0000,0000,0000,,Even as a child, I never liked dolls.
+Dialogue: 0,0:04:45.20,0:04:48.72,Default,,0000,0000,0000,,I think he was just sending\Nme ones he liked,
+Dialogue: 0,0:04:48.72,0:04:53.68,Default,,0000,0000,0000,,without caring whether they\Nwould make me happy.
+Dialogue: 0,0:04:58.51,0:05:00.65,Default,,0000,0000,0000,,Seiji, look!
+Dialogue: 0,0:05:01.69,0:05:03.49,Default,,0000,0000,0000,,Pretty, huh?
+Dialogue: 0,0:05:12.02,0:05:13.77,Default,,0000,0000,0000,,Now, what is this?
+Dialogue: 0,0:05:13.77,0:05:14.96,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:05:14.96,0:05:17.57,Default,,0000,0000,0000,,Silence filled the inside of the house,
+Dialogue: 0,0:05:17.57,0:05:20.29,Default,,0000,0000,0000,,and Seiji and I were always alone.
+Dialogue: 0,0:05:20.29,0:05:25.32,Default,,0000,0000,0000,,Even before my brother was born,\NI was sent to my uncle's house a lot,
+Dialogue: 0,0:05:25.32,0:05:27.76,Default,,0000,0000,0000,,and I went in and out of his study often.
+Dialogue: 0,0:05:31.71,0:05:34.60,Default,,0000,0000,0000,,And there it was...
+Dialogue: 0,0:05:36.54,0:05:39.77,Default,,0000,0000,0000,,I'd heard that it was smuggled in\Nfrom outside the country.
+Dialogue: 0,0:05:39.77,0:05:42.78,Default,,0000,0000,0000,,My uncle seemed possessed by it.
+Dialogue: 0,0:05:42.78,0:05:45.49,Default,,0000,0000,0000,,Sometimes he even spoke to it.
+Dialogue: 0,0:05:46.81,0:05:49.19,Default,,0000,0000,0000,,It was beautiful indeed,
+Dialogue: 0,0:05:49.19,0:05:51.45,Default,,0000,0000,0000,,more so than any doll my\Nuncle had given me.
+Dialogue: 0,0:05:52.65,0:05:55.43,Default,,0000,0000,0000,,Strangely enough, there was\Nno hint of brutality to it,
+Dialogue: 0,0:05:55.43,0:05:59.33,Default,,0000,0000,0000,,as though the head were,\Nitself, complete.
+Dialogue: 0,0:06:00.44,0:06:02.83,Default,,0000,0000,0000,,But to me, that's all it was.
+Dialogue: 0,0:06:05.21,0:06:09.18,Default,,0000,0000,0000,,So that day, when I secretly invited\Nmy brother into the study,
+Dialogue: 0,0:06:09.92,0:06:12.18,Default,,0000,0000,0000,,it was just for play.
+Dialogue: 0,0:06:12.87,0:06:15.68,Default,,0000,0000,0000,,Perhaps I'd simply wanted someone\Nto share the secret with.
+Dialogue: 0,0:06:17.10,0:06:18.69,Default,,0000,0000,0000,,Pretty, isn't it?
+Dialogue: 0,0:06:31.87,0:06:34.32,Default,,0000,0000,0000,,That was the beginning of everything.
+Dialogue: 0,0:06:34.32,0:06:39.25,Default,,0000,0000,0000,,{\fad(1,1000)}My one regret, which\Ncontinues to this day...
+Dialogue: 0,0:06:51.03,0:06:53.40,Default,,0000,0000,0000,,This is our first time meeting, isn't it?
+Dialogue: 0,0:06:53.40,0:06:57.80,Default,,0000,0000,0000,,Was that list of illegal aliens\Nuseful, Yagiri Namie-san?
+Dialogue: 0,0:06:59.54,0:07:07.36,Default,,0000,0000,0000,,I'm honored to have the sixth chief of\NYagiri Pharmaceuticals come out here.
+Dialogue: 0,0:07:07.36,0:07:10.28,Default,,0000,0000,0000,,Take a seat.
+Dialogue: 0,0:07:14.19,0:07:15.59,Default,,0000,0000,0000,,It's an emergency.
+Dialogue: 0,0:07:15.59,0:07:16.99,Default,,0000,0000,0000,,Find my brother!
+Dialogue: 0,0:07:19.00,0:07:21.44,Default,,0000,0000,0000,,I'll pay as much as you'd like.
+Dialogue: 0,0:07:21.97,0:07:24.41,Default,,0000,0000,0000,,I haven't been able to contact\Nhim since last night.
+Dialogue: 0,0:07:24.41,0:07:26.21,Default,,0000,0000,0000,,He should still be somewhere\Nin Ikebukuro.
+Dialogue: 0,0:07:26.21,0:07:28.72,Default,,0000,0000,0000,,It hasn't been that long.
+Dialogue: 0,0:07:28.72,0:07:30.51,Default,,0000,0000,0000,,Why so worried?
+Dialogue: 0,0:07:30.87,0:07:32.66,Default,,0000,0000,0000,,He's with a woman,
+Dialogue: 0,0:07:32.66,0:07:34.76,Default,,0000,0000,0000,,a woman with a scar around her neck.
+Dialogue: 0,0:07:35.08,0:07:36.44,Default,,0000,0000,0000,,A woman.
+Dialogue: 0,0:07:36.44,0:07:39.02,Default,,0000,0000,0000,,He's about the right age.
+Dialogue: 0,0:07:39.02,0:07:40.74,Default,,0000,0000,0000,,Get started now!
+Dialogue: 0,0:07:40.74,0:07:42.30,Default,,0000,0000,0000,,Wait a second!
+Dialogue: 0,0:07:42.80,0:07:47.25,Default,,0000,0000,0000,,Aren't there other important things\Nyou should be investigating?
+Dialogue: 0,0:07:47.66,0:07:54.01,Default,,0000,0000,0000,,There's a rumor that the foreign company\NNebra might buy you out.
+Dialogue: 0,0:07:54.01,0:07:55.63,Default,,0000,0000,0000,,That would mean that your position-
+Dialogue: 0,0:07:55.63,0:07:59.16,Default,,0000,0000,0000,,Orihara Izaya-san, I don't\Nhave time to talk!
+Dialogue: 0,0:07:59.62,0:08:01.92,Default,,0000,0000,0000,,Surprising.
+Dialogue: 0,0:08:01.92,0:08:05.17,Default,,0000,0000,0000,,I didn't think a talented woman like you\Nwould fall for her brother.
+Dialogue: 0,0:08:05.86,0:08:07.67,Default,,0000,0000,0000,,What do you know about me?
+Dialogue: 0,0:08:08.12,0:08:11.30,Default,,0000,0000,0000,,The Yagiri Namie I know\Nis a great woman.
+Dialogue: 0,0:08:11.75,0:08:17.54,Default,,0000,0000,0000,,But your dad screwed up and\Nlost his own family company,
+Dialogue: 0,0:08:17.54,0:08:20.89,Default,,0000,0000,0000,,and the current president\Nis quite reserved...
+Dialogue: 0,0:08:21.33,0:08:24.76,Default,,0000,0000,0000,,But you entered the company\Non your own and
+Dialogue: 0,0:08:24.76,0:08:26.90,Default,,0000,0000,0000,,worked your way up to\Nyour present position.
+Dialogue: 0,0:08:27.30,0:08:28.90,Default,,0000,0000,0000,,And you're so cute.
+Dialogue: 0,0:08:30.36,0:08:32.59,Default,,0000,0000,0000,,I guess you do know me well.
+Dialogue: 0,0:08:32.59,0:08:35.70,Default,,0000,0000,0000,,Since you're that talented, you'll have\Nno problem finding my brother.
+Dialogue: 0,0:08:36.14,0:08:38.51,Default,,0000,0000,0000,,Your brother, right...
+Dialogue: 0,0:08:38.51,0:08:41.00,Default,,0000,0000,0000,,You shouldn't meddle\Ntoo much, you know.
+Dialogue: 0,0:08:41.28,0:08:43.35,Default,,0000,0000,0000,,I'm not meddling!
+Dialogue: 0,0:08:43.35,0:08:45.87,Default,,0000,0000,0000,,I'm the only one who can protect him.
+Dialogue: 0,0:08:46.20,0:08:50.43,Default,,0000,0000,0000,,Stalkers are always the only ones who\Ndon't know what they're doing.
+Dialogue: 0,0:08:50.43,0:08:52.59,Default,,0000,0000,0000,,They always think they're\Nprotecting the person-
+Dialogue: 0,0:08:52.86,0:08:55.34,Default,,0000,0000,0000,,Don't compare me to a stalker!
+Dialogue: 0,0:08:55.73,0:08:57.12,Default,,0000,0000,0000,,Scary!
+Dialogue: 0,0:08:57.12,0:08:58.85,Default,,0000,0000,0000,,I was kidding.
+Dialogue: 0,0:08:59.19,0:09:01.06,Default,,0000,0000,0000,,OK, I'll help.
+Dialogue: 0,0:09:01.06,0:09:03.37,Default,,0000,0000,0000,,But in my own way.
+Dialogue: 0,0:09:03.37,0:09:05.85,Default,,0000,0000,0000,,I'm not the cops or an information broker.
+Dialogue: 0,0:09:14.21,0:09:16.25,Default,,0000,0000,0000,,What kind of rules does that have?
+Dialogue: 0,0:09:17.03,0:09:22.33,Default,,0000,0000,0000,,Question: are you jealous of the girl\Nwith the scar on her neck?
+Dialogue: 0,0:09:23.09,0:09:24.16,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:09:29.18,0:09:31.58,Default,,0000,0000,0000,,I can't be jealous of her!
+Dialogue: 0,0:09:32.47,0:09:36.68,Default,,0000,0000,0000,,The rust-red jealousy in my heart is...
+Dialogue: 0,0:09:36.68,0:09:40.68,Default,,0000,0000,0000,,Sister... There's a girl I like.
+Dialogue: 0,0:09:42.39,0:09:46.38,Default,,0000,0000,0000,,I knew Seiji was getting\Nstranger and stranger.
+Dialogue: 0,0:09:46.75,0:09:49.03,Default,,0000,0000,0000,,He kept wanting to go\Ninto my uncle's study,
+Dialogue: 0,0:09:49.03,0:09:53.19,Default,,0000,0000,0000,,and when he snuck in,\Nhe'd stare at it for hours.
+Dialogue: 0,0:09:53.19,0:09:55.84,Default,,0000,0000,0000,,It wasn't a person he loved.
+Dialogue: 0,0:09:55.84,0:09:58.80,Default,,0000,0000,0000,,There was no heart, not even a body.
+Dialogue: 0,0:10:05.15,0:10:07.67,Default,,0000,0000,0000,,I wanted to get it away from him,
+Dialogue: 0,0:10:07.67,0:10:14.54,Default,,0000,0000,0000,,so as soon as I joined the company, I brought\Nit into work for research purposes.
+Dialogue: 0,0:10:18.58,0:10:20.03,Default,,0000,0000,0000,,And then it happened.
+Dialogue: 0,0:10:20.03,0:10:22.21,Default,,0000,0000,0000,,Nebra began contacting us,
+Dialogue: 0,0:10:22.21,0:10:26.02,Default,,0000,0000,0000,,and I was working my hardest\Nto prevent research leaks.
+Dialogue: 0,0:10:26.02,0:10:28.50,Default,,0000,0000,0000,,{\fad(1,1000)}Then a security\Ncard was stolen.
+Dialogue: 0,0:10:29.10,0:10:31.63,Default,,0000,0000,0000,,A card I alone owned.
+Dialogue: 0,0:10:39.30,0:10:44.74,Default,,0000,0000,0000,,Sister, I might have killed someone...
+Dialogue: 0,0:10:45.24,0:10:46.51,Default,,0000,0000,0000,,What should I do?
+Dialogue: 0,0:10:47.00,0:10:53.99,Default,,0000,0000,0000,,What I felt then was not fear or anger,\Nbut endless pleasure.
+Dialogue: 0,0:10:53.99,0:10:56.76,Default,,0000,0000,0000,,I was the one Seiji relied on.
+Dialogue: 0,0:11:10.62,0:11:13.90,Default,,0000,0000,0000,,You don't need to worry about a thing.
+Dialogue: 0,0:11:13.90,0:11:17.26,Default,,0000,0000,0000,,Leave it all to me, OK?
+Dialogue: 0,0:11:17.93,0:11:21.49,Default,,0000,0000,0000,,I've got a question about\Nher. Not this girl...
+Dialogue: 0,0:11:21.92,0:11:24.49,Default,,0000,0000,0000,,So you were the one who took it.
+Dialogue: 0,0:11:24.95,0:11:26.52,Default,,0000,0000,0000,,It's all right.
+Dialogue: 0,0:11:26.52,0:11:29.27,Default,,0000,0000,0000,,Leave her to me, too.
+Dialogue: 0,0:11:29.27,0:11:30.78,Default,,0000,0000,0000,,It's all right.
+Dialogue: 0,0:11:30.78,0:11:32.23,Default,,0000,0000,0000,,It'll be fine.
+Dialogue: 0,0:11:34.18,0:11:36.01,Default,,0000,0000,0000,,At the time, I didn't know that
+Dialogue: 0,0:11:36.01,0:11:42.26,Default,,0000,0000,0000,,Seiji was being followed by a foolish\Nstalker named Harima Mika.
+Dialogue: 0,0:11:42.97,0:11:46.84,Default,,0000,0000,0000,,{\fad(1,850)}She'd snuck into his\Nroom and seen it.
+Dialogue: 0,0:11:48.12,0:11:52.20,Default,,0000,0000,0000,,To protect you, I'll use whatever\Nmethods I must.
+Dialogue: 0,0:11:52.20,0:11:53.52,Default,,0000,0000,0000,,Right, right.
+Dialogue: 0,0:11:54.26,0:11:57.29,Default,,0000,0000,0000,,It doesn't seem like that big a problem.
+Dialogue: 0,0:11:57.29,0:12:00.86,Default,,0000,0000,0000,,The cops have him.\NThey'll probably call you in a second.
+Dialogue: 0,0:12:02.48,0:12:07.21,Default,,0000,0000,0000,,It's probably no big deal, though.
+Dialogue: 0,0:12:07.21,0:12:08.20,Default,,0000,0000,0000,,Probably...
+Dialogue: 0,0:12:08.36,0:12:09.96,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:12:14.13,0:12:15.30,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:12:15.99,0:12:17.46,Default,,0000,0000,0000,,Yes, that's right.
+Dialogue: 0,0:12:30.98,0:12:34.06,SignA,,0000,0000,0000,,Be careful. You're still\Nbeing chased.\NWhere are you?
+Dialogue: 0,0:12:41.12,0:12:42.03,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:42.03,0:12:42.90,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:12:44.72,0:12:46.02,Default,,0000,0000,0000,,We're leaving?
+Dialogue: 0,0:12:46.02,0:12:47.95,Default,,0000,0000,0000,,But we haven't...
+Dialogue: 0,0:12:47.95,0:12:49.23,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:12:53.96,0:12:57.67,Default,,0000,0000,0000,,I'm happy you love me so much.
+Dialogue: 0,0:12:58.07,0:13:00.24,Default,,0000,0000,0000,,I love you.
+Dialogue: 0,0:13:00.24,0:13:03.02,Default,,0000,0000,0000,,I always will.
+Dialogue: 0,0:13:04.09,0:13:05.73,Default,,0000,0000,0000,,I'm scared.
+Dialogue: 0,0:13:05.73,0:13:06.93,Default,,0000,0000,0000,,Of what?
+Dialogue: 0,0:13:06.93,0:13:08.93,Default,,0000,0000,0000,,Please! Let's go somewhere far away!
+Dialogue: 0,0:13:09.87,0:13:12.70,Default,,0000,0000,0000,,I want to be with you.
+Dialogue: 0,0:13:12.70,0:13:14.42,Default,,0000,0000,0000,,But where?
+Dialogue: 0,0:13:16.02,0:13:17.44,Default,,0000,0000,0000,,What the heck?
+Dialogue: 0,0:13:18.05,0:13:19.44,Default,,0000,0000,0000,,A lover's quarrel?
+Dialogue: 0,0:13:43.13,0:13:44.53,Default,,0000,0000,0000,,St-Stop!
+Dialogue: 0,0:13:45.85,0:13:47.70,Default,,0000,0000,0000,,Calm down.
+Dialogue: 0,0:13:47.70,0:13:50.33,Default,,0000,0000,0000,,We're not going to hurt you.
+Dialogue: 0,0:13:51.69,0:13:52.89,Default,,0000,0000,0000,,Listen to us.
+Dialogue: 0,0:13:53.20,0:13:53.99,Default,,0000,0000,0000,,Let go-
+Dialogue: 0,0:14:06.22,0:14:07.70,Default,,0000,0000,0000,,Let go of her!
+Dialogue: 0,0:14:11.82,0:14:13.95,Default,,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:14:13.95,0:14:15.15,Default,,0000,0000,0000,,It doesn't hurt.
+Dialogue: 0,0:14:15.15,0:14:15.79,Default,,0000,0000,0000,,Go.
+Dialogue: 0,0:14:16.14,0:14:19.77,Default,,0000,0000,0000,,I don't know what's going on,\Nbut you have to chase her, right?
+Dialogue: 0,0:14:21.88,0:14:23.75,Default,,0000,0000,0000,,I've always wanted to say this.
+Dialogue: 0,0:14:23.75,0:14:26.47,Default,,0000,0000,0000,,"Leave this to me! You go on ahead!"
+Dialogue: 0,0:14:28.23,0:14:29.39,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:14:52.19,0:14:53.90,Default,,0000,0000,0000,,E-Excuse me.
+Dialogue: 0,0:14:53.90,0:14:55.29,Default,,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:14:57.43,0:14:59.02,Default,,0000,0000,0000,,You're-
+Dialogue: 0,0:15:03.25,0:15:05.09,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:15:07.21,0:15:09.01,Default,,0000,0000,0000,,No! You wait!
+Dialogue: 0,0:15:12.20,0:15:13.35,Default,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:15:13.35,0:15:14.56,Default,,0000,0000,0000,,Let me go, I said.
+Dialogue: 0,0:15:15.63,0:15:17.56,Default,,0000,0000,0000,,Is she your girlfriend?
+Dialogue: 0,0:15:17.56,0:15:18.53,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:15:18.53,0:15:20.06,Default,,0000,0000,0000,,Fate brought us together!
+Dialogue: 0,0:15:20.28,0:15:22.27,Default,,0000,0000,0000,,Why is she like that?
+Dialogue: 0,0:15:22.27,0:15:23.56,Default,,0000,0000,0000,,Hell if I know!
+Dialogue: 0,0:15:24.79,0:15:28.44,Default,,0000,0000,0000,,{\i1}What the hell does that mean?!{\i0}
+Dialogue: 0,0:15:39.83,0:15:42.95,Default,,0000,0000,0000,,You love her, but you don't know\Nanything about her?
+Dialogue: 0,0:15:42.95,0:15:44.88,Default,,0000,0000,0000,,Isn't that a little irresponsible?
+Dialogue: 0,0:15:46.53,0:15:49.97,Default,,0000,0000,0000,,That has nothing to do with loving her!
+Dialogue: 0,0:15:51.27,0:15:52.52,Default,,0000,0000,0000,,Then what?
+Dialogue: 0,0:15:52.52,0:15:54.47,Default,,0000,0000,0000,,Why'd fate bring you together?
+Dialogue: 0,0:15:54.47,0:15:56.46,Default,,0000,0000,0000,,Because I love her!
+Dialogue: 0,0:15:56.46,0:15:58.08,Default,,0000,0000,0000,,There's no other reason!
+Dialogue: 0,0:15:58.08,0:16:01.48,Default,,0000,0000,0000,,You can't express love in words!
+Dialogue: 0,0:16:03.84,0:16:05.48,Default,,0000,0000,0000,,So I...
+Dialogue: 0,0:16:14.28,0:16:16.40,Default,,0000,0000,0000,,I'll show it with my actions!
+Dialogue: 0,0:16:16.40,0:16:17.90,Default,,0000,0000,0000,,I'll protect her!
+Dialogue: 0,0:16:17.90,0:16:19.50,Default,,0000,0000,0000,,That's all!
+Dialogue: 0,0:16:22.01,0:16:24.27,Default,,0000,0000,0000,,I like you a lot more than Izaya,
+Dialogue: 0,0:16:24.27,0:16:27.42,Default,,0000,0000,0000,,so I'll let you off with this!
+Dialogue: 0,0:16:36.01,0:16:38.78,Default,,0000,0000,0000,,This'll bleed if I take it out.
+Dialogue: 0,0:16:39.82,0:16:41.69,Default,,0000,0000,0000,,Better buy a band-aid first.
+Dialogue: 0,0:16:41.69,0:16:44.49,Default,,0000,0000,0000,,No, maybe some super glue would be better.
+Dialogue: 0,0:16:53.57,0:16:57.57,Default,,0000,0000,0000,,So basically, your head was\Nwalking along, attached to a body,
+Dialogue: 0,0:16:57.57,0:17:00.40,Default,,0000,0000,0000,,and you grabbed her but were\Ninterrupted by a high school kid.
+Dialogue: 0,0:17:00.40,0:17:03.71,Default,,0000,0000,0000,,You chased her, but then another\Nhigh school kid appeared,
+Dialogue: 0,0:17:03.71,0:17:06.36,Default,,0000,0000,0000,,and they took your head away.
+Dialogue: 0,0:17:06.36,0:17:08.82,Default,,0000,0000,0000,,You expect me to believe that?
+Dialogue: 0,0:17:10.37,0:17:12.65,Default,,0000,0000,0000,,I won't force you to believe it.
+Dialogue: 0,0:17:12.65,0:17:13.91,Default,,0000,0000,0000,,I believe it.
+Dialogue: 0,0:17:13.91,0:17:16.09,Default,,0000,0000,0000,,But what was Shizuo-kun doing there?
+Dialogue: 0,0:17:16.09,0:17:21.59,Default,,0000,0000,0000,,I'd forgotten, but Izaya had asked me to\Nbe in the park, on standby, for a job.
+Dialogue: 0,0:17:21.59,0:17:24.94,Default,,0000,0000,0000,,And he stopped by, and we had a chat.
+Dialogue: 0,0:17:26.47,0:17:31.49,Default,,0000,0000,0000,,I later heard that the job\Nitself was canceled.
+Dialogue: 0,0:17:33.05,0:17:35.21,Default,,0000,0000,0000,,Orihara-kun, huh?
+Dialogue: 0,0:17:36.02,0:17:38.37,Default,,0000,0000,0000,,Anyway, I wanted to talk to you...
+Dialogue: 0,0:17:38.79,0:17:40.85,Default,,0000,0000,0000,,You're still confused.
+Dialogue: 0,0:17:40.85,0:17:43.09,Default,,0000,0000,0000,,I'll talk to you as much as you want.
+Dialogue: 0,0:17:46.36,0:17:50.21,Default,,0000,0000,0000,,{\i1}Why does some other\Nbody have my head?!{\i0}
+Dialogue: 0,0:17:50.52,0:17:55.40,Default,,0000,0000,0000,,There's no answer I could give\Nthat would be entirely clear,
+Dialogue: 0,0:17:55.40,0:17:57.09,Default,,0000,0000,0000,,but if you'd like a guess...
+Dialogue: 0,0:17:57.63,0:17:58.80,Default,,0000,0000,0000,,Like maybe...
+Dialogue: 0,0:18:00.42,0:18:05.59,Default,,0000,0000,0000,,It found some other body around\Nthe right size and changed bodies!
+Dialogue: 0,0:18:06.86,0:18:08.15,Default,,0000,0000,0000,,How terrifying...
+Dialogue: 0,0:18:08.48,0:18:10.90,Default,,0000,0000,0000,,Maybe there was a fresh corpse\Nor something it found?
+Dialogue: 0,0:18:12.32,0:18:13.53,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:18:14.35,0:18:16.05,Default,,0000,0000,0000,,Yeah. But...
+Dialogue: 0,0:18:16.05,0:18:19.50,Default,,0000,0000,0000,,Is that... Is that even possible?
+Dialogue: 0,0:18:20.81,0:18:25.42,Default,,0000,0000,0000,,What I did wasn't wrong.
+Dialogue: 0,0:18:25.42,0:18:27.27,Default,,0000,0000,0000,,After that experiment,
+Dialogue: 0,0:18:27.27,0:18:30.33,Default,,0000,0000,0000,,{\fad(1,800)}when I made her for him...
+Dialogue: 0,0:18:30.99,0:18:32.21,Default,,0000,0000,0000,,I have to go.
+Dialogue: 0,0:18:32.21,0:18:33.50,Default,,0000,0000,0000,,It's fine.
+Dialogue: 0,0:18:33.50,0:18:35.68,Default,,0000,0000,0000,,It's all right now.
+Dialogue: 0,0:18:33.81,0:18:37.63,Default,,0000,0000,0000,,She... She's...
+Dialogue: 0,0:18:35.68,0:18:37.59,Default,,0000,0000,0000,,You must have been scared.
+Dialogue: 0,0:18:37.59,0:18:39.36,Default,,0000,0000,0000,,But see? Nothing happened.
+Dialogue: 0,0:18:39.36,0:18:46.30,Default,,0000,0000,0000,,Even when she ran away and joined Seiji,\Nmy love didn't change.
+Dialogue: 0,0:18:46.83,0:18:50.09,Default,,0000,0000,0000,,Seiji's love exists because it\Ntakes advantage of mine.
+Dialogue: 0,0:18:50.09,0:18:55.19,Default,,0000,0000,0000,,And Seiji knows this,\Nand I know he knows.
+Dialogue: 0,0:18:55.19,0:18:58.28,Default,,0000,0000,0000,,It's all twisted, but even so...
+Dialogue: 0,0:18:58.55,0:19:03.95,Default,,0000,0000,0000,,Damn! A Raira Academy\Nuniform... Who was he?
+Dialogue: 0,0:19:04.73,0:19:06.46,Default,,0000,0000,0000,,I know who it was.
+Dialogue: 0,0:19:06.46,0:19:07.45,Default,,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:19:08.07,0:19:10.75,Default,,0000,0000,0000,,Anyway, I need to find the kid from Raira.
+Dialogue: 0,0:19:10.75,0:19:12.98,Default,,0000,0000,0000,,Then I need to talk to my head.
+Dialogue: 0,0:19:12.98,0:19:16.32,Default,,0000,0000,0000,,The head that screamed when it saw you?
+Dialogue: 0,0:19:18.62,0:19:22.48,Default,,0000,0000,0000,,It's living on its own.\NWhat will you do with it?
+Dialogue: 0,0:19:22.99,0:19:26.97,Default,,0000,0000,0000,,Are you going to rip it off its body?
+Dialogue: 0,0:19:30.70,0:19:31.98,Default,,0000,0000,0000,,Celty...
+Dialogue: 0,0:19:33.57,0:19:38.49,Default,,0000,0000,0000,,I don't want to admit it...\NThat my head and memories are gone.
+Dialogue: 0,0:19:39.20,0:19:43.76,Default,,0000,0000,0000,,That everything I've done over the\Npast twenty years has been useless.
+Dialogue: 0,0:19:45.76,0:19:47.60,Default,,0000,0000,0000,,It wasn't useless at all.
+Dialogue: 0,0:19:48.51,0:19:51.68,Default,,0000,0000,0000,,I'll get her back,
+Dialogue: 0,0:19:51.68,0:19:53.97,Default,,0000,0000,0000,,so you wait here. All right?
+Dialogue: 0,0:19:57.47,0:19:58.68,Default,,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:19:59.19,0:20:00.31,Default,,0000,0000,0000,,Where's your phone?
+Dialogue: 0,0:20:00.31,0:20:01.59,Default,,0000,0000,0000,,Did you drop it?
+Dialogue: 0,0:20:02.62,0:20:04.08,Default,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:20:04.08,0:20:07.01,Default,,0000,0000,0000,,It was gone, even though\NI put it in my bag.
+Dialogue: 0,0:20:08.05,0:20:11.46,Default,,0000,0000,0000,,She needs me!
+Dialogue: 0,0:20:11.46,0:20:13.78,Default,,0000,0000,0000,,We need to be together!
+Dialogue: 0,0:20:13.78,0:20:16.51,Default,,0000,0000,0000,,Yeah. Yeah, that's right.
+Dialogue: 0,0:20:16.51,0:20:17.79,Default,,0000,0000,0000,,It's fine.
+Dialogue: 0,0:20:17.79,0:20:19.80,Default,,0000,0000,0000,,Leave it all to me.
+Dialogue: 0,0:20:24.41,0:20:26.54,Default,,0000,0000,0000,,How annoying.
+Dialogue: 0,0:20:29.14,0:20:33.93,Default,,0000,0000,0000,,A doll should behave like\Na doll and stay put,
+Dialogue: 0,0:20:33.93,0:20:36.34,Default,,0000,0000,0000,,not interfere with my love.
+Dialogue: 0,0:20:37.50,0:20:38.76,Default,,0000,0000,0000,,I've decided...
+Dialogue: 0,0:20:38.76,0:20:42.22,Default,,0000,0000,0000,,I don't want to regret anything anymore.
+Dialogue: 0,0:20:43.81,0:20:47.72,Default,,0000,0000,0000,,Listen up. Round up everyone\Nunder you for this.
+Dialogue: 0,0:20:47.72,0:20:49.46,Default,,0000,0000,0000,,I don't care if they're alive or dead.
+Dialogue: 0,0:20:50.31,0:20:53.35,Default,,0000,0000,0000,,If necessary, eliminate them right away!
+Dialogue: 0,0:21:08.12,0:21:10.62,SignB,,0000,0000,0000,,Are you safe?\NWhere are you?
+Dialogue: 0,0:21:12.29,0:21:13.96,SignC,,0000,0000,0000,,Ryuugamine Mikado
+Dialogue: 0,0:21:18.84,0:21:22.13,SignD,,0000,0000,0000,,No one is in the chat room right now.\NNo one is in the chat room right now.\NNo one is in the chat room right now.
+Dialogue: 0,0:21:19.50,0:21:22.56,Default,,0000,0000,0000,,I see. You're all busy.
+Dialogue: 0,0:21:22.56,0:21:26.59,Default,,0000,0000,0000,,This'll be fun! This'll be fun! This'll be fun!
+Dialogue: 0,0:21:26.59,0:21:30.93,Default,,0000,0000,0000,,There's just so much in this town\Nthat even I don't know about!
+Dialogue: 0,0:21:30.93,0:21:32.39,Default,,0000,0000,0000,,It just comes and goes!
+Dialogue: 0,0:21:32.76,0:21:35.73,Default,,0000,0000,0000,,This is why I love the places\Nwhere humans gather.
+Dialogue: 0,0:21:36.15,0:21:37.78,Default,,0000,0000,0000,,I love people!
+Dialogue: 0,0:21:37.78,0:21:39.06,Default,,0000,0000,0000,,Love them!
+Dialogue: 0,0:21:39.06,0:21:40.22,Default,,0000,0000,0000,,{\i1}I love them all!{\i0}
+Dialogue: 0,0:21:40.22,0:21:42.25,Default,,0000,0000,0000,,And that's why...
+Dialogue: 0,0:21:43.81,0:21:48.62,Default,,0000,0000,0000,,The humans should love me, too.
+Dialogue: 0,0:21:55.80,0:21:57.05,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:21:57.05,0:21:58.79,Default,,0000,0000,0000,,Calmed down?
+Dialogue: 0,0:21:58.79,0:22:00.76,Default,,0000,0000,0000,,Can you answer my questions?
+Dialogue: 0,0:22:02.08,0:22:04.86,Default,,0000,0000,0000,,You said you don't remember\Nanything, right?
+Dialogue: 0,0:22:05.81,0:22:07.37,Default,,0000,0000,0000,,So you...
+Dialogue: 0,0:22:07.37,0:22:10.07,Default,,0000,0000,0000,,uh, have amnesia?
+Dialogue: 0,0:22:12.19,0:22:17.58,Default,,0000,0000,0000,,I ought to say it again... Shouldn't you\Ngo to the police or a hospital?
+Dialogue: 0,0:22:18.63,0:22:19.69,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:22:22.12,0:22:25.78,Default,,0000,0000,0000,,I'm sorry! I'm sorry! I'm sorry! I'm sorry!
+Dialogue: 0,0:22:23.62,0:22:26.99,Default,,0000,0000,0000,,It's OK. Don't apologize.
+Dialogue: 0,0:22:28.14,0:22:32.24,Default,,0000,0000,0000,,I have to go. Before that\Nperson stops me...
+Dialogue: 0,0:22:32.77,0:22:35.57,Default,,0000,0000,0000,,Forever, forever...
+Dialogue: 0,0:22:35.57,0:22:36.91,Default,,0000,0000,0000,,I have to go.
+Dialogue: 0,0:22:38.06,0:22:39.21,Default,,0000,0000,0000,,Seiji...
+Dialogue: 0,0:22:40.41,0:22:41.71,Default,,0000,0000,0000,,Seiji-san...
+Dialogue: 0,0:22:42.86,0:22:44.46,Default,,0000,0000,0000,,I love you.
+Dialogue: 0,0:24:12.47,0:24:14.89,Default-no margin,,0000,0000,0000,,This program is a work of fiction.\NAny resemblance to people, parties,\Nor situations is purely coincidental.
+Dialogue: 0,0:24:14.89,0:24:30.43,Title3,,0000,0000,0000,,Next Time\Non Durarara!!
+Dialogue: 0,0:24:14.89,0:24:30.43,Title4,,0000,0000,0000,,Never Before\NSeen
+Dialogue: 0,0:24:15.80,0:24:18.90,Default-no margin,,0000,0000,0000,,Um, the Headless Rider and Orihara Izaya,
+Dialogue: 0,0:24:18.90,0:24:21.58,Default-no margin,,0000,0000,0000,,and that girl with the scarred neck, all showed up again.
+Dialogue: 0,0:24:21.58,0:24:24.56,Default-no margin,,0000,0000,0000,,And then, the guy in the next class over is one of the Dollar's...
+Dialogue: 0,0:24:24.56,0:24:25.24,Default-no margin,,0000,0000,0000,,Next time:
+Dialogue: 0,0:24:25.24,0:24:26.73,Default-no margin,,0000,0000,0000,,Never Before Seen.
+Dialogue: 0,0:24:26.73,0:24:29.92,Default-no margin,,0000,0000,0000,,I dreamed of a life that wasn't normal, but...

@@ -1,0 +1,393 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Title1,Open Sans Semibold,50,&H008CFE84,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,13,260,13,0
+Style: Title2,Open Sans Semibold,50,&H00E4E4E4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,307,13,13,0
+Style: Title3,Open Sans Semibold,36,&H00F7EEF4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,13,67,0
+Style: Title4,Open Sans Semibold,39,&H000201D4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,13,67,67,0
+Style: Default-no margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default-normal bottom margin no l-r margins,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title - upper corner,Open Sans Semibold,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,9,7,7,13,1
+Style: SignA,Open Sans Semibold,39,&H002C2E2D,&H000000FF,&H00F3F3F3,&H00000000,1,0,0,0,100,100,0,0,1,2,1,1,27,27,27,0
+Style: SignB,Open Sans Semibold,39,&H00253C31,&H000000FF,&H00D0E8D7,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,1,1,27,0
+Style: SignC,Open Sans Semibold,39,&H00501619,&H000000FF,&H00D7BB64,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,1,1,27,0
+Style: SignD,Open Sans Semibold,39,&H00298175,&H000000FF,&H00989A8D,&H00000000,1,0,0,0,100,100,0,0,1,1,1,8,1,1,27,0
+Style: SignE,Open Sans Semibold,39,&H00501619,&H000000FF,&H00BBAB82,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,1,1,27,0
+Style: SignF,Open Sans Semibold,36,&H00501619,&H000000FF,&H00BBAB82,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,1,1,27,0
+Style: SignG,Open Sans Semibold,39,&H00EEEEEE,&H000000FF,&H00919191,&H00000000,1,0,0,0,100,100,0,0,1,2,1,9,13,13,27,0
+Style: SignH,Open Sans Semibold,39,&H0053534C,&H000000FF,&H00F3EEE8,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,13,13,27,0
+Style: SignI,Open Sans Semibold,39,&H00AFAFAF,&H000000FF,&H000A0A0A,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,13,13,27,0
+Style: SignJ,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,9,13,27,13,0
+Style: SignK,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,6,13,27,13,0
+Style: SignL,Open Sans Semibold,36,&H00505758,&H000000FF,&H00BBC5C8,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,27,13,0
+Style: SignM,Open Sans Semibold,39,&H007B00C8,&H000000FF,&H00C0C0C0,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,1,1,27,0
+Style: SignN,Open Sans Semibold,36,&H00505758,&H000000FF,&H00BBC5C8,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,13,27,13,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.72,0:01:04.87,Default,,0000,0000,0000,,The head of the Dollars is your beloved\Nbest friend, Ryuugamine Mikado-kun.
+Dialogue: 0,0:01:05.16,0:01:07.12,Default,,0000,0000,0000,,Take me to that meeting.
+Dialogue: 0,0:01:07.12,0:01:09.38,Default,,0000,0000,0000,,You want a fight, you'll get one.
+Dialogue: 0,0:01:09.38,0:01:11.38,Default,,0000,0000,0000,,If there's a group, within the Dollars,\Nworking with the Black Rider,
+Dialogue: 0,0:01:11.38,0:01:14.09,Default,,0000,0000,0000,,and they're attacking the Yellow Scarves...
+Dialogue: 0,0:01:14.09,0:01:17.55,Default,,0000,0000,0000,,It'll be a real gang war.
+Dialogue: 0,0:01:17.55,0:01:19.51,Default,,0000,0000,0000,,We'll eliminate you from reality!
+Dialogue: 0,0:01:19.51,0:01:22.51,Default,,0000,0000,0000,,We, the Yellow Scarves!
+Dialogue: 0,0:01:51.82,0:01:53.03,SignA,,0000,0000,0000,,Young Men Arrested for Vandalism
+Dialogue: 0,0:01:53.07,0:01:54.03,SignB,,0000,0000,0000,,I heard it was the Dollars.
+Dialogue: 0,0:01:54.07,0:01:55.03,SignB,,0000,0000,0000,,They took my money!\NSame here!
+Dialogue: 0,0:01:55.07,0:01:56.03,SignB,,0000,0000,0000,,The Dollars made me buy an expensive ring!
+Dialogue: 0,0:01:55.63,0:01:58.68,Default,,0000,0000,0000,,I didn't stop then.
+Dialogue: 0,0:01:56.07,0:01:56.55,SignC,,0000,0000,0000,,Dollars
+Dialogue: 0,0:01:56.55,0:01:57.28,SignM,,0000,0000,0000,,Dollars
+Dialogue: 0,0:02:01.06,0:02:04.26,Default,,0000,0000,0000,,Why didn't I...?
+Dialogue: 0,0:02:04.29,0:02:06.29,Title1,,0000,0000,0000,,Everything
+Dialogue: 0,0:02:04.29,0:02:06.29,Title2,,0000,0000,0000,,Covered in Fog
+Dialogue: 0,0:02:15.28,0:02:18.30,Default,,0000,0000,0000,,Masaomi... Did he say anything?
+Dialogue: 0,0:02:18.59,0:02:19.32,Default,,0000,0000,0000,,Kida?
+Dialogue: 0,0:02:19.93,0:02:22.31,Default,,0000,0000,0000,,He hasn't come by.
+Dialogue: 0,0:02:23.94,0:02:27.41,Default,,0000,0000,0000,,I don't suspect you.
+Dialogue: 0,0:02:27.80,0:02:30.54,Default,,0000,0000,0000,,You didn't tell anyone I was\Npart of the Dollars, right?
+Dialogue: 0,0:02:32.28,0:02:33.23,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:02:33.48,0:02:36.49,Default,,0000,0000,0000,,You shouldn't feel responsible.
+Dialogue: 0,0:02:40.17,0:02:43.05,Default,,0000,0000,0000,,I'm quitting the Dollars.
+Dialogue: 0,0:02:44.47,0:02:47.60,Default,,0000,0000,0000,,We ain't invisible anymore...
+Dialogue: 0,0:02:49.35,0:02:50.60,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:02:51.81,0:02:56.94,Default,,0000,0000,0000,,I was thinking. Are you part of the Dollars-
+Dialogue: 0,0:02:56.94,0:02:57.99,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:03:08.62,0:03:09.67,Default,,0000,0000,0000,,OK.
+Dialogue: 0,0:03:16.25,0:03:19.51,Default,,0000,0000,0000,,That day, he said...
+Dialogue: 0,0:03:25.64,0:03:30.81,Default,,0000,0000,0000,,{\i1}But once you're on the other side,\Nthree days of that, and it's the new normal.{\i0}
+Dialogue: 0,0:03:32.57,0:03:37.27,Default,,0000,0000,0000,,{\i1}If you really want to escape the everyday,\Nyou must constantly evolve.{\i0}
+Dialogue: 0,0:03:38.28,0:03:40.44,Default,,0000,0000,0000,,I decided I'd evolve.
+Dialogue: 0,0:03:41.30,0:03:42.45,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:03:45.47,0:03:47.43,SignD,,0000,0000,0000,,The Sky Has Fallen
+Dialogue: 0,0:03:47.74,0:03:50.58,Default,,0000,0000,0000,,This is the result.
+Dialogue: 0,0:03:59.31,0:04:01.72,Default,,0000,0000,0000,,Now connecting you to a voice\Nanswering service.
+Dialogue: 0,0:04:01.74,0:04:03.24,SignE,,0000,0000,0000,,Ryuugamine Mikado
+Dialogue: 0,0:04:04.03,0:04:06.26,Default,,0000,0000,0000,,So, you didn't hear me?
+Dialogue: 0,0:04:06.98,0:04:09.50,Default,,0000,0000,0000,,I told you, no little fights.
+Dialogue: 0,0:04:11.28,0:04:12.39,Default,,0000,0000,0000,,But-
+Dialogue: 0,0:04:15.56,0:04:17.77,Default,,0000,0000,0000,,I did say that, didn't I?
+Dialogue: 0,0:04:21.75,0:04:23.37,Default,,0000,0000,0000,,G-General!
+Dialogue: 0,0:04:23.37,0:04:25.11,Default,,0000,0000,0000,,You're OK with this?
+Dialogue: 0,0:04:29.73,0:04:32.96,Default,,0000,0000,0000,,We're sure the Headless Rider\Nbelongs to the Dollars!
+Dialogue: 0,0:04:33.71,0:04:37.21,Default,,0000,0000,0000,,We're just gonna do nothing and\Nlet them mess with us?!
+Dialogue: 0,0:04:40.44,0:04:47.18,Default,,0000,0000,0000,,And if we keep this up,\Nthe Dollars leader might show himself.
+Dialogue: 0,0:04:43.99,0:04:46.09,SignF,,0000,0000,0000,,Ryuugamine Mikado
+Dialogue: 0,0:04:51.61,0:04:55.41,Default,,0000,0000,0000,,I'll look into the leader\Nof the Dollars myself.
+Dialogue: 0,0:04:55.41,0:04:58.48,Default,,0000,0000,0000,,Until we know for sure, you stay put.
+Dialogue: 0,0:04:59.00,0:05:00.48,Default,,0000,0000,0000,,Got it?
+Dialogue: 0,0:05:02.79,0:05:06.55,Default,,0000,0000,0000,,Either way, it's too late to stop things.
+Dialogue: 0,0:05:09.89,0:05:10.69,Default,,0000,0000,0000,,<Setton> I see.
+Dialogue: 0,0:05:10.69,0:05:12.84,Default,,0000,0000,0000,,I know you're worried,
+Dialogue: 0,0:05:12.84,0:05:14.67,Default,,0000,0000,0000,,but there's no reason to be concerned.
+Dialogue: 0,0:05:14.67,0:05:17.12,Default,,0000,0000,0000,,Even if you hadn't done anything,\Nthis still might have happened.
+Dialogue: 0,0:05:18.98,0:05:20.25,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:05:20.25,0:05:24.26,Default,,0000,0000,0000,,Fights like that happen a lot in this town.
+Dialogue: 0,0:05:24.60,0:05:28.26,Default,,0000,0000,0000,,It isn't anyone's fault that someone\Nfrom your school was attacked.
+Dialogue: 0,0:05:28.65,0:05:30.27,Default,,0000,0000,0000,,So don't worry about it.
+Dialogue: 0,0:05:30.27,0:05:31.20,Default,,0000,0000,0000,,You're with the Dollars, right?
+Dialogue: 0,0:05:31.20,0:05:32.00,Default,,0000,0000,0000,,Aren't you?
+Dialogue: 0,0:05:32.00,0:05:33.28,Default,,0000,0000,0000,,Aren't you?
+Dialogue: 0,0:05:34.82,0:05:36.05,Default,,0000,0000,0000,,<Setton> Got it?
+Dialogue: 0,0:05:40.12,0:05:42.85,Default,,0000,0000,0000,,Then I'll drop out of private message mode.
+Dialogue: 0,0:05:42.85,0:05:43.87,Default,,0000,0000,0000,,OK?
+Dialogue: 0,0:05:47.55,0:05:49.01,Default,,0000,0000,0000,,{\a6}<Saika>
+Dialogue: 0,0:05:52.64,0:05:56.70,Default,,0000,0000,0000,,Hey! Are you gonna smack into me\Nwithout saying anything?
+Dialogue: 0,0:05:57.61,0:05:58.54,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:00.55,0:06:02.46,Default,,0000,0000,0000,,Heiwajima...
+Dialogue: 0,0:06:03.13,0:06:04.01,Default,,0000,0000,0000,,Shizu-
+Dialogue: 0,0:06:04.01,0:06:04.73,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:04.73,0:06:05.30,Default,,0000,0000,0000,,-o...
+Dialogue: 0,0:06:05.30,0:06:06.20,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:06:07.15,0:06:09.96,Default,,0000,0000,0000,,Man, the weather's sure nice today!
+Dialogue: 0,0:06:08.53,0:06:09.96,Default,,0000,0000,0000,,Hey, Shizuo.
+Dialogue: 0,0:06:10.89,0:06:12.18,Default,,0000,0000,0000,,Yo.
+Dialogue: 0,0:06:13.43,0:06:15.46,Default,,0000,0000,0000,,I hear he's part of the Dollars.
+Dialogue: 0,0:06:15.46,0:06:18.45,Default,,0000,0000,0000,,He was at the meeting six months ago.
+Dialogue: 0,0:06:18.45,0:06:19.57,Default,,0000,0000,0000,,Idiot!
+Dialogue: 0,0:06:19.57,0:06:23.19,Default,,0000,0000,0000,,You don't mess with Heiwajima Shizuo\Nor the black dude at Russia Sushi.
+Dialogue: 0,0:06:23.19,0:06:25.42,Default,,0000,0000,0000,,Not unless you want to die.
+Dialogue: 0,0:06:35.82,0:06:36.75,Default,,0000,0000,0000,,Yo.
+Dialogue: 0,0:06:41.81,0:06:42.95,Default,,0000,0000,0000,,Hi.
+Dialogue: 0,0:06:42.95,0:06:44.15,Default,,0000,0000,0000,,You alone?
+Dialogue: 0,0:06:44.15,0:06:45.81,Default,,0000,0000,0000,,Kida's not with you?
+Dialogue: 0,0:06:46.84,0:06:48.81,Default,,0000,0000,0000,,Did something happen with Masaomi?
+Dialogue: 0,0:06:49.51,0:06:50.74,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:06:50.74,0:06:52.68,Default,,0000,0000,0000,,It's dangerous to be out alone.
+Dialogue: 0,0:06:53.26,0:06:55.41,Default,,0000,0000,0000,,A Raira student got attacked.
+Dialogue: 0,0:06:56.74,0:06:58.02,Default,,0000,0000,0000,,You knew him?
+Dialogue: 0,0:07:00.38,0:07:01.38,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:07:03.62,0:07:04.77,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:07:05.27,0:07:08.28,Default,,0000,0000,0000,,Since the Slasher attacks,\Nthings have been crazy.
+Dialogue: 0,0:07:08.28,0:07:13.08,Default,,0000,0000,0000,,I heard the Yellow Scarves are\Ngoing after the Dollars.
+Dialogue: 0,0:07:13.87,0:07:16.41,Default,,0000,0000,0000,,The Dollars haven't reciprocated.
+Dialogue: 0,0:07:16.41,0:07:19.02,Default,,0000,0000,0000,,The boss hasn't given any orders.
+Dialogue: 0,0:07:19.76,0:07:23.32,Default,,0000,0000,0000,,A lot of people seem unhappy with that.
+Dialogue: 0,0:07:24.24,0:07:26.80,Default,,0000,0000,0000,,Those are just rumors, though.
+Dialogue: 0,0:07:29.86,0:07:32.32,Default,,0000,0000,0000,,Are you with the Dollars, Kadota-san?
+Dialogue: 0,0:07:33.09,0:07:35.10,Default,,0000,0000,0000,,Why do you ask?
+Dialogue: 0,0:07:36.33,0:07:40.95,Default,,0000,0000,0000,,I was wondering if it's really OK\Nfor the Dollars to exist.
+Dialogue: 0,0:07:41.57,0:07:45.19,Default,,0000,0000,0000,,Are they really needed?
+Dialogue: 0,0:07:48.29,0:07:49.76,Default,,0000,0000,0000,,I dunno.
+Dialogue: 0,0:07:50.97,0:07:53.43,SignG,,0000,0000,0000,,I can't go to Ikebukuro.\N\N\N\N\N\N\N\NI'm quitting the Dollars!\N\N\N\N\NThe Slasher's part of\Nthe Dollars, right?
+Dialogue: 0,0:07:53.43,0:07:54.93,SignG,,0000,0000,0000,,I'm quitting the Dollars!\N\N\N\NThe Slasher's part of\Nthe Dollars, right?\N\N\N\N\N\N\NWe're just gonna let the\NYellow Scarves do this to us?\N\N\N\N\NWe should hit back!
+Dialogue: 0,0:07:54.93,0:07:55.97,SignG,,0000,0000,0000,,We're just gonna let the\NYellow Scarves do this to us?\N\N\N\N\NWe should hit back!\N\N\N\N\N\N\NWhat the hell is\Nour leader doing?\N\NIsn't a leader for\Ntimes like these?
+Dialogue: 0,0:08:00.70,0:08:05.90,SignH,,0000,0000,0000,,I don't think violence is the answer.\NShouldn't we wait for things to calm down?
+Dialogue: 0,0:08:05.94,0:08:07.23,SignI,,0000,0000,0000,,Sending
+Dialogue: 0,0:08:09.99,0:08:12.45,SignG,,0000,0000,0000,,I got an e-mail just now!\N\N\N\N\N\NWho the heck?\NIs it the leader?\N\N\N\N\NHe wants us to\Ndo nothing?\N\N\NThen go work things out\Nwith the Yellow Scarves!
+Dialogue: 0,0:08:12.45,0:08:13.99,SignG,,0000,0000,0000,,He wants us to\Ndo nothing?\N\N\N\N\N\NThen go work things out\Nwith the Yellow Scarves!\N\N\N\N\N\NHave fun!
+Dialogue: 0,0:08:18.38,0:08:20.45,Default,,0000,0000,0000,,And now Mikado...\NAnd at a time like this...
+Dialogue: 0,0:08:20.45,0:08:21.93,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:08:22.36,0:08:27.57,Default,,0000,0000,0000,,You were having a private messaging\Nsession with Saika, Sonohara Anri-chan.
+Dialogue: 0,0:08:27.57,0:08:30.36,Default,,0000,0000,0000,,But no matter how much you typed,\Nyou got no response.
+Dialogue: 0,0:08:30.83,0:08:35.94,Default,,0000,0000,0000,,You thought that, all things considered,\Nshe must be really depressed.
+Dialogue: 0,0:08:36.73,0:08:37.99,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:08:37.47,0:08:40.06,SignJ,,0000,0000,0000,,\N\N\N\N\N<Saika> But yeah...\N\N\N\NAre there lots of fights?\N\N\N\NYou think so?\N\N\N\NThis town's in big trouble.\N\N\NWhat should I do?
+Dialogue: 0,0:08:39.85,0:08:42.58,Default-no margin,,0000,0000,0000,,You can't reach her cell?
+Dialogue: 0,0:08:40.31,0:08:42.56,SignJ,,0000,0000,0000,,{\an6}\N\N\N<Kanra> Um,\Nyou know...\N\NYou're using the PM\Nmode wrong, Saika-san.
+Dialogue: 0,0:08:42.98,0:08:44.87,Default,,0000,0000,0000,,She's got the power off.
+Dialogue: 0,0:08:46.10,0:08:52.36,SignJ,,0000,0000,0000,,\N\N\N\N\N<Kanra> You talking\Nabout Ikebukuro?\N\N\N\NIt's really bad.\N\N\NPeople are getting\Nhurt every day.\N\N\N
+Dialogue: 0,0:08:46.70,0:08:49.92,Default,,0000,0000,0000,,What's wrong with Kanra?
+Dialogue: 0,0:08:49.92,0:08:52.57,Default,,0000,0000,0000,,He's just scaring her!
+Dialogue: 0,0:08:52.44,0:08:53.03,SignJ,,0000,0000,0000,,\N\N<Saika> Really?\N\N<Kanra> That's what\Nthe Yellow Scarves\Nthink, anyway.\N\NThey won't be happy\Ntill they've hit\Nthe Dollar's leader,\Nand hit him hard.
+Dialogue: 0,0:08:53.03,0:08:57.45,SignK,,0000,0000,0000,,<Saika> Really?\N\N<Kanra> That's what\Nthe Yellow Scarves\Nthink, anyway.\N\NThey won't be happy\Ntill they've hit\Nthe Dollar's leader,\Nand hit him hard.\N<Saika> Sorry.\NI've gotta go.
+Dialogue: 0,0:08:53.36,0:08:56.62,Default-no margin,,0000,0000,0000,,Anri-chan was the girl at Sonoharadou, right?
+Dialogue: 0,0:08:56.90,0:08:58.08,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:58.08,0:09:01.47,Default,,0000,0000,0000,,The antiques store where\Nmy dad sold Saika...
+Dialogue: 0,0:09:01.93,0:09:05.67,Default,,0000,0000,0000,,So the leader of the Dollars is a classmate,
+Dialogue: 0,0:09:05.67,0:09:08.19,Default,,0000,0000,0000,,and she has friends in the\NYellow Scarves, too.
+Dialogue: 0,0:09:08.77,0:09:13.08,Default,,0000,0000,0000,,Anri-chan doesn't know that\NMikado leads the Dollars.
+Dialogue: 0,0:09:13.08,0:09:20.04,Default,,0000,0000,0000,,The three of them are friends,\Nand none of them knows about the others.
+Dialogue: 0,0:09:20.04,0:09:20.87,Default,,0000,0000,0000,,I think so.
+Dialogue: 0,0:09:22.16,0:09:24.91,Default,,0000,0000,0000,,I don't know the details, either.
+Dialogue: 0,0:09:25.36,0:09:26.37,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:09:26.37,0:09:28.88,Default,,0000,0000,0000,,Please don't ask anything.
+Dialogue: 0,0:09:28.88,0:09:29.84,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:09:38.33,0:09:41.31,Default,,0000,0000,0000,,A love triangle, indeed.
+Dialogue: 0,0:09:41.93,0:09:44.62,Default,,0000,0000,0000,,So what will you do?
+Dialogue: 0,0:09:46.41,0:09:50.77,Default,,0000,0000,0000,,I can't say anything if Anri-chan doesn't.
+Dialogue: 0,0:09:52.14,0:09:54.43,Default,,0000,0000,0000,,I just have to pray they'll be OK.
+Dialogue: 0,0:09:56.28,0:09:57.91,Default,,0000,0000,0000,,<Kanra> Kyaho!
+Dialogue: 0,0:09:57.91,0:10:00.28,Default,,0000,0000,0000,,It's Kanra-chan!
+Dialogue: 0,0:10:00.57,0:10:03.47,Default,,0000,0000,0000,,Hey, no one's here!
+Dialogue: 0,0:10:03.47,0:10:08.32,Default,,0000,0000,0000,,Ya'll aren't enjoying yourselves\Nwithout me, are you?
+Dialogue: 0,0:10:08.32,0:10:09.46,Default,,0000,0000,0000,,Hmph!
+Dialogue: 0,0:10:09.46,0:10:10.96,Default,,0000,0000,0000,,But it's OK!
+Dialogue: 0,0:10:10.96,0:10:14.55,Default,,0000,0000,0000,,I'm having a great time, too!
+Dialogue: 0,0:10:15.12,0:10:18.25,Default,,0000,0000,0000,,The game's getting good, so I'm out!
+Dialogue: 0,0:10:18.25,0:10:19.97,Default,,0000,0000,0000,,Bye-bye-be!
+Dialogue: 0,0:10:20.30,0:10:23.56,Default,,0000,0000,0000,,{\a6}<Kanra-san has left the channel>
+Dialogue: 0,0:10:21.55,0:10:23.56,Default,,0000,0000,0000,,{\a6}<There is no one in the channel>
+Dialogue: 0,0:10:27.95,0:10:29.46,Default,,0000,0000,0000,,It's been several days.
+Dialogue: 0,0:10:29.95,0:10:33.52,Default,,0000,0000,0000,,I haven't looked at the\NDollars site since then.
+Dialogue: 0,0:10:34.47,0:10:37.58,Default,,0000,0000,0000,,Things keep getting worse in the city.
+Dialogue: 0,0:10:38.38,0:10:41.82,Default,,0000,0000,0000,,But nothing's changed in my life here.
+Dialogue: 0,0:10:43.14,0:10:45.22,Default,,0000,0000,0000,,Takiguchi-kun left the hospital.
+Dialogue: 0,0:10:46.05,0:10:48.33,Default,,0000,0000,0000,,I can be at peace here.
+Dialogue: 0,0:10:50.22,0:10:52.08,Default,,0000,0000,0000,,This is my everyday life.
+Dialogue: 0,0:10:54.24,0:10:55.36,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:10:58.42,0:11:00.15,Default,,0000,0000,0000,,Kida already went home.
+Dialogue: 0,0:11:05.06,0:11:06.81,Default,,0000,0000,0000,,Thanks for coming to see me.
+Dialogue: 0,0:11:16.73,0:11:17.82,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:11:18.90,0:11:21.30,Default,,0000,0000,0000,,I'll be splitting off here.
+Dialogue: 0,0:11:21.99,0:11:22.70,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:11:23.33,0:11:24.23,Default,,0000,0000,0000,,OK.
+Dialogue: 0,0:11:24.23,0:11:25.20,Default,,0000,0000,0000,,See you tomorrow.
+Dialogue: 0,0:11:32.18,0:11:33.90,Default,,0000,0000,0000,,You're part of the Dollars, right?
+Dialogue: 0,0:11:33.90,0:11:35.43,Default,,0000,0000,0000,,N-No!
+Dialogue: 0,0:11:35.43,0:11:38.27,Default,,0000,0000,0000,,Of course you are!
+Dialogue: 0,0:11:46.86,0:11:48.94,Default,,0000,0000,0000,,Run now.
+Dialogue: 0,0:11:53.74,0:11:55.34,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:12:01.12,0:12:02.95,Default,,0000,0000,0000,,Are you betraying us?
+Dialogue: 0,0:12:03.48,0:12:06.28,Default,,0000,0000,0000,,Mother told us to.
+Dialogue: 0,0:12:08.08,0:12:11.99,Default,,0000,0000,0000,,Mother told us to stop you.
+Dialogue: 0,0:12:19.76,0:12:24.39,Default,,0000,0000,0000,,If the Yellow Scarves are about to attack\Nthe Dollars, please stop them.
+Dialogue: 0,0:12:25.24,0:12:27.04,Default,,0000,0000,0000,,Yes. Understood,
+Dialogue: 0,0:12:27.04,0:12:27.93,Default,,0000,0000,0000,,Mother.
+Dialogue: 0,0:12:27.93,0:12:29.10,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:12:29.10,0:12:30.32,Default,,0000,0000,0000,,I'm counting on you.
+Dialogue: 0,0:12:41.03,0:12:42.61,Default,,0000,0000,0000,,It's my fault.
+Dialogue: 0,0:12:44.03,0:12:46.31,Default,,0000,0000,0000,,It's my fault Kida-kun...
+Dialogue: 0,0:12:48.61,0:12:53.43,Default,,0000,0000,0000,,Can anyone in the Yellow\NScarves hear my voice?
+Dialogue: 0,0:12:53.43,0:12:54.80,Default,,0000,0000,0000,,Anyone?
+Dialogue: 0,0:12:56.77,0:12:57.96,Default,,0000,0000,0000,,I have to do something.
+Dialogue: 0,0:13:01.51,0:13:03.97,Default,,0000,0000,0000,,I have to do something...
+Dialogue: 0,0:13:07.72,0:13:09.30,Default,,0000,0000,0000,,Hello?
+Dialogue: 0,0:13:09.74,0:13:12.06,Default,,0000,0000,0000,,Move the queen to C-Ke-6.
+Dialogue: 0,0:13:12.44,0:13:14.70,Default,,0000,0000,0000,,Black to G-6.
+Dialogue: 0,0:13:16.75,0:13:19.20,Default,,0000,0000,0000,,Good, good.
+Dialogue: 0,0:13:19.20,0:13:20.98,Default,,0000,0000,0000,,This is getting good.
+Dialogue: 0,0:13:22.16,0:13:24.92,Default,,0000,0000,0000,,Out with it!
+Dialogue: 0,0:13:25.97,0:13:28.74,Default,,0000,0000,0000,,I-I don't know what you're\Ntalking about. Honestly...
+Dialogue: 0,0:13:29.85,0:13:31.70,Default,,0000,0000,0000,,I can't hear you.
+Dialogue: 0,0:13:32.07,0:13:33.94,Default,,0000,0000,0000,,You can't remember?
+Dialogue: 0,0:13:33.94,0:13:35.46,Default,,0000,0000,0000,,Screw you!
+Dialogue: 0,0:13:36.87,0:13:40.07,Default,,0000,0000,0000,,It's true! I swear!
+Dialogue: 0,0:13:41.43,0:13:43.31,Default,,0000,0000,0000,,That's enough.
+Dialogue: 0,0:13:43.31,0:13:45.67,Default,,0000,0000,0000,,But we need to make an example...
+Dialogue: 0,0:13:51.05,0:13:55.00,Default,,0000,0000,0000,,You really don't remember anything?
+Dialogue: 0,0:13:55.00,0:13:58.12,Default,,0000,0000,0000,,Next thing I knew, everyone was mad...
+Dialogue: 0,0:13:58.12,0:13:59.14,Default,,0000,0000,0000,,It's true!
+Dialogue: 0,0:13:59.14,0:14:00.23,Default,,0000,0000,0000,,It's true...
+Dialogue: 0,0:14:02.20,0:14:04.15,Default,,0000,0000,0000,,Hypnosis or something?
+Dialogue: 0,0:14:05.05,0:14:07.28,Default,,0000,0000,0000,,You're getting sleepy... Very sleepy!
+Dialogue: 0,0:14:07.28,0:14:08.17,Default,,0000,0000,0000,,Like that?
+Dialogue: 0,0:14:08.17,0:14:12.24,Default,,0000,0000,0000,,Actually, it may be that.
+Dialogue: 0,0:14:12.58,0:14:15.51,Default,,0000,0000,0000,,'Cause... Yeah.
+Dialogue: 0,0:14:16.55,0:14:20.56,Default,,0000,0000,0000,,The Dollars have a Headless Rider.\NWhy wouldn't they have a hypnotist?
+Dialogue: 0,0:14:21.48,0:14:22.46,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:14:22.84,0:14:23.61,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:23.61,0:14:25.17,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:14:25.17,0:14:28.00,Default,,0000,0000,0000,,I saw them with a girl.
+Dialogue: 0,0:14:28.00,0:14:29.16,Default,,0000,0000,0000,,A girl?
+Dialogue: 0,0:14:29.16,0:14:30.95,Default,,0000,0000,0000,,Ah, come to think of it...
+Dialogue: 0,0:14:30.95,0:14:32.52,Default,,0000,0000,0000,,So did I.
+Dialogue: 0,0:14:32.52,0:14:37.01,Default,,0000,0000,0000,,I think they only started acting crazy\Nafter they saw the girl.
+Dialogue: 0,0:14:37.01,0:14:38.10,Default,,0000,0000,0000,,What kind of girl?
+Dialogue: 0,0:14:38.45,0:14:47.61,Default,,0000,0000,0000,,She was wearing a Raira uniform, glasses,\Nand I think she had big breasts.
+Dialogue: 0,0:14:48.61,0:14:51.91,Default,,0000,0000,0000,,The girl with the Headless\NRider had glasses, too.
+Dialogue: 0,0:14:51.91,0:14:57.12,Default,,0000,0000,0000,,{\i1}No, it's impossible.{\i0}
+Dialogue: 0,0:14:52.55,0:14:55.15,Default,,0000,0000,0000,,She had big tits, too.
+Dialogue: 0,0:14:55.15,0:14:58.11,Default,,0000,0000,0000,,I'm amazed you noticed\Nthat, during the fight.
+Dialogue: 0,0:14:58.11,0:14:59.74,Default,,0000,0000,0000,,OK!
+Dialogue: 0,0:14:59.74,0:15:00.98,Default,,0000,0000,0000,,We'll catch her and-
+Dialogue: 0,0:15:00.98,0:15:02.25,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:15:02.25,0:15:05.62,Default,,0000,0000,0000,,I told you. No fights!
+Dialogue: 0,0:15:07.10,0:15:08.67,Default,,0000,0000,0000,,But if we grab her-
+Dialogue: 0,0:15:13.79,0:15:15.22,Default,,0000,0000,0000,,The rest of you got it, right?
+Dialogue: 0,0:15:15.75,0:15:19.10,Default,,0000,0000,0000,,No one does anything till I say so.
+Dialogue: 0,0:15:25.31,0:15:26.63,Default,,0000,0000,0000,,It can't be.
+Dialogue: 0,0:15:27.23,0:15:28.54,Default,,0000,0000,0000,,It can't be...
+Dialogue: 0,0:15:29.36,0:15:30.49,Default,,0000,0000,0000,,'Cause...
+Dialogue: 0,0:15:30.49,0:15:33.37,Default,,0000,0000,0000,,'Cause she...
+Dialogue: 0,0:15:33.85,0:15:35.20,Default,,0000,0000,0000,,Anri...
+Dialogue: 0,0:15:39.62,0:15:40.84,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:15:40.84,0:15:43.04,Default,,0000,0000,0000,,Then I'll show you my notes.
+Dialogue: 0,0:15:46.42,0:15:49.44,Default,,0000,0000,0000,,They'd be useless!
+Dialogue: 0,0:15:48.50,0:15:50.88,Default,,0000,0000,0000,,Huh? What is it?
+Dialogue: 0,0:15:50.88,0:15:52.18,Default,,0000,0000,0000,,Something's wrong?
+Dialogue: 0,0:15:53.66,0:15:55.15,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:15:55.15,0:15:57.74,Default,,0000,0000,0000,,Masaomi and Sonohara-san are gone.
+Dialogue: 0,0:15:58.72,0:16:02.27,Default,,0000,0000,0000,,When you're alone, you remember\Nhow big this town really is.
+Dialogue: 0,0:16:03.07,0:16:06.80,Default,,0000,0000,0000,,The first time I was here,\NI remember wanting to go home.
+Dialogue: 0,0:16:06.80,0:16:12.19,Default,,0000,0000,0000,,But when Masaomi took me around,\NI met lots of people,
+Dialogue: 0,0:16:12.19,0:16:14.62,Default,,0000,0000,0000,,and I experienced lots of things.
+Dialogue: 0,0:16:14.62,0:16:18.11,Default,,0000,0000,0000,,And it felt like the town was mine.
+Dialogue: 0,0:16:19.35,0:16:23.71,Default,,0000,0000,0000,,But I'm sure some of them\Nbelong to the Dollars.
+Dialogue: 0,0:16:31.51,0:16:32.99,Default,,0000,0000,0000,,Ryuugamine-kun?
+Dialogue: 0,0:16:35.19,0:16:37.09,Default,,0000,0000,0000,,Good timing!
+Dialogue: 0,0:16:37.09,0:16:38.60,Default,,0000,0000,0000,,Hey, we'd like to talk to you.
+Dialogue: 0,0:16:50.47,0:16:52.89,Default,,0000,0000,0000,,U-Um, Harima-san?
+Dialogue: 0,0:16:52.89,0:16:54.75,Default,,0000,0000,0000,,What did you want to talk to me about?
+Dialogue: 0,0:16:55.33,0:16:56.37,Default,,0000,0000,0000,,Oh, yeah.
+Dialogue: 0,0:16:56.37,0:16:58.86,Default,,0000,0000,0000,,About Anri-chan.
+Dialogue: 0,0:16:58.86,0:17:00.45,Default,,0000,0000,0000,,What's going on with her?
+Dialogue: 0,0:17:00.78,0:17:03.49,Default,,0000,0000,0000,,What do you mean...
+Dialogue: 0,0:17:03.94,0:17:06.76,Default,,0000,0000,0000,,You haven't noticed?
+Dialogue: 0,0:17:07.43,0:17:08.59,Default,,0000,0000,0000,,Noticed what?
+Dialogue: 0,0:17:08.59,0:17:11.51,Default,,0000,0000,0000,,She's been worried about something.
+Dialogue: 0,0:17:12.41,0:17:15.78,Default,,0000,0000,0000,,I was concerned about her, so I asked,
+Dialogue: 0,0:17:15.78,0:17:19.89,Default,,0000,0000,0000,,and she insisted she was fine.
+Dialogue: 0,0:17:20.27,0:17:23.69,Default,,0000,0000,0000,,She's always been like that.
+Dialogue: 0,0:17:21.86,0:17:23.91,Default,,0000,0000,0000,,{\i1}I hadn't noticed at all...{\i0}
+Dialogue: 0,0:17:23.69,0:17:24.89,Default,,0000,0000,0000,,I was worried.
+Dialogue: 0,0:17:25.49,0:17:30.84,Default,,0000,0000,0000,,So I was wondering if you'd heard anything.
+Dialogue: 0,0:17:31.24,0:17:33.15,Default,,0000,0000,0000,,No, I haven't heard anything.
+Dialogue: 0,0:17:34.37,0:17:35.15,Default,,0000,0000,0000,,OK, then.
+Dialogue: 0,0:17:35.63,0:17:37.21,Default,,0000,0000,0000,,I'll ask for you.
+Dialogue: 0,0:17:37.21,0:17:38.00,Default,,0000,0000,0000,,OK!
+Dialogue: 0,0:17:38.00,0:17:39.70,Default,,0000,0000,0000,,If you learn anything, let me know.
+Dialogue: 0,0:17:39.70,0:17:40.27,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:17:40.66,0:17:41.80,Default,,0000,0000,0000,,That's all.
+Dialogue: 0,0:17:41.80,0:17:43.84,Default,,0000,0000,0000,,Let's go, Seiji-san!
+Dialogue: 0,0:17:49.99,0:17:51.30,Default,,0000,0000,0000,,Ryuugamine.
+Dialogue: 0,0:17:52.34,0:17:55.05,Default,,0000,0000,0000,,You like Sonohara, don't you?
+Dialogue: 0,0:17:57.56,0:17:59.23,Default,,0000,0000,0000,,Wh-What now?
+Dialogue: 0,0:17:59.23,0:18:00.55,Default,,0000,0000,0000,,Don't try to fool me.
+Dialogue: 0,0:18:00.55,0:18:02.17,Default,,0000,0000,0000,,I can tell just by looking.
+Dialogue: 0,0:18:03.23,0:18:06.31,Default,,0000,0000,0000,,If you really do love her, don't look away,\Nno matter what happens.
+Dialogue: 0,0:18:06.92,0:18:09.36,Default,,0000,0000,0000,,No matter what you see,\Nno matter what you learn about her,
+Dialogue: 0,0:18:09.36,0:18:10.44,Default,,0000,0000,0000,,don't look away.
+Dialogue: 0,0:18:10.44,0:18:13.48,Default,,0000,0000,0000,,Once you've got her in your embrace,\Ndon't let go.
+Dialogue: 0,0:18:14.04,0:18:16.57,Default,,0000,0000,0000,,Once you decide you love someone,\Nthat's your responsibility.
+Dialogue: 0,0:18:25.22,0:18:26.22,Default,,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:18:27.15,0:18:30.54,Default,,0000,0000,0000,,I'll fulfill my responsibility to love you, too!
+Dialogue: 0,0:18:31.34,0:18:34.00,Default,,0000,0000,0000,,Yagiri-kun's a weird guy.
+Dialogue: 0,0:18:34.00,0:18:38.55,Default,,0000,0000,0000,,But I thought he was kind of cool.
+Dialogue: 0,0:18:39.78,0:18:41.93,Default,,0000,0000,0000,,Damn, what's with that bastard?
+Dialogue: 0,0:18:42.32,0:18:45.44,Default,,0000,0000,0000,,Stupid little kid, acting all tough...
+Dialogue: 0,0:18:45.44,0:18:47.78,Default,,0000,0000,0000,,It's kind of weird, isn't it?
+Dialogue: 0,0:18:48.69,0:18:50.23,Default,,0000,0000,0000,,Horada-san!
+Dialogue: 0,0:18:51.65,0:18:52.90,Default,,0000,0000,0000,,Over there.
+Dialogue: 0,0:18:57.45,0:18:59.48,Default,,0000,0000,0000,,A Raira uniform...
+Dialogue: 0,0:19:00.93,0:19:02.09,Default,,0000,0000,0000,,Glasses...
+Dialogue: 0,0:19:19.19,0:19:24.62,Default,,0000,0000,0000,,No matter what I learn,\Nno matter what I see, don't look away.
+Dialogue: 0,0:19:24.62,0:19:25.72,Default,,0000,0000,0000,,Responsibility...
+Dialogue: 0,0:19:28.93,0:19:33.23,Default,,0000,0000,0000,,I didn't notice she was worried\Nabout something.
+Dialogue: 0,0:19:34.58,0:19:37.86,Default,,0000,0000,0000,,Masaomi... Did Masaomi notice?
+Dialogue: 0,0:19:39.29,0:19:43.13,Default,,0000,0000,0000,,I was probably so worried about\Nmy own problems, I didn't notice.
+Dialogue: 0,0:19:43.75,0:19:46.79,Default,,0000,0000,0000,,Not about Sonohara-san or the Dollars.
+Dialogue: 0,0:19:48.89,0:19:53.17,Default,,0000,0000,0000,,What do I know about the Dollars?
+Dialogue: 0,0:19:53.67,0:19:58.04,Default,,0000,0000,0000,,Why didn't I quit the Dollars then?
+Dialogue: 0,0:20:22.56,0:20:24.00,Default,,0000,0000,0000,,I'm quitting the Dollars.
+Dialogue: 0,0:20:24.00,0:20:25.18,Default,,0000,0000,0000,,People, stop writing that.
+Dialogue: 0,0:20:25.18,0:20:26.64,Default,,0000,0000,0000,,I'll kill the Yellow Scarves.
+Dialogue: 0,0:20:26.64,0:20:28.82,Default,,0000,0000,0000,,Do something, leader.
+Dialogue: 0,0:20:28.82,0:20:30.58,Default,,0000,0000,0000,,Who is the leader, anyway?
+Dialogue: 0,0:20:34.83,0:20:37.84,Default,,0000,0000,0000,,Do you think the Dollars should exist?
+Dialogue: 0,0:20:41.05,0:20:43.03,Default,,0000,0000,0000,,There's no need for them anymore.
+Dialogue: 0,0:20:43.03,0:20:44.55,Default,,0000,0000,0000,,I'm quitting, I said.
+Dialogue: 0,0:20:44.55,0:20:46.60,Default,,0000,0000,0000,,Stop writing that.
+Dialogue: 0,0:20:46.60,0:20:48.57,Default,,0000,0000,0000,,I don't want them to disappear.
+Dialogue: 0,0:20:48.57,0:20:50.79,Default,,0000,0000,0000,,I want the leader to do something.
+Dialogue: 0,0:20:50.79,0:20:53.77,Default,,0000,0000,0000,,He created the Dollars,\Nso he should take responsibility.
+Dialogue: 0,0:20:53.94,0:20:55.73,Default,,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:20:55.73,0:20:59.65,Default,,0000,0000,0000,,There's no hierarchy. Everyone's free.\NThat's what the Dollars are, right?
+Dialogue: 0,0:20:59.78,0:21:02.28,Default,,0000,0000,0000,,Don't rely on the boss whenever\Nthings get bad.
+Dialogue: 0,0:21:02.44,0:21:06.37,Default,,0000,0000,0000,,I remember seeing a post like this once,
+Dialogue: 0,0:21:07.81,0:21:11.60,Default,,0000,0000,0000,,"Why don't we make the\NDollars a good group?"
+Dialogue: 0,0:21:11.60,0:21:14.57,Default,,0000,0000,0000,,"There are some bad members,\Nbut don't worry about them."
+Dialogue: 0,0:21:16.98,0:21:18.11,SignL,,0000,0000,0000,,{\a6}Why don't we make the Dollars a good group?\N\NLike, maybe do enough good things to negate\Nthe bad impressions those others leave?
+Dialogue: 0,0:21:19.38,0:21:21.88,SignN,,0000,0000,0000,,Why don't we make the Dollars a good group?\N\NLike, maybe do enough good things to negate\Nthe bad impressions those others leave?
+Dialogue: 0,0:21:24.56,0:21:26.81,Default,,0000,0000,0000,,The leader's got nothing to do with it.
+Dialogue: 0,0:21:26.81,0:21:28.69,Default,,0000,0000,0000,,That's right. The Dollars don't\Nbelong to one person.
+Dialogue: 0,0:21:28.69,0:21:30.04,Default,,0000,0000,0000,,It's all of ours!
+Dialogue: 0,0:21:30.04,0:21:31.14,Default,,0000,0000,0000,,Losers.
+Dialogue: 0,0:21:31.14,0:21:33.42,Default,,0000,0000,0000,,We should just do what we can.
+Dialogue: 0,0:21:33.42,0:21:34.37,Default,,0000,0000,0000,,Die.
+Dialogue: 0,0:21:34.37,0:21:37.91,Default,,0000,0000,0000,,Agreed! Let's all protect the city\Nfrom the Yellow Scarves!
+Dialogue: 0,0:21:37.91,0:21:40.11,Default,,0000,0000,0000,,We all make rounds or something?
+Dialogue: 0,0:21:40.11,0:21:43.09,Default,,0000,0000,0000,,We're invisible. They don't\Nknow who we are...
+Dialogue: 0,0:21:40.93,0:21:42.30,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:21:43.16,0:21:44.28,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:21:46.75,0:21:47.78,Default,,0000,0000,0000,,Back then, too...
+Dialogue: 0,0:21:50.76,0:21:54.46,SignJ,,0000,0000,0000,,\N\N\N\NA girl's being attacked\Nby the Yellow Scarves.\N\N\N\N\NWhere?\N\N\N\N\N\NIn front of Veloce.\NThey're taking her\Nsomewhere.
+Dialogue: 0,0:21:54.46,0:21:55.60,SignJ,,0000,0000,0000,,\N\NWhere?\N\N\NIn front of Veloce.\NThey're taking her\Nsomewhere.\N\N\NWhat kind of girl?\N\N\N\NI think it's a Raira uniform?\NShe has a\NRaira uniform and glasses.
+Dialogue: 0,0:21:57.35,0:21:58.73,Default,,0000,0000,0000,,{\a6}Huge knockers.
+Dialogue: 0,0:22:02.28,0:22:04.32,Default,,0000,0000,0000,,{\a6}I think that's a Raira uniform...
+Dialogue: 0,0:22:02.95,0:22:07.01,Default,,0000,0000,0000,,Raira... Glasses... Knockers...
+Dialogue: 0,0:22:04.32,0:22:05.49,Default,,0000,0000,0000,,{\a6}She has a Raira uniform and glasses.
+Dialogue: 0,0:22:05.65,0:22:06.99,Default,,0000,0000,0000,,{\a6}And huge knockers.
+Dialogue: 0,0:22:09.10,0:22:09.97,Default,,0000,0000,0000,,It can't be!
+Dialogue: 0,0:22:10.95,0:22:14.01,Default,,0000,0000,0000,,Sonohara-san...
+Dialogue: 0,0:22:15.80,0:22:19.34,Default,,0000,0000,0000,,The queen's been surrounded by black.
+Dialogue: 0,0:22:23.58,0:22:24.97,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:22:25.63,0:22:28.46,Default,,0000,0000,0000,,It can't be. It just can't...
+Dialogue: 0,0:23:58.33,0:23:59.96,Default-no margin,,0000,0000,0000,,This program is a work of fiction.\NAny resemblance to people, parties,\Nor situations is purely coincidental.
+Dialogue: 0,0:23:59.96,0:24:15.42,Title3,,0000,0000,0000,,Next Time\Non Durarara!!
+Dialogue: 0,0:23:59.96,0:24:15.42,Title4,,0000,0000,0000,,Declaration of\NDisbandment
+Dialogue: 0,0:24:01.24,0:24:02.79,Default-no margin,,0000,0000,0000,,Is this a dream?
+Dialogue: 0,0:24:02.79,0:24:06.25,Default-no margin,,0000,0000,0000,,It wasn't. His hands told me so.
+Dialogue: 0,0:24:06.71,0:24:10.55,Default-no margin,,0000,0000,0000,,When you realize something's important, why's it already gone?
+Dialogue: 0,0:24:11.57,0:24:12.47,Default-no margin,,0000,0000,0000,,Next time:
+Dialogue: 0,0:24:12.47,0:24:14.32,Default-no margin,,0000,0000,0000,,Declaration of Disbandment

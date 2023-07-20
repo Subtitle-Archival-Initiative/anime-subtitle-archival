@@ -1,0 +1,879 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 33970
+Audio File: ?video
+Video File: C:\Users\Jaka\Desktop\Durarara-13-premux_offset_-333_frames_for_preview.mkv
+Last Style Storage: DRRR13
+Collisions: Normal
+Keyframes File: C:\Users\Jaka\Desktop\keyframes.txt
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Calibri,45,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: LOL ITALICS,Calibri,45,&H00F9F9F9,&HFFFFFFFF,&H0057423A,&H96000000,-1,-1,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Default - Alt,Calibri,45,&H00DDDDDD,&HFFFFFFFF,&H00202020,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Anime Title,Still Time,150,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,70,0,0,1,0,0,5,30,30,30,1
+Style: Names,Edo,70,&H00E6E6E4,&H00E6E2E5,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,30,30,30,1
+Style: Ep Titles,Abyss Ep Title Font,65,&H00E3E3E3,&HFFFFFFFF,&H002B2B2B,&H32000000,0,0,0,0,100,120,0,0,1,0,0,2,0,0,0,1
+Style: Signs,Arial,45,&H00FFFFFF,&HFFFFFFFF,&H002B2B2B,&H32000000,0,0,0,0,100,120,0,0,1,0,0,5,0,0,0,1
+Style: Internet - Blue,Puritan,25,&H00A5572A,&HFFFFFFFF,&H00FFFFFF,&H96000000,-1,0,0,0,100,100,0,0,1,2,0,4,0,0,0,1
+Style: Internet - Orange,Puritan,25,&H00107BE9,&HFFFFFFFF,&H00FFFFFF,&H96000000,-1,0,0,0,100,100,0,0,1,2,0,4,0,0,0,1
+Style: Internet - Gray Purple,Puritan,25,&H0069606B,&HFFFFFFFF,&H00FFFFFF,&H96000000,-1,0,0,0,100,100,0,0,1,2,0,4,0,0,0,1
+Style: Internet - Saika,Puritan,35,&H004232AD,&HFFFFFFFF,&H00FFFFFF,&H96000000,-1,0,0,0,100,100,0,0,1,2.5,0,9,0,80,90,1
+Style: Handwriting,Cartoon,30,&H00393C3B,&HFFFFFFFF,&H00E8E8E8,&H32000000,0,0,0,0,100,100,0,0,1,2,0,5,0,0,0,1
+Style: Internet - Gray,Puritan,30,&H00E8E8E8,&HFFFFFFFF,&H00FFFFFF,&H96000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+Style: asdf,Puritan,30,&H00E8E8E8,&HFFFFFFFF,&H00FFFFFF,&H96000000,-1,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
+Style: nigSign,Bradley Hand ITC,40,&H00BB998A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,0,0,2,10,10,10,1
+Style: slashersign,Abyss Ep Title Font,65,&H64E3E3E3,&HFFFFFFFF,&H002B2B2B,&H96000000,0,0,0,0,100,120,0,0,1,0,0,2,0,0,0,1
+Style: Internet - BB,HelveticaNeue LT 65 Medium,40,&H00292F33,&HFFFFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+Style: OP2,Flora for Mexicans,53,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,3,2,20,20,25,1
+Style: ED2,Wunderlich,47,&H00FCFCFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,20,20,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Opening
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Ending
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Signs
+Dialogue: 0,0:01:00.65,0:01:03.24,Default,Izaya,0000,0000,0000,,Well then, good luck, Tanaka Tarou-kun!
+Dialogue: 0,0:01:03.24,0:01:06.66,Default,Izaya,0000,0000,0000,,I'll be holding on to this as a member of the Dollars.
+Dialogue: 0,0:01:06.66,0:01:10.24,Default,Girl,0000,0000,0000,,I heard you're acting all conceited even though Harima Mika went missing.
+Dialogue: 0,0:01:10.24,0:01:11.87,Default,Shing,0000,0000,0000,,How the hell can one kill her?
+Dialogue: 0,0:01:12.63,0:01:13.17,Default,Guy,0000,0000,0000,,You heard about it, right?
+Dialogue: 0,0:01:13.17,0:01:16.00,Default,Guy,0000,0000,0000,,There's been another slashing incident in Ikebukuro.
+Dialogue: 0,0:01:16.60,0:01:18.94,Default,Izaya,0000,0000,0000,,I'll just have to start a war that only I can fight in.
+Dialogue: 0,0:01:18.94,0:01:19.76,Default,Izaya,0000,0000,0000,,Ain't that right?
+Dialogue: 0,0:01:20.26,0:01:21.30,Default,Selty,0000,0000,0000,,I've come to my senses!
+Dialogue: 0,0:01:53.34,0:01:56.27,Default,Simon,0000,0000,0000,,Welcome, welcome!
+Dialogue: 0,0:01:56.27,0:01:58.00,Default,Simon,0000,0000,0000,,Russia Sushi!
+Dialogue: 0,0:01:58.00,0:01:59.86,Default,Simon,0000,0000,0000,,Very tasty!
+Dialogue: 0,0:01:59.86,0:02:01.67,Default,Simon,0000,0000,0000,,Cheap, too!
+Dialogue: 0,0:02:01.67,0:02:02.72,Default,Simon,0000,0000,0000,,Eat sushi!
+Dialogue: 0,0:02:02.72,0:02:03.89,Default,Guy,0000,0000,0000,,The Slasher?
+Dialogue: 0,0:02:04.29,0:02:05.46,Default,Guy2,0000,0000,0000,,Again?
+Dialogue: 0,0:02:05.46,0:02:06.79,Default,Girl,0000,0000,0000,,How many victims is that so far?
+Dialogue: 0,0:02:12.76,0:02:16.00,Default,Woman,0000,0000,0000,,This is the scene of the slashing crime that happened last night.
+Dialogue: 0,0:02:17.00,0:02:20.85,Default,Guy,0000,0000,0000,,A huge meeting took place abruptly in the \Ndowntown area of Ikebukuro six months ago.
+Dialogue: 0,0:02:21.66,0:02:25.28,Default,Guy,0000,0000,0000,,It's actually around this time that the Slasher began to appear.
+Dialogue: 0,0:02:25.28,0:02:30.16,Default,Guy,0000,0000,0000,,Also, a certain 'Headless Rider' seems to be a popular topic of discussion among the youth in Ikebukuro.
+Dialogue: 0,0:02:30.16,0:02:34.27,Default,Guy,0000,0000,0000,,America has already come in contact with the Headless Rider, and-
+Dialogue: 0,0:02:34.27,0:02:35.76,Default,Guy,0000,0000,0000,,"The Slasher"?
+Dialogue: 0,0:02:36.26,0:02:37.23,Default,Guy2,0000,0000,0000,,The Headless Rider.
+Dialogue: 0,0:02:37.99,0:02:38.69,Default,Girl,0000,0000,0000,,So scary!
+Dialogue: 0,0:02:38.69,0:02:42.74,LOL ITALICS,Anri,0000,0000,0000,,Something is born in the city every day, and at the same time, something also disappears.
+Dialogue: 0,0:02:42.74,0:02:44.40,LOL ITALICS,Anri,0000,0000,0000,,Even then, nothing happens.
+Dialogue: 0,0:02:44.81,0:02:46.25,LOL ITALICS,Anri,0000,0000,0000,,Nothing changes.
+Dialogue: 0,0:02:46.25,0:02:49.37,LOL ITALICS,Anri,0000,0000,0000,,That's her daily life.
+Dialogue: 0,0:03:03.22,0:03:06.27,Default,Seiji,0000,0000,0000,,Our love is anything but real.
+Dialogue: 0,0:03:06.27,0:03:08.60,Default,Harima,0000,0000,0000,,Even so, it's more powerful than real love.
+Dialogue: 0,0:03:09.55,0:03:12.42,Default,Seiji,0000,0000,0000,,I'm in love with the scar on your neck.
+Dialogue: 0,0:03:12.69,0:03:16.25,Default,Seiji,0000,0000,0000,,And through that scar, it leads to true love.
+Dialogue: 0,0:03:16.53,0:03:18.68,Default,Harima,0000,0000,0000,,I'm in love with you.
+Dialogue: 0,0:03:19.32,0:03:22.26,Default,Harima,0000,0000,0000,,I'll love everything about you with all my might.
+Dialogue: 0,0:03:25.83,0:03:28.11,Default,Kida,0000,0000,0000,,I get jealous every time I see them.
+Dialogue: 0,0:03:28.11,0:03:29.57,Default,Mikado,0000,0000,0000,,Then don't look at them.
+Dialogue: 0,0:03:29.57,0:03:31.75,Default,Kida,0000,0000,0000,,If there's a pretty girl, I look at her!
+Dialogue: 0,0:03:31.75,0:03:33.42,Default,Kida,0000,0000,0000,,Then I proceed to talk to her!
+Dialogue: 0,0:03:33.42,0:03:37.48,Default,Kida,0000,0000,0000,,Isn't that the fate that's carved into the DNA of all existing males?
+Dialogue: 0,0:03:37.48,0:03:39.96,Default,Mikado,0000,0000,0000,,Don't group me in with them.
+Dialogue: 0,0:03:40.23,0:03:41.73,Default,Kida,0000,0000,0000,,But rest at ease.
+Dialogue: 0,0:03:41.95,0:03:46.09,Default,Kida,0000,0000,0000,,My body belongs to everyone, but my heart belongs to you only, Anri.
+Dialogue: 0,0:03:46.09,0:03:46.45,Default,Anri,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:46.45,0:03:48.26,Default,Kida,0000,0000,0000,,I always wonder,
+Dialogue: 0,0:03:48.26,0:03:50.96,Default,Kida,0000,0000,0000,,"Why is Anri so sexually attractive?"
+Dialogue: 0,0:03:50.96,0:03:51.96,Default,Anri,0000,0000,0000,,What?
+Dialogue: 0,0:03:53.54,0:03:54.75,Default,Mikado,0000,0000,0000,,The first part...
+Dialogue: 0,0:03:54.75,0:03:56.82,Default,Mikado,0000,0000,0000,,The "sexually" was uncalled for, Masaomi!
+Dialogue: 0,0:03:56.82,0:03:57.92,Default,Kida,0000,0000,0000,,Gotcha.
+Dialogue: 0,0:03:57.92,0:04:00.80,Default,Kida,0000,0000,0000,,So putting that part aside, you do acknowledge her attractiveness.
+Dialogue: 0,0:04:00.80,0:04:01.34,Default,Mikado,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:01.84,0:04:02.76,Default,Mikado,0000,0000,0000,,Well, so...
+Dialogue: 0,0:04:02.76,0:04:05.75,Default,Kida,0000,0000,0000,,Oh? So you're going to say that she's {\i1}not{\i0} attractive?
+Dialogue: 0,0:04:05.75,0:04:07.53,Default,Mikado,0000,0000,0000,,S-She is!
+Dialogue: 0,0:04:07.53,0:04:08.89,Default,Mikado,0000,0000,0000,,She is, but-
+Dialogue: 0,0:04:11.83,0:04:14.55,Default,Kida,0000,0000,0000,,Oh, okay. So you do acknowledge the fact that she's cute.
+Dialogue: 0,0:04:14.55,0:04:17.16,Default,Kida,0000,0000,0000,,However, I also acknowledge her sexual attractiveness.
+Dialogue: 0,0:04:17.46,0:04:22.09,Default,Kida,0000,0000,0000,,Which means, in a sense, I understand her and love her more than you do.
+Dialogue: 0,0:04:22.48,0:04:24.99,Default,Kida,0000,0000,0000,,That means... I win!
+Dialogue: 0,0:04:24.99,0:04:27.04,Default,Mikado,0000,0000,0000,,What's with that self-centered decision?!
+Dialogue: 0,0:04:27.04,0:04:28.13,Default,Kida,0000,0000,0000,,You lose!
+Dialogue: 0,0:04:30.15,0:04:33.65,LOL ITALICS,Anri,0000,0000,0000,,There was a little incident six months ago.
+Dialogue: 0,0:04:34.71,0:04:39.21,LOL ITALICS,Anri,0000,0000,0000,,Everyone was talking about it in both the city and at school for a while.
+Dialogue: 0,0:04:42.09,0:04:44.88,LOL ITALICS,Anri,0000,0000,0000,,However, it has nothing to do with her.
+Dialogue: 0,0:04:44.88,0:04:45.97,LOL ITALICS,Anri,0000,0000,0000,,In fact, she's hardly interested.
+Dialogue: 0,0:05:01.32,0:05:02.69,Default,Mikado,0000,0000,0000,,You okay?
+Dialogue: 0,0:05:02.69,0:05:05.02,Default,Anri,0000,0000,0000,,Y-Yeah. Thanks.
+Dialogue: 0,0:05:05.78,0:05:08.67,LOL ITALICS,Anri,0000,0000,0000,,Nothing happens. Nothing changes.
+Dialogue: 0,0:05:08.67,0:05:11.41,LOL ITALICS,Anri,0000,0000,0000,,That's her daily life.
+Dialogue: 0,0:05:21.14,0:05:24.01,Default,Walker,0000,0000,0000,,Man, I'm so glad I had a lot of points racked up!
+Dialogue: 0,0:05:21.54,0:05:22.66,Default - Alt,Togusa,0000,0000,0000,,Hurry up.
+Dialogue: 0,0:05:24.01,0:05:25.83,Default,Kari,0000,0000,0000,,What are you going to do with that poster, Yumacchi?
+Dialogue: 0,0:05:28.78,0:05:30.02,Default,Shizuo,0000,0000,0000,,She must be in a hurry.
+Dialogue: 0,0:05:30.37,0:05:34.77,Default,Tom,0000,0000,0000,,Don't you think she's been riding \Naround pretty forthrightly these days?
+Dialogue: 0,0:05:34.77,0:05:36.14,Default,Shizuo,0000,0000,0000,,I suppose...
+Dialogue: 0,0:05:42.08,0:05:46.35,Default,Walker,0000,0000,0000,,I wish beings like that could be a bit more secretive.
+Dialogue: 0,0:05:46.35,0:05:51.48,Default,Kari,0000,0000,0000,,It'd be just right if we were the only ones who knew about it, sort of like a certain wealthy girl's secret.
+Dialogue: 0,0:05:51.48,0:05:54.08,Default,Walker,0000,0000,0000,,You're talking about Nogizaka Haruka, aren't you.
+Dialogue: 0,0:05:54.08,0:05:55.26,Default,Togusa,0000,0000,0000,,Jesus Christ...
+Dialogue: 0,0:05:55.26,0:05:56.82,Default,Kadota,0000,0000,0000,,Guys, don't be like that.
+Dialogue: 0,0:05:56.82,0:06:00.59,Default,Kadota,0000,0000,0000,,She probably has her own reasons.
+Dialogue: 0,0:06:03.95,0:06:05.21,Default,Guy,0000,0000,0000,,Hey, look!
+Dialogue: 0,0:06:05.21,0:06:06.30,Default,Guy,0000,0000,0000,,The Headless Rider!
+Dialogue: 0,0:06:19.59,0:06:22.48,LOL ITALICS,Anri,0000,0000,0000,,This is how Celty Sturluson's day usually goes.
+Dialogue: 0,0:06:24.23,0:06:26.58,LOL ITALICS,Anri,0000,0000,0000,,It's something she was used to.
+Dialogue: 0,0:06:51.67,0:06:55.72,LOL ITALICS,Anri,0000,0000,0000,,People who are dragged into the unordinary cause a panic.
+Dialogue: 0,0:06:56.31,0:06:57.98,LOL ITALICS,Anri,0000,0000,0000,,And that's when she calmly escapes.
+Dialogue: 0,0:06:59.11,0:07:02.44,LOL ITALICS,Anri,0000,0000,0000,,That was how Celty Sturluson did things.
+Dialogue: 0,0:07:02.44,0:07:03.34,LOL ITALICS,Anri,0000,0000,0000,,However...
+Dialogue: 0,0:07:05.97,0:07:12.83,Default,Guy,0000,0000,0000,,I often think about how people like us always tend to be the weak foils in fiction that star people like you.
+Dialogue: 0,0:07:13.63,0:07:18.95,Default,Guy,0000,0000,0000,,Whenever the psychic protagonist appeared, we'd always be lying in a puddle of blood,
+Dialogue: 0,0:07:18.95,0:07:21.54,Default,Guy,0000,0000,0000,,just to emphasize the strength of the opponent.
+Dialogue: 0,0:07:23.39,0:07:24.88,Default,Guy,0000,0000,0000,,That's fine.
+Dialogue: 0,0:07:24.88,0:07:29.12,Default,Guy,0000,0000,0000,,That just goes to show how powerful people think we are.
+Dialogue: 0,0:07:29.12,0:07:31.22,Default,Guy,0000,0000,0000,,It's staged, so there's not much we can do.
+Dialogue: 0,0:07:31.78,0:07:34.16,Default,Guy,0000,0000,0000,,But I've always wanted to say one thing.
+Dialogue: 0,0:07:35.01,0:07:40.52,Default,Guy,0000,0000,0000,,If a monster or an evil psychic or an android or a ninja really appears...
+Dialogue: 0,0:07:41.45,0:07:44.50,Default,Guy,0000,0000,0000,,Then there's one... just one thing...
+Dialogue: 0,0:07:44.50,0:07:45.89,Default,Guy,0000,0000,0000,,that I'd like to say.
+Dialogue: 0,0:07:48.43,0:07:50.89,Default,Guy,0000,0000,0000,,Don't underestimate the Traffic Police Force, monster.
+Dialogue: 0,0:07:54.49,0:07:55.92,Default,Guy,0000,0000,0000,,I'll say it once more.
+Dialogue: 0,0:07:55.92,0:07:59.45,Default,Guy,0000,0000,0000,,A mere monster shouldn't underestimate the TPF.
+Dialogue: 0,0:08:10.40,0:08:11.71,Default,Shinra,0000,0000,0000,,Celty!
+Dialogue: 0,0:08:12.23,0:08:12.88,Default,Shinra,0000,0000,0000,,Welcome ba-
+Dialogue: 0,0:08:14.21,0:08:15.14,Default,Shinra,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:08:15.14,0:08:15.93,Default,Shinra,0000,0000,0000,,What happened?
+Dialogue: 0,0:08:16.25,0:08:20.96,Default,Shinra,0000,0000,0000,,It's the greatest honor for you to embrace me like this.
+Dialogue: 0,0:08:21.57,0:08:24.38,Default,Shinra,0000,0000,0000,,Maybe 'honor' isn't the best term here...
+Dialogue: 0,0:08:25.83,0:08:26.65,Default,Shinra,0000,0000,0000,,Hey...
+Dialogue: 0,0:08:26.65,0:08:28.16,Default,Shinra,0000,0000,0000,,You're trembling.
+Dialogue: 0,0:08:28.16,0:08:29.63,Default,Shinra,0000,0000,0000,,Seriously, what happened?
+Dialogue: 0,0:08:30.31,0:08:31.15,Default,Shinra,0000,0000,0000,,Celty?
+Dialogue: 0,0:08:33.94,0:08:35.96,Default,Celty,0000,0000,0000,,I-I-It was scary.
+Dialogue: 0,0:08:35.96,0:08:37.44,Default,Celty,0000,0000,0000,,Frightening, Shinra.
+Dialogue: 0,0:08:37.44,0:08:40.23,Default,Celty,0000,0000,0000,,C-Cops these days are like monsters!
+Dialogue: 0,0:08:40.23,0:08:41.66,Default,Shinra,0000,0000,0000,,Cops?
+Dialogue: 0,0:08:41.66,0:08:47.72,Default,Celty,0000,0000,0000,,About a dozen police motorcycles and police cars kept chasing me as if they were part of one organism...
+Dialogue: 0,0:09:06.49,0:09:11.69,Default,Shinra,0000,0000,0000,,Oh yeah, I heard a famous motor officer was \Nemployed from outside the city in order to oppose you.
+Dialogue: 0,0:09:12.25,0:09:14.94,Default,Shinra,0000,0000,0000,,I think his name was Kuzuhara Kinnosuke.
+Dialogue: 0,0:09:14.94,0:09:18.48,Default,Shinra,0000,0000,0000,,A problem officer who chases his opponents too far and even causes them to get into accidents occasionally.
+Dialogue: 0,0:09:19.25,0:09:20.54,Default,Celty,0000,0000,0000,,He...
+Dialogue: 0,0:09:20.54,0:09:21.80,Default,Celty,0000,0000,0000,,He was really scary.
+Dialogue: 0,0:09:22.85,0:09:24.28,Default,Celty,0000,0000,0000,,I was bloated with pride.
+Dialogue: 0,0:09:24.28,0:09:26.88,Default,Celty,0000,0000,0000,,I'll live frugally from now on, so please forgive me.
+Dialogue: 0,0:09:26.88,0:09:29.01,Default,Celty,0000,0000,0000,,I'm sorry. I'm sorry.
+Dialogue: 0,0:09:29.01,0:09:29.54,Default,Celty,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:09:29.54,0:09:31.67,Default,Shinra,0000,0000,0000,,Just who are you apologizing to?
+Dialogue: 0,0:09:31.67,0:09:34.70,Default,Shinra,0000,0000,0000,,It's not like you to be so faint-hearted.
+Dialogue: 0,0:09:35.59,0:09:38.30,Default,Shinra,0000,0000,0000,,You only have to act frail like that in bed-
+Dialogue: 0,0:09:38.94,0:09:41.47,Default,Celty,0000,0000,0000,,Could your timing be any worse to say something embarrassing like that?
+Dialogue: 0,0:09:42.61,0:09:44.97,Default,Shinra,0000,0000,0000,,Yes... that's more like it.
+Dialogue: 0,0:09:45.11,0:09:48.95,Default,Shinra,0000,0000,0000,,W-Well, sorry to ask you this when you're still in shock,
+Dialogue: 0,0:09:49.47,0:09:52.13,Default,Shinra,0000,0000,0000,,but could you pick someone up for me?
+Dialogue: 0,0:09:53.84,0:09:56.13,Default,Shinra,0000,0000,0000,,No, it's not work.
+Dialogue: 0,0:09:58.21,0:10:00.62,Default,Shinra,0000,0000,0000,,Yeah... he came home.
+Dialogue: 0,0:10:01.51,0:10:02.65,Default,Shinra,0000,0000,0000,,My dad, that is.
+Dialogue: 0,0:10:04.04,0:10:08.04,LOL ITALICS,Celty,0000,0000,0000,,Geez... he could have taken a cab or something.
+Dialogue: 0,0:10:09.04,0:10:12.04,LOL ITALICS,Celty,0000,0000,0000,,He used to always mess with me, but...
+Dialogue: 0,0:10:19.07,0:10:20.84,Default,Guy,0000,0000,0000,,Hey, hey, hey!
+Dialogue: 0,0:10:21.49,0:10:22.60,Default,Guy,0000,0000,0000,,Say something!
+Dialogue: 0,0:10:22.60,0:10:23.78,Default,Guy2,0000,0000,0000,,You're all white.
+Dialogue: 0,0:10:23.78,0:10:24.90,Default,Guy3,0000,0000,0000,,Too white.
+Dialogue: 0,0:10:24.33,0:10:25.63,LOL ITALICS,Celty,0000,0000,0000,,Could that be...
+Dialogue: 0,0:10:25.63,0:10:27.59,Default,Guy,0000,0000,0000,,What's with this old man?
+Dialogue: 0,0:10:27.59,0:10:30.26,Default,Guy2,0000,0000,0000,,Don't you think he looks pretty cool, Horoda-san?
+Dialogue: 0,0:10:31.17,0:10:34.81,Default,Shing,0000,0000,0000,,Gentlemen, the air in Tokyo is very filthy.
+Dialogue: 0,0:10:34.81,0:10:36.47,Default,Shing,0000,0000,0000,,Wouldn't you agree?
+Dialogue: 0,0:10:36.86,0:10:37.77,Default,Guy,0000,0000,0000,,What?
+Dialogue: 0,0:10:37.77,0:10:41.52,Default,Shing,0000,0000,0000,,Well, it looks like that dirty face of yours is protectively colored.
+Dialogue: 0,0:10:41.52,0:10:44.68,Default,Shing,0000,0000,0000,,Within this filthy air.
+Dialogue: 0,0:10:45.61,0:10:48.88,Default,Guy,0000,0000,0000,,I think this guy's fucked in the head.
+Dialogue: 0,0:10:48.88,0:10:50.96,Default,Guy2,0000,0000,0000,,Well, who cares?
+Dialogue: 0,0:10:58.55,0:11:02.66,Default,Shing,0000,0000,0000,,Seems like it's time to teach you \Nyoungsters the power of an adult.
+Dialogue: 0,0:11:03.42,0:11:11.02,Default,Shing,0000,0000,0000,,I'm sure you all think that because you're protected by the Juvenile Law, you can kill people as you please.
+Dialogue: 0,0:11:11.40,0:11:13.35,Default,Shing,0000,0000,0000,,Just remember.
+Dialogue: 0,0:11:13.35,0:11:15.57,Default,Shing,0000,0000,0000,,When you're trying to kill someone,
+Dialogue: 0,0:11:15.57,0:11:17.44,Default,Shing,0000,0000,0000,,you must be prepared to be killed by them as well-
+Dialogue: 0,0:11:18.91,0:11:20.93,Default,Guy,0000,0000,0000,,You really are crazy, aren't you, old man.
+Dialogue: 0,0:11:22.38,0:11:24.62,Default,Guy,0000,0000,0000,,I'm past twenty already!
+Dialogue: 0,0:11:26.60,0:11:28.02,Default,Shing,0000,0000,0000,,Hang on a second.
+Dialogue: 0,0:11:28.02,0:11:30.84,Default,Shing,0000,0000,0000,,This really hurts, and I can't run because you're stepping on my shoes.
+Dialogue: 0,0:11:32.47,0:11:34.25,Default,Shing,0000,0000,0000,,Your finger's going to go through!
+Dialogue: 0,0:11:34.25,0:11:35.92,Default,Shing,0000,0000,0000,,Ow! Ow! Ow! Ow! Ow!
+Dialogue: 0,0:11:35.92,0:11:37.96,Default,Shing,0000,0000,0000,,What are you doing, Celty?!
+Dialogue: 0,0:11:37.96,0:11:38.46,Default,Guy,0000,0000,0000,,What?
+Dialogue: 0,0:11:38.46,0:11:40.63,Default,Shing,0000,0000,0000,,Hurry up and save me!
+Dialogue: 0,0:11:44.66,0:11:46.40,LOL ITALICS,Celty,0000,0000,0000,,I wish I didn't have to...
+Dialogue: 0,0:11:47.27,0:11:53.73,Default,Shing,0000,0000,0000,,Don't you realize that I acted all tough simply because your presence reassured me?
+Dialogue: 0,0:11:56.43,0:11:59.72,Default,Guy2,0000,0000,0000,,Whoa, Horada-san, that's the black motorcyclist!
+Dialogue: 0,0:11:59.72,0:12:00.61,Default,Horoda,0000,0000,0000,,What?!
+Dialogue: 0,0:12:00.61,0:12:01.80,Default,Horoda,0000,0000,0000,,Are you serious, Higa?!
+Dialogue: 0,0:12:01.80,0:12:02.66,Default,Higa,0000,0000,0000,,Dead serious.
+Dialogue: 0,0:12:02.66,0:12:04.49,Default,Higa,0000,0000,0000,,Saw her on TV.
+Dialogue: 0,0:12:09.96,0:12:14.15,Default,Horoda,0000,0000,0000,,I heard you were at the Dollars meeting six months ago, too.
+Dialogue: 0,0:12:14.89,0:12:18.51,Default,Horoda,0000,0000,0000,,I'm tired of everyone acting all big in our territory.
+Dialogue: 0,0:12:18.89,0:12:20.00,Default,Horoda,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:12:20.00,0:12:21.30,Default,Horoda,0000,0000,0000,,Aren't you gonna say something?!
+Dialogue: 0,0:12:21.30,0:12:22.34,Default,Horoda,0000,0000,0000,,Yeah?
+Dialogue: 0,0:12:23.19,0:12:25.20,Default,Horoda,0000,0000,0000,,Something wrong?
+Dialogue: 0,0:12:43.08,0:12:44.96,Default,Horoda,0000,0000,0000,,What the hell is this?!
+Dialogue: 0,0:12:46.27,0:12:47.78,Default,Horoda,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:48.11,0:12:49.29,Default,Horoda,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:12:54.68,0:12:57.53,LOL ITALICS,Celty,0000,0000,0000,,Yeah, this is how people usually respond.
+Dialogue: 0,0:13:04.17,0:13:06.67,LOL ITALICS,Celty,0000,0000,0000,,Great, it's not broken.
+Dialogue: 0,0:13:06.67,0:13:09.33,LOL ITALICS,Celty,0000,0000,0000,,It's something precious Shinra gave me.
+Dialogue: 0,0:13:10.83,0:13:11.97,Default,Shing,0000,0000,0000,,They sure got told!
+Dialogue: 0,0:13:11.97,0:13:13.97,Default,Shing,0000,0000,0000,,This is the true power of an adult!
+Dialogue: 0,0:13:15.89,0:13:18.21,LOL ITALICS,Celty,0000,0000,0000,,I can't take a liking to him at all...
+Dialogue: 0,0:13:37.99,0:13:40.42,Default,Namie,0000,0000,0000,,Is there really a point to this?
+Dialogue: 0,0:13:52.60,0:13:54.93,Default,Namie,0000,0000,0000,,Geez, what rules does he play by?
+Dialogue: 0,0:13:56.02,0:13:57.33,Default,Simon,0000,0000,0000,,Russia Sushi!
+Dialogue: 0,0:13:57.44,0:13:59.07,Default,Simon,0000,0000,0000,,Russia Sushi!
+Dialogue: 0,0:13:59.07,0:14:00.13,Default,Simon,0000,0000,0000,,Sir!
+Dialogue: 0,0:14:00.13,0:14:01.94,Default,Simon,0000,0000,0000,,Oh, Izaya!
+Dialogue: 0,0:14:01.94,0:14:04.51,Default,Izaya,0000,0000,0000,,Yo, you're hard-working as ever.
+Dialogue: 0,0:14:04.51,0:14:06.65,Default,Simon,0000,0000,0000,,I've seen you in Ikebukuro a lot these days.
+Dialogue: 0,0:14:07.01,0:14:09.19,Default,Simon,0000,0000,0000,,Since you're here, stop by the restaurant.
+Dialogue: 0,0:14:09.19,0:14:11.53,Default,Simon,0000,0000,0000,,The canned fish were just opened this morning.
+Dialogue: 0,0:14:11.53,0:14:13.17,Default,Simon,0000,0000,0000,,Very fresh!
+Dialogue: 0,0:14:13.17,0:14:14.15,Default,Izaya,0000,0000,0000,,Sorry.
+Dialogue: 0,0:14:14.15,0:14:16.14,Default,Izaya,0000,0000,0000,,I'm actually pretty busy, despite how I look.
+Dialogue: 0,0:14:17.01,0:14:18.95,Default,Izaya,0000,0000,0000,,I'll stop by sometime in the future.
+Dialogue: 0,0:14:20.42,0:14:21.08,Default,Simon,0000,0000,0000,,Hey.
+Dialogue: 0,0:14:23.02,0:14:24.79,Default,Simon,0000,0000,0000,,{\pos(640,710)}You won't be able to keep something a secret forever.
+Dialogue: 0,0:14:25.07,0:14:28.46,Default,Izaya,0000,0000,0000,,{\pos(640,710)}Please don't talk about it in a city where she could hear you.
+Dialogue: 0,0:14:28.56,0:14:29.46,Default,Izaya,0000,0000,0000,,All right?
+Dialogue: 0,0:14:35.18,0:14:38.76,Default,Kida,0000,0000,0000,,Okay, so to decide which one of us understands Anri better,
+Dialogue: 0,0:14:38.76,0:14:41.02,Default,Kida,0000,0000,0000,,let's talk about her qualities.
+Dialogue: 0,0:14:41.02,0:14:42.16,Default,Kida,0000,0000,0000,,I'll start.
+Dialogue: 0,0:14:42.16,0:14:43.19,Default,Kida,0000,0000,0000,,The fact that she's sexy!
+Dialogue: 0,0:14:43.19,0:14:44.42,Default,Mikado,0000,0000,0000,,That right off the bat?
+Dialogue: 0,0:14:44.42,0:14:46.67,Default,Mikado,0000,0000,0000,,Let's move away from that topic.
+Dialogue: 0,0:14:46.67,0:14:49.02,Default,Kida,0000,0000,0000,,Those who laugh at sexuality cry from the lack of it.
+Dialogue: 0,0:14:49.57,0:14:50.70,Default,Mikado,0000,0000,0000,,I don't even get what you're trying to say.
+Dialogue: 0,0:14:50.70,0:14:54.80,LOL ITALICS,Anri,0000,0000,0000,,It was my first time making friends that were boys.
+Dialogue: 0,0:14:51.60,0:14:52.69,Default,Kida,0000,0000,0000,,Your turn now.
+Dialogue: 0,0:14:52.69,0:14:54.19,Default,Kida,0000,0000,0000,,List one of her qualities.
+Dialogue: 0,0:14:54.19,0:14:54.80,Default,Mikado,0000,0000,0000,,Well...
+Dialogue: 0,0:14:54.80,0:14:59.80,LOL ITALICS,Anri,0000,0000,0000,,Actually, to be precise, it was probably my first time having friends.
+Dialogue: 0,0:14:54.80,0:14:56.26,Default,Mikado,0000,0000,0000,,You know...
+Dialogue: 0,0:14:56.26,0:14:59.79,Default,Kida,0000,0000,0000,,Are you trying to say she doesn't have any qualities?
+Dialogue: 0,0:14:59.79,0:15:01.22,Default,Mikado,0000,0000,0000,,When did I say {\i1}that{\i0}?!
+Dialogue: 0,0:15:01.22,0:15:02.13,Default,Kida,0000,0000,0000,,Then say it.
+Dialogue: 0,0:15:02.13,0:15:02.79,Default,Kida,0000,0000,0000,,Now.
+Dialogue: 0,0:15:02.79,0:15:03.67,Default,Kida,0000,0000,0000,,I mean now!
+Dialogue: 0,0:15:04.07,0:15:04.70,Default,Mikado,0000,0000,0000,,Well...
+Dialogue: 0,0:15:04.70,0:15:09.23,LOL ITALICS,Anri,0000,0000,0000,,She used to only serve as a foil for a girl named Harima Mika.
+Dialogue: 0,0:15:09.51,0:15:11.08,LOL ITALICS,Anri,0000,0000,0000,,But that was fine.
+Dialogue: 0,0:15:11.66,0:15:13.42,LOL ITALICS,Anri,0000,0000,0000,,That gave her a place to belong to.
+Dialogue: 0,0:15:13.77,0:15:17.55,LOL ITALICS,Anri,0000,0000,0000,,But now that she lost that place...
+Dialogue: 0,0:15:18.08,0:15:20.96,LOL ITALICS,Anri,0000,0000,0000,,She couldn't find her standing ground.
+Dialogue: 0,0:15:21.87,0:15:22.85,Default,Kida,0000,0000,0000,,Okay!
+Dialogue: 0,0:15:22.85,0:15:25.35,Default,Kida,0000,0000,0000,,In order to prove Anri's sexual attractiveness,
+Dialogue: 0,0:15:25.35,0:15:27.73,Default,Kida,0000,0000,0000,,we're going to go pick up chicks!
+Dialogue: 0,0:15:27.73,0:15:29.04,Default,Mikado,0000,0000,0000,,What's with that logic?
+Dialogue: 0,0:15:29.04,0:15:30.53,Default,Anri,0000,0000,0000,,P-Pick up...?
+Dialogue: 0,0:15:30.53,0:15:31.95,Default,Kida,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:15:31.95,0:15:35.57,Default,Kida,0000,0000,0000,,You're essentially coming as a snare so we can trick them into thinking,
+Dialogue: 0,0:15:35.57,0:15:37.98,Default,Kida,0000,0000,0000,,"They've got a girl with them, so it'll be all right to go along."
+Dialogue: 0,0:15:37.98,0:15:39.66,Default,Kida,0000,0000,0000,,You don't have to do anything!
+Dialogue: 0,0:15:39.66,0:15:41.80,Default,Mikado,0000,0000,0000,,Hang on, Masaomi!
+Dialogue: 0,0:15:41.47,0:15:42.26,Default - Alt,Kida,0000,0000,0000,,Okay, let's go!
+Dialogue: 0,0:15:42.26,0:15:43.67,Default,Kida,0000,0000,0000,,Follow me!
+Dialogue: 0,0:15:43.67,0:15:45.09,Default,Kida,0000,0000,0000,,Off we...
+Dialogue: 0,0:15:45.09,0:15:45.71,Default,Kida,0000,0000,0000,,go!
+Dialogue: 0,0:15:46.79,0:15:48.54,Default,Kida,0000,0000,0000,,Let's go!
+Dialogue: 0,0:15:48.54,0:15:49.71,Default,Anri,0000,0000,0000,,K-Kida-kun?
+Dialogue: 0,0:15:49.71,0:15:51.05,Default,Mikado,0000,0000,0000,,Masaomi!
+Dialogue: 0,0:15:56.80,0:15:58.84,Default,Anri,0000,0000,0000,,Was it really okay...?
+Dialogue: 0,0:15:58.84,0:15:59.73,Default,Mikado,0000,0000,0000,,It's fine.
+Dialogue: 0,0:15:59.73,0:16:02.04,Default,Mikado,0000,0000,0000,,Even if we don't go with him, he'll do it alone anyway.
+Dialogue: 0,0:16:03.39,0:16:04.32,Default,Mikado,0000,0000,0000,,Geez...
+Dialogue: 0,0:16:10.57,0:16:12.18,Default,Kida,0000,0000,0000,,You're so needy.
+Dialogue: 0,0:16:12.18,0:16:15.06,Default,Kida,0000,0000,0000,,Since you're so inexperienced and naïve, I need to give you this much of a handicap.
+Dialogue: 0,0:16:15.92,0:16:17.57,Default,Kida,0000,0000,0000,,Man, I'm such a bro.
+Dialogue: 0,0:16:25.85,0:16:26.47,Default,Kida,0000,0000,0000,,Geez...
+Dialogue: 0,0:16:27.33,0:16:28.64,Default,Kida,0000,0000,0000,,Let's have fun.
+Dialogue: 0,0:16:28.64,0:16:29.03,Default,Kida,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:31.83,0:16:32.50,Default,Guy,0000,0000,0000,,Umm...
+Dialogue: 0,0:16:38.45,0:16:43.38,LOL ITALICS,Anri,0000,0000,0000,,She had realized that the two boys had taken a liking to her.
+Dialogue: 0,0:16:43.38,0:16:44.21,LOL ITALICS,Anri,0000,0000,0000,,But...
+Dialogue: 0,0:16:46.17,0:16:48.59,Default,Mikado,0000,0000,0000,,Hey, the sunset is really pretty!
+Dialogue: 0,0:16:48.59,0:16:49.29,Default,Anri,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:49.29,0:16:52.12,Default,Mikado,0000,0000,0000,,Oh, but I see a strange cloud over there...
+Dialogue: 0,0:16:52.12,0:16:56.22,Default,Mikado,0000,0000,0000,,It may rain later, so let's be careful.
+Dialogue: 0,0:16:56.22,0:16:57.50,Default,Anri,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:03.91,0:17:04.53,Default,Anri,0000,0000,0000,,Umm...
+Dialogue: 0,0:17:04.53,0:17:05.29,Default,Mikado,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:05.29,0:17:05.95,Default,Mikado,0000,0000,0000,,What is it?!
+Dialogue: 0,0:17:05.95,0:17:07.17,Default,Anri,0000,0000,0000,,I'm going to be heading home now...
+Dialogue: 0,0:17:07.61,0:17:08.16,Default,Mikado,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:08.51,0:17:10.26,Default,Anri,0000,0000,0000,,Well then, see you tomorrow.
+Dialogue: 0,0:17:11.53,0:17:12.44,Default,Mikado,0000,0000,0000,,Ah... yeah.
+Dialogue: 0,0:17:12.44,0:17:13.59,Default,Mikado,0000,0000,0000,,See you tomorrow.
+Dialogue: 0,0:17:17.43,0:17:20.33,Default,Mikado,0000,0000,0000,,Not much of a smooth-talker, am I.
+Dialogue: 0,0:17:22.01,0:17:26.61,LOL ITALICS,Anri,0000,0000,0000,,Even if one of them confesses to her, she \Nprobably won't be able to give them an answer.
+Dialogue: 0,0:17:26.61,0:17:29.90,LOL ITALICS,Anri,0000,0000,0000,,Even now, she likes Harima Mika.
+Dialogue: 0,0:17:30.72,0:17:32.44,LOL ITALICS,Anri,0000,0000,0000,,And she likes the two about as much as she likes her.
+Dialogue: 0,0:17:33.12,0:17:36.94,LOL ITALICS,Anri,0000,0000,0000,,She still doesn't know the difference between friendship and love.
+Dialogue: 0,0:17:41.00,0:17:43.00,LOL ITALICS,Anri,0000,0000,0000,,For her, Harima Mika,
+Dialogue: 0,0:17:43.46,0:17:46.84,LOL ITALICS,Anri,0000,0000,0000,,Ryugamine Mikado and Kida Masaomi are all...
+Dialogue: 0,0:17:49.46,0:17:50.92,Default,Guy,0000,0000,0000,,Even if we insist?
+Dialogue: 0,0:17:50.92,0:17:53.43,Default,Guy,0000,0000,0000,,We still really need you...
+Dialogue: 0,0:17:53.43,0:17:55.09,Default,Kida,0000,0000,0000,,Stop making me repeat myself.
+Dialogue: 0,0:17:55.09,0:17:56.67,Default,Kida,0000,0000,0000,,I have nothing to do with you guys anymore.
+Dialogue: 0,0:17:57.31,0:17:59.07,Default,Kida,0000,0000,0000,,This isn't a place for me to be.
+Dialogue: 0,0:18:00.96,0:18:02.98,Default,Kida,0000,0000,0000,,I don't plan on coming back.
+Dialogue: 0,0:18:03.67,0:18:05.03,Default,Kida,0000,0000,0000,,To this side, that is.
+Dialogue: 0,0:18:06.43,0:18:07.53,Default,Guy,0000,0000,0000,,Seriously?
+Dialogue: 0,0:18:07.55,0:18:08.76,Default,Guy,0000,0000,0000,,That's hilarious.
+Dialogue: 0,0:18:45.09,0:18:48.48,Default,Tanaka,0000,0000,0000,,A lot of people wearing yellow have started to appear in the city.
+Dialogue: 0,0:18:48.48,0:18:49.27,Default,Set,0000,0000,0000,,Yellow?
+Dialogue: 0,0:18:49.27,0:18:50.58,Default,Kanra,0000,0000,0000,,I've noticed that, too.
+Dialogue: 0,0:18:50.58,0:18:54.10,Default,Kanra,0000,0000,0000,,Since you can actually notice by seeing them, they even stand out more than the Dollars.
+Dialogue: 0,0:18:54.50,0:18:56.70,Default,Set,0000,0000,0000,,Ah, the Yellow Scarves?
+Dialogue: 0,0:18:56.70,0:18:58.45,Default,Kanra,0000,0000,0000,,You know about them too, Setton-san?
+Dialogue: 0,0:18:58.45,0:18:59.68,Default,Set,0000,0000,0000,,Well, a bit...
+Dialogue: 0,0:18:59.68,0:19:02.20,Default,Set,0000,0000,0000,,They've been around for a while.
+Dialogue: 0,0:19:02.42,0:19:04.12,Default,Tanaka,0000,0000,0000,,The Yellow Scarves...?
+Dialogue: 0,0:19:04.41,0:19:06.36,Default,Kanra,0000,0000,0000,,A team that used to be active in Ikebukuro.
+Dialogue: 0,0:19:06.62,0:19:10.42,Default,Kanra,0000,0000,0000,,But they actually disappeared due to a dispute with another team...
+Dialogue: 0,0:19:10.42,0:19:14.03,Default,Tanaka,0000,0000,0000,,Oh, I've actually heard of that before.
+Dialogue: 0,0:19:14.93,0:19:16.84,Default,Tanaka,0000,0000,0000,,So you mean, they've resurrected?
+Dialogue: 0,0:19:17.12,0:19:19.63,Default,Kanra,0000,0000,0000,,Ikebukuro's gotten pretty dangerous.
+Dialogue: 0,0:19:19.63,0:19:20.91,Default,Set,0000,0000,0000,,Yeah...
+Dialogue: 0,0:19:20.91,0:19:22.73,Default,Set,0000,0000,0000,,Even the cops are scary.
+Dialogue: 0,0:19:22.73,0:19:23.85,Default,Set,0000,0000,0000,,No, seriously!
+Dialogue: 0,0:19:24.14,0:19:26.09,Default,Set,0000,0000,0000,,Don't underestimate them!
+Dialogue: 0,0:19:27.30,0:19:28.35,LOL ITALICS,Tanaka,0000,0000,0000,,The cops?
+Dialogue: 0,0:19:30.40,0:19:32.52,Default,Girl,0000,0000,0000,,Wow, she fell.
+Dialogue: 0,0:19:32.52,0:19:33.19,Default,Girl,0000,0000,0000,,How lame!
+Dialogue: 0,0:19:33.19,0:19:34.72,Default,Girl2,0000,0000,0000,,I only kicked her lightly.
+Dialogue: 0,0:19:34.97,0:19:36.39,Default,Girl2,0000,0000,0000,,She's so slow.
+Dialogue: 0,0:19:36.39,0:19:38.19,Default,Aki,0000,0000,0000,,Well, she's a pinworm, after all.
+Dialogue: 0,0:19:40.33,0:19:42.16,Default,Nanka,0000,0000,0000,,What's with that look?!
+Dialogue: 0,0:19:42.51,0:19:45.57,Default,Kanra,0000,0000,0000,,And it doesn't seem like the slashing incidents will go away anytime soon.
+Dialogue: 0,0:19:45.57,0:19:47.41,Default,Kanra,0000,0000,0000,,Oh yeah, have you heard?
+Dialogue: 0,0:19:47.41,0:19:50.62,Default,Kanra,0000,0000,0000,,People are saying that the Slasher is actually in the Dollars.
+Dialogue: 0,0:19:50.62,0:19:52.92,Default,Kanra,0000,0000,0000,,Some people are even rumoring that it could be the Headless Rider.
+Dialogue: 0,0:19:53.25,0:19:55.03,Default,Set,0000,0000,0000,,What?! Who started that rumor?!
+Dialogue: 0,0:19:55.03,0:19:56.64,Default,Tanaka,0000,0000,0000,,I don't think that's true.
+Dialogue: 0,0:19:57.18,0:19:58.82,Default,Kanra,0000,0000,0000,,Jokes aside...
+Dialogue: 0,0:19:58.82,0:20:01.64,Default,Kanra,0000,0000,0000,,You should really watch out for the Yellow Scarves.
+Dialogue: 0,0:20:01.91,0:20:05.39,Default,Kanra,0000,0000,0000,,Some of them aren't too happy about the Dollars,
+Dialogue: 0,0:20:05.39,0:20:08.10,Default,Kanra,0000,0000,0000,,since they really spread their influence \Nwhile the Yellow Scarves were inactive.
+Dialogue: 0,0:20:08.32,0:20:09.77,Default,Tanaka,0000,0000,0000,,I see...
+Dialogue: 0,0:20:10.05,0:20:12.07,Default,Tanaka,0000,0000,0000,,Thanks, I'll be careful.
+Dialogue: 0,0:20:17.25,0:20:18.54,Default,Girl,0000,0000,0000,,Seriously...
+Dialogue: 0,0:20:18.54,0:20:21.38,Default,Girl,0000,0000,0000,,First Harima, and now Ryugamine, Kida,
+Dialogue: 0,0:20:21.38,0:20:23.33,Default,Girl,0000,0000,0000,,and on top of that, Nasujima?
+Dialogue: 0,0:20:23.33,0:20:26.10,Default,Girl2,0000,0000,0000,,Just how many people do you have to sell your body to for you to be satisfied,
+Dialogue: 0,0:20:26.10,0:20:27.53,Default,Girl2,0000,0000,0000,,you whore?!
+Dialogue: 0,0:20:27.53,0:20:30.82,Default,Girl2,0000,0000,0000,,You can't even survive unless you feed on somebody.
+Dialogue: 0,0:20:30.82,0:20:31.64,Default,Girl2,0000,0000,0000,,You pinworm!
+Dialogue: 0,0:20:31.64,0:20:32.31,Default,Youko,0000,0000,0000,,Pinworm!
+Dialogue: 0,0:20:32.38,0:20:33.03,Default,Girl,0000,0000,0000,,Pinworm!
+Dialogue: 0,0:20:33.39,0:20:44.34,Default,All,0000,0000,0000,,Pinworm...
+Dialogue: 0,0:20:34.28,0:20:36.14,LOL ITALICS,Anri,0000,0000,0000,,The girl knew...
+Dialogue: 0,0:20:36.14,0:20:39.06,LOL ITALICS,Anri,0000,0000,0000,,that what they were saying was true.
+Dialogue: 0,0:20:39.04,0:20:42.18,LOL ITALICS,Anri,0000,0000,0000,,She was depending on Harima Mika.
+Dialogue: 0,0:20:42.18,0:20:44.33,LOL ITALICS,Anri,0000,0000,0000,,And even now...
+Dialogue: 0,0:20:44.33,0:20:45.95,Default,Girl,0000,0000,0000,,Why aren't you saying anything?!
+Dialogue: 0,0:20:45.95,0:20:47.22,Default,Girl2,0000,0000,0000,,Say something!
+Dialogue: 0,0:20:47.22,0:20:49.80,Default,Girl3,0000,0000,0000,,Do pinworms not have mouths?
+Dialogue: 0,0:20:49.80,0:20:53.65,LOL ITALICS,Anri,0000,0000,0000,,She may be depending on those two boys.
+Dialogue: 0,0:20:54.23,0:20:57.33,LOL ITALICS,Anri,0000,0000,0000,,To find a place within them where she could belong.
+Dialogue: 0,0:20:57.33,0:20:59.04,Default,Girl,0000,0000,0000,,You smell, pinworm!
+Dialogue: 0,0:20:59.04,0:21:00.58,Default,Girl,0000,0000,0000,,Quit coming to school!
+Dialogue: 0,0:21:00.58,0:21:03.99,Default,Youko,0000,0000,0000,,We've lost two boyfriends because of you!
+Dialogue: 0,0:21:03.99,0:21:06.06,Default,Hari,0000,0000,0000,,What are you staring off into space for?!
+Dialogue: 0,0:21:06.06,0:21:10.67,LOL ITALICS,Anri,0000,0000,0000,,She had been protecting herself and her soul like this.
+Dialogue: 0,0:21:10.67,0:21:11.90,LOL ITALICS,Anri,0000,0000,0000,,Nothing happens.
+Dialogue: 0,0:21:11.90,0:21:13.17,LOL ITALICS,Anri,0000,0000,0000,,Nothing changes.
+Dialogue: 0,0:21:13.17,0:21:15.07,LOL ITALICS,Anri,0000,0000,0000,,That was her daily life.
+Dialogue: 0,0:21:15.07,0:21:17.34,Default,Girl,0000,0000,0000,,Don't you live around here?
+Dialogue: 0,0:21:17.34,0:21:18.63,Default,Girl,0000,0000,0000,,Let us come over.
+Dialogue: 0,0:21:18.63,0:21:20.46,Default,Girl2,0000,0000,0000,,We'll dig up some evidence!
+Dialogue: 0,0:21:20.46,0:21:22.59,Default,Girl3,0000,0000,0000,,Hurry up and lead the way!
+Dialogue: 0,0:21:42.44,0:21:44.57,Default,Kanra,0000,0000,0000,,Here she is!
+Dialogue: 0,0:21:44.57,0:21:45.16,Default,Set,0000,0000,0000,,Whoa.
+Dialogue: 0,0:21:45.45,0:21:46.02,Default,Tarou,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:47.66,0:21:50.15,Default,Kanra,0000,0000,0000,,We're the ones that want to cut you, geez!
+Dialogue: 0,0:21:50.15,0:21:55.15,Default,Tanaka,0000,0000,0000,,The one that's been trolling BBS' and chat rooms related to Ikebukuro since six months ago, right?
+Dialogue: 0,0:21:56.51,0:21:58.78,Default,Set,0000,0000,0000,,You still hadn't banned him?
+Dialogue: 0,0:21:59.06,0:22:00.39,Default,Kanra,0000,0000,0000,,I did!
+Dialogue: 0,0:22:00.39,0:22:02.30,Default,Kanra,0000,0000,0000,,But no matter how many times I do it, it's pointless!
+Dialogue: 0,0:22:02.81,0:22:04.10,Default,Set,0000,0000,0000,,Oh, I see.
+Dialogue: 0,0:22:04.72,0:22:10.10,Default,Kanra,0000,0000,0000,,I've banned his remote host, but he enters immediately via a different host.
+Dialogue: 0,0:22:11.58,0:22:13.05,Default,Tanaka,0000,0000,0000,,Oh, a proxy?
+Dialogue: 0,0:22:13.81,0:22:16.89,Default,Kanra,0000,0000,0000,,Well, it doesn't really seem like he's on a proxy.
+Dialogue: 0,0:22:16.89,0:22:19.02,Default,Set,0000,0000,0000,,He's kind of giving me the creeps.
+Dialogue: 0,0:22:26.43,0:22:27.46,Default,Girl,0000,0000,0000,,Help-
+Dialogue: 0,0:22:37.17,0:22:38.47,LOL ITALICS,Anri,0000,0000,0000,,Nothing happens.
+Dialogue: 0,0:22:38.94,0:22:40.41,LOL ITALICS,Anri,0000,0000,0000,,Nothing changes.
+Dialogue: 0,0:22:42.52,0:22:44.17,LOL ITALICS,Anri,0000,0000,0000,,That's...
+Dialogue: 0,0:24:15.26,0:24:17.64,Default,Celty,0000,0000,0000,,The Slasher exists somewhere in this city.
+Dialogue: 0,0:24:17.64,0:24:21.64,Default,Celty,0000,0000,0000,,The terror that arises in the hearts of the people every time the incident occurs
+Dialogue: 0,0:24:21.64,0:24:24.86,Default,Celty,0000,0000,0000,,causes millions of rumors to fly about within the heavy, stagnant night air.
+Dialogue: 0,0:24:25.52,0:24:26.41,Default,Celty,0000,0000,0000,,However...
+Dialogue: 0,0:24:26.41,0:24:28.85,Default,Celty,0000,0000,0000,,Next time: Unrest Prevailing.
+Dialogue: 0,0:00:07.94,0:00:14.96,OP2,,0000,0000,0000,,{\fad(150,150)}The low sky looks like it's about to cry.
+Dialogue: 0,0:00:15.45,0:00:20.41,OP2,,0000,0000,0000,,{\fad(50,150)}I spit a mixture of saliva and agitation on the sidewalk.
+Dialogue: 0,0:00:21.33,0:00:24.88,OP2,,0000,0000,0000,,{\fad(0,50)\org(0,0)}I cower at the thought of tomorrow,
+Dialogue: 0,0:00:24.76,0:00:28.04,OP2,,0000,0000,0000,,{\fad(50,0)\org(0,0)}Worrying that everything might fall apart.
+Dialogue: 0,0:00:28.04,0:00:30.51,OP2,,0000,0000,0000,,In my heart, I know that looking ahead
+Dialogue: 0,0:00:30.51,0:00:34.01,OP2,,0000,0000,0000,,To the day after tomorrow won't give me a single answer.
+Dialogue: 0,0:00:34.01,0:00:39.85,OP2,,0000,0000,0000,,Tomorrow is like an empty canvas that extends endlessly;
+Dialogue: 0,0:00:39.85,0:00:42.85,OP2,,0000,0000,0000,,{\fad(0,150)}What should I sketch on it?
+Dialogue: 0,0:00:47.77,0:00:53.86,OP2,,0000,0000,0000,,Reality begins to stain the canvas black;
+Dialogue: 0,0:00:53.86,0:00:56.55,OP2,,0000,0000,0000,,{\fad(0,150)}What should I draw?
+Dialogue: 0,0:00:56.78,0:01:00.41,OP2,,0000,0000,0000,,{\fad(0,150)}I struggle to shine.
+Dialogue: 0,0:01:22.22,0:01:28.24,OP2,,0000,0000,0000,,{\fad(100,0)\org(0,0)}Tomorrow is like an empty canvas that extends endlessly;
+Dialogue: 0,0:01:28.24,0:01:31.11,OP2,,0000,0000,0000,,{\fad(0,150)\org(0,0)}What should I sketch on it?
+Dialogue: 0,0:01:35.85,0:01:42.00,OP2,,0000,0000,0000,,{\fad(150,0)\org(0,0)}Reality begins to stain the canvas black;
+Dialogue: 0,0:01:42.00,0:01:44.94,OP2,,0000,0000,0000,,{\fad(0,150)\org(0,0)}What should I draw?
+Dialogue: 0,0:01:44.84,0:01:48.76,OP2,,0000,0000,0000,,{\fad(150,200)\org(0,0)}I struggle to shine.
+Dialogue: 0,0:22:55.07,0:22:58.94,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}"Do dreams exist at a time like this?"
+Dialogue: 0,0:22:58.82,0:23:02.62,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}I've gotten tired of speaking like that.
+Dialogue: 0,0:23:02.85,0:23:06.76,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}I've been walking this entire time,
+Dialogue: 0,0:23:06.74,0:23:10.07,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}but recently, even that seems fruitless and in vain.
+Dialogue: 0,0:23:09.80,0:23:12.40,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}{\an7}"I want to see you."
+Dialogue: 0,0:23:11.72,0:23:13.92,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}{\an9}An irrelevant phrase
+Dialogue: 0,0:23:13.71,0:23:18.31,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}often heard sung round and round the city.
+Dialogue: 0,0:23:18.01,0:23:20.15,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}{\an7}Something like that
+Dialogue: 0,0:23:19.45,0:23:23.40,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3\pos(1260,25)}{\an9}No, something like that
+Dialogue: 0,0:23:19.87,0:23:22.33,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}{\an7}isn't enough to satisfy me.
+Dialogue: 0,0:23:22.03,0:23:26.11,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3\an7}I know exactly how I feel.
+Dialogue: 0,0:23:25.96,0:23:32.50,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3\pos(640,25)}We're free. We pray that all dreams eventually come true.
+Dialogue: 0,0:23:32.40,0:23:34.46,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}{\an7}Just like that,
+Dialogue: 0,0:23:33.84,0:23:35.92,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}everyone searches for their true selves.
+Dialogue: 0,0:23:35.81,0:23:40.29,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}What we find after a long journey
+Dialogue: 0,0:23:39.99,0:23:42.04,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}{\an9}is the answer.
+Dialogue: 0,0:23:41.74,0:23:45.92,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}We're free. We seek the light.
+Dialogue: 0,0:23:45.62,0:23:49.91,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}We float freely like butterflies.
+Dialogue: 0,0:23:49.61,0:23:51.81,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}Our hearts reflect the great blue sky.
+Dialogue: 0,0:23:51.51,0:23:56.00,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}Even if we happen to lose our freedom amidst a strong wind,
+Dialogue: 0,0:23:55.93,0:23:58.93,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}we never want to feel regret.
+Dialogue: 0,0:24:01.39,0:24:05.51,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}We're free. We seek the light.
+Dialogue: 0,0:24:05.35,0:24:09.39,ED2,,0000,0000,0000,,{\fad(150,150)\org(0,0)\blur3}We're free. We long to reach a new height.
+Dialogue: 0,0:02:48.43,0:02:50.39,Ep Titles,,0000,0000,0000,,{\c&H2167DE&\pos(640,84)}Suddenly {\c&HE3E3E3&}and Precipitately
+Dialogue: 0,0:04:27.66,0:04:29.33,Ep Titles,,0000,0000,0000,,{\fs70\fax0.1\c&H000000&\blur2\pos(541,367)\frz344.468}After the Dollars!!
+Dialogue: 0,0:04:29.37,0:04:31.20,Ep Titles,,0000,0000,0000,,{\fs70\fax0.1\c&H000000&\blur2\frz344.468\pos(617,345)}The Slasher!!
+Dialogue: 0,0:13:35.16,0:13:37.42,nigSign,,0000,0000,0000,,{\be1\fs60\c&H444444&\pos(651,127)\frz4.979}Yagiri Namie
+Dialogue: 0,0:13:35.16,0:13:37.42,nigSign,,0000,0000,0000,,{\be1\fs60\c&H444444&\frz4.979\pos(444,389)}Secretary
+Dialogue: 0,0:15:12.68,0:15:13.43,Handwriting,,0000,0000,0000,,{\fs60\be1\c&HA775A4&\3c&H8EC9C8&\frz351.169\pos(414,619)}Friends forever
+Dialogue: 0,0:18:16.99,0:18:19.99,slashersign,,0000,0000,0000,,{\an9\fs40\blur1\shad2\c&H9091A0&\pos(746,30)\4c&H000000&}What is the identity \Nof the Slasher?
+Dialogue: 0,0:18:19.99,0:18:22.99,Ep Titles,,0000,0000,0000,,{\an1\fax-0.04\fay0.055\c&H904438&\pos(371,283)\frz9.458\frx358\fry0}Eight incidents so far this month!
+Dialogue: 0,0:18:22.99,0:18:25.95,Ep Titles,,0000,0000,0000,,{\fay0.07\fax0.1\an1\c&H904438&\fs45\fscy95\frx358\fry4\org(78,184)\pos(152,206)\frz359.892}None of the victims have anything in common. Could the culprit be a psychopath attacking randomly?!
+Dialogue: 0,0:21:40.86,0:21:42.40,Internet - Gray,,0000,0000,0000,,{\fs55\pos(351,389)}Saika-san has entered the chat.
+Dialogue: 0,0:21:46.11,0:21:46.70,Internet - Gray,,0000,0000,0000,,{\fs55\pos(468,454)}Cut
+Dialogue: 0,0:21:46.78,0:21:47.45,Internet - Gray,,0000,0000,0000,,{\fs55\pos(468,454)}I cut
+Dialogue: 0,0:21:47.45,0:21:49.87,Internet - Gray,,0000,0000,0000,,{\pos(335,371)}I cut
+Dialogue: 0,0:21:47.45,0:21:49.87,Internet - Gray,,0000,0000,0000,,{\pos(334,539)}Cut
+Dialogue: 0,0:21:49.87,0:21:50.16,Internet - Gray,,0000,0000,0000,,{\pos(323,708)}Cut
+Dialogue: 0,0:21:49.87,0:21:50.16,Internet - Gray,,0000,0000,0000,,{\pos(328,541)}I cut
+Dialogue: 0,0:21:49.95,0:21:50.16,Internet - Gray,,0000,0000,0000,,{\pos(337,206)\frz357.784}Wrong
+Dialogue: 0,0:21:50.16,0:21:54.75,Internet - Gray,,0000,0000,0000,,{\pos(333,414)\frz359.001}Wrong
+Dialogue: 0,0:21:54.75,0:21:55.50,Internet - Gray,,0000,0000,0000,,{\pos(329,583)\frz0.664}Wrong
+Dialogue: 0,0:21:54.83,0:21:55.50,Internet - Gray,,0000,0000,0000,,{\frz356.556\pos(340,205)}Weak, wrong,
+Dialogue: 0,0:21:55.50,0:21:56.25,Internet - Gray,,0000,0000,0000,,{\pos(338,368)\frz358.322}Weak, wrong,
+Dialogue: 0,0:21:56.25,0:21:58.00,Internet - Gray,,0000,0000,0000,,{\pos(332,537)\frz359.934}Weak, wrong,
+Dialogue: 0,0:21:58.00,0:21:58.83,Internet - Gray,,0000,0000,0000,,{\pos(325,713)\frz1.924}Weak, wrong,
+Dialogue: 0,0:21:55.58,0:21:56.25,Internet - Gray,,0000,0000,0000,,{\pos(338,204)\frz356.081}I cannot conquer
+Dialogue: 0,0:21:56.25,0:21:58.00,Internet - Gray,,0000,0000,0000,,{\frz358.579\pos(336,369)}I cannot conquer
+Dialogue: 0,0:21:58.00,0:21:58.83,Internet - Gray,,0000,0000,0000,,{\pos(333,541)\frz0.947}I cannot conquer
+Dialogue: 0,0:21:58.83,0:22:00.13,Internet - Gray,,0000,0000,0000,,{\pos(326,706)\frz1.761}I cannot conquer
+Dialogue: 0,0:21:58.08,0:21:58.83,Internet - Gray,,0000,0000,0000,,{\frz356.832\pos(340,208)}Wish, I want
+Dialogue: 0,0:21:58.83,0:22:00.13,Internet - Gray,,0000,0000,0000,,{\pos(336,371)\frz358.196}Wish, I want
+Dialogue: 0,0:22:00.13,0:22:02.30,Internet - Gray,,0000,0000,0000,,{\pos(329,538)\frz359.863}Wish, I want
+Dialogue: 0,0:22:02.30,0:22:02.63,Internet - Gray,,0000,0000,0000,,{\pos(334,710)\frz1.21}Wish, I want
+Dialogue: 0,0:22:02.38,0:22:02.63,Internet - Gray,,0000,0000,0000,,{\frz356.466\pos(340,206)}Love. I don't have enough love.
+Dialogue: 0,0:22:02.63,0:22:04.09,Internet - Gray,,0000,0000,0000,,{\frz358.217\pos(336,370)}Love. I don't have enough love.
+Dialogue: 0,0:22:04.09,0:22:04.55,Internet - Gray,,0000,0000,0000,,{\pos(334,538)\frz0.885}Love. I don't have enough love.
+Dialogue: 0,0:22:04.17,0:22:04.55,Internet - Gray,,0000,0000,0000,,{\pos(316,199)\frz356.576}I, want to love, humans
+Dialogue: 0,0:22:04.55,0:22:09.76,Internet - Gray,,0000,0000,0000,,{\pos(339,415)\frz359.085}I, want to love, humans.
+Dialogue: 0,0:22:09.76,0:22:11.39,Internet - Gray,,0000,0000,0000,,{\frz1.195\pos(329,584)}I, want to love, humans.
+Dialogue: 0,0:22:09.84,0:22:11.39,Internet - Gray,,0000,0000,0000,,{\pos(330,204)\frz356.739}I, long, for, a, stronger, love
+Dialogue: 0,0:22:11.39,0:22:13.06,Internet - Gray,,0000,0000,0000,,{\frz358.668\pos(334,371)}I, long, for, a, stronger, love
+Dialogue: 0,0:22:13.06,0:22:13.81,Internet - Gray,,0000,0000,0000,,{\frz0.153\pos(338,536)}I, long, for, a, stronger, love
+Dialogue: 0,0:22:13.81,0:22:16.89,Internet - Gray,,0000,0000,0000,,{\pos(334,708)\frz2.663}I, long, for, a, stronger, love
+Dialogue: 0,0:22:13.06,0:22:13.81,Internet - Gray,,0000,0000,0000,,{\pos(340,207)\frz356.763}Wish, I, mother, mother
+Dialogue: 0,0:22:13.81,0:22:16.89,Internet - Gray,,0000,0000,0000,,{\pos(335,371)\frz358.814}Wish, I, mother, mother
+Dialogue: 0,0:22:16.89,0:22:19.02,Internet - Gray,,0000,0000,0000,,{\pos(330,540)\frz0.763}Wish, I, mother, mother
+Dialogue: 0,0:22:19.02,0:22:19.69,Internet - Gray,,0000,0000,0000,,{\an1\t(0,644,\fs28)\frz359.505\move(175,665,204,645)}Wish, I, mother, mother
+Dialogue: 0,0:22:19.10,0:22:19.69,Internet - Gray,,0000,0000,0000,,{\fs29\an1\t(0,561,\fs27)\frz0.594\move(185,166,204,175)}Mother
+Dialogue: 0,0:22:19.69,0:22:20.19,Internet - Gray,,0000,0000,0000,,{\fs27\an1\t(0,482,\fs26)\frz0.594\move(202,333,220,332)}Mother
+Dialogue: 0,0:22:20.19,0:22:20.52,Internet - Gray,,0000,0000,0000,,{\fs27\an1\t(0,316,\fs26)\frz0.594\move(224,479,233,476)}Mother
+Dialogue: 0,0:22:20.52,0:22:20.86,Internet - Gray,,0000,0000,0000,,{\fs27\an1\t(0,316,\fs26)\frz0.594\move(243,619,243,614)}Mother
+Dialogue: 0,0:24:12.97,0:24:14.55,Signs,,0000,0000,0000,,{\fs40\pos(640,520)\fnCartoon}This is a work of fiction. Any similarity or likeness to any events or persons living or dead is purely coincidental.
+Dialogue: 0,0:24:14.55,0:24:29.43,Anime Title,,0000,0000,0000,,{\fs80\pos(930,41)\bord0.7\be1\shad3\c&HAB009E&}Dullalala!!
+Dialogue: 0,0:24:14.55,0:24:29.43,Ep Titles,,0000,0000,0000,,{\fs30\pos(575,93)\bord0.7\be1\shad3}Next Time
+Dialogue: 0,0:24:14.55,0:24:29.43,Ep Titles,,0000,0000,0000,,{\bord1.5\be1\shad3\fs70\c&H4DA84B&\c&HE2E2E2&\pos(413,505)}Unrest {\c&HA5009F&}Prevailing
+Dialogue: 0,0:18:26.88,0:18:26.92,Internet - BB,,0000,0000,0000,end,{\pos(170,750.750)\pos(170,750)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:26.92,0:18:26.96,Internet - BB,,0000,0000,0000,end,{\pos(170,733.875)\pos(170,733)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:26.96,0:18:27.00,Internet - BB,,0000,0000,0000,end,{\pos(170,717.375)\pos(170,717)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.00,0:18:27.04,Internet - BB,,0000,0000,0000,end,{\pos(170,701.375)\pos(170,701)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.04,0:18:27.09,Internet - BB,,0000,0000,0000,end,{\pos(170,685.750)\pos(170,685)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.09,0:18:27.13,Internet - BB,,0000,0000,0000,end,{\pos(170,670.625)\pos(170,670)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.13,0:18:27.17,Internet - BB,,0000,0000,0000,end,{\pos(170,656.125)\pos(170,656)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.17,0:18:27.21,Internet - BB,,0000,0000,0000,end,{\pos(170,642.250)\pos(170,642)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.21,0:18:27.25,Internet - BB,,0000,0000,0000,end,{\pos(170,629)\pos(170,629)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.25,0:18:27.29,Internet - BB,,0000,0000,0000,end,{\pos(170,616.500)\pos(170,616)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.29,0:18:27.34,Internet - BB,,0000,0000,0000,end,{\pos(170,604.875)\pos(170,604)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.34,0:18:27.38,Internet - BB,,0000,0000,0000,end,{\pos(170,594)\pos(170,594)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.38,0:18:27.42,Internet - BB,,0000,0000,0000,end,{\pos(170,584.125)\pos(170,584)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.42,0:18:27.46,Internet - BB,,0000,0000,0000,end,{\pos(170,575.500)\pos(170,575)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.46,0:18:27.50,Internet - BB,,0000,0000,0000,end,{\pos(170,567.875)\pos(170,567)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.50,0:18:27.54,Internet - BB,,0000,0000,0000,end,{\pos(170,561.625)\pos(170,561)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.54,0:18:27.59,Internet - BB,,0000,0000,0000,end,{\pos(170,556.875)\pos(170,556)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.59,0:18:27.67,Internet - BB,,0000,0000,0000,end,{\pos(170,553.750)\pos(170,553)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:27.67,0:18:28.71,Internet - BB,,0000,0000,0000,end,{\pos(170,552.750)\pos(170,552)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:28.71,0:18:28.75,Internet - BB,,0000,0000,0000,end,{\pos(170,542.375)\pos(170,542)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:28.75,0:18:28.80,Internet - BB,,0000,0000,0000,end,{\pos(170,530.625)\pos(170,530)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:28.80,0:18:28.84,Internet - BB,,0000,0000,0000,end,{\pos(170,518.375)\pos(170,518)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:28.84,0:18:28.88,Internet - BB,,0000,0000,0000,end,{\pos(170,505.875)\pos(170,505)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:28.88,0:18:28.92,Internet - BB,,0000,0000,0000,end,{\pos(170,493.250)\pos(170,493)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:28.92,0:18:28.96,Internet - BB,,0000,0000,0000,end,{\pos(170,480.375)\pos(170,480)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:28.96,0:18:29.00,Internet - BB,,0000,0000,0000,end,{\pos(170,467.750)\pos(170,467)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.00,0:18:29.05,Internet - BB,,0000,0000,0000,end,{\pos(170,455.125)\pos(170,455)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.05,0:18:29.09,Internet - BB,,0000,0000,0000,end,{\pos(170,442.625)\pos(170,442)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.09,0:18:29.13,Internet - BB,,0000,0000,0000,end,{\pos(170,430.375)\pos(170,430)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.13,0:18:29.17,Internet - BB,,0000,0000,0000,end,{\pos(170,418.375)\pos(170,418)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.17,0:18:29.21,Internet - BB,,0000,0000,0000,end,{\pos(170,406.500)\pos(170,406)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.21,0:18:29.25,Internet - BB,,0000,0000,0000,end,{\pos(170,395)\pos(170,395)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.25,0:18:29.30,Internet - BB,,0000,0000,0000,end,{\pos(170,383.750)\pos(170,383)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.30,0:18:29.34,Internet - BB,,0000,0000,0000,end,{\pos(170,372.750)\pos(170,372)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.34,0:18:29.38,Internet - BB,,0000,0000,0000,end,{\pos(170,362.250)\pos(170,362)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.38,0:18:29.42,Internet - BB,,0000,0000,0000,end,{\pos(170,352)\pos(170,352)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.42,0:18:29.46,Internet - BB,,0000,0000,0000,end,{\pos(170,342.500)\pos(170,342)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.46,0:18:29.50,Internet - BB,,0000,0000,0000,end,{\pos(170,333.375)\pos(170,333)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.50,0:18:29.55,Internet - BB,,0000,0000,0000,end,{\pos(170,324.625)\pos(170,324)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.55,0:18:29.59,Internet - BB,,0000,0000,0000,end,{\pos(170,316.375)\pos(170,316)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.59,0:18:29.63,Internet - BB,,0000,0000,0000,end,{\pos(170,308.875)\pos(170,308)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.63,0:18:29.67,Internet - BB,,0000,0000,0000,end,{\pos(170,302)\pos(170,302)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.67,0:18:29.71,Internet - BB,,0000,0000,0000,end,{\pos(170,295.875)\pos(170,295)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.71,0:18:29.75,Internet - BB,,0000,0000,0000,end,{\pos(170,290.500)\pos(170,290)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.75,0:18:29.80,Internet - BB,,0000,0000,0000,end,{\pos(170,286.250)\pos(170,286)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.80,0:18:29.84,Internet - BB,,0000,0000,0000,end,{\pos(170,282.875)\pos(170,282)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.84,0:18:29.88,Internet - BB,,0000,0000,0000,end,{\pos(170,280.875)\pos(170,280)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:29.88,0:18:30.96,Internet - BB,,0000,0000,0000,end,{\pos(170,280)}Idiot, the Slasher doesn't kill people.\NHe just hacks at them with a Japanese sword.
+Dialogue: 0,0:18:28.92,0:18:28.96,Internet - BB,,0000,0000,0000,end,{\pos(170,730.375)\pos(170,730)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:28.96,0:18:29.00,Internet - BB,,0000,0000,0000,end,{\pos(170,717.750)\pos(170,717)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.00,0:18:29.05,Internet - BB,,0000,0000,0000,end,{\pos(170,705.125)\pos(170,705)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.05,0:18:29.09,Internet - BB,,0000,0000,0000,end,{\pos(170,692.625)\pos(170,692)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.09,0:18:29.13,Internet - BB,,0000,0000,0000,end,{\pos(170,680.375)\pos(170,680)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.13,0:18:29.17,Internet - BB,,0000,0000,0000,end,{\pos(170,668.375)\pos(170,668)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.17,0:18:29.21,Internet - BB,,0000,0000,0000,end,{\pos(170,656.500)\pos(170,656)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.21,0:18:29.25,Internet - BB,,0000,0000,0000,end,{\pos(170,645)\pos(170,645)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.25,0:18:29.30,Internet - BB,,0000,0000,0000,end,{\pos(170,633.750)\pos(170,633)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.30,0:18:29.34,Internet - BB,,0000,0000,0000,end,{\pos(170,622.750)\pos(170,622)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.34,0:18:29.38,Internet - BB,,0000,0000,0000,end,{\pos(170,612.250)\pos(170,612)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.38,0:18:29.42,Internet - BB,,0000,0000,0000,end,{\pos(170,602)\pos(170,602)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.42,0:18:29.46,Internet - BB,,0000,0000,0000,end,{\pos(170,592.500)\pos(170,592)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.46,0:18:29.50,Internet - BB,,0000,0000,0000,end,{\pos(170,583.375)\pos(170,583)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.50,0:18:29.55,Internet - BB,,0000,0000,0000,end,{\pos(170,574.625)\pos(170,574)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.55,0:18:29.59,Internet - BB,,0000,0000,0000,end,{\pos(170,566.375)\pos(170,566)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.59,0:18:29.63,Internet - BB,,0000,0000,0000,end,{\pos(170,558.875)\pos(170,558)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.63,0:18:29.67,Internet - BB,,0000,0000,0000,end,{\pos(170,552)\pos(170,552)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.67,0:18:29.71,Internet - BB,,0000,0000,0000,end,{\pos(170,545.875)\pos(170,545)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:25.96,0:18:26.42,Internet - BB,,0000,0000,0000,start,{\pos(170,72)}He probably can't cut through jelly.
+Dialogue: 0,0:18:26.42,0:18:26.46,Internet - BB,,0000,0000,0000,start,{\pos(170,57.500)\pos(170,57)}He probably can't cut through jelly.
+Dialogue: 0,0:18:26.46,0:18:26.50,Internet - BB,,0000,0000,0000,start,{\pos(170,41.125)\pos(170,41)}He probably can't cut through jelly.
+Dialogue: 0,0:18:26.50,0:18:26.54,Internet - BB,,0000,0000,0000,start,{\pos(170,23.875)\pos(170,23)}He probably can't cut through jelly.
+Dialogue: 0,0:18:26.54,0:18:26.58,Internet - BB,,0000,0000,0000,start,{\pos(170,6.125)\pos(170,6)}He probably can't cut through jelly.
+Dialogue: 0,0:18:26.58,0:18:26.63,Internet - BB,,0000,0000,0000,start,{\pos(170,-11.875)\pos(170,-11)}He probably can't cut through jelly.
+Dialogue: 0,0:18:25.96,0:18:26.42,Internet - BB,,0000,0000,0000,start,{\pos(170,333)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.42,0:18:26.46,Internet - BB,,0000,0000,0000,start,{\pos(170,318.500)\pos(170,318)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.46,0:18:26.50,Internet - BB,,0000,0000,0000,start,{\pos(170,302.125)\pos(170,302)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.50,0:18:26.54,Internet - BB,,0000,0000,0000,start,{\pos(170,284.875)\pos(170,284)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.54,0:18:26.58,Internet - BB,,0000,0000,0000,start,{\pos(170,267.125)\pos(170,267)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.58,0:18:26.63,Internet - BB,,0000,0000,0000,start,{\pos(170,249.125)\pos(170,249)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.63,0:18:26.67,Internet - BB,,0000,0000,0000,start,{\pos(170,231)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.67,0:18:26.71,Internet - BB,,0000,0000,0000,start,{\pos(170,213)\pos(170,213)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.71,0:18:26.75,Internet - BB,,0000,0000,0000,start,{\pos(170,194.875)\pos(170,194)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.75,0:18:26.79,Internet - BB,,0000,0000,0000,start,{\pos(170,177)\pos(170,177)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.79,0:18:26.83,Internet - BB,,0000,0000,0000,start,{\pos(170,159.250)\pos(170,159)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.83,0:18:26.88,Internet - BB,,0000,0000,0000,start,{\pos(170,141.875)\pos(170,141)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.88,0:18:26.92,Internet - BB,,0000,0000,0000,start,{\pos(170,124.625)\pos(170,124)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.92,0:18:26.96,Internet - BB,,0000,0000,0000,start,{\pos(170,107.750)\pos(170,107)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:26.96,0:18:27.00,Internet - BB,,0000,0000,0000,start,{\pos(170,91.250)\pos(170,91)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:27.00,0:18:27.04,Internet - BB,,0000,0000,0000,start,{\pos(170,75.250)\pos(170,75)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:27.04,0:18:27.09,Internet - BB,,0000,0000,0000,start,{\pos(170,59.625)\pos(170,59)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:27.09,0:18:27.13,Internet - BB,,0000,0000,0000,start,{\pos(170,44.500)\pos(170,44)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:27.13,0:18:27.17,Internet - BB,,0000,0000,0000,start,{\pos(170,30)\pos(170,30)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:27.17,0:18:27.21,Internet - BB,,0000,0000,0000,start,{\pos(170,16.125)\pos(170,16)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:27.21,0:18:27.25,Internet - BB,,0000,0000,0000,start,{\pos(170,2.875)\pos(170,2)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:27.25,0:18:27.29,Internet - BB,,0000,0000,0000,start,{\pos(170,-9.625)\pos(170,-9)}A friend of mine was attacked by the Slasher yesterday!
+Dialogue: 0,0:18:25.96,0:18:26.42,Internet - BB,,0000,0000,0000,start,{\pos(170,595)}Was he killed?!
+Dialogue: 0,0:18:26.42,0:18:26.46,Internet - BB,,0000,0000,0000,start,{\pos(170,580.500)\pos(170,580)}Was he killed?!
+Dialogue: 0,0:18:26.46,0:18:26.50,Internet - BB,,0000,0000,0000,start,{\pos(170,564.125)\pos(170,564)}Was he killed?!
+Dialogue: 0,0:18:26.50,0:18:26.54,Internet - BB,,0000,0000,0000,start,{\pos(170,546.875)\pos(170,546)}Was he killed?!
+Dialogue: 0,0:18:26.54,0:18:26.58,Internet - BB,,0000,0000,0000,start,{\pos(170,529.125)\pos(170,529)}Was he killed?!
+Dialogue: 0,0:18:26.58,0:18:26.63,Internet - BB,,0000,0000,0000,start,{\pos(170,511.125)\pos(170,511)}Was he killed?!
+Dialogue: 0,0:18:26.63,0:18:26.67,Internet - BB,,0000,0000,0000,start,{\pos(170,493)}Was he killed?!
+Dialogue: 0,0:18:26.67,0:18:26.71,Internet - BB,,0000,0000,0000,start,{\pos(170,475)\pos(170,475)}Was he killed?!
+Dialogue: 0,0:18:26.71,0:18:26.75,Internet - BB,,0000,0000,0000,start,{\pos(170,456.875)\pos(170,456)}Was he killed?!
+Dialogue: 0,0:18:26.75,0:18:26.79,Internet - BB,,0000,0000,0000,start,{\pos(170,439)\pos(170,439)}Was he killed?!
+Dialogue: 0,0:18:26.79,0:18:26.83,Internet - BB,,0000,0000,0000,start,{\pos(170,421.250)\pos(170,421)}Was he killed?!
+Dialogue: 0,0:18:26.83,0:18:26.88,Internet - BB,,0000,0000,0000,start,{\pos(170,403.875)\pos(170,403)}Was he killed?!
+Dialogue: 0,0:18:26.88,0:18:26.92,Internet - BB,,0000,0000,0000,start,{\pos(170,386.625)\pos(170,386)}Was he killed?!
+Dialogue: 0,0:18:26.92,0:18:26.96,Internet - BB,,0000,0000,0000,start,{\pos(170,369.750)\pos(170,369)}Was he killed?!
+Dialogue: 0,0:18:26.96,0:18:27.00,Internet - BB,,0000,0000,0000,start,{\pos(170,353.250)\pos(170,353)}Was he killed?!
+Dialogue: 0,0:18:27.00,0:18:27.04,Internet - BB,,0000,0000,0000,start,{\pos(170,337.250)\pos(170,337)}Was he killed?!
+Dialogue: 0,0:18:27.04,0:18:27.09,Internet - BB,,0000,0000,0000,start,{\pos(170,321.625)\pos(170,321)}Was he killed?!
+Dialogue: 0,0:18:27.09,0:18:27.13,Internet - BB,,0000,0000,0000,start,{\pos(170,306.500)\pos(170,306)}Was he killed?!
+Dialogue: 0,0:18:27.13,0:18:27.17,Internet - BB,,0000,0000,0000,start,{\pos(170,292)\pos(170,292)}Was he killed?!
+Dialogue: 0,0:18:27.17,0:18:27.21,Internet - BB,,0000,0000,0000,start,{\pos(170,278.125)\pos(170,278)}Was he killed?!
+Dialogue: 0,0:18:27.21,0:18:27.25,Internet - BB,,0000,0000,0000,start,{\pos(170,264.875)\pos(170,264)}Was he killed?!
+Dialogue: 0,0:18:27.25,0:18:27.29,Internet - BB,,0000,0000,0000,start,{\pos(170,252.375)\pos(170,252)}Was he killed?!
+Dialogue: 0,0:18:27.29,0:18:27.34,Internet - BB,,0000,0000,0000,start,{\pos(170,240.750)\pos(170,240)}Was he killed?!
+Dialogue: 0,0:18:27.34,0:18:27.38,Internet - BB,,0000,0000,0000,start,{\pos(170,229.875)\pos(170,229)}Was he killed?!
+Dialogue: 0,0:18:27.38,0:18:27.42,Internet - BB,,0000,0000,0000,start,{\pos(170,220)\pos(170,220)}Was he killed?!
+Dialogue: 0,0:18:27.42,0:18:27.46,Internet - BB,,0000,0000,0000,start,{\pos(170,211.375)\pos(170,211)}Was he killed?!
+Dialogue: 0,0:18:27.46,0:18:27.50,Internet - BB,,0000,0000,0000,start,{\pos(170,203.750)\pos(170,203)}Was he killed?!
+Dialogue: 0,0:18:27.50,0:18:27.54,Internet - BB,,0000,0000,0000,start,{\pos(170,197.500)\pos(170,197)}Was he killed?!
+Dialogue: 0,0:18:27.54,0:18:27.59,Internet - BB,,0000,0000,0000,start,{\pos(170,192.750)\pos(170,192)}Was he killed?!
+Dialogue: 0,0:18:27.59,0:18:27.67,Internet - BB,,0000,0000,0000,start,{\pos(170,189.625)\pos(170,189)}Was he killed?!
+Dialogue: 0,0:18:27.67,0:18:28.71,Internet - BB,,0000,0000,0000,start,{\pos(170,188.625)\pos(170,188)}Was he killed?!
+Dialogue: 0,0:18:28.71,0:18:28.75,Internet - BB,,0000,0000,0000,start,{\pos(170,178.250)\pos(170,178)}Was he killed?!
+Dialogue: 0,0:18:28.75,0:18:28.80,Internet - BB,,0000,0000,0000,start,{\pos(170,166.500)\pos(170,166)}Was he killed?!
+Dialogue: 0,0:18:28.80,0:18:28.84,Internet - BB,,0000,0000,0000,start,{\pos(170,154.250)\pos(170,154)}Was he killed?!
+Dialogue: 0,0:18:28.84,0:18:28.88,Internet - BB,,0000,0000,0000,start,{\pos(170,141.750)\pos(170,141)}Was he killed?!
+Dialogue: 0,0:18:28.88,0:18:28.92,Internet - BB,,0000,0000,0000,start,{\pos(170,129.125)\pos(170,129)}Was he killed?!
+Dialogue: 0,0:18:28.92,0:18:28.96,Internet - BB,,0000,0000,0000,start,{\pos(170,116.250)\pos(170,116)}Was he killed?!
+Dialogue: 0,0:18:28.96,0:18:29.00,Internet - BB,,0000,0000,0000,start,{\pos(170,103.625)\pos(170,103)}Was he killed?!
+Dialogue: 0,0:18:29.00,0:18:29.05,Internet - BB,,0000,0000,0000,start,{\pos(170,91)\pos(170,91)}Was he killed?!
+Dialogue: 0,0:18:29.05,0:18:29.09,Internet - BB,,0000,0000,0000,start,{\pos(170,78.500)\pos(170,78)}Was he killed?!
+Dialogue: 0,0:18:29.09,0:18:29.13,Internet - BB,,0000,0000,0000,start,{\pos(170,66.250)\pos(170,66)}Was he killed?!
+Dialogue: 0,0:18:29.13,0:18:29.17,Internet - BB,,0000,0000,0000,start,{\pos(170,54.250)\pos(170,54)}Was he killed?!
+Dialogue: 0,0:18:29.17,0:18:29.21,Internet - BB,,0000,0000,0000,start,{\pos(170,42.375)\pos(170,42)}Was he killed?!
+Dialogue: 0,0:18:29.21,0:18:29.25,Internet - BB,,0000,0000,0000,start,{\pos(170,30.875)\pos(170,30)}Was he killed?!
+Dialogue: 0,0:18:29.25,0:18:29.30,Internet - BB,,0000,0000,0000,start,{\pos(170,19.625)\pos(170,19)}Was he killed?!
+Dialogue: 0,0:18:29.30,0:18:29.34,Internet - BB,,0000,0000,0000,start,{\pos(170,8.625)\pos(170,8)}Was he killed?!
+Dialogue: 0,0:18:29.34,0:18:29.38,Internet - BB,,0000,0000,0000,start,{\pos(170,-1.875)\pos(170,-1)}Was he killed?!
+Dialogue: 0,0:18:29.38,0:18:29.42,Internet - BB,,0000,0000,0000,start,{\pos(170,-12.125)\pos(170,-12)}Was he killed?!
+Dialogue: 0,0:18:29.42,0:18:29.46,Internet - BB,,0000,0000,0000,start,{\pos(170,-21.625)\pos(170,-21)}Was he killed?!
+Dialogue: 0,0:18:29.46,0:18:29.50,Internet - BB,,0000,0000,0000,start,{\pos(170,-30.750)\pos(170,-30)}Was he killed?!
+Dialogue: 0,0:18:29.50,0:18:29.55,Internet - BB,,0000,0000,0000,start,{\pos(170,-39.500)\pos(170,-39)}Was he killed?!
+Dialogue: 0,0:18:29.55,0:18:29.59,Internet - BB,,0000,0000,0000,start,{\pos(170,-47.750)\pos(170,-47)}Was he killed?!
+Dialogue: 0,0:18:29.59,0:18:29.63,Internet - BB,,0000,0000,0000,start,{\pos(170,-55.250)\pos(170,-55)}Was he killed?!
+Dialogue: 0,0:18:29.63,0:18:29.67,Internet - BB,,0000,0000,0000,start,{\pos(170,-62.125)\pos(170,-62)}Was he killed?!
+Dialogue: 0,0:18:29.67,0:18:29.71,Internet - BB,,0000,0000,0000,start,{\pos(170,-68.250)\pos(170,-68)}Was he killed?!
+Dialogue: 0,0:18:29.71,0:18:29.75,Internet - BB,,0000,0000,0000,start,{\pos(170,-73.625)\pos(170,-73)}Was he killed?!
+Dialogue: 0,0:18:29.75,0:18:29.80,Internet - BB,,0000,0000,0000,start,{\pos(170,-77.875)\pos(170,-77)}Was he killed?!
+Dialogue: 0,0:18:29.80,0:18:29.84,Internet - BB,,0000,0000,0000,start,{\pos(170,-81.250)\pos(170,-81)}Was he killed?!
+Dialogue: 0,0:18:29.84,0:18:29.88,Internet - BB,,0000,0000,0000,start,{\pos(170,-83.250)\pos(170,-83)}Was he killed?!
+Dialogue: 0,0:18:29.88,0:18:30.96,Internet - BB,,0000,0000,0000,start,{\pos(170,-84.125)\pos(170,-84)}Was he killed?!
+Dialogue: 0,0:18:29.71,0:18:29.75,Internet - BB,,0000,0000,0000,end,{\pos(170,540.500)\pos(170,540)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.75,0:18:29.80,Internet - BB,,0000,0000,0000,end,{\pos(170,536.250)\pos(170,536)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.80,0:18:29.84,Internet - BB,,0000,0000,0000,end,{\pos(170,532.875)\pos(170,532)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.84,0:18:29.88,Internet - BB,,0000,0000,0000,end,{\pos(170,530.875)\pos(170,530)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:29.88,0:18:30.96,Internet - BB,,0000,0000,0000,end,{\pos(170,530)}So he doesn't actually kill them? That's boring.
+Dialogue: 0,0:18:30.96,0:18:31.84,Internet - BB,,0000,0000,0000,start,{\frz0.000000\pos(162,644)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:31.84,0:18:31.88,Internet - BB,,0000,0000,0000,start,{\pos(161.625,613.375)\frz0.570652\pos(161,613)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:31.88,0:18:31.92,Internet - BB,,0000,0000,0000,start,{\pos(161.125,579.125)\frz1.208851\pos(161,579)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:31.92,0:18:31.97,Internet - BB,,0000,0000,0000,start,{\pos(160.875,543.125)\frz1.879658\pos(160,543)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:31.97,0:18:32.01,Internet - BB,,0000,0000,0000,start,{\pos(160.625,506.500)\frz2.562112\pos(160,506)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.01,0:18:32.05,Internet - BB,,0000,0000,0000,start,{\pos(160.375,469.625)\frz3.249224\pos(160,469)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.05,0:18:32.09,Internet - BB,,0000,0000,0000,start,{\frz3.931677\pos(161,433)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.09,0:18:32.13,Internet - BB,,0000,0000,0000,start,{\pos(160.375,396.625)\frz4.609472\pos(160,396)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.13,0:18:32.17,Internet - BB,,0000,0000,0000,start,{\pos(160,360.750)\frz5.277950\pos(160,360)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.17,0:18:32.22,Internet - BB,,0000,0000,0000,start,{\pos(159.625,325.750)\frz5.930124\pos(159,325)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.22,0:18:32.26,Internet - BB,,0000,0000,0000,start,{\pos(159.375,291.625)\frz6.565994\pos(159,291)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.26,0:18:32.30,Internet - BB,,0000,0000,0000,start,{\pos(159.250,258.500)\frz7.183230\pos(159,258)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.30,0:18:32.34,Internet - BB,,0000,0000,0000,start,{\pos(159.125,226.750)\frz7.774845\pos(159,226)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.34,0:18:32.38,Internet - BB,,0000,0000,0000,start,{\pos(159.125,196.625)\frz8.336180\pos(159,196)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.38,0:18:32.42,Internet - BB,,0000,0000,0000,start,{\pos(159.125,168.125)\frz8.867236\pos(159,168)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.42,0:18:32.47,Internet - BB,,0000,0000,0000,start,{\pos(159.250,141.500)\frz9.363354\pos(159,141)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.47,0:18:32.51,Internet - BB,,0000,0000,0000,start,{\pos(159.375,116.750)\frz9.824534\pos(159,116)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.51,0:18:32.55,Internet - BB,,0000,0000,0000,start,{\pos(159.500,94.750)\frz10.234472\pos(159,94)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.55,0:18:32.59,Internet - BB,,0000,0000,0000,start,{\pos(159.625,75.500)\frz10.593168\pos(159,75)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.59,0:18:32.63,Internet - BB,,0000,0000,0000,start,{\pos(159.750,59.500)\frz10.891304\pos(159,59)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.63,0:18:32.67,Internet - BB,,0000,0000,0000,start,{\pos(159.750,47.250)\frz11.119565\pos(159,47)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.67,0:18:32.72,Internet - BB,,0000,0000,0000,start,{\pos(159.875,38.750)\frz11.277950\pos(159,38)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:32.72,0:18:34.51,Internet - BB,,0000,0000,0000,start,{\pos(159.875,35.750)\frz11.333851\pos(159,35)\frx0\fry354}The Dollars is behind the slashing incidents!
+Dialogue: 0,0:18:30.96,0:18:31.84,Internet - BB,,0000,0000,0000,end,{\pos(157.125,1130.250)\frz-9.060559\pos(157,1130)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:31.84,0:18:31.88,Internet - BB,,0000,0000,0000,end,{\pos(156.750,1099.625)\frz-8.489907\pos(156,1099)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:31.88,0:18:31.92,Internet - BB,,0000,0000,0000,end,{\pos(156.250,1065.375)\frz-7.851708\pos(156,1065)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:31.92,0:18:31.97,Internet - BB,,0000,0000,0000,end,{\pos(156,1029.375)\frz-7.180901\pos(156,1029)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:31.97,0:18:32.01,Internet - BB,,0000,0000,0000,end,{\pos(155.750,992.750)\frz-6.498447\pos(155,992)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.01,0:18:32.05,Internet - BB,,0000,0000,0000,end,{\pos(155.500,955.875)\frz-5.811335\pos(155,955)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.05,0:18:32.09,Internet - BB,,0000,0000,0000,end,{\pos(156.125,919.250)\frz-5.128882\pos(156,919)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.09,0:18:32.13,Internet - BB,,0000,0000,0000,end,{\pos(155.500,882.875)\frz-4.451087\pos(155,882)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.13,0:18:32.17,Internet - BB,,0000,0000,0000,end,{\pos(155.125,847)\frz-3.782609\pos(155,847)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.17,0:18:32.22,Internet - BB,,0000,0000,0000,end,{\pos(154.750,812)\frz-3.130435\pos(154,812)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.22,0:18:32.26,Internet - BB,,0000,0000,0000,end,{\pos(154.500,777.875)\frz-2.494565\pos(154,777)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.26,0:18:32.30,Internet - BB,,0000,0000,0000,end,{\pos(154.375,744.750)\frz-1.877329\pos(154,744)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.30,0:18:32.34,Internet - BB,,0000,0000,0000,end,{\pos(154.250,713)\frz-1.285714\pos(154,713)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.34,0:18:32.38,Internet - BB,,0000,0000,0000,end,{\pos(154.250,682.875)\frz-0.724379\pos(154,682)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.38,0:18:32.42,Internet - BB,,0000,0000,0000,end,{\pos(154.250,654.375)\frz-0.193323\pos(154,654)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.42,0:18:32.47,Internet - BB,,0000,0000,0000,end,{\pos(154.375,627.750)\frz0.302795\pos(154,627)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.47,0:18:32.51,Internet - BB,,0000,0000,0000,end,{\pos(154.500,603)\frz0.763975\pos(154,603)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.51,0:18:32.55,Internet - BB,,0000,0000,0000,end,{\pos(154.625,581)\frz1.173913\pos(154,581)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.55,0:18:32.59,Internet - BB,,0000,0000,0000,end,{\pos(154.750,561.750)\frz1.532609\pos(154,561)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.59,0:18:32.63,Internet - BB,,0000,0000,0000,end,{\pos(154.875,545.750)\frz1.830745\pos(154,545)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.63,0:18:32.67,Internet - BB,,0000,0000,0000,end,{\pos(154.875,533.500)\frz2.059006\pos(154,533)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.67,0:18:32.72,Internet - BB,,0000,0000,0000,end,{\frz2.217391\pos(155,525)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:32.72,0:18:34.51,Internet - BB,,0000,0000,0000,end,{\frz2.273292\pos(155,522)}They're planning on having Ikebukuro under their thumbs!
+Dialogue: 0,0:18:34.51,0:18:34.68,Internet - BB,,0000,0000,0000,start,{\pos(406,203)\frx6\fry8\frz338.587}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:34.68,0:18:34.72,Internet - BB,,0000,0000,0000,start,{\pos(410.5,172.25)\pos(410,172)\frx6\fry8\frz338.385}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:34.72,0:18:34.76,Internet - BB,,0000,0000,0000,start,{\pos(415.875,138.125)\pos(415,138)\frx6\fry8\frz336.979}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:34.76,0:18:34.80,Internet - BB,,0000,0000,0000,start,{\pos(421.5,102.5)\pos(421,102)\frx6\fry8\frz335.909}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:34.80,0:18:34.84,Internet - BB,,0000,0000,0000,start,{\pos(427,66.625)\pos(427,66)\frx6\fry8\frz334.693}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:34.84,0:18:34.88,Internet - BB,,0000,0000,0000,start,{\pos(432.75,31)\pos(432,31)\frx6\fry8\frz333.763}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:34.88,0:18:34.93,Internet - BB,,0000,0000,0000,start,{\pos(438.375,-4)\pos(438,-4)\frx6\fry8\frz333.134}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:34.93,0:18:34.97,Internet - BB,,0000,0000,0000,start,{\pos(443.625,-38.125)\pos(443,-38)\frx6\fry8\frz332.235}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:34.97,0:18:35.01,Internet - BB,,0000,0000,0000,start,{\pos(448.875,-71.125)\pos(448,-71)\frx6\fry8\frz330.93}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.01,0:18:35.05,Internet - BB,,0000,0000,0000,start,{\pos(454.25,-102.875)\pos(454,-102)\frx6\fry8\frz330.331}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.05,0:18:35.09,Internet - BB,,0000,0000,0000,start,{\pos(459.5,-133.375)\pos(459,-133)\frx6\fry8\frz329.437}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.09,0:18:35.13,Internet - BB,,0000,0000,0000,start,{\pos(463.75,-162.5)\pos(463,-162)\frx6\fry8\frz328.528}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.13,0:18:35.18,Internet - BB,,0000,0000,0000,start,{\pos(468.375,-189.625)\pos(468,-189)\frx6\fry8\frz327.602}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.18,0:18:35.22,Internet - BB,,0000,0000,0000,start,{\pos(472.5,-214.875)\pos(472,-214)\frx6\fry8\frz327.159}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.22,0:18:35.26,Internet - BB,,0000,0000,0000,start,{\pos(476.500,-237.875)\frz326.404088\pos(476,-237)\frx6\fry8}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.26,0:18:35.30,Internet - BB,,0000,0000,0000,start,{\pos(480.25,-258.75)\pos(480,-258)\frx6\fry8\frz325.829}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.30,0:18:35.34,Internet - BB,,0000,0000,0000,start,{\pos(483.125,-277)\pos(483,-277)\frx6\fry8\frz325.408}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.34,0:18:35.39,Internet - BB,,0000,0000,0000,start,{\pos(485.625,-294.875)\pos(485,-294)\frx6\fry8\frz324.88}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.39,0:18:35.43,Internet - BB,,0000,0000,0000,start,{\pos(487.875,-308.75)\pos(487,-308)\frx6\fry8\frz324.54}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.43,0:18:35.51,Internet - BB,,0000,0000,0000,start,{\pos(489.125,-317.875)\pos(489,-317)\frx6\fry8\frz324.198}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:35.51,0:18:36.05,Internet - BB,,0000,0000,0000,start,{\pos(489.625,-321.125)\pos(489,-321)\frx6\fry8\frz324.078}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.05,0:18:36.09,Internet - BB,,0000,0000,0000,start,{\pos(492.875,-341.75)\pos(492,-341)\frx6\fry8\frz323.578}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.09,0:18:36.14,Internet - BB,,0000,0000,0000,start,{\pos(496.375,-364.75)\pos(496,-364)\frx6\fry8\frz322.515}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.14,0:18:36.18,Internet - BB,,0000,0000,0000,start,{\pos(500.125,-388.75)\pos(500,-388)\frx6\fry8\frz321.934}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.18,0:18:36.22,Internet - BB,,0000,0000,0000,start,{\pos(504,-413.125)\pos(504,-413)\frx6\fry8\frz321.099}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.22,0:18:36.26,Internet - BB,,0000,0000,0000,start,{\pos(507.75,-437.375)\pos(507,-437)\frx6\fry8\frz320.395}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.26,0:18:36.30,Internet - BB,,0000,0000,0000,start,{\pos(511.625,-461.375)\pos(511,-461)\frx6\fry8\frz319.424}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.30,0:18:36.34,Internet - BB,,0000,0000,0000,start,{\pos(515.375,-484.875)\pos(515,-484)\frx6\fry8\frz318.704}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.34,0:18:36.39,Internet - BB,,0000,0000,0000,start,{\pos(519.125,-507.75)\pos(519,-507)\frx6\fry8\frz317.916}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.39,0:18:36.43,Internet - BB,,0000,0000,0000,start,{\pos(522.75,-530.125)\pos(522,-530)\frx6\fry8\frz317.24}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:36.43,0:18:36.47,Internet - BB,,0000,0000,0000,start,{\pos(526.25,-551.5)\pos(526,-551)\frx6\fry8\frz316.262}Isn't Russhia Sushi doing it to obtain meat for their sushi?
+Dialogue: 0,0:18:34.51,0:18:34.68,Internet - BB,,0000,0000,0000,start,{\frz349.019272\pos(354,580)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:34.68,0:18:34.72,Internet - BB,,0000,0000,0000,start,{\pos(358.500,549.250)\frz347.959668\pos(358,549)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:34.72,0:18:34.76,Internet - BB,,0000,0000,0000,start,{\pos(363.875,515.125)\frz346.933338\pos(363,515)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:34.76,0:18:34.80,Internet - BB,,0000,0000,0000,start,{\pos(369.500,479.500)\frz345.899991\pos(369,479)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:34.80,0:18:34.84,Internet - BB,,0000,0000,0000,start,{\pos(375,443.625)\frz343.894401\pos(375,443)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:34.84,0:18:34.88,Internet - BB,,0000,0000,0000,start,{\pos(380.750,408)\frz342.983721\pos(380,408)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:34.88,0:18:34.93,Internet - BB,,0000,0000,0000,start,{\pos(386.375,373)\frz342.077640\pos(386,373)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:34.93,0:18:34.97,Internet - BB,,0000,0000,0000,start,{\pos(391.625,338.875)\frz341.224156\pos(391,338)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:34.97,0:18:35.01,Internet - BB,,0000,0000,0000,start,{\pos(396.875,305.875)\frz339.642361\pos(396,305)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.01,0:18:35.05,Internet - BB,,0000,0000,0000,start,{\pos(402.250,274.125)\frz338.950830\pos(402,274)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.05,0:18:35.09,Internet - BB,,0000,0000,0000,start,{\pos(407.500,243.625)\frz337.741432\pos(407,243)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.09,0:18:35.13,Internet - BB,,0000,0000,0000,start,{\pos(411.750,214.500)\frz336.836943\pos(411,214)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.13,0:18:35.18,Internet - BB,,0000,0000,0000,start,{\pos(416.375,187.375)\frz336.254799\pos(416,187)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.18,0:18:35.22,Internet - BB,,0000,0000,0000,start,{\pos(420.500,162.125)\frz335.052768\pos(420,162)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.22,0:18:35.26,Internet - BB,,0000,0000,0000,start,{\pos(424.500,139.125)\frz333.748190\pos(424,139)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.26,0:18:35.30,Internet - BB,,0000,0000,0000,start,{\pos(428.250,118.250)\frz333.077907\pos(428,118)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.30,0:18:35.34,Internet - BB,,0000,0000,0000,start,{\pos(431.125,100)\frz332.433111\pos(431,100)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.34,0:18:35.39,Internet - BB,,0000,0000,0000,start,{\pos(433.625,82.125)\frz331.801702\pos(433,82)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.39,0:18:35.43,Internet - BB,,0000,0000,0000,start,{\pos(435.875,68.250)\frz331.192703\pos(435,68)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.43,0:18:35.51,Internet - BB,,0000,0000,0000,start,{\pos(437.125,59.125)\frz330.600473\pos(437,59)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:35.51,0:18:36.05,Internet - BB,,0000,0000,0000,start,{\pos(437.625,55.875)\frz330.600473\pos(437,55)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.05,0:18:36.09,Internet - BB,,0000,0000,0000,start,{\pos(440.875,35.250)\frz330.042528\pos(440,35)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.09,0:18:36.14,Internet - BB,,0000,0000,0000,start,{\pos(444.375,12.250)\frz329.009119\pos(444,12)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.14,0:18:36.18,Internet - BB,,0000,0000,0000,start,{\pos(448.125,-11.750)\frz328.092722\pos(448,-11)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.18,0:18:36.22,Internet - BB,,0000,0000,0000,start,{\pos(452,-36.125)\frz327.340728\pos(452,-36)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.22,0:18:36.26,Internet - BB,,0000,0000,0000,start,{\pos(455.750,-60.375)\frz326.452239\pos(455,-60)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.26,0:18:36.30,Internet - BB,,0000,0000,0000,start,{\pos(459.625,-84.375)\frz326.404088\pos(459,-84)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.30,0:18:36.34,Internet - BB,,0000,0000,0000,start,{\pos(463.375,-107.875)\frz326.404088\pos(463,-107)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.34,0:18:36.39,Internet - BB,,0000,0000,0000,start,{\pos(467.125,-130.750)\frz326.404088\pos(467,-130)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.39,0:18:36.43,Internet - BB,,0000,0000,0000,start,{\pos(470.750,-153.125)\frz326.404088\pos(470,-153)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.43,0:18:36.47,Internet - BB,,0000,0000,0000,start,{\pos(474.250,-174.500)\frz326.404088\pos(474,-174)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.47,0:18:36.51,Internet - BB,,0000,0000,0000,start,{\pos(477.625,-195.125)\frz326.404088\pos(477,-195)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.51,0:18:36.55,Internet - BB,,0000,0000,0000,start,{\pos(480.875,-214.625)\frz326.404088\pos(480,-214)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.55,0:18:36.59,Internet - BB,,0000,0000,0000,start,{\pos(483.875,-233.125)\frz326.404088\pos(483,-233)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.59,0:18:36.64,Internet - BB,,0000,0000,0000,start,{\pos(486.875,-250.250)\frz326.404088\pos(486,-250)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.64,0:18:36.68,Internet - BB,,0000,0000,0000,start,{\pos(489.500,-266.125)\frz326.404088\pos(489,-266)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.68,0:18:36.72,Internet - BB,,0000,0000,0000,start,{\pos(491.875,-280.250)\frz326.404088\pos(491,-280)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.72,0:18:36.76,Internet - BB,,0000,0000,0000,start,{\pos(494,-292.625)\frz326.404088\pos(494,-292)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.76,0:18:36.80,Internet - BB,,0000,0000,0000,start,{\pos(495.625,-303.125)\frz326.404088\pos(495,-303)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.80,0:18:36.84,Internet - BB,,0000,0000,0000,start,{\pos(497.125,-311.125)\frz326.404088\pos(497,-311)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.84,0:18:36.89,Internet - BB,,0000,0000,0000,start,{\pos(497.875,-316.375)\frz326.404088\pos(497,-316)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:36.89,0:18:38.47,Internet - BB,,0000,0000,0000,start,{\pos(498.375,-318.375)\frz326.404088\pos(498,-318)}It's gotta be the Headless Rider.
+Dialogue: 0,0:18:34.51,0:18:34.68,Internet - BB,,0000,0000,0000,end,{\pos(286.625,967.375)\frz350.909723\pos(286,967)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:34.68,0:18:34.72,Internet - BB,,0000,0000,0000,end,{\pos(291.125,936.625)\frz350.909723\pos(291,936)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:34.72,0:18:34.76,Internet - BB,,0000,0000,0000,end,{\pos(296.500,902.500)\frz350.909723\pos(296,902)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:34.76,0:18:34.80,Internet - BB,,0000,0000,0000,end,{\pos(302.125,866.875)\frz350.909723\pos(302,866)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:34.80,0:18:34.84,Internet - BB,,0000,0000,0000,end,{\pos(307.625,831)\frz350.909723\pos(307,831)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:34.84,0:18:34.88,Internet - BB,,0000,0000,0000,end,{\pos(313.375,795.375)\frz350.909723\pos(313,795)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:34.88,0:18:34.93,Internet - BB,,0000,0000,0000,end,{\pos(319,760.375)\frz350.909723\pos(319,760)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:34.93,0:18:34.97,Internet - BB,,0000,0000,0000,end,{\pos(324.250,726.250)\frz350.909723\pos(324,726)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:34.97,0:18:35.01,Internet - BB,,0000,0000,0000,end,{\pos(329.500,693.250)\frz350.909723\pos(329,693)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.01,0:18:35.05,Internet - BB,,0000,0000,0000,end,{\pos(334.875,661.500)\frz350.909723\pos(334,661)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.05,0:18:35.09,Internet - BB,,0000,0000,0000,end,{\pos(340.125,631)\frz350.909723\pos(340,631)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.09,0:18:35.13,Internet - BB,,0000,0000,0000,end,{\pos(344.375,601.875)\frz350.016423\pos(344,601)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.13,0:18:35.18,Internet - BB,,0000,0000,0000,end,{\pos(349,574.750)\frz349.019272\pos(349,574)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.18,0:18:35.22,Internet - BB,,0000,0000,0000,end,{\pos(353.125,549.500)\frz347.959668\pos(353,549)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.22,0:18:35.26,Internet - BB,,0000,0000,0000,end,{\pos(357.125,526.500)\frz346.933338\pos(357,526)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.26,0:18:35.30,Internet - BB,,0000,0000,0000,end,{\pos(360.875,505.625)\frz346.933338\pos(360,505)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.30,0:18:35.34,Internet - BB,,0000,0000,0000,end,{\pos(363.750,487.375)\frz345.899991\pos(363,487)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.34,0:18:35.39,Internet - BB,,0000,0000,0000,end,{\pos(366.250,469.500)\frz344.894842\pos(366,469)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.39,0:18:35.43,Internet - BB,,0000,0000,0000,end,{\pos(368.500,455.625)\frz344.894842\pos(368,455)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.43,0:18:35.51,Internet - BB,,0000,0000,0000,end,{\pos(369.750,446.500)\frz344.894842\pos(369,446)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:35.51,0:18:36.05,Internet - BB,,0000,0000,0000,end,{\pos(370.250,443.250)\frz343.894401\pos(370,443)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.05,0:18:36.09,Internet - BB,,0000,0000,0000,end,{\pos(373.500,422.625)\frz343.894401\pos(373,422)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.09,0:18:36.14,Internet - BB,,0000,0000,0000,end,{\pos(377,399.625)\frz342.983721\pos(377,399)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.14,0:18:36.18,Internet - BB,,0000,0000,0000,end,{\pos(380.750,375.625)\frz342.077640\pos(380,375)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.18,0:18:36.22,Internet - BB,,0000,0000,0000,end,{\pos(384.625,351.250)\frz341.224156\pos(384,351)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.22,0:18:36.26,Internet - BB,,0000,0000,0000,end,{\pos(388.375,327)\frz340.387733\pos(388,327)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.26,0:18:36.30,Internet - BB,,0000,0000,0000,end,{\pos(392.250,303)\frz339.642361\pos(392,303)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.30,0:18:36.34,Internet - BB,,0000,0000,0000,end,{\pos(396,279.500)\frz338.950830\pos(396,279)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.34,0:18:36.39,Internet - BB,,0000,0000,0000,end,{\pos(399.750,256.625)\frz338.318955\pos(399,256)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.39,0:18:36.43,Internet - BB,,0000,0000,0000,end,{\pos(403.375,234.250)\frz337.741432\pos(403,234)}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.43,0:18:36.47,Internet - BB,,0000,0000,0000,end,{\pos(406.875,212.875)\pos(406,212)\frz338.223}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.47,0:18:36.51,Internet - BB,,0000,0000,0000,end,{\pos(410.25,192.25)\pos(410,192)\frz338.376}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.51,0:18:36.55,Internet - BB,,0000,0000,0000,end,{\pos(413.5,172.75)\pos(413,172)\frz338.521}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.55,0:18:36.59,Internet - BB,,0000,0000,0000,end,{\pos(416.5,154.25)\pos(416,154)\frz338.074}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.59,0:18:36.64,Internet - BB,,0000,0000,0000,end,{\pos(419.5,137.125)\pos(419,137)\frz337.343}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.64,0:18:36.68,Internet - BB,,0000,0000,0000,end,{\pos(422.125,121.25)\pos(422,121)\frz336.614}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.68,0:18:36.72,Internet - BB,,0000,0000,0000,end,{\pos(424.5,107.125)\pos(424,107)\frz335.573}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.72,0:18:36.76,Internet - BB,,0000,0000,0000,end,{\pos(426.625,94.75)\pos(426,94)\frz336.061}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.76,0:18:36.80,Internet - BB,,0000,0000,0000,end,{\pos(428.25,84.25)\pos(428,84)\frz335.606}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.80,0:18:36.84,Internet - BB,,0000,0000,0000,end,{\pos(429.75,76.25)\pos(429,76)\frz334.602}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.84,0:18:36.89,Internet - BB,,0000,0000,0000,end,{\pos(430.5,71)\pos(430,71)\frz334.779}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:36.89,0:18:38.47,Internet - BB,,0000,0000,0000,end,{\pos(431,69)\frz334.489}She's got a huge scythe, doesn't she?
+Dialogue: 0,0:18:34.51,0:18:34.68,Internet - BB,,0000,0000,0000,end,{\pos(233.625,1360.375)\frz350.909723\pos(233,1360)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:34.68,0:18:34.72,Internet - BB,,0000,0000,0000,end,{\pos(238.125,1329.625)\frz350.909723\pos(238,1329)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:34.72,0:18:34.76,Internet - BB,,0000,0000,0000,end,{\pos(243.500,1295.500)\frz350.909723\pos(243,1295)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:34.76,0:18:34.80,Internet - BB,,0000,0000,0000,end,{\pos(249.125,1259.875)\frz350.909723\pos(249,1259)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:34.80,0:18:34.84,Internet - BB,,0000,0000,0000,end,{\pos(254.625,1224)\frz350.909723\pos(254,1224)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:34.84,0:18:34.88,Internet - BB,,0000,0000,0000,end,{\pos(260.375,1188.375)\frz350.909723\pos(260,1188)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:34.88,0:18:34.93,Internet - BB,,0000,0000,0000,end,{\pos(266,1153.375)\frz350.909723\pos(266,1153)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:34.93,0:18:34.97,Internet - BB,,0000,0000,0000,end,{\pos(271.250,1119.250)\frz350.909723\pos(271,1119)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:34.97,0:18:35.01,Internet - BB,,0000,0000,0000,end,{\pos(276.500,1086.250)\frz350.909723\pos(276,1086)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.01,0:18:35.05,Internet - BB,,0000,0000,0000,end,{\pos(281.875,1054.500)\frz350.909723\pos(281,1054)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.05,0:18:35.09,Internet - BB,,0000,0000,0000,end,{\pos(287.125,1024)\frz350.909723\pos(287,1024)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.09,0:18:35.13,Internet - BB,,0000,0000,0000,end,{\pos(291.375,994.875)\frz350.909723\pos(291,994)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.13,0:18:35.18,Internet - BB,,0000,0000,0000,end,{\pos(296,967.750)\frz350.909723\pos(296,967)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.18,0:18:35.22,Internet - BB,,0000,0000,0000,end,{\pos(300.125,942.500)\frz350.909723\pos(300,942)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.22,0:18:35.26,Internet - BB,,0000,0000,0000,end,{\pos(304.125,919.500)\frz350.909723\pos(304,919)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.26,0:18:35.30,Internet - BB,,0000,0000,0000,end,{\pos(307.875,898.625)\frz350.909723\pos(307,898)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.30,0:18:35.34,Internet - BB,,0000,0000,0000,end,{\pos(310.750,880.375)\frz350.909723\pos(310,880)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.34,0:18:35.39,Internet - BB,,0000,0000,0000,end,{\pos(313.250,862.500)\frz350.909723\pos(313,862)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.39,0:18:35.43,Internet - BB,,0000,0000,0000,end,{\pos(315.500,848.625)\frz350.909723\pos(315,848)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.43,0:18:35.51,Internet - BB,,0000,0000,0000,end,{\pos(316.750,839.500)\frz350.909723\pos(316,839)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:35.51,0:18:36.05,Internet - BB,,0000,0000,0000,end,{\pos(317.250,836.250)\frz350.909723\pos(317,836)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.05,0:18:36.09,Internet - BB,,0000,0000,0000,end,{\pos(320.500,815.625)\frz350.909723\pos(320,815)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.09,0:18:36.14,Internet - BB,,0000,0000,0000,end,{\pos(324,792.625)\frz350.909723\pos(324,792)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.14,0:18:36.18,Internet - BB,,0000,0000,0000,end,{\pos(327.750,768.625)\frz350.909723\pos(327,768)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.18,0:18:36.22,Internet - BB,,0000,0000,0000,end,{\pos(331.625,744.250)\frz350.909723\pos(331,744)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.22,0:18:36.26,Internet - BB,,0000,0000,0000,end,{\pos(335.375,720)\frz350.909723\pos(335,720)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.26,0:18:36.30,Internet - BB,,0000,0000,0000,end,{\pos(339.250,696)\frz350.909723\pos(339,696)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.30,0:18:36.34,Internet - BB,,0000,0000,0000,end,{\pos(343,672.500)\frz350.909723\pos(343,672)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.34,0:18:36.39,Internet - BB,,0000,0000,0000,end,{\pos(346.750,649.625)\frz350.909723\pos(346,649)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.39,0:18:36.43,Internet - BB,,0000,0000,0000,end,{\pos(350.375,627.250)\frz350.909723\pos(350,627)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.43,0:18:36.47,Internet - BB,,0000,0000,0000,end,{\pos(353.875,605.875)\frz350.016423\pos(353,605)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.47,0:18:36.51,Internet - BB,,0000,0000,0000,end,{\pos(357.25,585.25)\pos(357,585)\frz350.68}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.51,0:18:36.55,Internet - BB,,0000,0000,0000,end,{\pos(360.500,565.750)\frz349.019272\pos(360,565)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.55,0:18:36.59,Internet - BB,,0000,0000,0000,end,{\pos(363.500,547.250)\frz347.959668\pos(363,547)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.59,0:18:36.64,Internet - BB,,0000,0000,0000,end,{\pos(366.500,530.125)\frz346.933338\pos(366,530)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.64,0:18:36.68,Internet - BB,,0000,0000,0000,end,{\pos(369.125,514.250)\frz346.933338\pos(369,514)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.68,0:18:36.72,Internet - BB,,0000,0000,0000,end,{\pos(371.500,500.125)\frz345.899991\pos(371,500)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.72,0:18:36.76,Internet - BB,,0000,0000,0000,end,{\pos(373.625,487.750)\frz345.899991\pos(373,487)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.76,0:18:36.80,Internet - BB,,0000,0000,0000,end,{\pos(375.250,477.250)\frz345.899991\pos(375,477)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.80,0:18:36.84,Internet - BB,,0000,0000,0000,end,{\pos(376.750,469.250)\frz344.894842\pos(376,469)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.84,0:18:36.89,Internet - BB,,0000,0000,0000,end,{\pos(377.500,464)\frz344.894842\pos(377,464)}I saw the Headless Rider attacking humans!
+Dialogue: 0,0:18:36.89,0:18:38.47,Internet - BB,,0000,0000,0000,end,{\frz344.894842\pos(378,462)}I saw the Headless Rider attacking humans!

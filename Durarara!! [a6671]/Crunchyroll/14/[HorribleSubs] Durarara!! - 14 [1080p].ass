@@ -1,0 +1,386 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Title1,Open Sans Semibold,50,&H00E9E9E9,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,13,260,13,0
+Style: Title2,Open Sans Semibold,50,&H002A65D6,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,260,13,13,0
+Style: Title3,Open Sans Semibold,36,&H00F7EEF4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,13,67,0
+Style: Title4,Open Sans Semibold,39,&H00B800A4,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,13,67,67,0
+Style: Default-no margin,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Default-normal bottom margin no l-r margins,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Title - upper corner,Open Sans Semibold,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,9,7,7,13,1
+Style: SignA,Open Sans Semibold,39,&H00264233,&H000000FF,&H0083A592,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,1,1,27,0
+Style: SignB,Open Sans Semibold,39,&H001B1829,&H000000FF,&H003D8EDF,&H00000000,1,0,0,0,100,100,0,0,1,2,1,1,27,27,27,0
+Style: SignC,Open Sans Semibold,39,&H00010100,&H000000FF,&H008D9289,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,27,27,27,0
+Style: SignD,Open Sans Semibold,39,&H0082ADD6,&H000000FF,&H003B3E92,&H00000000,1,0,0,0,100,100,0,0,1,2,1,8,27,27,27,0
+Style: SignE,Open Sans Semibold,39,&H00803E3F,&H000000FF,&H00EBFDF2,&H00000000,1,0,0,0,100,100,0,0,1,2,2,8,27,27,27,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.69,0:01:04.00,Default,,0000,0000,0000,,There are lots more yellow people in town lately.
+Dialogue: 0,0:01:04.00,0:01:04.91,Default,,0000,0000,0000,,Oh, the Yellow Scarves?
+Dialogue: 0,0:01:04.91,0:01:08.74,Default,,0000,0000,0000,,Did you hear the rumor that\Nthe Dollars are the Slasher?
+Dialogue: 0,0:01:08.74,0:01:10.79,Default,,0000,0000,0000,,We need you.
+Dialogue: 0,0:01:11.09,0:01:12.25,Default,,0000,0000,0000,,How's he been?
+Dialogue: 0,0:01:12.25,0:01:14.17,Default,,0000,0000,0000,,He comes by sometimes.
+Dialogue: 0,0:01:14.17,0:01:15.17,Default,,0000,0000,0000,,Right up to there.
+Dialogue: 0,0:01:15.17,0:01:18.80,Default,,0000,0000,0000,,The air in Tokyo is dirty.\NDon't you agree?
+Dialogue: 0,0:01:18.80,0:01:22.26,Default,,0000,0000,0000,,Pinworm!
+Dialogue: 0,0:01:51.16,0:01:52.87,Default,,0000,0000,0000,,<Kanra> Did you hear?
+Dialogue: 0,0:01:52.87,0:01:57.02,Default,,0000,0000,0000,,Somebody from Raira Academy\Nwas attacked by the Slasher!
+Dialogue: 0,0:01:57.02,0:01:59.01,Default,,0000,0000,0000,,<Tanaka Tarou> Seriously?
+Dialogue: 0,0:01:59.01,0:02:00.87,Default,,0000,0000,0000,,<Setton> Scary.
+Dialogue: 0,0:02:00.87,0:02:03.09,Default,,0000,0000,0000,,<Kanra> I'm serious!
+Dialogue: 0,0:02:03.09,0:02:05.04,Default,,0000,0000,0000,,It was a freshman girl.
+Dialogue: 0,0:02:05.54,0:02:06.50,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:02:06.50,0:02:08.76,Default,,0000,0000,0000,,<Tanaka Tarou> Gotta make a call. AFK.
+Dialogue: 0,0:02:09.27,0:02:10.72,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:02:10.72,0:02:12.31,Default,,0000,0000,0000,,<Kanra> It's not your girlfriend, supposedly.
+Dialogue: 0,0:02:13.99,0:02:15.12,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:02:15.12,0:02:17.11,Default,,0000,0000,0000,,But I'm still kinda worried.
+Dialogue: 0,0:02:18.51,0:02:20.41,Default,,0000,0000,0000,,Do you know where it happened?
+Dialogue: 0,0:02:20.41,0:02:25.84,Default,,0000,0000,0000,,Hmm, a little ways from the Higashi-Ikebukuro\Nsubway station, near the freeway.
+Dialogue: 0,0:02:25.84,0:02:30.23,Default,,0000,0000,0000,,With all the cop cars in the area right\Nnow, it should be easy to spot.
+Dialogue: 0,0:02:30.74,0:02:32.24,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:02:32.24,0:02:33.69,Default,,0000,0000,0000,,Oh, sorry.
+Dialogue: 0,0:02:33.69,0:02:34.92,Default,,0000,0000,0000,,I'll be right back.
+Dialogue: 0,0:02:35.40,0:02:37.51,Default,,0000,0000,0000,,Setton-san's rubbernecking?
+Dialogue: 0,0:02:38.85,0:02:40.26,Default,,0000,0000,0000,,Ah, geez.
+Dialogue: 0,0:02:40.73,0:02:43.21,Default,,0000,0000,0000,,Sorry. I'm out, guys.
+Dialogue: 0,0:02:43.82,0:02:45.36,Default,,0000,0000,0000,,Your GF pick up?
+Dialogue: 0,0:02:45.36,0:02:49.92,Default,,0000,0000,0000,,She says she's at the station right now.\NShe even witnessed it or something.
+Dialogue: 0,0:02:50.30,0:02:51.65,Default,,0000,0000,0000,,I've gotta go see her.
+Dialogue: 0,0:02:52.73,0:02:55.25,Default,,0000,0000,0000,,Ah, well. Guess I'll head out too, then.
+Dialogue: 0,0:03:04.97,0:03:05.72,Default,,0000,0000,0000,,<SinSong> Today.
+Dialogue: 0,0:03:05.72,0:03:06.31,Default,,0000,0000,0000,,Cut.
+Dialogue: 0,0:03:06.31,0:03:06.81,Default,,0000,0000,0000,,Did cut.
+Dialogue: 0,0:03:06.81,0:03:07.18,Default,,0000,0000,0000,,More.
+Dialogue: 0,0:03:07.18,0:03:07.43,Default,,0000,0000,0000,,Stronger.
+Dialogue: 0,0:03:07.43,0:03:07.93,Default,,0000,0000,0000,,Love.
+Dialogue: 0,0:03:07.93,0:03:08.55,Default,,0000,0000,0000,,Wish.
+Dialogue: 0,0:03:08.14,0:03:09.47,Default,,0000,0000,0000,,The Slasher...
+Dialogue: 0,0:03:08.55,0:03:08.56,Default,,0000,0000,0000,,Is.
+Dialogue: 0,0:03:08.56,0:03:08.77,Default,,0000,0000,0000,,Want.
+Dialogue: 0,0:03:10.43,0:03:20.55,Default,,0000,0000,0000,,I had no idea that this bloodthirsty\Ncrime would be so tightly entwined
+Dialogue: 0,0:03:20.55,0:03:24.43,Default,,0000,0000,0000,,with the fate of a single girl, and my own past.
+Dialogue: 0,0:03:24.53,0:03:25.41,Default,,0000,0000,0000,,Want Mom.
+Dialogue: 0,0:03:24.58,0:03:25.41,Default,,0000,0000,0000,,Mom.
+Dialogue: 0,0:03:26.79,0:03:31.52,Default,,0000,0000,0000,,Mom. Mom. Mom. Mom. Mom. Mom.
+Dialogue: 0,0:03:31.52,0:03:33.52,Title1,,0000,0000,0000,,Turmoil Reigns
+Dialogue: 0,0:03:36.18,0:03:37.48,Default,,0000,0000,0000,,I'm back!
+Dialogue: 0,0:03:45.96,0:03:49.87,Default,,0000,0000,0000,,It's time to welcome me home!
+Dialogue: 0,0:03:54.56,0:03:56.60,Default,,0000,0000,0000,,Celty, I'm back!
+Dialogue: 0,0:04:01.07,0:04:02.17,Default,,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:04:07.21,0:04:08.40,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:04:08.82,0:04:11.02,Default,,0000,0000,0000,,I have seen the face of hell.
+Dialogue: 0,0:04:13.71,0:04:15.35,Default,,0000,0000,0000,,Hell?
+Dialogue: 0,0:04:15.68,0:04:17.41,Default,,0000,0000,0000,,Don't make me talk about it!
+Dialogue: 0,0:04:17.41,0:04:18.57,Default,,0000,0000,0000,,I need to forget.
+Dialogue: 0,0:04:18.57,0:04:21.02,Default,,0000,0000,0000,,Whew, I feel alive again.
+Dialogue: 0,0:04:21.02,0:04:24.12,Default,,0000,0000,0000,,Would you at least take the damn\Nmask off when you shower?
+Dialogue: 0,0:04:24.71,0:04:29.54,Default,,0000,0000,0000,,Absolutely not! Tokyo's air is so\Nfilthy I must never remove it.
+Dialogue: 0,0:04:29.54,0:04:31.08,Default,,0000,0000,0000,,By the way, Celty-kun.
+Dialogue: 0,0:04:31.08,0:04:32.35,Default,,0000,0000,0000,,Nice job yesterday.
+Dialogue: 0,0:04:32.35,0:04:37.35,Default,,0000,0000,0000,,But tell me, who were those yellow fools?
+Dialogue: 0,0:04:37.35,0:04:39.59,Default,,0000,0000,0000,,They'd be the Yellow Scarves.
+Dialogue: 0,0:04:39.59,0:04:42.96,Default,,0000,0000,0000,,They showed up right after you left for America.
+Dialogue: 0,0:04:43.48,0:04:47.97,Default,,0000,0000,0000,,Though I could've sworn they went underground after they\Nfought with some gang called Blue Square or something...
+Dialogue: 0,0:04:49.05,0:04:52.81,Default,,0000,0000,0000,,I hope all those gangs destroy each\Nother and then die in the sewers.
+Dialogue: 0,0:04:52.81,0:04:54.67,Default,,0000,0000,0000,,That's absurd.
+Dialogue: 0,0:04:54.67,0:05:00.32,Default,,0000,0000,0000,,Anyway, you should pay Celty for\Nescorting you back here safely.
+Dialogue: 0,0:05:00.96,0:05:02.23,Default,,0000,0000,0000,,Put it on my tab.
+Dialogue: 0,0:05:02.23,0:05:04.03,Default,,0000,0000,0000,,Not happening.
+Dialogue: 0,0:05:04.97,0:05:07.36,Default,,0000,0000,0000,,Then I'll just skip out on the debt.
+Dialogue: 0,0:05:10.19,0:05:12.91,Default,,0000,0000,0000,,I was just testing you there, Celty-kun.
+Dialogue: 0,0:05:13.35,0:05:15.27,Default,,0000,0000,0000,,If you release me now-
+Dialogue: 0,0:05:15.27,0:05:17.60,Default,,0000,0000,0000,,Ow! Ow! They're poking me!
+Dialogue: 0,0:05:17.60,0:05:20.03,Default,,0000,0000,0000,,Those pointy shadowy things pricked me a little!
+Dialogue: 0,0:05:20.03,0:05:21.17,Default,,0000,0000,0000,,Shinra!
+Dialogue: 0,0:05:21.17,0:05:24.09,Default,,0000,0000,0000,,I am in grave danger here!
+Dialogue: 0,0:05:25.42,0:05:29.84,Default,,0000,0000,0000,,If you are my son, you should\Nknow what you need to do!
+Dialogue: 0,0:05:29.84,0:05:31.09,Default,,0000,0000,0000,,Of course I do!
+Dialogue: 0,0:05:37.28,0:05:39.05,Default,,0000,0000,0000,,Pleasure doing business.
+Dialogue: 0,0:05:39.87,0:05:43.05,Default,,0000,0000,0000,,I'm writing you out of my will.
+Dialogue: 0,0:05:43.05,0:05:44.79,Default,,0000,0000,0000,,Fine with me. I don't need it.
+Dialogue: 0,0:05:46.23,0:05:48.86,Default,,0000,0000,0000,,The monster has made you her slave, I see.
+Dialogue: 0,0:05:49.31,0:05:53.46,Default,,0000,0000,0000,,I'd have no problems with Celty taking\Nmy soul and enslaving me.
+Dialogue: 0,0:05:57.38,0:06:03.27,Default,,0000,0000,0000,,Oh me, oh my! Celty-kun! Are you in love with my son?
+Dialogue: 0,0:06:05.06,0:06:08.20,Default,,0000,0000,0000,,I knew my boy was strangely attached to you...
+Dialogue: 0,0:06:08.20,0:06:11.51,Default,,0000,0000,0000,,But you couldn't possibly be in love\Nwith him as well, could you?
+Dialogue: 0,0:06:12.96,0:06:13.82,Default,,0000,0000,0000,,I am.
+Dialogue: 0,0:06:14.62,0:06:16.12,Default,,0000,0000,0000,,Celty!
+Dialogue: 0,0:06:16.12,0:06:19.27,Default,,0000,0000,0000,,I am overwhelmed with joy!
+Dialogue: 0,0:06:20.85,0:06:23.91,Default,,0000,0000,0000,,To think what was once a mere unrequited love
+Dialogue: 0,0:06:23.91,0:06:31.78,Default,,0000,0000,0000,,has developed so profoundly that you\Nwould gladly tell others of our bliss!
+Dialogue: 0,0:06:32.11,0:06:34.24,Default,,0000,0000,0000,,Shut up! You're embarrassing me!
+Dialogue: 0,0:06:39.58,0:06:43.17,Default,,0000,0000,0000,,Do you think I'll allow this relationship?
+Dialogue: 0,0:06:43.17,0:06:44.00,Default,,0000,0000,0000,,I beg your pardon?
+Dialogue: 0,0:06:44.39,0:06:48.42,Default,,0000,0000,0000,,You are an uninvited guest in human society!
+Dialogue: 0,0:06:48.42,0:06:52.16,Default,,0000,0000,0000,,Do you realize that the people call you a monster?
+Dialogue: 0,0:06:52.16,0:06:53.34,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:06:53.80,0:06:55.18,Default,,0000,0000,0000,,"Of course"?
+Dialogue: 0,0:06:55.42,0:06:58.01,Default,,0000,0000,0000,,What of it? I fail to see the problem.
+Dialogue: 0,0:06:59.36,0:07:04.76,Default,,0000,0000,0000,,My plan to take advantage of your inability\Nto adapt to society has failed.
+Dialogue: 0,0:07:04.76,0:07:07.69,Default,,0000,0000,0000,,Says the man who wears a gas mask all day.
+Dialogue: 0,0:07:07.95,0:07:09.06,Default,,0000,0000,0000,,And...
+Dialogue: 0,0:07:11.15,0:07:15.45,Default,,0000,0000,0000,,Shinra says he likes me exactly as I am!
+Dialogue: 0,0:07:15.80,0:07:16.74,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:07:16.74,0:07:18.36,Default,,0000,0000,0000,,I shall allow it.
+Dialogue: 0,0:07:19.25,0:07:22.27,Default,,0000,0000,0000,,However! In exchange...
+Dialogue: 0,0:07:23.48,0:07:25.11,Default,,0000,0000,0000,,You are to call me "Daddy!"
+Dialogue: 0,0:07:25.11,0:07:25.84,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:07:27.98,0:07:32.76,Default,,0000,0000,0000,,In any case, without your head, your\Nmemories will never return.
+Dialogue: 0,0:07:33.55,0:07:38.68,Default,,0000,0000,0000,,Your memories of being a Dullahan\Nin your homeland of Ireland.
+Dialogue: 0,0:07:39.40,0:07:42.06,Default,,0000,0000,0000,,There's nothing I can do about that...
+Dialogue: 0,0:07:43.81,0:07:48.90,Default,,0000,0000,0000,,We'll make lots of good memories\Nto replace the ones you lost.
+Dialogue: 0,0:07:50.20,0:07:51.24,Default,,0000,0000,0000,,Shinra...
+Dialogue: 0,0:07:51.86,0:07:54.59,Default,,0000,0000,0000,,Let's start planning the wedding.
+Dialogue: 0,0:07:54.59,0:08:00.45,Default,,0000,0000,0000,,I'll need your measurements for the dress, so\Nif you'd just take off those shadow clothes-
+Dialogue: 0,0:08:00.92,0:08:02.37,Default,,0000,0000,0000,,He's always been an odd boy.
+Dialogue: 0,0:08:02.37,0:08:06.09,Default,,0000,0000,0000,,Come to think of it, he did enjoy\Nthose dissections a tad too much.
+Dialogue: 0,0:08:06.56,0:08:08.30,Default,,0000,0000,0000,,A trait he obviously inherited from you!
+Dialogue: 0,0:08:08.77,0:08:10.63,Default,,0000,0000,0000,,You mean, "from you, Daddy!"
+Dialogue: 0,0:08:13.35,0:08:18.59,Default,,0000,0000,0000,,Goodness... I just said it and you forgot already.
+Dialogue: 0,0:08:18.59,0:08:22.64,Default,,0000,0000,0000,,That carelessness is why you didn't\Nnotice when I stole your head...
+Dialogue: 0,0:08:24.74,0:08:27.15,Default,,0000,0000,0000,,Oh, fiddlesticks!
+Dialogue: 0,0:08:27.15,0:08:29.90,Default,,0000,0000,0000,,W-W-What did you just say?
+Dialogue: 0,0:08:30.11,0:08:31.27,Default,,0000,0000,0000,,Whatever shall I do?
+Dialogue: 0,0:08:31.27,0:08:34.03,Default,,0000,0000,0000,,I have spoken aloud a most important secret!
+Dialogue: 0,0:08:34.03,0:08:35.32,Default,,0000,0000,0000,,Fear not!
+Dialogue: 0,0:08:35.32,0:08:38.22,Default,,0000,0000,0000,,Celty is too careless to notice.
+Dialogue: 0,0:08:39.25,0:08:40.81,Default,,0000,0000,0000,,Careless Celty!
+Dialogue: 0,0:08:40.81,0:08:42.64,Default,,0000,0000,0000,,Careless Celty!
+Dialogue: 0,0:08:41.78,0:08:42.63,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:08:42.63,0:08:43.81,Default,,0000,0000,0000,,Why'd you have to repeat it?
+Dialogue: 0,0:08:44.91,0:08:48.46,Default,,0000,0000,0000,,The attacks of an angry, clumsy girl are easily avoided!
+Dialogue: 0,0:08:49.32,0:08:52.71,Default,,0000,0000,0000,,You're not allowed to pick on Celty, Dad.
+Dialogue: 0,0:08:52.71,0:08:55.22,Default,,0000,0000,0000,,Fine, fine. I'll explain.
+Dialogue: 0,0:08:55.75,0:08:58.29,Default,,0000,0000,0000,,There's no hiding it now, I suppose.
+Dialogue: 0,0:08:58.29,0:09:04.35,Default,,0000,0000,0000,,I was indeed the culprit who stole your head\Nand gave it to the pharmaceutical company!
+Dialogue: 0,0:09:04.35,0:09:05.75,Default,,0000,0000,0000,,It's not something to be proud of!
+Dialogue: 0,0:09:05.75,0:09:07.73,Default,,0000,0000,0000,,Very well, come with me!
+Dialogue: 0,0:09:08.08,0:09:09.48,Default,,0000,0000,0000,,I have something to show you.
+Dialogue: 0,0:09:22.10,0:09:23.33,Default,,0000,0000,0000,,What the... He took off!
+Dialogue: 0,0:09:26.63,0:09:29.59,Default,,0000,0000,0000,,That old lech is not going anywhere!
+Dialogue: 0,0:09:39.33,0:09:40.36,Default,,0000,0000,0000,,She gone?
+Dialogue: 0,0:09:44.33,0:09:48.03,Default,,0000,0000,0000,,My plan to just push the elevator\Nbutton and hide has succeeded!
+Dialogue: 0,0:09:48.03,0:09:49.78,Default,,0000,0000,0000,,I'll come again to retrieve my luggage.
+Dialogue: 0,0:09:49.78,0:09:50.48,Default,,0000,0000,0000,,Farewell!
+Dialogue: 0,0:09:57.94,0:10:01.33,Default,,0000,0000,0000,,Damn it... Where is he?
+Dialogue: 0,0:10:07.43,0:10:08.83,Default,,0000,0000,0000,,Celty-san?
+Dialogue: 0,0:10:09.42,0:10:10.90,Default,,0000,0000,0000,,Something wrong?
+Dialogue: 0,0:10:10.90,0:10:12.42,Default,,0000,0000,0000,,You seem out of it.
+Dialogue: 0,0:10:13.32,0:10:15.39,Default,,0000,0000,0000,,I was just thinking...
+Dialogue: 0,0:10:16.15,0:10:17.31,Default,,0000,0000,0000,,About what?
+Dialogue: 0,0:10:18.64,0:10:21.22,Default,,0000,0000,0000,,You look down. Something must be bothering you.
+Dialogue: 0,0:10:23.81,0:10:29.84,Default,,0000,0000,0000,,It's just this strange Slasher rumor\Nthat's all over the net...
+Dialogue: 0,0:10:29.84,0:10:31.41,Default,,0000,0000,0000,,Strange rumor?
+Dialogue: 0,0:10:31.41,0:10:35.51,Default,,0000,0000,0000,,Yeah, that the Dollars are behind the Slasher attacks.
+Dialogue: 0,0:10:35.51,0:10:39.09,Default,,0000,0000,0000,,That can't be... Do you believe it?
+Dialogue: 0,0:10:39.09,0:10:41.25,Default,,0000,0000,0000,,Of course not.
+Dialogue: 0,0:10:41.83,0:10:44.73,Default,,0000,0000,0000,,But if the rumor spreads, then I've got this feeling
+Dialogue: 0,0:10:44.73,0:10:47.25,Default,,0000,0000,0000,,that something terrible might happen,
+Dialogue: 0,0:10:47.53,0:10:52.54,Default,,0000,0000,0000,,especially now that tensions are mounting between\Nthe Dollars and the Yellow Scarves.
+Dialogue: 0,0:10:55.13,0:10:59.38,Default,,0000,0000,0000,,He's right. The balance of Ikebukuro\Nis in danger right now.
+Dialogue: 0,0:11:01.26,0:11:02.62,Default,,0000,0000,0000,,Mikado.
+Dialogue: 0,0:11:02.62,0:11:05.24,Default,,0000,0000,0000,,I'll investigate the Slasher.
+Dialogue: 0,0:11:05.73,0:11:06.97,Default,,0000,0000,0000,,Celty-san?
+Dialogue: 0,0:11:07.36,0:11:09.19,Default,,0000,0000,0000,,You should go.
+Dialogue: 0,0:11:09.19,0:11:13.72,Default,,0000,0000,0000,,If you just sit here spacing out,\Nsomebody's bound to mug you.
+Dialogue: 0,0:11:14.63,0:11:16.13,Default,,0000,0000,0000,,Good point.
+Dialogue: 0,0:11:16.96,0:11:18.47,Default,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:11:21.70,0:11:23.43,Default,,0000,0000,0000,,The Slasher?
+Dialogue: 0,0:11:24.31,0:11:26.59,Default,,0000,0000,0000,,No clue, sorry.
+Dialogue: 0,0:11:26.59,0:11:27.95,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:11:28.40,0:11:33.30,Default,,0000,0000,0000,,What's the point in breaking your back for the Dollars?
+Dialogue: 0,0:11:33.30,0:11:35.46,Default,,0000,0000,0000,,It's not just for the Dollars.
+Dialogue: 0,0:11:36.02,0:11:39.58,Default,,0000,0000,0000,,I've got a bit of a score to settle, myself.
+Dialogue: 0,0:11:42.72,0:11:46.06,Default,,0000,0000,0000,,If I wasn't headless, I would've died then.
+Dialogue: 0,0:11:46.06,0:11:47.49,Default,,0000,0000,0000,,Idiot.
+Dialogue: 0,0:11:48.34,0:11:50.15,Default,,0000,0000,0000,,I'm proving I'm the idiot by saying that,
+Dialogue: 0,0:11:50.15,0:11:52.91,Default,,0000,0000,0000,,but I already know I'm an idiot, so it's fine by me!
+Dialogue: 0,0:11:52.91,0:11:53.79,Default,,0000,0000,0000,,Idiot!
+Dialogue: 0,0:11:53.79,0:11:55.36,Default,,0000,0000,0000,,Why didn't you tell me sooner?!
+Dialogue: 0,0:11:55.36,0:11:56.48,Default,,0000,0000,0000,,I'll kill them.
+Dialogue: 0,0:11:56.48,0:11:57.62,Default,,0000,0000,0000,,I'll kill them for sure.
+Dialogue: 0,0:11:57.62,0:11:58.90,Default,,0000,0000,0000,,And I'll kill them dead!
+Dialogue: 0,0:11:58.90,0:12:00.64,Default,,0000,0000,0000,,I'll kill them deader than dead!
+Dialogue: 0,0:12:00.64,0:12:05.20,Default,,0000,0000,0000,,Um, well, I'm the headless rider, so it's OK.
+Dialogue: 0,0:12:05.20,0:12:09.02,Default,,0000,0000,0000,,That's not the issue...
+Dialogue: 0,0:12:09.02,0:12:12.21,Default,,0000,0000,0000,,If they pull a knife on you, you've\Ngotta rip out their spines!
+Dialogue: 0,0:12:12.57,0:12:16.55,Default,,0000,0000,0000,,{\i1}Kill! Kill! Kill! Kill! Kill!
+Dialogue: 0,0:12:13.86,0:12:15.17,Default,,0000,0000,0000,,But aren't you working?
+Dialogue: 0,0:12:15.17,0:12:16.54,Default,,0000,0000,0000,,Are you on a break right now?
+Dialogue: 0,0:12:16.54,0:12:18.10,Default,,0000,0000,0000,,Who the hell cares?
+Dialogue: 0,0:12:18.10,0:12:22.63,Default,,0000,0000,0000,,Hey! I won't have you getting fired because of me!
+Dialogue: 0,0:12:22.63,0:12:27.27,Default,,0000,0000,0000,,Besides, I need information first\Nif I'm going to find them.
+Dialogue: 0,0:12:27.27,0:12:29.96,Default,,0000,0000,0000,,I'll get some stuff together,\Nso don't do anything just yet.
+Dialogue: 0,0:12:32.95,0:12:33.85,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:12:34.92,0:12:37.73,Default,,0000,0000,0000,,But do it quick.
+Dialogue: 0,0:12:37.93,0:12:41.15,Default,,0000,0000,0000,,Kill! Kill! Kill! Kill!
+Dialogue: 0,0:12:42.32,0:12:46.00,Default,,0000,0000,0000,,There was a reason I left Shizuo alone for a while.
+Dialogue: 0,0:12:51.23,0:12:54.97,Default,,0000,0000,0000,,I'm happy you came to see me.
+Dialogue: 0,0:12:55.47,0:12:58.85,Default,,0000,0000,0000,,So tell me, did you ever find your head?
+Dialogue: 0,0:12:58.85,0:13:00.34,Default,,0000,0000,0000,,I'm not here to talk about that.
+Dialogue: 0,0:13:00.84,0:13:02.88,Default,,0000,0000,0000,,I'll make this quick.
+Dialogue: 0,0:13:02.88,0:13:05.05,Default,,0000,0000,0000,,I want to know about the Slasher.
+Dialogue: 0,0:13:05.05,0:13:07.05,Default,,0000,0000,0000,,Three bills.
+Dialogue: 0,0:13:12.59,0:13:16.21,Default,,0000,0000,0000,,Man, your wallet and clothes are both shadow, huh?
+Dialogue: 0,0:13:16.21,0:13:21.57,Default,,0000,0000,0000,,If I shine a spotlight on you, will you end up naked?
+Dialogue: 0,0:13:21.57,0:13:23.22,Default,,0000,0000,0000,,Wanna try it?
+Dialogue: 0,0:13:23.22,0:13:24.89,Default,,0000,0000,0000,,Not really.
+Dialogue: 0,0:13:24.89,0:13:29.22,Default,,0000,0000,0000,,I'm no pervert, unlike certain underworld\Ndoctors and their students.
+Dialogue: 0,0:13:29.22,0:13:32.66,Default,,0000,0000,0000,,I can't get it up for headless chicks,\Nor just heads, for that matter.
+Dialogue: 0,0:13:35.19,0:13:36.75,Default,,0000,0000,0000,,Say what you want about me,
+Dialogue: 0,0:13:36.75,0:13:39.50,Default,,0000,0000,0000,,but the next time you insult Shinra, you pay.
+Dialogue: 0,0:13:41.30,0:13:42.71,Default,,0000,0000,0000,,True love, huh?
+Dialogue: 0,0:13:45.61,0:13:46.99,Default,,0000,0000,0000,,But you know,
+Dialogue: 0,0:13:46.99,0:13:53.15,Default,,0000,0000,0000,,if another Dullahan showed up to seduce\Nhim, he might be easily swayed.
+Dialogue: 0,0:13:53.15,0:13:55.66,Default,,0000,0000,0000,,I'd like to think that wouldn't happen.
+Dialogue: 0,0:13:55.66,0:13:56.88,Default,,0000,0000,0000,,But if it did...
+Dialogue: 0,0:13:56.88,0:13:58.98,Default,,0000,0000,0000,,You'd kill Shinra and then off yourself?
+Dialogue: 0,0:13:59.33,0:14:04.49,Default,,0000,0000,0000,,No, I just wouldn't let any other headless\Nwomen get close to him.
+Dialogue: 0,0:14:05.74,0:14:08.60,Default,,0000,0000,0000,,I love him now, after all.
+Dialogue: 0,0:14:11.97,0:14:14.09,Default,,0000,0000,0000,,Wow, didn't see that coming!
+Dialogue: 0,0:14:14.09,0:14:16.82,Default,,0000,0000,0000,,You've become even more human!
+Dialogue: 0,0:14:17.38,0:14:26.29,Default,,0000,0000,0000,,Better be careful, though. The gap between your\Nhead and neck might be bigger than it was.
+Dialogue: 0,0:14:26.79,0:14:30.18,Default,,0000,0000,0000,,I'll worry about that when I get my head back.
+Dialogue: 0,0:14:30.74,0:14:35.57,Default,,0000,0000,0000,,To be honest, lately I've been thinking\Nthat I don't even need it.
+Dialogue: 0,0:14:35.57,0:14:39.25,Default,,0000,0000,0000,,Anyway, I want info on the Slasher.
+Dialogue: 0,0:14:39.25,0:14:42.03,Default,,0000,0000,0000,,Don't take my money and then\Ntell me you don't have any.
+Dialogue: 0,0:14:42.95,0:14:44.67,Default,,0000,0000,0000,,Don't fret, my pet.
+Dialogue: 0,0:14:44.67,0:14:48.98,Default,,0000,0000,0000,,I've got special info that neither the cops,\Nthe media, nor even the net's privy to.
+Dialogue: 0,0:14:48.98,0:14:51.80,Default,,0000,0000,0000,,I've actually been waiting for you to come.
+Dialogue: 0,0:14:51.80,0:14:53.12,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:14:54.36,0:14:57.87,Default,,0000,0000,0000,,This Slasher stuff is supernatural.
+Dialogue: 0,0:14:58.46,0:15:01.08,Default,,0000,0000,0000,,Ever heard of a katana called Saika (SinSong)?
+Dialogue: 0,0:15:01.08,0:15:02.39,Default,,0000,0000,0000,,Saika?
+Dialogue: 0,0:15:02.39,0:15:08.16,Default,,0000,0000,0000,,It's hard to believe, but Saika was a cursed\Nblade that actually existed here in Shinjuku.
+Dialogue: 0,0:15:08.16,0:15:09.56,Default,,0000,0000,0000,,A cursed blade?
+Dialogue: 0,0:15:09.56,0:15:11.47,Default,,0000,0000,0000,,Like the Muramasa, or something?
+Dialogue: 0,0:15:11.47,0:15:12.59,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:12.59,0:15:14.56,Default,,0000,0000,0000,,A blade empowered by dark magic.
+Dialogue: 0,0:15:17.79,0:15:19.02,Default,,0000,0000,0000,,Something on your mind?
+Dialogue: 0,0:15:19.02,0:15:23.05,Default,,0000,0000,0000,,Izaya told me about a cursed blade called "Saika."
+Dialogue: 0,0:15:23.05,0:15:28.69,Default,,0000,0000,0000,,According to legend, he says, it has a mind\Nof its own and can possess people.
+Dialogue: 0,0:15:29.15,0:15:35.00,Default,,0000,0000,0000,,And he says that all of the Slasher's victims\Nsaid their attacker's eyes were red.
+Dialogue: 0,0:15:36.15,0:15:38.55,Default,,0000,0000,0000,,And he thinks this "Saika" is behind it?
+Dialogue: 0,0:15:38.55,0:15:39.33,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:40.06,0:15:42.13,Default,,0000,0000,0000,,Every night that there's a Slasher attack,
+Dialogue: 0,0:15:42.13,0:15:45.74,Default,,0000,0000,0000,,someone with the nickname "Saika" (SinSong)\Nshows up on the net.
+Dialogue: 0,0:15:47.37,0:15:52.59,Default,,0000,0000,0000,,But when I was attacked, I didn't\Nsense them approaching me.
+Dialogue: 0,0:15:53.31,0:15:57.75,Default,,0000,0000,0000,,If Saika isn't human, I should've\Nfelt a presence of some kind.
+Dialogue: 0,0:15:58.55,0:16:03.60,Default,,0000,0000,0000,,But if Saika's taking over their minds, then\Nit's a human body that's actually moving.
+Dialogue: 0,0:16:04.46,0:16:08.64,Default,,0000,0000,0000,,It's possible that the presence you\Nspeak of doesn't actually exist.
+Dialogue: 0,0:16:08.64,0:16:12.36,Default,,0000,0000,0000,,You seem to know a lot about Saika.
+Dialogue: 0,0:16:12.58,0:16:16.31,Default,,0000,0000,0000,,Well, you told me to look into it, didn't you?
+Dialogue: 0,0:16:16.31,0:16:18.84,Default,,0000,0000,0000,,Anyway, come to bed, OK?
+Dialogue: 0,0:16:22.26,0:16:26.50,Default,,0000,0000,0000,,Shinra is hiding something, I thought.
+Dialogue: 0,0:16:36.50,0:16:38.51,Default,,0000,0000,0000,,Hi! Welcome back!
+Dialogue: 0,0:16:38.83,0:16:45.00,Default,,0000,0000,0000,,When Miss Namie here vanished\Nafter the merger with Nebra,
+Dialogue: 0,0:16:45.00,0:16:48.80,Default,,0000,0000,0000,,I did some investigating and discovered\Nthat she occasionally visits you.
+Dialogue: 0,0:16:48.80,0:16:53.36,Default,,0000,0000,0000,,So I used this model gun to threaten\Nher and we came here together.
+Dialogue: 0,0:16:53.36,0:16:54.73,Default,,0000,0000,0000,,Model gun?
+Dialogue: 0,0:16:54.73,0:16:56.71,Default,,0000,0000,0000,,Oh, I didn't tell you?
+Dialogue: 0,0:16:57.98,0:17:00.68,Default,,0000,0000,0000,,Shouldn't we report him to the police?
+Dialogue: 0,0:17:00.68,0:17:04.62,Default,,0000,0000,0000,,Oh? Wouldn't you be the ones in hot water if you did?
+Dialogue: 0,0:17:05.08,0:17:10.47,Default,,0000,0000,0000,,If my statement makes them search this room,\Nthey'll find the head of a young woman!
+Dialogue: 0,0:17:11.07,0:17:15.67,Default,,0000,0000,0000,,It would be bigger news than the Slasher.
+Dialogue: 0,0:17:16.12,0:17:20.66,Default,,0000,0000,0000,,I guess Shinra gets his twisted personality from you.
+Dialogue: 0,0:17:20.66,0:17:22.39,Default,,0000,0000,0000,,Flattery will get you nowhere.
+Dialogue: 0,0:17:22.88,0:17:27.18,Default,,0000,0000,0000,,Though to be honest, I have no need\Nto recover the head right now.
+Dialogue: 0,0:17:29.11,0:17:34.90,Default,,0000,0000,0000,,My company's executives were quite surprised\Nby Celty's television debut.
+Dialogue: 0,0:17:35.82,0:17:40.99,Default,,0000,0000,0000,,They feel we should research the body before the head.
+Dialogue: 0,0:17:41.42,0:17:46.50,Default,,0000,0000,0000,,That's why I've decided that we're\Nstill searching for the head.
+Dialogue: 0,0:17:46.50,0:17:52.36,Default,,0000,0000,0000,,After all, you've taken a very\Nunique approach to it.
+Dialogue: 0,0:17:52.36,0:17:56.18,Default,,0000,0000,0000,,Your theory that Dullahans are Valkyries,
+Dialogue: 0,0:17:56.18,0:18:03.75,Default,,0000,0000,0000,,and that you can awaken the head by involving it\Nin some type of power struggle is unprecedented.
+Dialogue: 0,0:18:03.75,0:18:06.48,Default,,0000,0000,0000,,Well, I'm trying everything I can think of.
+Dialogue: 0,0:18:06.48,0:18:10.77,Default,,0000,0000,0000,,If all else fails, I'll have to take it to a warzone.
+Dialogue: 0,0:18:11.30,0:18:15.78,Default,,0000,0000,0000,,For the moment, I'd like to cooperate with you.
+Dialogue: 0,0:18:16.48,0:18:17.58,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:18:17.58,0:18:20.11,Default,,0000,0000,0000,,I've been interested in you for a while.
+Dialogue: 0,0:18:20.11,0:18:24.91,Default,,0000,0000,0000,,Nobody else I know tries to experiment\Nfrom a mythological standpoint.
+Dialogue: 0,0:18:24.91,0:18:27.04,Default,,0000,0000,0000,,Including myself.
+Dialogue: 0,0:18:27.31,0:18:28.67,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:18:29.78,0:18:33.00,Default,,0000,0000,0000,,Before I go, let me give you one piece of advice.
+Dialogue: 0,0:18:33.00,0:18:36.80,Default,,0000,0000,0000,,If you do create an artificial struggle here in Tokyo,
+Dialogue: 0,0:18:36.80,0:18:41.19,Default,,0000,0000,0000,,one to stimulate Celty's head, or perhaps her soul,
+Dialogue: 0,0:18:41.19,0:18:48.01,Default,,0000,0000,0000,,it would be best not to involve\Nher in someone else's war.
+Dialogue: 0,0:18:48.96,0:18:52.23,Default,,0000,0000,0000,,Instead, you should get the others caught\Nup in fighting over her body.
+Dialogue: 0,0:18:54.70,0:18:56.36,Default,,0000,0000,0000,,That's my intention.
+Dialogue: 0,0:18:57.56,0:19:01.70,Default,,0000,0000,0000,,Actually, things are progressing in that\Ndirection faster than I thought.
+Dialogue: 0,0:19:04.28,0:19:05.82,Default,,0000,0000,0000,,Anri!
+Dialogue: 0,0:19:06.48,0:19:10.28,Default,,0000,0000,0000,,You OK getting ready for gym day?
+Dialogue: 0,0:19:10.28,0:19:11.04,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:19:11.04,0:19:16.29,Default,,0000,0000,0000,,I've been worried! Why were you with\Nthe students who were attacked?
+Dialogue: 0,0:19:16.29,0:19:18.55,Default,,0000,0000,0000,,Were they bullying you again?
+Dialogue: 0,0:19:19.30,0:19:20.63,Default,,0000,0000,0000,,I'm worried.
+Dialogue: 0,0:19:20.63,0:19:22.47,Default,,0000,0000,0000,,Honestly.
+Dialogue: 0,0:19:22.68,0:19:25.72,Default,,0000,0000,0000,,The Slasher might strike again...
+Dialogue: 0,0:19:25.72,0:19:27.26,Default,,0000,0000,0000,,It's dangerous to be alone!
+Dialogue: 0,0:19:27.26,0:19:29.10,Default,,0000,0000,0000,,Sexually harassing a student again?
+Dialogue: 0,0:19:29.31,0:19:31.56,Default,,0000,0000,0000,,That's naughty, Sensei.
+Dialogue: 0,0:19:31.56,0:19:34.16,Default,,0000,0000,0000,,I'm just concerned about Anri.
+Dialogue: 0,0:19:34.16,0:19:37.11,Default,,0000,0000,0000,,Whoa, first-name basis! Dangerous!
+Dialogue: 0,0:19:38.22,0:19:43.70,Default,,0000,0000,0000,,Worry too much and she might\Ntransfer, like Niekawa-sempai!
+Dialogue: 0,0:19:44.21,0:19:47.14,Default,,0000,0000,0000,,Weren't you her teacher last year?
+Dialogue: 0,0:19:47.14,0:19:48.99,Default,,0000,0000,0000,,Niekawa Haruna-sempai's.
+Dialogue: 0,0:19:50.34,0:19:51.29,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:51.74,0:19:53.69,Default,,0000,0000,0000,,You know Niekawa?
+Dialogue: 0,0:19:53.69,0:19:55.40,Default,,0000,0000,0000,,Sure, but just by name.
+Dialogue: 0,0:19:55.82,0:19:58.84,Default,,0000,0000,0000,,Well, it's about time we students headed home!
+Dialogue: 0,0:20:00.60,0:20:03.71,Default,,0000,0000,0000,,Who's Niekawa Haruna?
+Dialogue: 0,0:20:04.40,0:20:05.83,Default,,0000,0000,0000,,Say, Anri.
+Dialogue: 0,0:20:06.67,0:20:10.20,Default,,0000,0000,0000,,Hasn't Mikado asked you out yet?
+Dialogue: 0,0:20:10.94,0:20:12.35,Default,,0000,0000,0000,,Didn't think so.
+Dialogue: 0,0:20:12.69,0:20:15.72,Default,,0000,0000,0000,,But you know he's crazy about you, right?
+Dialogue: 0,0:20:16.20,0:20:19.52,Default,,0000,0000,0000,,Ryuugamine is a good friend...
+Dialogue: 0,0:20:21.11,0:20:24.77,Default,,0000,0000,0000,,Since my best friend seems genuinely in love with you,
+Dialogue: 0,0:20:24.77,0:20:27.45,Default,,0000,0000,0000,,I'm going to just bow out for the moment.
+Dialogue: 0,0:20:27.45,0:20:31.82,Default,,0000,0000,0000,,After all, girls all over the world need my love!
+Dialogue: 0,0:20:31.82,0:20:32.92,Default,,0000,0000,0000,,Masaomi!
+Dialogue: 0,0:20:33.65,0:20:35.42,Default,,0000,0000,0000,,Sonohara-san!
+Dialogue: 0,0:20:35.70,0:20:38.42,Default,,0000,0000,0000,,Speak of the coward.
+Dialogue: 0,0:20:38.69,0:20:40.17,Default,,0000,0000,0000,,Sorry, you guys wait long?
+Dialogue: 0,0:20:40.17,0:20:42.68,Default,,0000,0000,0000,,I thought we were gonna fossilize!
+Dialogue: 0,0:20:43.34,0:20:44.25,Default,,0000,0000,0000,,You get square root of three points.
+Dialogue: 0,0:20:44.25,0:20:46.59,Default,,0000,0000,0000,,Root? What the heck?
+Dialogue: 0,0:20:46.59,0:20:49.77,Default,,0000,0000,0000,,Say -20 points, or something I can understand!
+Dialogue: 0,0:20:49.77,0:20:50.77,Default,,0000,0000,0000,,Later!
+Dialogue: 0,0:20:50.77,0:20:52.27,Default,,0000,0000,0000,,See you tomorrow!
+Dialogue: 0,0:20:52.27,0:20:53.77,Default,,0000,0000,0000,,See you tomorrow.
+Dialogue: 0,0:21:12.20,0:21:13.85,Default,,0000,0000,0000,,You finally came.
+Dialogue: 0,0:21:26.06,0:21:27.08,Default,,0000,0000,0000,,Celty...
+Dialogue: 0,0:21:28.99,0:21:30.73,Default,,0000,0000,0000,,About Saika...
+Dialogue: 0,0:21:31.18,0:21:34.39,Default,,0000,0000,0000,,My dad had it for a while.
+Dialogue: 0,0:21:35.00,0:21:38.47,Default,,0000,0000,0000,,He sold it to an acquaintance of\Nhis who was an antiques dealer.
+Dialogue: 0,0:21:38.95,0:21:40.40,Default,,0000,0000,0000,,He did?
+Dialogue: 0,0:21:40.40,0:21:41.32,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:21:41.67,0:21:45.07,Default,,0000,0000,0000,,Saika is said to be able to cut souls...
+Dialogue: 0,0:21:46.54,0:21:47.61,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:21:47.61,0:21:52.98,Default,,0000,0000,0000,,Yes, he used it to steal your head.
+Dialogue: 0,0:21:52.98,0:21:56.24,Default,,0000,0000,0000,,He cut the soul that held your body and head together.
+Dialogue: 0,0:21:58.34,0:22:01.45,Default,,0000,0000,0000,,And you... You knew that?
+Dialogue: 0,0:22:01.45,0:22:02.52,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:22:02.52,0:22:07.13,Default,,0000,0000,0000,,Of course, it was only later that I learned\Nhe used it to steal your head.
+Dialogue: 0,0:22:07.86,0:22:12.84,Default,,0000,0000,0000,,Since you were finally starting to forget about your\Nhead, I thought it was all right not to mention it.
+Dialogue: 0,0:22:12.84,0:22:13.97,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:22:14.30,0:22:18.18,Default,,0000,0000,0000,,I need to be alone for a while.
+Dialogue: 0,0:22:23.07,0:22:24.86,Default,,0000,0000,0000,,That doesn't surprise me.
+Dialogue: 0,0:22:25.85,0:22:27.79,Default,,0000,0000,0000,,Love brings confusion.
+Dialogue: 0,0:22:28.20,0:22:33.01,Default,,0000,0000,0000,,That night, the cursed blade Saika\Nwas trying to love a girl.
+Dialogue: 0,0:22:33.56,0:22:37.71,Default,,0000,0000,0000,,A girl who couldn't find her place in reality.
+Dialogue: 0,0:22:38.18,0:22:40.45,Default,,0000,0000,0000,,Sonohara Anri.
+Dialogue: 0,0:24:15.80,0:24:17.18,Default,,0000,0000,0000,,Ikebukuro...
+Dialogue: 0,0:24:17.18,0:24:23.70,Default,,0000,0000,0000,,All that I wanted was to know the\Nsource of this junktown's energy;
+Dialogue: 0,0:24:23.70,0:24:27.09,Default,,0000,0000,0000,,the truth about its greed, growing greater by the day.
+Dialogue: 0,0:24:27.09,0:24:28.08,Default,,0000,0000,0000,,Next time:
+Dialogue: 0,0:24:28.08,0:24:30.32,Default,,0000,0000,0000,,Even a stopped clock is right twice a day.
