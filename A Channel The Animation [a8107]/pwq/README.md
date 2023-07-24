@@ -19,4 +19,4 @@
 
 ## Notes
 
-1, 2, 5, and 6 are missing for now. Credits are based on pwq's full staff list, as one specifically for A-Channel could not be found. Everybody on the staff was credited as QC.
+Credits are based on pwq's full staff list, as one specifically for A-Channel could not be found. Everybody on the staff was credited as QC.
