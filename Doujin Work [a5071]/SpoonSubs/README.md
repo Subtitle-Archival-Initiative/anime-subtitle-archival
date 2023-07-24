@@ -6,7 +6,7 @@
 | Translation Check | joshjoshlol (1-4,6-12), Dr. Colossus (5)  |
 | Editing           | filthychimp, Dayspring, Kazz              |
 | Typesetting       | Branduil, kami (3)                        |
-| Timing            | kami, Paladin (2-12)                      |
+| Timing            | kami, Paladin                             |
 | Encoding          | WaryWolf                                  |
 | Quality Control   | Branduil, The Team                        |
 
@@ -21,4 +21,4 @@
 
 ## Notes
 
-Every episode has a "Karaoke" and a "No Karaoke" track, although the Karaoke track just adds song lyrics.
+Every episode has a "Karaoke" and a "No Karaoke" track, although the Karaoke track just adds song lyrics. Typesetting is hardsubbed.
