@@ -3,11 +3,11 @@
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
 | Translation       | Sei                                 |
-| Translation Check | ?                                   |
+| Translation Check | goshinibi                           |
 | Editing           | cruelnoise                          |
 | Typesetting       | cruelnoise, begna                   |
 | Styling           | cruelnoise                          |
-| Timing            | cruelnoise                          |
+| Timing            | cruelnoise, owningmatt99            |
 | Encoding          | begna                               |
 | Quality Control   | ?                                   |
 
