@@ -3,12 +3,12 @@
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
 | Translation       | Sei                                 |
-| Translation Check | ?                                   |
+| Translation Check | goshinibi                           |
 | Editing           | cruelnoise                          |
-| Typesetting       | ?                                   |
-| Styling           | ?                                   |
-| Timing            | ?                                   |
-| Encoding          | ?                                   |
+| Typesetting       | cruelnoise, begna                   |
+| Styling           | cruelnoise                          |
+| Timing            | cruelnoise, owningmatt99            |
+| Encoding          | begna                               |
 | Quality Control   | ?                                   |
 
 ## Release Info
