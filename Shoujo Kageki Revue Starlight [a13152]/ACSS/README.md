@@ -5,10 +5,10 @@
 | Translation       | Sei                                 |
 | Translation Check | ?                                   |
 | Editing           | cruelnoise                          |
-| Typesetting       | ?                                   |
-| Styling           | ?                                   |
-| Timing            | ?                                   |
-| Encoding          | ?                                   |
+| Typesetting       | cruelnoise, begna                   |
+| Styling           | cruelnoise                          |
+| Timing            | cruelnoise                          |
+| Encoding          | begna                               |
 | Quality Control   | ?                                   |
 
 ## Release Info
