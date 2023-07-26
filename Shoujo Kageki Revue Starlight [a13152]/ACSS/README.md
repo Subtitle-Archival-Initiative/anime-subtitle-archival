@@ -9,7 +9,7 @@
 | Styling           | cruelnoise                          |
 | Timing            | cruelnoise, owningmatt99            |
 | Encoding          | begna                               |
-| Quality Control   | ?                                   |
+| Quality Control   | -                                   |
 
 ## Release Info
 
