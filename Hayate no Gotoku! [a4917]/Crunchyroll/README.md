@@ -2,7 +2,7 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Original Script   | TV Tokyo? (http://www.crunchyroll.com/user/tvtm) |
+| Original Script   | aniplex? [http://www.crunchyroll.com/user/aniplex] |
 
 ## Release Info
 
@@ -11,6 +11,5 @@
 | Status       | Complete  |
 | Batch Status | -         |
 | Source       | Web       |
-| Resolution   | 640x360   |
+| Resolution   | 854x480?  |
 
-## Notes
