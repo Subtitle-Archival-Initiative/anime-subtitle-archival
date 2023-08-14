@@ -2,7 +2,7 @@
 
 | Role        | Staff                               |
 |-------------|-------------------------------------|
-| Translation | niconico                            |
+| Translation | Aniplex                             |
 | Editing     | Kyhz (14-22, 24-25), Xythar (23)    |
 | Typesetting | Xythar (15-25), torchlight (14)     |
 | Timing      | Xythar (15-25), torchlight (14)     |
