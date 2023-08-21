@@ -1,0 +1,409 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0015,0015,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0015,0015,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0015,0015,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.10,0:00:18.15,Default,,0000,0000,0000,,{\i1}Hey, everyone, we're\Ngoing to start Kaleido Star!{\i0}
+Dialogue: 0,0:00:18.15,0:00:20.94,Default,,0000,0000,0000,,{\i1}When you watch Kaleido Star,\Nplease keep your room brightly lit,{\i0}
+Dialogue: 0,0:00:20.94,0:00:23.60,Default,,0000,0000,0000,,{\i1}and sit as far from the TV as you can.{\i0}
+Dialogue: 0,0:00:25.88,0:00:27.27,Default,,0000,0000,0000,,{\i1}Well, well, well. {\i0}
+Dialogue: 0,0:00:27.27,0:00:31.17,Default,,0000,0000,0000,,{\i1}What are your fun memories\Nfrom when you were small, everyone?{\i0}
+Dialogue: 0,0:00:31.17,0:00:34.59,Default,,0000,0000,0000,,{\i1}Going places with your mom and\Ndad, and doing things with them...{\i0}
+Dialogue: 0,0:00:35.63,0:00:37.77,Default,,0000,0000,0000,,{\i1}You were happy just to be together with them,{\i0}
+Dialogue: 0,0:00:37.77,0:00:39.81,Default,,0000,0000,0000,,{\i1}and those memories stay with you\Nno matter how much time goes by.{\i0}
+Dialogue: 0,0:00:39.81,0:00:41.18,Default,,0000,0000,0000,,{\i1}They're wonderful treasures, aren't they?{\i0}
+Dialogue: 0,0:00:42.48,0:00:45.14,Default,,0000,0000,0000,,{\i1}Me, I'm here because that day happened.{\i0}
+Dialogue: 0,0:00:45.94,0:00:47.27,Default,,0000,0000,0000,,{\i1}I won't forget. {\i0}
+Dialogue: 0,0:00:47.65,0:00:52.17,Default,,0000,0000,0000,,{\i1}So I don't want you all to forget\Nthings, either! I don't! I don't!{\i0}
+Dialogue: 0,0:00:54.70,0:01:02.40,On Top,,0000,0000,0000,,{\i1}Tattoo Kiss, the beginning\Nis red and black passions{\i0}
+Dialogue: 0,0:01:02.40,0:01:09.54,On Top,,0000,0000,0000,,{\i1}Sometimes, we rely on our contrary hearts{\i0}
+Dialogue: 0,0:01:09.54,0:01:16.85,On Top,,0000,0000,0000,,{\i1}Tattoo Kiss, the last resort is a\Nmission which changes the future{\i0}
+Dialogue: 0,0:01:16.85,0:01:24.85,On Top,,0000,0000,0000,,{\i1}There is no place for\Nambiguous answers in love{\i0}
+Dialogue: 0,0:01:24.90,0:01:32.27,On Top,,0000,0000,0000,,{\i1}Even while pretending not to\Nsee the impossible reality, we bet{\i0}
+Dialogue: 0,0:01:32.27,0:01:38.23,On Top,,0000,0000,0000,,{\i1}Hard-to-obtain-truth\NCan you feel me now?{\i0}
+Dialogue: 0,0:01:38.23,0:01:42.31,On Top,,0000,0000,0000,,{\i1}What should I say to myself,\Nwho gets excited easily?{\i0}
+Dialogue: 0,0:01:42.31,0:01:46.21,On Top,,0000,0000,0000,,{\i1}I'm confused about what to say {\i0}
+Dialogue: 0,0:01:47.62,0:01:55.21,On Top,,0000,0000,0000,,{\i1}Dreamin' the never-waking\Ndream, the falling fate{\i0}
+Dialogue: 0,0:01:55.21,0:02:02.52,On Top,,0000,0000,0000,,{\i1}Don't stop lovin' can't stop lovin' you\NYa ya ya{\i0}
+Dialogue: 0,0:02:02.52,0:02:10.35,On Top,,0000,0000,0000,,{\i1}I believe in you, even\Nif I lose everything for it{\i0}
+Dialogue: 0,0:02:10.35,0:02:17.06,On Top,,0000,0000,0000,,{\i1}Still lovin' can't stop lovin' you\NNo no no{\i0}
+Dialogue: 0,0:02:21.16,0:02:23.06,On Top,,0000,0000,0000,,{\i1}Tattoo Kiss {\i0}
+Dialogue: 0,0:02:25.73,0:02:27.19,Default,,0000,0000,0000,,Leon.
+Dialogue: 0,0:02:27.19,0:02:28.56,Default,,0000,0000,0000,,Leon, are you listening?
+Dialogue: 0,0:02:29.77,0:02:30.92,Default,,0000,0000,0000,,Come on, Leon!
+Dialogue: 0,0:02:31.60,0:02:32.59,Default,,0000,0000,0000,,I'm listening.
+Dialogue: 0,0:02:33.06,0:02:36.23,Default,,0000,0000,0000,,Say, make my training harsher.
+Dialogue: 0,0:02:36.23,0:02:39.51,Default,,0000,0000,0000,,I want to perfect the Angel's\NManeuver before the Festival.
+Dialogue: 0,0:02:40.15,0:02:42.85,Default,,0000,0000,0000,,This isn't the only year\Nthey'll hold the Festival.
+Dialogue: 0,0:02:42.85,0:02:44.18,Default,,0000,0000,0000,,There's no need to rush.
+Dialogue: 0,0:02:44.69,0:02:49.14,Default,,0000,0000,0000,,But it's already been more than\Nfive years since we left Alain's...
+Dialogue: 0,0:02:49.56,0:02:52.94,Default,,0000,0000,0000,,That's okay, isn't it?\NThe time hasn't been wasted.
+Dialogue: 0,0:02:52.94,0:02:58.06,Default,,0000,0000,0000,,After all, now all kinds of circus troupes\Nare inviting us to be guest performers,
+Dialogue: 0,0:02:58.06,0:03:01.16,Default,,0000,0000,0000,,and we've even been nominated for the\NCircus Festival, even if we are in the lowest seat.
+Dialogue: 0,0:03:01.60,0:03:05.16,Default,,0000,0000,0000,,That's all because of you.\NI'm just an extra bonus.
+Dialogue: 0,0:03:07.27,0:03:12.27,Default,,0000,0000,0000,,To make up for my deficiencies, you're\Nalways training yourself without a break.
+Dialogue: 0,0:03:12.27,0:03:14.27,Default,,0000,0000,0000,,I want to work harder too!
+Dialogue: 0,0:03:14.27,0:03:18.30,Default,,0000,0000,0000,,This is just the habit I've\Nhad since I was a kid, that's all.
+Dialogue: 0,0:03:20.60,0:03:23.65,Default,,0000,0000,0000,,Never mind. I'll make\Nmy training harsher myself.
+Dialogue: 0,0:03:23.65,0:03:24.56,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:03:24.56,0:03:27.31,Default,,0000,0000,0000,,I'll perform the Angel's\NManeuver at the Circus Festival.
+Dialogue: 0,0:03:27.31,0:03:28.40,Default,,0000,0000,0000,,Perfectly!
+Dialogue: 0,0:03:28.40,0:03:29.40,Default,,0000,0000,0000,,Sophie!
+Dialogue: 0,0:03:29.40,0:03:30.31,Default,,0000,0000,0000,,Okay, I get it.
+Dialogue: 0,0:03:30.31,0:03:33.52,Default,,0000,0000,0000,,We'll toughen up the\Npractice menu for the Festival.
+Dialogue: 0,0:03:36.31,0:03:39.28,Default,,0000,0000,0000,,Only a demon can raise an angel...
+Dialogue: 0,0:03:40.98,0:03:44.06,Default,,0000,0000,0000,,{\i1}"Flight of the Amazing Angel."{\i0}
+Dialogue: 0,0:03:50.48,0:03:54.67,Default,,0000,0000,0000,,The perfect Angel's Maneuver you're\Nshooting for is just like I told you yesterday.
+Dialogue: 0,0:03:55.31,0:03:58.15,Default,,0000,0000,0000,,Have you burned the image into your mind?
+Dialogue: 0,0:03:58.15,0:03:58.67,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:59.02,0:04:02.72,Default,,0000,0000,0000,,Then do right-leg-only squats on that log.
+Dialogue: 0,0:04:02.72,0:04:05.72,Default,,0000,0000,0000,,But do it without making the water ripple.
+Dialogue: 0,0:04:07.27,0:04:09.60,Default,,0000,0000,0000,,If you can't do this,\Nthere's no point in going on.
+Dialogue: 0,0:04:09.60,0:04:10.72,Default,,0000,0000,0000,,I understand.
+Dialogue: 0,0:04:26.65,0:04:29.19,Default,,0000,0000,0000,,When you can do it on either leg, come get me.
+Dialogue: 0,0:04:29.19,0:04:30.16,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:04:30.44,0:04:33.69,Default,,0000,0000,0000,,Come on, let's all do what we need to do.
+Dialogue: 0,0:04:33.69,0:04:35.02,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:04:35.02,0:04:38.40,Default,,0000,0000,0000,,I'll stay with Sora a little longer.
+Dialogue: 0,0:04:38.40,0:04:39.96,Default,,0000,0000,0000,,All right, take care of her.
+Dialogue: 0,0:04:47.10,0:04:48.96,Default,,0000,0000,0000,,This is going to take a long time, isn't it?
+Dialogue: 0,0:04:54.73,0:04:55.79,Default,,0000,0000,0000,,Again...
+Dialogue: 0,0:05:11.73,0:05:14.77,Default,,0000,0000,0000,,Do you believe that Sora\Nwill become a true Kaleido Star?
+Dialogue: 0,0:05:14.77,0:05:16.81,Default,,0000,0000,0000,,To be honest, I can't tell yet.
+Dialogue: 0,0:05:16.81,0:05:20.44,Default,,0000,0000,0000,,I can't tell, but I'm thinking\NI'll try betting this on Sora.
+Dialogue: 0,0:05:20.44,0:05:22.40,Default,,0000,0000,0000,,You believe in this that much,
+Dialogue: 0,0:05:22.40,0:05:26.23,Default,,0000,0000,0000,,but you didn't take any steps\Nwhen she went back to Japan?
+Dialogue: 0,0:05:26.23,0:05:28.48,Default,,0000,0000,0000,,If she hadn't come back,
+Dialogue: 0,0:05:28.48,0:05:31.44,Default,,0000,0000,0000,,it would have meant that was the\Nhighest level player she could be.
+Dialogue: 0,0:05:31.44,0:05:34.39,Default,,0000,0000,0000,,Other than invite Leon here,\NI haven't done anything.
+Dialogue: 0,0:05:34.65,0:05:37.90,Default,,0000,0000,0000,,If I had to say, I suppose all\NI did was terminate her contract...
+Dialogue: 0,0:05:38.23,0:05:43.60,Default,,0000,0000,0000,,If Sora can really become a true Kaleido Star,\Nno matter how many detours she takes,
+Dialogue: 0,0:05:43.60,0:05:45.94,Default,,0000,0000,0000,,I'm sure she'll find her own path.
+Dialogue: 0,0:05:46.27,0:05:48.94,Default,,0000,0000,0000,,And in fact, she did come back.
+Dialogue: 0,0:05:48.94,0:05:54.10,Default,,0000,0000,0000,,Or rather, it's almost as if the stage is in\Nlove with her and doesn't want to let her go.
+Dialogue: 0,0:05:54.10,0:05:54.83,Default,,0000,0000,0000,,In love?
+Dialogue: 0,0:05:55.35,0:06:00.38,Default,,0000,0000,0000,,In that case, perhaps what\NI'm feeling right now is jealousy.
+Dialogue: 0,0:06:02.77,0:06:06.34,Default,,0000,0000,0000,,Kalos, I have one proposal.
+Dialogue: 0,0:06:10.40,0:06:12.65,Default,,0000,0000,0000,,I want some move...
+Dialogue: 0,0:06:12.65,0:06:15.90,Default,,0000,0000,0000,,I want a new move to\Ncompete with the Angel's Maneuver.
+Dialogue: 0,0:06:33.90,0:06:35.95,Default,,0000,0000,0000,,Softly...
+Dialogue: 0,0:06:39.42,0:06:41.31,Default,,0000,0000,0000,,Aw, it's rippling!
+Dialogue: 0,0:06:41.31,0:06:43.88,Default,,0000,0000,0000,,No good...
+Dialogue: 0,0:06:45.31,0:06:47.26,Default,,0000,0000,0000,,I wonder if I can really do this...
+Dialogue: 0,0:06:47.73,0:06:49.05,Default,,0000,0000,0000,,Sora!
+Dialogue: 0,0:06:49.77,0:06:50.55,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:51.06,0:06:52.80,Default,,0000,0000,0000,,You've stopped already, Sora?
+Dialogue: 0,0:06:53.73,0:06:54.47,Default,,0000,0000,0000,,Sora?
+Dialogue: 0,0:06:54.85,0:06:58.89,Default,,0000,0000,0000,,I-I-I g-g-got a l-l-little c-c-cold...
+Dialogue: 0,0:07:03.06,0:07:05.27,Default,,0000,0000,0000,,Thanks for the food!
+Dialogue: 0,0:07:07.52,0:07:09.36,Default,,0000,0000,0000,,It's warming me up!
+Dialogue: 0,0:07:09.69,0:07:11.73,Default,,0000,0000,0000,,You can't push yourself too hard!
+Dialogue: 0,0:07:11.73,0:07:13.19,Default,,0000,0000,0000,,I know...
+Dialogue: 0,0:07:13.19,0:07:15.37,Default,,0000,0000,0000,,It's a good thing Marion was with you.
+Dialogue: 0,0:07:15.94,0:07:17.19,Default,,0000,0000,0000,,Sora!
+Dialogue: 0,0:07:17.19,0:07:19.16,Default,,0000,0000,0000,,Hey, will you take a look at this?
+Dialogue: 0,0:07:19.16,0:07:21.44,Default,,0000,0000,0000,,Mia! Did you get an idea?
+Dialogue: 0,0:07:21.44,0:07:26.40,Default,,0000,0000,0000,,Yep! I've talked about it with\NMiss Cathy too, and I think it might be good,
+Dialogue: 0,0:07:26.40,0:07:28.52,Default,,0000,0000,0000,,but I wonder what you'll think, Sora.
+Dialogue: 0,0:07:28.52,0:07:31.18,Default,,0000,0000,0000,,The rest of you shout out\Nyour opinions too, okay?
+Dialogue: 0,0:07:35.48,0:07:37.72,Default,,0000,0000,0000,,How cute!
+Dialogue: 0,0:07:37.72,0:07:39.27,Default,,0000,0000,0000,,Aren't they just?
+Dialogue: 0,0:07:39.27,0:07:43.52,Default,,0000,0000,0000,,Now, there are a lot of different\Ninterpretations of Swan Lake,
+Dialogue: 0,0:07:43.52,0:07:46.90,Default,,0000,0000,0000,,but the most orthodox one is that\Neven though they defeat the demon,
+Dialogue: 0,0:07:46.90,0:07:52.56,Default,,0000,0000,0000,,Odette and Prince Siegfried both die\Nand they're joined together in Heaven.
+Dialogue: 0,0:07:52.56,0:07:54.36,Default,,0000,0000,0000,,What about Odile, the demon princess?
+Dialogue: 0,0:07:54.36,0:07:57.27,Default,,0000,0000,0000,,That's right! That's the mystery!
+Dialogue: 0,0:07:57.27,0:08:00.75,Default,,0000,0000,0000,,After she's tricked the prince,\Nshe disappears from the story!
+Dialogue: 0,0:08:00.75,0:08:04.23,Default,,0000,0000,0000,,Odile loved the prince too, right?
+Dialogue: 0,0:08:04.23,0:08:07.17,Default,,0000,0000,0000,,Can't there be a story where\NOdile gets to be happy too?
+Dialogue: 0,0:08:08.19,0:08:09.59,Default,,0000,0000,0000,,I thought you'd say that.
+Dialogue: 0,0:08:10.23,0:08:12.52,Default,,0000,0000,0000,,And so I tried thinking of Odile
+Dialogue: 0,0:08:12.52,0:08:16.10,Default,,0000,0000,0000,,as another personality that lives inside Odette.
+Dialogue: 0,0:08:16.10,0:08:18.77,Default,,0000,0000,0000,,Odette is the loving heart\Nthat cares for the prince,
+Dialogue: 0,0:08:18.77,0:08:22.43,Default,,0000,0000,0000,,and Odile is the hate that heart, which\Nwanted a monopoly on love, gave birth to.
+Dialogue: 0,0:08:23.27,0:08:26.44,Default,,0000,0000,0000,,Even though they're in conflict,\Nwhat they seek is the same.
+Dialogue: 0,0:08:26.98,0:08:30.10,Default,,0000,0000,0000,,Odette realizes that hate too is a form of love,
+Dialogue: 0,0:08:30.10,0:08:34.45,Default,,0000,0000,0000,,and her love grows to be so\Ngreat that it encompasses everything.
+Dialogue: 0,0:08:35.15,0:08:36.98,Default,,0000,0000,0000,,Hate is love too...
+Dialogue: 0,0:08:36.98,0:08:41.40,Default,,0000,0000,0000,,Odette accepts Odile's hate,\Nand she turns into love itself.
+Dialogue: 0,0:08:41.40,0:08:44.21,Default,,0000,0000,0000,,I want to try expressing that\NOdette with the Angel's Maneuver!
+Dialogue: 0,0:08:44.21,0:08:46.27,Default,,0000,0000,0000,,A happy ending!
+Dialogue: 0,0:08:46.27,0:08:47.52,Default,,0000,0000,0000,,Not bad!
+Dialogue: 0,0:08:47.52,0:08:49.04,Default,,0000,0000,0000,,Truly an angel.
+Dialogue: 0,0:08:49.35,0:08:50.46,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:08:52.48,0:08:53.30,Default,,0000,0000,0000,,Sora?
+Dialogue: 0,0:08:54.48,0:08:57.31,Default,,0000,0000,0000,,Sora, is something wrong with it?
+Dialogue: 0,0:08:57.31,0:09:01.27,Default,,0000,0000,0000,,Oh, no, I think it's good! It's really great!
+Dialogue: 0,0:09:01.27,0:09:04.43,Default,,0000,0000,0000,,I was wondering if I could\Nreally play such a great angel.
+Dialogue: 0,0:09:05.81,0:09:07.81,Default,,0000,0000,0000,,There's nothing to fear on that score!
+Dialogue: 0,0:09:07.81,0:09:10.61,Default,,0000,0000,0000,,Because I've written it all tailored\Nto your normal personality, Sora!
+Dialogue: 0,0:09:10.81,0:09:11.52,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:11.52,0:09:11.94,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:09:11.94,0:09:14.56,Default,,0000,0000,0000,,All right, I'm starting to get fired up!
+Dialogue: 0,0:09:16.44,0:09:19.06,Default,,0000,0000,0000,,{\i1}The angel Mia envisions... {\i0}
+Dialogue: 0,0:09:19.06,0:09:23.37,Default,,0000,0000,0000,,{\i1}So she accepts her hatred, and becomes a\Ngreat love that encompasses everything, huh?{\i0}
+Dialogue: 0,0:09:24.81,0:09:28.54,Default,,0000,0000,0000,,{\i1}That might be something\Na true star needs to do too.{\i0}
+Dialogue: 0,0:09:28.94,0:09:34.80,Default,,0000,0000,0000,,{\i1}But I crumbled under the atmosphere\Nof the Circus Festival and ran away.{\i0}
+Dialogue: 0,0:09:35.40,0:09:37.09,Default,,0000,0000,0000,,{\i1}Can I become that kind of angel?{\i0}
+Dialogue: 0,0:09:41.10,0:09:42.03,Default,,0000,0000,0000,,{\i1}An angel, huh? {\i0}
+Dialogue: 0,0:09:51.35,0:09:57.03,Default,,0000,0000,0000,,We've decided that Kaleido Stage's first\Nshow after its reopening will be Swan Lake.
+Dialogue: 0,0:09:57.23,0:10:01.91,Default,,0000,0000,0000,,The lead, Sora Naegino, will present\Nto you the maneuver of a true Kaleido Star.
+Dialogue: 0,0:10:02.27,0:10:04.40,Default,,0000,0000,0000,,I hear the Angel's Maneuver will be used?
+Dialogue: 0,0:10:04.40,0:10:08.69,Default,,0000,0000,0000,,Sora Naegino failed in the\NCircus Festival, didn't she?
+Dialogue: 0,0:10:08.69,0:10:11.13,Default,,0000,0000,0000,,I have enough confidence\Nin her to open the show.
+Dialogue: 0,0:10:11.13,0:10:13.46,Default,,0000,0000,0000,,She hasn't mastered it yet, has she?
+Dialogue: 0,0:10:13.77,0:10:17.79,Default,,0000,0000,0000,,Mr. Leon, are you satisfied\Nwith Sora Naegino as a partner?
+Dialogue: 0,0:10:24.40,0:10:25.52,Default,,0000,0000,0000,,Of course I am.
+Dialogue: 0,0:10:36.88,0:10:38.41,Default,,0000,0000,0000,,It's rippling...
+Dialogue: 0,0:10:44.56,0:10:46.75,Default,,0000,0000,0000,,It's no good.
+Dialogue: 0,0:10:46.75,0:10:49.48,Default,,0000,0000,0000,,The rippling of the water\Nis a wavering of the heart.
+Dialogue: 0,0:10:49.48,0:10:54.30,Default,,0000,0000,0000,,She cannot become a true star\Nwhile she still harbors uncertainty.
+Dialogue: 0,0:10:56.90,0:11:00.59,Default,,0000,0000,0000,,{\i1}The angel Mia envisioned for me...{\i0}
+Dialogue: 0,0:11:00.59,0:11:02.84,Default,,0000,0000,0000,,{\i1}An angel who accepts even hatred.{\i0}
+Dialogue: 0,0:11:03.98,0:11:06.90,Default,,0000,0000,0000,,{\i1}She accepts battles,\Nhatred, and everything else.{\i0}
+Dialogue: 0,0:11:06.90,0:11:08.44,Default,,0000,0000,0000,,{\i1}If I can't do that, {\i0}
+Dialogue: 0,0:11:08.44,0:11:13.18,Default,,0000,0000,0000,,{\i1}maybe I can't become a true Kaleido Star\Neven if I do perfect the Angel's Maneuver.{\i0}
+Dialogue: 0,0:11:15.69,0:11:19.69,Default,,0000,0000,0000,,The reality is, you won\Nagainst me and got the lead role.
+Dialogue: 0,0:11:19.69,0:11:23.02,Default,,0000,0000,0000,,{\i1}After all, when all's said and\Ndone, I'm competing with May.{\i0}
+Dialogue: 0,0:11:23.02,0:11:24.73,Default,,0000,0000,0000,,What do you mean, you don't want to battle?!
+Dialogue: 0,0:11:24.73,0:11:26.81,Default,,0000,0000,0000,,You're just running away\Nfrom the competition, that's all!
+Dialogue: 0,0:11:27.90,0:11:33.44,Default,,0000,0000,0000,,You should think carefully about how\Nmuch your attitude just now hurt May.
+Dialogue: 0,0:11:33.44,0:11:39.60,Default,,0000,0000,0000,,It's impossible to become a star without\Nbeing hated or begrudged by anybody.
+Dialogue: 0,0:11:39.60,0:11:44.77,Default,,0000,0000,0000,,If I admit that a stage without hatred or\Nfighting is a dream that will never be realized,
+Dialogue: 0,0:11:44.77,0:11:46.65,Default,,0000,0000,0000,,I won't have to agonize like this.
+Dialogue: 0,0:11:46.65,0:11:50.14,Default,,0000,0000,0000,,So you're thinking that the\Nbest thing is for you to have it easy?
+Dialogue: 0,0:11:50.81,0:11:54.77,Default,,0000,0000,0000,,But you shouldn't forget the feelings of\Nthe people who are watching, now should you?
+Dialogue: 0,0:11:54.77,0:11:57.02,Default,,0000,0000,0000,,I know that, but...
+Dialogue: 0,0:11:57.02,0:11:58.02,Default,,0000,0000,0000,,Then...
+Dialogue: 0,0:11:58.02,0:12:02.82,Default,,0000,0000,0000,,instead of a sports bra, one with more frills or\Nsomething would be more pleasing to look at...
+Dialogue: 0,0:12:03.15,0:12:04.48,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:12:04.48,0:12:06.73,Default,,0000,0000,0000,,What do you mean, "what"?
+Dialogue: 0,0:12:06.73,0:12:09.65,Default,,0000,0000,0000,,I was just trying to unpack your boxes for you!
+Dialogue: 0,0:12:09.65,0:12:10.33,Default,,0000,0000,0000,,Out of goodwill!
+Dialogue: 0,0:12:10.33,0:12:11.84,Default,,0000,0000,0000,,Thanks, but no thanks.
+Dialogue: 0,0:12:11.84,0:12:13.46,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:12:13.46,0:12:17.44,Default,,0000,0000,0000,,I thought you were giving me advice for once.
+Dialogue: 0,0:12:17.44,0:12:19.10,Default,,0000,0000,0000,,Yes, advice about your underwear--
+Dialogue: 0,0:12:19.10,0:12:20.21,Default,,0000,0000,0000,,Thanks, but no thanks!
+Dialogue: 0,0:12:20.65,0:12:22.06,Default,,0000,0000,0000,,If you've become uncertain,
+Dialogue: 0,0:12:22.06,0:12:25.51,Default,,0000,0000,0000,,it's also important to try taking a\Nbreak from practice to change your mood.
+Dialogue: 0,0:12:26.15,0:12:27.23,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:12:27.23,0:12:30.77,Default,,0000,0000,0000,,Are you confident you can do it just\Nby throwing yourself into it headlong?
+Dialogue: 0,0:12:30.77,0:12:32.10,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:12:32.10,0:12:34.56,Default,,0000,0000,0000,,Then your chances are the same either way.
+Dialogue: 0,0:12:34.56,0:12:36.48,Default,,0000,0000,0000,,Yeah, you're right.
+Dialogue: 0,0:12:36.48,0:12:40.02,Default,,0000,0000,0000,,Maybe I'll try going to Cape Mary Park;\NI haven't been there in ages.
+Dialogue: 0,0:12:40.02,0:12:42.85,Default,,0000,0000,0000,,While you're at it, it would be great\Nif you'd buy some panties with ruffles.
+Dialogue: 0,0:12:42.85,0:12:44.03,Default,,0000,0000,0000,,I won't!
+Dialogue: 0,0:12:44.90,0:12:46.36,Default,,0000,0000,0000,,No uncertainty there, huh...
+Dialogue: 0,0:13:13.06,0:13:20.20,Default,,0000,0000,0000,,{\i1}I guess even people who look happy sometimes\Nfight and hate while I'm not there to see them.{\i0}
+Dialogue: 0,0:13:21.73,0:13:24.02,Default,,0000,0000,0000,,{\i1}I should have kept practicing after all.{\i0}
+Dialogue: 0,0:13:24.02,0:13:25.48,Default,,0000,0000,0000,,{\i1}This isn't making me feel even a bit better...{\i0}
+Dialogue: 0,0:13:33.44,0:13:34.29,Default,,0000,0000,0000,,Angels...
+Dialogue: 0,0:13:44.10,0:13:46.01,Default,,0000,0000,0000,,It's no good, I don't get it.
+Dialogue: 0,0:13:48.06,0:13:50.24,Default,,0000,0000,0000,,Oh, I'm sorry!
+Dialogue: 0,0:13:51.56,0:13:54.35,Default,,0000,0000,0000,,Um, I didn't notice you there...
+Dialogue: 0,0:13:55.90,0:13:57.44,Default,,0000,0000,0000,,Is he okay?
+Dialogue: 0,0:13:57.44,0:13:59.98,Default,,0000,0000,0000,,Yes, he's not hurt.
+Dialogue: 0,0:13:59.98,0:14:03.19,Default,,0000,0000,0000,,Good boy. You handled that so well, Love.
+Dialogue: 0,0:14:03.19,0:14:04.01,Default,,0000,0000,0000,,Good dog.
+Dialogue: 0,0:14:06.53,0:14:08.66,Default,,0000,0000,0000,,Thank goodness. I'm sorry!
+Dialogue: 0,0:14:09.02,0:14:10.77,Default,,0000,0000,0000,,It looks like that wasn't intentional, then.
+Dialogue: 0,0:14:10.77,0:14:12.69,Default,,0000,0000,0000,,Of course not!
+Dialogue: 0,0:14:12.69,0:14:18.10,Default,,0000,0000,0000,,Some people do intentionally step on his feet or\Nhis tail when they realize he's a seeing-eye dog.
+Dialogue: 0,0:14:18.10,0:14:19.31,Default,,0000,0000,0000,,Intentionally?
+Dialogue: 0,0:14:19.31,0:14:19.79,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:20.52,0:14:25.15,Default,,0000,0000,0000,,Seeing-eye dogs are trained not to bark\Nwhile they're working, no matter what happens.
+Dialogue: 0,0:14:25.15,0:14:27.26,Default,,0000,0000,0000,,So they step on him to check and see if he will.
+Dialogue: 0,0:14:27.94,0:14:30.23,Default,,0000,0000,0000,,I'm Donna Walker, his trainer.
+Dialogue: 0,0:14:30.23,0:14:31.30,Default,,0000,0000,0000,,This boy's name is Love.
+Dialogue: 0,0:14:31.85,0:14:33.90,Default,,0000,0000,0000,,He's training to be a seeing-eye dog.
+Dialogue: 0,0:14:33.90,0:14:36.31,Default,,0000,0000,0000,,I'm Sora Naegino.
+Dialogue: 0,0:14:36.31,0:14:38.81,Default,,0000,0000,0000,,I'm sorry, Love. It must've hurt, huh?
+Dialogue: 0,0:14:39.10,0:14:41.15,Default,,0000,0000,0000,,Miss Sora Naegino?
+Dialogue: 0,0:14:41.15,0:14:44.19,Default,,0000,0000,0000,,Not the one that's slated\Nfor the lead role in Swan Lake?
+Dialogue: 0,0:14:44.19,0:14:45.57,Default,,0000,0000,0000,,Um, yes!
+Dialogue: 0,0:14:45.57,0:14:47.15,Default,,0000,0000,0000,,Skipping practice?
+Dialogue: 0,0:14:48.02,0:14:50.15,Default,,0000,0000,0000,,Kalos contacted me,
+Dialogue: 0,0:14:50.15,0:14:53.99,Default,,0000,0000,0000,,saying he by all means wanted me\Nto come and watch a true star be born.
+Dialogue: 0,0:14:54.98,0:14:57.75,Default,,0000,0000,0000,,But skipping is bad, isn't that right, Love?
+Dialogue: 0,0:14:58.19,0:15:01.71,Default,,0000,0000,0000,,{\i1}For the boss to contact\Nher directly... Who is she?{\i0}
+Dialogue: 0,0:15:02.15,0:15:05.25,Default,,0000,0000,0000,,{\i1}But I feel like I've seen\Nher somewhere before...{\i0}
+Dialogue: 0,0:15:15.52,0:15:17.48,Default,,0000,0000,0000,,Well, we're still in the middle of training.
+Dialogue: 0,0:15:17.48,0:15:19.42,Default,,0000,0000,0000,,Go straight, Love!
+Dialogue: 0,0:15:21.85,0:15:24.11,Default,,0000,0000,0000,,You're the Donna Walker who played Alice?!
+Dialogue: 0,0:15:24.11,0:15:25.10,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:25.10,0:15:26.65,Default,,0000,0000,0000,,I'm a huge fan of yours!
+Dialogue: 0,0:15:27.02,0:15:30.65,Default,,0000,0000,0000,,Oh, that's right, could\Nyou please sign my shirt?!
+Dialogue: 0,0:15:33.81,0:15:37.04,Default,,0000,0000,0000,,Yay! Thank you so much!
+Dialogue: 0,0:15:37.35,0:15:40.73,Default,,0000,0000,0000,,I'm sorry I ended up following you\Nall the way to your training ground.
+Dialogue: 0,0:15:40.73,0:15:45.21,Default,,0000,0000,0000,,That's okay, it's kind of a nice\Nfeeling thinking that you're my fan.
+Dialogue: 0,0:15:45.44,0:15:48.73,Default,,0000,0000,0000,,I'm not the only one! Miss Layla is too!
+Dialogue: 0,0:15:48.73,0:15:54.47,Default,,0000,0000,0000,,But you'd already quit when\NMiss Layla joined the troupe, huh?
+Dialogue: 0,0:15:54.94,0:15:59.00,Default,,0000,0000,0000,,Yes. I couldn't bear to\Nstand on the stage anymore.
+Dialogue: 0,0:16:01.44,0:16:05.27,Default,,0000,0000,0000,,The pain of having to climb to the top\Neven if it meant stepping on someone
+Dialogue: 0,0:16:05.56,0:16:08.48,Default,,0000,0000,0000,,and the pressure of thinking\Nsomeone might overtake me someday.
+Dialogue: 0,0:16:09.02,0:16:13.78,Default,,0000,0000,0000,,It seemed to me like everyone\Naround me had demons' hearts.
+Dialogue: 0,0:16:14.65,0:16:16.54,Default,,0000,0000,0000,,So one day, I ran away.
+Dialogue: 0,0:16:19.15,0:16:22.79,Default,,0000,0000,0000,,I couldn't work up the\Ndesire to be on stage again.
+Dialogue: 0,0:16:23.31,0:16:28.94,Default,,0000,0000,0000,,But... But your shows\Nwere fun, and they sparkled.
+Dialogue: 0,0:16:28.94,0:16:30.30,Default,,0000,0000,0000,,They were really great!
+Dialogue: 0,0:16:31.55,0:16:38.15,Default,,0000,0000,0000,,I believe that Alice if nothing else\Nwas bathed in smiles onstage and off!
+Dialogue: 0,0:16:38.15,0:16:41.56,Default,,0000,0000,0000,,That you couldn't have had hatred or fighting...
+Dialogue: 0,0:16:41.90,0:16:47.77,Default,,0000,0000,0000,,Normally I'd tell you you were right,\Nbut you're a stage performer.
+Dialogue: 0,0:16:47.77,0:16:49.44,Default,,0000,0000,0000,,So I'll tell you the truth.
+Dialogue: 0,0:16:49.94,0:16:51.90,Default,,0000,0000,0000,,Then you mean...
+Dialogue: 0,0:16:52.19,0:16:55.44,Default,,0000,0000,0000,,Yes. The reason I couldn't\Nendure any longer was because
+Dialogue: 0,0:16:55.44,0:16:59.31,Default,,0000,0000,0000,,I felt like I was deceiving\Naudience members like you, Sora.
+Dialogue: 0,0:16:59.31,0:17:00.87,Default,,0000,0000,0000,,Love, up!
+Dialogue: 0,0:17:01.81,0:17:04.40,Default,,0000,0000,0000,,But I was mistaken in my thinking.
+Dialogue: 0,0:17:04.40,0:17:07.38,Default,,0000,0000,0000,,These dogs taught me that.
+Dialogue: 0,0:17:07.85,0:17:09.88,Default,,0000,0000,0000,,They're angels.
+Dialogue: 0,0:17:09.88,0:17:11.67,Default,,0000,0000,0000,,Angels?
+Dialogue: 0,0:17:11.67,0:17:14.76,Default,,0000,0000,0000,,Yep, slightly mischievous angels.
+Dialogue: 0,0:17:15.23,0:17:19.14,Default,,0000,0000,0000,,Excuse me, what does it\Nmean that the dogs are angels?
+Dialogue: 0,0:17:19.40,0:17:20.65,Default,,0000,0000,0000,,Please tell me!
+Dialogue: 0,0:17:23.98,0:17:26.60,Default,,0000,0000,0000,,It might be scary at first.
+Dialogue: 0,0:17:26.60,0:17:27.44,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:27.44,0:17:29.06,Default,,0000,0000,0000,,All right, let's go.
+Dialogue: 0,0:17:29.06,0:17:30.73,Default,,0000,0000,0000,,Love, up!
+Dialogue: 0,0:17:31.81,0:17:33.44,Default,,0000,0000,0000,,Go straight!
+Dialogue: 0,0:17:34.85,0:17:36.44,Default,,0000,0000,0000,,Don't brace against him.
+Dialogue: 0,0:17:36.44,0:17:36.91,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:17:40.19,0:17:41.74,Default,,0000,0000,0000,,So fast...
+Dialogue: 0,0:17:41.74,0:17:43.65,Default,,0000,0000,0000,,Wait, that's too fast!
+Dialogue: 0,0:17:43.65,0:17:44.58,Default,,0000,0000,0000,,Love, stop!
+Dialogue: 0,0:17:45.60,0:17:46.81,Default,,0000,0000,0000,,Were you scared?
+Dialogue: 0,0:17:46.81,0:17:48.50,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:48.50,0:17:51.48,Default,,0000,0000,0000,,But that was slower than a normal walking pace.
+Dialogue: 0,0:17:51.48,0:17:52.50,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:17:52.98,0:17:57.51,Default,,0000,0000,0000,,Love felt your unease through the\Nharness and walked slowly for you.
+Dialogue: 0,0:17:57.98,0:18:00.56,Default,,0000,0000,0000,,Now, trust Love and try it again.
+Dialogue: 0,0:18:00.56,0:18:01.52,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:18:01.52,0:18:02.51,Default,,0000,0000,0000,,Love, go!
+Dialogue: 0,0:18:11.02,0:18:15.40,Default,,0000,0000,0000,,{\i1}Huh? This might be\Ngoing well. It might! It might!{\i0}
+Dialogue: 0,0:18:15.60,0:18:17.98,Default,,0000,0000,0000,,Huh? Wait, where are you going, Love?
+Dialogue: 0,0:18:17.98,0:18:19.49,Default,,0000,0000,0000,,That's not the right way...
+Dialogue: 0,0:18:19.98,0:18:21.19,Default,,0000,0000,0000,,Ow!
+Dialogue: 0,0:18:21.19,0:18:23.56,Default,,0000,0000,0000,,He tried to avoid an obstacle.
+Dialogue: 0,0:18:23.56,0:18:25.85,Default,,0000,0000,0000,,Follow where Love leads you.
+Dialogue: 0,0:18:25.85,0:18:26.70,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:18:30.81,0:18:31.85,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:31.85,0:18:32.21,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:18:33.15,0:18:36.15,Default,,0000,0000,0000,,What's wrong? Love, go!
+Dialogue: 0,0:18:36.15,0:18:38.22,Default,,0000,0000,0000,,Sora, take off your mask.
+Dialogue: 0,0:18:41.56,0:18:45.01,Default,,0000,0000,0000,,If this were a real street,\Nyou could have been hit by a car.
+Dialogue: 0,0:18:46.27,0:18:49.06,Default,,0000,0000,0000,,Good dog, Love. Good boy.
+Dialogue: 0,0:18:49.06,0:18:50.73,Default,,0000,0000,0000,,You praise him too, Sora.
+Dialogue: 0,0:18:50.73,0:18:53.15,Default,,0000,0000,0000,,Good boy, Love! Thanks!
+Dialogue: 0,0:18:53.15,0:18:55.48,Default,,0000,0000,0000,,Good dog! Very good!
+Dialogue: 0,0:18:59.48,0:19:01.27,Default,,0000,0000,0000,,Was that hard?
+Dialogue: 0,0:19:01.27,0:19:01.91,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:19:02.40,0:19:05.06,Default,,0000,0000,0000,,They do all kinds of training like this.
+Dialogue: 0,0:19:05.06,0:19:08.52,Default,,0000,0000,0000,,But only about one in\Nthree become seeing-eye dogs.
+Dialogue: 0,0:19:08.52,0:19:11.25,Default,,0000,0000,0000,,The others become normal pet dogs.
+Dialogue: 0,0:19:11.25,0:19:13.10,Default,,0000,0000,0000,,Poor things...
+Dialogue: 0,0:19:13.10,0:19:17.48,Default,,0000,0000,0000,,Do you think the dogs are\Nbeing forced to train, Sora?
+Dialogue: 0,0:19:17.48,0:19:18.51,Default,,0000,0000,0000,,They're not?
+Dialogue: 0,0:19:19.06,0:19:21.34,Default,,0000,0000,0000,,Look closely. Do they\Nlook like they're suffering?
+Dialogue: 0,0:19:22.02,0:19:24.26,Default,,0000,0000,0000,,No, they look very happy.
+Dialogue: 0,0:19:24.52,0:19:28.94,Default,,0000,0000,0000,,They know that if they follow\Ninstructions, we'll be pleased.
+Dialogue: 0,0:19:28.94,0:19:33.94,Default,,0000,0000,0000,,The thing that makes them the happiest\Nis to please the people they're with.
+Dialogue: 0,0:19:33.94,0:19:35.19,Default,,0000,0000,0000,,Come! Love, come!
+Dialogue: 0,0:19:38.98,0:19:43.24,Default,,0000,0000,0000,,These creatures wish only to\Nmake those around them happy.
+Dialogue: 0,0:19:43.65,0:19:46.70,Default,,0000,0000,0000,,That's why I think they're angels.
+Dialogue: 0,0:19:47.79,0:19:52.02,Default,,0000,0000,0000,,Back then, I could only\Nsee everyone's bad sides,
+Dialogue: 0,0:19:52.02,0:19:56.79,Default,,0000,0000,0000,,but after I met these guys,\NI realized "Oh, it wasn't like that."
+Dialogue: 0,0:19:57.35,0:20:00.94,Default,,0000,0000,0000,,Everyone who stands on the stage\Nmust have an angel's heart inside
+Dialogue: 0,0:20:00.94,0:20:06.15,Default,,0000,0000,0000,,that wants to give the audience a\Ngood time and make everyone happy.
+Dialogue: 0,0:20:06.15,0:20:10.06,Default,,0000,0000,0000,,It's just that the feeling of\N"I can do this better than her"
+Dialogue: 0,0:20:10.06,0:20:12.52,Default,,0000,0000,0000,,changes that angel heart to hatred.
+Dialogue: 0,0:20:13.31,0:20:17.94,Default,,0000,0000,0000,,I'm sure you must have seen everyone's\Nangel hearts as you watched us on stage.
+Dialogue: 0,0:20:19.40,0:20:22.32,Default,,0000,0000,0000,,Everyone's angel hearts...
+Dialogue: 0,0:20:22.65,0:20:24.10,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:20:24.10,0:20:26.82,Default,,0000,0000,0000,,Although I couldn't see them back then.
+Dialogue: 0,0:20:27.23,0:20:32.52,Default,,0000,0000,0000,,{\i1}I see... During the Festival,\NI couldn't see them either.{\i0}
+Dialogue: 0,0:20:32.52,0:20:36.40,Default,,0000,0000,0000,,{\i1}When Mute and the others were\Ntalking about their dreams with their friends,{\i0}
+Dialogue: 0,0:20:36.40,0:20:37.94,Default,,0000,0000,0000,,{\i1}their eyes weren't lying. {\i0}
+Dialogue: 0,0:20:37.94,0:20:40.56,Default,,0000,0000,0000,,{\i1}Everyone else had dreams too... {\i0}
+Dialogue: 0,0:20:40.56,0:20:45.44,Default,,0000,0000,0000,,{\i1}They all had angel hearts that wanted\Nto give the audience a good time...{\i0}
+Dialogue: 0,0:20:45.44,0:20:49.13,Default,,0000,0000,0000,,{\i1}And battles and hatred were\Nthe other side, the result of that.{\i0}
+Dialogue: 0,0:20:50.44,0:20:53.60,Default,,0000,0000,0000,,{\i1}"Hate is love too"... so that's what it meant?{\i0}
+Dialogue: 0,0:20:53.60,0:20:54.72,Default,,0000,0000,0000,,{\i1}In that case... {\i0}
+Dialogue: 0,0:20:56.48,0:21:00.52,Default,,0000,0000,0000,,You have a really serious look\Non your face, so Love is worried.
+Dialogue: 0,0:21:00.52,0:21:02.98,Default,,0000,0000,0000,,Love, thanks!
+Dialogue: 0,0:21:02.98,0:21:06.03,Default,,0000,0000,0000,,Thanks to you, I think I can move forward again!
+Dialogue: 0,0:21:06.03,0:21:06.94,Default,,0000,0000,0000,,Sora.
+Dialogue: 0,0:21:06.94,0:21:07.49,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:21:07.85,0:21:11.91,Default,,0000,0000,0000,,I've got high hopes for\Nthe birth of the true star.
+Dialogue: 0,0:21:12.15,0:21:15.40,Default,,0000,0000,0000,,Yes! Thank you!
+Dialogue: 0,0:21:15.40,0:21:19.27,Default,,0000,0000,0000,,{\i1}Maybe the Angel's Maneuver\Nisn't a maneuver to become an angel,{\i0}
+Dialogue: 0,0:21:19.27,0:21:23.69,Default,,0000,0000,0000,,{\i1}maybe it's a maneuver to wake up\Nthe angel hearts inside everyone.{\i0}
+Dialogue: 0,0:21:23.69,0:21:26.31,Default,,0000,0000,0000,,{\i1}No, I'm sure that's what it is! {\i0}
+Dialogue: 0,0:21:26.31,0:21:29.40,Default,,0000,0000,0000,,{\i1}I'll believe in the angel inside me.{\i0}
+Dialogue: 0,0:21:29.40,0:21:31.68,Default,,0000,0000,0000,,{\i1}I'll believe in the angels inside everyone!{\i0}
+Dialogue: 0,0:21:31.94,0:21:34.18,Default,,0000,0000,0000,,{\i1}I'll believe in the Angel's Maneuver!{\i0}
+Dialogue: 0,0:21:34.40,0:21:36.57,Default,,0000,0000,0000,,Go for it, Sora!
+Dialogue: 0,0:21:36.57,0:21:39.20,Default,,0000,0000,0000,,Something's different than\Nit was up until yesterday, huh?
+Dialogue: 0,0:21:39.20,0:21:40.65,Default,,0000,0000,0000,,Maybe she's freed herself from her doubts.
+Dialogue: 0,0:21:45.40,0:21:49.19,Default,,0000,0000,0000,,Won't doing it that slowly\Nactually cause more wavering?
+Dialogue: 0,0:21:49.19,0:21:51.52,Default,,0000,0000,0000,,No, the log isn't wavering.
+Dialogue: 0,0:22:07.90,0:22:09.30,Default,,0000,0000,0000,,The water's not rippling!
+Dialogue: 0,0:22:25.02,0:22:25.94,Default,,0000,0000,0000,,She did it!
+Dialogue: 0,0:22:26.40,0:22:27.87,Default,,0000,0000,0000,,Right leg: success!
+Dialogue: 0,0:22:28.85,0:22:30.35,Default,,0000,0000,0000,,Amazing!
+Dialogue: 0,0:22:30.35,0:22:31.69,Default,,0000,0000,0000,,Impressive as always, Sora!
+Dialogue: 0,0:22:31.69,0:22:33.65,Default,,0000,0000,0000,,You did it!
+Dialogue: 0,0:22:31.69,0:22:33.65,Default,,0000,0000,0000,,She can really do it!
+Dialogue: 0,0:22:33.65,0:22:34.87,Default,,0000,0000,0000,,What kind of woman is she?!
+Dialogue: 0,0:22:38.44,0:22:41.85,Default,,0000,0000,0000,,It appears she's cleared the\Nfirst stage. Let's return home.
+Dialogue: 0,0:22:41.85,0:22:42.76,Default,,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:22:42.76,0:22:44.10,Default,,0000,0000,0000,,Like, yes.
+Dialogue: 0,0:22:46.38,0:22:49.93,On Top,,0000,0000,0000,,{\i1}All kinds of hard luck flocks\Nyour way as if it's spurring you on{\i0}
+Dialogue: 0,0:22:49.93,0:22:54.02,On Top,,0000,0000,0000,,{\i1}Swept away by it, time is over {\i0}
+Dialogue: 0,0:22:54.02,0:22:56.85,On Top,,0000,0000,0000,,{\i1}Just as predicted, take it easy {\i0}
+Dialogue: 0,0:22:56.85,0:23:01.31,On Top,,0000,0000,0000,,{\i1}I will get you out right away {\i0}
+Dialogue: 0,0:23:01.31,0:23:03.06,On Top,,0000,0000,0000,,{\i1}Hurry up (Here we go) {\i0}
+Dialogue: 0,0:23:03.06,0:23:04.90,On Top,,0000,0000,0000,,{\i1}Forcibly only (Drive with the fastest speed){\i0}
+Dialogue: 0,0:23:04.90,0:23:08.73,On Top,,0000,0000,0000,,{\i1}The view I look down at every day is the best{\i0}
+Dialogue: 0,0:23:08.73,0:23:10.73,On Top,,0000,0000,0000,,{\i1}Sunset point (Favorite) {\i0}
+Dialogue: 0,0:23:10.73,0:23:12.45,On Top,,0000,0000,0000,,{\i1}Harbor light (Stormy night) {\i0}
+Dialogue: 0,0:23:12.45,0:23:16.52,On Top,,0000,0000,0000,,{\i1}Escape for the sake of tomorrow {\i0}
+Dialogue: 0,0:23:17.19,0:23:23.02,On Top,,0000,0000,0000,,{\i1}Even I don't have a vacation, I've got an oasis{\i0}
+Dialogue: 0,0:23:23.02,0:23:29.98,On Top,,0000,0000,0000,,{\i1}I'll turn off the cell phone and charge my love{\i0}
+Dialogue: 0,0:23:29.98,0:23:34.40,On Top,,0000,0000,0000,,{\i1}Because some pain,\Nyou can't soothe with just kindness{\i0}
+Dialogue: 0,0:23:34.40,0:23:38.85,On Top,,0000,0000,0000,,{\i1}We are alone, we pass each other by{\i0}
+Dialogue: 0,0:23:38.85,0:23:39.93,On Top,,0000,0000,0000,,{\i1}What's going on? {\i0}
+Dialogue: 0,0:23:39.93,0:23:45.48,On Top,,0000,0000,0000,,{\i1}At the far end of regret,\NI encounter my true heart{\i0}
+Dialogue: 0,0:23:45.48,0:23:54.02,On Top,,0000,0000,0000,,{\i1}Whether I'm crying or\Nlaughing, I will be with you{\i0}
+Dialogue: 0,0:23:55.32,0:23:57.70,On Top,,0000,0000,0000,,Next Kaleido Star: New Wings
+Dialogue: 0,0:23:58.06,0:24:01.56,Default,,0000,0000,0000,,{\i1}I can't show the audience something fake!{\i0}
+Dialogue: 0,0:24:01.56,0:24:04.25,Default,,0000,0000,0000,,{\i1}And so, Sora's intense training began.{\i0}
+Dialogue: 0,0:24:04.52,0:24:06.85,Default,,0000,0000,0000,,{\i1}Why are you going that far? Stop this!{\i0}
+Dialogue: 0,0:24:06.85,0:24:08.10,Default,,0000,0000,0000,,{\i1}I won't stop! {\i0}
+Dialogue: 0,0:24:08.10,0:24:10.52,Default,,0000,0000,0000,,{\i1}I've come to get back my\Ndream that I entrusted to you,{\i0}
+Dialogue: 0,0:24:10.52,0:24:14.72,Default,,0000,0000,0000,,{\i1}or rather, the thing\NI left forgotten on the stage.{\i0}
+Dialogue: 0,0:24:14.72,0:24:20.19,Default,,0000,0000,0000,,{\i1}Next time on Kaleido Star,\N"The Amazing Injured Swan."{\i0}
+Dialogue: 0,0:24:20.19,0:24:22.27,Default,,0000,0000,0000,,{\i1}My wings are my dream\Nand on towards the sky...{\i0}
+Dialogue: 0,0:24:22.27,0:24:24.27,Default,,0000,0000,0000,,

@@ -1,0 +1,536 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.11,0:00:18.38,Default,,0000,0000,0000,,{\i1}Hi, everyone, Kaleido Star is about to start.{\i0}
+Dialogue: 0,0:00:18.38,0:00:21.51,Default,,0000,0000,0000,,{\i1}When you watch Kaleido Star,\Nplease keep your room brightly lit,{\i0}
+Dialogue: 0,0:00:21.51,0:00:23.82,Default,,0000,0000,0000,,{\i1}and sit as far from the TV as you can.{\i0}
+Dialogue: 0,0:00:25.87,0:00:27.08,Default,,0000,0000,0000,,{\i1}Well, well, well. {\i0}
+Dialogue: 0,0:00:27.08,0:00:28.71,Default,,0000,0000,0000,,{\i1}Hi, everyone. It's me, Rosetta.{\i0}
+Dialogue: 0,0:00:29.20,0:00:32.97,Default,,0000,0000,0000,,{\i1}I've decided to attempt \Nthe trapeze this time.{\i0}
+Dialogue: 0,0:00:32.97,0:00:34.26,Default,,0000,0000,0000,,{\i1}I just can't forget how moved I was{\i0}
+Dialogue: 0,0:00:34.26,0:00:37.68,Default,,0000,0000,0000,,{\i1}when I saw Sora and Miss\NLayla's legendary great maneuver.{\i0}
+Dialogue: 0,0:00:37.98,0:00:40.30,Default,,0000,0000,0000,,{\i1}Sora is the person I admire,\Nwho taught me what was important.{\i0}
+Dialogue: 0,0:00:40.30,0:00:43.81,Default,,0000,0000,0000,,{\i1}I want to try flying through the sky\Ntogether with her, over the same stage.{\i0}
+Dialogue: 0,0:00:44.18,0:00:47.89,Default,,0000,0000,0000,,{\i1}Otherwise, my joining\NKaleido Stage has no meaning.{\i0}
+Dialogue: 0,0:00:47.89,0:00:52.19,Default,,0000,0000,0000,,{\i1}I'm able to do anything if I'm\Nwith Sora. Anything! Anything!{\i0}
+Dialogue: 0,0:00:54.96,0:01:02.29,Default,,0000,0000,0000,,{\i1}Tattoo Kiss, the beginning\Nis red and black passions{\i0}
+Dialogue: 0,0:01:02.29,0:01:09.25,Default,,0000,0000,0000,,{\i1}Sometimes, we rely on our contrary hearts{\i0}
+Dialogue: 0,0:01:09.61,0:01:16.86,Default,,0000,0000,0000,,{\i1}Tattoo Kiss, the last resort is a\Nmission which changes the future{\i0}
+Dialogue: 0,0:01:16.86,0:01:24.58,Default,,0000,0000,0000,,{\i1}There is no place for\Nambiguous answers in love{\i0}
+Dialogue: 0,0:01:24.93,0:01:32.28,Default,,0000,0000,0000,,{\i1}Even while pretending not to\Nsee the impossible reality, we bet{\i0}
+Dialogue: 0,0:01:32.28,0:01:38.24,Default,,0000,0000,0000,,{\i1}Hard-to-obtain-truth\NCan you feel me now?{\i0}
+Dialogue: 0,0:01:38.24,0:01:42.60,Default,,0000,0000,0000,,{\i1}What should I say to myself,\Nwho gets excited easily?{\i0}
+Dialogue: 0,0:01:42.60,0:01:46.25,Default,,0000,0000,0000,,{\i1}I'm confused about what to say {\i0}
+Dialogue: 0,0:01:47.66,0:01:55.21,Default,,0000,0000,0000,,{\i1}Dreamin' the never-waking\Ndream, the falling fate{\i0}
+Dialogue: 0,0:01:55.21,0:02:01.93,Default,,0000,0000,0000,,{\i1}Don't stop lovin' can't stop lovin' you\NYa ya ya{\i0}
+Dialogue: 0,0:02:02.51,0:02:10.40,Default,,0000,0000,0000,,{\i1}I believe in you, even\Nif I lose everything for it{\i0}
+Dialogue: 0,0:02:10.40,0:02:16.97,Default,,0000,0000,0000,,{\i1}Still lovin' can't stop lovin' you\NNo no no{\i0}
+Dialogue: 0,0:02:21.20,0:02:22.67,Default,,0000,0000,0000,,{\i1}Tattoo Kiss {\i0}
+Dialogue: 0,0:02:27.75,0:02:31.10,Default,,0000,0000,0000,,It's precisely because we have the past\Nthat we also have the present and the future.
+Dialogue: 0,0:02:31.38,0:02:37.20,Default,,0000,0000,0000,,It seems a cute lamb has started\Nwalking toward the future now.
+Dialogue: 0,0:02:38.48,0:02:42.33,Default,,0000,0000,0000,,Aries girl, Rosetta Passel.
+Dialogue: 0,0:02:44.69,0:02:46.81,Default,,0000,0000,0000,,Sora! I'm in trouble! I'm in trouble!
+Dialogue: 0,0:02:46.81,0:02:48.49,Default,,0000,0000,0000,,It's an emergency situation!
+Dialogue: 0,0:02:48.49,0:02:50.19,Default,,0000,0000,0000,,Hey, Sora!
+Dialogue: 0,0:02:51.91,0:02:54.45,Default,,0000,0000,0000,,Did you flood the washing machine again?
+Dialogue: 0,0:02:54.45,0:02:56.75,Default,,0000,0000,0000,,No! No! No!
+Dialogue: 0,0:02:56.75,0:02:58.24,Default,,0000,0000,0000,,Please give me special training, Sora.
+Dialogue: 0,0:02:58.64,0:03:00.11,Default,,0000,0000,0000,,No... Master Sora!
+Dialogue: 0,0:03:00.37,0:03:01.24,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:01.70,0:03:05.26,Default,,0000,0000,0000,,I'm going to do a trapeze act\Non the stage three days from now!
+Dialogue: 0,0:03:05.64,0:03:07.10,Default,,0000,0000,0000,,If I'm not capable of doing that,
+Dialogue: 0,0:03:07.46,0:03:09.46,Default,,0000,0000,0000,,I'm going to withdraw from Kaleido Stage.
+Dialogue: 0,0:03:11.13,0:03:14.44,Default,,0000,0000,0000,,{\i1}"Amazing Rosetta of Sweat and Tears."{\i0}
+Dialogue: 0,0:03:23.28,0:03:24.75,Default,,0000,0000,0000,,Hello...
+Dialogue: 0,0:03:25.38,0:03:27.43,Default,,0000,0000,0000,,Boss?!
+Dialogue: 0,0:03:28.29,0:03:29.69,Default,,0000,0000,0000,,I'm sorry for calling you so early.
+Dialogue: 0,0:03:29.69,0:03:32.48,Default,,0000,0000,0000,,But we decided to let you\Nappear in the show next week.
+Dialogue: 0,0:03:32.48,0:03:34.80,Default,,0000,0000,0000,,The show? You mean... diabolo?
+Dialogue: 0,0:03:34.80,0:03:35.69,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:03:35.96,0:03:40.15,Default,,0000,0000,0000,,The way your diabolo is now,\NI'm sure the audience will enjoy it a lot.
+Dialogue: 0,0:03:40.15,0:03:42.36,Default,,0000,0000,0000,,I want to do the trapeze.
+Dialogue: 0,0:03:43.30,0:03:46.16,Default,,0000,0000,0000,,Rosetta, you're not ready \Nfor the trapeze yet.
+Dialogue: 0,0:03:46.16,0:03:47.63,Default,,0000,0000,0000,,You still haven't finished basic training.
+Dialogue: 0,0:03:47.63,0:03:48.87,Default,,0000,0000,0000,,First of all, Rosetta,
+Dialogue: 0,0:03:49.31,0:03:52.12,Default,,0000,0000,0000,,have you ever appeared in a trapeze show?
+Dialogue: 0,0:03:53.33,0:03:55.83,Default,,0000,0000,0000,,I've already gone through \Nenough basic training.
+Dialogue: 0,0:03:55.83,0:03:58.50,Default,,0000,0000,0000,,Rosetta, you're going\Nto do a diabolo show first.
+Dialogue: 0,0:03:58.50,0:04:02.59,Default,,0000,0000,0000,,If I knew I was just going to do diabolo,\NI wouldn't have joined Kaleido Stage.
+Dialogue: 0,0:04:03.20,0:04:05.76,Default,,0000,0000,0000,,What's so hard about the trapeze?\NI've got three days. That's more than enough.
+Dialogue: 0,0:04:05.76,0:04:08.01,Default,,0000,0000,0000,,No matter what you say,\Nthree days are too short to learn...
+Dialogue: 0,0:04:08.25,0:04:11.45,Default,,0000,0000,0000,,If I can't learn, I'll\Nwithdraw from Kaleido Stage!
+Dialogue: 0,0:04:12.63,0:04:14.43,Default,,0000,0000,0000,,Hello. Rosetta!
+Dialogue: 0,0:04:15.20,0:04:16.24,Default,,0000,0000,0000,,Good grief.
+Dialogue: 0,0:04:17.35,0:04:18.73,Default,,0000,0000,0000,,So that's the story.
+Dialogue: 0,0:04:18.94,0:04:20.94,Default,,0000,0000,0000,,Three days? Are you serious?
+Dialogue: 0,0:04:21.33,0:04:24.62,Default,,0000,0000,0000,,Sora, you were able to master\Nskating in three days, weren't you?
+Dialogue: 0,0:04:24.62,0:04:27.88,Default,,0000,0000,0000,,So please give me special \Ntraining, Master Sora.
+Dialogue: 0,0:04:27.88,0:04:29.16,Default,,0000,0000,0000,,"Master Sora"?
+Dialogue: 0,0:04:30.75,0:04:31.54,Default,,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:04:31.54,0:04:33.85,Default,,0000,0000,0000,,No. I'm moved!
+Dialogue: 0,0:04:34.80,0:04:39.75,Default,,0000,0000,0000,,{\i1}I can't believe that such a proud\Ngirl as Rosetta would call me Master.{\i0}
+Dialogue: 0,0:04:40.05,0:04:43.34,Default,,0000,0000,0000,,I was born in Belgium and studied in France.
+Dialogue: 0,0:04:43.34,0:04:46.80,Default,,0000,0000,0000,,You're supposed to be my guide, but\Nyou don't know anything about me, do you?
+Dialogue: 0,0:04:46.80,0:04:49.93,Default,,0000,0000,0000,,I demand a satisfactory explanation\Nfrom you in the dressing room!
+Dialogue: 0,0:04:50.31,0:04:53.25,Default,,0000,0000,0000,,Back then, you used to call me a guide.
+Dialogue: 0,0:04:53.25,0:04:55.56,Default,,0000,0000,0000,,Sorry. I was young.
+Dialogue: 0,0:04:55.56,0:04:58.10,Default,,0000,0000,0000,,Um, you're still young...
+Dialogue: 0,0:04:58.10,0:05:00.90,Default,,0000,0000,0000,,Anyway, my first goal is\Nto do the Golden Phoenix.
+Dialogue: 0,0:05:02.09,0:05:04.90,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:05:02.09,0:05:04.90,Default,,0000,0000,0000,,Anyway, why don't we give it a try?
+Dialogue: 0,0:05:04.90,0:05:06.37,Default,,0000,0000,0000,,What?! Really?!
+Dialogue: 0,0:05:07.41,0:05:09.61,Default,,0000,0000,0000,,Thank you, Sora.
+Dialogue: 0,0:05:09.61,0:05:11.45,Default,,0000,0000,0000,,No, Master Sora.
+Dialogue: 0,0:05:11.45,0:05:14.20,Default,,0000,0000,0000,,I'll go change my clothes too, then!
+Dialogue: 0,0:05:16.46,0:05:17.96,Default,,0000,0000,0000,,I wonder if this is okay...
+Dialogue: 0,0:05:25.33,0:05:26.64,Default,,0000,0000,0000,,Oh, Boss.
+Dialogue: 0,0:05:26.64,0:05:28.18,Default,,0000,0000,0000,,I need to talk to you about Rosetta.
+Dialogue: 0,0:05:28.18,0:05:29.41,Default,,0000,0000,0000,,I will let you handle her.
+Dialogue: 0,0:05:29.93,0:05:33.28,Default,,0000,0000,0000,,Once she sets out to do something,\Nnobody can stop her. So, do something.
+Dialogue: 0,0:05:33.28,0:05:34.63,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:37.86,0:05:39.94,Default,,0000,0000,0000,,You too. Listen, just get off of there.
+Dialogue: 0,0:05:40.44,0:05:42.25,Default,,0000,0000,0000,,"Something," he says...
+Dialogue: 0,0:05:43.19,0:05:43.94,Default,,0000,0000,0000,,Tadaaa!
+Dialogue: 0,0:05:45.05,0:05:46.70,Default,,0000,0000,0000,,Look, Sora.
+Dialogue: 0,0:05:47.48,0:05:49.70,Default,,0000,0000,0000,,Please give me special training, Master Sora!
+Dialogue: 0,0:05:50.01,0:05:52.76,Default,,0000,0000,0000,,Let's work hard for three days, Rosetta!
+Dialogue: 0,0:05:53.41,0:05:57.21,Default,,0000,0000,0000,,{\i1}Long ago, it was Rosetta who was\Ngiving me special training in the diabolo.{\i0}
+Dialogue: 0,0:05:58.91,0:06:03.86,Default,,0000,0000,0000,,This... this... this is really tough!
+Dialogue: 0,0:06:03.86,0:06:05.98,Default,,0000,0000,0000,,Only one more day left until the time limit.
+Dialogue: 0,0:06:05.98,0:06:07.72,Default,,0000,0000,0000,,We don't have time to goof off!
+Dialogue: 0,0:06:08.97,0:06:10.18,Default,,0000,0000,0000,,The trapeze?
+Dialogue: 0,0:06:10.18,0:06:12.47,Default,,0000,0000,0000,,That's too much for Rosetta to do yet, Sora!
+Dialogue: 0,0:06:12.47,0:06:14.74,Default,,0000,0000,0000,,That's why she is going\Nto give me special training.
+Dialogue: 0,0:06:14.74,0:06:16.15,Default,,0000,0000,0000,,That's right. Special training.
+Dialogue: 0,0:06:16.15,0:06:17.48,Default,,0000,0000,0000,,What? What?
+Dialogue: 0,0:06:17.48,0:06:19.19,Default,,0000,0000,0000,,Rosetta is going to do the trapeze?
+Dialogue: 0,0:06:19.19,0:06:21.71,Default,,0000,0000,0000,,And Sora will be your teacher?
+Dialogue: 0,0:06:21.71,0:06:23.69,Default,,0000,0000,0000,,Both of those things might be hopeless...
+Dialogue: 0,0:06:23.99,0:06:26.21,Default,,0000,0000,0000,,If a beginner has to be able \Nto perform in three days,
+Dialogue: 0,0:06:26.21,0:06:28.39,Default,,0000,0000,0000,,I'm sure it will be super-special training.
+Dialogue: 0,0:06:29.13,0:06:31.43,Default,,0000,0000,0000,,Last time, I was your ruthless coach.
+Dialogue: 0,0:06:31.43,0:06:34.02,Default,,0000,0000,0000,,But you can be my ruthless coach this time.
+Dialogue: 0,0:06:34.02,0:06:35.74,Default,,0000,0000,0000,,Ruthless?
+Dialogue: 0,0:06:35.74,0:06:36.91,Default,,0000,0000,0000,,I'm not sure if I can be...
+Dialogue: 0,0:06:36.91,0:06:39.67,Default,,0000,0000,0000,,Please train me rigorously, Master Sora!
+Dialogue: 0,0:06:39.93,0:06:42.14,Default,,0000,0000,0000,,Rigorous special training, huh?
+Dialogue: 0,0:06:42.14,0:06:46.42,Default,,0000,0000,0000,,In that case, we'll get Sora to give us\Nspecial training in how to be gag characters.
+Dialogue: 0,0:06:46.42,0:06:47.09,Default,,0000,0000,0000,,Right, Ken?
+Dialogue: 0,0:06:47.09,0:06:47.78,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:48.30,0:06:50.52,Default,,0000,0000,0000,,I already told you I'm \Nnot gonna pair with you!
+Dialogue: 0,0:06:50.52,0:06:53.72,Default,,0000,0000,0000,,And what makes you think I should give you\Nspecial training to be good gag characters?
+Dialogue: 0,0:06:53.72,0:06:55.55,Default,,0000,0000,0000,,Even without trying,\Nyou still make everyone laugh!
+Dialogue: 0,0:06:55.55,0:06:57.41,Default,,0000,0000,0000,,That's what makes a gag character!
+Dialogue: 0,0:06:57.41,0:07:01.25,Default,,0000,0000,0000,,There's no doubt that Sora has\Nthat talent, but I think Ken has it too!
+Dialogue: 0,0:07:01.25,0:07:04.59,Default,,0000,0000,0000,,So if Ken and I pair up and get Sora's special\Ntraining, we will be the best gag characters ever!
+Dialogue: 0,0:07:04.59,0:07:06.40,Default,,0000,0000,0000,,I don't think they need you, Anna.
+Dialogue: 0,0:07:08.47,0:07:10.40,Default,,0000,0000,0000,,So I'm the obstacle?
+Dialogue: 0,0:07:10.40,0:07:12.65,Default,,0000,0000,0000,,Oh, I've not seen that look for a while.
+Dialogue: 0,0:07:12.65,0:07:14.32,Default,,0000,0000,0000,,You look so cool.
+Dialogue: 0,0:07:16.86,0:07:19.41,Default,,0000,0000,0000,,Okay, let's start, Rosetta.
+Dialogue: 0,0:07:21.44,0:07:23.46,Default,,0000,0000,0000,,Rosetta, what are you doing?
+Dialogue: 0,0:07:23.46,0:07:24.42,Default,,0000,0000,0000,,Special training.
+Dialogue: 0,0:07:25.36,0:07:26.68,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:07:26.68,0:07:28.74,Default,,0000,0000,0000,,I want to hurry and be like Miss Layla.
+Dialogue: 0,0:07:28.74,0:07:29.42,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:29.65,0:07:33.23,Default,,0000,0000,0000,,And then I'm going to do the\Nlegendary great maneuver with Sora.
+Dialogue: 0,0:07:33.23,0:07:35.35,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:35.60,0:07:37.93,Default,,0000,0000,0000,,Roller Great Jump!
+Dialogue: 0,0:07:37.95,0:07:38.82,Default,,0000,0000,0000,,May!
+Dialogue: 0,0:07:40.25,0:07:44.52,Default,,0000,0000,0000,,Then I, the top star,\Nwill give you special training.
+Dialogue: 0,0:07:44.52,0:07:46.61,Default,,0000,0000,0000,,You're the top star?
+Dialogue: 0,0:07:46.96,0:07:50.44,Default,,0000,0000,0000,,It's natural that I am the top\Nstar because I am Leon's partner.
+Dialogue: 0,0:07:50.44,0:07:52.25,Default,,0000,0000,0000,,Sora's era is finished.
+Dialogue: 0,0:07:52.25,0:07:53.86,Default,,0000,0000,0000,,Who cares about Leon?
+Dialogue: 0,0:07:53.86,0:07:57.04,Default,,0000,0000,0000,,If I become Sora's partner,\NSora will be the top star.
+Dialogue: 0,0:07:57.04,0:07:59.87,Default,,0000,0000,0000,,Rosetta, for the time being,\Nlet's practice, practice.
+Dialogue: 0,0:08:00.69,0:08:04.88,Default,,0000,0000,0000,,You're just holding the swing like a little\Nmonkey, swinging your legs back and forth.
+Dialogue: 0,0:08:05.06,0:08:07.15,Default,,0000,0000,0000,,I'll help you swing, then.
+Dialogue: 0,0:08:07.15,0:08:07.88,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:08:07.88,0:08:09.34,Default,,0000,0000,0000,,Wait, May!
+Dialogue: 0,0:08:09.34,0:08:12.07,Default,,0000,0000,0000,,May, don't! Rosetta's still a beginner!
+Dialogue: 0,0:08:12.63,0:08:14.59,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:08:14.59,0:08:17.10,Default,,0000,0000,0000,,Excellent Top Star Swing!
+Dialogue: 0,0:08:17.10,0:08:18.33,Default,,0000,0000,0000,,May, stop!
+Dialogue: 0,0:08:18.33,0:08:19.42,Default,,0000,0000,0000,,Sora!
+Dialogue: 0,0:08:19.42,0:08:21.65,Default,,0000,0000,0000,,Sora, pull this rope and stop it.
+Dialogue: 0,0:08:21.65,0:08:22.23,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:08:23.96,0:08:25.23,Default,,0000,0000,0000,,How is it, Rosetta?
+Dialogue: 0,0:08:29.73,0:08:30.65,Default,,0000,0000,0000,,Not yet. Not yet.
+Dialogue: 0,0:08:30.65,0:08:31.61,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:08:31.61,0:08:33.61,Default,,0000,0000,0000,,Go, Jonathan!
+Dialogue: 0,0:08:36.09,0:08:37.37,Default,,0000,0000,0000,,It stopped.
+Dialogue: 0,0:08:37.37,0:08:38.52,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:08:40.44,0:08:41.72,Default,,0000,0000,0000,,I don't feel so good.
+Dialogue: 0,0:08:42.12,0:08:44.88,Default,,0000,0000,0000,,As I thought, you can't just jump into it.
+Dialogue: 0,0:08:44.88,0:08:46.41,Default,,0000,0000,0000,,Be strong, Rosetta.
+Dialogue: 0,0:08:48.00,0:08:51.13,Default,,0000,0000,0000,,Why don't you just do\Ndiabolo like you're supposed to?
+Dialogue: 0,0:08:53.22,0:08:54.63,Default,,0000,0000,0000,,Sorry, Sora.
+Dialogue: 0,0:08:54.89,0:08:58.77,Default,,0000,0000,0000,,Rosetta, I think you should\Nstart by strengthening your body.
+Dialogue: 0,0:08:58.77,0:09:00.43,Default,,0000,0000,0000,,I could say the same thing to you, Sora.
+Dialogue: 0,0:09:00.67,0:09:01.40,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:01.82,0:09:03.36,Default,,0000,0000,0000,,I've been thinking about this for a while.
+Dialogue: 0,0:09:03.36,0:09:06.48,Default,,0000,0000,0000,,But you just kept challenging\NMiss Layla with only big maneuvers.
+Dialogue: 0,0:09:06.48,0:09:08.90,Default,,0000,0000,0000,,So your body became unbalanced.
+Dialogue: 0,0:09:09.76,0:09:11.97,Default,,0000,0000,0000,,That's your weakness.
+Dialogue: 0,0:09:11.97,0:09:14.28,Default,,0000,0000,0000,,Why don't you do the\Nbasic training with Rosetta?
+Dialogue: 0,0:09:15.13,0:09:16.03,Default,,0000,0000,0000,,Sora...
+Dialogue: 0,0:09:16.32,0:09:17.11,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:18.66,0:09:21.19,Default,,0000,0000,0000,,Let's build the bodies we\Nneed for the trapeze together.
+Dialogue: 0,0:09:21.19,0:09:22.88,Default,,0000,0000,0000,,Maybe you should start with your abs.
+Dialogue: 0,0:09:22.88,0:09:25.72,Default,,0000,0000,0000,,Weak abs can easily cause you\Nto lose your balance in the air.
+Dialogue: 0,0:09:26.46,0:09:27.78,Default,,0000,0000,0000,,Ready, go.
+Dialogue: 0,0:09:27.78,0:09:30.25,Default,,0000,0000,0000,,One, two...
+Dialogue: 0,0:09:30.79,0:09:32.60,Default,,0000,0000,0000,,Let me join you.
+Dialogue: 0,0:09:32.60,0:09:34.14,Default,,0000,0000,0000,,Only three days.
+Dialogue: 0,0:09:34.14,0:09:35.72,Default,,0000,0000,0000,,I really think that might be impossible...
+Dialogue: 0,0:09:35.72,0:09:38.26,Default,,0000,0000,0000,,Nine, ten...
+Dialogue: 0,0:09:38.26,0:09:40.86,Default,,0000,0000,0000,,Eleven, twelve...
+Dialogue: 0,0:09:40.86,0:09:42.07,Default,,0000,0000,0000,,Thirteen...
+Dialogue: 0,0:09:42.07,0:09:43.22,Default,,0000,0000,0000,,Fourteen...
+Dialogue: 0,0:09:46.19,0:09:47.48,Default,,0000,0000,0000,,Not good!
+Dialogue: 0,0:09:47.48,0:09:51.09,Default,,0000,0000,0000,,I spent all day just trying\Nto strengthen her body.
+Dialogue: 0,0:09:52.02,0:09:56.11,Default,,0000,0000,0000,,Why'd she promise to quit if she\Ncan't use the trapeze in three days?
+Dialogue: 0,0:09:56.43,0:09:57.89,Default,,0000,0000,0000,,--Well, Aries do have a tendency
+Dialogue: 0,0:09:56.58,0:09:58.21,Default,,0000,0000,0000,,--There are only two days left.
+Dialogue: 0,0:09:57.89,0:10:00.31,Default,,0000,0000,0000,,--of not being able to apply the brakes.
+Dialogue: 0,0:09:58.21,0:10:00.31,Default,,0000,0000,0000,,--What are we gonna do?! What?! What?!
+Dialogue: 0,0:10:00.31,0:10:02.37,Default,,0000,0000,0000,,When that type falls in love\Nthey're amazing, you know.
+Dialogue: 0,0:10:02.60,0:10:03.83,Default,,0000,0000,0000,,She's sure to be all smooch-smooch.
+Dialogue: 0,0:10:03.83,0:10:05.71,Default,,0000,0000,0000,,And this is Rosetta's special bear.
+Dialogue: 0,0:10:05.71,0:10:07.96,Default,,0000,0000,0000,,Naturally, she'll smooch\Nthis bear too. Smooch, smooch.
+Dialogue: 0,0:10:07.96,0:10:11.91,Default,,0000,0000,0000,,So, if I smooch this bear, it will be\Nsame as smooching Rosetta indirectly.
+Dialogue: 0,0:10:13.51,0:10:15.63,Default,,0000,0000,0000,,Sorry. Please forgive me.
+Dialogue: 0,0:10:15.87,0:10:17.16,Default,,0000,0000,0000,,Ninety-eight.
+Dialogue: 0,0:10:17.57,0:10:18.34,Default,,0000,0000,0000,,Ninety-nine.
+Dialogue: 0,0:10:18.65,0:10:19.65,Default,,0000,0000,0000,,One hundred!
+Dialogue: 0,0:10:20.07,0:10:20.84,Default,,0000,0000,0000,,Next!
+Dialogue: 0,0:10:33.16,0:10:34.90,Default,,0000,0000,0000,,I smell something burning.
+Dialogue: 0,0:10:38.00,0:10:39.92,Default,,0000,0000,0000,,That's Rosetta's...
+Dialogue: 0,0:10:42.94,0:10:45.04,Default,,0000,0000,0000,,Rosetta!
+Dialogue: 0,0:10:45.62,0:10:46.95,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:10:47.18,0:10:49.92,Default,,0000,0000,0000,,You almost started a fire.
+Dialogue: 0,0:10:49.92,0:10:52.94,Default,,0000,0000,0000,,You put in too much detergent.\NAnd you have to shut the door properly too!
+Dialogue: 0,0:10:52.94,0:10:54.88,Default,,0000,0000,0000,,Milk cartons go to the recycle bin.
+Dialogue: 0,0:10:54.88,0:10:56.06,Default,,0000,0000,0000,,Milk cartons?
+Dialogue: 0,0:10:56.06,0:10:57.92,Default,,0000,0000,0000,,Please separate trash properly\Nwhen you throw things away.
+Dialogue: 0,0:10:58.35,0:10:59.76,Default,,0000,0000,0000,,Rosetta, are you okay?
+Dialogue: 0,0:11:01.23,0:11:02.26,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:11:03.88,0:11:06.26,Default,,0000,0000,0000,,What's all this milk for?
+Dialogue: 0,0:11:06.26,0:11:07.91,Default,,0000,0000,0000,,Are you trying to be a cow?
+Dialogue: 0,0:11:07.91,0:11:10.52,Default,,0000,0000,0000,,I'm trying to build muscles.
+Dialogue: 0,0:11:10.91,0:11:13.81,Default,,0000,0000,0000,,You need to have well-balanced meals.
+Dialogue: 0,0:11:13.81,0:11:15.02,Default,,0000,0000,0000,,You mustn't have an unbalanced diet.
+Dialogue: 0,0:11:15.02,0:11:17.00,Default,,0000,0000,0000,,And, Sora. I need to talk \Nto you for a second.
+Dialogue: 0,0:11:17.00,0:11:17.78,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:11:18.12,0:11:21.34,Default,,0000,0000,0000,,You have to be responsible, Sora.
+Dialogue: 0,0:11:21.34,0:11:23.41,Default,,0000,0000,0000,,Didn't Kalos ask you to look after Rosetta?
+Dialogue: 0,0:11:23.41,0:11:25.89,Default,,0000,0000,0000,,Yes. I...
+Dialogue: 0,0:11:25.89,0:11:27.95,Default,,0000,0000,0000,,You're the older sister\Nin this relationship, okay?
+Dialogue: 0,0:11:27.95,0:11:31.45,Default,,0000,0000,0000,,Promises are important, but you\Nshouldn't let her get carried away.
+Dialogue: 0,0:11:31.45,0:11:34.20,Default,,0000,0000,0000,,In any case, you're going to\Nquit after two days, aren't you?
+Dialogue: 0,0:11:34.20,0:11:35.38,Default,,0000,0000,0000,,Hey, Sora.
+Dialogue: 0,0:11:35.38,0:11:37.90,Default,,0000,0000,0000,,I'm thinking about creating Rosetta's section
+Dialogue: 0,0:11:37.90,0:11:39.80,Default,,0000,0000,0000,,next time I update Kaleido Stage's home page.
+Dialogue: 0,0:11:39.80,0:11:41.04,Default,,0000,0000,0000,,Do you think it's okay?
+Dialogue: 0,0:11:41.04,0:11:42.92,Default,,0000,0000,0000,,Of course! Make one, definitely!
+Dialogue: 0,0:11:42.92,0:11:45.58,Default,,0000,0000,0000,,I'm glad. I feel better hearing that.
+Dialogue: 0,0:11:47.93,0:11:48.82,Default,,0000,0000,0000,,Sora...
+Dialogue: 0,0:11:50.87,0:11:52.82,Default,,0000,0000,0000,,What?! Why are you dressed like that?
+Dialogue: 0,0:11:52.82,0:11:55.13,Default,,0000,0000,0000,,For training. I'm going to run.
+Dialogue: 0,0:11:55.61,0:11:57.31,Default,,0000,0000,0000,,You shouldn't push yourself \Ntoo much, Rosetta.
+Dialogue: 0,0:11:57.31,0:11:58.73,Default,,0000,0000,0000,,We only have two days left.
+Dialogue: 0,0:11:59.49,0:12:02.32,Default,,0000,0000,0000,,I came into this prepared\Nto do this much hard work.
+Dialogue: 0,0:12:06.29,0:12:08.55,Default,,0000,0000,0000,,Only two days left...
+Dialogue: 0,0:12:21.70,0:12:24.15,Default,,0000,0000,0000,,Rosetta, look, look!
+Dialogue: 0,0:12:24.55,0:12:25.61,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:12:30.51,0:12:31.84,Default,,0000,0000,0000,,Amazing...
+Dialogue: 0,0:12:32.28,0:12:34.97,Default,,0000,0000,0000,,Unlike yesterday, today \Nwill be real training,
+Dialogue: 0,0:12:34.97,0:12:36.62,Default,,0000,0000,0000,,so I'll attach a lifeline to you.
+Dialogue: 0,0:12:37.29,0:12:39.01,Default,,0000,0000,0000,,Please tell me if the belt is too tight.
+Dialogue: 0,0:12:39.01,0:12:40.84,Default,,0000,0000,0000,,No, it's fine.
+Dialogue: 0,0:12:40.84,0:12:42.74,Default,,0000,0000,0000,,Oh, here she is.
+Dialogue: 0,0:12:42.74,0:12:44.73,Default,,0000,0000,0000,,I created your page, Rosetta.
+Dialogue: 0,0:12:44.73,0:12:48.01,Default,,0000,0000,0000,,I think here you should\Nwrite "Rosetta Could Be Betta."
+Dialogue: 0,0:12:48.01,0:12:48.99,Default,,0000,0000,0000,,Let me see, let me see.
+Dialogue: 0,0:12:49.36,0:12:51.13,Default,,0000,0000,0000,,What is this?! It looks great!
+Dialogue: 0,0:12:51.13,0:12:52.17,Default,,0000,0000,0000,,See? See?
+Dialogue: 0,0:12:52.17,0:12:54.00,Default,,0000,0000,0000,,How about "Rosetta Set-ta The Bar Too High"?
+Dialogue: 0,0:12:54.00,0:12:55.45,Default,,0000,0000,0000,,That is very pretty.
+Dialogue: 0,0:12:55.45,0:12:58.81,Default,,0000,0000,0000,,How about if we put something\Nlike "Rosetta Fell Into the Net-ta"?
+Dialogue: 0,0:13:03.39,0:13:05.14,Default,,0000,0000,0000,,You look tired.
+Dialogue: 0,0:13:05.14,0:13:06.09,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:13:06.09,0:13:08.17,Default,,0000,0000,0000,,Have you been practicing\Nall the time ever since then?
+Dialogue: 0,0:13:08.17,0:13:09.22,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:13:09.22,0:13:10.95,Default,,0000,0000,0000,,Or how about "Rosetta Is..."
+Dialogue: 0,0:13:10.95,0:13:12.26,Default,,0000,0000,0000,,Hey, Rosetta!
+Dialogue: 0,0:13:12.26,0:13:13.31,Default,,0000,0000,0000,,Rosetta?
+Dialogue: 0,0:13:13.63,0:13:14.81,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:13:14.81,0:13:15.77,Default,,0000,0000,0000,,Shush.
+Dialogue: 0,0:13:15.77,0:13:18.04,Default,,0000,0000,0000,,She's all right. Just sleeping.
+Dialogue: 0,0:13:18.04,0:13:19.24,Default,,0000,0000,0000,,Sleeping?
+Dialogue: 0,0:13:20.04,0:13:21.57,Default,,0000,0000,0000,,"Rosetta Went to Bed-da"!
+Dialogue: 0,0:13:22.17,0:13:25.53,Default,,0000,0000,0000,,She's been building up fatigue even before\Nthis, adjusting to a dorm life she's not used to.
+Dialogue: 0,0:13:25.53,0:13:28.44,Default,,0000,0000,0000,,Maybe it's better if we just let\Nher take a rest like this today.
+Dialogue: 0,0:13:28.44,0:13:29.03,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:13:29.42,0:13:32.29,Default,,0000,0000,0000,,And, I just heard this from Rosetta,
+Dialogue: 0,0:13:32.87,0:13:36.50,Default,,0000,0000,0000,,but she says she's never even\Nbeen on a park swing before.
+Dialogue: 0,0:13:36.80,0:13:37.81,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:13:42.75,0:13:44.31,Default,,0000,0000,0000,,What time is it now?
+Dialogue: 0,0:13:45.64,0:13:47.26,Default,,0000,0000,0000,,Oh, no! I overslept!
+Dialogue: 0,0:13:50.81,0:13:51.76,Default,,0000,0000,0000,,Sora?
+Dialogue: 0,0:13:53.93,0:13:57.98,Default,,0000,0000,0000,,"I have the show today,\Nso we'll do the rest tomorrow.
+Dialogue: 0,0:13:58.24,0:14:00.04,Default,,0000,0000,0000,,We'll go to a secret special training place,
+Dialogue: 0,0:14:00.04,0:14:02.98,Default,,0000,0000,0000,,so rest well until then. Sora."
+Dialogue: 0,0:14:11.00,0:14:14.08,Default,,0000,0000,0000,,{\i1}Sora is in the middle of the show right now.{\i0}
+Dialogue: 0,0:14:14.08,0:14:16.06,Default,,0000,0000,0000,,{\i1}I can't just keep sleeping. {\i0}
+Dialogue: 0,0:14:16.06,0:14:18.74,Default,,0000,0000,0000,,{\i1}There is only one day left until\NI have to make good on my promise.{\i0}
+Dialogue: 0,0:14:26.34,0:14:29.44,Default,,0000,0000,0000,,Sora, where's this\Nsecret special training place?
+Dialogue: 0,0:14:29.44,0:14:31.82,Default,,0000,0000,0000,,It's the elementary school \Nthat Marion attends.
+Dialogue: 0,0:14:31.82,0:14:34.73,Default,,0000,0000,0000,,You're not saying we're\Npracticing on kiddie swings?
+Dialogue: 0,0:14:34.73,0:14:36.56,Default,,0000,0000,0000,,I already got the teacher's permission.
+Dialogue: 0,0:14:36.56,0:14:39.56,Default,,0000,0000,0000,,Are you looking down on me, Sora?
+Dialogue: 0,0:14:39.85,0:14:41.81,Default,,0000,0000,0000,,I'm serious about this.
+Dialogue: 0,0:14:42.73,0:14:45.13,Default,,0000,0000,0000,,They said I was a good pick because I was\Nready to appear on the stage immediately,
+Dialogue: 0,0:14:45.13,0:14:47.78,Default,,0000,0000,0000,,but all I'm doing is \Ncausing everybody trouble.
+Dialogue: 0,0:14:48.47,0:14:49.75,Default,,0000,0000,0000,,As it is now,
+Dialogue: 0,0:14:49.75,0:14:54.74,Default,,0000,0000,0000,,my coming to Kaleido Stage despite the \Nopposition from Mom is meaningless.
+Dialogue: 0,0:14:54.93,0:14:57.70,Default,,0000,0000,0000,,Marion, it's a little early,\Nbut why don't we have lunch?
+Dialogue: 0,0:14:57.70,0:14:58.68,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:14:58.68,0:15:00.75,Default,,0000,0000,0000,,You too, Rosetta. Okay?
+Dialogue: 0,0:15:03.70,0:15:05.02,Default,,0000,0000,0000,,Okay, Jonathan!
+Dialogue: 0,0:15:06.25,0:15:09.61,Default,,0000,0000,0000,,Rosetta, I hear you've never been on a swing?
+Dialogue: 0,0:15:09.61,0:15:12.76,Default,,0000,0000,0000,,Yes. I've never played in the park.
+Dialogue: 0,0:15:14.05,0:15:17.47,Default,,0000,0000,0000,,Since I was little, I've been\Npracticing diabolo the whole time.
+Dialogue: 0,0:15:17.47,0:15:19.93,Default,,0000,0000,0000,,I spent day and night on the stage every day.
+Dialogue: 0,0:15:21.14,0:15:25.23,Default,,0000,0000,0000,,As for me, I first rode a swing\Nby myself when I was three.
+Dialogue: 0,0:15:25.96,0:15:29.86,Default,,0000,0000,0000,,Of course, I never thought about \Nwanting to appear on stage,
+Dialogue: 0,0:15:29.86,0:15:31.62,Default,,0000,0000,0000,,I was just playing.
+Dialogue: 0,0:15:32.08,0:15:33.21,Default,,0000,0000,0000,,Playing?
+Dialogue: 0,0:15:33.91,0:15:35.70,Default,,0000,0000,0000,,At first, you can take your time.
+Dialogue: 0,0:15:36.01,0:15:37.70,Default,,0000,0000,0000,,So, let's think of this as playing.
+Dialogue: 0,0:15:37.97,0:15:39.90,Default,,0000,0000,0000,,But, I made a promise to the Boss.
+Dialogue: 0,0:15:39.90,0:15:40.55,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:15:41.83,0:15:44.21,Default,,0000,0000,0000,,It's herbal tea. It makes you relax.
+Dialogue: 0,0:15:44.21,0:15:45.94,Default,,0000,0000,0000,,Oh, thank you.
+Dialogue: 0,0:15:46.37,0:15:48.90,Default,,0000,0000,0000,,Hey! No fair! Me too!
+Dialogue: 0,0:15:49.27,0:15:50.98,Default,,0000,0000,0000,,--Leaving the Boss aside,
+Dialogue: 0,0:15:49.94,0:15:50.98,Default,,0000,0000,0000,,--Give me some.
+Dialogue: 0,0:15:50.98,0:15:53.76,Default,,0000,0000,0000,,I want to see what our trapeze\Nperformance might look like together.
+Dialogue: 0,0:15:55.41,0:15:58.47,Default,,0000,0000,0000,,I want to see what our diabolo\Nperformance might look like together.
+Dialogue: 0,0:16:00.23,0:16:01.52,Default,,0000,0000,0000,,Me too.
+Dialogue: 0,0:16:03.01,0:16:03.80,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:16:05.27,0:16:07.02,Default,,0000,0000,0000,,Thank you, Sora.
+Dialogue: 0,0:16:07.29,0:16:09.30,Default,,0000,0000,0000,,Now, let's get going!
+Dialogue: 0,0:16:09.30,0:16:10.03,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:16:10.03,0:16:11.35,Default,,0000,0000,0000,,We're going!
+Dialogue: 0,0:16:14.38,0:16:16.90,Default,,0000,0000,0000,,The one we can see over\Nthere is Marion's school?
+Dialogue: 0,0:16:16.90,0:16:18.54,Default,,0000,0000,0000,,Yep. Isn't it big?
+Dialogue: 0,0:16:20.70,0:16:21.76,Default,,0000,0000,0000,,They are small.
+Dialogue: 0,0:16:21.76,0:16:24.23,Default,,0000,0000,0000,,What?! These are great swings!
+Dialogue: 0,0:16:24.23,0:16:25.18,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:16:25.18,0:16:26.64,Default,,0000,0000,0000,,Let's play, Jonathan.
+Dialogue: 0,0:16:29.08,0:16:30.01,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:16:33.24,0:16:34.67,Default,,0000,0000,0000,,Why don't we also get on a swing?
+Dialogue: 0,0:16:34.67,0:16:36.18,Default,,0000,0000,0000,,What? Okay.
+Dialogue: 0,0:16:36.33,0:16:39.52,Default,,0000,0000,0000,,First of all, you have to\Nbe able to rock the swing.
+Dialogue: 0,0:16:39.52,0:16:40.71,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:16:40.71,0:16:41.97,Default,,0000,0000,0000,,Now, have a seat.
+Dialogue: 0,0:16:42.40,0:16:43.36,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:16:45.13,0:16:45.73,Default,,0000,0000,0000,,Rosetta!
+Dialogue: 0,0:16:47.88,0:16:49.57,Default,,0000,0000,0000,,Sorry, are you okay?
+Dialogue: 0,0:16:49.86,0:16:52.42,Default,,0000,0000,0000,,Sora, are you tired of me?
+Dialogue: 0,0:16:52.42,0:16:53.61,Default,,0000,0000,0000,,You're not sick of this?
+Dialogue: 0,0:16:53.61,0:16:55.60,Default,,0000,0000,0000,,Not, at all.
+Dialogue: 0,0:16:55.60,0:16:58.05,Default,,0000,0000,0000,,You've stopped liking me, huh?
+Dialogue: 0,0:16:59.37,0:17:00.52,Default,,0000,0000,0000,,Oh, it's true!
+Dialogue: 0,0:17:00.52,0:17:02.06,Default,,0000,0000,0000,,Master Rosetta!
+Dialogue: 0,0:17:02.55,0:17:04.08,Default,,0000,0000,0000,,What? Me?
+Dialogue: 0,0:17:04.08,0:17:05.81,Default,,0000,0000,0000,,Wow, she's the real thing!
+Dialogue: 0,0:17:05.81,0:17:07.90,Default,,0000,0000,0000,,She is younger than I thought.
+Dialogue: 0,0:17:07.90,0:17:10.80,Default,,0000,0000,0000,,Let me introduce my friends.
+Dialogue: 0,0:17:11.24,0:17:12.03,Default,,0000,0000,0000,,I'm Maria.
+Dialogue: 0,0:17:12.03,0:17:13.39,Default,,0000,0000,0000,,I'm Ben. Nice to meet you.
+Dialogue: 0,0:17:13.71,0:17:17.22,Default,,0000,0000,0000,,--They say they want you \Nto teach them juggling.
+Dialogue: 0,0:17:13.86,0:17:14.98,Default,,0000,0000,0000,,--I'm Andy.
+Dialogue: 0,0:17:17.79,0:17:18.53,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:17:19.60,0:17:21.01,Default,,0000,0000,0000,,I'm Maggie.
+Dialogue: 0,0:17:21.01,0:17:25.36,Default,,0000,0000,0000,,We're thinking about doing a juggling\Nshow for our friend's birthday party.
+Dialogue: 0,0:17:25.36,0:17:27.76,Default,,0000,0000,0000,,But we can't do it well.
+Dialogue: 0,0:17:27.76,0:17:30.32,Default,,0000,0000,0000,,We watched a magician's video and practiced.
+Dialogue: 0,0:17:30.55,0:17:32.92,Default,,0000,0000,0000,,You're also a specialist at\Njuggling, aren't you Rosetta?
+Dialogue: 0,0:17:32.92,0:17:34.32,Default,,0000,0000,0000,,Oh, yes.
+Dialogue: 0,0:17:34.58,0:17:36.22,Default,,0000,0000,0000,,The party is tomorrow.
+Dialogue: 0,0:17:36.22,0:17:37.37,Default,,0000,0000,0000,,Please teach us.
+Dialogue: 0,0:17:37.37,0:17:39.14,Default,,0000,0000,0000,,Please on my behalf too.
+Dialogue: 0,0:17:39.91,0:17:40.81,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:40.81,0:17:43.04,Default,,0000,0000,0000,,First, please show me your juggling.
+Dialogue: 0,0:17:43.42,0:17:44.80,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:17:46.48,0:17:48.80,Default,,0000,0000,0000,,The one we're going to do is bouncing balls.
+Dialogue: 0,0:17:49.24,0:17:52.30,Default,,0000,0000,0000,,We're going to bounce balls\Non the ground and juggle them.
+Dialogue: 0,0:17:52.59,0:17:54.22,Default,,0000,0000,0000,,We will use three balls.
+Dialogue: 0,0:17:54.87,0:17:56.36,Default,,0000,0000,0000,,Ready, go!
+Dialogue: 0,0:17:59.68,0:18:00.78,Default,,0000,0000,0000,,Sheesh...
+Dialogue: 0,0:18:02.26,0:18:03.80,Default,,0000,0000,0000,,Good, good.
+Dialogue: 0,0:18:03.80,0:18:06.19,Default,,0000,0000,0000,,All you guys are much better than I am.
+Dialogue: 0,0:18:06.41,0:18:08.66,Default,,0000,0000,0000,,What? Really?
+Dialogue: 0,0:18:08.66,0:18:11.23,Default,,0000,0000,0000,,We can't perform like this!
+Dialogue: 0,0:18:11.23,0:18:15.90,Default,,0000,0000,0000,,When I started, I had a hard\Ntime handling even two balls well.
+Dialogue: 0,0:18:16.20,0:18:17.83,Default,,0000,0000,0000,,So, all you guys have the\Nmakings of good jugglers.
+Dialogue: 0,0:18:17.83,0:18:20.66,Default,,0000,0000,0000,,Wow. You guys were praised by a genius girl.
+Dialogue: 0,0:18:20.87,0:18:22.24,Default,,0000,0000,0000,,Everyone, do your best!
+Dialogue: 0,0:18:22.24,0:18:24.23,Default,,0000,0000,0000,,Sora, you too. Let's practice together.
+Dialogue: 0,0:18:24.69,0:18:25.54,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:26.21,0:18:29.16,Default,,0000,0000,0000,,Okay, then I'll start\Nteaching you one at a time.
+Dialogue: 0,0:18:29.16,0:18:32.56,Default,,0000,0000,0000,,If you stay calm and patient,\NI'm sure all of you will improve.
+Dialogue: 0,0:18:35.05,0:18:38.58,Default,,0000,0000,0000,,Do this rhythm, one, two, three.\NNow, one, two, three.
+Dialogue: 0,0:18:38.58,0:18:40.76,Default,,0000,0000,0000,,One, two, three. One, two, three.
+Dialogue: 0,0:18:41.44,0:18:43.26,Default,,0000,0000,0000,,I think I'm getting better.
+Dialogue: 0,0:18:44.50,0:18:46.02,Default,,0000,0000,0000,,The most important thing is rhythm.
+Dialogue: 0,0:18:48.58,0:18:51.65,Default,,0000,0000,0000,,Oh, Sora. You're worse than Jonathan.
+Dialogue: 0,0:18:53.73,0:18:55.86,Default,,0000,0000,0000,,Everyone, you got a lot better.
+Dialogue: 0,0:19:01.12,0:19:02.70,Default,,0000,0000,0000,,I practiced every day \Nand I still can't do it.
+Dialogue: 0,0:19:04.79,0:19:05.95,Default,,0000,0000,0000,,Master!
+Dialogue: 0,0:19:05.95,0:19:07.96,Default,,0000,0000,0000,,Move your hands the way I move mine.
+Dialogue: 0,0:19:08.74,0:19:11.36,Default,,0000,0000,0000,,Don't be impatient. Relax your shoulders.
+Dialogue: 0,0:19:11.36,0:19:12.46,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:19:12.46,0:19:14.62,Default,,0000,0000,0000,,One, two, three. One, two, three.
+Dialogue: 0,0:19:14.62,0:19:16.21,Default,,0000,0000,0000,,One, two, three. One...
+Dialogue: 0,0:19:16.99,0:19:18.91,Default,,0000,0000,0000,,Wow! I can do it.
+Dialogue: 0,0:19:18.91,0:19:20.37,Default,,0000,0000,0000,,I can do it!
+Dialogue: 0,0:19:20.37,0:19:21.73,Default,,0000,0000,0000,,You can't be impatient.
+Dialogue: 0,0:19:21.73,0:19:24.47,Default,,0000,0000,0000,,When you try too hard, it's hard\Nto get into the rhythm, isn't it?
+Dialogue: 0,0:19:24.80,0:19:27.30,Default,,0000,0000,0000,,One, two, three. One, two, three.
+Dialogue: 0,0:19:27.30,0:19:28.47,Default,,0000,0000,0000,,{\i1}- -I see.\N{\i0}--One, two, three. One, two, three.
+Dialogue: 0,0:19:28.47,0:19:32.19,Default,,0000,0000,0000,,{\i1}I was also being impatient with myself\Nfor only being able to do the diabolo.{\i0}
+Dialogue: 0,0:19:34.98,0:19:37.48,Default,,0000,0000,0000,,That's all I can teach you.
+Dialogue: 0,0:19:37.48,0:19:40.34,Default,,0000,0000,0000,,The thing you need to do is to\Npractice by yourself until tomorrow.
+Dialogue: 0,0:19:40.34,0:19:41.66,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:19:41.66,0:19:45.12,Default,,0000,0000,0000,,Excuse me, Master, but is it true\Nthat you can't swing on the swings?
+Dialogue: 0,0:19:45.12,0:19:47.41,Default,,0000,0000,0000,,Hey, it's rude to ask \Nher something like that!
+Dialogue: 0,0:19:47.84,0:19:49.34,Default,,0000,0000,0000,,It's true.
+Dialogue: 0,0:19:49.34,0:19:53.42,Default,,0000,0000,0000,,And if I cannot learn how to get on a\Nswing by today, I have to quit Kaleido Stage.
+Dialogue: 0,0:19:53.42,0:19:54.70,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:54.70,0:19:55.76,Default,,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:19:55.76,0:19:57.34,Default,,0000,0000,0000,,It's not true, is it?
+Dialogue: 0,0:19:57.34,0:19:59.67,Default,,0000,0000,0000,,I'll teach you.
+Dialogue: 0,0:19:59.67,0:20:01.13,Default,,0000,0000,0000,,Put your butt down like this,
+Dialogue: 0,0:20:01.31,0:20:03.18,Default,,0000,0000,0000,,and rock your body back and forth.
+Dialogue: 0,0:20:03.18,0:20:04.80,Default,,0000,0000,0000,,Then you will be perfect.
+Dialogue: 0,0:20:06.00,0:20:07.59,Default,,0000,0000,0000,,Thank you, Andy.
+Dialogue: 0,0:20:07.59,0:20:09.93,Default,,0000,0000,0000,,Then, let's have you try it!
+Dialogue: 0,0:20:10.16,0:20:12.69,Default,,0000,0000,0000,,Here, Rosetta, have a seat right here.
+Dialogue: 0,0:20:12.69,0:20:14.69,Default,,0000,0000,0000,,It's your turn this time, Rosetta.
+Dialogue: 0,0:20:14.69,0:20:16.73,Default,,0000,0000,0000,,Rosetta, don't be impatient.
+Dialogue: 0,0:20:16.73,0:20:18.49,Default,,0000,0000,0000,,Relax your shoulders.
+Dialogue: 0,0:20:18.49,0:20:20.38,Default,,0000,0000,0000,,Your body's rhythm is the important thing!
+Dialogue: 0,0:20:20.38,0:20:22.22,Default,,0000,0000,0000,,I know what to do.
+Dialogue: 0,0:20:22.22,0:20:23.57,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:24.87,0:20:26.33,Default,,0000,0000,0000,,Please teach me.
+Dialogue: 0,0:20:26.33,0:20:28.47,Default,,0000,0000,0000,,Here, sit down, sit down.
+Dialogue: 0,0:20:30.39,0:20:32.33,Default,,0000,0000,0000,,Let me take charge of your body.
+Dialogue: 0,0:20:32.68,0:20:34.10,Default,,0000,0000,0000,,Okay, here I go.
+Dialogue: 0,0:20:34.10,0:20:35.06,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:20:35.06,0:20:36.61,Default,,0000,0000,0000,,Wait, Sora!
+Dialogue: 0,0:20:40.02,0:20:41.88,Default,,0000,0000,0000,,I saw Kaleido Stage.
+Dialogue: 0,0:20:42.12,0:20:43.08,Default,,0000,0000,0000,,Where, where?
+Dialogue: 0,0:20:43.08,0:20:43.84,Default,,0000,0000,0000,,Behind us.
+Dialogue: 0,0:20:44.20,0:20:45.22,Default,,0000,0000,0000,,I can't see it.
+Dialogue: 0,0:20:45.22,0:20:47.35,Default,,0000,0000,0000,,I saw it a second ago.
+Dialogue: 0,0:20:47.35,0:20:49.22,Default,,0000,0000,0000,,I think I didn't swing enough.
+Dialogue: 0,0:20:49.87,0:20:51.73,Default,,0000,0000,0000,,Then, let's swing more!
+Dialogue: 0,0:20:51.96,0:20:54.69,Default,,0000,0000,0000,,Go! Go way up!
+Dialogue: 0,0:20:55.74,0:20:56.84,Default,,0000,0000,0000,,Look!
+Dialogue: 0,0:20:56.84,0:20:58.33,Default,,0000,0000,0000,,It's true.
+Dialogue: 0,0:20:59.02,0:21:00.13,Default,,0000,0000,0000,,Rosetta...
+Dialogue: 0,0:21:00.13,0:21:01.11,Default,,0000,0000,0000,,What, Sora?
+Dialogue: 0,0:21:01.30,0:21:03.99,Default,,0000,0000,0000,,You're the one rocking\Nthe swing now, you know.
+Dialogue: 0,0:21:04.25,0:21:05.20,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:21:05.20,0:21:07.37,Default,,0000,0000,0000,,I'm not doing anything.
+Dialogue: 0,0:21:07.37,0:21:10.36,Default,,0000,0000,0000,,Amazing. I was able to rock the swing.
+Dialogue: 0,0:21:11.26,0:21:14.08,Default,,0000,0000,0000,,But, I know this is not \Ngood enough for Kalos.
+Dialogue: 0,0:21:14.08,0:21:16.60,Default,,0000,0000,0000,,Don't worry. I'll go \Napologize to him with you.
+Dialogue: 0,0:21:16.60,0:21:17.63,Default,,0000,0000,0000,,Thank you, Sora.
+Dialogue: 0,0:21:18.48,0:21:20.44,Default,,0000,0000,0000,,We'll be together all the time, Sora.
+Dialogue: 0,0:21:22.22,0:21:24.46,Default,,0000,0000,0000,,I couldn't keep the promise.
+Dialogue: 0,0:21:24.46,0:21:26.14,Default,,0000,0000,0000,,I'm sorry, Boss.
+Dialogue: 0,0:21:28.19,0:21:30.51,Default,,0000,0000,0000,,I don't remember any promise.
+Dialogue: 0,0:21:30.51,0:21:34.04,Default,,0000,0000,0000,,I promised that I was going to withdraw\Nif I couldn't learn the trapeze in three days.
+Dialogue: 0,0:21:34.78,0:21:36.48,Default,,0000,0000,0000,,Oh, that.
+Dialogue: 0,0:21:36.84,0:21:38.55,Default,,0000,0000,0000,,So, I need to withdraw?
+Dialogue: 0,0:21:38.55,0:21:39.52,Default,,0000,0000,0000,,Rosetta...
+Dialogue: 0,0:21:39.52,0:21:41.01,Default,,0000,0000,0000,,Three years!
+Dialogue: 0,0:21:41.01,0:21:41.71,Default,,0000,0000,0000,,--What?
+Dialogue: 0,0:21:41.17,0:21:42.03,Default,,0000,0000,0000,,--Excuse me?
+Dialogue: 0,0:21:42.40,0:21:46.03,Default,,0000,0000,0000,,Rosetta, I expect you to be the top\Nstar of the trapeze three years from now.
+Dialogue: 0,0:21:46.85,0:21:47.96,Default,,0000,0000,0000,,Then...
+Dialogue: 0,0:21:48.49,0:21:53.63,Default,,0000,0000,0000,,The things you were talking about on the\Nphone, I don't remember agreeing with you.
+Dialogue: 0,0:21:53.63,0:21:55.08,Default,,0000,0000,0000,,Sora... I'm...
+Dialogue: 0,0:21:55.08,0:21:56.04,Default,,0000,0000,0000,,Isn't this great?
+Dialogue: 0,0:21:56.04,0:21:58.40,Default,,0000,0000,0000,,We're able to appear on stage together.
+Dialogue: 0,0:21:58.40,0:21:59.59,Default,,0000,0000,0000,,I'm so happy!
+Dialogue: 0,0:22:00.28,0:22:02.25,Default,,0000,0000,0000,,Don't relax your efforts, you two.
+Dialogue: 0,0:22:02.25,0:22:03.74,Default,,0000,0000,0000,,Don't skip a practice.
+Dialogue: 0,0:22:03.74,0:22:05.59,Default,,0000,0000,0000,,Three years will fly by before you know it.
+Dialogue: 0,0:22:06.92,0:22:10.53,Default,,0000,0000,0000,,Of course, I intend to\Npractice the trapeze very hard.
+Dialogue: 0,0:22:10.53,0:22:13.81,Default,,0000,0000,0000,,So, I won't be able to do my diabolo\Nshow more than three times a week.
+Dialogue: 0,0:22:15.76,0:22:16.69,Default,,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:22:16.69,0:22:18.52,Default,,0000,0000,0000,,I am serious, Boss.
+Dialogue: 0,0:22:19.24,0:22:20.47,Default,,0000,0000,0000,,Let's go, Sora.
+Dialogue: 0,0:22:20.47,0:22:22.23,Default,,0000,0000,0000,,Oh, then. Excuse us.
+Dialogue: 0,0:22:26.51,0:22:27.68,Default,,0000,0000,0000,,{\i1}Three years from now, {\i0}
+Dialogue: 0,0:22:27.68,0:22:31.20,Default,,0000,0000,0000,,{\i1}I'll do the legendary great\Nmaneuver with Sora for sure!{\i0}
+Dialogue: 0,0:22:31.94,0:22:34.50,Default,,0000,0000,0000,,{\i1}Rosetta's already started\Nwalking with her own feet.{\i0}
+Dialogue: 0,0:22:34.93,0:22:38.00,Default,,0000,0000,0000,,{\i1}In order to be a real Kaleido Star,{\i0}
+Dialogue: 0,0:22:38.00,0:22:40.70,Default,,0000,0000,0000,,{\i1}I also have to start walking\Nforward! Forward! Forward!{\i0}
+Dialogue: 0,0:22:45.90,0:22:49.51,Default,,0000,0000,0000,,{\i1}All kinds of hard luck flocks\Nyour way as if it's spurring you on{\i0}
+Dialogue: 0,0:22:49.51,0:22:53.64,Default,,0000,0000,0000,,{\i1}Swept away by it, time is over {\i0}
+Dialogue: 0,0:22:53.64,0:22:56.35,Default,,0000,0000,0000,,{\i1}Just as predicted, take it easy {\i0}
+Dialogue: 0,0:22:56.35,0:23:00.83,Default,,0000,0000,0000,,{\i1}I will get you out right away {\i0}
+Dialogue: 0,0:23:00.83,0:23:02.52,Default,,0000,0000,0000,,{\i1}Hurry up (Here we go) {\i0}
+Dialogue: 0,0:23:02.52,0:23:04.48,Default,,0000,0000,0000,,{\i1}Forcibly only (Drive with the fastest speed){\i0}
+Dialogue: 0,0:23:04.81,0:23:08.21,Default,,0000,0000,0000,,{\i1}The view I look down at every day is the best{\i0}
+Dialogue: 0,0:23:08.21,0:23:10.16,Default,,0000,0000,0000,,{\i1}Sunset point (Favorite) {\i0}
+Dialogue: 0,0:23:10.16,0:23:12.03,Default,,0000,0000,0000,,{\i1}Harbor light (Stormy night) {\i0}
+Dialogue: 0,0:23:12.03,0:23:15.96,Default,,0000,0000,0000,,{\i1}Escape for the sake of tomorrow {\i0}
+Dialogue: 0,0:23:16.78,0:23:22.55,Default,,0000,0000,0000,,{\i1}Even I don't have a vacation, \NI've got an oasis{\i0}
+Dialogue: 0,0:23:22.55,0:23:29.08,Default,,0000,0000,0000,,{\i1}I'll turn off the cell \Nphone and charge my love{\i0}
+Dialogue: 0,0:23:29.70,0:23:33.88,Default,,0000,0000,0000,,{\i1}Because some pain,\Nyou can't soothe with just kindness{\i0}
+Dialogue: 0,0:23:33.88,0:23:38.10,Default,,0000,0000,0000,,{\i1}We are alone, we pass each other by{\i0}
+Dialogue: 0,0:23:38.10,0:23:39.52,Default,,0000,0000,0000,,{\i1}What's going on? {\i0}
+Dialogue: 0,0:23:39.52,0:23:45.05,Default,,0000,0000,0000,,{\i1}At the far end of regret,\NI encounter my true heart{\i0}
+Dialogue: 0,0:23:45.05,0:23:53.32,Default,,0000,0000,0000,,{\i1}Whether I'm crying or\Nlaughing, I will be with you{\i0}
+Dialogue: 0,0:23:54.95,0:23:57.29,On Top,,0000,0000,0000,,"Next Kaleido Star: New Wings"
+Dialogue: 0,0:23:57.64,0:23:58.77,Default,,0000,0000,0000,,{\i1}Miss Layla... {\i0}
+Dialogue: 0,0:23:58.77,0:24:00.08,Default,,0000,0000,0000,,{\i1}Sora! {\i0}
+Dialogue: 0,0:24:00.22,0:24:03.75,Default,,0000,0000,0000,,{\i1}And so, I'm going to\Nco-star with that Miss Layla?!{\i0}
+Dialogue: 0,0:24:03.75,0:24:05.21,Default,,0000,0000,0000,,{\i1}Wait for a second! {\i0}
+Dialogue: 0,0:24:05.50,0:24:07.96,Default,,0000,0000,0000,,{\i1}I'll be the one to pair with Miss Layla!{\i0}
+Dialogue: 0,0:24:07.96,0:24:11.02,Default,,0000,0000,0000,,{\i1}Oh, May, please don't get in my way.{\i0}
+Dialogue: 0,0:24:11.02,0:24:13.20,Default,,0000,0000,0000,,{\i1}I wanted to see you, Miss Layla.{\i0}
+Dialogue: 0,0:24:13.20,0:24:14.30,Default,,0000,0000,0000,,{\i1}Layla! Layla!{\i0}
+Dialogue: 0,0:24:15.16,0:24:20.03,Default,,0000,0000,0000,,{\i1}Next time on Kaleido Star,\N"The Ever Amazing Miss Layla."{\i0}
+Dialogue: 0,0:24:20.03,0:24:22.47,Default,,0000,0000,0000,,{\i1}My wings are my dream\Nand on towards the sky...{\i0}
