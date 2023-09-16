@@ -50,5 +50,5 @@ As of the time of writing, we do ***NOT*** accept the following contributions:
 
 [aniDB]: https://anidb.net/
 
-[Issue]: https://github.com/LightArrowsEXE/anime-subtitle-archival/issues
-[Pull Request]: https://github.com/LightArrowsEXE/anime-subtitle-archival/pulls
+[Issue]: https://github.com/Subtitle-Archival-Initiative/anime-subtitle-archival/issues
+[Pull Request]: https://github.com/Subtitle-Archival-Initiative/anime-subtitle-archival/pulls
