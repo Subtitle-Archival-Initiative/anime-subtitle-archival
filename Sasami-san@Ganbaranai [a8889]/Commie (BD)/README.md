@@ -13,11 +13,9 @@
 
 ## Release Info
 
-|              |           |
-|--------------|-----------|
-| Status       | -         |
-| Batch Status | -         |
-| Source       | BDRip     |
-| Resolution   | 1280x720  |
-
-## Notes
+|              |            |
+|--------------|------------|
+| Status       | Incomplete |
+| Batch Status | -          |
+| Source       | BDRip      |
+| Resolution   | 1280x720   |
