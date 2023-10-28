@@ -2,7 +2,7 @@
 
 | Role        | Staff                                   |
 |-------------|-----------------------------------------|
-| Translation | niconico                                |
+| Translation | Aniplex                                 |
 | Editing     | Kyhz?                                   |
 | Typesetting | Xythar?                                 |
 | Timing      | Xythar?                                 |
