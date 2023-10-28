@@ -1,15 +1,15 @@
 ## Staff
 
-| Role              | Staff                               |
-|-------------------|-------------------------------------|
-| Translation       | blak(?), vale(?)                    |
-| Translation Check | -                                   |
-| Editing           | The Fresh Prince of Bel-Air (koda?) |
-| Typesetting       | netorare                            |
-| Styling           | -                                   |
-| Timing            | Jaka                                |
-| Encoding          | Jaka                                |
-| Quality Control   | -                                   |
+| Role              | Staff                                     |
+|-------------------|-------------------------------------------|
+| Translation       | blak(?), vale(?)                          |
+| Translation Check | -                                         |
+| Editing           | The Fresh Prince of Bel-Air (Will_Smith?) |
+| Typesetting       | netorare                                  |
+| Styling           | -                                         |
+| Timing            | Jaka                                      |
+| Encoding          | Jaka                                      |
+| Quality Control   | -                                         |
 
 ## Release Info
 
