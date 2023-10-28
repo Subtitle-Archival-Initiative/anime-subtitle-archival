@@ -1,0 +1,573 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,48,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: Default-alt,Gandhi Sans,48,&H00FFFFFF,&H000000FF,&H00582209,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: Songs/Signs,Gandhi Sans,48,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:06.96,0:00:08.96,Default,,0,0,0,,Sasami Report...
+Dialogue: 10,0:00:10.42,0:00:11.75,Default,,0,0,0,,Chapter 3.
+Dialogue: 10,0:00:11.75,0:00:12.79,Default,,0,0,0,,The second draft.
+Dialogue: 10,0:00:14.12,0:00:16.83,Default,,0,0,0,,In this country, gods reside in everything.
+Dialogue: 10,0:00:17.58,0:00:20.88,Default,,0,0,0,,These gods are called the Yaoyorozu:\Nthe Eight Million Gods.
+Dialogue: 10,0:00:21.38,0:00:26.83,Default,,0,0,0,,From the pebbles on the streets to the architecture,\Ncraftwork, animals, grass,
+Dialogue: 10,0:00:26.96,0:00:34.25,Default,,0,0,0,,the weather and even the laws of physics...\Nthey reside in and control everything.
+Dialogue: 10,0:00:38.21,0:00:41.21,Default,,0,0,0,,There are rankings of divinity.
+Dialogue: 10,0:00:41.46,0:00:47.17,Default,,0,0,0,,The gods with higher divinity control\Nlower-ranked gods and alter them to their will.
+Dialogue: 10,0:00:47.46,0:00:49.79,Default,,0,0,0,,This is called Alteration.
+Dialogue: 10,0:00:50.38,0:00:56.79,Default,,0,0,0,,The highest ranked god, she who controls\Nall the others, is Great God Amaterasu.
+Dialogue: 10,0:00:57.79,0:01:03.08,Default,,0,0,0,,All gods alter themselves\Naccording to Amaterasu's wishes...
+Dialogue: 10,0:01:04.75,0:01:08.29,Default,,0,0,0,,...so that they could form the world\Nin the exact way the Supreme God desires.
+Dialogue: 10,0:01:08.42,0:01:15.08,Default,,0,0,0,,That great power was once inherited,\Nmaintained and controlled by me.
+Dialogue: 10,0:01:15.67,0:01:16.38,Default,,0,0,0,,However...
+Dialogue: 10,0:01:18.54,0:01:23.67,Default,,0,0,0,,...the power of Amaterasu currently resides\Ninside my big brother, of all places.
+Dialogue: 10,0:01:24.08,0:01:27.62,Default,,0,0,0,,In other words, it's no exaggeration\Nto say my brother is God.
+Dialogue: 10,0:01:30.50,0:01:33.29,Default,,0,0,0,,So when my brother wishes for something,
+Dialogue: 10,0:01:33.42,0:01:38.33,Default,,0,0,0,,the Yaoyorozu conduct alterations\Nin order to make him happy at times.
+Dialogue: 10,0:01:38.50,0:01:42.04,Default,,0,0,0,,The disaster which occurred on\NValentine's Day was one of them.
+Dialogue: 10,0:01:42.25,0:01:49.00,Default,,0,0,0,,The gods turned my body into chocolate\Nand made me implore him to eat.
+Dialogue: 10,0:01:49.67,0:01:54.00,Default,,0,0,0,,But fortunately, thanks to the Yagami sisters,\NTsurugi, Kagami and Tama,
+Dialogue: 10,0:01:54.12,0:01:55.71,Default,,0,0,0,,the Alteration was stopped and brought under control.
+Dialogue: 10,0:01:55.83,0:01:58.33,Default,,0,0,0,,It's not clear who they really are.
+Dialogue: 10,0:01:58.58,0:02:03.08,Default,,0,0,0,,But I'm sure that they're psychics with\Na very high-ranked divinity.
+Dialogue: 10,0:02:03.79,0:02:09.00,Default,,0,0,0,,In conclusion, continuous surveillance is needed\Nfor not only my brother, but those girls as well.
+Dialogue: 10,0:02:09.62,0:02:10.17,Default,,0,0,0,,The end.
+Dialogue: 10,0:02:11.67,0:02:12.58,Default,,0,0,0,,Sasami Tsukuyomi.
+Dialogue: 10,0:04:02.88,0:04:04.58,Default,,0,0,0,,Yes! I won!
+Dialogue: 10,0:04:07.46,0:04:08.96,Default,,0,0,0,,Shut up, you idiot!
+Dialogue: 10,0:04:09.12,0:04:13.71,Default,,0,0,0,,First of all you're so childish for getting\Nexcited over winning a game, you idiot!
+Dialogue: 10,0:04:14.17,0:04:16.00,Default,,0,0,0,,Yawn.
+Dialogue: 10,0:04:16.00,0:04:17.83,Default,,0,0,0,,You're so loud; shut up.
+Dialogue: 10,0:04:18.25,0:04:20.46,Default,,0,0,0,,We're in class, you know.
+Dialogue: 10,0:04:20.75,0:04:22.54,Default,,0,0,0,,Look at your delinquent behavior.
+Dialogue: 10,0:04:22.54,0:04:27.17,Default,,0,0,0,,As a student and as your younger sister,\NI'm embarrassed.
+Dialogue: 10,0:04:27.42,0:04:29.17,Default,,0,0,0,,As a teacher and as your older sister,
+Dialogue: 10,0:04:29.17,0:04:31.75,Default,,0,0,0,,I don't want to hear that from someone\Nwho's been sleeping up until just now!
+Dialogue: 10,0:04:32.04,0:04:34.00,Default,,0,0,0,,I finished the drill a long time ago.
+Dialogue: 10,0:04:34.42,0:04:37.46,Default,,0,0,0,,But I don't have anyone who'd\Ngo through all the answers with me.
+Dialogue: 10,0:04:38.25,0:04:40.75,Default,,0,0,0,,You know what? Don't we have too many absentees?
+Dialogue: 10,0:04:41.92,0:04:44.75,Default,,0,0,0,,It's been like this for a while now.
+Dialogue: 10,0:04:44.75,0:04:46.46,Default,,0,0,0,,Oh, is that right?
+Dialogue: 10,0:04:46.46,0:04:49.67,Default,,0,0,0,,Pay attention, will you? You're a teacher, aren't you?
+Dialogue: 10,0:04:49.79,0:04:54.38,Default,,0,0,0,,We teachers aren't as concerned about\Nour students as you students think we are.
+Dialogue: 10,0:04:54.38,0:04:57.75,Default,,0,0,0,,I didn't have to know such a harsh reality.
+Dialogue: 10,0:04:57.75,0:05:01.62,Default,,0,0,0,,Jeez, you're so irritating! Can't you speak clearly?
+Dialogue: 10,0:05:01.62,0:05:02.96,Default,,0,0,0,,Obviously it's strange, right?!
+Dialogue: 10,0:05:02.96,0:05:04.79,Default,,0,0,0,,Why are so many of them absent?
+Dialogue: 10,0:05:05.50,0:05:07.08,Default,,0,0,0,,Take a look at this.
+Dialogue: 10,0:05:07.08,0:05:08.00,Default,,0,0,0,,What's that?
+Dialogue: 10,0:05:08.00,0:05:12.96,Default,,0,0,0,,This is the Yamata no Orochi SNS, which is\Nsuper popular right now among young people.
+Dialogue: 10,0:05:12.96,0:05:15.58,Default,,0,0,0,,"Yamata no Orochi SNS"?
+Dialogue: 10,0:05:15.58,0:05:21.12,Default,,0,0,0,,Put simply, it's the sword & magic academy\Nfantasy Social Networking System.
+Dialogue: 10,0:05:21.12,0:05:27.50,Default,,0,0,0,,Basically, this one, this one and this one are\Nthe students who are absent from school today.
+Dialogue: 10,0:05:27.50,0:05:30.46,Default,,0,0,0,,They're playing in this\Ninternet world all day at home.
+Dialogue: 10,0:05:30.46,0:05:32.50,Default,,0,0,0,,Is it that fun?
+Dialogue: 10,0:05:32.62,0:05:33.71,Default,,0,0,0,,I don't know.
+Dialogue: 10,0:05:33.71,0:05:38.33,Default,,0,0,0,,Three years ago they were going to shut it down\Nbecause it wasn't profitable enough
+Dialogue: 10,0:05:38.33,0:05:40.79,Default,,0,0,0,,due to the fact that game balance was\Ntotally off and the game system was so lame.
+Dialogue: 10,0:05:40.79,0:05:45.25,Default,,0,0,0,,But for some reason the popularity\Npicked up again so they're still here today.
+Dialogue: 10,0:05:46.92,0:05:48.54,Default,,0,0,0,,I guess I'll give it a try too.
+Dialogue: 10,0:05:48.54,0:05:52.54,Default,,0,0,0,,Oh? So you're interested in it?\NIs that an Alteration?
+Dialogue: 10,0:05:52.75,0:05:56.00,Default,,0,0,0,,Tsukuyomi, your sister has a computer, right?
+Dialogue: 10,0:05:56.25,0:05:56.92,Default,,0,0,0,,Yes.
+Dialogue: 10,0:05:57.25,0:05:59.29,Default,,0,0,0,,She's got about ten of them.
+Dialogue: 10,0:06:01.21,0:06:03.46,Default,,0,0,0,,So let me borrow your computer.
+Dialogue: 10,0:06:05.88,0:06:07.46,Default,,0,0,0,,Stuffed animals!
+Dialogue: 10,0:06:08.54,0:06:09.79,Default,,0,0,0,,Yawn.
+Dialogue: 10,0:06:09.79,0:06:10.96,Default,,0,0,0,,This is pretty nice.
+Dialogue: 10,0:06:12.50,0:06:17.00,Default,,0,0,0,,I'm not going to nag you about\Nnot coming to school, so help me out a little.
+Dialogue: 10,0:06:24.58,0:06:26.71,Default,,0,0,0,,How many computers does one person need anyway?
+Dialogue: 10,0:06:26.71,0:06:28.88,Default,,0,0,0,,I bet you don't have that many purposes for them.
+Dialogue: 10,0:06:28.88,0:06:30.04,Default,,0,0,0,,I do.
+Dialogue: 10,0:06:30.04,0:06:34.29,Default,,0,0,0,,I use them for games, surfing the net, watching videos,\Nlistening to music, games and games...
+Dialogue: 10,0:06:34.29,0:06:36.08,Default,,0,0,0,,How many times are you going to say games?!
+Dialogue: 10,0:06:36.08,0:06:37.38,Default,,0,0,0,,I use different ones for different things.
+Dialogue: 10,0:06:38.17,0:06:41.25,Default,,0,0,0,,Let's see... I've never done anything like this before.
+Dialogue: 10,0:06:41.83,0:06:43.79,Default,,0,0,0,,You know a lot about the internet, right?
+Dialogue: 10,0:06:43.79,0:06:45.96,Default,,0,0,0,,Why don't you join us, Sasami?
+Dialogue: 10,0:06:45.96,0:06:48.17,Default,,0,0,0,,What? N-no, thanks.
+Dialogue: 10,0:06:48.42,0:06:51.83,Default,,0,0,0,,I don't understand the point of stuff like that anyway.
+Dialogue: 10,0:06:51.83,0:06:54.71,Default,,0,0,0,,Don't tell me you're hikikomori on the internet, too.
+Dialogue: 10,0:06:55.96,0:07:02.33,Default,,0,0,0,,I can never tell them that I'm a hardcore gamer who's\Nlogged thousands of hours on Yamata no Orochi SNS
+Dialogue: 10,0:07:02.46,0:07:06.46,Default,,0,0,0,,and created this, the most powerful character\Nequipped with super rare items!
+Dialogue: 10,0:07:07.04,0:07:11.62,Default,,0,0,0,,S-so tell me what's happening\Non that Yamata no whatsit?
+Dialogue: 10,0:07:11.62,0:07:12.75,Default,,0,0,0,,I'm not sure.
+Dialogue: 10,0:07:12.75,0:07:18.04,Default,,0,0,0,,But we should shut down anything suspicious.\NI don't want to wait until it's too late.
+Dialogue: 10,0:07:18.04,0:07:22.04,Default,,0,0,0,,It'd be bad if this turned out to be like\Nthe Valentine's Day Disaster.
+Dialogue: 10,0:07:22.33,0:07:23.29,Default,,0,0,0,,Crap...
+Dialogue: 10,0:07:23.42,0:07:28.00,Default,,0,0,0,,What if they determine Yamata no Orochi\Nis corrupted and shut it down?
+Dialogue: 10,0:07:28.17,0:07:30.83,Default,,0,0,0,,What's going to happen to my\Nexperience points, gold and Orochi rank,
+Dialogue: 10,0:07:30.96,0:07:33.79,Default,,0,0,0,,all the items and all those hours that I've spent on it?
+Dialogue: 10,0:07:35.38,0:07:37.75,Default,,0,0,0,,I must stop it from happening no matter what!
+Dialogue: 10,0:07:38.21,0:07:40.38,Default,,0,0,0,,All right, it's done! Let's get it started!
+Dialogue: 10,0:07:43.46,0:07:45.67,Default,,0,0,0,,Welcome to Takamagahara Academy!
+Dialogue: 10,0:07:45.67,0:07:48.79,Default,,0,0,0,,Before we let the entry ceremony begin,\Nwill you tell me about you?
+Dialogue: 10,0:07:48.79,0:07:51.62,Default,,0,0,0,,Wh-wh-wh-what am I supposed to do?
+Dialogue: 10,0:07:52.42,0:07:54.50,Default,,0,0,0,,First, you have to create a character.
+Dialogue: 10,0:07:54.50,0:07:57.46,Default,,0,0,0,,I want to advance through the game quickly\Nso I'm going to be a Fighter.
+Dialogue: 10,0:07:57.88,0:08:01.21,Default,,0,0,0,,Oh? Your real job is this one, isn't it?
+Dialogue: 10,0:08:01.21,0:08:01.96,Default,,0,0,0,,What?
+Dialogue: 10,0:08:02.08,0:08:03.67,Default,,0,0,0,,You're lucky, Big Sis.
+Dialogue: 10,0:08:03.67,0:08:06.21,Default,,0,0,0,,That's a rare message that doesn't pop up often.
+Dialogue: 10,0:08:06.21,0:08:08.46,Default,,0,0,0,,You'll get to pick a rare job.
+Dialogue: 10,0:08:08.46,0:08:09.67,Default,,0,0,0,,Really?
+Dialogue: 10,0:08:09.67,0:08:12.96,Default,,0,0,0,,Tsurugin's real job is... This one!
+Dialogue: 10,0:08:16.21,0:08:17.21,Default,,0,0,0,,It's Bancho!
+Dialogue: 10,0:08:17.21,0:08:18.67,Default,,0,0,0,,What the heck?!
+Dialogue: 10,0:08:18.83,0:08:21.00,Default,,0,0,0,,Is "Bancho" even a job?
+Dialogue: 10,0:08:22.50,0:08:25.21,Default,,0,0,0,,Enjoy your school life!
+Dialogue: 10,0:08:26.54,0:08:28.38,Default,,0,0,0,,Oops!
+Dialogue: 10,0:08:28.50,0:08:30.58,Default,,0,0,0,,My hand slipped!
+Dialogue: 10,0:08:31.42,0:08:32.54,Default,,0,0,0,,Oh no!
+Dialogue: 10,0:08:32.54,0:08:34.46,Default,,0,0,0,,I broke the router!
+Dialogue: 10,0:08:35.38,0:08:37.33,Default,,0,0,0,,Hey, what are you doing?
+Dialogue: 10,0:08:37.33,0:08:40.38,Default,,0,0,0,,I'm sorry! You can't use the internet anymore today.
+Dialogue: 10,0:08:41.46,0:08:43.42,Default,,0,0,0,,You have nothing to worry about.
+Dialogue: 10,0:08:44.25,0:08:46.46,Default,,0,0,0,,I have my own high-speed internet.
+Dialogue: 10,0:08:51.54,0:08:53.08,Default,,0,0,0,,Mine is complete too.
+Dialogue: 10,0:08:54.96,0:08:57.75,Default,,0,0,0,,I figured that we need at least one healer.
+Dialogue: 10,0:09:05.54,0:09:06.33,Default,,0,0,0,,Are you a nurse?
+Dialogue: 10,0:09:06.33,0:09:07.29,Default,,0,0,0,,I'm a vet.
+Dialogue: 10,0:09:07.88,0:09:09.92,Default,,0,0,0,,I'm not interested in ordinary humans.
+Dialogue: 10,0:09:15.46,0:09:17.88,Default,,0,0,0,,Can a vet heal humans?
+Dialogue: 10,0:09:19.42,0:09:22.25,Default,,0,0,0,,You go to sleep whenever it's\Ninconvenient for you, don't you?
+Dialogue: 10,0:09:24.46,0:09:29.08,Default,,0,0,0,,I'm sorry! It looks like the breaker is tripped.
+Dialogue: 10,0:09:29.08,0:09:31.42,Default,,0,0,0,,You guys didn't save the game, did you?
+Dialogue: 10,0:09:31.75,0:09:33.67,Default,,0,0,0,,You might as well give up for today and...
+Dialogue: 10,0:09:36.08,0:09:37.71,Default,,0,0,0,,Tama did it too!
+Dialogue: 10,0:09:40.29,0:09:42.58,Default,,0,0,0,,My job is patissier!
+Dialogue: 10,0:09:42.58,0:09:45.50,Default,,0,0,0,,I'm going to make all the sweets I want and eat them!
+Dialogue: 10,0:09:45.67,0:09:48.75,Default,,0,0,0,,Oh no! Everyone's using a laptop with a battery...
+Dialogue: 10,0:09:51.25,0:09:53.75,Default,,0,0,0,,I still hadn't saved my report!
+Dialogue: 10,0:09:53.75,0:09:56.29,Default,,0,0,0,,Hey, Tsukuyomi, go turn on the breaker.
+Dialogue: 10,0:09:56.29,0:09:57.54,Default,,0,0,0,,Yes, right away.
+Dialogue: 10,0:10:00.71,0:10:03.00,Default,,0,0,0,,Hurry up! We're waiting!
+Dialogue: 10,0:10:03.12,0:10:05.46,Default,,0,0,0,,Yes, I'm going to do it right now.
+Dialogue: 10,0:10:05.88,0:10:08.21,Default,,0,0,0,,Oh, it looks like it's timed out.
+Dialogue: 10,0:10:08.42,0:10:11.58,Default,,0,0,0,,Can't you even pick an option on the game?
+Dialogue: 10,0:10:11.71,0:10:15.38,Default,,0,0,0,,I'm sure you're a slow person who can't decide\Nanything on your own in real life either!
+Dialogue: 10,0:10:15.54,0:10:18.46,Default,,0,0,0,,I bet you wish to fulfill your relationships\Nwith others on the internet,
+Dialogue: 10,0:10:18.46,0:10:20.67,Default,,0,0,0,,but things aren't that easy here, either, you moron!
+Dialogue: 10,0:10:21.33,0:10:24.71,Default,,0,0,0,,Have I done anything to make you treat me this way?
+Dialogue: 10,0:10:24.71,0:10:28.12,Default,,0,0,0,,Stuff like this is perfect for a moron like you!
+Dialogue: 10,0:10:29.92,0:10:32.46,Default,,0,0,0,,Your job is... Loser?
+Dialogue: 10,0:10:32.46,0:10:34.46,Default,,0,0,0,,I'm not even wearing anything?
+Dialogue: 10,0:10:34.79,0:10:37.67,Default,,0,0,0,,Big Brother... You're lame in the game, too.
+Dialogue: 10,0:10:38.25,0:10:41.00,Default,,0,0,0,,Enjoy your school life!
+Dialogue: 10,0:10:44.38,0:10:46.75,Default,,0,0,0,,All right! The real game starts now.
+Dialogue: 10,0:10:46.75,0:10:48.96,Default,,0,0,0,,Guys, don't overlook any symptoms of the Alteration.
+Dialogue: 10,0:10:48.96,0:10:51.79,Default,,0,0,0,,I couldn't stop them...
+Dialogue: 10,0:10:51.79,0:10:57.38,Default,,0,0,0,,To think Project Blackout, Project Birdlime,\NProject Swooning-Madame have all failed...!
+Dialogue: 10,0:10:57.50,0:11:00.33,Default,,0,0,0,,So, what's next?
+Dialogue: 10,0:11:00.33,0:11:02.21,Default,,0,0,0,,There's no rule.
+Dialogue: 10,0:11:02.38,0:11:05.67,Default,,0,0,0,,You can do whatever you please in this world.
+Dialogue: 10,0:11:05.67,0:11:07.71,Default,,0,0,0,,Where's the fun in that?
+Dialogue: 10,0:11:07.71,0:11:12.17,Default,,0,0,0,,Isn't it fun enough to do whatever you please\Nin real life, not in the game world?
+Dialogue: 10,0:11:12.29,0:11:13.42,Default,,0,0,0,,Only you would think that.
+Dialogue: 10,0:11:14.08,0:11:17.25,Default,,0,0,0,,By the way, you can't even serve me\Nsome tea around here?
+Dialogue: 10,0:11:17.46,0:11:19.42,Default,,0,0,0,,Stop doing whatever you please here!
+Dialogue: 10,0:11:19.42,0:11:20.79,Default,,0,0,0,,I'll bring it right away!
+Dialogue: 10,0:11:20.92,0:11:23.08,Default,,0,0,0,,It'd be great if you have some snacks like potato chips.
+Dialogue: 10,0:11:23.08,0:11:24.33,Default,,0,0,0,,Be more modest!
+Dialogue: 10,0:11:24.46,0:11:25.92,Default,,0,0,0,,Tama wants a chocolate parfait!
+Dialogue: 10,0:11:25.92,0:11:27.75,Default,,0,0,0,,Make your own, you patissier!
+Dialogue: 10,0:11:29.29,0:11:30.75,Default,,0,0,0,,Thank you for waiting.
+Dialogue: 10,0:11:30.75,0:11:32.96,Default,,0,0,0,,Thanks. I didn't mean to press you or anything.
+Dialogue: 10,0:11:32.96,0:11:34.42,Default,,0,0,0,,You DID press him!
+Dialogue: 10,0:11:38.12,0:11:38.83,Default,,0,0,0,,What's that?
+Dialogue: 10,0:11:38.83,0:11:41.04,Default,,0,0,0,,Don't you touch it with those dirty fingers!
+Dialogue: 10,0:11:41.04,0:11:42.12,Default,,0,0,0,,You're getting potato chip grease on the keyboard!
+Dialogue: 10,0:11:42.12,0:11:43.12,Default,,0,0,0,,Big deal.
+Dialogue: 10,0:11:43.12,0:11:45.04,Default,,0,0,0,,No! Use chopsticks!
+Dialogue: 10,0:11:45.04,0:11:47.08,Default,,0,0,0,,Don't be a pain in the butt!
+Dialogue: 10,0:11:48.67,0:11:53.04,Default,,0,0,0,,You can't be that way, Big Sis.\NHikikomoris have their own rules, too.
+Dialogue: 10,0:11:53.17,0:11:55.21,Default,,0,0,0,,For instance, you're supposed to\Nbreak potato chips like this.
+Dialogue: 10,0:11:55.21,0:11:57.62,Default,,0,0,0,,If you eat it directly from the bag,\Nyou don't have to use your fingers.
+Dialogue: 10,0:11:57.83,0:11:59.62,Default,,0,0,0,,You're so smart!
+Dialogue: 10,0:12:00.21,0:12:01.12,Default,,0,0,0,,All right!
+Dialogue: 10,0:12:03.29,0:12:04.54,Default,,0,0,0,,What are you doing?
+Dialogue: 10,0:12:04.96,0:12:09.12,Default,,0,0,0,,It'll be okay as long as I eat it within 30 seconds.
+Dialogue: 10,0:12:09.12,0:12:10.58,Default,,0,0,0,,I'm not talking about potato chips!
+Dialogue: 10,0:12:11.12,0:12:12.12,Default,,0,0,0,,Chopsticks come in handy!
+Dialogue: 10,0:12:13.42,0:12:14.62,Default,,0,0,0,,Vacuum! Vacuum!
+Dialogue: 10,0:12:17.38,0:12:20.54,Default,,0,0,0,,Aren't you awfully quiet?
+Dialogue: 10,0:12:20.54,0:12:22.12,Default,,0,0,0,,Nothing much is going on.
+Dialogue: 10,0:12:22.25,0:12:23.29,Default,,0,0,0,,Is something wrong?
+Dialogue: 10,0:12:23.29,0:12:24.88,Default,,0,0,0,,Nothing!
+Dialogue: 10,0:12:26.33,0:12:27.67,Default,,0,0,0,,Let me see it.
+Dialogue: 10,0:12:27.67,0:12:28.92,Default,,0,0,0,,No, don't look!
+Dialogue: 10,0:12:30.79,0:12:32.92,Default,,0,0,0,,I told you not to look...
+Dialogue: 10,0:12:32.92,0:12:35.00,Default,,0,0,0,,I don't care! Just turn it off!
+Dialogue: 10,0:12:35.25,0:12:37.33,Default,,0,0,0,,You have these manga?
+Dialogue: 10,0:12:37.33,0:12:39.33,Default,,0,0,0,,I've been wanting to read it!
+Dialogue: 10,0:12:39.33,0:12:41.75,Default,,0,0,0,,For the last time, don't you touch it\Nwith those greasy fingers!
+Dialogue: 10,0:12:41.75,0:12:43.04,Default,,0,0,0,,Same difference as long as I can read it.
+Dialogue: 10,0:12:43.04,0:12:44.96,Default,,0,0,0,,That's the first edition!\NYou're lowering the premium value!
+Dialogue: 10,0:12:44.96,0:12:46.58,Default,,0,0,0,,Whatever. It doesn't make any difference.
+Dialogue: 10,0:12:47.25,0:12:49.17,Default,,0,0,0,,Don't you throw the sleeve away!
+Dialogue: 10,0:12:50.46,0:12:53.33,Default,,0,0,0,,Oh? I haven't watched this movie yet.
+Dialogue: 10,0:12:53.33,0:12:56.38,Default,,0,0,0,,Don't you open it without my permission!\NI haven't even opened it yet!
+Dialogue: 10,0:12:56.38,0:12:58.67,Default,,0,0,0,,Hey, what am I supposed to do with this?
+Dialogue: 10,0:12:58.83,0:13:00.92,Default,,0,0,0,,"Would you like to turn it back to the\Nfactory setting"? What's that?
+Dialogue: 10,0:13:02.04,0:13:02.79,Default,,0,0,0,,There!
+Dialogue: 10,0:13:04.29,0:13:06.00,Default,,0,0,0,,Oh, no! My party!
+Dialogue: 10,0:13:07.96,0:13:12.83,Default,,0,0,0,,I can't... I can't endure these\Nsimultaneous terrorist acts all by myself.
+Dialogue: 10,0:13:12.83,0:13:14.08,Default,,0,0,0,,My biggest blunder!
+Dialogue: 10,0:13:14.33,0:13:17.67,Default,,0,0,0,,The moment I let these people in here,\Nthe outcome was already decided.
+Dialogue: 10,0:13:18.04,0:13:19.00,Default,,0,0,0,,Hey, you!
+Dialogue: 10,0:13:19.00,0:13:20.75,Default,,0,0,0,,Keep it down\Nduring class, will ya?
+Dialogue: 10,0:13:21.67,0:13:25.79,Default,,0,0,0,,It hit ME! I was just listening to the class!
+Dialogue: 10,0:13:26.33,0:13:27.29,Default,,0,0,0,,Oh...
+Dialogue: 10,0:13:28.00,0:13:30.04,Default,,0,0,0,,Kamiomi has died.
+Dialogue: 10,0:13:30.04,0:13:31.62,Default,,0,0,0,,I DIED?!
+Dialogue: 10,0:13:31.88,0:13:34.88,Default,,0,0,0,,Oh, boy, Kamiomi. You're dead?
+Dialogue: 10,0:13:34.88,0:13:36.71,Default,,0,0,0,,Someone take him to the nurse's office.
+Dialogue: 10,0:13:36.71,0:13:38.04,Default,,0,0,0,,Is that how you handle this?
+Dialogue: 10,0:13:40.25,0:13:43.12,Default,,0,0,0,,Let's revive Mr. Tsukuyomi.
+Dialogue: 10,0:13:43.79,0:13:45.42,Default,,0,0,0,,So what are we supposed to do?
+Dialogue: 10,0:13:46.88,0:13:49.67,Default,,0,0,0,,Mini game, "Naughty Nurse's Office" has begun.
+Dialogue: 10,0:13:50.29,0:13:50.92,Default,,0,0,0,,What?
+Dialogue: 10,0:13:51.29,0:13:54.71,Default,,0,0,0,,Try different things within a limited time and revive him.
+Dialogue: 10,0:13:54.71,0:13:56.12,Default,,0,0,0,,Let's see...
+Dialogue: 10,0:13:56.46,0:13:57.62,Default,,0,0,0,,How about this?
+Dialogue: 10,0:13:58.42,0:14:00.88,Default,,0,0,0,,Tama cooled Kamiomi's head.
+Dialogue: 10,0:14:00.88,0:14:03.38,Default,,0,0,0,,That's what you do for a cold!
+Dialogue: 10,0:14:04.12,0:14:05.67,Default,,0,0,0,,Kamiomi has revived.
+Dialogue: 10,0:14:05.67,0:14:06.92,Default,,0,0,0,,Why?
+Dialogue: 10,0:14:06.92,0:14:09.12,Default,,0,0,0,,Tama, you saved me!
+Dialogue: 10,0:14:09.42,0:14:11.83,Default,,0,0,0,,Kamiomi's likeability went up by 20 points.
+Dialogue: 10,0:14:12.25,0:14:14.08,Default,,0,0,0,,Likeability? What's that?
+Dialogue: 10,0:14:14.08,0:14:15.71,Default,,0,0,0,,When your likeability goes up,
+Dialogue: 10,0:14:15.71,0:14:19.58,Default,,0,0,0,,you can marry another character and\Ncreate a kid character together.
+Dialogue: 10,0:14:19.58,0:14:21.71,Default,,0,0,0,,What? You can make babies?!
+Dialogue: 10,0:14:21.71,0:14:24.00,Default,,0,0,0,,If that's the case I need to get in on that!
+Dialogue: 10,0:14:24.21,0:14:28.79,Default,,0,0,0,,The bed in the nurse's office is a spot\Nwhere naughty stuff could easily happen!
+Dialogue: 10,0:14:29.04,0:14:31.17,Default,,0,0,0,,Come on, Tsukuyomi! Take off your clothes!
+Dialogue: 10,0:14:31.17,0:14:32.67,Default,,0,0,0,,What? Me, too?
+Dialogue: 10,0:14:34.88,0:14:37.96,Default,,0,0,0,,You're no young girl,\Nso shut up.
+Dialogue: 10,0:14:38.29,0:14:42.04,Default,,0,0,0,,You're right. I'm no young girl, but I don't think\Nthe story should go that direction.
+Dialogue: 10,0:14:43.12,0:14:45.33,Default,,0,0,0,,I'm scared! I'm scared!
+Dialogue: 10,0:14:45.33,0:14:48.92,Default,,0,0,0,,Big Sis Tsurugi and Papa-lin\Nare doing strange things naked!
+Dialogue: 10,0:14:50.08,0:14:52.29,Default,,0,0,0,,Please stop traumatizing the elementary school student.
+Dialogue: 10,0:14:53.79,0:14:55.83,Default,,0,0,0,,Just give it up! Give it up!
+Dialogue: 10,0:14:55.83,0:14:58.12,Default,,0,0,0,,Don't be so cruel, Miss Tsurugi!
+Dialogue: 10,0:14:58.12,0:14:59.71,Default,,0,0,0,,I understand this is just a game,\Nbut please don't go any further!
+Dialogue: 10,0:14:59.71,0:15:01.71,Default,,0,0,0,,The more you refuse, the more excited I get!
+Dialogue: 10,0:15:01.71,0:15:03.54,Default,,0,0,0,,How do you like this? Take this!
+Dialogue: 10,0:15:06.21,0:15:09.33,Default,,0,0,0,,What do you think you're doing to my big brother?!
+Dialogue: 10,0:15:09.54,0:15:10.38,Default,,0,0,0,,Wh-what's that?
+Dialogue: 10,0:15:10.67,0:15:12.58,Default,,0,0,0,,Is this you?
+Dialogue: 10,0:15:12.71,0:15:15.04,Default,,0,0,0,,She looks super strong!
+Dialogue: 10,0:15:15.29,0:15:17.12,Default,,0,0,0,,I can't believe you, Big Brother!
+Dialogue: 10,0:15:17.12,0:15:19.67,Default,,0,0,0,,I understand it's just a game,\Nbut I wish you'd resisted her a little more!
+Dialogue: 10,0:15:19.67,0:15:21.21,Default,,0,0,0,,Moron! Pervert! Hmph!
+Dialogue: 10,0:15:21.21,0:15:25.50,Default,,0,0,0,,Just go ahead and fall in love with\Na game character and get married to her!
+Dialogue: 10,0:15:25.50,0:15:29.17,Default,,0,0,0,,You always-in-heat good-for-nothing SCUM!
+Dialogue: 10,0:15:29.29,0:15:32.00,Default,,0,0,0,,Sasami is inside the game.
+Dialogue: 10,0:15:32.25,0:15:35.54,Default,,0,0,0,,And she's being a cutesy tsundere\Nwhile she's yelling at me.
+Dialogue: 10,0:15:36.88,0:15:37.71,Default,,0,0,0,,Get away from me!
+Dialogue: 10,0:15:40.67,0:15:42.42,Default,,0,0,0,,Kamiomi has died.
+Dialogue: 10,0:15:46.46,0:15:50.83,Default,,0,0,0,,So have you been playing Yamata no Orochi SNS\Nwhile skipping school all this time?!
+Dialogue: 10,0:15:51.12,0:15:55.88,Default,,0,0,0,,No, actually I was shopping online, watching videos\Nand reading net idols' blogs, too...
+Dialogue: 10,0:15:55.88,0:15:56.83,Default,,0,0,0,,It's the same thing!
+Dialogue: 10,0:15:56.83,0:15:59.83,Default,,0,0,0,,But I'm not the only one hooked on this game.
+Dialogue: 10,0:16:01.42,0:16:03.54,Default,,0,0,0,,Here's what I learned upon hacking the site operator.
+Dialogue: 10,0:16:03.54,0:16:06.46,Default,,0,0,0,,It seems that about ten thousand people\Nhave gone hikikomori because of this game.
+Dialogue: 10,0:16:06.75,0:16:08.38,Default,,0,0,0,,I wonder what the purpose is.
+Dialogue: 10,0:16:08.38,0:16:12.04,Default,,0,0,0,,I don't know. I have no idea what the enemy is after.
+Dialogue: 10,0:16:12.38,0:16:14.38,Default,,0,0,0,,Big Sis Tsurugi...
+Dialogue: 10,0:16:15.04,0:16:17.04,Default,,0,0,0,,I just discovered something really big!
+Dialogue: 10,0:16:17.42,0:16:18.17,Default,,0,0,0,,What happened?
+Dialogue: 10,0:16:18.54,0:16:19.83,Default,,0,0,0,,I have to...
+Dialogue: 10,0:16:20.21,0:16:21.25,Default,,0,0,0,,I have to...
+Dialogue: 10,0:16:21.58,0:16:23.04,Default,,0,0,0,,I have to go to the bathroom!
+Dialogue: 10,0:16:23.25,0:16:24.79,Default,,0,0,0,,You should've gone earlier!
+Dialogue: 10,0:16:25.46,0:16:27.96,Default,,0,0,0,,I want you to come with me, Big Sis Tsurugi!
+Dialogue: 10,0:16:28.21,0:16:31.38,Default,,0,0,0,,You're in elementary school. You should be\Nable to go to the bathroom by yourself.
+Dialogue: 10,0:16:31.67,0:16:33.62,Default,,0,0,0,,I know this is a tragic truth, but...
+Dialogue: 10,0:16:33.96,0:16:37.58,Default,,0,0,0,,Humanity hasn't reached that level just yet!
+Dialogue: 10,0:16:37.71,0:16:39.33,Default,,0,0,0,,I don't get it!
+Dialogue: 10,0:16:39.79,0:16:42.29,Default,,0,0,0,,We'll be right back, so you guys go on without us.
+Dialogue: 10,0:16:43.33,0:16:45.46,Default,,0,0,0,,So, what are you going to do?
+Dialogue: 10,0:16:45.79,0:16:49.62,Default,,0,0,0,,We should keep going for now.\NFirst, let's go back to the classroom...
+Dialogue: 10,0:16:53.04,0:16:54.46,Default,,0,0,0,,What is this?
+Dialogue: 10,0:16:54.92,0:16:57.08,Default,,0,0,0,,What happened?
+Dialogue: 10,0:16:57.08,0:16:58.38,Default,,0,0,0,,Check it out.
+Dialogue: 10,0:16:59.67,0:17:02.71,Default,,0,0,0,,Those lights... Players' psychic energy?
+Dialogue: 10,0:17:05.58,0:17:08.46,Default,,0,0,0,,That thing is absorbing the psychic energy...
+Dialogue: 10,0:17:09.12,0:17:10.46,Default,,0,0,0,,It's the Demon King's troops.
+Dialogue: 10,0:17:10.88,0:17:15.21,Default,,0,0,0,,I feel this powerful force coming from them.\NIt has extremely high-levels of divinity...
+Dialogue: 10,0:17:15.92,0:17:17.04,Default,,0,0,0,,Kagami?!
+Dialogue: 10,0:17:18.12,0:17:20.08,Default,,0,0,0,,Aargh! Owww...
+Dialogue: 10,0:17:20.50,0:17:23.58,Default,,0,0,0,,Oh? Where am I? What just happened?
+Dialogue: 10,0:17:25.04,0:17:28.08,Default,,0,0,0,,Oh, no! Big Brother, get out of here...
+Dialogue: 10,0:17:37.38,0:17:39.04,Default,,0,0,0,,Owww...
+Dialogue: 10,0:17:41.29,0:17:42.96,Default,,0,0,0,,This is mind-boggling.
+Dialogue: 10,0:17:43.54,0:17:49.12,Default,,0,0,0,,It seems that our consciousnesses\Nhave been sucked into the Yamata no Orochi SNS.
+Dialogue: 10,0:17:50.46,0:17:53.50,Default,,0,0,0,,So that means the Alteration really happened?
+Dialogue: 10,0:17:58.79,0:18:00.67,Default,,0,0,0,,Yamata no Orochi...
+Dialogue: 10,0:18:24.96,0:18:26.88,Default,,0,0,0,,Its divinity level is way too high.
+Dialogue: 10,0:18:27.50,0:18:30.46,Default,,0,0,0,,It must've grown bigger by eating\Nthe players' psychic energies.
+Dialogue: 10,0:18:30.46,0:18:31.50,Default,,0,0,0,,No way...
+Dialogue: 10,0:18:31.75,0:18:34.12,Default,,0,0,0,,At any rate this is beyond comprehension.
+Dialogue: 10,0:18:34.12,0:18:37.62,Default,,0,0,0,,It's grown that big, but why isn't it doing anything?
+Dialogue: 10,0:18:38.21,0:18:44.54,Default,,0,0,0,,If it's a god of ill intent, it could manipulate\Nthe players and infiltrate the real world...
+Dialogue: 10,0:18:46.25,0:18:50.62,Default,,0,0,0,,But all it's doing is devouring sacrifices and nothing else.
+Dialogue: 10,0:18:51.62,0:18:52.83,Default,,0,0,0,,It's a mystery.
+Dialogue: 10,0:18:53.75,0:19:00.00,Default,,0,0,0,,With that power, I'm sure it could invade\Nthe real world and build its own kingdom, too.
+Dialogue: 10,0:19:00.17,0:19:02.25,Default,,0,0,0,,He's not interested in reality.
+Dialogue: 10,0:19:03.92,0:19:06.38,Default,,0,0,0,,He just wants to maintain this world. That's all.
+Dialogue: 10,0:19:07.04,0:19:12.62,Default,,0,0,0,,He hopes that this alternate world is eternal.\NThat's all he exists for.
+Dialogue: 10,0:19:12.62,0:19:14.04,Default,,0,0,0,,What does that mean?
+Dialogue: 10,0:19:15.12,0:19:17.29,Default,,0,0,0,,He smells like us.
+Dialogue: 10,0:19:17.75,0:19:21.04,Default,,0,0,0,,This level of divinity indicates that\Nit's some kind of Supreme God.
+Dialogue: 10,0:19:22.33,0:19:26.29,Default,,0,0,0,,In other words, it's a monster\NSasami unintentionally created.
+Dialogue: 10,0:19:27.92,0:19:30.29,Default,,0,0,0,,I learned something after checking your profile.
+Dialogue: 10,0:19:30.29,0:19:33.04,Default,,0,0,0,,You've been playing here for the past three years, right?
+Dialogue: 10,0:19:34.92,0:19:37.38,Default,,0,0,0,,In order to escape from the harsh reality...
+Dialogue: 10,0:19:37.42,0:19:42.04,Default,,0,0,0,,In order to escape the hardship of your daily training,\Nyou've been playing here, right?
+Dialogue: 10,0:19:43.62,0:19:45.04,Default,,0,0,0,,You wished for something.
+Dialogue: 10,0:19:46.25,0:19:50.79,Default,,0,0,0,,Three years ago this place was on the verge of collapse,\Nbut suddenly it started growing rapidly.
+Dialogue: 10,0:19:51.08,0:19:52.67,Default,,0,0,0,,The timelines match, don't they?
+Dialogue: 10,0:19:53.17,0:19:58.21,Default,,0,0,0,,He's been protecting this playground you found.
+Dialogue: 10,0:19:59.83,0:20:03.92,Default,,0,0,0,,Is that what I wished for?
+Dialogue: 10,0:20:05.62,0:20:14.71,Default,,0,0,0,,Is this what I wished for and created\Nwhen I still possessed the Power of God? Really?
+Dialogue: 10,0:20:17.50,0:20:19.00,Default,,0,0,0,,I see...
+Dialogue: 10,0:20:19.33,0:20:22.71,Default,,0,0,0,,He's been protecting this world all this time.
+Dialogue: 10,0:20:24.54,0:20:27.00,Default,,0,0,0,,You know what to do, right?
+Dialogue: 10,0:20:27.38,0:20:27.96,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:20:28.67,0:20:30.96,Default,,0,0,0,,His job is done.
+Dialogue: 10,0:20:30.96,0:20:32.75,Default,,0,0,0,,You need to let him know that.
+Dialogue: 10,0:20:37.04,0:20:39.96,Default,,0,0,0,,In the name of Sasami Tsukuyomi I order you!
+Dialogue: 10,0:20:40.75,0:20:42.38,Default,,0,0,0,,O raging god...
+Dialogue: 10,0:20:44.79,0:20:45.62,Default,,0,0,0,,You will calm yourself!
+Dialogue: 10,0:20:47.12,0:20:51.12,Default,,0,0,0,,Diffuse and melt into the world and go to sleep!
+Dialogue: 10,0:20:53.12,0:20:55.08,Default,,0,0,0,,I'm okay.
+Dialogue: 10,0:20:55.38,0:20:57.62,Default,,0,0,0,,I have a pretty happy life!
+Dialogue: 10,0:21:00.04,0:21:05.38,Default,,0,0,0,,So I want you to know that you don't\Nhave to work so hard anymore, either.
+Dialogue: 10,0:22:16.96,0:22:21.12,Default,,0,0,0,,Now it's time for you to get up on the stage, Sasami!
+Dialogue: 10,0:22:21.12,0:22:23.62,Default,,0,0,0,,I'm going to make sure you sing this time!
+Dialogue: 10,0:22:23.62,0:22:29.00,Default,,0,0,0,,Here, here, grab your mic.\NAre you ready? Here, come on!
+Dialogue: 10,0:22:30.58,0:22:33.88,Default,,0,0,0,,Oh no? You can't even respond?
+Dialogue: 10,0:22:34.17,0:22:36.12,Default,,0,0,0,,You seriously don't want to do this, do you?
+Dialogue: 10,0:22:36.12,0:22:39.08,Default,,0,0,0,,Ah, the song started....
+Dialogue: 10,0:22:39.42,0:22:42.88,Default,,0,0,0,,At this rate this is going to be a broadcast error.
+Dialogue: 10,0:22:42.88,0:22:51.00,Default,,0,0,0,,But don't worry! Your beloved Big Brother\Nis going to hype it up for you!
+Dialogue: 10,0:22:54.04,0:22:55.38,Default,,0,0,0,,Yeah!
+Dialogue: 10,0:22:56.62,0:22:58.38,Default,,0,0,0,,Come on!
+Dialogue: 10,0:23:01.42,0:23:03.75,Default,,0,0,0,,Cha-cha-cha!
+Dialogue: 10,0:23:08.58,0:23:10.00,Default,,0,0,0,,Yo!
+Dialogue: 10,0:23:12.21,0:23:13.54,Default,,0,0,0,,Hoo!
+Dialogue: 10,0:23:14.62,0:23:18.42,Default,,0,0,0,,Hoo, I say!
+Dialogue: 10,0:23:21.79,0:23:23.62,Default,,0,0,0,,I did my best...
+Dialogue: 10,0:23:23.62,0:23:25.88,Default,,0,0,0,,I shouted with all my heart!
+Dialogue: 10,0:23:26.54,0:23:30.79,Default,,0,0,0,,But you still don't seem up for it...
+Dialogue: 10,0:23:31.71,0:23:36.83,Default,,0,0,0,,You'd better do something about this\Notherwise this project is a bust!
+Dialogue: 10,0:23:37.88,0:23:43.17,Default,,0,0,0,,Oh yeah! Why don't I ask the Yagami sisters\Nto help me out next time?
+Dialogue: 10,0:23:50.00,0:23:52.58,Default,,0,0,0,,It's time for Ganbaranai weather forecast.
+Dialogue: 10,0:23:52.79,0:23:57.92,Default,,0,0,0,,I'm going to stay home from morning to evening,\Nso I don't care about today's forecast.
+Dialogue: 10,0:23:57.92,0:24:02.58,Default,,0,0,0,,I'll be home at night, late night and tomorrow\Nmorning, too, so I really don't care.
+Dialogue: 10,0:24:02.58,0:24:06.83,Default,,0,0,0,,But the sunlight wakes me up when\Nit's nice outside, which is very annoying.
+Dialogue: 10,0:24:06.83,0:24:09.58,Default,,0,0,0,,Whoever invented blackout curtains is a genius.
+Dialogue: 10,0:24:09.58,0:24:14.08,Default,,0,0,0,,Next time, Episode 3,\N"You work, you lose"
+Dialogue: 0,0:00:06.67,0:00:07.04,Songs/Signs,,0,413,0,,{\pos(563,324)\an7\fs63}Sasami
+Dialogue: 0,0:00:07.58,0:00:07.96,Songs/Signs,,0,579,0,,{\pos(729,324)\an7\fs63}Sasami Re
+Dialogue: 0,0:00:08.46,0:00:08.96,Songs/Signs,,0,413,0,,{\pos(563,324)\an7\fs63}Report
+Dialogue: 0,0:00:11.08,0:00:12.04,Songs/Signs,,0,336,0,,{\pos(486,324)\an7\fs63}CHAPTER 3
+Dialogue: 0,0:00:12.29,0:00:12.79,Songs/Signs,,0,221,0,,{\pos(371,324)\an7\fs63}THE SECOND DRAFT
+Dialogue: 0,0:00:15.83,0:00:16.83,Songs/Signs,,0,387,0,,{\pos(537,324)\an7\fs63}...reside...
+Dialogue: 0,0:00:32.21,0:00:34.25,Songs/Signs,,0,362,0,,{\pos(512,324)\an7\fs63}...control...
+Dialogue: 0,0:00:47.17,0:00:49.79,Songs/Signs,,0,246,0,,{\pos(396,324)\an7\fs63}...called "Alteration".
+Dialogue: 0,0:00:54.04,0:00:56.79,Songs/Signs,,0,234,0,,{\pos(384,309)\an7\fs55}Sasami Report Chapter 3,
+Dialogue: 0,0:00:54.04,0:00:56.79,Songs/Signs,,0,362,0,,{\pos(512,360)\an7\fs55}Second Draft
+Dialogue: 0,0:01:01.75,0:01:02.88,Songs/Signs,,0,42,0,,{\pos(192,144)\an7\fs63}"Alteration" "Alteration" "Alteration"
+Dialogue: 0,0:01:01.75,0:01:02.88,Songs/Signs,,0,29,0,,{\pos(179,316)\an7\fs63}"Alteration" "Alteration" "Alteration"
+Dialogue: 0,0:01:01.75,0:01:02.88,Songs/Signs,,0,29,0,,{\pos(179,482)\an7\fs63}"Alteration" "Alteration" "Alteration"
+Dialogue: 0,0:01:03.08,0:01:03.79,Songs/Signs,,0,298,0,,{\pos(448,216)\an7\fs32}WHAT DO YOU WANT
+Dialogue: 0,0:01:03.08,0:01:03.79,Songs/Signs,,0,349,0,,{\pos(499,266)\an7\fs32}TO SEARCH? 
+Dialogue: 0,0:01:03.09,0:01:03.79,Songs/Signs,,0,272,0,,{\pos(422,367)\an7\fs32}OPTION (O)   SEARCH (S)
+Dialogue: 0,0:01:04.75,0:01:08.29,Songs/Signs,,0,1,0,,{\pos(102,115)\an7\fs48}YOU WILL BE ELIMINATED.
+Dialogue: 0,0:01:04.75,0:01:08.29,Songs/Signs,,0,16,0,,{\pos(166,338)\an7\fs48}OPTION (O)                      SEARCH (S)
+Dialogue: 0,0:01:08.29,0:01:11.33,Songs/Signs,,0,387,0,,{\pos(537,324)\an7\fs63}the way!
+Dialogue: 0,0:01:11.42,0:01:13.96,Songs/Signs,,0,413,0,,{\pos(563,324)\an7\fs63}by me.
+Dialogue: 0,0:01:26.79,0:01:27.62,Songs/Signs,,0,298,0,,{\pos(448,324)\an7\fs63}"Supreme God"
+Dialogue: 0,0:02:09.17,0:02:10.17,Songs/Signs,,0,387,0,,{\pos(537,324)\an7\fs63}The end.
+Dialogue: 0,0:02:11.58,0:02:13.08,Songs/Signs,,0,272,0,,{\pos(422,324)\an7\fs63}Sasami Tsukuyomi
+Dialogue: 0,0:02:17.17,0:02:20.46,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Kamisama no yubisaki de dekiagaru
+Dialogue: 0,0:02:20.46,0:02:23.21,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Watashi no kisetsu tachi
+Dialogue: 0,0:02:23.21,0:02:26.08,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Hoshizora yori mo haruka ni nagai
+Dialogue: 0,0:02:26.46,0:02:32.71,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Nemuri wo yusaburu uta
+Dialogue: 0,0:02:32.71,0:02:39.96,Songs/Signs,,0,323,0,,{\pos(473,309)\an7\fs40}Sasami-san
+Dialogue: 0,0:02:32.71,0:02:39.96,Songs/Signs,,0,451,0,,{\pos(601,360)\an7\fs40}@Ganbaranai
+Dialogue: 0,0:02:41.88,0:02:44.58,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Mimi wo fusaide hito ni magireru to
+Dialogue: 0,0:02:44.88,0:02:47.58,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Watashi ga kieta mitai datta
+Dialogue: 0,0:02:47.79,0:02:49.83,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Kokoro wo enjiru niwa
+Dialogue: 0,0:02:50.08,0:02:53.67,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Zatsuon wo eraberu hodo otonaja nai
+Dialogue: 0,0:02:53.88,0:02:56.50,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Deatta kouya no hana
+Dialogue: 0,0:02:56.50,0:02:59.33,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Kowakute yasashikute
+Dialogue: 0,0:02:59.33,0:03:02.12,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Fureta shunkan ni diorama datte hontou ni naru
+Dialogue: 0,0:03:02.12,0:03:06.42,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Fureta shunkan ni diorama datte hontou ni naru
+Dialogue: 0,0:03:06.79,0:03:12.92,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Kamisama no itazura de egakareta watashino miraichizu
+Dialogue: 0,0:03:12.92,0:03:15.50,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Ikusen no neiro ga hibiku kara
+Dialogue: 0,0:03:15.50,0:03:18.67,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Oikakete kuru ashita wo kowasu
+Dialogue: 0,0:03:18.79,0:03:21.71,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Hoshizora no shita de yorisou kizuna
+Dialogue: 0,0:03:21.92,0:03:24.54,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Nukumori ga mieta yo
+Dialogue: 0,0:03:24.96,0:03:27.96,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Kizutsukete tsukuridasu kizuna
+Dialogue: 0,0:03:27.96,0:03:34.29,Songs/Signs,,0,0,0,,{\pos(640,612)\an5\fs40}Mamoritai no wa sonna kizuna
+Dialogue: 0,0:03:45.04,0:03:45.92,Songs/Signs,,0,1,0,,{\pos(102,259)\an7\fs48}Sasamisan @
+Dialogue: 0,0:03:45.04,0:03:45.92,Songs/Signs,,0,1,0,,{\pos(128,309)\an7\fs48}Ganbaranai
+Dialogue: 0,0:03:45.92,0:03:48.00,Songs/Signs,,0,771,0,,{\pos(921,259)\an7\fs48}Sasamisan @
+Dialogue: 0,0:03:45.92,0:03:48.00,Songs/Signs,,0,3,0,,{\pos(153,316)\an7\fs48}EPISODE 2                                              Ganbaranai
+Dialogue: 0,0:03:45.92,0:03:48.00,Songs/Signs,,0,1,0,,{\pos(140,367)\an7\fs48}"SECURITY PERSONNEL AT HOME"
+Dialogue: 0,0:05:04.04,0:05:04.42,Songs/Signs,,0,1,0,,{\pos(102,57)\an7\fs32}Under Year 1 - Right Class
+Dialogue: 0,0:05:04.04,0:05:04.42,Songs/Signs,,0,541,0,,{\pos(691,331)\an7\fs32}Hi!!
+Dialogue: 0,0:05:04.04,0:05:04.42,Songs/Signs,,0,413,0,,{\pos(563,381)\an7\fs32}Hi!
+Dialogue: 0,0:05:04.04,0:05:04.42,Songs/Signs,,0,1,0,,{\pos(102,439)\an7\fs32}CHAT LOG
+Dialogue: 0,0:05:04.42,0:05:04.54,Songs/Signs,,0,886,0,,{\pos(1036,446)\an7\fs32}Yesterday
+Dialogue: 0,0:05:04.42,0:05:04.54,Songs/Signs,,0,886,0,,{\pos(1036,496)\an7\fs32}was fun... 
+Dialogue: 0,0:05:04.42,0:05:04.54,Songs/Signs,,0,0,0,,{\pos(640,554)\an5\fs32}Got more SP!
+Dialogue: 0,0:05:04.54,0:05:04.67,Songs/Signs,,0,0,0,,{\pos(640,504)\an5\fs32}Yesterday
+Dialogue: 0,0:05:04.54,0:05:04.67,Songs/Signs,,0,0,0,,{\pos(640,554)\an5\fs32}was fun... 
+Dialogue: 0,0:05:04.67,0:05:04.79,Songs/Signs,,0,682,0,,{\pos(832,360)\an7\fs32}I wish I was
+Dialogue: 0,0:05:04.67,0:05:04.79,Songs/Signs,,0,669,0,,{\pos(819,410)\an7\fs32}that high level
+Dialogue: 0,0:05:04.79,0:05:05.08,Songs/Signs,,0,682,0,,{\pos(832,360)\an7\fs32}I wish I was
+Dialogue: 0,0:05:04.79,0:05:05.08,Songs/Signs,,0,669,0,,{\pos(819,410)\an7\fs32}that high level
+Dialogue: 0,0:05:04.79,0:05:05.08,Songs/Signs,,0,810,0,,{\pos(960,482)\an7\fs32}Roger that!
+Dialogue: 0,0:05:22.21,0:05:22.62,Songs/Signs,,0,400,0,,{\pos(550,295)\an7\fs40}She's sleeping.
+Dialogue: 0,0:05:22.75,0:05:22.96,Songs/Signs,,0,80,0,,{\pos(230,216)\an7\fs32}Teacher is coming.
+Dialogue: 0,0:05:22.75,0:05:22.96,Songs/Signs,,0,438,0,,{\pos(588,302)\an7\fs32}Seriously???
+Dialogue: 0,0:05:22.96,0:05:23.17,Songs/Signs,,0,80,0,,{\pos(230,216)\an7\fs32}Teacher is coming.
+Dialogue: 0,0:06:23.04,0:06:24.00,Songs/Signs,,0,323,0,,{\pos(473,208)\an7\fs48}YAMATA NO OROCHI
+Dialogue: 0,0:06:23.04,0:06:24.00,Songs/Signs,,0,374,0,,{\pos(524,388)\an7\fs32}User ID
+Dialogue: 0,0:06:23.04,0:06:24.00,Songs/Signs,,0,374,0,,{\pos(524,468)\an7\fs32}Password
+Dialogue: 0,0:06:51.83,0:06:53.83,Songs/Signs,,0,1,0,,{\pos(102,57)\an7\fs40}Note: Hikikomori are socially withdrawn people, or shut-ins.
+Dialogue: 0,0:07:57.46,0:07:58.21,Songs/Signs,,0,643,0,,{\pos(793,151)\an7\fs32}Job Options
+Dialogue: 0,0:07:57.46,0:07:58.21,Songs/Signs,,0,0,0,,{\pos(640,504)\an5\fs32}Next
+Dialogue: 0,0:08:14.96,0:08:15.92,Songs/Signs,,0,29,0,,{\pos(179,100)\an7\fs24}NAME: TSURUGI
+Dialogue: 0,0:08:14.96,0:08:15.92,Songs/Signs,,0,835,0,,{\pos(985,50)\an7\fs24}HP: 80
+Dialogue: 0,0:08:14.96,0:08:15.92,Songs/Signs,,0,54,0,,{\pos(204,0)\an7\fs24}SEX: FEMALE
+Dialogue: 0,0:08:14.96,0:08:15.92,Songs/Signs,,0,771,0,,{\pos(921,50)\an7\fs24}DEFENSE: POWER
+Dialogue: 0,0:08:14.97,0:08:15.92,Songs/Signs,,0,886,0,,{\pos(1036,100)\an7\fs24}JACKET
+Dialogue: 0,0:08:14.97,0:08:15.92,Songs/Signs,,0,42,0,,{\pos(192,151)\an7\fs24}AGE: 16
+Dialogue: 0,0:08:14.97,0:08:15.92,Songs/Signs,,0,733,0,,{\pos(883,201)\an7\fs24}RIGHT HAND: WOODEN
+Dialogue: 0,0:08:14.97,0:08:15.92,Songs/Signs,,0,886,0,,{\pos(1036,252)\an7\fs24}SWORD 
+Dialogue: 0,0:08:14.97,0:08:15.92,Songs/Signs,,0,29,0,,{\pos(179,302)\an7\fs24}TRIBE: HUMAN
+Dialogue: 0,0:08:14.96,0:08:15.92,Songs/Signs,,0,771,0,,{\pos(921,352)\an7\fs24}DEFAULT
+Dialogue: 0,0:08:14.96,0:08:15.92,Songs/Signs,,0,746,0,,{\pos(896,403)\an7\fs24}EQUIPMENT: CIGS X 3 
+Dialogue: 0,0:08:14.96,0:08:15.92,Songs/Signs,,0,42,0,,{\pos(192,453)\an7\fs24}JOB: BANCHO
+Dialogue: 0,0:08:14.96,0:08:15.92,Songs/Signs,,0,0,0,,{\pos(640,504)\an5\fs24}SPECIAL MOVE: YELL
+Dialogue: 0,0:08:16.54,0:08:18.50,Songs/Signs,,0,1,0,,{\pos(102,57)\an7\fs40}Note: Bancho is the leader of a group of delinquents at school.
+Dialogue: 0,0:08:34.46,0:08:35.38,Songs/Signs,,0,170,0,,{\pos(320,302)\an7\fs40}Connection interrupted. 
+Dialogue: 0,0:08:34.46,0:08:35.38,Songs/Signs,,0,170,0,,{\pos(320,352)\an7\fs40}Check your network connection. 
+Dialogue: 0,0:09:03.50,0:09:04.79,Songs/Signs,,0,349,0,,{\pos(499,244)\an7\fs32}REGULAR ELECTRIC
+Dialogue: 0,0:09:03.50,0:09:04.79,Songs/Signs,,0,374,0,,{\pos(524,295)\an7\fs32}ENERGY METER 
+Dialogue: 0,0:09:03.50,0:09:04.79,Songs/Signs,,0,272,0,,{\pos(422,453)\an7\fs32}Shikaku Electric Co., Ltd Made in 1988
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,29,0,,{\pos(179,93)\an7\fs24}NAME: KAGAMI
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,835,0,,{\pos(985,43)\an7\fs24}HP: 50
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,54,0,,{\pos(204,7)\an7\fs24}SEX: FEMALE
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,746,0,,{\pos(896,57)\an7\fs24}DEFENSE: UNIFORM -3
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,861,0,,{\pos(1011,108)\an7\fs24}NURSECAP -3
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,42,0,,{\pos(192,158)\an7\fs24}AGE: 16
+Dialogue: 0,0:09:09.93,0:09:10.25,Songs/Signs,,0,707,0,,{\pos(857,208)\an7\fs24}RIGHT HAND: SYRINGE
+Dialogue: 0,0:09:09.93,0:09:10.25,Songs/Signs,,0,29,0,,{\pos(179,259)\an7\fs24}TRIBE: ELF
+Dialogue: 0,0:09:09.93,0:09:10.25,Songs/Signs,,0,746,0,,{\pos(896,309)\an7\fs24}DEFAULT
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,720,0,,{\pos(870,360)\an7\fs24}EQUIPMENT: ANESTHETIC x3
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,42,0,,{\pos(192,410)\an7\fs24}JOB: VETERINARIAN
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,746,0,,{\pos(896,460)\an7\fs24}SPECIAL
+Dialogue: 0,0:09:09.92,0:09:10.25,Songs/Signs,,0,0,0,,{\pos(640,511)\an5\fs24}MOVE: ANESTHETIZE
+Dialogue: 0,0:09:39.58,0:09:40.00,Songs/Signs,,0,16,0,,{\pos(166,93)\an7\fs24}NAME: TAMA
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,861,0,,{\pos(1011,43)\an7\fs24}HP: 50
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,42,0,,{\pos(192,7)\an7\fs24}SEX: FEMALE
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,784,0,,{\pos(934,57)\an7\fs24}DEFENSE: MAID
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,899,0,,{\pos(1049,108)\an7\fs24}UNIFORM 
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,42,0,,{\pos(192,158)\an7\fs24}AGE: 16
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,758,0,,{\pos(908,208)\an7\fs24}RIGHT HAND: KNIFE
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,16,0,,{\pos(166,259)\an7\fs24}TRIBE: MAGICIAN
+Dialogue: 0,0:09:39.60,0:09:40.00,Songs/Signs,,0,758,0,,{\pos(908,309)\an7\fs24}DEFAULT
+Dialogue: 0,0:09:39.58,0:09:40.00,Songs/Signs,,0,758,0,,{\pos(908,360)\an7\fs24}EQUIPMENT: NONE 
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,42,0,,{\pos(192,410)\an7\fs24}JOB: PATISSIER
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,733,0,,{\pos(883,460)\an7\fs24}SPECIAL MOVE: CUT INTO
+Dialogue: 0,0:09:39.59,0:09:40.00,Songs/Signs,,0,0,0,,{\pos(640,511)\an5\fs24}STRIPS 
+Dialogue: 0,0:10:27.00,0:10:28.79,Songs/Signs,,0,707,0,,{\pos(857,64)\an7\fs40}Yamata no
+Dialogue: 0,0:10:27.00,0:10:28.79,Songs/Signs,,0,746,0,,{\pos(896,115)\an7\fs40}Orochi
+Dialogue: 0,0:10:27.00,0:10:28.79,Songs/Signs,,0,746,0,,{\pos(896,165)\an7\fs40}Online
+Dialogue: 0,0:10:29.33,0:10:29.92,Songs/Signs,,0,490,0,,{\pos(640,50)\an7\fs24}NAME: KAMIOMI
+Dialogue: 0,0:10:29.34,0:10:29.92,Songs/Signs,,0,848,0,,{\pos(998,100)\an7\fs24}HP: 20
+Dialogue: 0,0:10:29.34,0:10:29.92,Songs/Signs,,0,515,0,,{\pos(665,151)\an7\fs24}SEX: MALE
+Dialogue: 0,0:10:29.34,0:10:29.92,Songs/Signs,,0,784,0,,{\pos(934,201)\an7\fs24}DEFENSE: NONE
+Dialogue: 0,0:10:29.34,0:10:29.92,Songs/Signs,,0,502,0,,{\pos(652,252)\an7\fs24}AGE: 16
+Dialogue: 0,0:10:29.34,0:10:29.92,Songs/Signs,,0,746,0,,{\pos(896,302)\an7\fs24}RIGHT HAND: NONE
+Dialogue: 0,0:10:29.34,0:10:29.92,Songs/Signs,,0,490,0,,{\pos(640,352)\an7\fs24}TRIBE: HUMAN
+Dialogue: 0,0:10:29.34,0:10:29.92,Songs/Signs,,0,720,0,,{\pos(870,403)\an7\fs24}DEFAULT EQUIPMENT: NONE
+Dialogue: 0,0:10:29.34,0:10:29.92,Songs/Signs,,0,515,0,,{\pos(665,453)\an7\fs24}JOB: LOSER
+Dialogue: 0,0:10:29.33,0:10:29.92,Songs/Signs,,0,0,0,,{\pos(640,504)\an5\fs24}SPECIAL MOVE: SERVANT
+Dialogue: 0,0:10:43.29,0:10:44.08,Songs/Signs,,0,1,0,,{\pos(102,432)\an7\fs40}Chat Log
+Dialogue: 0,0:13:02.29,0:13:02.79,Songs/Signs,,0,1,0,,{\pos(102,244)\an7\fs40}Setting the machine
+Dialogue: 0,0:13:02.29,0:13:02.79,Songs/Signs,,0,1,0,,{\pos(102,295)\an7\fs40}back to factory setting
+Dialogue: 0,0:13:02.29,0:13:02.79,Songs/Signs,,0,1,0,,{\pos(102,345)\an7\fs40}Please wait a while
+Dialogue: 0,0:13:02.79,0:13:03.29,Songs/Signs,,0,362,0,,{\pos(512,352)\an7\fs40}Machine Reset
+Dialogue: 0,0:13:17.67,0:13:19.25,Songs/Signs,,0,1,0,,{\pos(102,403)\an7\fs24}CHAT LOG
+Dialogue: 0,0:13:17.67,0:13:19.25,Songs/Signs,,0,1,0,,{\pos(102,453)\an7\fs24}Maintenance outage
+Dialogue: 0,0:13:17.67,0:13:19.25,Songs/Signs,,0,0,0,,{\pos(640,504)\an5\fs24}expected from 11pm-12am
+Dialogue: 0,0:13:19.25,0:13:21.38,Songs/Signs,,0,1,0,,{\pos(102,352)\an7\fs24}CHAT LOG
+Dialogue: 0,0:13:19.25,0:13:21.38,Songs/Signs,,0,1,0,,{\pos(102,403)\an7\fs24}Headquarters:
+Dialogue: 0,0:13:19.25,0:13:21.38,Songs/Signs,,0,1,0,,{\pos(102,453)\an7\fs24}500-People-Campaign
+Dialogue: 0,0:13:19.25,0:13:21.38,Songs/Signs,,0,0,0,,{\pos(640,504)\an5\fs24}Accomplished! 7 Wonders Event
+Dialogue: 0,0:13:19.25,0:13:21.38,Songs/Signs,,0,0,0,,{\pos(640,554)\an5\fs24}"Art Room" is now open
+Dialogue: 0,0:13:25.79,0:13:27.29,Songs/Signs,,0,93,0,,{\pos(243,79)\an7\fs48}Chat Log
+Dialogue: 0,0:13:25.79,0:13:27.29,Songs/Signs,,0,54,0,,{\pos(204,288)\an7\fs48}Kibamaru: Hey 
+Dialogue: 0,0:13:25.79,0:13:27.29,Songs/Signs,,0,54,0,,{\pos(204,352)\an7\fs48}Kibamaru: You
+Dialogue: 0,0:13:25.79,0:13:27.29,Songs/Signs,,0,54,0,,{\pos(204,417)\an7\fs48}Kibamaru: Keep it down during class, will ya?
+Dialogue: 0,0:13:25.79,0:13:27.29,Songs/Signs,,0,54,0,,{\pos(204,482)\an7\fs48}Kamiomi received 2 damages.
+Dialogue: 0,0:13:25.80,0:13:27.29,Songs/Signs,,0,0,0,,{\pos(640,547)\an5\fs48}Kamiomi has died.
+Dialogue: 0,0:13:45.42,0:13:47.42,Songs/Signs,,0,323,0,,{\pos(473,309)\an7\fs63}MINI GAME
+Dialogue: 0,0:13:47.42,0:13:49.67,Songs/Signs,,0,323,0,,{\pos(473,237)\an7\fs71}NAUGHTY
+Dialogue: 0,0:13:47.42,0:13:49.67,Songs/Signs,,0,349,0,,{\pos(499,309)\an7\fs71}NURSE'S
+Dialogue: 0,0:13:47.42,0:13:49.67,Songs/Signs,,0,374,0,,{\pos(524,374)\an7\fs71}OFFICE
+Dialogue: 0,0:13:49.67,0:13:50.92,Songs/Signs,,0,1,0,,{\pos(102,417)\an7\fs24}CHAT LOG
+Dialogue: 0,0:13:49.67,0:13:50.92,Songs/Signs,,0,1,0,,{\pos(102,468)\an7\fs24}Kamiomi has died.
+Dialogue: 0,0:13:49.67,0:13:50.92,Songs/Signs,,0,0,0,,{\pos(640,518)\an5\fs24}Minigame "Naughty Nurse's Office"
+Dialogue: 0,0:13:49.67,0:13:50.92,Songs/Signs,,0,0,0,,{\pos(640,568)\an5\fs24}has begun.
+Dialogue: 0,0:13:58.21,0:14:00.88,Songs/Signs,,0,1,0,,{\pos(102,439)\an7\fs24}CHAT LOG
+Dialogue: 0,0:13:58.21,0:14:00.88,Songs/Signs,,0,0,0,,{\pos(640,568)\an5\fs24}Tama cooled Kamiomi's head.
+Dialogue: 0,0:14:03.92,0:14:05.67,Songs/Signs,,0,80,0,,{\pos(230,108)\an7\fs48}CHAT LOG
+Dialogue: 0,0:14:03.92,0:14:05.67,Songs/Signs,,0,67,0,,{\pos(217,439)\an7\fs48}Tama cooled Kamiomi's head.
+Dialogue: 0,0:14:03.92,0:14:05.67,Songs/Signs,,0,67,0,,{\pos(217,489)\an7\fs48}Kamiomi was revived.
+Dialogue: 0,0:14:09.12,0:14:11.83,Songs/Signs,,0,67,0,,{\pos(217,108)\an7\fs48}CHAT LOG
+Dialogue: 0,0:14:09.13,0:14:11.83,Songs/Signs,,0,67,0,,{\pos(217,345)\an7\fs48}Tama cooled Kamiomi's head.
+Dialogue: 0,0:14:09.13,0:14:11.83,Songs/Signs,,0,67,0,,{\pos(217,403)\an7\fs48}Kamiomi was revived.
+Dialogue: 0,0:14:09.13,0:14:11.83,Songs/Signs,,0,67,0,,{\pos(217,468)\an7\fs48}Kamiomi's likeability went up by 20 points.
+Dialogue: 0,0:15:32.08,0:15:34.29,Songs/Signs,,0,387,0,,{\pos(537,100)\an7\fs48}SCUM!
+Dialogue: 0,0:15:37.71,0:15:40.25,Songs/Signs,,0,1,0,,{\pos(102,381)\an7\fs24}CHAT LOG
+Dialogue: 0,0:15:37.71,0:15:40.25,Songs/Signs,,0,1,0,,{\pos(102,432)\an7\fs24}Kamiomi's likeability
+Dialogue: 0,0:15:37.71,0:15:40.25,Songs/Signs,,0,1,0,,{\pos(102,482)\an7\fs24}went up by 20 points. 
+Dialogue: 0,0:15:37.71,0:15:40.25,Songs/Signs,,0,0,0,,{\pos(640,532)\an5\fs24}Sasami has logged in
+Dialogue: 0,0:15:37.71,0:15:40.25,Songs/Signs,,0,0,0,,{\pos(640,583)\an5\fs24}Sasami: Scum!
+Dialogue: 0,0:15:37.71,0:15:40.25,Songs/Signs,,0,0,0,,{\pos(640,633)\an5\fs24}Kamiomi received 9999 damages.
+Dialogue: 0,0:15:40.25,0:15:42.42,Songs/Signs,,0,80,0,,{\pos(230,86)\an7\fs48}CHAT LOG
+Dialogue: 0,0:15:40.25,0:15:42.42,Songs/Signs,,0,54,0,,{\pos(204,288)\an7\fs48}Kamiomi's likeability went up by 20 points.
+Dialogue: 0,0:15:40.25,0:15:42.42,Songs/Signs,,0,54,0,,{\pos(204,352)\an7\fs48}Sasami has logged in.
+Dialogue: 0,0:15:40.25,0:15:42.42,Songs/Signs,,0,54,0,,{\pos(204,417)\an7\fs48}Sasami: Scum!
+Dialogue: 0,0:15:40.25,0:15:42.42,Songs/Signs,,0,54,0,,{\pos(204,482)\an7\fs48}Kamiomi received 9999 damages.
+Dialogue: 0,0:15:40.25,0:15:42.42,Songs/Signs,,0,0,0,,{\pos(640,547)\an5\fs48}Kamiomi has died.
+Dialogue: 0,0:17:41.00,0:17:42.96,Songs/Signs,,0,42,0,,{\pos(192,165)\an7\fs48}PLAY
+Dialogue: 0,0:17:41.00,0:17:42.96,Songs/Signs,,0,42,0,,{\pos(192,216)\an7\fs48}HARD
+Dialogue: 0,0:21:45.08,0:21:46.58,Songs/Signs,,0,323,0,,{\pos(473,252)\an7\fs48}WHEN YOU WAKE UP,
+Dialogue: 0,0:21:45.08,0:21:46.58,Songs/Signs,,0,349,0,,{\pos(499,324)\an7\fs48}I WANT YOU TO
+Dialogue: 0,0:21:45.09,0:21:46.58,Songs/Signs,,0,272,0,,{\pos(422,388)\an7\fs48}SLEEP IN YOUR BED.
+Dialogue: 0,0:21:48.58,0:21:51.58,Songs/Signs,,0,131,0,,{\pos(281,388)\an7\fs40}IMPORTANT MESSAGE TO OUR CUSTOMERS
+Dialogue: 0,0:21:48.58,0:21:51.58,Songs/Signs,,0,208,0,,{\pos(358,439)\an7\fs40}Yamata no Orochi SNS is temporarily down
+Dialogue: 0,0:21:48.59,0:21:51.58,Songs/Signs,,0,208,0,,{\pos(358,489)\an7\fs40}due to system issues.
+Dialogue: 0,0:23:46.04,0:23:52.79,Songs/Signs,,0,246,0,,{\pos(396,324)\an7\fs63}WEATHER FORECAST
+Dialogue: 0,0:23:52.79,0:24:09.58,Songs/Signs,,0,3,0,,{\pos(153,79)\an7\fs40}TODAY'S FORECAST
+Dialogue: 0,0:24:09.58,0:24:12.21,Songs/Signs,,0,400,0,,{\pos(550,331)\an7\fs48}Episode 3
+Dialogue: 0,0:24:12.21,0:24:16.08,Songs/Signs,,0,272,0,,{\pos(422,345)\an7\fs48}"You Work, You Lose"
