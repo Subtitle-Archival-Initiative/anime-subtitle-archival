@@ -1,0 +1,368 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0005,0
+Style: Default - italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Title,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,0
+Style: Sign16A,Arial,26,&H00B7C6B8,&H000000FF,&H004F584E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.07,0:00:04.85,Default,Risei,0000,0000,0000,,I apologize for the delay.
+Dialogue: 0,0:00:04.85,0:00:08.52,Default,Risei,0000,0000,0000,,It's been a rather hectic night.
+Dialogue: 0,0:00:10.19,0:00:12.43,Default,Kaye,0000,0000,0000,,I understand.
+Dialogue: 0,0:00:12.43,0:00:14.40,Default,Kaye,0000,0000,0000,,It is quite a situation.
+Dialogue: 0,0:00:14.40,0:00:17.66,Default,Kaye,0000,0000,0000,,I imagine covering it up \Nwill prove challenging.
+Dialogue: 0,0:00:17.66,0:00:19.25,Default,Risei,0000,0000,0000,,Yes, well...
+Dialogue: 0,0:00:19.80,0:00:23.81,Default,Risei,0000,0000,0000,,It is certainly too much for the Church alone.
+Dialogue: 0,0:00:24.36,0:00:28.46,Default,Risei,0000,0000,0000,,We intend to accept any offers of help.
+Dialogue: 0,0:00:29.28,0:00:31.76,Default,Kaye,0000,0000,0000,,Moving on, Father...
+Dialogue: 0,0:00:32.92,0:00:36.98,Default,Kaye,0000,0000,0000,,Have you reached a decision \Nregarding my request?
+Dialogue: 0,0:00:37.49,0:00:42.44,Default,Kaye,0000,0000,0000,,As relates to the bounty \Noffered for Caster's defeat?
+Dialogue: 0,0:02:16.15,0:02:17.65,Default,Sola,0000,0000,0000,,Thank god...
+Dialogue: 0,0:02:18.00,0:02:21.39,Default,Sola,0000,0000,0000,,Once I receive the extra Command Spell,
+Dialogue: 0,0:02:21.39,0:02:25.77,Default,Sola,0000,0000,0000,,Diarmuid and I will be truly linked.
+Dialogue: 0,0:02:36.15,0:02:38.92,Default,Sola,0000,0000,0000,,My right hand is gone...
+Dialogue: 0,0:02:39.34,0:02:42.14,Default,Sola,0000,0000,0000,,My right hand! Without my right hand...
+Dialogue: 0,0:02:42.14,0:02:43.18,Default,Sola,0000,0000,0000,,Without it...
+Dialogue: 0,0:02:43.18,0:02:45.90,Default,Sola,0000,0000,0000,,Oh no, I can't call Diarmuid!
+Dialogue: 0,0:02:45.90,0:02:48.43,Default,Sola,0000,0000,0000,,He won't care for me!
+Dialogue: 0,0:02:48.81,0:02:51.78,Default,Sola,0000,0000,0000,,My right hand... Right hand, right hand, right hand!
+Dialogue: 0,0:02:51.78,0:02:52.94,Default,Sola,0000,0000,0000,,My right hand!
+Dialogue: 0,0:02:54.43,0:02:57.99,Default,Sola,0000,0000,0000,,My hand...
+Dialogue: 0,0:03:02.54,0:03:06.21,Default,Maiya,0000,0000,0000,,I have captured Sola-Ui Nuada-Re Sophia-Ri\Nin the new city.
+Dialogue: 0,0:03:07.05,0:03:09.73,Default,Maiya,0000,0000,0000,,I cut off her arm, to prevent her \Nfrom using Command Spells.
+Dialogue: 0,0:03:10.10,0:03:10.98,Default,Kiri,0000,0000,0000,,Good.
+Dialogue: 0,0:03:11.52,0:03:13.90,Default,Kiri,0000,0000,0000,,Now get out of there quickly.
+Dialogue: 0,0:03:13.90,0:03:16.27,Default,,0000,0000,0000,,Lancer will be back soon.
+Dialogue: 0,0:03:16.60,0:03:17.46,Default,Maiya,0000,0000,0000,,Roger.
+Dialogue: 0,0:03:30.08,0:03:32.35,Default,Kirei,0000,0000,0000,,I have saved Matou Kariya's life...
+Dialogue: 0,0:03:32.35,0:03:35.78,Default,Kirei,0000,0000,0000,,Knowing full well that he will seek \Nvengeance upon my master.
+Dialogue: 0,0:03:35.78,0:03:38.76,Default,Kirei,0000,0000,0000,,This is an inexcusable act of betrayal.
+Dialogue: 0,0:03:39.56,0:03:42.81,Default,Kirei,0000,0000,0000,,But what am I feeling?
+Dialogue: 0,0:03:43.67,0:03:46.50,Default,Kirei,0000,0000,0000,,It isn't regret...
+Dialogue: 0,0:03:47.73,0:03:51.62,Default,Kirei,0000,0000,0000,,I feel exhilarated?
+Dialogue: 0,0:03:51.96,0:03:55.80,Default,Risei,0000,0000,0000,,Observers have indeed confirmed
+Dialogue: 0,0:03:55.80,0:04:00.31,Default,Risei,0000,0000,0000,,that during this evening's battle, \Nthe Servant Lancer
+Dialogue: 0,0:04:00.31,0:04:04.26,Default,Risei,0000,0000,0000,,was instrumental in defeating Caster.
+Dialogue: 0,0:04:04.83,0:04:09.89,Default,Kaye,0000,0000,0000,,Then I have the right to one of \Nthe Command Spells?
+Dialogue: 0,0:04:10.27,0:04:12.02,Default,Risei,0000,0000,0000,,Well...
+Dialogue: 0,0:04:12.64,0:04:15.27,Default,Risei,0000,0000,0000,,Lord Kayneth Archibald,
+Dialogue: 0,0:04:15.58,0:04:20.65,Default,Risei,0000,0000,0000,,I am debating whether or not you should \Nbe considered a Master at this point.
+Dialogue: 0,0:04:20.97,0:04:23.51,Default,Kaye,0000,0000,0000,,My pact with Lancer is shared
+Dialogue: 0,0:04:23.51,0:04:28.45,Default,,0000,0000,0000,,by my fiancée, Sola-Ui, and myself.
+Dialogue: 0,0:04:28.45,0:04:29.56,Default,Risei,0000,0000,0000,,And currently,
+Dialogue: 0,0:04:29.56,0:04:34.47,Default,Risei,0000,0000,0000,,does Sola-Ui not act as both \NLancer's mana source
+Dialogue: 0,0:04:34.47,0:04:36.58,Default,Risei,0000,0000,0000,,and the Command Spells' custodian?
+Dialogue: 0,0:04:36.58,0:04:37.91,Default,Kaye,0000,0000,0000,,That's correct.
+Dialogue: 0,0:04:37.91,0:04:40.96,Default,,0000,0000,0000,,I have temporarily entrusted Sola-Ui \Nwith the Command Spells.
+Dialogue: 0,0:04:40.96,0:04:46.25,Default,Kaye,0000,0000,0000,,However, I still maintain all rights\Ngranted by the pact.
+Dialogue: 0,0:04:46.25,0:04:47.30,Default,Kaye,0000,0000,0000,,After all,
+Dialogue: 0,0:04:47.51,0:04:50.99,Default,Kaye,0000,0000,0000,,my name alone is registered
+Dialogue: 0,0:04:50.99,0:04:54.29,Default,,0000,0000,0000,,with the Church as a Master.
+Dialogue: 0,0:04:56.23,0:04:58.30,Default,Risei,0000,0000,0000,,Very well.
+Dialogue: 0,0:04:58.30,0:05:01.07,Default,Risei,0000,0000,0000,,I acknowledge your right.
+Dialogue: 0,0:05:01.63,0:05:05.61,Default,Risei,0000,0000,0000,,Lord Kayneth, hold out your hand.
+Dialogue: 0,0:05:07.95,0:05:10.37,Default,Risei,0000,0000,0000,,Take this cup, and drink from it.
+Dialogue: 0,0:05:10.37,0:05:13.07,Default,Risei,0000,0000,0000,,This is my blood, given to you,
+Dialogue: 0,0:05:13.07,0:05:15.93,Default,Risei,0000,0000,0000,,for the salvation of all.
+Dialogue: 0,0:05:15.93,0:05:17.96,Default,Risei,0000,0000,0000,,The blood of a contract!
+Dialogue: 0,0:05:27.81,0:05:32.47,Default,Risei,0000,0000,0000,,I hope that, as a Master, \Nyou will continue to fight honorably.
+Dialogue: 0,0:05:32.75,0:05:35.30,Default,Kaye,0000,0000,0000,,Oh, of course.
+Dialogue: 0,0:05:48.24,0:05:50.74,Default - italic,Kaye,0000,0000,0000,,It's one mere Spell!
+Dialogue: 0,0:05:50.74,0:05:53.34,Default - italic,Kaye,0000,0000,0000,,I'm hardly any better off.
+Dialogue: 0,0:05:53.79,0:05:58.00,Default - italic,Kaye,0000,0000,0000,,I couldn't give the other Masters a chance
+Dialogue: 0,0:05:58.00,0:06:00.89,Default - italic,,0000,0000,0000,,to lay claim to an extra Spell!
+Dialogue: 0,0:06:04.17,0:06:05.63,Default,Lance,0000,0000,0000,,Lady Sola-Ui!
+Dialogue: 0,0:06:06.77,0:06:08.97,Default,Kaye,0000,0000,0000,,You useless screw-up!
+Dialogue: 0,0:06:08.97,0:06:11.07,Default,Kaye,0000,0000,0000,,Incompetent, worthless dolt!
+Dialogue: 0,0:06:11.07,0:06:14.27,Default,Kaye,0000,0000,0000,,I can't even trust you to protect one woman!
+Dialogue: 0,0:06:16.14,0:06:19.08,Default,Kaye,0000,0000,0000,,So much for your chivalry.
+Dialogue: 0,0:06:19.08,0:06:20.81,Default,Lance,0000,0000,0000,,I have disgraced myself.
+Dialogue: 0,0:06:22.08,0:06:24.42,Default,Kaye,0000,0000,0000,,Even if she was a temporary proxy,
+Dialogue: 0,0:06:24.42,0:06:28.07,Default,Kaye,0000,0000,0000,,you have utterly failed to protect your Master!
+Dialogue: 0,0:06:28.38,0:06:31.12,Default,Kaye,0000,0000,0000,,What kind of pathetic Servant are you?!
+Dialogue: 0,0:06:31.12,0:06:32.16,Default,Kaye,0000,0000,0000,,I can't believe you'd have the nerve
+Dialogue: 0,0:06:32.16,0:06:34.58,Default,,0000,0000,0000,,to stroll back here alone, \Nas if nothing had happened.
+Dialogue: 0,0:06:34.58,0:06:37.48,Default,Lance,0000,0000,0000,,Unfortunately, my Master,
+Dialogue: 0,0:06:37.48,0:06:39.88,Default,Lance,0000,0000,0000,,because Lady Sola-Ui and I were never
+Dialogue: 0,0:06:39.88,0:06:42.05,Default,,0000,0000,0000,,linked by a pact,
+Dialogue: 0,0:06:42.05,0:06:45.09,Default,Lance,0000,0000,0000,,we could not sense each other's presence.
+Dialogue: 0,0:06:45.09,0:06:49.34,Default,Kaye,0000,0000,0000,,Which is exactly why you should \Nhave taken extra precautions!
+Dialogue: 0,0:06:49.67,0:06:50.83,Default,Lance,0000,0000,0000,,My Master,
+Dialogue: 0,0:06:50.83,0:06:54.10,Default,Lance,0000,0000,0000,,Lady Sola-Ui still lives.
+Dialogue: 0,0:06:54.63,0:06:56.97,Default,Lance,0000,0000,0000,,My mana supply has remained steady.
+Dialogue: 0,0:06:56.97,0:06:58.56,Default,Kaye,0000,0000,0000,,So what?!
+Dialogue: 0,0:06:58.56,0:07:02.33,Default,Kaye,0000,0000,0000,,Without a pact binding you,
+Dialogue: 0,0:07:02.33,0:07:05.48,Default,Kaye,0000,0000,0000,,you cannot trace her whereabouts, \Nso it's irrelevant!
+Dialogue: 0,0:07:06.73,0:07:10.99,Default,Kaye,0000,0000,0000,,Oh, Sola-Ui, I should never have \Ngiven you those Command Spells...
+Dialogue: 0,0:07:11.45,0:07:13.37,Default,Lance,0000,0000,0000,,I could not convince her otherwise.
+Dialogue: 0,0:07:13.37,0:07:15.45,Default,Lance,0000,0000,0000,,I share in her responsibility.
+Dialogue: 0,0:07:17.92,0:07:21.17,Default,Kaye,0000,0000,0000,,Your arrogance is unbelievable.
+Dialogue: 0,0:07:21.17,0:07:23.36,Default,Kaye,0000,0000,0000,,Don't play me for a fool, Lancer.
+Dialogue: 0,0:07:23.36,0:07:26.96,Default,Kaye,0000,0000,0000,,You were encouraging Sola-Ui.
+Dialogue: 0,0:07:27.90,0:07:30.09,Default,Lance,0000,0000,0000,,No, I would never!
+Dialogue: 0,0:07:30.39,0:07:32.48,Default,Kaye,0000,0000,0000,,Just like the legends...
+Dialogue: 0,0:07:32.48,0:07:34.43,Default,Kaye,0000,0000,0000,,You can only see a monarch's fiancée,
+Dialogue: 0,0:07:34.43,0:07:37.35,Default,Kaye,0000,0000,0000,,as an object of lust.
+Dialogue: 0,0:07:39.37,0:07:40.93,Default,Lance,0000,0000,0000,,My Master...
+Dialogue: 0,0:07:40.93,0:07:44.10,Default,Lance,0000,0000,0000,,I ask that you retract your words.
+Dialogue: 0,0:07:44.36,0:07:47.18,Default,Kaye,0000,0000,0000,,Oh, did I hit a nerve?
+Dialogue: 0,0:07:47.18,0:07:51.96,Default,Kaye,0000,0000,0000,,You blather on about your \Noath of unconditional fealty,
+Dialogue: 0,0:07:51.96,0:07:55.37,Default,Kaye,0000,0000,0000,,But you are just an animal\N consumed by your base desires.
+Dialogue: 0,0:07:55.37,0:07:56.52,Default,Lance,0000,0000,0000,,Lord Kayneth...
+Dialogue: 0,0:07:57.15,0:07:58.29,Default,Lance,0000,0000,0000,,Why...
+Dialogue: 0,0:07:58.29,0:08:00.54,Default,Lance,0000,0000,0000,,Why will you not understand?
+Dialogue: 0,0:08:01.30,0:08:02.76,Default,Lance,0000,0000,0000,,I...
+Dialogue: 0,0:08:02.76,0:08:05.58,Default,Lance,0000,0000,0000,,I only wished to preserve my honor.
+Dialogue: 0,0:08:05.58,0:08:09.27,Default,Lance,0000,0000,0000,,To fight and win glory by your side!
+Dialogue: 0,0:08:09.27,0:08:13.33,Default,Kaye,0000,0000,0000,,Don't take that tone with me, Servant!
+Dialogue: 0,0:08:13.33,0:08:15.38,Default,Kaye,0000,0000,0000,,You forget your place.
+Dialogue: 0,0:08:15.38,0:08:19.48,Default,Kaye,0000,0000,0000,,You're nothing but a ghost, \Ngiven form by magic!
+Dialogue: 0,0:08:19.84,0:08:22.40,Default,Kaye,0000,0000,0000,,But you presume to lecture your Master?
+Dialogue: 0,0:08:22.40,0:08:24.63,Default,Kaye,0000,0000,0000,,Ridiculous!
+Dialogue: 0,0:08:25.84,0:08:30.21,Default,Kaye,0000,0000,0000,,If you are so unhappy, \Nthen use your precious pride
+Dialogue: 0,0:08:30.21,0:08:32.99,Default,Kaye,0000,0000,0000,,to disobey my Command Spell.
+Dialogue: 0,0:08:34.30,0:08:35.72,Default,Kaye,0000,0000,0000,,You can't do it!
+Dialogue: 0,0:08:35.72,0:08:39.28,Default,Kaye,0000,0000,0000,,This is the string that moves the \Npuppets we call Servants.
+Dialogue: 0,0:08:40.47,0:08:41.75,Default,Lance,0000,0000,0000,,Lord Kayneth...
+Dialogue: 0,0:08:44.72,0:08:45.67,Default,Lancer,0000,0000,0000,,Master.
+Dialogue: 0,0:08:45.67,0:08:46.87,Default,Kaye,0000,0000,0000,,What?
+Dialogue: 0,0:08:46.87,0:08:49.67,Default,Kaye,0000,0000,0000,,You still have more to say?
+Dialogue: 0,0:08:50.16,0:08:52.67,Default,Lance,0000,0000,0000,,No, sir.
+Dialogue: 0,0:08:53.48,0:08:55.93,Default,Lance,0000,0000,0000,,But something approaches.
+Dialogue: 0,0:08:59.57,0:09:02.79,Default,Iri,0000,0000,0000,,It's just as Kiritsugu said.
+Dialogue: 0,0:09:03.25,0:09:05.72,Default,Iri,0000,0000,0000,,There are remnants of \Na magic barrier.
+Dialogue: 0,0:09:05.72,0:09:07.41,Default,Iri,0000,0000,0000,,But it's odd...
+Dialogue: 0,0:09:07.41,0:09:09.87,Default,Iri,0000,0000,0000,,Perhaps it hasn't been properly maintained.
+Dialogue: 0,0:09:09.87,0:09:11.57,Default,,0000,0000,0000,,It's failing...
+Dialogue: 0,0:09:11.57,0:09:13.44,Default,Iri,0000,0000,0000,,everywhere...
+Dialogue: 0,0:09:15.19,0:09:18.82,Default,Lance,0000,0000,0000,,I never expected you to come here, Saber.
+Dialogue: 0,0:09:19.46,0:09:20.67,Default,Saber,0000,0000,0000,,My...
+Dialogue: 0,0:09:22.12,0:09:24.97,Default,Saber,0000,0000,0000,,My ally found this place and informed me
+Dialogue: 0,0:09:24.97,0:09:27.21,Default,Saber,0000,0000,0000,,that it was your current location.
+Dialogue: 0,0:09:27.58,0:09:31.92,Default,Lance,0000,0000,0000,,My Master's fiancée has gone missing, Saber.
+Dialogue: 0,0:09:32.50,0:09:35.09,Default,Saber,0000,0000,0000,,You wouldn't happen to know \Nwhere she might be?
+Dialogue: 0,0:09:37.90,0:09:39.33,Default,Saber,0000,0000,0000,,I fear not.
+Dialogue: 0,0:09:39.63,0:09:40.85,Default,Saber,0000,0000,0000,,Did something happen?
+Dialogue: 0,0:09:40.85,0:09:43.47,Default,Lance,0000,0000,0000,,No, never mind.
+Dialogue: 0,0:09:43.47,0:09:45.98,Default,Lance,0000,0000,0000,,Anyway, are you sure about this, Saber?
+Dialogue: 0,0:09:46.45,0:09:49.96,Default,Lance,0000,0000,0000,,I imagine you haven't come\N to make small talk.
+Dialogue: 0,0:09:49.96,0:09:53.59,Default,Lance,0000,0000,0000,,But fighting Caster for so long, \Nand using that attack,
+Dialogue: 0,0:09:53.59,0:09:55.86,Default,Lance,0000,0000,0000,,must have taken its toll.
+Dialogue: 0,0:09:56.26,0:09:58.72,Default,Saber,0000,0000,0000,,The same can be said for all the Servants.
+Dialogue: 0,0:09:59.06,0:10:02.58,Default,Saber,0000,0000,0000,,None will seek further conflict tonight.
+Dialogue: 0,0:10:02.58,0:10:04.50,Default,Saber,0000,0000,0000,,They will shore up their defenses.
+Dialogue: 0,0:10:04.93,0:10:08.87,Default,Saber,0000,0000,0000,,And thus, we shan't need to worry \Nabout outside interference.
+Dialogue: 0,0:10:13.44,0:10:15.74,Default,Saber,0000,0000,0000,,It's nearly dawn...
+Dialogue: 0,0:10:15.74,0:10:18.41,Default,Saber,0000,0000,0000,,But I believe tonight
+Dialogue: 0,0:10:18.41,0:10:21.01,Default,Saber,0000,0000,0000,,may be our best chance to finish our duel.
+Dialogue: 0,0:10:21.35,0:10:23.20,Default,Saber,0000,0000,0000,,What say you, Lancer?
+Dialogue: 0,0:10:25.07,0:10:26.33,Default,Lance,0000,0000,0000,,Saber...
+Dialogue: 0,0:10:26.33,0:10:30.23,Default,Lance,0000,0000,0000,,Your pure, unclouded fighting spirit
+Dialogue: 0,0:10:30.23,0:10:34.02,Default,Lance,0000,0000,0000,,is the only thing that still calms my heart.
+Dialogue: 0,0:11:02.82,0:11:04.56,Default - italic,Lance,0000,0000,0000,,Her strikes are weak.
+Dialogue: 0,0:11:09.05,0:11:10.09,Default,Lance,0000,0000,0000,,Saber...
+Dialogue: 0,0:11:10.09,0:11:13.48,Default,Lance,0000,0000,0000,,You intend to fight without \Nusing your left hand?
+Dialogue: 0,0:11:14.72,0:11:16.97,Default,Saber,0000,0000,0000,,Don't misunderstand, Lancer.
+Dialogue: 0,0:11:17.62,0:11:19.85,Default,Saber,0000,0000,0000,,Should I use my left hand,
+Dialogue: 0,0:11:19.85,0:11:22.38,Default,Saber,0000,0000,0000,,the shame of it would surely dull my sword.
+Dialogue: 0,0:11:23.14,0:11:25.66,Default,Saber,0000,0000,0000,,Against your spear,
+Dialogue: 0,0:11:25.66,0:11:28.25,Default,Saber,0000,0000,0000,,that would prove fatal.
+Dialogue: 0,0:11:28.57,0:11:30.30,Default,Lance,0000,0000,0000,,Saber...
+Dialogue: 0,0:11:30.30,0:11:32.00,Default,Saber,0000,0000,0000,,Therefore, Diarmuid,
+Dialogue: 0,0:11:34.94,0:11:37.60,Default,Saber,0000,0000,0000,,this represents my best chance
+Dialogue: 0,0:11:37.60,0:11:40.63,Default,Saber,0000,0000,0000,,at defeating you at full strength.
+Dialogue: 0,0:11:44.46,0:11:46.91,Default,Lance,0000,0000,0000,,Pride resides in the sword of chivalry.
+Dialogue: 0,0:11:47.26,0:11:48.53,Default,Lance,0000,0000,0000,,I...
+Dialogue: 0,0:11:49.40,0:11:51.56,Default,,0000,0000,0000,,I am glad to have met you.
+Dialogue: 0,0:11:56.37,0:11:58.49,Default,Lance,0000,0000,0000,,I am first spear of the knights of Fianna,
+Dialogue: 0,0:11:58.49,0:11:59.90,Default,Lance,0000,0000,0000,,Diarmuid Ua Duibhne!
+Dialogue: 0,0:11:59.90,0:12:01.03,Default,Lance,0000,0000,0000,,En garde!
+Dialogue: 0,0:12:01.43,0:12:02.69,Default,Saber,0000,0000,0000,,Well met.
+Dialogue: 0,0:12:02.69,0:12:06.28,Default,Saber,0000,0000,0000,,I, Arturia Pendragon, King of Britain, \Nshall face you.
+Dialogue: 0,0:12:08.74,0:12:09.37,Default,Saber,0000,0000,0000,,Have at you!
+Dialogue: 0,0:12:10.83,0:12:12.92,Default,Kaye,0000,0000,0000,,Why can't he win?
+Dialogue: 0,0:12:12.92,0:12:15.64,Default,Kaye,0000,0000,0000,,If he cannot guarantee his victory,
+Dialogue: 0,0:12:15.64,0:12:18.67,Default,Kaye,0000,0000,0000,,he should return to his Master and escape.
+Dialogue: 0,0:12:18.98,0:12:22.94,Default,Kaye,0000,0000,0000,,Rescuing Sola-Ui should be our top priority...
+Dialogue: 0,0:12:22.94,0:12:24.62,Default,Kaye,0000,0000,0000,,Why does that useless Servant not
+Dialogue: 0,0:12:24.62,0:12:27.68,Default,,0000,0000,0000,,even understand that much?
+Dialogue: 0,0:12:45.28,0:12:46.91,Default - italic,Kaye,0000,0000,0000,,Of all people...
+Dialogue: 0,0:12:46.91,0:12:48.74,Default - italic,Kaye,0000,0000,0000,,Him?
+Dialogue: 0,0:12:59.17,0:13:00.67,Default - italic,Kaye,0000,0000,0000,,This is...
+Dialogue: 0,0:13:01.03,0:13:04.05,Default - italic,Kaye,0000,0000,0000,,a Self-Geis Scroll.
+Dialogue: 0,0:13:04.05,0:13:06.34,Default - italic,Kaye,0000,0000,0000,,A mage contract,
+Dialogue: 0,0:13:06.34,0:13:10.45,Default - italic,Kaye,0000,0000,0000,,enchanted to be completely unbreakable,
+Dialogue: 0,0:13:10.45,0:13:12.31,Default - italic,Kaye,0000,0000,0000,,regardless of circumstance.
+Dialogue: 0,0:13:12.65,0:13:14.25,Default - italic,Kaye,0000,0000,0000,,Restraining Spell.
+Dialogue: 0,0:13:14.25,0:13:16.68,Default - italic,Both,0000,0000,0000,,Affected Party: Emiya Kiritsugu.
+Dialogue: 0,0:13:17.28,0:13:19.40,Default - italic,Kiri,0000,0000,0000,,Dictated by crest of the house of Emiya.
+Dialogue: 0,0:13:19.94,0:13:22.32,Default - italic,Kiri,0000,0000,0000,,Upon fulfillment of the conditions below,
+Dialogue: 0,0:13:22.36,0:13:24.53,Default - italic,Kiri,0000,0000,0000,,the contract's Terms will become binding,
+Dialogue: 0,0:13:24.53,0:13:27.49,Default - italic,Kiri,0000,0000,0000,,restricting the Affected Party \Nwithout exception.
+Dialogue: 0,0:13:27.49,0:13:28.70,Default - italic,Kiri,0000,0000,0000,,Terms:
+Dialogue: 0,0:13:28.70,0:13:30.59,Default - italic,Kiri,0000,0000,0000,,The fifth heir to the house of Emiya,
+Dialogue: 0,0:13:30.59,0:13:33.04,Default - italic,Kiri,0000,0000,0000,,Kiritsugu, son of Norikata,
+Dialogue: 0,0:13:33.83,0:13:36.72,Default - italic,Kiri,0000,0000,0000,,will be forever forbidden from \Ninflicting death or injury upon,
+Dialogue: 0,0:13:36.72,0:13:39.85,Default - italic,Kiri,0000,0000,0000,,or acting with the intent to \Ninflict death or injury upon,
+Dialogue: 0,0:13:39.85,0:13:45.47,Default - italic,Kaye,0000,0000,0000,,Kayneth El-Melloi Archibald and \NSola-Ui Nuada-Re Sophia-Ri.
+Dialogue: 0,0:13:46.15,0:13:47.29,Default - italic,Kaye,0000,0000,0000,,Conditions...
+Dialogue: 0,0:13:49.22,0:13:50.70,Default - italic,Kaye,0000,0000,0000,,The Geis's curse
+Dialogue: 0,0:13:50.70,0:13:54.60,Default - italic,Kaye,0000,0000,0000,,is fundamentally irrevocable, \Nonce the contract is signed.
+Dialogue: 0,0:13:54.60,0:13:57.22,Default - italic,Kaye,0000,0000,0000,,Even should the Affected Party die,
+Dialogue: 0,0:13:57.22,0:13:59.43,Default - italic,Kaye,0000,0000,0000,,so long as the crest exists,
+Dialogue: 0,0:13:59.43,0:14:03.03,Default - italic,Kaye,0000,0000,0000,,it will bind the soul, even after death.
+Dialogue: 0,0:14:03.03,0:14:05.42,Default - italic,Kaye,0000,0000,0000,,It's true that if I meet its demands,
+Dialogue: 0,0:14:05.42,0:14:07.95,Default - italic,Kaye,0000,0000,0000,,he can never kill me.
+Dialogue: 0,0:14:08.46,0:14:09.69,Default - italic,kaye,0000,0000,0000,,But...
+Dialogue: 0,0:14:09.69,0:14:12.67,Default - italic,kaye,0000,0000,0000,,Given these Conditions, my battle...
+Dialogue: 0,0:14:14.06,0:14:16.79,Default - italic,Kaye,0000,0000,0000,,is over...
+Dialogue: 0,0:14:17.87,0:14:19.56,Default - italic,Kaye,0000,0000,0000,,The Holy Grail...
+Dialogue: 0,0:14:20.38,0:14:22.50,Default - italic,Kaye,0000,0000,0000,,The pride of the Archibalds...
+Dialogue: 0,0:14:24.00,0:14:26.50,Default - italic,Kaye,0000,0000,0000,,He requires me to discard it all?
+Dialogue: 0,0:14:47.07,0:14:48.53,Default - italic,Kaye,0000,0000,0000,,Sola-Ui...
+Dialogue: 0,0:15:07.45,0:15:10.04,Default,Kiri,0000,0000,0000,,Use all of your remaining Command Spells
+Dialogue: 0,0:15:10.04,0:15:12.43,Default,Kiri,0000,0000,0000,,to compel your Servant to commit suicide.
+Dialogue: 0,0:15:15.07,0:15:17.31,Default,Kiri,0000,0000,0000,,The conditions have been met.
+Dialogue: 0,0:15:24.57,0:15:26.49,Default,Lance,0000,0000,0000,,Do you...
+Dialogue: 0,0:15:26.49,0:15:29.14,Default,Lance,0000,0000,0000,,Do you really desire victory so much?
+Dialogue: 0,0:15:29.14,0:15:32.05,Default,Lance,0000,0000,0000,,Do you desire the Grail so much?
+Dialogue: 0,0:15:32.05,0:15:33.40,Default,Lance,0000,0000,0000,,You have trampled...
+Dialogue: 0,0:15:33.40,0:15:36.79,Default,Lance,0000,0000,0000,,You have trampled upon my one last wish...
+Dialogue: 0,0:15:36.95,0:15:38.45,Default,Lance,0000,0000,0000,,And you...
+Dialogue: 0,0:15:38.69,0:15:41.46,Default,Lance,0000,0000,0000,,Do you feel no shame?!
+Dialogue: 0,0:15:41.46,0:15:42.61,Default,Lance,0000,0000,0000,,I will never forgive you.
+Dialogue: 0,0:15:43.23,0:15:45.29,Default,Lance,0000,0000,0000,,I will never forgive you for this!
+Dialogue: 0,0:15:45.69,0:15:49.59,Default,Lance,0000,0000,0000,,Monsters, blinded by your own ambition, \N defiling the pride of knights,
+Dialogue: 0,0:15:50.27,0:15:52.88,Default,Lance,0000,0000,0000,,may my blood stain your dreams!
+Dialogue: 0,0:15:53.69,0:15:55.93,Default,Lance,0000,0000,0000,,May the Grail be cursed.
+Dialogue: 0,0:15:55.93,0:15:58.56,Default,Lance,0000,0000,0000,,May the wish it grants bring only disaster!
+Dialogue: 0,0:15:58.99,0:16:02.05,Default,Lance,0000,0000,0000,,And when you roast in the pits of hell,
+Dialogue: 0,0:16:02.05,0:16:05.95,Default,Lance,0000,0000,0000,,remember the rage of Diarmuid!
+Dialogue: 0,0:16:12.21,0:16:14.32,Default,Kaye,0000,0000,0000,,Has the Geis taken effect?
+Dialogue: 0,0:16:14.88,0:16:16.84,Default,Kiri,0000,0000,0000,,Yes, the contract is complete.
+Dialogue: 0,0:16:17.41,0:16:19.85,Default,Kiri,0000,0000,0000,,I can no longer kill you.
+Dialogue: 0,0:16:40.85,0:16:42.48,Default,Kiri,0000,0000,0000,,At least, not personally.
+Dialogue: 0,0:16:51.33,0:16:52.74,Default,Kaye,0000,0000,0000,,Kill me...
+Dialogue: 0,0:16:52.74,0:16:54.89,Default,Kaye,0000,0000,0000,,Please kill me...
+Dialogue: 0,0:16:55.43,0:16:56.49,Default,Kiri,0000,0000,0000,,Sorry.
+Dialogue: 0,0:16:56.49,0:16:58.65,Default,Kiri,0000,0000,0000,,I'm contractually bound from that.
+Dialogue: 0,0:17:10.85,0:17:12.43,Default,Saber,0000,0000,0000,,Emiya Kiritsugu.
+Dialogue: 0,0:17:12.93,0:17:16.37,Default,Saber,0000,0000,0000,,I finally see you for the vile man you are.
+Dialogue: 0,0:17:16.69,0:17:18.29,Default,Saber,0000,0000,0000,,I was a fool.
+Dialogue: 0,0:17:18.29,0:17:22.77,Default,,0000,0000,0000,,I believed that though our methods differed, \Nwe shared a common goal.
+Dialogue: 0,0:17:24.79,0:17:26.52,Default,Saber,0000,0000,0000,,Until now,
+Dialogue: 0,0:17:26.52,0:17:28.88,Default,Saber,0000,0000,0000,,I have trusted in Irisviel's words,
+Dialogue: 0,0:17:28.88,0:17:31.48,Default,,0000,0000,0000,,and did not question your character.
+Dialogue: 0,0:17:32.78,0:17:34.45,Default,Saber,0000,0000,0000,,But now,
+Dialogue: 0,0:17:34.45,0:17:38.28,Default,Saber,0000,0000,0000,,I cannot believe that your \Nambition for the Grail
+Dialogue: 0,0:17:38.28,0:17:40.65,Default,Saber,0000,0000,0000,,will ever save anyone.
+Dialogue: 0,0:17:41.38,0:17:42.95,Default,Saber,0000,0000,0000,,Explain yourself, Kiritsugu!
+Dialogue: 0,0:17:43.63,0:17:46.46,Default,Saber,0000,0000,0000,,What do you truly desire \Nfrom the Holy Grail?!
+Dialogue: 0,0:17:46.97,0:17:50.29,Default,Saber,0000,0000,0000,,Even if my sword ultimately claims the Grail,
+Dialogue: 0,0:17:51.35,0:17:55.58,Default,Saber,0000,0000,0000,,if that means I must relinquish it to you...
+Dialogue: 0,0:17:55.58,0:17:57.50,Default,Iri,0000,0000,0000,,Answer her, Kiritsugu.
+Dialogue: 0,0:17:58.03,0:18:01.64,Default,Iri,0000,0000,0000,,This time, you have a responsibility \Nto explain yourself to her.
+Dialogue: 0,0:18:03.65,0:18:05.30,Default,Kiri,0000,0000,0000,,Now that I think about it,
+Dialogue: 0,0:18:05.30,0:18:07.91,Default,Kiri,0000,0000,0000,,this is the first time you've seen
+Dialogue: 0,0:18:07.91,0:18:10.52,Default,,0000,0000,0000,,the way I kill, Iri.
+Dialogue: 0,0:18:10.93,0:18:13.63,Default,Kiri,0000,0000,0000,,If you neutralize only the Master,
+Dialogue: 0,0:18:13.63,0:18:17.08,Default,Kiri,0000,0000,0000,,the Servant may form a pact \Nwith another Master.
+Dialogue: 0,0:18:17.08,0:18:21.18,Default,Kiri,0000,0000,0000,,Thus, I needed to eliminate \Nthem both simultaneously.
+Dialogue: 0,0:18:21.18,0:18:22.84,Default,Iri,0000,0000,0000,,Hey, Kiritsugu...
+Dialogue: 0,0:18:22.84,0:18:25.79,Default,Iri,0000,0000,0000,,Speak to Saber, not me.
+Dialogue: 0,0:18:25.79,0:18:29.00,Default,Iri,0000,0000,0000,,She needs to hear your explanation.
+Dialogue: 0,0:18:29.30,0:18:30.08,Default,Kiri,0000,0000,0000,,No.
+Dialogue: 0,0:18:30.08,0:18:32.10,Default,Kiri,0000,0000,0000,,There's no point in trying to explain anything
+Dialogue: 0,0:18:32.10,0:18:35.48,Default,Kiri,0000,0000,0000,,to a murderer who can take pride
+Dialogue: 0,0:18:35.48,0:18:37.89,Default,Kiri,0000,0000,0000,,in things such as honor and glory.
+Dialogue: 0,0:18:37.89,0:18:41.04,Default,Saber,0000,0000,0000,,You would even insult chivalry \Nto my face, fiend?!
+Dialogue: 0,0:18:41.99,0:18:44.36,Default,Kiri,0000,0000,0000,,A knight will never save the world.
+Dialogue: 0,0:18:44.99,0:18:46.43,Default,Kiri,0000,0000,0000,,They pretend there are
+Dialogue: 0,0:18:46.43,0:18:48.94,Default,,0000,0000,0000,,right and wrong ways to fight,
+Dialogue: 0,0:18:48.94,0:18:53.25,Default,Kiri,0000,0000,0000,,as though there is honor on \Nthe battlefield itself.
+Dialogue: 0,0:18:54.12,0:18:57.19,Default,Kiri,0000,0000,0000,,These illusions named honor and glory,
+Dialogue: 0,0:18:57.19,0:18:59.76,Default,Kiri,0000,0000,0000,,created by the words of heroes,
+Dialogue: 0,0:18:59.76,0:19:02.66,Default,Kiri,0000,0000,0000,,have entranced countless \Nyoung men throughout history,
+Dialogue: 0,0:19:02.66,0:19:04.76,Default,Kiri,0000,0000,0000,,leading them to their deaths.
+Dialogue: 0,0:19:04.76,0:19:06.45,Default,Saber,0000,0000,0000,,They are not illusions!
+Dialogue: 0,0:19:06.45,0:19:11.17,Default,Saber,0000,0000,0000,,Even in the taking of another's life, \Nas a human act,
+Dialogue: 0,0:19:11.17,0:19:12.58,Default,Saber,0000,0000,0000,,law and principle must still hold.
+Dialogue: 0,0:19:12.58,0:19:17.26,Default,,0000,0000,0000,,Otherwise, every single war would \Nunleash hell on this world!
+Dialogue: 0,0:19:18.18,0:19:19.24,Default,Kiri,0000,0000,0000,,And there it is.
+Dialogue: 0,0:19:19.81,0:19:21.40,Default,Kiri,0000,0000,0000,,You heard her, Iri.
+Dialogue: 0,0:19:22.03,0:19:27.18,Default,Kiri,0000,0000,0000,,Our Heroic Spirit says that \Nwar is preferable to hell.
+Dialogue: 0,0:19:27.18,0:19:28.66,Default,Kiri,0000,0000,0000,,What idiocy.
+Dialogue: 0,0:19:29.32,0:19:31.81,Default,Kiri,0000,0000,0000,,War is hell itself.
+Dialogue: 0,0:19:32.28,0:19:34.48,Default,Kiri,0000,0000,0000,,Hope does not exist on a battlefield.
+Dialogue: 0,0:19:34.95,0:19:37.69,Default,Kiri,0000,0000,0000,,There is nothing but indescribable suffering.
+Dialogue: 0,0:19:38.21,0:19:40.86,Default,Kiri,0000,0000,0000,,Just the victory birthed
+Dialogue: 0,0:19:40.86,0:19:43.20,Default,Kiri,0000,0000,0000,,by the pain and anguish of the defeated.
+Dialogue: 0,0:19:43.49,0:19:46.62,Default,Kiri,0000,0000,0000,,But humanity has never learned.
+Dialogue: 0,0:19:47.23,0:19:49.91,Default,Kiri,0000,0000,0000,,Because in every era, larger-than-life heroes
+Dialogue: 0,0:19:49.91,0:19:52.81,Default,Kiri,0000,0000,0000,,have blinded the masses with \Nfantastic tales of their deeds,
+Dialogue: 0,0:19:52.81,0:19:56.46,Default,Kiri,0000,0000,0000,,until no one can see bloodshed's inherent evil.
+Dialogue: 0,0:19:56.67,0:20:01.74,Default,Kiri,0000,0000,0000,,Human nature has not \Nevolved since the Stone Age!
+Dialogue: 0,0:20:02.54,0:20:04.71,Default,Iri,0000,0000,0000,,So, Kiritsugu...
+Dialogue: 0,0:20:04.71,0:20:07.49,Default,Iri,0000,0000,0000,,When you insult Saber,
+Dialogue: 0,0:20:07.49,0:20:10.44,Default,Iri,0000,0000,0000,,is this because of your \Nhatred for Heroic Spirits?
+Dialogue: 0,0:20:10.44,0:20:11.41,Default,Kiri,0000,0000,0000,,Of course not.
+Dialogue: 0,0:20:12.19,0:20:13.98,Default,Kiri,0000,0000,0000,,I don't let personal feelings get in the way.
+Dialogue: 0,0:20:14.35,0:20:17.43,Default,Kiri,0000,0000,0000,,I will obtain the Holy Grail and save this world.
+Dialogue: 0,0:20:17.43,0:20:19.49,Default,Kiri,0000,0000,0000,,And I am using
+Dialogue: 0,0:20:19.49,0:20:23.11,Default,,0000,0000,0000,,the most effective weapon at my disposal to do it.
+Dialogue: 0,0:20:23.57,0:20:25.30,Default,Kiri,0000,0000,0000,,Justice will not save this world.
+Dialogue: 0,0:20:26.06,0:20:28.87,Default,Kiri,0000,0000,0000,,I have no interest in pursuing it.
+Dialogue: 0,0:20:29.17,0:20:30.42,Default,Saber,0000,0000,0000,,Kiritsugu.
+Dialogue: 0,0:20:30.42,0:20:31.72,Default,Saber,0000,0000,0000,,Do you truly understand?
+Dialogue: 0,0:20:32.29,0:20:34.40,Default,Saber,0000,0000,0000,,If you commit evil, in the \Nname of hatred for evil,
+Dialogue: 0,0:20:34.96,0:20:39.25,Default,Saber,0000,0000,0000,,your anger and hatred can \Nonly bring further conflict.
+Dialogue: 0,0:20:39.67,0:20:41.20,Default,Saber,0000,0000,0000,,Emiya Kiritsugu...
+Dialogue: 0,0:20:41.20,0:20:43.59,Default,Saber,0000,0000,0000,,I know not who or what betrayed you,
+Dialogue: 0,0:20:43.59,0:20:45.76,Default,Saber,0000,0000,0000,,or what has caused you such despair.
+Dialogue: 0,0:20:46.07,0:20:48.75,Default,Saber,0000,0000,0000,,But your anger and sorrow...
+Dialogue: 0,0:20:48.75,0:20:52.46,Default,Saber,0000,0000,0000,,These belong to one who once sought justice.
+Dialogue: 0,0:20:53.22,0:20:54.50,Default,Saber,0000,0000,0000,,Kiritsugu,
+Dialogue: 0,0:20:54.50,0:20:56.73,Default,Saber,0000,0000,0000,,as a young man,
+Dialogue: 0,0:20:56.73,0:20:59.31,Default,,0000,0000,0000,,you, too, hoped to become\N a just hero, correct?
+Dialogue: 0,0:21:00.27,0:21:02.05,Default,Saber,0000,0000,0000,,More than anyone,
+Dialogue: 0,0:21:02.05,0:21:05.36,Default,,0000,0000,0000,,you believed in, and longed to be, \Na hero who would save the world.
+Dialogue: 0,0:21:05.36,0:21:06.62,Default,Saber,0000,0000,0000,,Or am I wrong?
+Dialogue: 0,0:21:09.89,0:21:12.07,Default,Kiri,0000,0000,0000,,I will break this endless cycle.
+Dialogue: 0,0:21:12.60,0:21:15.12,Default,Kiri,0000,0000,0000,,And the Holy Grail alone can \Nmake that possible.
+Dialogue: 0,0:21:15.12,0:21:17.92,Default,Kiri,0000,0000,0000,,The blood I spill in Fuyuki City
+Dialogue: 0,0:21:17.92,0:21:20.38,Default,,0000,0000,0000,,will be the last blood humanity will ever shed.
+Dialogue: 0,0:21:20.69,0:21:25.92,Default,Kiri,0000,0000,0000,,If I must take on every sin in the world,
+Dialogue: 0,0:21:26.64,0:21:28.74,Default,Kiri,0000,0000,0000,,to save that world from evil,
+Dialogue: 0,0:21:28.74,0:21:30.95,Default,Kiri,0000,0000,0000,,I dirty my hands gladly.
+Dialogue: 0,0:21:39.93,0:21:43.03,Default,Iri,0000,0000,0000,,Kiritsugu's gone, right?
+Dialogue: 0,0:21:43.69,0:21:44.86,Default,Saber,0000,0000,0000,,Irisviel?
+Dialogue: 0,0:21:49.99,0:21:51.06,Default,Saber,0000,0000,0000,,Irisviel!
+Dialogue: 0,0:21:52.04,0:21:55.04,Title,Saber,0000,0000,0000,,Episode 16: \NThe End of Honor
+Dialogue: 0,0:23:25.63,0:23:27.26,Default,???,0000,0000,0000,,This cannot be permitted!
+Dialogue: 0,0:23:27.26,0:23:28.92,Default,Saber,0000,0000,0000,,An alliance? At this stage?
+Dialogue: 0,0:23:28.92,0:23:31.44,Default,Kirei,0000,0000,0000,,Allow me to tell you the truth \Nof this Holy Grail War.
+Dialogue: 0,0:23:31.44,0:23:32.97,Default,Iri,0000,0000,0000,,Very well, I accept.
+Dialogue: 0,0:23:32.97,0:23:35.70,Default,Maiya,0000,0000,0000,,Die, for the sake of his dream.
+Dialogue: 0,0:23:35.70,0:23:37.52,Default,Arch,0000,0000,0000,,What a tedious end.
+Dialogue: 0,0:23:37.52,0:23:40.01,Title,Rin,0000,0000,0000,,Next Time: \NThe Eighth Contract
+Dialogue: 0,0:23:37.52,0:23:40.29,Default,Rin,0000,0000,0000,,Goodbye, Father!
+Dialogue: 0,0:23:40.01,0:23:42.01,Title,,0000,0000,0000,,

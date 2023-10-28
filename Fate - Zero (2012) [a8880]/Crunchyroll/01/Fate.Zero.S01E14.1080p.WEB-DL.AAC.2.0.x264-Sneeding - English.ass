@@ -1,0 +1,311 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0005,0
+Style: Default - italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Title,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,0
+Style: Sign14A,Arial,26,&H00B7C6B8,&H000000FF,&H004F584E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.98,0:00:05.83,Default,Koba,0000,0000,0000,,If a monster really is out there,
+Dialogue: 0,0:00:05.83,0:00:08.27,Default,,0000,0000,0000,,we'll get permission to engage, right?
+Dialogue: 0,0:00:08.27,0:00:12.65,Default,Ougi,0000,0000,0000,,If this were a monster movie, \Nwe'd be the first to go.
+Dialogue: 0,0:00:13.27,0:00:15.40,Default,Ougi,0000,0000,0000,,You know, the ones who make \Nthe bad guy look tough
+Dialogue: 0,0:00:15.40,0:00:17.02,Default,,0000,0000,0000,,before the Giant of Light appears.
+Dialogue: 0,0:00:17.02,0:00:19.20,Default,Koba,0000,0000,0000,,That's not funny, man.
+Dialogue: 0,0:00:19.20,0:00:22.01,Default,Ougi,0000,0000,0000,,Guess we'll find out in a minute.
+Dialogue: 0,0:00:58.46,0:01:01.28,Default,Waver,0000,0000,0000,,No good... It's just regenerating.
+Dialogue: 0,0:01:02.77,0:01:04.87,Default,Iry,0000,0000,0000,,It heals so quickly.
+Dialogue: 0,0:01:04.87,0:01:07.46,Default,,0000,0000,0000,,We're barely keeping it from reaching shore.
+Dialogue: 0,0:01:08.88,0:01:12.09,Default,Lance,0000,0000,0000,,I can't get a clear shot at Caster this way.
+Dialogue: 0,0:01:14.62,0:01:17.53,Default,Ryuu,0000,0000,0000,,So cool... This is so freaking cool!
+Dialogue: 0,0:01:17.53,0:01:20.39,Default,Ryuu,0000,0000,0000,,You're awesome, man!
+Dialogue: 0,0:01:21.76,0:01:23.39,Default,Ryuu,0000,0000,0000,,The Lord is with us!
+Dialogue: 0,0:01:23.56,0:01:27.02,Default,Ryuu,0000,0000,0000,,The Lord is with us!
+Dialogue: 0,0:02:57.50,0:02:59.75,Default,Risei,0000,0000,0000,,What a disaster.
+Dialogue: 0,0:03:01.41,0:03:04.48,Default,Risei,0000,0000,0000,,In the long history of the Grail Wars,
+Dialogue: 0,0:03:04.48,0:03:07.79,Default,,0000,0000,0000,,such a failure is unprecedented.
+Dialogue: 0,0:03:07.79,0:03:10.46,Default,Kirei,0000,0000,0000,,According to the observers,
+Dialogue: 0,0:03:10.46,0:03:14.15,Default,Kirei,0000,0000,0000,,the entire Mion River area is \Nblanketed in a thick fog.
+Dialogue: 0,0:03:14.15,0:03:17.91,Default,Kirei,0000,0000,0000,,But large numbers of onlookers \Nare starting to gather.
+Dialogue: 0,0:03:18.81,0:03:21.83,Default,Risei,0000,0000,0000,,This is too much for us to deal with alone.
+Dialogue: 0,0:03:22.61,0:03:26.81,Default,Risei,0000,0000,0000,,We shall have to request help \Nfrom the Mages Association.
+Dialogue: 0,0:03:30.48,0:03:32.95,Default,Risei,0000,0000,0000,,And where is Tokiomi-kun?
+Dialogue: 0,0:03:33.47,0:03:38.07,Default,Kirei,0000,0000,0000,,My master and Archer are en route \Nto the battlefield.
+Dialogue: 0,0:03:39.74,0:03:40.82,Default,Risei,0000,0000,0000,,Kirei,
+Dialogue: 0,0:03:40.82,0:03:44.39,Default,Risei,0000,0000,0000,,I'll see to the cover-up.
+Dialogue: 0,0:03:44.39,0:03:47.96,Default,Risei,0000,0000,0000,,You head out immediately, \Nand assist Tokiomi-kun.
+Dialogue: 0,0:03:48.74,0:03:51.83,Default,Risei,0000,0000,0000,,Yes, Father.
+Dialogue: 0,0:03:59.76,0:04:03.72,Default,Arch,0000,0000,0000,,What a nauseating scene this is...
+Dialogue: 0,0:04:04.06,0:04:06.00,Default,Arch,0000,0000,0000,,Peons or not,
+Dialogue: 0,0:04:06.00,0:04:09.47,Default,Arch,0000,0000,0000,,they are still supposedly warriors of renown.
+Dialogue: 0,0:04:09.47,0:04:15.23,Default,Arch,0000,0000,0000,,Yet, even gathered together, \Nthey cannot dispatch that abomination.
+Dialogue: 0,0:04:15.80,0:04:18.64,Default,Arch,0000,0000,0000,,It's so pathetic, it's almost painful...
+Dialogue: 0,0:04:20.52,0:04:22.24,Default,Arch,0000,0000,0000,,Don't you agree,
+Dialogue: 0,0:04:22.24,0:04:23.63,Default,Arch,0000,0000,0000,,Tokiomi?
+Dialogue: 0,0:04:25.31,0:04:28.00,Default - italic,Toki,0000,0000,0000,,We must destroy that monster
+Dialogue: 0,0:04:28.00,0:04:30.49,Default - italic,,0000,0000,0000,,before more witnesses arrive.
+Dialogue: 0,0:04:31.60,0:04:33.83,Default - italic,Toki,0000,0000,0000,,For the dignity of the Tohsaka family...
+Dialogue: 0,0:04:35.15,0:04:36.41,Default,Toki,0000,0000,0000,,Your Majesty,
+Dialogue: 0,0:04:36.41,0:04:39.77,Default,Toki,0000,0000,0000,,that beast is a wild animal that will \Ndestroy your garden in its rampage.
+Dialogue: 0,0:04:40.58,0:04:42.97,Default,Toki,0000,0000,0000,,I implore you to exterminate it.
+Dialogue: 0,0:04:44.15,0:04:46.72,Default,Arch,0000,0000,0000,,Wild animals fall within \Nthe gardener's domain.
+Dialogue: 0,0:04:47.47,0:04:50.89,Default,Arch,0000,0000,0000,,Or, Tokiomi, do you equate
+Dialogue: 0,0:04:50.89,0:04:54.69,Default,,0000,0000,0000,,my Noble Phantasm with a \Nmere gardener’s shovel?
+Dialogue: 0,0:04:55.05,0:04:56.43,Default,Toki,0000,0000,0000,,Certainly not!
+Dialogue: 0,0:04:56.98,0:04:58.67,Default,Toki,0000,0000,0000,,But as you can see,
+Dialogue: 0,0:04:58.67,0:05:01.44,Default,,0000,0000,0000,,the others are no match for that monster.
+Dialogue: 0,0:05:01.85,0:05:02.99,Default,Toki,0000,0000,0000,,Here is a chance for you
+Dialogue: 0,0:05:02.99,0:05:05.46,Default,,0000,0000,0000,,to display the power of a true hero.
+Dialogue: 0,0:05:05.46,0:05:07.45,Default,Toki,0000,0000,0000,,I beg you...
+Dialogue: 0,0:05:46.67,0:05:47.87,Default,Toki,0000,0000,0000,,It can't be.
+Dialogue: 0,0:05:49.33,0:05:51.11,Default,Arch,0000,0000,0000,,We're leaving, Tokiomi.
+Dialogue: 0,0:05:51.68,0:05:54.24,Default,Arch,0000,0000,0000,,I shall not look upon that vile thing anymore.
+Dialogue: 0,0:05:54.53,0:05:57.91,Default,Toki,0000,0000,0000,,Please wait, King of Heroes...
+Dialogue: 0,0:05:58.67,0:05:59.89,Default,Arch,0000,0000,0000,,Tokiomi,
+Dialogue: 0,0:05:59.89,0:06:04.41,Default,Arch,0000,0000,0000,,I just sacrificed four of my\N magnificent weapons for you.
+Dialogue: 0,0:06:05.39,0:06:07.98,Default,Arch,0000,0000,0000,,Now they're so tainted by touching that foul thing,
+Dialogue: 0,0:06:07.98,0:06:10.64,Default,Arch,0000,0000,0000,,I no longer even want them back.
+Dialogue: 0,0:06:11.18,0:06:13.84,Default,Arch,0000,0000,0000,,Do not take my generosity for granted.
+Dialogue: 0,0:06:13.84,0:06:16.19,Default,Toki,0000,0000,0000,,But you are the only hero strong enough
+Dialogue: 0,0:06:16.19,0:06:17.90,Default,,0000,0000,0000,,to defeat that monster!
+Dialogue: 0,0:06:18.36,0:06:20.60,Default,Toki,0000,0000,0000,,The only way to overcome \Nits regenerative prowess
+Dialogue: 0,0:06:20.60,0:06:24.19,Default,Toki,0000,0000,0000,,is to completely obliterate the \Ncreature with one blow!
+Dialogue: 0,0:06:24.61,0:06:26.69,Default,Toki,0000,0000,0000,,And, King of Heroes,
+Dialogue: 0,0:06:26.69,0:06:28.61,Default,,0000,0000,0000,,only your Sword of Rupture can—
+Dialogue: 0,0:06:28.61,0:06:29.74,Default,Arch,0000,0000,0000,,Silence!
+Dialogue: 0,0:06:30.82,0:06:33.80,Default,Arch,0000,0000,0000,,You wish me to draw Ea, \Nmy greatest treasure, here?
+Dialogue: 0,0:06:33.80,0:06:35.45,Default,Arch,0000,0000,0000,,You forget yourself, Tokiomi!
+Dialogue: 0,0:06:35.86,0:06:37.84,Default,Arch,0000,0000,0000,,I should execute you
+Dialogue: 0,0:06:37.84,0:06:40.12,Default,,0000,0000,0000,,for allowing such an insult to pass your lips!
+Dialogue: 0,0:06:44.74,0:06:47.10,Default - italic,Toki,0000,0000,0000,,I could use a Command Spell,
+Dialogue: 0,0:06:47.10,0:06:51.22,Default - italic,,0000,0000,0000,,but it would destroy any rapport I \Nhave left with the King of Heroes.
+Dialogue: 0,0:06:51.69,0:06:53.31,Default - italic,Toki,0000,0000,0000,,Besides,
+Dialogue: 0,0:06:53.31,0:06:55.73,Default - italic,Toki,0000,0000,0000,,restoring my lost Command Spell \Nwas the entire reason
+Dialogue: 0,0:06:55.73,0:06:58.73,Default - italic,Toki,0000,0000,0000,,Father Risei and I came up with this plan \Ninvolving Caster in the first place.
+Dialogue: 0,0:06:59.66,0:07:02.97,Default - italic,Toki,0000,0000,0000,,Why is everything backfiring?
+Dialogue: 0,0:07:09.81,0:07:11.32,Default - italic,Toki,0000,0000,0000,,Damn...
+Dialogue: 0,0:07:14.36,0:07:16.83,Default,Ougi,0000,0000,0000,,What the hell is that?
+Dialogue: 0,0:07:17.20,0:07:20.02,Default,Koba,0000,0000,0000,,There's some kind of weird light \Nat six o'clock, too.
+Dialogue: 0,0:07:20.83,0:07:22.36,Default,Ougi,0000,0000,0000,,That's no helicopter.
+Dialogue: 0,0:07:22.36,0:07:24.95,Default,Koba,0000,0000,0000,,What is it? A UFO?
+Dialogue: 0,0:07:26.23,0:07:30.19,Default,Cont,0000,0000,0000,,Control to Diablo-1. \NWhat is your situation?
+Dialogue: 0,0:07:31.36,0:07:32.84,Default,Ougi,0000,0000,0000,,The situation...
+Dialogue: 0,0:07:33.46,0:07:35.64,Default,Ougi,0000,0000,0000,,Uh... Well...
+Dialogue: 0,0:07:36.66,0:07:39.85,Default,Koba,0000,0000,0000,,I'll drop down for a closer look.
+Dialogue: 0,0:07:40.44,0:07:42.52,Default,Ougi,0000,0000,0000,,W-Wait, Kobayashi!
+Dialogue: 0,0:07:43.55,0:07:45.77,Default,Ougi,0000,0000,0000,,Get back up here, Diablo-2!
+Dialogue: 0,0:07:47.41,0:07:51.07,Default,Koba,0000,0000,0000,,If I just get a little closer, I'll be able \Nto see what this thing is—
+Dialogue: 0,0:07:52.78,0:07:53.78,Default,Ougi,0000,0000,0000,,Kobayashi?
+Dialogue: 0,0:08:11.75,0:08:14.25,Default,Ougi,0000,0000,0000,,Kobayashi!
+Dialogue: 0,0:08:17.74,0:08:19.95,Default,Rider,0000,0000,0000,,W-What is that?
+Dialogue: 0,0:08:21.23,0:08:23.56,Default,Waver,0000,0000,0000,,I-It ate it.
+Dialogue: 0,0:08:30.62,0:08:32.64,Default,Cont,0000,0000,0000,,Control to Diablo-1!
+Dialogue: 0,0:08:32.64,0:08:34.63,Default,,0000,0000,0000,,What the hell is going on up there?!
+Dialogue: 0,0:08:34.63,0:08:35.83,Default,Cont,0000,0000,0000,,Respond!
+Dialogue: 0,0:08:36.81,0:08:39.31,Default,Ougi,0000,0000,0000,,Eyes... It has eyes.
+Dialogue: 0,0:08:39.31,0:08:42.03,Default,Ougi,0000,0000,0000,,It's covered in eyes!
+Dialogue: 0,0:08:43.24,0:08:45.79,Default,Cont,0000,0000,0000,,Eyes? What do you mean by eyes?
+Dialogue: 0,0:08:46.64,0:08:49.12,Default,Ougi,0000,0000,0000,,Is it trying to eat me, too?
+Dialogue: 0,0:08:50.20,0:08:51.46,Default,Cont,0000,0000,0000,,Captain Ougi!
+Dialogue: 0,0:08:52.49,0:08:54.55,Default,Ougi,0000,0000,0000,,Diablo-1, engaging!
+Dialogue: 0,0:08:54.55,0:08:57.75,Default,Cont,0000,0000,0000,,W-Wait, Ougi! What's—
+Dialogue: 0,0:08:57.75,0:09:00.06,Default,Ougi,0000,0000,0000,,I'll kill it before it swallows me.
+Dialogue: 0,0:09:00.79,0:09:02.51,Default,Ougi,0000,0000,0000,,This is for Kobayashi...
+Dialogue: 0,0:09:03.29,0:09:05.50,Default,Ougi,0000,0000,0000,,I'll hit it with everything I have!
+Dialogue: 0,0:09:11.88,0:09:12.99,Default,Saber,0000,0000,0000,,Berserker?
+Dialogue: 0,0:09:12.99,0:09:15.15,Default,Waver,0000,0000,0000,,What's he doing here?
+Dialogue: 0,0:09:15.15,0:09:17.87,Default,Rider,0000,0000,0000,,Stay down, fool!
+Dialogue: 0,0:09:18.59,0:09:20.62,Default,Lance,0000,0000,0000,,He had to pick now, of all times?
+Dialogue: 0,0:09:29.21,0:09:30.29,Default,Toki,0000,0000,0000,,That's...
+Dialogue: 0,0:09:32.46,0:09:35.67,Default,Arch,0000,0000,0000,,Ah, the mad dog again?
+Dialogue: 0,0:09:36.18,0:09:37.22,Default,Arch,0000,0000,0000,,Interesting.
+Dialogue: 0,0:09:40.59,0:09:43.81,Default,Toki,0000,0000,0000,,Your Majesty, I shall face his Master.
+Dialogue: 0,0:09:44.14,0:09:45.49,Default,Arch,0000,0000,0000,,Very well.
+Dialogue: 0,0:09:45.49,0:09:47.03,Default,Arch,0000,0000,0000,,Enjoy yourself.
+Dialogue: 0,0:09:47.48,0:09:49.85,Default,Toki,0000,0000,0000,,I wish you good fortune.
+Dialogue: 0,0:10:06.65,0:10:09.51,Default,Arch,0000,0000,0000,,Look at you, a cur that belongs on the ground,
+Dialogue: 0,0:10:10.49,0:10:13.24,Default,Arch,0000,0000,0000,,somehow rising to the heavens, \Nthe king's domain.
+Dialogue: 0,0:10:14.43,0:10:17.13,Default,Arch,0000,0000,0000,,Learn your place, mongrel!
+Dialogue: 0,0:10:33.94,0:10:35.44,Default,Arch,0000,0000,0000,,Impertinence.
+Dialogue: 0,0:11:04.63,0:11:06.01,Default,Arch,0000,0000,0000,,Interesting, indeed.
+Dialogue: 0,0:11:06.01,0:11:09.02,Default,Arch,0000,0000,0000,,I admit I have not been so \Nentertained in quite some time.
+Dialogue: 0,0:11:09.65,0:11:11.90,Default,Arch,0000,0000,0000,,For a mindless animal,
+Dialogue: 0,0:11:12.47,0:11:15.27,Default,Arch,0000,0000,0000,,you certainly do amuse me.
+Dialogue: 0,0:11:22.01,0:11:23.70,Default,Toki,0000,0000,0000,,You're nearly unrecognizable,
+Dialogue: 0,0:11:25.01,0:11:26.54,Default,Toki,0000,0000,0000,,Matou Kariya.
+Dialogue: 0,0:11:28.82,0:11:31.51,Default,Toki,0000,0000,0000,,You once abandoned the path of a mage,
+Dialogue: 0,0:11:31.51,0:11:33.43,Default,,0000,0000,0000,,but you couldn't resist the lure of the Grail.
+Dialogue: 0,0:11:34.10,0:11:37.00,Default,Toki,0000,0000,0000,,And now you return, in this wretched state.
+Dialogue: 0,0:11:37.68,0:11:40.05,Default,Toki,0000,0000,0000,,The mere sight of you suffices to illustrate
+Dialogue: 0,0:11:40.05,0:11:43.53,Default,Toki,0000,0000,0000,,how far the Matou family has fallen.
+Dialogue: 0,0:11:46.55,0:11:49.81,Default,Kari,0000,0000,0000,,Tohsaka Tokiomi, I have only \None question for you.
+Dialogue: 0,0:11:50.18,0:11:53.73,Default,Kari,0000,0000,0000,,Why did you entrust Sakura into \NZouken's custody?
+Dialogue: 0,0:11:54.41,0:11:55.38,Default,Toki,0000,0000,0000,,What?
+Dialogue: 0,0:11:56.16,0:11:59.42,Default,Toki,0000,0000,0000,,Is this truly the time to \Nbe concerned with that?
+Dialogue: 0,0:11:59.42,0:12:01.85,Default,Kari,0000,0000,0000,,Answer me, Tokiomi!
+Dialogue: 0,0:12:04.14,0:12:05.82,Default,Toki,0000,0000,0000,,There is nothing to say.
+Dialogue: 0,0:12:06.44,0:12:10.20,Default,Toki,0000,0000,0000,,I desired to secure a good future \Nfor my daughter.
+Dialogue: 0,0:12:11.05,0:12:12.55,Default,Kari,0000,0000,0000,,What?
+Dialogue: 0,0:12:13.32,0:12:17.48,Default,Kari,0000,0000,0000,,Any mage with two children will \Nface an unfortunate dilemma.
+Dialogue: 0,0:12:18.21,0:12:21.09,Default,Kari,0000,0000,0000,,Only one may inherit the family's secret magic.
+Dialogue: 0,0:12:21.84,0:12:26.97,Default,Kari,0000,0000,0000,,The other is doomed to human mediocrity.
+Dialogue: 0,0:12:28.48,0:12:32.17,Default,Toki,0000,0000,0000,,However, my wife was an \Nexceptional child bearer.
+Dialogue: 0,0:12:32.17,0:12:38.19,Default,Toki,0000,0000,0000,,Both Rin and Sakura displayed \Nuncommon promise as mages.
+Dialogue: 0,0:12:39.00,0:12:41.54,Default,Toki,0000,0000,0000,,Therefore, both required the protection
+Dialogue: 0,0:12:41.54,0:12:44.99,Default,,0000,0000,0000,,that only an established mage \Nfamily could offer.
+Dialogue: 0,0:12:45.53,0:12:48.16,Default,Toki,0000,0000,0000,,How could I, their father,
+Dialogue: 0,0:12:48.16,0:12:51.87,Default,Toki,0000,0000,0000,,sentence one of my daughters to failure, \Nto ensure the other's chances?
+Dialogue: 0,0:12:52.53,0:12:56.89,Default,Toki,0000,0000,0000,,What father could act in such a way?
+Dialogue: 0,0:12:59.30,0:13:01.26,Default - italic,Kari,0000,0000,0000,,Mediocrity...
+Dialogue: 0,0:13:02.42,0:13:06.02,Default - italic,Kari,0000,0000,0000,,The happy family I saw that day...
+Dialogue: 0,0:13:06.02,0:13:10.32,Default - italic,Kari,0000,0000,0000,,He simply dismisses them as mediocrity?
+Dialogue: 0,0:13:11.28,0:13:15.66,Default,Toki,0000,0000,0000,,For both to realize their potential, \NI had no choice
+Dialogue: 0,0:13:15.66,0:13:18.15,Default,Toki,0000,0000,0000,,but to give one up for adoption.
+Dialogue: 0,0:13:18.69,0:13:22.92,Default,Toki,0000,0000,0000,,The Matou family's request was \Nan answer to my prayers.
+Dialogue: 0,0:13:23.78,0:13:26.56,Default,Toki,0000,0000,0000,,With their knowledge of the Grail,
+Dialogue: 0,0:13:26.56,0:13:30.16,Default,Toki,0000,0000,0000,,they have that much greater \Na chance to reach the Root.
+Dialogue: 0,0:13:31.07,0:13:34.68,Default,Toki,0000,0000,0000,,Mages are born with innate power.
+Dialogue: 0,0:13:34.68,0:13:38.79,Default,Toki,0000,0000,0000,,And they eventually attain greater power.
+Dialogue: 0,0:13:40.13,0:13:42.77,Default,Toki,0000,0000,0000,,This responsibility resides in their blood,
+Dialogue: 0,0:13:43.35,0:13:45.76,Default,Toki,0000,0000,0000,,long before their brain\N can comprehend it.
+Dialogue: 0,0:13:46.26,0:13:50.25,Default,Toki,0000,0000,0000,,That is what it means to be a mage's child.
+Dialogue: 0,0:13:51.60,0:13:53.77,Default,Toki,0000,0000,0000,,If I fail to reach it,
+Dialogue: 0,0:13:53.77,0:13:54.83,Default,Toki,0000,0000,0000,,Rin will succeed.
+Dialogue: 0,0:13:55.25,0:13:57.52,Default,Toki,0000,0000,0000,,And if Rin should fail,
+Dialogue: 0,0:13:57.52,0:13:59.15,Default,Toki,0000,0000,0000,,Sakura will succeed.
+Dialogue: 0,0:13:59.92,0:14:02.70,Default,Toki,0000,0000,0000,,They will fulfill the Tohsaka family's desire.
+Dialogue: 0,0:14:05.57,0:14:07.28,Default,Kari,0000,0000,0000,,You bastard...
+Dialogue: 0,0:14:07.28,0:14:09.46,Default,Kari,0000,0000,0000,,You would have them fight each other?
+Dialogue: 0,0:14:09.46,0:14:11.15,Default,Kari,0000,0000,0000,,Sister against sister?
+Dialogue: 0,0:14:11.55,0:14:14.66,Default,Toki,0000,0000,0000,,Even if that's what it comes to,
+Dialogue: 0,0:14:14.66,0:14:17.67,Default,Toki,0000,0000,0000,,my descendants will still be happy.
+Dialogue: 0,0:14:17.67,0:14:18.74,Default,Kari,0000,0000,0000,,What?
+Dialogue: 0,0:14:19.37,0:14:21.77,Default,Toki,0000,0000,0000,,Glory and honor go to the winner.
+Dialogue: 0,0:14:21.77,0:14:24.53,Default,Toki,0000,0000,0000,,The loser will have preserved \Nthe honor of their ancestors.
+Dialogue: 0,0:14:25.05,0:14:27.59,Default,Toki,0000,0000,0000,,One could not dream a happier conclusion.
+Dialogue: 0,0:14:27.59,0:14:30.30,Default,Kari,0000,0000,0000,,You're insane!
+Dialogue: 0,0:14:30.98,0:14:33.78,Default,Toki,0000,0000,0000,,Clearly, I've only wasted my breath.
+Dialogue: 0,0:14:34.86,0:14:37.48,Default,Toki,0000,0000,0000,,None of this could be understood \Nby one oblivious
+Dialogue: 0,0:14:37.48,0:14:41.69,Default,Toki,0000,0000,0000,,to the honor of magic, let alone a \Ntraitor who turned his back on it.
+Dialogue: 0,0:14:41.90,0:14:43.04,Default,Kari,0000,0000,0000,,Go to hell!
+Dialogue: 0,0:15:50.47,0:15:53.39,Default,Kari,0000,0000,0000,,I'll never forgive you.
+Dialogue: 0,0:15:53.95,0:15:56.56,Default,Kari,0000,0000,0000,,You unfeeling mages...
+Dialogue: 0,0:15:57.29,0:15:58.97,Default,Kari,0000,0000,0000,,I'll slaughter you all.
+Dialogue: 0,0:15:58.97,0:16:02.17,Default,Kari,0000,0000,0000,,Zouken... You...
+Dialogue: 0,0:16:02.17,0:16:04.02,Default,Kari,0000,0000,0000,,I'll kill every last
+Dialogue: 0,0:16:04.02,0:16:06.15,Default,Kari,0000,0000,0000,,one of you!
+Dialogue: 0,0:16:07.19,0:16:10.16,Default,Toki,0000,0000,0000,,By severing ties with your father,
+Dialogue: 0,0:16:10.16,0:16:13.60,Default,Toki,0000,0000,0000,,you ensured the Matou family's \Nmagic would pass to Sakura.
+Dialogue: 0,0:16:14.44,0:16:17.72,Default,Toki,0000,0000,0000,,Honestly, it may be that I should thank you.
+Dialogue: 0,0:16:17.72,0:16:19.16,Default,Toki,0000,0000,0000,,And yet...
+Dialogue: 0,0:16:20.57,0:16:23.09,Default,Toki,0000,0000,0000,,I cannot overlook your transgressions.
+Dialogue: 0,0:16:25.42,0:16:28.13,Default,Toki,0000,0000,0000,,Not the weakness of running from \Nthe responsibility of your blood.
+Dialogue: 0,0:16:28.99,0:16:31.97,Default,Toki,0000,0000,0000,,Or the reprehensible lack of \Nremorse for doing so.
+Dialogue: 0,0:16:32.99,0:16:35.87,Default,Toki,0000,0000,0000,,Matou Kariya, you shame \Nthe name of magic itself.
+Dialogue: 0,0:16:36.33,0:16:38.96,Default,Toki,0000,0000,0000,,And now that our paths have crossed again,
+Dialogue: 0,0:16:38.96,0:16:41.81,Default,,0000,0000,0000,,how could I but destroy you?
+Dialogue: 0,0:16:42.17,0:16:45.28,Default,Kari,0000,0000,0000,,Screw you... You inhuman monster!
+Dialogue: 0,0:16:46.18,0:16:47.31,Default,Toki,0000,0000,0000,,Wrong.
+Dialogue: 0,0:16:47.82,0:16:51.54,Default,Toki,0000,0000,0000,,Taking responsibility for oneself is the \Nforemost part of being human.
+Dialogue: 0,0:16:52.53,0:16:54.70,Default,Toki,0000,0000,0000,,Your inability to do even that
+Dialogue: 0,0:16:59.27,0:17:01.00,Default,Toki,0000,0000,0000,,makes you less than human, a dog,
+Dialogue: 0,0:17:01.70,0:17:02.62,Default,Toki,0000,0000,0000,,Kariya.
+Dialogue: 0,0:17:02.96,0:17:06.02,Default,Kari,0000,0000,0000,,My insects, devour him...
+Dialogue: 0,0:17:07.30,0:17:09.04,Default,Kari,0000,0000,0000,,Feast on his flesh!
+Dialogue: 0,0:17:13.13,0:17:15.47,Default,Ryuu,0000,0000,0000,,Go get them, Sir Bluebeard!
+Dialogue: 0,0:17:15.47,0:17:17.94,Default,Ryuu,0000,0000,0000,,Smash 'em! Kill 'em!
+Dialogue: 0,0:17:17.94,0:17:20.60,Default,Ryuu,0000,0000,0000,,We stand within God's own toy box!
+Dialogue: 0,0:17:21.77,0:17:22.71,Default,Waver,0000,0000,0000,,Saber!
+Dialogue: 0,0:17:36.07,0:17:37.74,Default,Rider,0000,0000,0000,,Many thanks, Saber!
+Dialogue: 0,0:17:47.12,0:17:49.92,Default,Ryuu,0000,0000,0000,,I'll never be bored again...
+Dialogue: 0,0:17:50.42,0:17:53.42,Default,Ryuu,0000,0000,0000,,No need to bother with murder anymore.
+Dialogue: 0,0:17:53.80,0:17:56.47,Default,Ryuu,0000,0000,0000,,I can watch them die in droves, \Nwithout lifting a finger.
+Dialogue: 0,0:17:56.47,0:17:57.59,Default,Ryuu,0000,0000,0000,,Crushed...
+Dialogue: 0,0:17:57.59,0:17:58.81,Default,Ryuu,0000,0000,0000,,Sliced...
+Dialogue: 0,0:17:58.81,0:17:59.80,Default,Ryuu,0000,0000,0000,,Smashed...
+Dialogue: 0,0:17:59.80,0:18:01.29,Default,Ryuu,0000,0000,0000,,Eaten.
+Dialogue: 0,0:18:01.29,0:18:04.43,Default,Ryuu,0000,0000,0000,,They'll die and die and die!
+Dialogue: 0,0:18:04.78,0:18:07.15,Default,Ryuu,0000,0000,0000,,Blood and guts I've never laid eyes on.
+Dialogue: 0,0:18:07.15,0:18:09.41,Default,Ryuu,0000,0000,0000,,I'll get to see them all.
+Dialogue: 0,0:18:10.96,0:18:12.94,Default,Ryuu,0000,0000,0000,,Every day... Every day...
+Dialogue: 0,0:18:12.94,0:18:15.94,Default,Ryuu,0000,0000,0000,,Everywhere! All across the world!
+Dialogue: 0,0:18:15.94,0:18:18.07,Default,Ryuu,0000,0000,0000,,Never ending! Never end—
+Dialogue: 0,0:18:24.20,0:18:25.45,Default,Waver,0000,0000,0000,,It stopped?
+Dialogue: 0,0:18:29.25,0:18:30.51,Default,Ryuu,0000,0000,0000,,What?
+Dialogue: 0,0:18:31.15,0:18:32.84,Default,Ryuu,0000,0000,0000,,What's up?
+Dialogue: 0,0:18:43.92,0:18:46.98,Default,Ryuu,0000,0000,0000,,It's so beautiful...
+Dialogue: 0,0:18:50.22,0:18:52.46,Default,Ryuu,0000,0000,0000,,Of course...
+Dialogue: 0,0:18:52.46,0:18:55.05,Default,Ryuu,0000,0000,0000,,I never noticed.
+Dialogue: 0,0:18:55.94,0:19:00.02,Default,Ryuu,0000,0000,0000,,They say you can't see what's \Nright before you.
+Dialogue: 0,0:19:00.77,0:19:02.49,Default,Ryuu,0000,0000,0000,,Everything I sought...
+Dialogue: 0,0:19:03.08,0:19:05.45,Default,Ryuu,0000,0000,0000,,It was hiding right here.
+Dialogue: 0,0:19:05.85,0:19:09.06,Default,,0000,0000,0000,,Within my own guts...
+Dialogue: 0,0:19:09.06,0:19:11.63,Default,Ryuu,0000,0000,0000,,this entire time.
+Dialogue: 0,0:19:12.86,0:19:14.50,Default,Cast,0000,0000,0000,,Ryuunosuke!
+Dialogue: 0,0:19:17.31,0:19:19.51,Default,Ryuu,0000,0000,0000,,I finally found it...
+Dialogue: 0,0:19:20.05,0:19:22.82,Default,Ryuu,0000,0000,0000,,I've been looking for so long.
+Dialogue: 0,0:19:25.02,0:19:26.52,Default,Ryuu,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:19:27.34,0:19:31.27,Default,Ryuu,0000,0000,0000,,I wish you'd just told me...
+Dialogue: 0,0:19:32.77,0:19:35.68,Default,Ryuu,0000,0000,0000,,that it was inside me all along.
+Dialogue: 0,0:19:54.32,0:19:58.05,Default,Cast,0000,0000,0000,,Ryuunosuke... My Master.
+Dialogue: 0,0:19:58.44,0:20:01.65,Default,Cast,0000,0000,0000,,You have left this world before me.
+Dialogue: 0,0:20:02.68,0:20:06.45,Default,Cast,0000,0000,0000,,But fear not, Ryuunosuke.
+Dialogue: 0,0:20:06.45,0:20:08.31,Default,Cast,0000,0000,0000,,I, Gilles de Rais,
+Dialogue: 0,0:20:08.31,0:20:11.99,Default,Cast,0000,0000,0000,,shall keep my promise to you...
+Dialogue: 0,0:20:15.98,0:20:18.97,Default,Cast,0000,0000,0000,,Behold, Ryuunosuke!
+Dialogue: 0,0:20:18.97,0:20:20.74,Default,Cast,0000,0000,0000,,A gift for your journey to the next world!
+Dialogue: 0,0:20:20.74,0:20:26.00,Default,Cast,0000,0000,0000,,The coolest thing ever!
+Dialogue: 0,0:20:30.96,0:20:35.04,Default,Kiri,0000,0000,0000,,I shot the boy we thought \Nto be Caster's Master.
+Dialogue: 0,0:20:35.35,0:20:37.92,Default,Kiri,0000,0000,0000,,And it looks like we were right.
+Dialogue: 0,0:20:38.50,0:20:41.88,Default,Maiya,0000,0000,0000,,Should we move on to the next target,
+Dialogue: 0,0:20:41.88,0:20:44.01,Default,,0000,0000,0000,,while the Servants are occupied \Nwith the monster?
+Dialogue: 0,0:20:44.01,0:20:44.99,Default,Kiri,0000,0000,0000,,Hold on, Maiya.
+Dialogue: 0,0:20:45.70,0:20:47.50,Default,Kiri,0000,0000,0000,,That's no ordinary monster.
+Dialogue: 0,0:20:48.49,0:20:51.18,Default,Kiri,0000,0000,0000,,It's an immortal monster that \Ncan endlessly regenerate.
+Dialogue: 0,0:20:51.64,0:20:55.31,Default,Kiri,0000,0000,0000,,It will reach the shore before it vanishes.
+Dialogue: 0,0:20:55.31,0:20:58.19,Default,Kiri,0000,0000,0000,,If it finds a new food source, \N it will mean the end.
+Dialogue: 0,0:20:58.55,0:21:01.83,Default,Kiri,0000,0000,0000,,Caster will have all the mana he \Nrequires to maintain his incarnation.
+Dialogue: 0,0:21:01.83,0:21:04.61,Default,Maiya,0000,0000,0000,,That will lead to more casualties.
+Dialogue: 0,0:21:04.61,0:21:08.12,Default,Maiya,0000,0000,0000,,It may even endanger the \NHoly Grail War itself.
+Dialogue: 0,0:21:08.71,0:21:10.38,Default,Kiri,0000,0000,0000,,Exactly.
+Dialogue: 0,0:21:10.86,0:21:13.85,Default,Maiya,0000,0000,0000,,But how do we defeat an immortal monster?
+Dialogue: 0,0:21:14.29,0:21:17.38,Default,Kiri,0000,0000,0000,,We must utterly annihilate it in a single attack.
+Dialogue: 0,0:21:17.38,0:21:23.75,Default,Kiri,0000,0000,0000,,One so massive, it destroys \Nevery last particle of flesh.
+Dialogue: 0,0:21:24.93,0:21:26.78,Default,Kiri,0000,0000,0000,,Anti-unit or anti-army Noble Phantasms\N won't be enough.
+Dialogue: 0,0:21:27.58,0:21:29.51,Default,,0000,0000,0000,,We need an anti-fortress one.
+Dialogue: 0,0:21:31.44,0:21:32.64,Default,Kiri,0000,0000,0000,,And Saber
+Dialogue: 0,0:21:33.30,0:21:35.64,Default,Kiri,0000,0000,0000,,possesses such an attack.
+Dialogue: 0,0:21:38.57,0:21:42.40,Default,Kiri,0000,0000,0000,,But she currently cannot use it, \Ndue to Lancer's curse.
+Dialogue: 0,0:21:44.08,0:21:45.15,Default,Kiri,0000,0000,0000,,In the end,
+Dialogue: 0,0:21:45.86,0:21:48.88,Default,Kiri,0000,0000,0000,,I shall let them show us
+Dialogue: 0,0:21:48.88,0:21:50.90,Default,Kiri,0000,0000,0000,,what they call chivalry.
+Dialogue: 0,0:21:52.04,0:21:55.04,Title,Kiri,0000,0000,0000,,Episode 14: \NBloody Battle on the Mion River
+Dialogue: 0,0:23:26.99,0:23:28.65,Default,Cast,0000,0000,0000,,This light...
+Dialogue: 0,0:23:28.65,0:23:29.81,Default,Arch,0000,0000,0000,,You struggle, all for naught.
+Dialogue: 0,0:23:29.81,0:23:31.37,Default,Iry,0000,0000,0000,,The undefeated king sings loud and clear
+Dialogue: 0,0:23:31.37,0:23:33.53,Default,Iry,0000,0000,0000,,the name of the miracle she \Nholds in her hands.
+Dialogue: 0,0:23:33.53,0:23:35.30,Default,Rider,0000,0000,0000,,This is painful to see.
+Dialogue: 0,0:23:35.30,0:23:36.50,Default,Toki,0000,0000,0000,,He's going to sacrifice himself?
+Dialogue: 0,0:23:36.50,0:23:37.83,Default,Saber,0000,0000,0000,,We must stop it now!
+Dialogue: 0,0:23:37.52,0:23:40.01,Title,Lance,0000,0000,0000,,Next Time: \NGolden Light
+Dialogue: 0,0:23:37.83,0:23:39.59,Default,Lance,0000,0000,0000,,I shall put my trust in you, Saber.
+Dialogue: 0,0:23:40.01,0:23:42.01,Title,,0000,0000,0000,,

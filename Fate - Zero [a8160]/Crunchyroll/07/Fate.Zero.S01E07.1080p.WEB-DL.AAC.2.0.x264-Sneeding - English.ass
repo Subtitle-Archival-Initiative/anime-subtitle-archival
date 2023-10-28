@@ -1,0 +1,357 @@
+﻿[Script Info]
+Title: English
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0005,0
+Style: Default - italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Title,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,0
+Style: Sign7A,Georgia,26,&H00B7C6B8,&H000000FF,&H004F584E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.81,0:00:05.90,Default,LT,0000,0000,0000,,This way.
+Dialogue: 0,0:00:09.62,0:00:10.99,Default,Capt,0000,0000,0000,,What in the world?
+Dialogue: 0,0:00:14.16,0:00:15.99,Default,LT,0000,0000,0000,,Get back to your posts.
+Dialogue: 0,0:00:17.29,0:00:19.85,Default,LT,0000,0000,0000,,It's like a giant drop of mercury.
+Dialogue: 0,0:00:19.85,0:00:22.00,Default,Capt,0000,0000,0000,,It almost looks alive.
+Dialogue: 0,0:00:28.04,0:00:29.42,Default,Capt,0000,0000,0000,,Must move it.
+Dialogue: 0,0:00:29.42,0:00:30.90,Default,LT,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:00:30.90,0:00:33.46,Default,Capt,0000,0000,0000,,Must move it.  Must move it.
+Dialogue: 0,0:00:33.46,0:00:34.42,Default,LT,0000,0000,0000,,Sir?
+Dialogue: 0,0:00:34.42,0:00:35.68,Default,Capt,0000,0000,0000,,Load it onto the truck!
+Dialogue: 0,0:00:36.17,0:00:37.52,Default,Capt,0000,0000,0000,,Move it!
+Dialogue: 0,0:02:08.49,0:02:13.02,Default,Risei,0000,0000,0000,,The Holy Grail War has been placed \Nin grave danger.
+Dialogue: 0,0:02:13.02,0:02:14.84,Default,Risei,0000,0000,0000,,We have discovered that Caster's Master
+Dialogue: 0,0:02:14.84,0:02:17.11,Default,Risei,0000,0000,0000,,is the criminal behind the \Nserial kidnappings,
+Dialogue: 0,0:02:17.11,0:02:20.53,Default,Risei,0000,0000,0000,,which have had Fuyuki City in an uproar.
+Dialogue: 0,0:02:21.46,0:02:26.30,Default,Risei,0000,0000,0000,,Therefore, exercising my emergency authority \Nas the impartial mediator,
+Dialogue: 0,0:02:26.30,0:02:29.04,Default,,0000,0000,0000,,I shall be changing the rules temporarily.
+Dialogue: 0,0:02:29.04,0:02:31.05,Default,Risei,0000,0000,0000,,All other Masters are to suspend
+Dialogue: 0,0:02:31.05,0:02:34.19,Default,,0000,0000,0000,,their current actions, \Nwhatever they may be,
+Dialogue: 0,0:02:34.19,0:02:37.48,Default,Risei,0000,0000,0000,,and focus all efforts on \NCaster's elimination.
+Dialogue: 0,0:02:37.48,0:02:41.62,Default,Risei,0000,0000,0000,,Whoever eliminates \NCaster and his Master
+Dialogue: 0,0:02:41.62,0:02:45.06,Default,Risei,0000,0000,0000,,will be rewarded with extra \NCommand Spells.
+Dialogue: 0,0:02:45.79,0:02:48.32,Default,Risei,0000,0000,0000,,They are Spells that went unused
+Dialogue: 0,0:02:48.32,0:02:51.83,Default,,0000,0000,0000,,by the Masters defeated \Nin the previous Holy Grail Wars.
+Dialogue: 0,0:02:51.83,0:02:57.32,Default,Risei,0000,0000,0000,,I expect that they would be a priceless \Ncommodity to all of you.
+Dialogue: 0,0:02:57.79,0:03:00.73,Default,Risei,0000,0000,0000,,Once we have confirmed Caster's death,
+Dialogue: 0,0:03:00.73,0:03:04.58,Default,,0000,0000,0000,,we will resume the Holy Grail War proper.
+Dialogue: 0,0:03:04.58,0:03:09.28,Default,Risei,0000,0000,0000,,If any of you have questions, \Nthis is the time to ask.
+Dialogue: 0,0:03:09.94,0:03:12.96,Default,Risei,0000,0000,0000,,Although I must insist that \Nonly those of you
+Dialogue: 0,0:03:12.96,0:03:14.96,Default,,0000,0000,0000,,capable of human speech do so.
+Dialogue: 0,0:03:18.96,0:03:20.72,Default,Toki,0000,0000,0000,,Well done, Father.
+Dialogue: 0,0:03:21.10,0:03:25.10,Default,Toki,0000,0000,0000,,That should have all the Masters \Nfully engaged in this hunt.
+Dialogue: 0,0:03:25.52,0:03:29.20,Default,Risei,0000,0000,0000,,There were five familiars in the church.
+Dialogue: 0,0:03:29.20,0:03:30.10,Default,Risei,0000,0000,0000,,Which means...
+Dialogue: 0,0:03:30.79,0:03:36.65,Default,Toki,0000,0000,0000,,Which means that Lord El-Melloi is alive, \Ndespite his disappearance.
+Dialogue: 0,0:03:36.65,0:03:37.78,Default,Risei,0000,0000,0000,,Indeed.
+Dialogue: 0,0:03:38.17,0:03:41.12,Default,Risei,0000,0000,0000,,Promising extra Command Spells
+Dialogue: 0,0:03:41.12,0:03:45.16,Default,Risei,0000,0000,0000,,will attract Lord El-Melloi, \Nwho has already used one,
+Dialogue: 0,0:03:45.16,0:03:48.40,Default,,0000,0000,0000,,and the other Masters as well.
+Dialogue: 0,0:03:48.92,0:03:51.37,Default,Risei,0000,0000,0000,,They will not want someone else to claim the extra Command Spells
+Dialogue: 0,0:03:51.90,0:03:55.58,Default,Risei,0000,0000,0000,,when they could have them for themselves.
+Dialogue: 0,0:03:55.58,0:03:59.66,Default,Toki,0000,0000,0000,,Yes, whoever obtains \Nthose Command Spells
+Dialogue: 0,0:03:59.66,0:04:02.38,Default,,0000,0000,0000,,will have a considerable advantage.
+Dialogue: 0,0:04:02.38,0:04:04.64,Default,Risei,0000,0000,0000,,Of course, we wouldn't want that.
+Dialogue: 0,0:04:05.18,0:04:10.64,Default,Risei,0000,0000,0000,,Let those hounds sniff Caster out, \Nsoften him up,
+Dialogue: 0,0:04:11.02,0:04:15.34,Default,Risei,0000,0000,0000,,and Archer will be the one to finish him.
+Dialogue: 0,0:04:16.69,0:04:18.11,Default,Guy,0000,0000,0000,,E-Excuse me...
+Dialogue: 0,0:04:18.61,0:04:22.19,Default,Guy,0000,0000,0000,,Is this the Mackenzie household?
+Dialogue: 0,0:04:22.19,0:04:26.57,Default,Rider,0000,0000,0000,,That is the owners' name, yes.
+Dialogue: 0,0:04:26.57,0:04:28.08,Default,Guy,0000,0000,0000,,Right...
+Dialogue: 0,0:04:28.08,0:04:31.62,Default,Guy,0000,0000,0000,,Is there an "Iskandar, King of Conquerors" here?
+Dialogue: 0,0:04:31.62,0:04:33.11,Default,Rider,0000,0000,0000,,That would be me.
+Dialogue: 0,0:04:33.11,0:04:34.03,Default,Guy,0000,0000,0000,,Oh...
+Dialogue: 0,0:04:34.03,0:04:36.06,Default,Guy,0000,0000,0000,,Uh, pardon me.
+Dialogue: 0,0:04:37.24,0:04:40.90,Default,Guy,0000,0000,0000,,I'll need you to sign for this.
+Dialogue: 0,0:04:40.90,0:04:42.02,Default,Rider,0000,0000,0000,,My signature?
+Dialogue: 0,0:04:42.02,0:04:43.38,Default,Rider,0000,0000,0000,,But of course.
+Dialogue: 0,0:04:45.83,0:04:47.73,Default,Rider,0000,0000,0000,,There you go.
+Dialogue: 0,0:04:48.63,0:04:51.56,Default,Guy,0000,0000,0000,,T-Thank you...
+Dialogue: 0,0:04:54.31,0:05:02.03,Sign7A,Guy,0000,0000,0000,,Master Strategist
+Dialogue: 0,0:04:56.15,0:05:01.54,Default,Rider,0000,0000,0000,,Having a world map across my chest \Nis quite gratifying!
+Dialogue: 0,0:05:03.20,0:05:05.48,Default,Waver,0000,0000,0000,,Where did you get that?
+Dialogue: 0,0:05:05.48,0:05:07.20,Default,Rider,0000,0000,0000,,My package came today.
+Dialogue: 0,0:05:07.79,0:05:09.73,Default,Waver,0000,0000,0000,,You left the house?
+Dialogue: 0,0:05:10.55,0:05:13.58,Default,Rider,0000,0000,0000,,I tried out this so-called \N"mail-order service."
+Dialogue: 0,0:05:13.58,0:05:16.81,Default,Waver,0000,0000,0000,,I told you to stay on the second floor!
+Dialogue: 0,0:05:16.81,0:05:21.48,Default,Rider,0000,0000,0000,,The homeowners are away, \Nand you were busy with your familiar.
+Dialogue: 0,0:05:21.48,0:05:23.63,Default,,0000,0000,0000,,Only I could answer the door.
+Dialogue: 0,0:05:23.63,0:05:25.46,Default,Waver,0000,0000,0000,,I couldn't help it.
+Dialogue: 0,0:05:25.46,0:05:28.89,Default,Waver,0000,0000,0000,,A meeting called by the Holy Church \Nisn't something I can ignore.
+Dialogue: 0,0:05:28.89,0:05:30.94,Default,Rider,0000,0000,0000,,You need not worry.
+Dialogue: 0,0:05:30.94,0:05:34.68,Default,Rider,0000,0000,0000,,I realized something when \NI saw Saber last night.
+Dialogue: 0,0:05:35.23,0:05:37.25,Default,Rider,0000,0000,0000,,There is no reason I cannot walk outside,
+Dialogue: 0,0:05:37.25,0:05:41.27,Default,,0000,0000,0000,,provided I am wearing modern attire.
+Dialogue: 0,0:05:41.27,0:05:43.42,Default,Waver,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:05:43.42,0:05:46.27,Default,Waver,0000,0000,0000,,If you're gonna go out, \Nat least put some pants on!
+Dialogue: 0,0:05:46.89,0:05:48.47,Default,Waver,0000,0000,0000,,Of course, leggings...
+Dialogue: 0,0:05:49.33,0:05:52.70,Default,Rider,0000,0000,0000,,Everyone in this country wears them.
+Dialogue: 0,0:05:53.54,0:05:54.70,Default,Rider,0000,0000,0000,,Are those really necessary?
+Dialogue: 0,0:05:54.70,0:05:56.37,Default,Waver,0000,0000,0000,,Absolutely essential!
+Dialogue: 0,0:05:56.37,0:05:58.49,Default,Waver,0000,0000,0000,,And I'll tell you right now,
+Dialogue: 0,0:05:58.49,0:06:01.03,Default,,0000,0000,0000,,I'm not going out to buy any
+Dialogue: 0,0:06:01.03,0:06:04.67,Default,,0000,0000,0000,,mega-sized pants for you.
+Dialogue: 0,0:06:04.67,0:06:05.96,Default,Rider,0000,0000,0000,,What?!
+Dialogue: 0,0:06:05.96,0:06:10.18,Default,,0000,0000,0000,,Boy, would you stand between \Nme and my world conquest?
+Dialogue: 0,0:06:10.18,0:06:11.98,Default,Waver,0000,0000,0000,,Your pants and your quest
+Dialogue: 0,0:06:11.98,0:06:15.67,Default,Waver,0000,0000,0000,,have nothing to do with one another, in any way, shape, or form!
+Dialogue: 0,0:06:15.67,0:06:21.73,Default,Waver,0000,0000,0000,,You can worry about having fun \Nonce you've defeated a Servant!
+Dialogue: 0,0:06:21.73,0:06:24.23,Default,Waver,0000,0000,0000,,Do that, and I'll buy you any \Npants you want!
+Dialogue: 0,0:06:24.23,0:06:25.59,Default,Rider,0000,0000,0000,,Oh?
+Dialogue: 0,0:06:26.03,0:06:27.36,Default,Rider,0000,0000,0000,,Very well.
+Dialogue: 0,0:06:27.36,0:06:31.70,Default,Rider,0000,0000,0000,,You swear that when I present \Nyou with an enemy's head,
+Dialogue: 0,0:06:31.70,0:06:34.66,Default,Rider,0000,0000,0000,,you will get me a pair of pants?
+Dialogue: 0,0:06:35.27,0:06:36.65,Default,Waver,0000,0000,0000,,You...
+Dialogue: 0,0:06:36.65,0:06:40.42,Default,Waver,0000,0000,0000,,You really want to go outside \Nin modern casual wear, huh?
+Dialogue: 0,0:06:40.42,0:06:43.31,Default,Rider,0000,0000,0000,,The King of Knights did is already doing it.
+Dialogue: 0,0:06:43.31,0:06:46.39,Default,Rider,0000,0000,0000,,As a king, I cannot be outdone by her.
+Dialogue: 0,0:06:46.39,0:06:48.68,Default,Rider,0000,0000,0000,,Additionally, this design pleases me.
+Dialogue: 0,0:06:48.68,0:06:51.15,Default,Rider,0000,0000,0000,,It makes a fitting crest \Nfor such a ruler as I!
+Dialogue: 0,0:06:51.46,0:06:55.18,Default,Waver,0000,0000,0000,,We still have to find where \NCaster's hiding...
+Dialogue: 0,0:06:55.18,0:06:57.43,Default,,0000,0000,0000,,What the heck are we doing?
+Dialogue: 0,0:06:58.02,0:07:00.77,Default,Iri,0000,0000,0000,,Kiritsugu, should we assume the others
+Dialogue: 0,0:07:00.77,0:07:02.85,Default,,0000,0000,0000,,will now focus on Caster?
+Dialogue: 0,0:07:02.85,0:07:04.57,Default,Kiri,0000,0000,0000,,There is little doubt.
+Dialogue: 0,0:07:05.07,0:07:08.57,Default,Kiri,0000,0000,0000,,But we have an advantage \Nwhen it comes to Caster.
+Dialogue: 0,0:07:08.98,0:07:10.83,Default,Kiri,0000,0000,0000,,I don't know if he's insane,
+Dialogue: 0,0:07:10.83,0:07:14.42,Default,Kiri,0000,0000,0000,,but he is coming after Saber \Nbecause he thinks she is Jeanne d'Arc.
+Dialogue: 0,0:07:14.42,0:07:15.83,Default,Kiri,0000,0000,0000,,That gives us the advantage.
+Dialogue: 0,0:07:16.28,0:07:18.34,Default,Kiri,0000,0000,0000,,We can merely wait for an opportunity.
+Dialogue: 0,0:07:18.97,0:07:21.49,Default,Saber,0000,0000,0000,,That won't do, Master.
+Dialogue: 0,0:07:21.49,0:07:23.44,Default,Saber,0000,0000,0000,,His evil deeds are too heinous to overlook.
+Dialogue: 0,0:07:23.44,0:07:25.23,Default,Saber,0000,0000,0000,,We should seek him out
+Dialogue: 0,0:07:25.23,0:07:27.30,Default,,0000,0000,0000,,before more innocents fall \Nto his madness.
+Dialogue: 0,0:07:30.93,0:07:35.09,Default,Kiri,0000,0000,0000,,Iri, have you learned how to use \Nthe magical barriers in the forest?
+Dialogue: 0,0:07:35.09,0:07:36.92,Default,Iri,0000,0000,0000,,Yes, I have.
+Dialogue: 0,0:07:36.92,0:07:40.56,Default,Iri,0000,0000,0000,,I'm more worried about the \Ncurse on Saber's left hand.
+Dialogue: 0,0:07:41.43,0:07:45.27,Default,Iri,0000,0000,0000,,It's been eighteen hours since \Nyou defeated Kayneth,
+Dialogue: 0,0:07:45.27,0:07:49.15,Default,Iri,0000,0000,0000,,but your hand hasn't healed.
+Dialogue: 0,0:07:49.69,0:07:51.76,Default,Iri,0000,0000,0000,,Lancer is still alive.
+Dialogue: 0,0:07:52.13,0:07:55.42,Default,Iri,0000,0000,0000,,If we want to be completely \Nprepared to fight Caster,
+Dialogue: 0,0:07:55.42,0:07:57.53,Default,Iri,0000,0000,0000,,maybe we should focus on \Ndefeating Lancer first?
+Dialogue: 0,0:07:57.53,0:07:59.26,Default,Kiri,0000,0000,0000,,I disagree.
+Dialogue: 0,0:07:59.96,0:08:03.40,Default,Kiri,0000,0000,0000,,Just use the terrain to your advantage, and do not let Saber stay still.
+Dialogue: 0,0:08:03.40,0:08:05.56,Default,Kiri,0000,0000,0000,,Do your utmost to confuse the enemy.
+Dialogue: 0,0:08:07.04,0:08:09.00,Default,Iri,0000,0000,0000,,You won't send her to fight Caster?
+Dialogue: 0,0:08:09.52,0:08:12.62,Default,Kiri,0000,0000,0000,,Someone will take him down eventually.
+Dialogue: 0,0:08:12.62,0:08:17.14,Default,Kiri,0000,0000,0000,,In fact, the fools who rush to fight him \Nwill be better prey for us.
+Dialogue: 0,0:08:18.44,0:08:20.97,Default,Kiri,0000,0000,0000,,I will attack from their flank.
+Dialogue: 0,0:08:21.57,0:08:22.83,Default,Saber,0000,0000,0000,,Master...
+Dialogue: 0,0:08:22.83,0:08:24.14,Default,Saber,0000,0000,0000,,How long...
+Dialogue: 0,0:08:24.48,0:08:27.44,Default,Saber,0000,0000,0000,,do you plan to continue this cowardice?!
+Dialogue: 0,0:08:27.44,0:08:29.32,Default,Saber,0000,0000,0000,,You shame the Heroic Spirits!
+Dialogue: 0,0:08:29.32,0:08:32.02,Default,Saber,0000,0000,0000,,Why do you not send me into battle?
+Dialogue: 0,0:08:32.02,0:08:36.37,Default,Saber,0000,0000,0000,,Have you so little faith \Nin your Servant?
+Dialogue: 0,0:08:37.79,0:08:40.62,Default,Iri,0000,0000,0000,,We're supposedly in a truce \Nwith the others, right?
+Dialogue: 0,0:08:41.01,0:08:42.27,Default,Kiri,0000,0000,0000,,It's irrelevant.
+Dialogue: 0,0:08:42.89,0:08:45.62,Default,Kiri,0000,0000,0000,,I distrust the mediator.
+Dialogue: 0,0:08:46.03,0:08:50.51,Default,Kiri,0000,0000,0000,,He's harboring Assassin's Master, \Nbut pretends otherwise.
+Dialogue: 0,0:08:50.51,0:08:52.63,Default,Kiri,0000,0000,0000,,He may be in league with Tohsaka.
+Dialogue: 0,0:08:53.20,0:08:54.96,Default,Kiri,0000,0000,0000,,We are safer being suspicious.
+Dialogue: 0,0:08:56.16,0:08:58.38,Default,Kiri,0000,0000,0000,,That's all.  You're dismissed.
+Dialogue: 0,0:09:04.22,0:09:05.23,Default,Iri,0000,0000,0000,,Kiritsugu...
+Dialogue: 0,0:09:09.05,0:09:10.06,Default,Kiri,0000,0000,0000,,If...
+Dialogue: 0,0:09:11.90,0:09:12.94,Default,Kiri,0000,0000,0000,,If I...
+Dialogue: 0,0:09:13.49,0:09:17.36,Default,,0000,0000,0000,,If I decided right here to abandon \Nall this, and go on the run...
+Dialogue: 0,0:09:18.14,0:09:21.12,Default,Kiri,0000,0000,0000,,Would you come with me, Iri?
+Dialogue: 0,0:09:22.41,0:09:23.68,Default,Iri,0000,0000,0000,,But what about Ilya?
+Dialogue: 0,0:09:23.68,0:09:26.37,Default,Iri,0000,0000,0000,,What about our daughter, who's still at the castle!
+Dialogue: 0,0:09:26.37,0:09:30.03,Default,Kiri,0000,0000,0000,,I'll return for her and kill any \Nwho stand in my way.
+Dialogue: 0,0:09:30.03,0:09:31.67,Default,Kiri,0000,0000,0000,,And after that...
+Dialogue: 0,0:09:32.56,0:09:36.51,Default,Kiri,0000,0000,0000,,I'll dedicate my life \Nto caring for you two!
+Dialogue: 0,0:09:38.11,0:09:40.01,Default,Iri,0000,0000,0000,,Can we escape?
+Dialogue: 0,0:09:40.01,0:09:41.19,Default,Kiri,0000,0000,0000,,Of course we can!
+Dialogue: 0,0:09:41.19,0:09:42.50,Default,Kiri,0000,0000,0000,,It's not too late!
+Dialogue: 0,0:09:44.31,0:09:45.07,Default,Iri,0000,0000,0000,,You're lying.
+Dialogue: 0,0:09:46.06,0:09:47.33,Default,Iri,0000,0000,0000,,That's a lie.
+Dialogue: 0,0:09:48.94,0:09:51.31,Default,Iri,0000,0000,0000,,I know you can't run away.
+Dialogue: 0,0:09:51.76,0:09:53.82,Default,Iri,0000,0000,0000,,You would never forgive yourself
+Dialogue: 0,0:09:53.82,0:09:55.87,Default,Iri,0000,0000,0000,,for abandoning the Grail...
+Dialogue: 0,0:09:56.60,0:09:58.45,Default,Iri,0000,0000,0000,,For turning your back on the world.
+Dialogue: 0,0:09:59.31,0:10:03.48,Default,Iri,0000,0000,0000,,You would be the first and last to judge yourself,
+Dialogue: 0,0:10:04.23,0:10:06.72,Default,Iri,0000,0000,0000,,and it would mean the death of you.
+Dialogue: 0,0:10:08.67,0:10:09.76,Default,Kiri,0000,0000,0000,,I'm scared.
+Dialogue: 0,0:10:11.56,0:10:12.47,Default,Kiri,0000,0000,0000,,He...
+Dialogue: 0,0:10:13.30,0:10:15.73,Default,Kiri,0000,0000,0000,,Kotomine Kirei is after me.
+Dialogue: 0,0:10:16.25,0:10:17.90,Default,Kiri,0000,0000,0000,,Maiya told me.
+Dialogue: 0,0:10:17.90,0:10:20.93,Default,Kiri,0000,0000,0000,,He used Kayneth as bait \Nto lure me into the open.
+Dialogue: 0,0:10:21.37,0:10:23.04,Default,Kiri,0000,0000,0000,,He knew how I operate.
+Dialogue: 0,0:10:23.97,0:10:26.48,Default,Kiri,0000,0000,0000,,I've already had to sacrifice you,
+Dialogue: 0,0:10:26.48,0:10:28.54,Default,Kiri,0000,0000,0000,,and left Ilya behind.
+Dialogue: 0,0:10:29.18,0:10:32.53,Default,Kiri,0000,0000,0000,,But the most dangerous \Nof all is still after me.
+Dialogue: 0,0:10:32.53,0:10:35.32,Default,Kiri,0000,0000,0000,,The only one I didn't want to face!
+Dialogue: 0,0:10:37.96,0:10:40.36,Default,Iri,0000,0000,0000,,You're not fighting alone.
+Dialogue: 0,0:10:40.82,0:10:44.17,Default,Iri,0000,0000,0000,,I will protect you, as will Saber.
+Dialogue: 0,0:10:44.17,0:10:45.35,Default,Iri,0000,0000,0000,,And...
+Dialogue: 0,0:10:46.04,0:10:47.41,Default,Iri,0000,0000,0000,,Maiya-san's here, too.
+Dialogue: 0,0:10:51.23,0:10:52.67,Default,Iri,0000,0000,0000,,Kiritsugu!
+Dialogue: 0,0:10:54.30,0:10:55.51,Default,Kiri,0000,0000,0000,,An attack?
+Dialogue: 0,0:10:56.63,0:10:58.77,Default,Kiri,0000,0000,0000,,Luckily, Maiya has not yet left.
+Dialogue: 0,0:10:59.59,0:11:01.83,Default,Kiri,0000,0000,0000,,We can meet it head-on.
+Dialogue: 0,0:11:04.63,0:11:08.25,Default,Kiri,0000,0000,0000,,Iri, get a long-range \Ncrystal ball.
+Dialogue: 0,0:11:14.69,0:11:15.77,Default,Iri,0000,0000,0000,,There they are.
+Dialogue: 0,0:11:16.88,0:11:19.99,Default,Saber,0000,0000,0000,,Irisviel, the enemy is baiting us.
+Dialogue: 0,0:11:20.51,0:11:23.16,Default,Iri,0000,0000,0000,,They must be hostages.
+Dialogue: 0,0:11:23.16,0:11:26.57,Default,Saber,0000,0000,0000,,I'll have to go out and save them.
+Dialogue: 0,0:11:30.63,0:11:32.25,Default,Iri,0000,0000,0000,,He knows we're watching him!
+Dialogue: 0,0:11:32.25,0:11:34.74,Default,Cast,0000,0000,0000,,As promised the other night,
+Dialogue: 0,0:11:34.74,0:11:38.01,Default,Cast,0000,0000,0000,,I, Gilles de Rais, have come for you.
+Dialogue: 0,0:11:38.48,0:11:44.09,Default,Cast,0000,0000,0000,,I desire an audience with Jeanne, \Nmy beautiful virgin angel.
+Dialogue: 0,0:11:44.43,0:11:45.22,Default,Saber,0000,0000,0000,,Irisviel!
+Dialogue: 0,0:11:45.60,0:11:48.12,Default,Cast,0000,0000,0000,,Please take all the time you require.
+Dialogue: 0,0:11:48.12,0:11:54.05,Default,Cast,0000,0000,0000,,I have come fully prepared \Nfor a lengthy wait.
+Dialogue: 0,0:11:55.41,0:11:59.19,Default,Cast,0000,0000,0000,,Now my little lambs, \Ntime for a game of tag!
+Dialogue: 0,0:11:59.19,0:12:00.52,Default,Cast,0000,0000,0000,,The rules are simple.
+Dialogue: 0,0:12:00.52,0:12:02.81,Default,Cast,0000,0000,0000,,You must run away from me.
+Dialogue: 0,0:12:02.81,0:12:04.13,Default,Cast,0000,0000,0000,,If I catch you...
+Dialogue: 0,0:12:05.12,0:12:06.11,Default,Saber,0000,0000,0000,,Don't!
+Dialogue: 0,0:12:11.48,0:12:12.80,Default,Cast,0000,0000,0000,,Now, run!
+Dialogue: 0,0:12:12.80,0:12:15.39,Default,Cast,0000,0000,0000,,You have until I count to 100!
+Dialogue: 0,0:12:15.39,0:12:16.63,Default,Cast,0000,0000,0000,,So, Jeanne!
+Dialogue: 0,0:12:16.63,0:12:21.00,Default,Cast,0000,0000,0000,,How long do you think it will \Ntake me to catch them all?
+Dialogue: 0,0:12:25.42,0:12:27.39,Default,Iri,0000,0000,0000,,Saber, you must defeat Caster!
+Dialogue: 0,0:12:27.75,0:12:28.53,Default,Saber,0000,0000,0000,,Absolutely!
+Dialogue: 0,0:12:52.87,0:12:54.71,Default,Cast,0000,0000,0000,,Welcome, Jeanne!
+Dialogue: 0,0:12:55.73,0:13:00.71,Default,Cast,0000,0000,0000,,Don't you find this situation \Njust heart-wrenching?
+Dialogue: 0,0:13:03.03,0:13:05.68,Default,Cast,0000,0000,0000,,Do you detest me?
+Dialogue: 0,0:13:05.68,0:13:08.51,Default,Cast,0000,0000,0000,,Of course you do.
+Dialogue: 0,0:13:08.96,0:13:13.14,Default,Cast,0000,0000,0000,,You would never forgive one who \Nturned from God's love.
+Dialogue: 0,0:13:13.14,0:13:16.02,Default,Saber,0000,0000,0000,,Release that child, heretic!
+Dialogue: 0,0:13:16.47,0:13:17.80,Default,Cast,0000,0000,0000,,Jeanne,
+Dialogue: 0,0:13:17.80,0:13:21.28,Default,Cast,0000,0000,0000,,since you seem to truly care \Nabout this boy's life...
+Dialogue: 0,0:13:21.74,0:13:25.65,Default,Cast,0000,0000,0000,,Well, child, rejoice.
+Dialogue: 0,0:13:25.65,0:13:30.33,Default,Cast,0000,0000,0000,,God's most pious servant has \Ncome to your rescue!
+Dialogue: 0,0:13:35.43,0:13:36.71,Default,Saber,0000,0000,0000,,You're in danger here.
+Dialogue: 0,0:13:37.03,0:13:39.19,Default,Saber,0000,0000,0000,,Hurry, run away.
+Dialogue: 0,0:13:39.87,0:13:42.68,Default,Saber,0000,0000,0000,,Just up ahead, there is a large castle.
+Dialogue: 0,0:13:58.77,0:14:01.24,Default,Cast,0000,0000,0000,,Have you forgotten?
+Dialogue: 0,0:14:02.29,0:14:06.28,Default,Cast,0000,0000,0000,,I warned you last time that I would \Nprepare more drastic measures.
+Dialogue: 0,0:14:07.47,0:14:08.94,Default,Saber,0000,0000,0000,,Be that as it may...
+Dialogue: 0,0:14:08.94,0:14:12.81,Default,Saber,0000,0000,0000,,This battle is longer about the Grail!
+Dialogue: 0,0:14:21.63,0:14:23.63,Default,Cast,0000,0000,0000,,Oh, Jeanne...
+Dialogue: 0,0:14:23.63,0:14:26.41,Default,Cast,0000,0000,0000,,What spirit, what bravery!
+Dialogue: 0,0:14:26.41,0:14:30.34,Default,Cast,0000,0000,0000,,My holy virgin, your will would \Novershadow God Himself!
+Dialogue: 0,0:14:30.34,0:14:31.68,Default,Saber,0000,0000,0000,,Caster!
+Dialogue: 0,0:14:31.68,0:14:35.32,Default,Saber,0000,0000,0000,,Now, I wield my sword \Nsolely to destroy you!
+Dialogue: 0,0:14:56.16,0:14:58.13,Default,Saber,0000,0000,0000,,{\i1}If I could only use my left hand!
+Dialogue: 0,0:14:58.89,0:15:02.42,Default,Iri,0000,0000,0000,,Even Caster can't have unlimited mana.
+Dialogue: 0,0:15:02.82,0:15:05.01,Default,Iri,0000,0000,0000,,If Saber can just survive until he runs out,
+Dialogue: 0,0:15:05.01,0:15:07.80,Default,Iri,0000,0000,0000,,she can defeat him.
+Dialogue: 0,0:15:07.80,0:15:08.67,Default,Iri,0000,0000,0000,,Right, Kiritsugu?
+Dialogue: 0,0:15:09.10,0:15:13.68,Default,Kiri,0000,0000,0000,,More importantly, have any other Masters \N infiltrated the forest?
+Dialogue: 0,0:15:13.68,0:15:14.93,Default,Kiri,0000,0000,0000,,Maiya...
+Dialogue: 0,0:15:15.42,0:15:17.72,Default,Kiri,0000,0000,0000,,Take Iri, and get out of the castle.
+Dialogue: 0,0:15:18.37,0:15:20.29,Default,Kiri,0000,0000,0000,,Head away from Saber's battle.
+Dialogue: 0,0:15:21.58,0:15:23.52,Default,Iri,0000,0000,0000,,I can't stay here?
+Dialogue: 0,0:15:23.52,0:15:27.27,Default,Kiri,0000,0000,0000,,You aren't safe here, \N with Saber fighting out in the forest.
+Dialogue: 0,0:15:27.76,0:15:31.60,Default,Kiri,0000,0000,0000,,I'm sure I'm not the only one \Nwho has realized that.
+Dialogue: 0,0:15:33.71,0:15:35.08,Default,Iri,0000,0000,0000,,Okay.
+Dialogue: 0,0:15:37.33,0:15:39.16,Default,Kiri,0000,0000,0000,,What is it, Iri?
+Dialogue: 0,0:15:40.18,0:15:43.33,Default,Iri,0000,0000,0000,,It seems a newcomer is joining the battle.
+Dialogue: 0,0:15:47.52,0:15:48.63,Default,Saber,0000,0000,0000,,What is this?
+Dialogue: 0,0:15:48.95,0:15:51.15,Default,Saber,0000,0000,0000,,Is there no limit to his mana?
+Dialogue: 0,0:15:52.16,0:15:52.89,Default,Saber,0000,0000,0000,,Wait...
+Dialogue: 0,0:15:53.51,0:15:55.26,Default,Saber,0000,0000,0000,,Could that be the source?
+Dialogue: 0,0:15:56.07,0:15:58.27,Default,Saber,0000,0000,0000,,Is that book your Noble Phantasm?
+Dialogue: 0,0:15:58.27,0:15:59.58,Default,Cast,0000,0000,0000,,Indeed.
+Dialogue: 0,0:15:59.58,0:16:02.98,Default,Cast,0000,0000,0000,,The tomes of the occult my \Nmentor, Prélati, left me
+Dialogue: 0,0:16:02.98,0:16:07.21,Default,Cast,0000,0000,0000,,give me the power to command \NHell's demonic legions.
+Dialogue: 0,0:16:07.21,0:16:08.98,Default,Cast,0000,0000,0000,,What do you think, Jeanne?
+Dialogue: 0,0:16:08.98,0:16:11.35,Default,Cast,0000,0000,0000,,It must be nostalgic for you.
+Dialogue: 0,0:16:11.35,0:16:13.70,Default,Cast,0000,0000,0000,,Everything is as it was \N all those years ago.
+Dialogue: 0,0:16:13.70,0:16:16.63,Default,Cast,0000,0000,0000,,Your noble comportment, \Nyour indomitable spirit
+Dialogue: 0,0:16:16.63,0:16:19.91,Default,Cast,0000,0000,0000,,prove undeniably that you are none \Nother than my Jeanne d'Arc!
+Dialogue: 0,0:16:19.91,0:16:21.90,Default,Cast,0000,0000,0000,,So why?!
+Dialogue: 0,0:16:21.90,0:16:24.31,Default,Cast,0000,0000,0000,,Why can you not see the truth?
+Dialogue: 0,0:16:24.31,0:16:27.32,Default,Cast,0000,0000,0000,,Because you still have absolute \Nfaith in God's protection?
+Dialogue: 0,0:16:28.05,0:16:32.00,Default,Cast,0000,0000,0000,,That you will miraculously \Nbe delivered from this evil?
+Dialogue: 0,0:16:32.00,0:16:33.49,Default,Cast,0000,0000,0000,,How deplorable!
+Dialogue: 0,0:16:33.49,0:16:35.93,Default,Cast,0000,0000,0000,,Have you forgotten what \Nhappened at Compiègne?
+Dialogue: 0,0:16:35.93,0:16:38.26,Default,Cast,0000,0000,0000,,Even after enduring such disgrace,
+Dialogue: 0,0:16:38.26,0:16:42.06,Default,Cast,0000,0000,0000,,you would still dance on your strings, \Nas God's mindless puppet?
+Dialogue: 0,0:17:00.04,0:17:01.75,Default,Lance,0000,0000,0000,,Shameful, Saber.
+Dialogue: 0,0:17:01.75,0:17:05.17,Default,Lance,0000,0000,0000,,One expects superior swordsmanship \Nfrom the King of Knights.
+Dialogue: 0,0:17:06.88,0:17:08.82,Default,Cast,0000,0000,0000,,Who are you?
+Dialogue: 0,0:17:08.82,0:17:11.96,Default,Cast,0000,0000,0000,,Who permitted you to stand in my way?
+Dialogue: 0,0:17:12.43,0:17:15.29,Default,Lance,0000,0000,0000,,That's my line, heretic.
+Dialogue: 0,0:17:15.29,0:17:18.35,Default,Lance,0000,0000,0000,,My spear will pierce Saber's skull!
+Dialogue: 0,0:17:19.46,0:17:24.77,Default,Cast,0000,0000,0000,,The Holy Grail granted my prayers, \Nto revive that woman!
+Dialogue: 0,0:17:24.77,0:17:26.81,Default,Cast,0000,0000,0000,,She is mine.
+Dialogue: 0,0:17:26.81,0:17:31.36,Default,Cast,0000,0000,0000,,Every piece of flesh, every drop of blood... \NHer very soul belongs to me!
+Dialogue: 0,0:17:31.86,0:17:33.25,Default,Lance,0000,0000,0000,,Look, Caster.
+Dialogue: 0,0:17:33.25,0:17:37.22,Default,Lance,0000,0000,0000,,I have no problem with your \Nromantic inclinations.
+Dialogue: 0,0:17:37.22,0:17:42.30,Default,Lance,0000,0000,0000,,If you wish to win Saber's heart, \NI will not interfere.
+Dialogue: 0,0:17:42.54,0:17:43.66,Default,Lance,0000,0000,0000,,However...
+Dialogue: 0,0:17:43.66,0:17:45.74,Default,Lance,0000,0000,0000,,I, Diarmuid, will not allow anyone
+Dialogue: 0,0:17:45.74,0:17:49.05,Default,Lance,0000,0000,0000,,to cut in and defeat an injured Saber
+Dialogue: 0,0:17:49.05,0:17:49.92,Default,Lance,0000,0000,0000,,before I've finished!
+Dialogue: 0,0:17:51.55,0:17:53.54,Default,Saber,0000,0000,0000,,Lancer, you...
+Dialogue: 0,0:17:54.07,0:17:56.09,Default,Lance,0000,0000,0000,,Don't get the wrong idea, Saber.
+Dialogue: 0,0:17:56.09,0:18:00.64,Default,Lance,0000,0000,0000,,I'm only here because I've been ordered \Nto find and eliminate Caster.
+Dialogue: 0,0:18:00.92,0:18:03.41,Default,Lance,0000,0000,0000,,Cooperating with you is my best chance
+Dialogue: 0,0:18:03.41,0:18:05.56,Default,,0000,0000,0000,,to accomplish that, don't you agree?
+Dialogue: 0,0:18:08.84,0:18:10.48,Default,Saber,0000,0000,0000,,For the record, Lancer...
+Dialogue: 0,0:18:11.06,0:18:12.32,Default,Saber,0000,0000,0000,,Even one-armed,
+Dialogue: 0,0:18:12.32,0:18:14.74,Default,,0000,0000,0000,,I could kill another hundred \Nor so of these pests.
+Dialogue: 0,0:18:16.03,0:18:18.24,Default,Lance,0000,0000,0000,,If only there were so few.
+Dialogue: 0,0:18:20.91,0:18:23.03,Default,Cast,0000,0000,0000,,I will not stand for this...
+Dialogue: 0,0:18:23.03,0:18:25.98,Default,Cast,0000,0000,0000,,Stay out of my way, you lowlife!
+Dialogue: 0,0:18:28.21,0:18:30.42,Default,Kaye,0000,0000,0000,,{\i1}Fervor, Mei Sanguis.
+Dialogue: 0,0:18:39.47,0:18:42.04,Default,Kaye,0000,0000,0000,,Ninth head of the Archibald family,
+Dialogue: 0,0:18:42.04,0:18:44.70,Default,,0000,0000,0000,,Kayneth El-Melloi, at your service.
+Dialogue: 0,0:18:44.70,0:18:46.52,Default,Kaye,0000,0000,0000,,Mage of the Einzberns,
+Dialogue: 0,0:18:46.52,0:18:49.30,Default,Kaye,0000,0000,0000,,let us battle with honor and dignity,
+Dialogue: 0,0:18:49.30,0:18:51.36,Default,Kaye,0000,0000,0000,,as we wager our lives for the Holy Grail!
+Dialogue: 0,0:19:22.57,0:19:25.17,Default,Kaye,0000,0000,0000,,Relying on simple traps?
+Dialogue: 0,0:19:25.17,0:19:28.01,Default,Kaye,0000,0000,0000,,How the mighty Einzberns have fallen.
+Dialogue: 0,0:19:28.01,0:19:29.33,Default,Kaye,0000,0000,0000,,So be it.
+Dialogue: 0,0:19:29.33,0:19:32.15,Default,Kaye,0000,0000,0000,,This is no longer a duel, \Nbut an extermination.
+Dialogue: 0,0:19:42.12,0:19:43.27,Default - italic,Kiri,0000,0000,0000,,I see...
+Dialogue: 0,0:19:43.83,0:19:45.66,Default - italic,,0000,0000,0000,,An automatic personnel detector.
+Dialogue: 0,0:19:52.80,0:19:55.09,Default,Kaye,0000,0000,0000,,There you are, you rat.
+Dialogue: 0,0:20:00.11,0:20:01.18,Default,Kaye,0000,0000,0000,,{\i1}Sculp!
+Dialogue: 0,0:20:03.01,0:20:04.95,Default,Kiri,0000,0000,0000,,{\i1}Time Alter: Double Accel!
+Dialogue: 0,0:20:12.26,0:20:13.50,Default,Kaye,0000,0000,0000,,Oh?
+Dialogue: 0,0:20:13.50,0:20:16.59,Default,Kaye,0000,0000,0000,,You created a reality-altering field \Nin your own body,
+Dialogue: 0,0:20:16.59,0:20:19.82,Default,,0000,0000,0000,,allowing you to manipulate \Ntime into accelerating.
+Dialogue: 0,0:20:20.30,0:20:23.32,Default,Kaye,0000,0000,0000,,So you do have some knowledge \Nof magic, after all.
+Dialogue: 0,0:20:23.32,0:20:26.66,Default,Kaye,0000,0000,0000,,Your disciplined use of magic
+Dialogue: 0,0:20:26.66,0:20:29.16,Default,Kaye,0000,0000,0000,,makes your reliance on cheap traps \Nall the more despicable.
+Dialogue: 0,0:20:29.93,0:20:32.58,Default,Kaye,0000,0000,0000,,I will kill you to teach you your place.
+Dialogue: 0,0:20:34.78,0:20:36.42,Default,Kaye,0000,0000,0000,,{\i1}Ire Sanctio!
+Dialogue: 0,0:20:39.28,0:20:44.25,Default,Kaye,0000,0000,0000,,Manipulating his body's time \Nmust take a considerable toll.
+Dialogue: 0,0:20:47.51,0:20:49.05,Default,Kaye,0000,0000,0000,,Found him.
+Dialogue: 0,0:20:49.50,0:20:53.36,Default,Kaye,0000,0000,0000,,How far can he get in such \Nan exhausted state?
+Dialogue: 0,0:21:03.70,0:21:05.95,Default - italic,Kiri,0000,0000,0000,,{\i1}Time Alter: Triple Stagnate!
+Dialogue: 0,0:21:13.19,0:21:15.77,Default - italic,Kiri,0000,0000,0000,,{\i1}This thing doesn't have eyes.
+Dialogue: 0,0:21:16.29,0:21:19.13,Default - italic,Kiri,0000,0000,0000,,If I slow my body's time by two-thirds
+Dialogue: 0,0:21:19.13,0:21:22.84,Default - italic,Kiri,0000,0000,0000,,and quiet my heartbeat and breath \Nto their absolute limits...
+Dialogue: 0,0:21:24.00,0:21:25.59,Default - italic,Kiri,0000,0000,0000,,It can't detect me.
+Dialogue: 0,0:21:39.09,0:21:40.02,Default,Kiri,0000,0000,0000,,Kayneth!
+Dialogue: 0,0:21:42.82,0:21:45.75,Default,Kaye,0000,0000,0000,,Fool, you've wasted your chance!
+Dialogue: 0,0:21:51.93,0:21:54.20,Title,Kaye,0000,0000,0000,,Episode 7 \NDark Forest
+Dialogue: 0,0:23:25.98,0:23:27.31,Default,Iri,0000,0000,0000,,Maiya-san, don't!
+Dialogue: 0,0:23:27.31,0:23:29.57,Default,Kaye,0000,0000,0000,,You disgrace of a mage!
+Dialogue: 0,0:23:29.57,0:23:32.39,Default,Cast,0000,0000,0000,,You will know terror and hopelessness!
+Dialogue: 0,0:23:32.39,0:23:34.45,Default,Lance,0000,0000,0000,,Pierce through, Gáe Dearg!
+Dialogue: 0,0:23:34.45,0:23:37.57,Default,Kirei,0000,0000,0000,,Who ordered you to fight?
+Dialogue: 0,0:23:37.57,0:23:40.36,Default,Saber,0000,0000,0000,,Prepare yourself, heretic.
+Dialogue: 0,0:23:37.93,0:23:38.38,Title,Saber,0000,0000,0000,,Next Time: \NThe Mage-Slayer
+Dialogue: 0,0:23:38.38,0:23:40.38,Title,,0000,0000,0000,,

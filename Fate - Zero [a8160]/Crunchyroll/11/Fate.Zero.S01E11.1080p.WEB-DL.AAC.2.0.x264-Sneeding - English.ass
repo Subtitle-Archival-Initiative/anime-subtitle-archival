@@ -1,0 +1,340 @@
+﻿[Script Info]
+Title: English
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0005,0
+Style: Default - italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Title,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,0
+Style: Sign10A,Arial,26,&H00B7C6B8,&H000000FF,&H004F584E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:33.46,0:00:34.79,Default,Saber,0000,0000,0000,,Irisviel!
+Dialogue: 0,0:00:37.78,0:00:39.05,Default,Saber,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:00:39.61,0:00:44.35,Default,Iry,0000,0000,0000,,Someone waited for Kiritsugu to leave \Nso they could mount a direct assault.
+Dialogue: 0,0:00:44.35,0:00:50.19,Default,Saber,0000,0000,0000,,Given the thunder and the \Nbrazenness of the attack,
+Dialogue: 0,0:00:51.03,0:00:52.90,Default,Saber,0000,0000,0000,,our assailant is Rider.
+Dialogue: 0,0:00:56.55,0:00:59.18,Default,Rider,0000,0000,0000,,Whoa, whoa, whoa.
+Dialogue: 0,0:01:05.52,0:01:06.92,Default,Rider,0000,0000,0000,,Greetings, Saber!
+Dialogue: 0,0:01:10.20,0:01:11.43,Default,Saber,0000,0000,0000,,Rider?
+Dialogue: 0,0:01:11.73,0:01:14.71,Default,Rider,0000,0000,0000,,I came to see the castle \Nyou were occupying, but...
+Dialogue: 0,0:01:15.40,0:01:18.01,Default,Rider,0000,0000,0000,,You picked a really gloomy one.
+Dialogue: 0,0:01:18.01,0:01:18.43,Default,Rider,0000,0000,0000,,Hmm?
+Dialogue: 0,0:01:19.33,0:01:23.18,Default,Rider,0000,0000,0000,,And battle armor?  \NWhy such an unrefined outfit?
+Dialogue: 0,0:01:24.12,0:01:27.44,Default,Rider,0000,0000,0000,,Are you foregoing your \Nmodern-day fashions tonight?
+Dialogue: 0,0:01:27.93,0:01:30.54,Default,Saber,0000,0000,0000,,Rider, what are you doing here?
+Dialogue: 0,0:01:31.20,0:01:32.69,Default,Rider,0000,0000,0000,,Can't you tell?
+Dialogue: 0,0:01:35.01,0:01:38.24,Default,RideR,0000,0000,0000,,I came to share a drink with you.
+Dialogue: 0,0:01:38.24,0:01:40.86,Default,Rider,0000,0000,0000,,Now stop standing around slack-jawed
+Dialogue: 0,0:01:40.86,0:01:42.21,Default,,0000,0000,0000,,and show me the way!
+Dialogue: 0,0:01:42.70,0:01:46.24,Default,Rider,0000,0000,0000,,Do you have a courtyard\Nmore suited to a banquet?
+Dialogue: 0,0:01:46.74,0:01:50.00,Default,Rider,0000,0000,0000,,This old castle's far too dusty!
+Dialogue: 0,0:02:06.53,0:02:08.69,Default,Rider,0000,0000,0000,,They say the Grail will be claimed
+Dialogue: 0,0:02:08.69,0:02:11.04,Default,,0000,0000,0000,,by the one most worthy of possessing it.
+Dialogue: 0,0:02:11.74,0:02:17.25,Default,Rider,0000,0000,0000,,And the war here in Fuyuki is a \Nritual to determine that person.
+Dialogue: 0,0:02:17.85,0:02:22.76,Default,Rider,0000,0000,0000,,But I say that bloodshed is \Nunnecessary to measure worthiness.
+Dialogue: 0,0:02:22.76,0:02:27.25,Default,Rider,0000,0000,0000,,If we Heroic Spirits can all mutually \Nagree on who ranks highest,
+Dialogue: 0,0:02:27.98,0:02:30.52,Default,Rider,0000,0000,0000,,the issue will resolve itself.
+Dialogue: 0,0:02:39.55,0:02:40.85,Default,Rider,0000,0000,0000,,Oh?
+Dialogue: 0,0:02:42.37,0:02:46.89,Default,Saber,0000,0000,0000,,So you wish to prove yourself \Nagainst me first, Rider?
+Dialogue: 0,0:02:47.85,0:02:49.14,Default,Rider,0000,0000,0000,,Exactly.
+Dialogue: 0,0:02:49.42,0:02:53.70,Default,Rider,0000,0000,0000,,You, as a fellow king, will \Nnot ignore my challenge.
+Dialogue: 0,0:02:53.70,0:02:57.69,Default,Rider,0000,0000,0000,,Of course, this is less of a Holy Grail \NWar and more a Holy Grail Discussion.
+Dialogue: 0,0:02:57.69,0:03:01.91,Default,Rider,0000,0000,0000,,Which of us is the vessel \Nmost worthy of the Grail?
+Dialogue: 0,0:03:04.02,0:03:07.66,Default,Rider,0000,0000,0000,,The answer lies at the \Nbottom of this barrel.
+Dialogue: 0,0:03:10.56,0:03:13.54,Default,Arch,0000,0000,0000,,That's enough comedy for one night,
+Dialogue: 0,0:03:15.05,0:03:16.67,Default,Arch,0000,0000,0000,,mongrels.
+Dialogue: 0,0:03:18.69,0:03:20.80,Default,Saber,0000,0000,0000,,Archer, why are you here?
+Dialogue: 0,0:03:20.80,0:03:26.87,Default,Rider,0000,0000,0000,,Oh, right.  I saw him wandering about \Ntown and invited him to join us.
+Dialogue: 0,0:03:27.57,0:03:29.81,Default,Rider,0000,0000,0000,,You're late, Shiny!
+Dialogue: 0,0:03:30.12,0:03:33.48,Default,Rider,0000,0000,0000,,Though I shouldn't be surprised, since \Nyou travel by foot, unlike myself.
+Dialogue: 0,0:03:33.94,0:03:38.57,Default,Arch,0000,0000,0000,,Surely you don't mean to hold a feast \Nof kings in this depressing courtyard?
+Dialogue: 0,0:03:38.80,0:03:42.82,Default,Arch,0000,0000,0000,,How do you intend to make amends \Nfor dragging me out here?
+Dialogue: 0,0:03:42.82,0:03:45.33,Default,Rider,0000,0000,0000,,Let's not be impolite.
+Dialogue: 0,0:03:46.04,0:03:48.20,Default,Rider,0000,0000,0000,,Here, have a drink.
+Dialogue: 0,0:03:57.01,0:03:59.23,Default,Arch,0000,0000,0000,,What is this swill?
+Dialogue: 0,0:03:59.23,0:04:03.34,Default,Arch,0000,0000,0000,,You honestly believe this is sufficient \Nto measure a Heroic Spirit's quality?
+Dialogue: 0,0:04:03.65,0:04:05.13,Default,Rider,0000,0000,0000,,Seriously?
+Dialogue: 0,0:04:05.13,0:04:09.54,Default,Rider,0000,0000,0000,,I found this among the best for \Nsale at the local marketplace.
+Dialogue: 0,0:04:09.54,0:04:14.10,Default,Arch,0000,0000,0000,,You can only say that due to \Nyour ignorance of true wine,
+Dialogue: 0,0:04:14.39,0:04:15.78,Default,Arch,0000,0000,0000,,you mongrel.
+Dialogue: 0,0:04:24.38,0:04:25.24,Default,Rider,0000,0000,0000,,Oh!
+Dialogue: 0,0:04:25.54,0:04:28.55,Default,Arch,0000,0000,0000,,Behold, and be amazed.
+Dialogue: 0,0:04:28.55,0:04:31.04,Default,Arch,0000,0000,0000,,This is the drink of a king.
+Dialogue: 0,0:04:31.96,0:04:33.58,Default,Rider,0000,0000,0000,,Excellent, excellent!
+Dialogue: 0,0:04:45.89,0:04:48.14,Default,Rider,0000,0000,0000,,Fantastic!
+Dialogue: 0,0:04:49.33,0:04:50.94,Default,Arch,0000,0000,0000,,Be it wine or swords,
+Dialogue: 0,0:04:50.94,0:04:54.25,Default,Arch,0000,0000,0000,,only the best is held in my treasury.
+Dialogue: 0,0:04:58.59,0:05:02.36,Default,Arch,0000,0000,0000,,I believe this alone should settle \Nthe matter of who is the true king.
+Dialogue: 0,0:05:03.25,0:05:04.36,Default,Rider,0000,0000,0000,,Archer.
+Dialogue: 0,0:05:04.62,0:05:09.40,Default,Rider,0000,0000,0000,,Your wine is exquisite and certainly \Ndeserves the finest of cups.
+Dialogue: 0,0:05:09.40,0:05:12.65,Default,Rider,0000,0000,0000,,Unfortunately, the Holy Grail \Nis no mere wine goblet.
+Dialogue: 0,0:05:12.65,0:05:16.23,Default,Rider,0000,0000,0000,,Our discussion on the Grail \Ncannot progress further
+Dialogue: 0,0:05:16.23,0:05:19.25,Default,Rider,0000,0000,0000,,until we learn your reason for seeking it.
+Dialogue: 0,0:05:19.25,0:05:21.13,Default,Arch,0000,0000,0000,,You do not command me, mongrel.
+Dialogue: 0,0:05:21.39,0:05:24.63,Default,Arch,0000,0000,0000,,First, given that we each \Nstrive for the Grail already,
+Dialogue: 0,0:05:24.63,0:05:26.86,Default,Arch,0000,0000,0000,,our reasons are meaningless.
+Dialogue: 0,0:05:28.75,0:05:30.47,Default,Arch,0000,0000,0000,,But that is beside the point.
+Dialogue: 0,0:05:30.47,0:05:32.60,Default,Arch,0000,0000,0000,,The Grail is mine, to begin with.
+Dialogue: 0,0:05:32.60,0:05:37.08,Default,Arch,0000,0000,0000,,Without exception, every treasure in this \Nworld can be traced to my collection.
+Dialogue: 0,0:05:37.08,0:05:41.15,Default,Rider,0000,0000,0000,,So have you held the Grail?
+Dialogue: 0,0:05:41.15,0:05:43.60,Default,Rider,0000,0000,0000,,Would you know it by its appearance?
+Dialogue: 0,0:05:43.60,0:05:44.65,Default,Arch,0000,0000,0000,,No.
+Dialogue: 0,0:05:44.65,0:05:47.16,Default,Arch,0000,0000,0000,,My criteria for possession are entirely \Ndifferent from you mongrels.
+Dialogue: 0,0:05:47.16,0:05:49.11,Default,Arch,0000,0000,0000,,The vastness of my storehouse
+Dialogue: 0,0:05:49.11,0:05:51.49,Default,,0000,0000,0000,,overtook my personal knowledge \Nof its inventory long ago.
+Dialogue: 0,0:05:51.89,0:05:56.22,Default,Arch,0000,0000,0000,,But that a treasure exists \Nis enough to show that it is mine.
+Dialogue: 0,0:05:56.22,0:05:58.42,Default,Arch,0000,0000,0000,,For another to claim it...
+Dialogue: 0,0:05:59.48,0:06:02.63,Default,Arch,0000,0000,0000,,They would be the most foolhardy of thieves.
+Dialogue: 0,0:06:02.63,0:06:07.08,Default,Saber,0000,0000,0000,,Your words make as much sense as Caster's.
+Dialogue: 0,0:06:07.54,0:06:11.05,Default,Saber,0000,0000,0000,,Apparently, he is not the only \NServant suffering from delusions.
+Dialogue: 0,0:06:11.05,0:06:13.89,Default,Rider,0000,0000,0000,,Come now.  I'm not so sure.
+Dialogue: 0,0:06:15.35,0:06:20.60,Default,Rider,0000,0000,0000,,I think I have an idea as to Shiny's true name.
+Dialogue: 0,0:06:20.60,0:06:22.35,Default,Rider,0000,0000,0000,,But, Archer,
+Dialogue: 0,0:06:22.35,0:06:26.13,Default,Rider,0000,0000,0000,,then you have no particular \Ndesire for the Grail to grant.
+Dialogue: 0,0:06:26.13,0:06:27.11,Default,Arch,0000,0000,0000,,Of course not.
+Dialogue: 0,0:06:27.34,0:06:32.35,Default,Arch,0000,0000,0000,,But I must punish those \Nwho would raid my coffers.
+Dialogue: 0,0:06:32.35,0:06:34.52,Default,Arch,0000,0000,0000,,It is a logical reason.
+Dialogue: 0,0:06:36.09,0:06:38.50,Default,Rider,0000,0000,0000,,Tell me, Archer.
+Dialogue: 0,0:06:38.81,0:06:42.39,Default,Rider,0000,0000,0000,,What are the justice and the reasoning behind that?
+Dialogue: 0,0:06:42.39,0:06:43.25,Default,Arch,0000,0000,0000,,The law.
+Dialogue: 0,0:06:43.69,0:06:47.01,Default,Arch,0000,0000,0000,,The law I enacted as king.
+Dialogue: 0,0:06:47.59,0:06:50.38,Default,Arch,0000,0000,0000,,If you break it, I shall punish you.
+Dialogue: 0,0:06:50.38,0:06:52.87,Default,Arch,0000,0000,0000,,Discussion has no place.
+Dialogue: 0,0:06:54.75,0:06:57.01,Default,Rider,0000,0000,0000,,If that's the case...
+Dialogue: 0,0:06:57.01,0:06:59.52,Default,Rider,0000,0000,0000,,There's nothing for us but combat.
+Dialogue: 0,0:07:00.97,0:07:02.33,Default,Saber,0000,0000,0000,,King of Conquerors.
+Dialogue: 0,0:07:03.44,0:07:08.76,Default,Saber,0000,0000,0000,,You accept that another may lay \Nrightful claim to the Grail,
+Dialogue: 0,0:07:08.76,0:07:11.14,Default,Saber,0000,0000,0000,,yet you would take it for yourself by force?
+Dialogue: 0,0:07:11.70,0:07:12.78,Default,Saber,0000,0000,0000,,For what reason
+Dialogue: 0,0:07:13.26,0:07:15.33,Default,Saber,0000,0000,0000,,do you seek its power?
+Dialogue: 0,0:07:26.18,0:07:27.59,Default,Rider,0000,0000,0000,,T-To be reincarnated.
+Dialogue: 0,0:07:28.59,0:07:29.47,Default,Waver,0000,0000,0000,,What?
+Dialogue: 0,0:07:29.47,0:07:32.86,Default,Waver,0000,0000,0000,,Hey!  Don't you want to conquer the world—
+Dialogue: 0,0:07:35.59,0:07:36.97,Default,Rider,0000,0000,0000,,Idiot.
+Dialogue: 0,0:07:37.83,0:07:40.75,Default,Rider,0000,0000,0000,,No matter how powerful the magic \Nthat has brought us to this era,
+Dialogue: 0,0:07:40.75,0:07:42.48,Default,Rider,0000,0000,0000,,we are still Servants.
+Dialogue: 0,0:07:44.37,0:07:47.11,Default,Rider,0000,0000,0000,,I wish to live a real life in this world,
+Dialogue: 0,0:07:47.79,0:07:50.74,Default,Rider,0000,0000,0000,,as a human.
+Dialogue: 0,0:07:51.08,0:07:55.34,Default,Rider,0000,0000,0000,,And with my own two hands, I shall \Nstand against Heaven and Earth!
+Dialogue: 0,0:07:55.34,0:07:58.99,Default,Rider,0000,0000,0000,,That is the essence of conquest!
+Dialogue: 0,0:07:59.57,0:08:02.50,Default,Rider,0000,0000,0000,,So it begins, persists,
+Dialogue: 0,0:08:02.50,0:08:04.50,Default,,0000,0000,0000,,and finally ends.
+Dialogue: 0,0:08:07.39,0:08:09.51,Default,Rider,0000,0000,0000,,This is my path of conquest.
+Dialogue: 0,0:08:11.06,0:08:15.26,Default,Saber,0000,0000,0000,,That is not how a king should act.
+Dialogue: 0,0:08:15.26,0:08:16.20,Default,Rider,0000,0000,0000,,Oh?
+Dialogue: 0,0:08:16.57,0:08:22.27,Default,Rider,0000,0000,0000,,Then tell us the desires of your own heart.
+Dialogue: 0,0:08:26.34,0:08:30.31,Default,Saber,0000,0000,0000,,I wish to bring salvation to my homeland.
+Dialogue: 0,0:08:31.08,0:08:33.78,Default,Saber,0000,0000,0000,,With that omnipotent, wish-granting artifact,
+Dialogue: 0,0:08:34.74,0:08:37.44,Default,Saber,0000,0000,0000,,I shall change Britain's fate of destruction.
+Dialogue: 0,0:08:41.96,0:08:43.79,Default,Rider,0000,0000,0000,,King of Knights,
+Dialogue: 0,0:08:44.20,0:08:47.41,Default,Rider,0000,0000,0000,,you claim that you would change fate?
+Dialogue: 0,0:08:47.41,0:08:50.79,Default,Rider,0000,0000,0000,,Meaning that you would alter history itself?
+Dialogue: 0,0:08:50.79,0:08:52.23,Default,Saber,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:52.23,0:08:55.60,Default,Saber,0000,0000,0000,,Even this is a wish a miracle \Ncannot bring to pass,
+Dialogue: 0,0:08:55.60,0:08:59.56,Default,Saber,0000,0000,0000,,if the Grail's power is truly \Nlimitless, then surely...
+Dialogue: 0,0:09:02.26,0:09:04.18,Default,Rider,0000,0000,0000,,Ah, Saber...
+Dialogue: 0,0:09:04.45,0:09:06.61,Default,Rider,0000,0000,0000,,You are saying that
+Dialogue: 0,0:09:07.39,0:09:11.44,Default,,0000,0000,0000,,you'd erase history shaped by you yourself?
+Dialogue: 0,0:09:11.44,0:09:15.17,Default,Saber,0000,0000,0000,,Yes!  Why do you question \Nme?  And why do you laugh?!
+Dialogue: 0,0:09:15.17,0:09:16.49,Default,Saber,0000,0000,0000,,The homeland to which I gave my life,
+Dialogue: 0,0:09:16.49,0:09:18.97,Default,,0000,0000,0000,,which gave me my sword, was obliterated.
+Dialogue: 0,0:09:18.97,0:09:21.20,Default,Saber,0000,0000,0000,,Why should it be strange that I mourn it?
+Dialogue: 0,0:09:21.20,0:09:23.40,Default,Arch,0000,0000,0000,,Can you believe this, Rider?
+Dialogue: 0,0:09:23.40,0:09:26.67,Default,Arch,0000,0000,0000,,The little girl who calls \Nherself King of Knights
+Dialogue: 0,0:09:26.67,0:09:30.34,Default,Arch,0000,0000,0000,,said she gave her life to her country...
+Dialogue: 0,0:09:30.34,0:09:32.69,Default,Saber,0000,0000,0000,,What right have you to mock me?
+Dialogue: 0,0:09:34.05,0:09:36.62,Default,Saber,0000,0000,0000,,A king should be prepared to sacrifice
+Dialogue: 0,0:09:36.62,0:09:38.84,Default,,0000,0000,0000,,if it ensures her kingdom's prosperity!
+Dialogue: 0,0:09:39.23,0:09:40.72,Default,Rider,0000,0000,0000,,You're wrong.
+Dialogue: 0,0:09:41.78,0:09:43.80,Default,Rider,0000,0000,0000,,A king offers no sacrifices.
+Dialogue: 0,0:09:43.80,0:09:47.89,Default,Rider,0000,0000,0000,,His country and his subjects \Noffer themselves for him.
+Dialogue: 0,0:09:47.89,0:09:49.52,Default,Rider,0000,0000,0000,,Not the other way around.
+Dialogue: 0,0:09:49.93,0:09:51.13,Default,Saber,0000,0000,0000,,What?
+Dialogue: 0,0:09:51.13,0:09:53.52,Default,Saber,0000,0000,0000,,That is the reign of tyrant!
+Dialogue: 0,0:09:53.52,0:09:54.61,Default,Rider,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:54.91,0:09:58.15,Default,Rider,0000,0000,0000,,We are tyrants, and thus are we heroes.
+Dialogue: 0,0:09:58.15,0:09:59.63,Default,Rider,0000,0000,0000,,You, Saber...
+Dialogue: 0,0:09:59.63,0:10:04.29,Default,Rider,0000,0000,0000,,If a king regrets \Nhis reign or its ending,
+Dialogue: 0,0:10:04.29,0:10:06.16,Default,Rider,0000,0000,0000,,he is simply a fool.
+Dialogue: 0,0:10:06.16,0:10:08.50,Default,Rider,0000,0000,0000,,A worse ruler than a tyrant.
+Dialogue: 0,0:10:08.50,0:10:12.08,Default,Saber,0000,0000,0000,,Iskandar, after your reign ended, \Nyour heirs were murdered,
+Dialogue: 0,0:10:12.08,0:10:15.51,Default,Saber,0000,0000,0000,,and your empire split into three parts.
+Dialogue: 0,0:10:15.51,0:10:19.47,Default,Saber,0000,0000,0000,,Have you no regrets over how things ended?
+Dialogue: 0,0:10:19.47,0:10:20.46,Default,Rider,0000,0000,0000,,None.
+Dialogue: 0,0:10:22.08,0:10:25.84,Default,Rider,0000,0000,0000,,If that came to pass by \Nmy subjects' sacrifices
+Dialogue: 0,0:10:25.84,0:10:28.44,Default,Rider,0000,0000,0000,,and my decree...
+Dialogue: 0,0:10:28.44,0:10:31.03,Default,Rider,0000,0000,0000,,The collapse was inevitable.
+Dialogue: 0,0:10:31.03,0:10:33.85,Default,Rider,0000,0000,0000,,I shall mourn the loss.  I shall shed tears.
+Dialogue: 0,0:10:33.85,0:10:35.92,Default,Rider,0000,0000,0000,,But I shall never regret.
+Dialogue: 0,0:10:36.38,0:10:37.39,Default,Saber,0000,0000,0000,,You...
+Dialogue: 0,0:10:37.39,0:10:39.52,Default,Rider,0000,0000,0000,,And never shall I wish to undo it!
+Dialogue: 0,0:10:39.52,0:10:42.54,Default,Rider,0000,0000,0000,,To foolishly meddle with the result would be
+Dialogue: 0,0:10:42.54,0:10:45.44,Default,,0000,0000,0000,,an insult to every person who lived in my time!
+Dialogue: 0,0:10:45.44,0:10:48.37,Default,Saber,0000,0000,0000,,Only a warrior sees honor in destruction!
+Dialogue: 0,0:10:48.37,0:10:50.94,Default,Saber,0000,0000,0000,,What good is a king who ignores \Nthe plight of the weak?
+Dialogue: 0,0:10:51.41,0:10:54.19,Default,Saber,0000,0000,0000,,A just rule, under just laws!
+Dialogue: 0,0:10:54.19,0:10:56.38,Default,Saber,0000,0000,0000,,That is a king's desire!
+Dialogue: 0,0:10:57.43,0:10:58.38,Default,Rider,0000,0000,0000,,So,
+Dialogue: 0,0:10:58.38,0:11:02.51,Default,Rider,0000,0000,0000,,as a king, you are slave to this justice?
+Dialogue: 0,0:11:02.51,0:11:03.64,Default,Saber,0000,0000,0000,,That is acceptable.
+Dialogue: 0,0:11:04.08,0:11:06.14,Default,Saber,0000,0000,0000,,A king will sacrifice herself\N for her beliefs.
+Dialogue: 0,0:11:07.70,0:11:10.17,Default,Rider,0000,0000,0000,,Then you cannot even live your own life.
+Dialogue: 0,0:11:11.16,0:11:15.65,Default,Saber,0000,0000,0000,,To rule a country is to \Ngive up living for oneself.
+Dialogue: 0,0:11:16.46,0:11:17.63,Default,Saber,0000,0000,0000,,King of Conquerors.
+Dialogue: 0,0:11:18.28,0:11:20.76,Default,Saber,0000,0000,0000,,You, who seek the Grail out of
+Dialogue: 0,0:11:20.76,0:11:23.48,Default,,0000,0000,0000,,pure selfishness, can never understand.
+Dialogue: 0,0:11:24.27,0:11:28.64,Default,Saber,0000,0000,0000,,You are only a man who rose to \Npower to satisfy his endless greed!
+Dialogue: 0,0:11:28.64,0:11:31.42,Default,Rider,0000,0000,0000,,A king without greed is not even fit \Nto decorate the throne!
+Dialogue: 0,0:11:32.64,0:11:33.79,Default,Rider,0000,0000,0000,,Saber!
+Dialogue: 0,0:11:34.24,0:11:37.04,Default,Rider,0000,0000,0000,,You said a king will sacrifice \Nhimself for his beliefs.
+Dialogue: 0,0:11:37.04,0:11:41.93,Default,Rider,0000,0000,0000,,In life, you were surely a \Nsaintly and immaculate person.
+Dialogue: 0,0:11:41.93,0:11:45.44,Default,Rider,0000,0000,0000,,One of noble bearing, beyond reproach.
+Dialogue: 0,0:11:45.44,0:11:51.06,Default,Rider,0000,0000,0000,,But who can admire the martyr's thorny path?
+Dialogue: 0,0:11:51.37,0:11:53.81,Default,Rider,0000,0000,0000,,Who dreams of such a life?
+Dialogue: 0,0:11:55.73,0:11:57.07,Default,Rider,0000,0000,0000,,A king...
+Dialogue: 0,0:11:57.52,0:12:01.30,Default,Rider,0000,0000,0000,,A king must lust more, laugh louder,
+Dialogue: 0,0:12:01.30,0:12:03.37,Default,,0000,0000,0000,,and rage longer than any other.
+Dialogue: 0,0:12:03.37,0:12:04.81,Default,Rider,0000,0000,0000,,Every aspect, good and evil,
+Dialogue: 0,0:12:04.81,0:12:07.03,Default,,0000,0000,0000,,must be beyond the extremes \Nof any normal person.
+Dialogue: 0,0:12:07.23,0:12:12.50,Default,Rider,0000,0000,0000,,The king must be thus, to inspire \Nenvy and admiration in his followers.
+Dialogue: 0,0:12:12.50,0:12:15.12,Default,Rider,0000,0000,0000,,He must light a flame \Nin each of their hearts,
+Dialogue: 0,0:12:15.12,0:12:19.24,Default,Rider,0000,0000,0000,,so that they long to be like \Ntheir king, as well!
+Dialogue: 0,0:12:23.50,0:12:26.05,Default,Rider,0000,0000,0000,,King of chivalry...
+Dialogue: 0,0:12:26.39,0:12:29.75,Default,Rider,0000,0000,0000,,Perhaps your justice and ideals \Nonce saved your kingdom,
+Dialogue: 0,0:12:29.75,0:12:33.55,Default,Rider,0000,0000,0000,,and delivered its people.
+Dialogue: 0,0:12:34.85,0:12:36.06,Default,Rider,0000,0000,0000,,But...
+Dialogue: 0,0:12:36.41,0:12:40.80,Default,Rider,0000,0000,0000,,What became of those subjects you saved?
+Dialogue: 0,0:12:40.80,0:12:43.38,Default,Rider,0000,0000,0000,,Surely you recall.
+Dialogue: 0,0:12:44.67,0:12:46.03,Default,Saber,0000,0000,0000,,What?
+Dialogue: 0,0:12:56.59,0:13:01.21,Default,Rider,0000,0000,0000,,You saved your people, \Nbut you never led them.
+Dialogue: 0,0:13:02.59,0:13:05.59,Default,Rider,0000,0000,0000,,You never showed them how a king should act.
+Dialogue: 0,0:13:05.92,0:13:08.60,Default,Rider,0000,0000,0000,,They lost their path, \Nand you left them to it.
+Dialogue: 0,0:13:08.60,0:13:11.35,Default,Rider,0000,0000,0000,,You were content to walk alone and composed,
+Dialogue: 0,0:13:11.35,0:13:15.59,Default,Rider,0000,0000,0000,,preferring your own pretty little dreams.
+Dialogue: 0,0:13:17.46,0:13:20.70,Default,Rider,0000,0000,0000,,You are not a genuine king.
+Dialogue: 0,0:13:20.70,0:13:23.50,Default,Rider,0000,0000,0000,,You are someone trapped by an ideal
+Dialogue: 0,0:13:23.50,0:13:26.74,Default,,0000,0000,0000,,of a king who exists for others, not himself.
+Dialogue: 0,0:13:27.43,0:13:29.49,Default,Rider,0000,0000,0000,,Just a naïve little girl.
+Dialogue: 0,0:13:33.59,0:13:35.11,Default - italic,Saber,0000,0000,0000,,I...
+Dialogue: 0,0:13:37.00,0:13:38.69,Default - italic,Saber,0000,0000,0000,,I...
+Dialogue: 0,0:14:00.12,0:14:01.31,Default,Waver,0000,0000,0000,,Assassin!
+Dialogue: 0,0:14:10.02,0:14:12.90,Default,Rider,0000,0000,0000,,Is this your doing, Shiny?
+Dialogue: 0,0:14:13.43,0:14:16.59,Default,Arch,0000,0000,0000,,Tokiomi lowers himself.
+Dialogue: 0,0:14:17.41,0:14:21.75,Default,Waver,0000,0000,0000,,This is insane!  Why are \Nthere so many Assassins?!
+Dialogue: 0,0:14:21.75,0:14:24.17,Default,Ass1,0000,0000,0000,,We are the one, who has become many.
+Dialogue: 0,0:14:24.17,0:14:26.80,Default,Ass2,0000,0000,0000,,We are the many, who are one Servant.
+Dialogue: 0,0:14:27.23,0:14:28.93,Default,Ass3,0000,0000,0000,,We are that one Servant's
+Dialogue: 0,0:14:28.93,0:14:30.30,Default,Ass4,0000,0000,0000,,shadows.
+Dialogue: 0,0:14:33.72,0:14:38.10,Default,Waver,0000,0000,0000,,A Heroic Spirit with multiple \Npersonalities, each embodied?
+Dialogue: 0,0:14:40.39,0:14:43.04,Default,Waver,0000,0000,0000,,R-Rider, hey...
+Dialogue: 0,0:14:43.04,0:14:46.40,Default,Rider,0000,0000,0000,,Easy there, boy.  You need not panic.
+Dialogue: 0,0:14:46.86,0:14:49.78,Default,Rider,0000,0000,0000,,The generosity a king shows \Nto his banquet guests
+Dialogue: 0,0:14:49.78,0:14:52.49,Default,Rider,0000,0000,0000,,is another measure of his quality as a ruler.
+Dialogue: 0,0:14:52.49,0:14:57.19,Default,Arch,0000,0000,0000,,You would welcome these to your \Ntable, King of Conquerors?
+Dialogue: 0,0:14:57.19,0:14:58.63,Default,Rider,0000,0000,0000,,Of course.
+Dialogue: 0,0:14:58.63,0:15:01.81,Default,Rider,0000,0000,0000,,The king's speech is for all to hear.
+Dialogue: 0,0:15:01.81,0:15:06.65,Default,Rider,0000,0000,0000,,Friend or foe, if they have come \Nto listen, I shall offer a seat.
+Dialogue: 0,0:15:09.01,0:15:10.55,Default,Rider,0000,0000,0000,,Come now!
+Dialogue: 0,0:15:10.89,0:15:14.63,Default,Rider,0000,0000,0000,,If you wish to speak with us, \Nsit and drink from this cup.
+Dialogue: 0,0:15:14.63,0:15:18.31,Default,Rider,0000,0000,0000,,This wine is as your blood!
+Dialogue: 0,0:15:25.52,0:15:26.73,Default,Rider,0000,0000,0000,,Very well.
+Dialogue: 0,0:15:27.26,0:15:30.65,Default,Rider,0000,0000,0000,,As I said, this wine is as your blood.
+Dialogue: 0,0:15:31.12,0:15:33.97,Default,Rider,0000,0000,0000,,If you insist that it be spilled,
+Dialogue: 0,0:15:34.49,0:15:36.29,Default,Rider,0000,0000,0000,,then so be it.
+Dialogue: 0,0:15:49.71,0:15:52.22,Default,Rider,0000,0000,0000,,Saber and Archer!
+Dialogue: 0,0:15:52.22,0:15:54.18,Default,Rider,0000,0000,0000,,Here is our banquet's final question.
+Dialogue: 0,0:15:54.75,0:15:57.97,Default,Rider,0000,0000,0000,,Must the king stand in solitude?
+Dialogue: 0,0:15:58.73,0:16:00.18,Default,Saber,0000,0000,0000,,For the king, there is
+Dialogue: 0,0:16:00.75,0:16:03.52,Default,Saber,0000,0000,0000,,no other way!
+Dialogue: 0,0:16:03.52,0:16:04.91,Default,Rider,0000,0000,0000,,Incorrect.
+Dialogue: 0,0:16:04.91,0:16:06.88,Default,Rider,0000,0000,0000,,You have understood nothing.
+Dialogue: 0,0:16:07.37,0:16:10.21,Default,Rider,0000,0000,0000,,I will have to show you now
+Dialogue: 0,0:16:10.21,0:16:14.52,Default,,0000,0000,0000,,what a true king is.
+Dialogue: 0,0:16:37.22,0:16:38.43,Default,Ass,0000,0000,0000,,What the...
+Dialogue: 0,0:16:38.88,0:16:40.89,Default,Iry,0000,0000,0000,,A Reality Marble?
+Dialogue: 0,0:16:40.89,0:16:41.93,Default,Iry,0000,0000,0000,,This can't be happening.
+Dialogue: 0,0:16:42.74,0:16:45.50,Default,Iry,0000,0000,0000,,He summoned a vision from his \Nmind into the real world?
+Dialogue: 0,0:16:47.66,0:16:51.62,Default,Rider,0000,0000,0000,,We stand upon the same sands that \Nmy armies once marched across.
+Dialogue: 0,0:16:51.62,0:16:54.28,Default,Rider,0000,0000,0000,,This landscape, where we \Nshared joy and sorrow,
+Dialogue: 0,0:16:54.28,0:16:57.03,Default,Rider,0000,0000,0000,,is burned into the minds of \Nall those countless heroes.
+Dialogue: 0,0:17:03.62,0:17:07.38,Default,Rider,0000,0000,0000,,This world lives again,
+Dialogue: 0,0:17:07.38,0:17:10.59,Default,Rider,0000,0000,0000,,because it still exists within our hearts!
+Dialogue: 0,0:17:13.65,0:17:16.28,Default,Rider,0000,0000,0000,,Behold my endless armies!
+Dialogue: 0,0:17:16.28,0:17:17.85,Default,Rider,0000,0000,0000,,Their bodies returned to dust,
+Dialogue: 0,0:17:17.85,0:17:22.10,Default,Rider,0000,0000,0000,,and their souls returned to \Nthe world as Heroic Spirits.
+Dialogue: 0,0:17:22.10,0:17:26.77,Default,Rider,0000,0000,0000,,They are legendary warriors, \Nwho still pledge loyalty to me!
+Dialogue: 0,0:17:27.97,0:17:30.60,Default,Rider,0000,0000,0000,,My bond with them is my greatest treasure,
+Dialogue: 0,0:17:30.60,0:17:32.22,Default,Rider,0000,0000,0000,,the path of my rule!
+Dialogue: 0,0:17:32.22,0:17:35.20,Default,Rider,0000,0000,0000,,The ultimate Noble Phantasm of Iskandar.
+Dialogue: 0,0:17:35.20,0:17:38.42,Default,Rider,0000,0000,0000,,{\i1}Ionioi Hetairoi!
+Dialogue: 0,0:17:44.13,0:17:47.00,Default,Waver,0000,0000,0000,,Each of those soldiers is a Servant!
+Dialogue: 0,0:17:48.34,0:17:50.61,Default,Rider,0000,0000,0000,,Good to see you again, partner.
+Dialogue: 0,0:17:53.69,0:17:54.80,Default,Rider,0000,0000,0000,,A king
+Dialogue: 0,0:17:55.19,0:17:59.55,Default,Rider,0000,0000,0000,,must live such an illustrious life \Nthat it embodies his peoples' ideals!
+Dialogue: 0,0:17:59.55,0:18:02.56,Default,All,0000,0000,0000,,Hail!  Hail!  Hail!
+Dialogue: 0,0:18:04.74,0:18:07.19,Default,Rider,0000,0000,0000,,It is commanding the envy of all these heroes,
+Dialogue: 0,0:18:07.19,0:18:10.31,Default,Rider,0000,0000,0000,,and leading them forward that makes me a king!
+Dialogue: 0,0:18:10.52,0:18:11.57,Default,Rider,0000,0000,0000,,Therefore,
+Dialogue: 0,0:18:11.57,0:18:13.82,Default,Rider,0000,0000,0000,,a king does not stand in solitude!
+Dialogue: 0,0:18:13.82,0:18:15.44,Default,Rider,0000,0000,0000,,His will
+Dialogue: 0,0:18:15.73,0:18:19.32,Default,Rider,0000,0000,0000,,equals that of each of his followers!
+Dialogue: 0,0:18:19.32,0:18:22.83,Default,All,0000,0000,0000,,Hail!  Hail!  Hail!
+Dialogue: 0,0:18:23.06,0:18:24.34,Default,Rider,0000,0000,0000,,So, then...
+Dialogue: 0,0:18:24.81,0:18:27.08,Default,Rider,0000,0000,0000,,Prepared to face me, Assassin?
+Dialogue: 0,0:18:28.14,0:18:31.78,Default,Rider,0000,0000,0000,,As you can see, this land is a desert plain.
+Dialogue: 0,0:18:31.78,0:18:35.22,Default,Rider,0000,0000,0000,,Unfortunately for you, this battlefield \Ngives our numbers a distinct advantage.
+Dialogue: 0,0:18:36.47,0:18:38.47,Default,Rider,0000,0000,0000,,Crush them!
+Dialogue: 0,0:19:49.06,0:19:51.83,Default,Rider,0000,0000,0000,,That was less interesting than I'd hoped.
+Dialogue: 0,0:19:53.43,0:19:56.18,Default,Rider,0000,0000,0000,,Now that we have each said our piece,
+Dialogue: 0,0:19:56.18,0:19:58.82,Default,Rider,0000,0000,0000,,I think that's enough for the night.
+Dialogue: 0,0:19:59.68,0:20:01.80,Default,Saber,0000,0000,0000,,Wait, Rider.  I still...
+Dialogue: 0,0:20:02.22,0:20:04.12,Default,Rider,0000,0000,0000,,No, be silent.
+Dialogue: 0,0:20:04.12,0:20:06.87,Default,Rider,0000,0000,0000,,Tonight was a banquet of kings.
+Dialogue: 0,0:20:07.69,0:20:09.18,Default,Rider,0000,0000,0000,,But you, Saber...
+Dialogue: 0,0:20:09.18,0:20:12.19,Default,Rider,0000,0000,0000,,No longer do I acknowledge you as one.
+Dialogue: 0,0:20:18.02,0:20:22.53,Default,Rider,0000,0000,0000,,Little girl, wake from your sad dream.
+Dialogue: 0,0:20:22.53,0:20:24.37,Default,Rider,0000,0000,0000,,If you cannot,
+Dialogue: 0,0:20:24.37,0:20:28.57,Default,,0000,0000,0000,,you'll lose the last sliver of pride \Nyou still claim as a Heroic Spirit.
+Dialogue: 0,0:20:29.00,0:20:34.35,Default,Rider,0000,0000,0000,,The king's dream you spoke of is a curse.
+Dialogue: 0,0:20:34.35,0:20:35.04,Default,Saber,0000,0000,0000,,What?
+Dialogue: 0,0:20:44.88,0:20:47.79,Default,Arch,0000,0000,0000,,Pay him no heed, Saber.
+Dialogue: 0,0:20:48.26,0:20:50.08,Default,Arch,0000,0000,0000,,You are correct.
+Dialogue: 0,0:20:50.08,0:20:52.31,Default,Arch,0000,0000,0000,,Follow your chosen path.
+Dialogue: 0,0:20:53.15,0:20:56.08,Default,Arch,0000,0000,0000,,Watching someone carry that \Nheavy burden of kingship,
+Dialogue: 0,0:20:56.08,0:21:00.06,Default,Arch,0000,0000,0000,,struggling with the pain and anguish...
+Dialogue: 0,0:21:00.86,0:21:04.32,Default,Arch,0000,0000,0000,,It is superb to behold.
+Dialogue: 0,0:21:04.81,0:21:07.57,Default,Arch,0000,0000,0000,,Stand your ground, little King of Knights.
+Dialogue: 0,0:21:07.57,0:21:09.33,Default,Arch,0000,0000,0000,,Depending on your actions,
+Dialogue: 0,0:21:09.33,0:21:13.16,Default,Arch,0000,0000,0000,,you may prove worthy of \Nstill more of my affection.
+Dialogue: 0,0:21:22.36,0:21:23.58,Default,Iry,0000,0000,0000,,Saber...
+Dialogue: 0,0:21:24.22,0:21:25.76,Default,Saber,0000,0000,0000,,I remember.
+Dialogue: 0,0:21:26.28,0:21:29.81,Default,Saber,0000,0000,0000,,There was once a knight who left Camelot,
+Dialogue: 0,0:21:29.81,0:21:32.64,Default,Saber,0000,0000,0000,,saying King Arthur could never \Nunderstand others' feelings.
+Dialogue: 0,0:21:34.24,0:21:35.60,Default,Saber,0000,0000,0000,,Maybe
+Dialogue: 0,0:21:36.29,0:21:39.72,Default,Saber,0000,0000,0000,,those feelings were shared by all
+Dialogue: 0,0:21:39.72,0:21:42.56,Default,Saber,0000,0000,0000,,who once sat at the Round Table.
+Dialogue: 0,0:21:51.93,0:21:54.02,Title,Saber,0000,0000,0000,,Episode 11 \NDiscussing the Grail
+Dialogue: 0,0:23:25.50,0:23:27.56,Default,Toki,0000,0000,0000,,The second act is about to begin.
+Dialogue: 0,0:23:27.56,0:23:29.66,Default,Sola,0000,0000,0000,,I'm not an ordinary human.
+Dialogue: 0,0:23:29.66,0:23:32.68,Default,Saber,0000,0000,0000,,It is not as simple as that!
+Dialogue: 0,0:23:32.68,0:23:34.76,Default,Arch,0000,0000,0000,,Seek out your desire.
+Dialogue: 0,0:23:34.76,0:23:36.64,Default,Arch,0000,0000,0000,,Your path is now clear.
+Dialogue: 0,0:23:36.64,0:23:40.08,Default,Kirei,0000,0000,0000,,That is an evil which must be vanquished!
+Dialogue: 0,0:23:37.87,0:23:40.05,Title,Kirei,0000,0000,0000,,Next time \NThe Grail Beckons

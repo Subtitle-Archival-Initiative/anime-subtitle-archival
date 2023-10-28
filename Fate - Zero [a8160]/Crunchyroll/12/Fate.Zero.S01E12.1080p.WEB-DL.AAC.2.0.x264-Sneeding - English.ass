@@ -1,0 +1,425 @@
+﻿[Script Info]
+Title: English
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0005,0
+Style: Default - italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Title,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,0
+Style: Sign11A,Arial,26,&H00B7C6B8,&H000000FF,&H004F584E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.88,0:00:04.85,Default,Toki,0000,0000,0000,,How would you rate Rider's Noble Phantasm?
+Dialogue: 0,0:00:05.35,0:00:08.39,Default,Kirei,0000,0000,0000,,Equal to Gilgamesh's Gate of Babylon.
+Dialogue: 0,0:00:08.83,0:00:11.80,Default,Kirei,0000,0000,0000,,In other words, it is utterly immeasurable.
+Dialogue: 0,0:00:14.28,0:00:17.55,Default,Toki,0000,0000,0000,,Exactly as we anticipated.
+Dialogue: 0,0:00:18.28,0:00:20.36,Default,Toki,0000,0000,0000,,Had we faced Rider
+Dialogue: 0,0:00:20.36,0:00:22.50,Default,,0000,0000,0000,,with no foreknowledge of \Nhis Noble Phantasm,
+Dialogue: 0,0:00:22.50,0:00:25.62,Default,Toki,0000,0000,0000,,we would not have been able \Nto formulate a defense.
+Dialogue: 0,0:00:40.52,0:00:42.77,Default,Toki,0000,0000,0000,,The second act begins now.
+Dialogue: 0,0:00:43.22,0:00:45.72,Default,Toki,0000,0000,0000,,We will use the information \NAssassin gathered
+Dialogue: 0,0:00:45.72,0:00:48.52,Default,Toki,0000,0000,0000,,to mobilize Archer and \Nexterminate our enemies.
+Dialogue: 0,0:00:49.05,0:00:51.18,Default,Toki,0000,0000,0000,,And in the process, the way to
+Dialogue: 0,0:00:51.18,0:00:53.78,Default,,0000,0000,0000,,handle Rider will present itself.
+Dialogue: 0,0:00:53.78,0:00:54.85,Default,Kirei,0000,0000,0000,,Yes.
+Dialogue: 0,0:00:55.57,0:00:58.82,Default,Toki,0000,0000,0000,,You have completed your part \Nas a Master admirably.
+Dialogue: 0,0:02:30.95,0:02:32.21,Default,Maiya,0000,0000,0000,,I believe
+Dialogue: 0,0:02:32.21,0:02:33.84,Default,Maiya,0000,0000,0000,,that every Assassin,
+Dialogue: 0,0:02:33.84,0:02:37.01,Default,Maiya,0000,0000,0000,,without exception, took part \Nin last night's attack.
+Dialogue: 0,0:02:37.01,0:02:37.97,Default,Kiri,0000,0000,0000,,Understood.
+Dialogue: 0,0:02:38.47,0:02:39.88,Default,Kiri,0000,0000,0000,,By the way, Maiya,
+Dialogue: 0,0:02:39.88,0:02:42.20,Default,Kiri,0000,0000,0000,,how is the new workshop progressing?
+Dialogue: 0,0:02:42.20,0:02:45.35,Default,Maiya,0000,0000,0000,,I plan to take Madam and Saber there \Ntomorrow morning.
+Dialogue: 0,0:02:46.03,0:02:46.68,Default,Kiri,0000,0000,0000,,Thanks.
+Dialogue: 0,0:02:46.68,0:02:47.35,Default,Maiya,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:02:47.35,0:02:48.78,Default,Maiya,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:03:05.16,0:03:07.50,Default,Kiri,0000,0000,0000,,{\i1}No movement from the Tohsaka estate.
+Dialogue: 0,0:03:07.50,0:03:09.83,Default,Kiri,0000,0000,0000,,{\i1}Since Assassin’s sneak attack \Nat the war's opening,
+Dialogue: 0,0:03:09.83,0:03:12.21,Default,Kiri,0000,0000,0000,,{\i1}Tokiomi's been holed-up \Nbehind his fortifications.
+Dialogue: 0,0:03:13.09,0:03:15.09,Default,Kiri,0000,0000,0000,,{\i1}It's so quiet, it's unsettling.
+Dialogue: 0,0:03:17.69,0:03:20.53,Default,Kiri,0000,0000,0000,,{\i1}At first glance, the Matou \NMaster appears defenseless,
+Dialogue: 0,0:03:20.53,0:03:22.18,Default,Kiri,0000,0000,0000,,{\i1}an easy target.
+Dialogue: 0,0:03:22.18,0:03:23.01,Default,Kiri,0000,0000,0000,,{\i1}However...
+Dialogue: 0,0:03:28.24,0:03:30.64,Default,Kiri,0000,0000,0000,,{\i1}Given Berserker's unusual ability,
+Dialogue: 0,0:03:31.13,0:03:33.99,Default,Kiri,0000,0000,0000,,{\i1}if for no other reason than to keep \NArcher and Tohsaka in check,
+Dialogue: 0,0:03:33.99,0:03:36.44,Default,Kiri,0000,0000,0000,,{\i1}it's best to let him be for now.
+Dialogue: 0,0:03:37.37,0:03:40.55,Default,Kiri,0000,0000,0000,,{\i1}Lord El-Melloi should now be \Neffectively incapacitated,
+Dialogue: 0,0:03:40.55,0:03:42.62,Default,Kiri,0000,0000,0000,,{\i1}but Lancer is still active.
+Dialogue: 0,0:03:42.62,0:03:45.18,Default,Kiri,0000,0000,0000,,{\i1}We should uncover his new Master
+Dialogue: 0,0:03:45.18,0:03:47.83,Default,Kiri,0000,0000,0000,,{\i1}as soon as possible.
+Dialogue: 0,0:03:48.25,0:03:50.48,Default,Kiri,0000,0000,0000,,{\i1}Caster's whereabouts are still unknown.
+Dialogue: 0,0:03:51.04,0:03:52.50,Default,Kiri,0000,0000,0000,,{\i1}But last night,
+Dialogue: 0,0:03:52.50,0:03:54.81,Default,Kiri,0000,0000,0000,,{\i1}several more children were reported missing.
+Dialogue: 0,0:03:54.81,0:03:58.84,Default,Kiri,0000,0000,0000,,{\i1}Their unscrupulous rampage \Ncontinues unabated.
+Dialogue: 0,0:04:01.72,0:04:05.34,Default,Kiri,0000,0000,0000,,{\i1}Rider and his Master always travel \Nin his flying Noble Phantasm,
+Dialogue: 0,0:04:05.34,0:04:06.93,Default,Kiri,0000,0000,0000,,{\i1}which makes him difficult to track.
+Dialogue: 0,0:04:07.51,0:04:09.39,Default,Kiri,0000,0000,0000,,{\i1}Despite his open-hearted exterior,
+Dialogue: 0,0:04:09.39,0:04:11.21,Default,,0000,0000,0000,,{\i1}he is a fearsome and vigilant opponent.
+Dialogue: 0,0:04:11.21,0:04:13.03,Default,Kiri,0000,0000,0000,,{\i1}Furthermore, given Maiya's report,
+Dialogue: 0,0:04:13.03,0:04:16.61,Default,Kiri,0000,0000,0000,,{\i1}his Ionioi Hertairoi\N has me concerned, as well.
+Dialogue: 0,0:04:18.75,0:04:20.73,Default,Kiri,0000,0000,0000,,{\i1}But above all else...
+Dialogue: 0,0:04:21.32,0:04:22.57,Default,Maiya,0000,0000,0000,,Is it prudent to assume
+Dialogue: 0,0:04:22.57,0:04:25.33,Default,Maiya,0000,0000,0000,,that Assassin is truly finished for good?
+Dialogue: 0,0:04:26.33,0:04:28.83,Default,Kiri,0000,0000,0000,,{\i1}But what of his Master?
+Dialogue: 0,0:04:37.25,0:04:41.59,Default,Kiri,0000,0000,0000,,{\i1}If his plan was to ally with Tohsaka and\Nuse Assassin to gather intel,
+Dialogue: 0,0:04:41.59,0:04:45.33,Default,Kiri,0000,0000,0000,,{\i1}then he shouldn't have ventured \Noutside the Fuyuki Church.
+Dialogue: 0,0:04:45.33,0:04:47.22,Default,Kiri,0000,0000,0000,,{\i1}But he did.
+Dialogue: 0,0:04:47.22,0:04:49.28,Default,Kiri,0000,0000,0000,,{\i1}His ambush at the Fuyuki Hyatt...
+Dialogue: 0,0:04:49.87,0:04:51.77,Default,Kiri,0000,0000,0000,,{\i1}His infiltrating the Einzbern forest...
+Dialogue: 0,0:04:52.26,0:04:54.27,Default,Kiri,0000,0000,0000,,{\i1}It doesn't make sense.
+Dialogue: 0,0:04:56.27,0:04:57.32,Default,Kiri,0000,0000,0000,,{\i1}This only explanation
+Dialogue: 0,0:04:57.32,0:05:00.42,Default,Kiri,0000,0000,0000,,{\i1}is that I am his target.
+Dialogue: 0,0:05:00.42,0:05:01.54,Default,Kiri,0000,0000,0000,,{\i1}But why?
+Dialogue: 0,0:05:01.54,0:05:02.78,Default,Kiri,0000,0000,0000,,{\i1}Why me?
+Dialogue: 0,0:05:03.40,0:05:05.28,Default,Kiri,0000,0000,0000,,{\i1}Until two days ago,
+Dialogue: 0,0:05:05.28,0:05:09.55,Default,,0000,0000,0000,,{\i1}he couldn't have known that\NI am Saber's true Master.
+Dialogue: 0,0:05:13.66,0:05:15.05,Default,Kiri,0000,0000,0000,,{\i1}Kotomine Kirei,
+Dialogue: 0,0:05:15.05,0:05:16.79,Default,Kiri,0000,0000,0000,,{\i1}who are you?
+Dialogue: 0,0:05:27.01,0:05:30.01,Default,Kirei,0000,0000,0000,,I see that you're in \Na good mood again today,
+Dialogue: 0,0:05:30.01,0:05:31.35,Default,Kirei,0000,0000,0000,,Archer.
+Dialogue: 0,0:05:31.35,0:05:34.76,Default,Arch,0000,0000,0000,,I'm still uncertain as to the \NHoly Grail's true value,
+Dialogue: 0,0:05:34.76,0:05:37.85,Default,Arch,0000,0000,0000,,but even if it's mere scrap, \NI no longer care.
+Dialogue: 0,0:05:37.85,0:05:40.69,Default,Arch,0000,0000,0000,,Something more interesting \Nhas caught my attention.
+Dialogue: 0,0:05:41.34,0:05:44.05,Default,Arch,0000,0000,0000,,Kirei, for once,
+Dialogue: 0,0:05:44.05,0:05:46.61,Default,Arch,0000,0000,0000,,you appear to be in fine spirits, as well.
+Dialogue: 0,0:05:46.61,0:05:48.86,Default,Kirei,0000,0000,0000,,I'm simply relieved.
+Dialogue: 0,0:05:48.86,0:05:51.16,Default,Kirei,0000,0000,0000,,At long last,
+Dialogue: 0,0:05:51.16,0:05:54.07,Default,,0000,0000,0000,,that troublesome burden has been\Nlifted from my shoulders.
+Dialogue: 0,0:05:54.07,0:05:55.58,Default,Arch,0000,0000,0000,,What becomes of your Command Spells,
+Dialogue: 0,0:05:55.77,0:05:57.28,Default,,0000,0000,0000,,now that they have vanished?
+Dialogue: 0,0:05:58.05,0:05:59.39,Default,Kirei,0000,0000,0000,,Theoretically,
+Dialogue: 0,0:05:59.39,0:06:02.34,Default,Kirei,0000,0000,0000,,they should return to the Holy Grail.
+Dialogue: 0,0:06:02.34,0:06:04.45,Default,Kirei,0000,0000,0000,,When a Servant is defeated,
+Dialogue: 0,0:06:04.45,0:06:07.02,Default,,0000,0000,0000,,the Master is removed from contention,
+Dialogue: 0,0:06:07.02,0:06:10.22,Default,Kirei,0000,0000,0000,,and the Grail reclaims the Command Spells.
+Dialogue: 0,0:06:10.22,0:06:11.36,Default,Kirei,0000,0000,0000,,Further,
+Dialogue: 0,0:06:11.36,0:06:14.80,Default,Kirei,0000,0000,0000,,should a Servant suddenly \Nfind itself with no Master,
+Dialogue: 0,0:06:14.80,0:06:18.03,Default,Kirei,0000,0000,0000,,the Grail will redistribute the \Nunused Command Spells
+Dialogue: 0,0:06:18.03,0:06:20.88,Default,Kirei,0000,0000,0000,,to a newly chosen Master.
+Dialogue: 0,0:06:21.09,0:06:23.03,Default,Kirei,0000,0000,0000,,As long as the Command Spells are unused,
+Dialogue: 0,0:06:23.03,0:06:24.84,Default,,0000,0000,0000,,they remain in this world.
+Dialogue: 0,0:06:24.84,0:06:26.74,Default,Kirei,0000,0000,0000,,And at the war's conclusion,
+Dialogue: 0,0:06:26.74,0:06:30.03,Default,,0000,0000,0000,,any remaining Spells go to \Nthe war's mediator.
+Dialogue: 0,0:06:30.03,0:06:32.84,Default,Arch,0000,0000,0000,,Then, depending on how things play out,
+Dialogue: 0,0:06:32.84,0:06:36.67,Default,,0000,0000,0000,,we could see a new Master enter the fray?
+Dialogue: 0,0:06:36.67,0:06:37.88,Default,Kirei,0000,0000,0000,,Correct.
+Dialogue: 0,0:06:37.88,0:06:40.90,Default,Kirei,0000,0000,0000,,But bear in mind, the Grail acknowledges
+Dialogue: 0,0:06:40.90,0:06:42.42,Default,,0000,0000,0000,,very few indeed.
+Dialogue: 0,0:06:43.01,0:06:46.07,Default,Kirei,0000,0000,0000,,That's why, even if there's an opening
+Dialogue: 0,0:06:46.07,0:06:47.49,Default,Kirei,0000,0000,0000,,for a new Master,
+Dialogue: 0,0:06:47.49,0:06:50.13,Default,Kirei,0000,0000,0000,,the Holy Grail will prioritize
+Dialogue: 0,0:06:50.13,0:06:52.99,Default,Kirei,0000,0000,0000,,those it has previously chosen.
+Dialogue: 0,0:06:55.51,0:06:56.67,Default,Arch,0000,0000,0000,,Well?
+Dialogue: 0,0:06:56.67,0:06:59.06,Default,Arch,0000,0000,0000,,Continue, Kirei.
+Dialogue: 0,0:07:00.37,0:07:06.32,Default,Kirei,0000,0000,0000,,That is the reason the Holy Church\Ngrants asylum to defeated Masters.
+Dialogue: 0,0:07:06.32,0:07:10.24,Default,Kirei,0000,0000,0000,,In the event that an opening \Nfor a Master appears,
+Dialogue: 0,0:07:10.24,0:07:13.10,Default,Kirei,0000,0000,0000,,there is a high probability that one of them
+Dialogue: 0,0:07:13.10,0:07:15.95,Default,Kirei,0000,0000,0000,,will be chosen to receive\Nthe remaining Command Spells.
+Dialogue: 0,0:07:16.49,0:07:17.62,Default,Kirei,0000,0000,0000,,Hence,
+Dialogue: 0,0:07:17.62,0:07:20.07,Default,Kirei,0000,0000,0000,,participants in the Holy Grail War
+Dialogue: 0,0:07:20.07,0:07:22.76,Default,Kirei,0000,0000,0000,,seek to kill, not merely incapacitate,
+Dialogue: 0,0:07:22.76,0:07:24.18,Default,Kirei,0000,0000,0000,,any other Masters.
+Dialogue: 0,0:07:25.62,0:07:27.97,Default,Arch,0000,0000,0000,,Well, Kirei, by that logic,
+Dialogue: 0,0:07:27.97,0:07:30.50,Default,,0000,0000,0000,,it's quite likely you'll obtain another set
+Dialogue: 0,0:07:30.50,0:07:32.09,Default,,0000,0000,0000,,of Command Spells, no?
+Dialogue: 0,0:07:32.09,0:07:33.67,Default,Kirei,0000,0000,0000,,No.
+Dialogue: 0,0:07:33.67,0:07:38.15,Default,Kirei,0000,0000,0000,,If the Grail's expectation for me, \Nas Tokiomi surmised,
+Dialogue: 0,0:07:38.15,0:07:40.73,Default,,0000,0000,0000,,was to ensure the Tohsaka \Nfamily's advantage,
+Dialogue: 0,0:07:40.73,0:07:43.99,Default,Kirei,0000,0000,0000,,then I have fulfilled my role.
+Dialogue: 0,0:07:44.42,0:07:48.14,Default,Kirei,0000,0000,0000,,Tokiomi has already formulated a strategy
+Dialogue: 0,0:07:48.14,0:07:50.49,Default,,0000,0000,0000,,guaranteed to defeat the other Masters and Servants.
+Dialogue: 0,0:07:51.45,0:07:53.61,Default,Kirei,0000,0000,0000,,There is no further need for me.
+Dialogue: 0,0:07:59.37,0:08:02.91,Default,Iry,0000,0000,0000,,How do you like driving, Saber?
+Dialogue: 0,0:08:02.91,0:08:05.38,Default,Saber,0000,0000,0000,,This is a wondrous vehicle.
+Dialogue: 0,0:08:05.38,0:08:07.62,Default,Saber,0000,0000,0000,,I find myself thinking how \Nit would have been,
+Dialogue: 0,0:08:07.62,0:08:08.88,Default,,0000,0000,0000,,having these in my era.
+Dialogue: 0,0:08:09.73,0:08:10.88,Default,Saber,0000,0000,0000,,Irisviel,
+Dialogue: 0,0:08:10.88,0:08:14.25,Default,Saber,0000,0000,0000,,are you sure you do not mind \Nmy controlling this vehicle?
+Dialogue: 0,0:08:14.25,0:08:18.12,Default,Saber,0000,0000,0000,,You always seem to enjoy a "drive,"\N as you call it.
+Dialogue: 0,0:08:18.12,0:08:19.55,Default,Iry,0000,0000,0000,,It's fine!
+Dialogue: 0,0:08:19.55,0:08:22.52,Default,Iry,0000,0000,0000,,Seeing you happy makes me happy, too.
+Dialogue: 0,0:08:29.73,0:08:32.82,Default,Iry,0000,0000,0000,,Another mysterious building!
+Dialogue: 0,0:08:33.61,0:08:34.90,Default,Maiya,0000,0000,0000,,As of today,
+Dialogue: 0,0:08:34.90,0:08:37.64,Default,Maiya,0000,0000,0000,,you two will use this as your base.
+Dialogue: 0,0:08:37.64,0:08:40.16,Default,Iry,0000,0000,0000,,Oh, could you hold onto the keys, Saber?
+Dialogue: 0,0:08:40.78,0:08:42.94,Default,Saber,0000,0000,0000,,As you wish, Irisviel.
+Dialogue: 0,0:08:48.55,0:08:49.52,Default,Saber,0000,0000,0000,,Maiya,
+Dialogue: 0,0:08:49.52,0:08:51.31,Default,Saber,0000,0000,0000,,what is this key for?
+Dialogue: 0,0:08:51.76,0:08:53.84,Default,Saber,0000,0000,0000,,It is unlike all the others.
+Dialogue: 0,0:08:53.84,0:08:56.35,Default,Maiya,0000,0000,0000,,An earthen storehouse in the back yard.
+Dialogue: 0,0:08:56.35,0:08:57.67,Default,Maiya,0000,0000,0000,,It's quite old,
+Dialogue: 0,0:08:57.67,0:09:00.28,Default,Maiya,0000,0000,0000,,but I have determined that \Nit is structurally sound.
+Dialogue: 0,0:09:00.89,0:09:02.81,Default,Maiya,0000,0000,0000,,I had no time to prepare,
+Dialogue: 0,0:09:03.23,0:09:06.30,Default,,0000,0000,0000,,so this may not be an ideal place to live.
+Dialogue: 0,0:09:06.80,0:09:08.03,Default,Iry,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:09:08.03,0:09:10.50,Default,Iry,0000,0000,0000,,As long as it keeps the rain out,
+Dialogue: 0,0:09:10.50,0:09:12.15,Default,Iry,0000,0000,0000,,you'll have no complaints from me.
+Dialogue: 0,0:09:18.57,0:09:20.77,Default,Iry,0000,0000,0000,,All right, Saber!
+Dialogue: 0,0:09:20.77,0:09:23.15,Default,Iry,0000,0000,0000,,What do you say to us \Nexploring our new home?
+Dialogue: 0,0:09:23.15,0:09:24.29,Default,Saber,0000,0000,0000,,Yes, let us.
+Dialogue: 0,0:09:27.12,0:09:29.23,Default,Iry,0000,0000,0000,,It looks like this is one of this country's
+Dialogue: 0,0:09:29.23,0:09:30.84,Default,Iry,0000,0000,0000,,traditional haunted houses.
+Dialogue: 0,0:09:30.84,0:09:33.15,Default,Iry,0000,0000,0000,,I bet the halls have wooden flooring,
+Dialogue: 0,0:09:33.15,0:09:37.80,Default,Iry,0000,0000,0000,,and the rooms have woven straw mats for floors, \Nwith paper dividers between them.
+Dialogue: 0,0:09:39.74,0:09:43.21,Default,Iry,0000,0000,0000,,I once told Kiritsugu I wanted \Nto see a Japanese house.
+Dialogue: 0,0:09:43.21,0:09:45.68,Default,Iry,0000,0000,0000,,Maybe he remembered!
+Dialogue: 0,0:09:56.63,0:09:59.86,Default,Saber,0000,0000,0000,,Well, does it meet your expectations?
+Dialogue: 0,0:09:59.86,0:10:01.07,Default,Iry,0000,0000,0000,,Oh, yes...
+Dialogue: 0,0:10:01.07,0:10:03.37,Default,Iry,0000,0000,0000,,I had my fun.
+Dialogue: 0,0:10:03.84,0:10:06.45,Default,Iry,0000,0000,0000,,But as a mage's base,
+Dialogue: 0,0:10:06.45,0:10:09.21,Default,Iry,0000,0000,0000,,it presents several obstacles.
+Dialogue: 0,0:10:09.88,0:10:12.01,Default,Iry,0000,0000,0000,,Erecting barriers won't be a problem,
+Dialogue: 0,0:10:12.01,0:10:14.00,Default,,0000,0000,0000,,but it isn't really an ideal workshop.
+Dialogue: 0,0:10:14.00,0:10:16.09,Default,Iry,0000,0000,0000,,All the open space
+Dialogue: 0,0:10:16.09,0:10:18.42,Default,Iry,0000,0000,0000,,will let too much mana dissipate.
+Dialogue: 0,0:10:18.42,0:10:19.36,Default,Iry,0000,0000,0000,,I would have preferred
+Dialogue: 0,0:10:19.36,0:10:22.97,Default,Iry,0000,0000,0000,,a sealed room with stone or earthen walls.
+Dialogue: 0,0:10:30.86,0:10:32.82,Default,Iry,0000,0000,0000,,Now, that's more like it!
+Dialogue: 0,0:10:36.32,0:10:38.60,Default,Iry,0000,0000,0000,,It's a bit cramped,
+Dialogue: 0,0:10:38.60,0:10:43.08,Default,Iry,0000,0000,0000,,but I can use the same spells here \Nthat I did back at the castle.
+Dialogue: 0,0:10:43.54,0:10:46.40,Default,Iry,0000,0000,0000,,For now, inscribing a magical circle
+Dialogue: 0,0:10:46.40,0:10:48.99,Default,,0000,0000,0000,,will solidify the area as my territory.
+Dialogue: 0,0:10:49.63,0:10:52.50,Default,Iry,0000,0000,0000,,Let's begin preparing immediately.
+Dialogue: 0,0:10:52.50,0:10:54.33,Default,Iry,0000,0000,0000,,Could I trouble you
+Dialogue: 0,0:10:54.33,0:10:55.46,Default,Iry,0000,0000,0000,,to lend me a hand, Saber?
+Dialogue: 0,0:10:55.46,0:10:59.31,Default,Iry,0000,0000,0000,,We need a magic circle over there, \Nabout six feet in diameter.
+Dialogue: 0,0:10:59.31,0:10:59.84,Default,Saber,0000,0000,0000,,All right.
+Dialogue: 0,0:11:00.35,0:11:03.54,Default,Iry,0000,0000,0000,,I'll also need you to prepare the mercury.
+Dialogue: 0,0:11:03.54,0:11:06.60,Default,Iry,0000,0000,0000,,Don't worry.  I'll help you to dispense it.
+Dialogue: 0,0:11:07.21,0:11:08.72,Default,Iry,0000,0000,0000,,Okay, Saber,
+Dialogue: 0,0:11:08.72,0:11:11.35,Default,Iry,0000,0000,0000,,could you run back to the car, \Nand retrieve the items we brought?
+Dialogue: 0,0:11:12.92,0:11:14.35,Default,Saber,0000,0000,0000,,Irisviel,
+Dialogue: 0,0:11:14.35,0:11:16.29,Default,Saber,0000,0000,0000,,may I ask a question?
+Dialogue: 0,0:11:16.29,0:11:21.62,Default,Saber,0000,0000,0000,,I feel that you have deliberately \Navoided touching anything all day.
+Dialogue: 0,0:11:21.62,0:11:23.37,Default,Saber,0000,0000,0000,,Or have I imagined this?
+Dialogue: 0,0:11:23.37,0:11:26.58,Default,Saber,0000,0000,0000,,The driving, the keys...
+Dialogue: 0,0:11:26.58,0:11:30.00,Default,Saber,0000,0000,0000,,Those would hardly be a cause for concern,
+Dialogue: 0,0:11:30.87,0:11:35.49,Default,Saber,0000,0000,0000,,but you are not even conducting \Nyour own vital magical ritual.
+Dialogue: 0,0:11:37.43,0:11:39.70,Default,Saber,0000,0000,0000,,If you aren't well,
+Dialogue: 0,0:11:39.70,0:11:42.16,Default,Saber,0000,0000,0000,,please let me know \Nas soon as possible.
+Dialogue: 0,0:11:42.80,0:11:44.20,Default,Saber,0000,0000,0000,,Should anything happen,
+Dialogue: 0,0:11:44.20,0:11:46.98,Default,Saber,0000,0000,0000,,I have a sworn duty to protect you.
+Dialogue: 0,0:11:47.57,0:11:49.77,Default,Saber,0000,0000,0000,,And I must be able to take \Nappropriate measures.
+Dialogue: 0,0:11:52.25,0:11:53.77,Default,Iry,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:11:53.77,0:11:54.99,Default,Iry,0000,0000,0000,,It's true
+Dialogue: 0,0:11:54.99,0:11:58.28,Default,Iry,0000,0000,0000,,there wasn't any point in trying \Nto hide it from you.
+Dialogue: 0,0:12:01.30,0:12:02.57,Default,Iry,0000,0000,0000,,Give me your hand.
+Dialogue: 0,0:12:06.83,0:12:08.32,Default,Iry,0000,0000,0000,,Saber,
+Dialogue: 0,0:12:08.32,0:12:13.21,Default,Iry,0000,0000,0000,,I'm going to squeeze your hand\Nas hard as I can, okay?
+Dialogue: 0,0:12:14.65,0:12:15.44,Default,Saber,0000,0000,0000,,Yes...
+Dialogue: 0,0:12:15.44,0:12:16.21,Default,Saber,0000,0000,0000,,Go ahead.
+Dialogue: 0,0:12:22.05,0:12:23.09,Default,Saber,0000,0000,0000,,Irisviel?
+Dialogue: 0,0:12:23.91,0:12:25.84,Default,Iry,0000,0000,0000,,This isn't a joke...
+Dialogue: 0,0:12:25.84,0:12:29.60,Default,Iry,0000,0000,0000,,I'm squeezing with every ounce \Nof strength I have now.
+Dialogue: 0,0:12:30.46,0:12:33.33,Default,Iry,0000,0000,0000,,Bending my fingers is hard enough...
+Dialogue: 0,0:12:33.33,0:12:36.51,Default,Iry,0000,0000,0000,,Grasping or manipulating objects \Nis all but impossible.
+Dialogue: 0,0:12:37.10,0:12:39.57,Default,Iry,0000,0000,0000,,Getting dressed this morning was brutal.
+Dialogue: 0,0:12:43.24,0:12:45.74,Default,Saber,0000,0000,0000,,B-But what's wrong?
+Dialogue: 0,0:12:45.74,0:12:46.87,Default,Saber,0000,0000,0000,,Are you injured?
+Dialogue: 0,0:12:47.53,0:12:49.87,Default,Iry,0000,0000,0000,,I'm just a bit under the weather,
+Dialogue: 0,0:12:49.87,0:12:51.62,Default,Iry,0000,0000,0000,,so I've cut off my sense of touch.
+Dialogue: 0,0:12:52.34,0:12:54.47,Default,Iry,0000,0000,0000,,Shutting down one of my senses
+Dialogue: 0,0:12:54.47,0:12:56.96,Default,,0000,0000,0000,,allows me to suppress my spiritual energy.
+Dialogue: 0,0:12:56.96,0:13:00.13,Default,Iry,0000,0000,0000,,But it won't prevent me from \Ncarrying out other tasks.
+Dialogue: 0,0:13:00.72,0:13:04.80,Default,Iry,0000,0000,0000,,This flexibility is one advantage \Nto being a homunculus.
+Dialogue: 0,0:13:05.48,0:13:08.73,Default,Saber,0000,0000,0000,,It is not as simple as that!
+Dialogue: 0,0:13:08.73,0:13:12.52,Default,Saber,0000,0000,0000,,To start with, where does \Nyour weakness derive?
+Dialogue: 0,0:13:12.52,0:13:14.14,Default,Saber,0000,0000,0000,,There must be a treatment!
+Dialogue: 0,0:13:14.95,0:13:17.25,Default,Iry,0000,0000,0000,,You may have forgotten that
+Dialogue: 0,0:13:17.25,0:13:20.14,Default,Iry,0000,0000,0000,,I'm not an ordinary human.
+Dialogue: 0,0:13:20.14,0:13:24.53,Default,Iry,0000,0000,0000,,I cannot see a doctor if I catch a cold.
+Dialogue: 0,0:13:25.52,0:13:27.42,Default,Iry,0000,0000,0000,,Think of it as
+Dialogue: 0,0:13:27.42,0:13:30.28,Default,,0000,0000,0000,,a structural defect originating in my body's creation.
+Dialogue: 0,0:13:30.28,0:13:31.53,Default,Iry,0000,0000,0000,,It's fine.
+Dialogue: 0,0:13:32.29,0:13:34.83,Default,Iry,0000,0000,0000,,Well, I say that,
+Dialogue: 0,0:13:34.83,0:13:37.42,Default,,0000,0000,0000,,but I'll have to inconvenience you \Nwith a lot of requests.
+Dialogue: 0,0:13:38.19,0:13:39.30,Default,Iry,0000,0000,0000,,From now on,
+Dialogue: 0,0:13:39.30,0:13:42.63,Default,Iry,0000,0000,0000,,I'll have to leave the driving to you.
+Dialogue: 0,0:13:42.63,0:13:46.08,Default,Iry,0000,0000,0000,,And you'll need to assist in \Nmy spell-casting, too.
+Dialogue: 0,0:13:46.74,0:13:48.05,Default,Iry,0000,0000,0000,,I apologize for all the trouble,
+Dialogue: 0,0:13:48.05,0:13:50.09,Default,,0000,0000,0000,,but I'm counting on you,
+Dialogue: 0,0:13:50.09,0:13:51.93,Default,,0000,0000,0000,,my knight.
+Dialogue: 0,0:13:52.42,0:13:53.80,Default,Saber,0000,0000,0000,,Of course.
+Dialogue: 0,0:13:53.80,0:13:55.01,Default,Saber,0000,0000,0000,,I apologize for prying
+Dialogue: 0,0:13:55.01,0:13:57.90,Default,Saber,0000,0000,0000,,into affairs that were not my own.
+Dialogue: 0,0:13:57.90,0:13:58.81,Default,Saber,0000,0000,0000,,Forgive me.
+Dialogue: 0,0:13:58.81,0:14:00.70,Default,Iry,0000,0000,0000,,Don't worry about it!
+Dialogue: 0,0:14:00.70,0:14:01.69,Default,Iry,0000,0000,0000,,Now, then...
+Dialogue: 0,0:14:01.69,0:14:04.44,Default,Iry,0000,0000,0000,,Let's finish inscribing the circle.
+Dialogue: 0,0:14:05.04,0:14:10.13,Default,Iry,0000,0000,0000,,If I rest within a magical circle properly \Nconnected to the Earth's ley lines,
+Dialogue: 0,0:14:10.13,0:14:12.08,Default,Iry,0000,0000,0000,,my condition should improve.
+Dialogue: 0,0:14:12.08,0:14:13.52,Default,Saber,0000,0000,0000,,Understood.
+Dialogue: 0,0:14:13.52,0:14:15.54,Default,Saber,0000,0000,0000,,I shall retrieve the supplies.
+Dialogue: 0,0:14:21.15,0:14:22.96,Default,Kirei,0000,0000,0000,,Saber's Master...
+Dialogue: 0,0:14:25.52,0:14:28.24,Default,Kirei,0000,0000,0000,,He's nothing but a mercenary
+Dialogue: 0,0:14:28.24,0:14:32.93,Default,Kirei,0000,0000,0000,,hired by the Einzberns, in the name \Nof their long-held obsession
+Dialogue: 0,0:14:32.93,0:14:35.54,Default,Kirei,0000,0000,0000,,to make the Holy Grail's descent a reality.
+Dialogue: 0,0:14:36.15,0:14:38.23,Default,Arch,0000,0000,0000,,I'm glad that you finally realize that.
+Dialogue: 0,0:14:38.23,0:14:40.33,Default,Arch,0000,0000,0000,,He's merely another mongrel,
+Dialogue: 0,0:14:40.74,0:14:42.25,Default,Arch,0000,0000,0000,,just like the rest of them,
+Dialogue: 0,0:14:42.25,0:14:48.36,Default,Arch,0000,0000,0000,,scrabbling after my treasure for the most \Npathetic and mundane of reasons...
+Dialogue: 0,0:14:50.21,0:14:53.01,Default,Kirei,0000,0000,0000,,After all the trouble I went through \Nto discover their motives,
+Dialogue: 0,0:14:53.01,0:14:55.10,Default,Kirei,0000,0000,0000,,is that all you have to say?
+Dialogue: 0,0:14:55.10,0:14:57.50,Default,Kirei,0000,0000,0000,,It would seem my efforts \Nhave been pointless.
+Dialogue: 0,0:14:57.50,0:14:59.39,Default,Arch,0000,0000,0000,,Pointless?
+Dialogue: 0,0:14:59.39,0:15:01.32,Default,Arch,0000,0000,0000,,What do you mean by that, Kirei?
+Dialogue: 0,0:15:01.32,0:15:03.60,Default,Arch,0000,0000,0000,,All the hard work you and Assassin
+Dialogue: 0,0:15:03.60,0:15:05.63,Default,,0000,0000,0000,,put in has proven very helpful, has it not?
+Dialogue: 0,0:15:06.29,0:15:08.68,Default,Kirei,0000,0000,0000,,Do you mock me,
+Dialogue: 0,0:15:08.68,0:15:10.22,Default,Kirei,0000,0000,0000,,King of Heroes?
+Dialogue: 0,0:15:10.22,0:15:12.18,Default,Arch,0000,0000,0000,,You don't see it?
+Dialogue: 0,0:15:12.18,0:15:14.10,Default,Arch,0000,0000,0000,,Well, it's unsurprising.
+Dialogue: 0,0:15:14.10,0:15:17.98,Default,Arch,0000,0000,0000,,You are a man who has yet \Nto understand the meaning of joy.
+Dialogue: 0,0:15:17.98,0:15:21.69,Default,Arch,0000,0000,0000,,Even if you are unaware of it,
+Dialogue: 0,0:15:21.69,0:15:24.11,Default,,0000,0000,0000,,your soul instinctively pursues joy.
+Dialogue: 0,0:15:24.52,0:15:28.97,Default,Arch,0000,0000,0000,,That instinct manifests on the surface\N as curiosity or interest.
+Dialogue: 0,0:15:28.97,0:15:29.99,Default,Arch,0000,0000,0000,,Thus, Kirei,
+Dialogue: 0,0:15:29.99,0:15:33.52,Default,Arch,0000,0000,0000,,discussing with me those matters that
+Dialogue: 0,0:15:33.52,0:15:35.88,Default,,0000,0000,0000,,you have observed or learned of,
+Dialogue: 0,0:15:35.88,0:15:38.25,Default,,0000,0000,0000,,has been quite significant.
+Dialogue: 0,0:15:38.25,0:15:41.61,Default,Arch,0000,0000,0000,,Your words have revealed
+Dialogue: 0,0:15:41.61,0:15:44.79,Default,,0000,0000,0000,,where your interest most heavily lies.
+Dialogue: 0,0:15:45.87,0:15:46.73,Default,Arch,0000,0000,0000,,Let us first
+Dialogue: 0,0:15:46.73,0:15:50.58,Default,Arch,0000,0000,0000,,disregard the man you've \Nintentionally omitted.
+Dialogue: 0,0:15:51.20,0:15:54.76,Default,Arch,0000,0000,0000,,Any interest you're consciously \Naware of is simple fixation.
+Dialogue: 0,0:15:54.76,0:15:56.99,Default,Arch,0000,0000,0000,,Moving on...
+Dialogue: 0,0:15:56.99,0:15:59.14,Default,Arch,0000,0000,0000,,Which of the remaining four Masters
+Dialogue: 0,0:15:59.14,0:16:03.15,Default,,0000,0000,0000,,interested you most passionately?
+Dialogue: 0,0:16:03.15,0:16:05.89,Default,Arch,0000,0000,0000,,Berserker's Master...
+Dialogue: 0,0:16:05.89,0:16:08.40,Default,Arch,0000,0000,0000,,Kariya, was it not?
+Dialogue: 0,0:16:08.40,0:16:09.61,Default,Arch,0000,0000,0000,,Kirei,
+Dialogue: 0,0:16:09.61,0:16:13.91,Default,Arch,0000,0000,0000,,you gave a report of exacting detail \Nregarding that man's activities.
+Dialogue: 0,0:16:15.72,0:16:18.24,Default,Kirei,0000,0000,0000,,His situation is extremely complicated.
+Dialogue: 0,0:16:18.24,0:16:21.66,Default,Kirei,0000,0000,0000,,Naturally, more information was \Nrequired to explain it.
+Dialogue: 0,0:16:21.66,0:16:23.45,Default,Arch,0000,0000,0000,,I think not.
+Dialogue: 0,0:16:23.45,0:16:25.55,Default,Arch,0000,0000,0000,,Rather, because you wished to understand
+Dialogue: 0,0:16:25.55,0:16:28.16,Default,Arch,0000,0000,0000,,this "complicated situation," \Nyou ordered Assassin
+Dialogue: 0,0:16:28.16,0:16:30.83,Default,Arch,0000,0000,0000,,to investigate him alone in such depth.
+Dialogue: 0,0:16:30.83,0:16:33.68,Default,Arch,0000,0000,0000,,All to satisfy your subconscious interest.
+Dialogue: 0,0:16:36.65,0:16:38.56,Default,Kirei,0000,0000,0000,,I'll admit I made a poor decision.
+Dialogue: 0,0:16:39.36,0:16:41.84,Default,Kirei,0000,0000,0000,,In the long term, Matou Kariya
+Dialogue: 0,0:16:43.27,0:16:45.21,Default,Kirei,0000,0000,0000,,poses no real threat and\N is not worth observing.
+Dialogue: 0,0:16:45.21,0:16:47.99,Default,Kirei,0000,0000,0000,,By misjudging his priority,
+Dialogue: 0,0:16:47.99,0:16:51.32,Default,Kirei,0000,0000,0000,,I have inadvertently invited \Nyour unsought attention.
+Dialogue: 0,0:16:52.20,0:16:53.58,Default,Arch,0000,0000,0000,,Is that so?
+Dialogue: 0,0:16:53.58,0:16:57.00,Default,Arch,0000,0000,0000,,Can you imagine a scenario wherein,\Nby a miracle and sheer luck,
+Dialogue: 0,0:16:57.00,0:17:02.20,Default,,0000,0000,0000,,Berserker and his Master survive to the end?
+Dialogue: 0,0:17:02.20,0:17:06.74,Default,Arch,0000,0000,0000,,Tell me what would happen next.
+Dialogue: 0,0:17:15.13,0:17:16.84,Default,Arch,0000,0000,0000,,Come, Kirei...
+Dialogue: 0,0:17:17.60,0:17:20.50,Default,Arch,0000,0000,0000,,Isn't it about time you realized
+Dialogue: 0,0:17:20.50,0:17:23.23,Default,Arch,0000,0000,0000,,the true reason for my question?
+Dialogue: 0,0:17:27.14,0:17:29.23,Default,Kirei,0000,0000,0000,,Tell me, Archer.
+Dialogue: 0,0:17:29.23,0:17:32.46,Default,Kirei,0000,0000,0000,,What point is there in imagining \Nwhat might happen,
+Dialogue: 0,0:17:32.46,0:17:34.64,Default,,0000,0000,0000,,should Matou Kariya prevail?
+Dialogue: 0,0:17:34.64,0:17:35.88,Default,Arch,0000,0000,0000,,There is none.
+Dialogue: 0,0:17:35.88,0:17:37.63,Default,Arch,0000,0000,0000,,None at all.
+Dialogue: 0,0:17:38.72,0:17:42.01,Default,Arch,0000,0000,0000,,Oh, don't look so angry.
+Dialogue: 0,0:17:42.01,0:17:43.82,Default,Arch,0000,0000,0000,,Consider it...
+Dialogue: 0,0:17:43.82,0:17:46.48,Default,Arch,0000,0000,0000,,How is it that Kotomine Kirei never
+Dialogue: 0,0:17:46.48,0:17:48.63,Default,,0000,0000,0000,,noticed the pointlessness \Nof this speculation?
+Dialogue: 0,0:17:49.41,0:17:53.40,Default,Arch,0000,0000,0000,,Do you not find some undeniable \Nsignificance in that fact?
+Dialogue: 0,0:17:55.95,0:17:58.01,Default,Kirei,0000,0000,0000,,Enlighten me, Archer.
+Dialogue: 0,0:17:58.69,0:18:00.12,Default,Arch,0000,0000,0000,,Had I posed to you
+Dialogue: 0,0:18:00.12,0:18:03.52,Default,,0000,0000,0000,,the same question, but about \None of the other Masters,
+Dialogue: 0,0:18:03.52,0:18:06.48,Default,Arch,0000,0000,0000,,you would immediately have concluded \Nthe exercise was pointless,
+Dialogue: 0,0:18:06.48,0:18:09.61,Default,Arch,0000,0000,0000,,never even bothering to consider it.
+Dialogue: 0,0:18:09.61,0:18:13.48,Default,Arch,0000,0000,0000,,But with Kariya,\Nthe result was quite different.
+Dialogue: 0,0:18:13.48,0:18:16.26,Default,Arch,0000,0000,0000,,Rather than dismissing \Nthe thought instantly,
+Dialogue: 0,0:18:16.26,0:18:19.28,Default,Arch,0000,0000,0000,,you allowed your imagination to \Nindulge in ridiculous speculation.
+Dialogue: 0,0:18:19.28,0:18:21.62,Default,Arch,0000,0000,0000,,You completely forgot the futility,
+Dialogue: 0,0:18:21.62,0:18:23.60,Default,Arch,0000,0000,0000,,not believing your effort wasted.
+Dialogue: 0,0:18:23.60,0:18:26.54,Default,Arch,0000,0000,0000,,To put it simply, you enjoyed yourself.
+Dialogue: 0,0:18:26.54,0:18:28.51,Default,Arch,0000,0000,0000,,Rejoice, Kirei.
+Dialogue: 0,0:18:28.93,0:18:30.16,Default,Arch,0000,0000,0000,,You have learned
+Dialogue: 0,0:18:30.16,0:18:33.11,Default,Arch,0000,0000,0000,,the meaning of entertainment.
+Dialogue: 0,0:18:33.11,0:18:34.27,Default,Kirei,0000,0000,0000,,Entertainment...
+Dialogue: 0,0:18:34.27,0:18:35.92,Default,Kirei,0000,0000,0000,,You speak of happiness?
+Dialogue: 0,0:18:35.92,0:18:37.39,Default,Arch,0000,0000,0000,,Precisely.
+Dialogue: 0,0:18:39.05,0:18:41.37,Default,Kirei,0000,0000,0000,,There is no happiness
+Dialogue: 0,0:18:41.37,0:18:44.14,Default,Kirei,0000,0000,0000,,to be found in Matou Kariya's fate.
+Dialogue: 0,0:18:44.14,0:18:46.14,Default,Kirei,0000,0000,0000,,Every day he continues living
+Dialogue: 0,0:18:46.14,0:18:49.02,Default,Kirei,0000,0000,0000,,will only compound his agony.
+Dialogue: 0,0:18:49.02,0:18:51.82,Default,Kirei,0000,0000,0000,,His only salvation would be
+Dialogue: 0,0:18:51.82,0:18:53.99,Default,Kirei,0000,0000,0000,,a quick death.
+Dialogue: 0,0:18:54.88,0:18:56.27,Default,Arch,0000,0000,0000,,Kirei...
+Dialogue: 0,0:18:56.27,0:18:58.70,Default,Arch,0000,0000,0000,,Why must you define bliss so narrowly?
+Dialogue: 0,0:18:59.04,0:19:01.59,Default,Arch,0000,0000,0000,,Where lies the contradiction \Nin seeing pain and suffering
+Dialogue: 0,0:19:01.59,0:19:03.83,Default,Arch,0000,0000,0000,,as other forms of bliss?
+Dialogue: 0,0:19:04.41,0:19:07.05,Default,Arch,0000,0000,0000,,There is no limit to the forms of happiness.
+Dialogue: 0,0:19:07.05,0:19:09.96,Default,Arch,0000,0000,0000,,You remain confused because \Nyou fail to comprehend this.
+Dialogue: 0,0:19:09.96,0:19:12.43,Default,Kirei,0000,0000,0000,,Because it is wrong!
+Dialogue: 0,0:19:13.41,0:19:14.89,Default,Kirei,0000,0000,0000,,King of Heroes,
+Dialogue: 0,0:19:14.89,0:19:17.75,Default,Kirei,0000,0000,0000,,one with your twisted tastes,
+Dialogue: 0,0:19:17.75,0:19:18.95,Default,Kirei,0000,0000,0000,,may find sweetness
+Dialogue: 0,0:19:18.95,0:19:21.34,Default,Kirei,0000,0000,0000,,in the misery of others.
+Dialogue: 0,0:19:21.34,0:19:24.22,Default,Kirei,0000,0000,0000,,But that reveals the soul of a sinner!
+Dialogue: 0,0:19:24.22,0:19:26.46,Default,Kirei,0000,0000,0000,,That is an evil which must be vanquished!
+Dialogue: 0,0:19:26.46,0:19:30.96,Default,Kirei,0000,0000,0000,,Above all, it is incompatible with my faith!
+Dialogue: 0,0:19:31.92,0:19:35.11,Default,Arch,0000,0000,0000,,So you classify happiness itself as a sin.
+Dialogue: 0,0:19:36.07,0:19:38.86,Default,Arch,0000,0000,0000,,You have utterly deceived yourself.
+Dialogue: 0,0:19:38.86,0:19:42.86,Default,Arch,0000,0000,0000,,You truly are an intriguing man.
+Dialogue: 0,0:19:46.55,0:19:47.87,Default,Kirei,0000,0000,0000,,This pain...
+Dialogue: 0,0:19:52.28,0:19:53.25,Default,Arch,0000,0000,0000,,Oh?
+Dialogue: 0,0:19:53.86,0:19:56.15,Default,Arch,0000,0000,0000,,Just as I anticipated.
+Dialogue: 0,0:19:56.54,0:19:59.25,Default,Arch,0000,0000,0000,,Though sooner than I'd expected, too.
+Dialogue: 0,0:20:00.28,0:20:01.50,Default,Kirei,0000,0000,0000,,It can't be...
+Dialogue: 0,0:20:01.50,0:20:04.99,Default,,0000,0000,0000,,There are no free Servants.
+Dialogue: 0,0:20:04.99,0:20:08.21,Default,Kirei,0000,0000,0000,,Why has a new Master been chosen?
+Dialogue: 0,0:20:08.21,0:20:10.21,Default,Arch,0000,0000,0000,,Perhaps the Holy Grail
+Dialogue: 0,0:20:10.21,0:20:14.10,Default,,0000,0000,0000,,also harbors high expectations \Nfor Kotomine Kirei.
+Dialogue: 0,0:20:14.10,0:20:15.41,Default,Arch,0000,0000,0000,,Kirei,
+Dialogue: 0,0:20:15.41,0:20:18.75,Default,Arch,0000,0000,0000,,you should heed the Grail's summons.
+Dialogue: 0,0:20:18.75,0:20:20.67,Default,Arch,0000,0000,0000,,There is no question now
+Dialogue: 0,0:20:20.67,0:20:24.07,Default,,0000,0000,0000,,that you do indeed have a wish \Nfor the Grail to grant.
+Dialogue: 0,0:20:24.07,0:20:25.41,Default,Kirei,0000,0000,0000,,I have a wish
+Dialogue: 0,0:20:25.41,0:20:26.62,Default,Kirei,0000,0000,0000,,for the Holy Grail?
+Dialogue: 0,0:20:27.32,0:20:30.00,Default,Arch,0000,0000,0000,,If the Grail's power is truly omnipotent,
+Dialogue: 0,0:20:30.34,0:20:33.61,Default,Arch,0000,0000,0000,,then it can show you the true form \Nof your deepest desire,
+Dialogue: 0,0:20:33.61,0:20:35.86,Default,Arch,0000,0000,0000,,buried deep within your heart,
+Dialogue: 0,0:20:35.86,0:20:38.94,Default,Arch,0000,0000,0000,,of which you are still unaware.
+Dialogue: 0,0:20:40.92,0:20:44.09,Default,Kirei,0000,0000,0000,,So you're saying that because \NI have no idea of my desire,
+Dialogue: 0,0:20:44.09,0:20:46.59,Default,Kirei,0000,0000,0000,,I should take the Holy Grail for myself,
+Dialogue: 0,0:20:46.59,0:20:49.14,Default,Kirei,0000,0000,0000,,to learn my wish?
+Dialogue: 0,0:20:49.14,0:20:51.10,Default,Kirei,0000,0000,0000,,But...
+Dialogue: 0,0:20:51.10,0:20:53.94,Default,Kirei,0000,0000,0000,,First, I would have to destroy \Nthe wishes of six others,
+Dialogue: 0,0:20:53.94,0:20:56.02,Default,Kirei,0000,0000,0000,,before that could happen.
+Dialogue: 0,0:20:56.47,0:21:01.24,Default,Kirei,0000,0000,0000,,If I truly sought the Holy Grail \Nfor my own desire,
+Dialogue: 0,0:21:02.32,0:21:04.48,Default,Kirei,0000,0000,0000,,my teacher would become
+Dialogue: 0,0:21:04.48,0:21:06.28,Default,Kirei,0000,0000,0000,,my enemy, as well.
+Dialogue: 0,0:21:06.68,0:21:10.41,Default,Arch,0000,0000,0000,,You'd better find the \Nstrongest Servant you can,
+Dialogue: 0,0:21:10.41,0:21:12.79,Default,Arch,0000,0000,0000,,if you mean to do battle with me.
+Dialogue: 0,0:21:12.79,0:21:14.96,Default,Arch,0000,0000,0000,,You'll have to start
+Dialogue: 0,0:21:14.96,0:21:17.00,Default,Arch,0000,0000,0000,,by stealing a Servant
+Dialogue: 0,0:21:17.00,0:21:21.31,Default,Arch,0000,0000,0000,,still contracted to one \Nof the other Masters.
+Dialogue: 0,0:21:22.76,0:21:24.71,Default,Arch,0000,0000,0000,,Then you could...
+Dialogue: 0,0:21:25.31,0:21:27.18,Default,Arch,0000,0000,0000,,No, I won't say it.
+Dialogue: 0,0:21:27.74,0:21:31.16,Default,Arch,0000,0000,0000,,What happens next is up to you.
+Dialogue: 0,0:21:32.24,0:21:34.59,Default,Arch,0000,0000,0000,,Seek out your desire.
+Dialogue: 0,0:21:35.30,0:21:37.83,Default,Arch,0000,0000,0000,,Your search will lead you \Nto entertainment.
+Dialogue: 0,0:21:37.83,0:21:40.32,Default,Arch,0000,0000,0000,,That entertainment will bring enjoyment.
+Dialogue: 0,0:21:40.81,0:21:43.97,Default,Arch,0000,0000,0000,,And that enjoyment will \Ngive rise to true joy.
+Dialogue: 0,0:21:43.97,0:21:46.82,Default,Arch,0000,0000,0000,,Your path is now clear, Kirei.
+Dialogue: 0,0:21:47.32,0:21:51.26,Default,Arch,0000,0000,0000,,So clear, there can be no \Nroom left to doubt.
+Dialogue: 0,0:21:51.83,0:21:53.95,Title,Arch,0000,0000,0000,,Episode 12: \NThe Grail Beckons
+Dialogue: 0,0:23:25.61,0:23:27.65,Default,Rider,0000,0000,0000,,I shall hit first!
+Dialogue: 0,0:23:27.65,0:23:30.27,Default,Sola,0000,0000,0000,,If you wish to kill them, \Nhere is your chance.
+Dialogue: 0,0:23:30.27,0:23:31.56,Default,Saber,0000,0000,0000,,This ends now!
+Dialogue: 0,0:23:31.56,0:23:34.59,Default,Ryuu,0000,0000,0000,,The world is filled with God's love.
+Dialogue: 0,0:23:34.59,0:23:39.61,Default,Cast,0000,0000,0000,,Once more, we set out to \Nraise salvation's banner!
+Dialogue: 0,0:23:37.87,0:23:40.04,Title,Cast,0000,0000,0000,,Next time \NThe Forbidden Feast of Madness

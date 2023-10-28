@@ -1,0 +1,267 @@
+﻿[Script Info]
+Title: English
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0005,0
+Style: Default - italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Title,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,0
+Style: Sign10A,Arial,26,&H00B7C6B8,&H000000FF,&H004F584E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+Style: Sign10B,Trebuchet MS,26,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+Style: Sign10C,Trebuchet MS,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:51.70,0:00:52.40,Default,Rin,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:08.18,0:01:08.96,Default,Toki,0000,0000,0000,,Rin.
+Dialogue: 0,0:02:55.78,0:02:57.37,Default,Rin,0000,0000,0000,,Stop it!
+Dialogue: 0,0:02:57.98,0:03:01.42,Default,Rin,0000,0000,0000,,Look at you, ganging up and \Nbullying her this way!
+Dialogue: 0,0:03:01.42,0:03:04.62,Default,Rin,0000,0000,0000,,You're just a couple of slimeballs! \NAbsolute slimeballs!
+Dialogue: 0,0:03:04.62,0:03:07.24,Default,Boy,0000,0000,0000,,Back off, Tohsaka. This is none \Nof your business!
+Dialogue: 0,0:03:08.25,0:03:09.25,Default,Rin,0000,0000,0000,,Fine.
+Dialogue: 0,0:03:09.25,0:03:11.55,Default,Rin,0000,0000,0000,,Then why not treat me \Nthe same way?
+Dialogue: 0,0:03:11.55,0:03:14.07,Default,Rin,0000,0000,0000,,Then it'll be my business, too.
+Dialogue: 0,0:03:16.33,0:03:17.17,Default,Boy,0000,0000,0000,,Come on.
+Dialogue: 0,0:03:17.90,0:03:19.70,Default,Boy,0000,0000,0000,,Forget this!
+Dialogue: 0,0:03:22.86,0:03:23.71,Default,Rin,0000,0000,0000,,Here.
+Dialogue: 0,0:03:24.16,0:03:25.19,Sign10B,Book,0000,0000,0000,,Japanese\NYear 2
+Dialogue: 0,0:03:29.25,0:03:31.64,Default,Toki,0000,0000,0000,,You used too much mana at once.
+Dialogue: 0,0:03:32.63,0:03:34.63,Default,Toki,0000,0000,0000,,Keep your mind on the task.
+Dialogue: 0,0:03:34.63,0:03:36.73,Default,Toki,0000,0000,0000,,In order to control mana,
+Dialogue: 0,0:03:36.73,0:03:40.06,Default,Toki,0000,0000,0000,,you must maintain control of your mind.
+Dialogue: 0,0:03:45.57,0:03:47.68,Default,Toki,0000,0000,0000,,If you lose control,
+Dialogue: 0,0:03:47.68,0:03:50.70,Default,Toki,0000,0000,0000,,all the mana will rebound on you.
+Dialogue: 0,0:03:51.66,0:03:55.40,Default,Toki,0000,0000,0000,,Use too much, and you risk \Nnot only yourself,
+Dialogue: 0,0:03:55.40,0:03:57.21,Default,,0000,0000,0000,,but those around you.
+Dialogue: 0,0:03:57.94,0:04:00.56,Default,Toki,0000,0000,0000,,Always endeavor to maintain \Nthe proper flow.
+Dialogue: 0,0:04:01.05,0:04:03.43,Default,Toki,0000,0000,0000,,That's the essence of the \NTohsaka family creed.
+Dialogue: 0,0:04:04.85,0:04:08.08,Default,Toki,0000,0000,0000,,Act with composure and elegance.
+Dialogue: 0,0:04:12.97,0:04:15.73,Default,Rin,0000,0000,0000,,You have to stick up for \Nyourself, Kotone.
+Dialogue: 0,0:04:15.73,0:04:19.57,Default,Rin,0000,0000,0000,,When they act like that, \Nyou have to get mad!
+Dialogue: 0,0:04:20.19,0:04:21.78,Default,Koto,0000,0000,0000,,You're so cool, Rin-chan.
+Dialogue: 0,0:04:21.78,0:04:23.64,Default,Koto,0000,0000,0000,,I could never tell them off that way.
+Dialogue: 0,0:04:23.64,0:04:25.24,Default,Rin,0000,0000,0000,,I'm not cool.
+Dialogue: 0,0:04:25.24,0:04:27.87,Default,Rin,0000,0000,0000,,It's perfectly normal and natural.
+Dialogue: 0,0:04:29.80,0:04:32.25,Default,Rin,0000,0000,0000,,{\i1}Yeah... Natural.
+Dialogue: 0,0:04:40.13,0:04:41.73,Default,Toki,0000,0000,0000,,Hold out your hand.
+Dialogue: 0,0:04:45.84,0:04:48.14,Default,Rin,0000,0000,0000,,Teach me more, Father!
+Dialogue: 0,0:04:48.86,0:04:51.09,Default,Rin,0000,0000,0000,,How can I make something like this?
+Dialogue: 0,0:04:51.66,0:04:52.76,Default,Toki,0000,0000,0000,,I don't know...
+Dialogue: 0,0:04:52.76,0:04:55.64,Default,Toki,0000,0000,0000,,Right now, it might be a \Nlittle difficult for you.
+Dialogue: 0,0:04:57.06,0:05:01.86,Default,Toki,0000,0000,0000,,But if you practice every day, \Nyou'll be able to do it, too.
+Dialogue: 0,0:05:03.45,0:05:07.53,Default,Toki,0000,0000,0000,,Remember, you're a daughter \Nof the Tohsaka family.
+Dialogue: 0,0:05:16.31,0:05:17.62,Default,Girl,0000,0000,0000,,Hey, Rin-chan,
+Dialogue: 0,0:05:17.62,0:05:20.02,Default,Girl,0000,0000,0000,,could you please help me \Nwith a problem?
+Dialogue: 0,0:05:20.02,0:05:21.89,Default,Rin,0000,0000,0000,,Sure, which one?
+Dialogue: 0,0:05:21.89,0:05:23.51,Default,Girl2,0000,0000,0000,,Me, too!
+Dialogue: 0,0:05:23.51,0:05:24.77,Default,Girls,0000,0000,0000,,And me!
+Dialogue: 0,0:05:24.77,0:05:27.93,Default,Rin,0000,0000,0000,,They teach you the method \Non page twenty-three.
+Dialogue: 0,0:05:28.82,0:05:31.08,Default,Rin,0000,0000,0000,,You just have a small math error here.
+Dialogue: 0,0:05:31.08,0:05:31.97,Default,Girl,0000,0000,0000,,Oh!
+Dialogue: 0,0:05:31.97,0:05:32.91,Default,Rin,0000,0000,0000,,This problem...
+Dialogue: 0,0:05:32.91,0:05:35.26,Default,Rin,0000,0000,0000,,See? It's just like this example.
+Dialogue: 0,0:05:35.83,0:05:36.86,Default,Girls,0000,0000,0000,,Wow...
+Dialogue: 0,0:05:36.86,0:05:40.13,Default,Girls,0000,0000,0000,,Rin-chan, you're great!
+Dialogue: 0,0:05:40.13,0:05:41.36,Default,Rin,0000,0000,0000,,Kotone?
+Dialogue: 0,0:05:41.81,0:05:44.26,Default,Rin,0000,0000,0000,,Sit down. I'll walk you through it.
+Dialogue: 0,0:05:45.09,0:05:46.32,Default,Koto,0000,0000,0000,,Okay!
+Dialogue: 0,0:06:04.09,0:06:07.84,Default,Rin,0000,0000,0000,,Do we really have to live \Nwith the Zenjo?
+Dialogue: 0,0:06:07.84,0:06:10.17,Default,Koto,0000,0000,0000,,Once the Holy Grail War begins,
+Dialogue: 0,0:06:10.17,0:06:13.35,Default,,0000,0000,0000,,Fuyuki City will no longer be safe.
+Dialogue: 0,0:06:14.34,0:06:18.61,Default,Rin,0000,0000,0000,,But I want to help you win \Nthe Holy Grail War...
+Dialogue: 0,0:06:18.61,0:06:22.29,Default,Ao,0000,0000,0000,,Rin, don't upset your father.
+Dialogue: 0,0:06:22.29,0:06:24.61,Default,Rin,0000,0000,0000,,Are we in the way?
+Dialogue: 0,0:06:25.17,0:06:26.67,Default,Toki,0000,0000,0000,,Not at all.
+Dialogue: 0,0:06:26.67,0:06:28.58,Default,Toki,0000,0000,0000,,I just want to make doubly sure that
+Dialogue: 0,0:06:28.58,0:06:31.12,Default,,0000,0000,0000,,everything goes exactly \Naccording to plan.
+Dialogue: 0,0:06:31.69,0:06:36.62,Default,Toki,0000,0000,0000,,And part of that is ensuring you \Nand your mother are safe.
+Dialogue: 0,0:06:36.62,0:06:40.84,Default,Toki,0000,0000,0000,,You'll be much safer outside Fuyuki City.
+Dialogue: 0,0:06:42.13,0:06:45.19,Default,Rin,0000,0000,0000,,There's gotta be some way I can help!
+Dialogue: 0,0:06:52.64,0:06:56.14,Default,Rin,0000,0000,0000,,{\i1}Yeah, I just haven't learned everything \NI need to know yet.
+Dialogue: 0,0:06:56.67,0:06:59.23,Default,Rin,0000,0000,0000,,{\i1}All I have to do is study on my own!
+Dialogue: 0,0:07:04.04,0:07:06.40,Default,Rin,0000,0000,0000,,I-I don't understand a word of this...
+Dialogue: 0,0:07:06.90,0:07:07.90,Default,Rin,0000,0000,0000,,What the heck?
+Dialogue: 0,0:07:07.90,0:07:09.44,Default,Rin,0000,0000,0000,,Jeez!
+Dialogue: 0,0:07:21.98,0:07:25.96,Default,Book,0000,0000,0000,,Du, wer die Tur geoffnet hat, wird Freunde sein.
+Dialogue: 0,0:07:25.96,0:07:27.87,Default,Rin,0000,0000,0000,,Gotta close it.
+Dialogue: 0,0:07:26.76,0:07:29.47,Default,Book,0000,0000,0000,,Fur die Aussage nimm meine Hand.
+Dialogue: 0,0:07:29.47,0:07:31.73,Default,Book,0000,0000,0000,,Wir weden in meinem Zimmer treffen.
+Dialogue: 0,0:07:32.36,0:07:35.89,Default,Book,0000,0000,0000,,Sind deine Hande, Klein? Gross?
+Dialogue: 0,0:07:32.85,0:07:34.17,Default,Rin,0000,0000,0000,,It won't move!
+Dialogue: 0,0:07:35.89,0:07:37.98,Default,Book,0000,0000,0000,,Schlank? Steif?
+Dialogue: 0,0:07:38.45,0:07:41.23,Default,Toki,0000,0000,0000,,Rin, are you all right?
+Dialogue: 0,0:07:38.72,0:07:41.23,Default,Book,0000,0000,0000,,Jede Hand ist dankbar.
+Dialogue: 0,0:07:41.23,0:07:42.67,Default,Book,0000,0000,0000,,Ich will sie erhalten.
+Dialogue: 0,0:07:43.23,0:07:44.73,Default,Book,0000,0000,0000,,Ich schneide sie vorsichtig...
+Dialogue: 0,0:07:50.51,0:07:52.79,Default,Toki,0000,0000,0000,,It's still too early for you \Nto read that book.
+Dialogue: 0,0:07:53.53,0:07:55.39,Default,Toki,0000,0000,0000,,You'll encounter things in this world
+Dialogue: 0,0:07:56.13,0:07:58.20,Default,Toki,0000,0000,0000,,that are, themselves, \Nimbued with mana.
+Dialogue: 0,0:08:05.15,0:08:07.11,Default,Toki,0000,0000,0000,,This is called a mana compass.
+Dialogue: 0,0:08:07.11,0:08:09.65,Default,Toki,0000,0000,0000,,Normally, it won't point \Ntoward anything.
+Dialogue: 0,0:08:09.65,0:08:12.26,Default,,0000,0000,0000,,But when you get near \Ntraces of mana...
+Dialogue: 0,0:08:13.12,0:08:16.33,Default,Toki,0000,0000,0000,,Rin, put some mana into this.
+Dialogue: 0,0:08:16.33,0:08:17.32,Default,Rin,0000,0000,0000,,Okay.
+Dialogue: 0,0:08:24.05,0:08:25.52,Default,Toki,0000,0000,0000,,It reacts like so.
+Dialogue: 0,0:08:25.94,0:08:27.66,Default,Toki,0000,0000,0000,,Now take that book...
+Dialogue: 0,0:08:29.78,0:08:33.77,Default,Toki,0000,0000,0000,,That reaction means it's something \Nbeyond your ability,
+Dialogue: 0,0:08:33.77,0:08:35.03,Default,,0000,0000,0000,,so you should be careful.
+Dialogue: 0,0:08:35.94,0:08:40.11,Default,Toki,0000,0000,0000,,You may have this. Consider it \Nan early birthday present.
+Dialogue: 0,0:08:41.00,0:08:43.53,Default,Rin,0000,0000,0000,,Thank you, Father!
+Dialogue: 0,0:08:44.07,0:08:45.71,Default,Toki,0000,0000,0000,,When the Grail War is over,
+Dialogue: 0,0:08:45.71,0:08:48.97,Default,,0000,0000,0000,,I'll give you a real education \Nin Gem Magic.
+Dialogue: 0,0:08:52.68,0:08:54.98,Default,Rin,0000,0000,0000,,{\i1}Not long after, strange things \Nstarted happening.
+Dialogue: 0,0:09:04.94,0:09:06.94,Default,Rin,0000,0000,0000,,Another study hall?
+Dialogue: 0,0:09:06.94,0:09:08.81,Sign10A,[Board,0000,0000,0000,,Study Hall
+Dialogue: 0,0:09:10.57,0:09:13.13,Default,BoyB,0000,0000,0000,,Another kidnapping was on \Nthe news this morning.
+Dialogue: 0,0:09:12.09,0:09:14.22,Sign10B,News,0000,0000,0000,,{\an7}Kidnappings continue
+Dialogue: 0,0:09:13.13,0:09:17.50,Default,News,0000,0000,0000,,In Fuyuki City, cases of children suddenly \Ndisappearing are becoming frequent.
+Dialogue: 0,0:09:16.07,0:09:18.20,Default,GirlC,0000,0000,0000,,The teachers have been meeting all day.
+Dialogue: 0,0:09:17.09,0:09:18.20,Sign10B,Sign,0000,0000,0000,,Meeting in progress
+Dialogue: 0,0:09:19.07,0:09:20.70,Default,Boy,0000,0000,0000,,There's not gonna be a fifth period today!
+Dialogue: 0,0:09:20.10,0:09:20.70,Sign10C,Kids,0000,0000,0000,,{\an7}Fifth period canceled
+Dialogue: 0,0:09:20.10,0:09:20.70,Sign10C,Kids,0000,0000,0000,,{\an9}Beware suspicious individuals \Nwhen walking to \Nand from school!!
+Dialogue: 0,0:09:20.70,0:09:21.58,Default,Kids,0000,0000,0000,,All right!
+Dialogue: 0,0:09:21.58,0:09:23.11,Default,Kids,0000,0000,0000,,But we have to go home...
+Dialogue: 0,0:09:23.11,0:09:24.08,Default,Kids,0000,0000,0000,,How come?
+Dialogue: 0,0:09:24.81,0:09:25.71,Default,Voices,0000,0000,0000,,Kidnapping...
+Dialogue: 0,0:09:25.71,0:09:27.58,Default,Kids,0000,0000,0000,,But it's only children being kidnapped.
+Dialogue: 0,0:09:27.58,0:09:29.04,Default,Girl,0000,0000,0000,,Hey, did you hear?
+Dialogue: 0,0:09:33.06,0:09:35.86,Default,Woman1,0000,0000,0000,,The corpse isn't in the casket.
+Dialogue: 0,0:09:35.86,0:09:37.84,Default,Woman2,0000,0000,0000,,Its condition must have \Nbeen too gruesome.
+Dialogue: 0,0:09:38.36,0:09:41.39,Default,Woman3,0000,0000,0000,,It happened in Fuyuki, right?
+Dialogue: 0,0:09:49.35,0:09:51.06,Default,Rin,0000,0000,0000,,H-Hi, I'm Tohsaka,
+Dialogue: 0,0:09:51.06,0:09:53.19,Default,Rin,0000,0000,0000,,one of Kotone-chan's classmates...
+Dialogue: 0,0:09:51.58,0:09:53.19,Default,Phone,0000,0000,0000,,Sorry, we're not home right now.
+Dialogue: 0,0:09:53.83,0:09:56.76,Default,Phone,0000,0000,0000,,Please leave your message \Nafter the beep.
+Dialogue: 0,0:10:12.86,0:10:14.21,Default,Rin,0000,0000,0000,,{\i1}Please be okay...
+Dialogue: 0,0:10:16.63,0:10:17.63,Default,Rin,0000,0000,0000,,{\i1}Kotone.
+Dialogue: 0,0:10:28.64,0:10:31.48,Default,Rin,0000,0000,0000,,So this is Fuyuki after dark...
+Dialogue: 0,0:10:36.24,0:10:38.53,Default,Rin,0000,0000,0000,,It's totally different...
+Dialogue: 0,0:10:40.03,0:10:42.35,Default,Rin,0000,0000,0000,,I don't like this feeling.
+Dialogue: 0,0:10:45.64,0:10:47.00,Default,Rin,0000,0000,0000,,What's happening?
+Dialogue: 0,0:10:48.13,0:10:50.03,Default,Rin,0000,0000,0000,,I've never seen it do this.
+Dialogue: 0,0:10:51.43,0:10:54.75,Default,Rin,0000,0000,0000,,Does it mean traces of mana \Nare everywhere?
+Dialogue: 0,0:10:57.14,0:10:59.09,Default,Rin,0000,0000,0000,,I have to find Kotone!
+Dialogue: 0,0:11:42.18,0:11:44.43,Default,Rin,0000,0000,0000,,Going for a walk with your kid this late?
+Dialogue: 0,0:11:46.88,0:11:48.35,Default,Rin,0000,0000,0000,,What was that?
+Dialogue: 0,0:12:14.62,0:12:15.71,Default,Rin,0000,0000,0000,,Uh-oh!
+Dialogue: 0,0:12:25.68,0:12:29.34,Default,Rin,0000,0000,0000,,That was close. If they'd seen me, \Nthey'd have taken me home.
+Dialogue: 0,0:12:35.80,0:12:38.74,Default,Ryuu,0000,0000,0000,,Come on... Pick up your feet.
+Dialogue: 0,0:12:47.39,0:12:48.82,Default,Rin,0000,0000,0000,,{\i1}Two of them?
+Dialogue: 0,0:12:53.88,0:12:55.54,Default,Rin,0000,0000,0000,,There's another kid now.
+Dialogue: 0,0:12:56.50,0:12:57.80,Default,,0000,0000,0000,,But why?
+Dialogue: 0,0:12:59.29,0:13:00.30,Default,Rin,0000,0000,0000,,{\i1}This is pointless...
+Dialogue: 0,0:13:00.76,0:13:02.43,Default,Rin,0000,0000,0000,,{\i1}Why am I hiding?
+Dialogue: 0,0:13:03.07,0:13:05.72,Default,Rin,0000,0000,0000,,{\i1}I can't do anything like this!
+Dialogue: 0,0:14:22.44,0:14:24.79,Default,Rin,0000,0000,0000,,No one's here?
+Dialogue: 0,0:14:40.56,0:14:41.65,Default,Rin,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:14:43.03,0:14:44.02,Default,Rin,0000,0000,0000,,Kotone?
+Dialogue: 0,0:14:44.02,0:14:46.57,Default,Rin,0000,0000,0000,,Kotone! Kotone!
+Dialogue: 0,0:14:47.49,0:14:49.78,Default,Rin,0000,0000,0000,,Someone's done something to her.
+Dialogue: 0,0:14:49.78,0:14:52.22,Default,Rin,0000,0000,0000,,What do I do? I have to help...
+Dialogue: 0,0:14:59.37,0:15:02.42,Default,Ryuu,0000,0000,0000,,Oh? What's wrong? Are you lost?
+Dialogue: 0,0:15:03.17,0:15:05.42,Default,Rin,0000,0000,0000,,No... I...
+Dialogue: 0,0:15:05.42,0:15:07.29,Default,Ryuu,0000,0000,0000,,It's perfect.
+Dialogue: 0,0:15:08.73,0:15:12.20,Default,Ryuu,0000,0000,0000,,We're just about to start the party.
+Dialogue: 0,0:15:12.20,0:15:14.67,Default,Ryuu,0000,0000,0000,,But we need more people.
+Dialogue: 0,0:15:15.30,0:15:17.89,Default,Ryuu,0000,0000,0000,,Won't you help?
+Dialogue: 0,0:15:23.65,0:15:27.52,Default,Ryuu,0000,0000,0000,,You know, like they say, \Nthe more, the merrier.
+Dialogue: 0,0:15:29.82,0:15:30.45,Default,Rin,0000,0000,0000,,No!
+Dialogue: 0,0:15:31.66,0:15:32.95,Default,Rin,0000,0000,0000,,What was that?
+Dialogue: 0,0:15:33.75,0:15:35.45,Default,Ryuu,0000,0000,0000,,Don't try to run...
+Dialogue: 0,0:15:42.72,0:15:45.38,Default,Rin,0000,0000,0000,,He's using that bracelet on them?
+Dialogue: 0,0:15:56.10,0:15:57.89,Default,Ryuu,0000,0000,0000,,Ow!
+Dialogue: 0,0:15:57.89,0:15:59.30,Default,Rin,0000,0000,0000,,I have to break it!
+Dialogue: 0,0:16:07.65,0:16:11.40,Default,Ryuu,0000,0000,0000,,Ah, so you're going to help, after all!
+Dialogue: 0,0:16:37.30,0:16:38.25,Default,Ryuu,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:38.25,0:16:38.81,Default,Ryuu,0000,0000,0000,,What's that?
+Dialogue: 0,0:16:40.45,0:16:42.85,Default,Toki,0000,0000,0000,,{\i1}You used too much mana at once.
+Dialogue: 0,0:16:43.52,0:16:45.71,Default,Rin,0000,0000,0000,,I'll destroy this thing!
+Dialogue: 0,0:16:48.40,0:16:49.30,Default,Ryuu,0000,0000,0000,,What...
+Dialogue: 0,0:16:57.20,0:16:58.64,Default,Rin,0000,0000,0000,,Kotone!
+Dialogue: 0,0:17:00.78,0:17:02.23,Default,Kotone,0000,0000,0000,,Rin-chan...
+Dialogue: 0,0:17:02.23,0:17:03.28,Default,Kids,0000,0000,0000,,What is this place?
+Dialogue: 0,0:17:06.47,0:17:09.09,Default,Rin,0000,0000,0000,,There's no time to cry! \NEveryone, run!
+Dialogue: 0,0:17:10.85,0:17:12.40,Default,Ryuu,0000,0000,0000,,Wait! Stop!
+Dialogue: 0,0:17:17.77,0:17:19.99,Default,Ryuu,0000,0000,0000,,He's probably gonna be pissed.
+Dialogue: 0,0:17:25.61,0:17:26.31,Default,Kotone,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:27.04,0:17:28.31,Default,Kotone,0000,0000,0000,,Where's Rin-chan?
+Dialogue: 0,0:17:31.21,0:17:32.74,Default,Rin,0000,0000,0000,,Thank goodness...
+Dialogue: 0,0:17:34.27,0:17:36.16,Default,Rin,0000,0000,0000,,Time to go home.
+Dialogue: 0,0:17:37.52,0:17:39.56,Default,Rin,0000,0000,0000,,I did it, Father.
+Dialogue: 0,0:17:42.23,0:17:42.95,Default,Rin,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:53.04,0:17:56.71,Default,Toki,0000,0000,0000,,{\i1}That reaction means it's something \Nbeyond your ability,
+Dialogue: 0,0:17:56.71,0:17:57.38,Default,,0000,0000,0000,,{\i1}so you should be careful.
+Dialogue: 0,0:18:26.06,0:18:26.83,Default,Aoi,0000,0000,0000,,Rin...
+Dialogue: 0,0:18:26.83,0:18:29.50,Default,Aoi,0000,0000,0000,,I can't believe she went to Fuyuki...
+Dialogue: 0,0:18:36.79,0:18:37.63,Default,Aoi,0000,0000,0000,,Rin!
+Dialogue: 0,0:18:40.42,0:18:41.50,Default,Aoi,0000,0000,0000,,Rin...
+Dialogue: 0,0:18:41.50,0:18:44.39,Default,Kari,0000,0000,0000,,Rin-chan's fine. She's just asleep.
+Dialogue: 0,0:18:49.44,0:18:51.15,Default,Aoi,0000,0000,0000,,Kariya-kun?
+Dialogue: 0,0:18:52.07,0:18:54.73,Default,Aoi,0000,0000,0000,,What? What's this all about?
+Dialogue: 0,0:18:54.73,0:18:56.40,Default,Aoi,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:19:00.77,0:19:02.03,Default,Aoi,0000,0000,0000,,Your face...
+Dialogue: 0,0:19:03.13,0:19:06.22,Default,Kari,0000,0000,0000,,This is the Matou family magic.
+Dialogue: 0,0:19:06.22,0:19:08.79,Default,Kari,0000,0000,0000,,You offer your flesh, and let it \Neat away at your life.
+Dialogue: 0,0:19:08.79,0:19:12.17,Default,Kari,0000,0000,0000,,And your sacrifice is repaid with magic.
+Dialogue: 0,0:19:13.21,0:19:15.28,Default,Kari,0000,0000,0000,,But Sakura-chan's okay.
+Dialogue: 0,0:19:15.28,0:19:18.54,Default,Kari,0000,0000,0000,,I promise to save her before \Nshe ends up like me.
+Dialogue: 0,0:19:19.27,0:19:21.93,Default,Kari,0000,0000,0000,,Zouken cares only for the Holy Grail.
+Dialogue: 0,0:19:21.93,0:19:25.49,Default,Kari,0000,0000,0000,,He promised to free Sakura-chan
+Dialogue: 0,0:19:25.49,0:19:26.93,Default,Kari,0000,0000,0000,,if I win it for him.
+Dialogue: 0,0:19:27.45,0:19:29.44,Default,Aoi,0000,0000,0000,,The Holy Grail?
+Dialogue: 0,0:19:29.44,0:19:31.52,Default,Kari,0000,0000,0000,,Yes, so there's nothing to fear.
+Dialogue: 0,0:19:31.52,0:19:33.72,Default,Kari,0000,0000,0000,,My Servant is the strongest.
+Dialogue: 0,0:19:33.72,0:19:35.44,Default,Kari,0000,0000,0000,,No one stands a chance against him.
+Dialogue: 0,0:19:36.09,0:19:41.36,Default,Kari,0000,0000,0000,,Right now, even clinging to hope \Nis painful for Sakura-chan.
+Dialogue: 0,0:19:41.36,0:19:44.84,Default,Kari,0000,0000,0000,,So pray for her, in her stead.
+Dialogue: 0,0:19:44.84,0:19:48.34,Default,Kari,0000,0000,0000,,Pray that I win, \Nthat Sakura-chan has a future...
+Dialogue: 0,0:19:50.96,0:19:53.78,Default,Aoi,0000,0000,0000,,Kariya-kun, you...
+Dialogue: 0,0:19:55.62,0:20:01.47,Default,Kari,0000,0000,0000,,Someday, we'll all come to this park \Nand play, like we used to.
+Dialogue: 0,0:20:02.02,0:20:05.32,Default,Kari,0000,0000,0000,,And Rin-chan and Sakura-chan can \Nbe sisters, like they once were.
+Dialogue: 0,0:20:05.89,0:20:10.11,Default,Kari,0000,0000,0000,,So you don't have to cry \Nanymore, Aoi-san.
+Dialogue: 0,0:20:12.30,0:20:16.17,Default,Aoi,0000,0000,0000,,Kariya-kun... Do you want to die?
+Dialogue: 0,0:20:16.17,0:20:17.89,Default,Aoi,0000,0000,0000,,To take Tokiomi with you?
+Dialogue: 0,0:20:21.97,0:20:23.23,Default,Rin,0000,0000,0000,,Mother?
+Dialogue: 0,0:20:24.04,0:20:27.54,Default,Aoi,0000,0000,0000,,Rin! I was so worried...
+Dialogue: 0,0:20:28.31,0:20:30.65,Default,Rin,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:20:30.65,0:20:34.55,Default,Rin,0000,0000,0000,,I'm sorry. I'm sorry...
+Dialogue: 0,0:20:36.47,0:20:37.62,Default,Ass,0000,0000,0000,,Kirei-sama,
+Dialogue: 0,0:20:37.62,0:20:39.76,Default,Ass,0000,0000,0000,,shall I leave Tohsaka Tokiomi's \Nwife and daughter
+Dialogue: 0,0:20:40.38,0:20:42.54,Default,,0000,0000,0000,,to their own devices?
+Dialogue: 0,0:20:43.26,0:20:48.27,Default,Kirei,0000,0000,0000,,Yes. Continue to trail \NBerserker's Master.
+Dialogue: 0,0:20:48.76,0:20:49.95,Default,Ass,0000,0000,0000,,Understood.
+Dialogue: 0,0:21:07.16,0:21:10.77,Default,Rin,0000,0000,0000,,It wasn't much, but I managed \Nto accomplish something.
+Dialogue: 0,0:21:12.18,0:21:15.00,Default,Rin,0000,0000,0000,,Not that I'm ready to stand \Non my own just yet.
+Dialogue: 0,0:21:15.00,0:21:17.27,Default,Rin,0000,0000,0000,,After all, I passed out, right in \Nthe middle of everything.
+Dialogue: 0,0:21:18.42,0:21:20.75,Default,Rin,0000,0000,0000,,It just means I've still \Ngot a lot to learn.
+Dialogue: 0,0:21:21.96,0:21:24.38,Default,Rin,0000,0000,0000,,But that's only true for now.
+Dialogue: 0,0:21:24.86,0:21:27.43,Default,Rin,0000,0000,0000,,I have plenty of time.
+Dialogue: 0,0:21:28.15,0:21:31.68,Default,Rin,0000,0000,0000,,Someday, I'll have my turn to fight, \Nas a full Tohsaka mage.
+Dialogue: 0,0:21:32.25,0:21:34.65,Default,Rin,0000,0000,0000,,That's why I'm working hard,
+Dialogue: 0,0:21:34.65,0:21:38.26,Default,Rin,0000,0000,0000,,and following my father's teachings.
+Dialogue: 0,0:21:38.93,0:21:40.89,Default,Rin,0000,0000,0000,,So that, no matter when that day comes,
+Dialogue: 0,0:21:40.89,0:21:44.19,Default,Rin,0000,0000,0000,,I just have to give it everything I've got, \Nwhile maintaining a refined composure.
+Dialogue: 0,0:21:51.93,0:21:54.12,Title,Rin,0000,0000,0000,,Episode 10 \NRin's Adventure
+Dialogue: 0,0:23:25.64,0:23:28.44,Default,Rider,0000,0000,0000,,A weak king is not even fit \Nto decorate the throne!
+Dialogue: 0,0:23:28.44,0:23:30.58,Default,Saber,0000,0000,0000,,What good is a king who ignores\Nthe plight of the weak?
+Dialogue: 0,0:23:30.58,0:23:32.40,Default,Toki,0000,0000,0000,,We have nothing to lose.
+Dialogue: 0,0:23:32.40,0:23:34.19,Default,Iry,0000,0000,0000,,A Reality Marble?
+Dialogue: 0,0:23:34.19,0:23:36.93,Default,Arch,0000,0000,0000,,I shall have to kill you personally.
+Dialogue: 0,0:23:36.93,0:23:39.53,Default,Waver,0000,0000,0000,,Don't you wanna conquer the world?
+Dialogue: 0,0:23:38.00,0:23:38.47,Title,Waver,0000,0000,0000,,Next Time \NDiscussing the Grail

@@ -1,0 +1,307 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0005,0
+Style: Default - italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Title,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,0
+Style: Sign18A,Arial,26,&H00B7C6B8,&H000000FF,&H004F584E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.25,0:00:09.77,Default,Kids,0000,0000,0000,,Kerry! Kerry!
+Dialogue: 0,0:00:09.77,0:00:10.65,Default,Kid,0000,0000,0000,,Come on!
+Dialogue: 0,0:00:10.65,0:00:11.87,Default,Kids,0000,0000,0000,,Jump! Jump!
+Dialogue: 0,0:00:11.87,0:00:13.74,Default,Kids,0000,0000,0000,,Hurry up! Hurry up!
+Dialogue: 0,0:00:13.74,0:00:15.19,Default,Kids,0000,0000,0000,,Kerry!
+Dialogue: 0,0:00:37.99,0:00:40.93,Default,Kids,0000,0000,0000,,Awesome, Kerry!
+Dialogue: 0,0:00:40.93,0:00:41.88,Default,Kiri,0000,0000,0000,,Nah...
+Dialogue: 0,0:00:41.88,0:00:43.56,Default,Kiri,0000,0000,0000,,That was nothing!
+Dialogue: 0,0:00:45.43,0:00:46.44,Default,Kiri,0000,0000,0000,,Shirley...
+Dialogue: 0,0:00:46.44,0:00:47.44,Default,Kids,0000,0000,0000,,Shirley!
+Dialogue: 0,0:00:47.68,0:00:48.69,Default,Shir,0000,0000,0000,,Kerry!
+Dialogue: 0,0:00:49.26,0:00:51.07,Default,Shir,0000,0000,0000,,Were you waiting long?
+Dialogue: 0,0:00:55.57,0:00:59.53,Default,Shir,0000,0000,0000,,Kerry, do you know the origin \Nof our island's name?
+Dialogue: 0,0:00:59.53,0:01:00.79,Default,Kiri,0000,0000,0000,,Nope.
+Dialogue: 0,0:01:00.79,0:01:04.40,Default,Kiri,0000,0000,0000,,Oh, Arimago is some kind of crab, right?
+Dialogue: 0,0:01:04.40,0:01:05.16,Default,Shir,0000,0000,0000,,Right.
+Dialogue: 0,0:01:05.79,0:01:08.62,Default - margin,Shir,0000,0000,0000,,Long ago, people made offerings to
+Dialogue: 0,0:01:08.62,0:01:10.29,Default - margin,,0000,0000,0000,,the sea gods here, on this island.
+Dialogue: 0,0:01:10.29,0:01:13.08,Default,Shir,0000,0000,0000,,But one day, a little girl,
+Dialogue: 0,0:01:13.08,0:01:15.80,Default,,0000,0000,0000,,with no food for her sick mother,
+Dialogue: 0,0:01:15.80,0:01:19.18,Default,Shir,0000,0000,0000,,stole from those offerings.
+Dialogue: 0,0:01:19.91,0:01:22.18,Default,Shir,0000,0000,0000,,So the gods cursed her,
+Dialogue: 0,0:01:22.18,0:01:25.22,Default,Shir,0000,0000,0000,,and turned her into a crab.
+Dialogue: 0,0:01:25.22,0:01:26.64,Default,Kiri,0000,0000,0000,,That's where the name comes from?
+Dialogue: 0,0:01:26.64,0:01:28.19,Default,Kiri,0000,0000,0000,,That's a terrible story.
+Dialogue: 0,0:01:28.58,0:01:29.44,Default - margin,Shir,0000,0000,0000,,You know...
+Dialogue: 0,0:01:29.44,0:01:32.47,Default - margin,Shir,0000,0000,0000,,The shrine where they worshipped those gods
+Dialogue: 0,0:01:32.47,0:01:37.20,Default - margin,Shir,0000,0000,0000,,is on top of this mountain right by your house.
+Dialogue: 0,0:01:37.74,0:01:41.41,Default,Shir,0000,0000,0000,,That's why none of the villagers will go up there.
+Dialogue: 0,0:01:41.41,0:01:43.72,Default,Shir,0000,0000,0000,,They think it's bad luck.
+Dialogue: 0,0:01:43.72,0:01:46.42,Default,Shir,0000,0000,0000,,They're always warning that \Nif I go there too often,
+Dialogue: 0,0:01:46.42,0:01:48.35,Default,Shir,0000,0000,0000,,I'll get cursed, just like that girl.
+Dialogue: 0,0:01:48.35,0:01:49.68,Default,Kiri,0000,0000,0000,,For real?
+Dialogue: 0,0:01:49.68,0:01:52.71,Default,Kiri,0000,0000,0000,,But everyone's always so nice to me.
+Dialogue: 0,0:01:53.47,0:01:56.72,Default,Shir,0000,0000,0000,,Well, you don't seem like \N an outsider anymore!
+Dialogue: 0,0:01:58.22,0:02:00.76,Default,Shir,0000,0000,0000,,The villagers think of you \Nas my little brother.
+Dialogue: 0,0:02:03.59,0:02:05.77,Default,Kiri,0000,0000,0000,,Brother, huh?
+Dialogue: 0,0:02:06.20,0:02:09.52,Default,Shir,0000,0000,0000,,You've adapted to life here pretty well.
+Dialogue: 0,0:02:09.52,0:02:10.52,Default,Kiri,0000,0000,0000,,You think so?
+Dialogue: 0,0:02:10.73,0:02:14.30,Default,Shir,0000,0000,0000,,When you first got here, \Neveryone picked on you.
+Dialogue: 0,0:02:14.30,0:02:15.96,Default,Shir,0000,0000,0000,,They said you had a funny name!
+Dialogue: 0,0:02:16.53,0:02:17.64,Default,Kiri,0000,0000,0000,,You—
+Dialogue: 0,0:02:18.46,0:02:21.41,Default,Kiri,0000,0000,0000,,You started it, Shirley!
+Dialogue: 0,0:02:21.82,0:02:24.75,Default,Kiri,0000,0000,0000,,You were the first one to call me Kerry.
+Dialogue: 0,0:02:25.23,0:02:28.85,Default,Shir,0000,0000,0000,,Because it's hard to say your real name.
+Dialogue: 0,0:02:29.61,0:02:32.25,Default,Shir,0000,0000,0000,,Kerry... Kerry...
+Dialogue: 0,0:02:32.25,0:02:34.46,Default,Kiri,0000,0000,0000,,It's Kiritsugu.
+Dialogue: 0,0:02:34.46,0:02:35.67,Default,Shir,0000,0000,0000,,Kerrytoogoo!
+Dialogue: 0,0:02:35.67,0:02:37.34,Default,Kiri,0000,0000,0000,,Not even close.
+Dialogue: 0,0:02:37.34,0:02:39.97,Default,Shir,0000,0000,0000,,Huh? Aw...
+Dialogue: 0,0:02:52.64,0:02:53.78,Default,Kiri,0000,0000,0000,,Okay.
+Dialogue: 0,0:02:56.19,0:02:58.44,Default,Kiri,0000,0000,0000,,Dad, is that a new one?
+Dialogue: 0,0:02:58.83,0:03:02.95,Default,Nori,0000,0000,0000,,Yes, success number one hundred.
+Dialogue: 0,0:03:06.73,0:03:09.49,Default,Kiri,0000,0000,0000,,These flowers never wilt.
+Dialogue: 0,0:03:10.15,0:03:13.04,Default,Nori,0000,0000,0000,,I've altered their flow of time.
+Dialogue: 0,0:03:13.04,0:03:15.42,Default,Nori,0000,0000,0000,,They won't grow any further,
+Dialogue: 0,0:03:15.42,0:03:16.96,Default,,0000,0000,0000,,but they'll never die, either.
+Dialogue: 0,0:03:17.32,0:03:19.15,Default,Kiri,0000,0000,0000,,Wow...
+Dialogue: 0,0:03:19.15,0:03:20.40,Default,Nori,0000,0000,0000,,The question is
+Dialogue: 0,0:03:20.40,0:03:24.22,Default,Nori,0000,0000,0000,,if we can apply the same theory to human beings.
+Dialogue: 0,0:03:27.99,0:03:29.60,Default,Shir,0000,0000,0000,,All done!
+Dialogue: 0,0:03:30.90,0:03:32.81,Default,Kiri,0000,0000,0000,,Shirley, you...
+Dialogue: 0,0:03:33.40,0:03:34.85,Default,Shir,0000,0000,0000,,Look!
+Dialogue: 0,0:03:34.85,0:03:37.01,Default,Shir,0000,0000,0000,,My first successful specimen!
+Dialogue: 0,0:03:37.01,0:03:40.40,Default,Nori,0000,0000,0000,,Shirley's been learning by imitation, \Nwhile she helps me out.
+Dialogue: 0,0:03:44.05,0:03:47.28,Default,Nori,0000,0000,0000,,She definitely grasps the basics of magic.
+Dialogue: 0,0:03:47.28,0:03:50.87,Default,Shir,0000,0000,0000,,Sensei, you did practically everything...
+Dialogue: 0,0:03:50.87,0:03:53.77,Default,Shir,0000,0000,0000,,I only jumped in at the very end.
+Dialogue: 0,0:03:53.77,0:03:55.86,Default,Kiri,0000,0000,0000,,But that's still awesome!
+Dialogue: 0,0:03:55.86,0:03:57.25,Default,Kiri,0000,0000,0000,,Hey, Dad...
+Dialogue: 0,0:03:57.91,0:03:58.80,Default,Nori,0000,0000,0000,,Yes?
+Dialogue: 0,0:03:58.80,0:04:02.80,Default,Kiri,0000,0000,0000,,Can I try doing what Shirley did, too?
+Dialogue: 0,0:04:03.32,0:04:04.72,Default,Shir,0000,0000,0000,,That's a good idea.
+Dialogue: 0,0:04:04.72,0:04:08.15,Default,Shir,0000,0000,0000,,With some help, you'll definitely succeed!
+Dialogue: 0,0:04:08.15,0:04:09.34,Default,Shir,0000,0000,0000,,Right, Sensei?
+Dialogue: 0,0:04:09.34,0:04:10.43,Default,Nori,0000,0000,0000,,No.
+Dialogue: 0,0:04:11.01,0:04:14.47,Default,Nori,0000,0000,0000,,You're not ready yet.
+Dialogue: 0,0:04:15.73,0:04:17.36,Default,Nori,0000,0000,0000,,This isn't a game.
+Dialogue: 0,0:04:17.36,0:04:18.69,Default,Nori,0000,0000,0000,,There are real risks.
+Dialogue: 0,0:04:19.26,0:04:20.62,Default,Nori,0000,0000,0000,,In Shirley's case,
+Dialogue: 0,0:04:20.62,0:04:24.60,Default,Nori,0000,0000,0000,,I decided that she'd amassed enough \Nknowledge and experience to try.
+Dialogue: 0,0:04:40.08,0:04:43.03,Default,Shir,0000,0000,0000,,Father, why won't you understand?
+Dialogue: 0,0:04:43.03,0:04:44.30,Default,PriesT,0000,0000,0000,,Shirley...
+Dialogue: 0,0:04:44.30,0:04:47.38,Default,Shir,0000,0000,0000,,Everyone misunderstands the sensei!
+Dialogue: 0,0:04:47.38,0:04:49.58,Default,Priest,0000,0000,0000,,Listen, Shirley...
+Dialogue: 0,0:04:49.58,0:04:52.46,Default,Priest,0000,0000,0000,,Please don't go back to that house.
+Dialogue: 0,0:04:55.77,0:04:57.56,Default,Priest,0000,0000,0000,,Let's talk inside.
+Dialogue: 0,0:05:02.72,0:05:06.95,Default,Kiri,0000,0000,0000,,Dad should spend some time \Nwith the villagers, too.
+Dialogue: 0,0:05:09.42,0:05:11.19,Default,Shir,0000,0000,0000,,I dunno.
+Dialogue: 0,0:05:11.19,0:05:15.41,Default,Shir,0000,0000,0000,,Father Simon and the others seems to have it out for him.
+Dialogue: 0,0:05:15.97,0:05:18.58,Default,Shir,0000,0000,0000,,I'm always getting preached at.
+Dialogue: 0,0:05:18.85,0:05:20.95,Default,Shir,0000,0000,0000,,They say if I keep working at that house,
+Dialogue: 0,0:05:20.95,0:05:23.21,Default,,0000,0000,0000,,I'll end up possessed by a demon.
+Dialogue: 0,0:05:23.70,0:05:26.97,Default,Shir,0000,0000,0000,,I mean, he made me promise to keep this
+Dialogue: 0,0:05:26.97,0:05:29.11,Default,,0000,0000,0000,,with me at all times.
+Dialogue: 0,0:05:30.47,0:05:33.28,Default,Shir,0000,0000,0000,,It's supposedly some kind \Nof mystical protection charm.
+Dialogue: 0,0:05:34.79,0:05:38.73,Default,Kiri,0000,0000,0000,,Shirley, aren't you at all scared of my dad?
+Dialogue: 0,0:05:38.73,0:05:39.61,Default,Shir,0000,0000,0000,,Nope.
+Dialogue: 0,0:05:40.17,0:05:45.15,Default,Shir,0000,0000,0000,,I realize that magical research \Nisn't exactly normal,
+Dialogue: 0,0:05:45.15,0:05:47.39,Default,Shir,0000,0000,0000,,but all of Sensei's research and discoveries
+Dialogue: 0,0:05:47.39,0:05:51.37,Default,Shir,0000,0000,0000,,are so remarkable, it really could make history.
+Dialogue: 0,0:05:51.37,0:05:54.24,Default,Shir,0000,0000,0000,,I think he's amazing.
+Dialogue: 0,0:05:59.70,0:06:01.01,Default,Kiri,0000,0000,0000,,Um...
+Dialogue: 0,0:06:02.21,0:06:05.12,Default,Shir,0000,0000,0000,,It's sharp and cuts really well.
+Dialogue: 0,0:06:07.37,0:06:08.89,Default,Shir,0000,0000,0000,,See you tomorrow.
+Dialogue: 0,0:06:10.98,0:06:13.06,Default,Kiri,0000,0000,0000,,Shirley, is something wrong?
+Dialogue: 0,0:06:14.94,0:06:17.77,Default,Shir,0000,0000,0000,,Keeping flowers in bloom forever...
+Dialogue: 0,0:06:17.77,0:06:19.93,Default,Shir,0000,0000,0000,,It's such beautiful magic.
+Dialogue: 0,0:06:20.27,0:06:22.31,Default,Kiri,0000,0000,0000,,Hey, you did it, too.
+Dialogue: 0,0:06:22.68,0:06:24.98,Default,Shir,0000,0000,0000,,At my level, flowers are my limit.
+Dialogue: 0,0:06:25.95,0:06:28.54,Default,Shir,0000,0000,0000,,Sensei is so much further along.
+Dialogue: 0,0:06:28.54,0:06:33.08,Default,Shir,0000,0000,0000,,His medicines could eliminate death itself.
+Dialogue: 0,0:06:33.39,0:06:35.01,Default,Shir,0000,0000,0000,,I just...
+Dialogue: 0,0:06:35.01,0:06:38.53,Default,Shir,0000,0000,0000,,I think about using his work to benefit humanity
+Dialogue: 0,0:06:38.53,0:06:41.32,Default,,0000,0000,0000,,so that they will finally understand him.
+Dialogue: 0,0:06:41.80,0:06:43.81,Default,Shir,0000,0000,0000,,But he's given up on that.
+Dialogue: 0,0:06:44.52,0:06:46.13,Default,Shir,0000,0000,0000,,Still, Kerry...
+Dialogue: 0,0:06:46.13,0:06:48.34,Default,Shir,0000,0000,0000,,I know you can do it.
+Dialogue: 0,0:06:48.34,0:06:49.81,Default,Kiri,0000,0000,0000,,What?
+Dialogue: 0,0:06:49.81,0:06:52.30,Default,Kiri,0000,0000,0000,,You're his star pupil.
+Dialogue: 0,0:06:52.76,0:06:55.24,Default,Kiri,0000,0000,0000,,If it were going to be anyone, it'd be you.
+Dialogue: 0,0:06:55.24,0:06:56.35,Default,Kiri,0000,0000,0000,,Not me.
+Dialogue: 0,0:06:56.94,0:06:59.56,Default,Shir,0000,0000,0000,,I'm not his pupil.
+Dialogue: 0,0:06:59.56,0:07:01.68,Default,Shir,0000,0000,0000,,I'm only an assistant.
+Dialogue: 0,0:07:02.12,0:07:04.73,Default,Shir,0000,0000,0000,,I only clean and help out.
+Dialogue: 0,0:07:08.69,0:07:11.80,Default,Shir,0000,0000,0000,,I'm not his student or anything.
+Dialogue: 0,0:07:12.36,0:07:15.13,Default,Shir,0000,0000,0000,,So I can't refute what Father Simon says about him,
+Dialogue: 0,0:07:15.13,0:07:16.99,Default,,0000,0000,0000,,because there's nothing I can say.
+Dialogue: 0,0:07:17.38,0:07:18.40,Default,Shir,0000,0000,0000,,Kerry...
+Dialogue: 0,0:07:19.02,0:07:21.93,Default,Shir,0000,0000,0000,,You're next in line, without doubt.
+Dialogue: 0,0:07:22.40,0:07:27.76,Default,Shir,0000,0000,0000,,Everything he does, he sets up \Nfor you to one day continue.
+Dialogue: 0,0:07:28.71,0:07:32.15,Default,Shir,0000,0000,0000,,It's just too early.
+Dialogue: 0,0:07:34.02,0:07:36.25,Default,Shir,0000,0000,0000,,Hey, come with me.
+Dialogue: 0,0:08:00.42,0:08:01.81,Default,Shir,0000,0000,0000,,Kerry,
+Dialogue: 0,0:08:02.82,0:08:04.79,Default,Shir,0000,0000,0000,,what do you want to be \Nwhen you grow up?
+Dialogue: 0,0:08:06.39,0:08:08.79,Default,Shir,0000,0000,0000,,If you continue your father's work,
+Dialogue: 0,0:08:08.79,0:08:11.42,Default,Shir,0000,0000,0000,,how will you use its results?
+Dialogue: 0,0:08:12.12,0:08:14.21,Default,Shir,0000,0000,0000,,Someday, you'll have the power
+Dialogue: 0,0:08:14.87,0:08:17.17,Default,Shir,0000,0000,0000,,to change the world.
+Dialogue: 0,0:08:17.93,0:08:22.06,Default,Shir,0000,0000,0000,,In fact, I guarantee that you'll be able to.
+Dialogue: 0,0:08:22.50,0:08:24.19,Default,Shir,0000,0000,0000,,I'm certain of that.
+Dialogue: 0,0:08:25.42,0:08:26.94,Default,Kiri,0000,0000,0000,,Well...
+Dialogue: 0,0:08:28.12,0:08:30.18,Default,Kiri,0000,0000,0000,,It's a secret.
+Dialogue: 0,0:08:35.52,0:08:39.11,Default,Shir,0000,0000,0000,,Then I'll wait and see, with my own eyes,
+Dialogue: 0,0:08:39.11,0:08:41.70,Default,Shir,0000,0000,0000,,what you do when you grow up.
+Dialogue: 0,0:08:42.48,0:08:45.58,Default,Shir,0000,0000,0000,,Until then, I'll stay by your side.
+Dialogue: 0,0:08:46.89,0:08:47.96,Default,Shir,0000,0000,0000,,Okay?
+Dialogue: 0,0:08:53.25,0:08:56.58,Default,Kiri,0000,0000,0000,,Wh-Whatever...
+Dialogue: 0,0:09:02.18,0:09:03.48,Default,Kiri,0000,0000,0000,,Knock it off...
+Dialogue: 0,0:09:03.48,0:09:04.43,Default,Shir,0000,0000,0000,,Whee!
+Dialogue: 0,0:09:13.20,0:09:15.55,Default,Kiri,0000,0000,0000,,Morning, Dad.
+Dialogue: 0,0:09:15.55,0:09:16.97,Default,Nori,0000,0000,0000,,Kiritsugu,
+Dialogue: 0,0:09:16.97,0:09:20.49,Default,,0000,0000,0000,,you didn't go into my workshop \Nyesterday, did you?
+Dialogue: 0,0:09:20.49,0:09:21.54,Default,Kiri,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:21.54,0:09:23.12,Default,Kiri,0000,0000,0000,,No...
+Dialogue: 0,0:09:23.59,0:09:24.70,Default,Nori,0000,0000,0000,,All right.
+Dialogue: 0,0:09:27.23,0:09:30.25,Default,Nori,0000,0000,0000,,Kiritsugu, don't go to the village today.
+Dialogue: 0,0:09:31.09,0:09:33.17,Default,Nori,0000,0000,0000,,Actually, don't leave the house.
+Dialogue: 0,0:09:35.72,0:09:38.43,Default,Kiri,0000,0000,0000,,What's going on?
+Dialogue: 0,0:09:43.67,0:09:46.13,Default,Kiri,0000,0000,0000,,Shirley's late.
+Dialogue: 0,0:09:58.26,0:09:59.03,Default,Kiri,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:00.60,0:10:02.05,Default,Kiri,0000,0000,0000,,Have you guys seen Shirley?
+Dialogue: 0,0:10:10.94,0:10:12.21,Default,Kiri,0000,0000,0000,,Shirley?
+Dialogue: 0,0:10:21.25,0:10:22.48,Default,Kiri,0000,0000,0000,,Shirley?
+Dialogue: 0,0:10:45.28,0:10:47.78,Default,Kiri,0000,0000,0000,,What happened to you?
+Dialogue: 0,0:11:11.31,0:11:12.47,Default,Shir,0000,0000,0000,,Kerry...
+Dialogue: 0,0:11:13.79,0:11:14.73,Default,Kiri,0000,0000,0000,,Shirley!
+Dialogue: 0,0:11:21.28,0:11:22.46,Default,Shir,0000,0000,0000,,I...
+Dialogue: 0,0:11:23.05,0:11:25.28,Default,Shir,0000,0000,0000,,I just wanted to s-show it.
+Dialogue: 0,0:11:26.30,0:11:28.62,Default,Shir,0000,0000,0000,,Sensei's research...
+Dialogue: 0,0:11:30.55,0:11:31.53,Default,Shir,0000,0000,0000,,But...
+Dialogue: 0,0:11:33.07,0:11:34.15,Default,Shir,0000,0000,0000,,It...
+Dialogue: 0,0:11:35.19,0:11:36.48,Default,Shir,0000,0000,0000,,It isn't working...
+Dialogue: 0,0:11:46.67,0:11:47.96,Default,Shir,0000,0000,0000,,Kill me.
+Dialogue: 0,0:11:50.41,0:11:52.89,Default,Shir,0000,0000,0000,,Use it, please...
+Dialogue: 0,0:11:53.49,0:11:55.44,Default,Shir,0000,0000,0000,,You must kill me.
+Dialogue: 0,0:11:56.71,0:12:01.45,Default,Shir,0000,0000,0000,,Do it now, before it's too late...
+Dialogue: 0,0:12:03.43,0:12:04.99,Default,Shir,0000,0000,0000,,I'm begging you!
+Dialogue: 0,0:12:04.99,0:12:07.33,Default,Shir,0000,0000,0000,,There's no time!
+Dialogue: 0,0:12:08.24,0:12:10.58,Default,Shir,0000,0000,0000,,Do it, before I lose control!
+Dialogue: 0,0:12:10.99,0:12:12.11,Default,Shir,0000,0000,0000,,Hurry!
+Dialogue: 0,0:12:26.54,0:12:29.12,Default,Simon,0000,0000,0000,,It really was Shirley?
+Dialogue: 0,0:12:36.33,0:12:39.65,Default,Simon,0000,0000,0000,,Kerry, for now, you stay put.
+Dialogue: 0,0:12:39.65,0:12:41.80,Default,Simon,0000,0000,0000,,I'll go inform the village.
+Dialogue: 0,0:14:09.89,0:14:13.14,Default,Kiri,0000,0000,0000,,W-What is this?
+Dialogue: 0,0:14:31.39,0:14:33.70,Default,Kiri,0000,0000,0000,,Father Simon?
+Dialogue: 0,0:15:31.13,0:15:34.20,Default,Nat,0000,0000,0000,,It seems I'm late.
+Dialogue: 0,0:15:34.20,0:15:35.77,Default,Kiri,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:15:35.77,0:15:38.04,Default,Kiri,0000,0000,0000,,Who are you?
+Dialogue: 0,0:15:43.43,0:15:46.40,Default,Nat,0000,0000,0000,,Shouldn't you be more concerned about yourself?
+Dialogue: 0,0:15:47.79,0:15:50.32,Default,Nat,0000,0000,0000,,But if you don't get up,
+Dialogue: 0,0:15:50.32,0:15:52.97,Default,Nat,0000,0000,0000,,you'll be one of them in no time.
+Dialogue: 0,0:16:00.51,0:16:02.65,Default,Kiri,0000,0000,0000,,What happened?
+Dialogue: 0,0:16:02.65,0:16:04.64,Default,Kiri,0000,0000,0000,,Who did this?
+Dialogue: 0,0:16:04.64,0:16:06.87,Default,Kiri,0000,0000,0000,,Setting the village on fire...
+Dialogue: 0,0:16:06.87,0:16:11.71,Default,Nat,0000,0000,0000,,I'm guessing you've heard of\N vampires, right, kiddo?
+Dialogue: 0,0:16:12.35,0:16:14.87,Default,Nat,0000,0000,0000,,We call them Dead Apostles.
+Dialogue: 0,0:16:15.36,0:16:16.28,Default,Kiri,0000,0000,0000,,Dead Apostles?
+Dialogue: 0,0:16:16.63,0:16:19.63,Default,Nat,0000,0000,0000,,They drink people's blood, \Nincreasing their numbers.
+Dialogue: 0,0:16:19.63,0:16:23.66,Default,Nat,0000,0000,0000,,By now, pretty much everyone \Non the island is one.
+Dialogue: 0,0:16:23.66,0:16:26.63,Default,Nat,0000,0000,0000,,So we're here to clean up the mess.
+Dialogue: 0,0:16:27.06,0:16:31.88,Default,Nat,0000,0000,0000,,Actually, there are two separate groups\N working to get the village under control.
+Dialogue: 0,0:16:32.27,0:16:35.25,Default,Nat,0000,0000,0000,,One is the Holy Church's Executors.
+Dialogue: 0,0:16:35.25,0:16:38.79,Default,Nat,0000,0000,0000,,They're zealots who believe \Nthat they're justified
+Dialogue: 0,0:16:38.79,0:16:40.60,Default,Nat,0000,0000,0000,,in slaughtering anyone who defies God.
+Dialogue: 0,0:16:41.21,0:16:43.85,Default,Nat,0000,0000,0000,,Obviously, they'll show no \Nmercy to any Dead Apostles.
+Dialogue: 0,0:16:44.35,0:16:48.11,Default,Nat,0000,0000,0000,,They'll kill anyone who they suspect has had their blood drunk.
+Dialogue: 0,0:16:48.86,0:16:51.15,Default,Nat,0000,0000,0000,,Then there's the Mages Association,
+Dialogue: 0,0:16:51.15,0:16:53.36,Default,,0000,0000,0000,,which is a bit harder to explain.
+Dialogue: 0,0:16:53.69,0:16:58.28,Default,Nat,0000,0000,0000,,They're more interested in discovering \Nwho unleashed these loathsome creatures,
+Dialogue: 0,0:16:58.28,0:17:01.62,Default,Nat,0000,0000,0000,,and keeping that knowledge for themselves.
+Dialogue: 0,0:17:02.07,0:17:05.09,Default,Nat,0000,0000,0000,,"All to themselves" being their motto,
+Dialogue: 0,0:17:05.09,0:17:08.38,Default,Nat,0000,0000,0000,,they'll kill anyone they believe to know the truth.
+Dialogue: 0,0:17:08.38,0:17:11.20,Default,Nat,0000,0000,0000,,To cover it up, they will utterly \Nerase any evidence.
+Dialogue: 0,0:17:11.20,0:17:13.38,Default,Nat,0000,0000,0000,,They're the ones who set the fire.
+Dialogue: 0,0:17:14.80,0:17:17.64,Default,Kiri,0000,0000,0000,,Which are you with?
+Dialogue: 0,0:17:18.26,0:17:22.00,Default,Nat,0000,0000,0000,,I'm like a salesman who deals \Nwith the Mages Association.
+Dialogue: 0,0:17:22.68,0:17:25.07,Default,Nat,0000,0000,0000,,Now, kiddo...
+Dialogue: 0,0:17:25.07,0:17:27.60,Default,Nat,0000,0000,0000,,I have a question for you.
+Dialogue: 0,0:17:27.60,0:17:30.65,Default,Nat,0000,0000,0000,,I'm looking for a mage who's \Nbeen designated for sealing.
+Dialogue: 0,0:17:31.42,0:17:32.76,Default,Kiri,0000,0000,0000,,A mage...
+Dialogue: 0,0:17:33.29,0:17:36.41,Default,Nat,0000,0000,0000,,Obviously, you have no idea what that means.
+Dialogue: 0,0:17:36.97,0:17:40.31,Default,Nat,0000,0000,0000,,The first human to become a Dead Apostle here...
+Dialogue: 0,0:17:40.31,0:17:44.16,Default,Nat,0000,0000,0000,,Let's say I'm looking for the medium that \Nchanged them into a Dead Apostle.
+Dialogue: 0,0:17:44.63,0:17:47.17,Default,Nat,0000,0000,0000,,Whatever caused the transformation.
+Dialogue: 0,0:17:47.60,0:17:50.54,Default,Nat,0000,0000,0000,,The bad mage who made it should be hiding
+Dialogue: 0,0:17:50.54,0:17:53.42,Default,,0000,0000,0000,,somewhere on this island.
+Dialogue: 0,0:17:53.71,0:17:56.56,Default,Nat,0000,0000,0000,,Do you know anything that might help?
+Dialogue: 0,0:18:13.22,0:18:16.10,Default,Nori,0000,0000,0000,,Oh, Kiritsugu, you're safe.
+Dialogue: 0,0:18:16.10,0:18:17.52,Default,Nori,0000,0000,0000,,Thank goodness.
+Dialogue: 0,0:18:18.17,0:18:20.28,Default,Nori,0000,0000,0000,,I told you not to go to the village.
+Dialogue: 0,0:18:22.27,0:18:25.51,Default,Kiri,0000,0000,0000,,Dad, why are you researching Dead Apostles?
+Dialogue: 0,0:18:26.09,0:18:28.54,Default,Nori,0000,0000,0000,,Kiritsugu, how do you...
+Dialogue: 0,0:18:29.24,0:18:32.98,Default,Kiri,0000,0000,0000,,Shirley used your magic on herself.
+Dialogue: 0,0:18:34.76,0:18:35.93,Default,Nori,0000,0000,0000,,Oh...
+Dialogue: 0,0:18:35.93,0:18:38.69,Default,Nori,0000,0000,0000,,Well, it's unfortunate.
+Dialogue: 0,0:18:38.69,0:18:41.24,Default,Nori,0000,0000,0000,,But what's done is done.
+Dialogue: 0,0:18:41.24,0:18:45.06,Default,Nori,0000,0000,0000,,Shirley inadvertently led me to the \Nanswer earlier than anticipated.
+Dialogue: 0,0:18:47.14,0:18:48.79,Default,Kiri,0000,0000,0000,,Dad,
+Dialogue: 0,0:18:48.79,0:18:51.31,Default,,0000,0000,0000,,will you do the same thing to me someday?
+Dialogue: 0,0:18:51.31,0:18:53.21,Default,Nori,0000,0000,0000,,Don't be ridiculous.
+Dialogue: 0,0:18:53.21,0:18:56.82,Default,Nori,0000,0000,0000,,A Dead Apostle that can't suppress \Nits bloodlust is a failure.
+Dialogue: 0,0:18:57.26,0:19:01.86,Default,Nori,0000,0000,0000,,The Emiya family research requires eternity.
+Dialogue: 0,0:19:01.86,0:19:04.21,Default,Nori,0000,0000,0000,,The Root will remain forever out of reach,
+Dialogue: 0,0:19:04.21,0:19:05.79,Default,,0000,0000,0000,,so long as we have mortal flesh.
+Dialogue: 0,0:19:06.28,0:19:08.68,Default,Nori,0000,0000,0000,,This experiment took a lot of time,
+Dialogue: 0,0:19:08.68,0:19:11.06,Default,Nori,0000,0000,0000,,but it seems to have been a failure.
+Dialogue: 0,0:19:11.66,0:19:14.67,Default,Nori,0000,0000,0000,,I'll have to take my theory \Nback to the drawing board.
+Dialogue: 0,0:19:15.20,0:19:18.80,Default,Nori,0000,0000,0000,,Kiritsugu, we'll continue this later.
+Dialogue: 0,0:19:19.23,0:19:21.35,Default,Nori,0000,0000,0000,,Right now, we must escape.
+Dialogue: 0,0:19:22.04,0:19:24.64,Default,Kiri,0000,0000,0000,,Can we still escape?
+Dialogue: 0,0:19:24.64,0:19:30.19,Default,Nori,0000,0000,0000,,I hid a motorboat on the southern coast,\Nin case something like this happened.
+Dialogue: 0,0:19:32.90,0:19:34.61,Default,Nori,0000,0000,0000,,Sorry, there isn't any time for you
+Dialogue: 0,0:19:34.61,0:19:36.93,Default,,0000,0000,0000,,to gather your things, Kiritsugu.
+Dialogue: 0,0:19:37.59,0:19:38.41,Default,Nori,0000,0000,0000,,Come on.
+Dialogue: 0,0:19:38.78,0:19:40.15,Default,Kiri,0000,0000,0000,,I'll do it.
+Dialogue: 0,0:19:40.56,0:19:42.91,Default,Kiri,0000,0000,0000,,He's set up a barrier within the forest.
+Dialogue: 0,0:19:42.91,0:19:44.83,Default,Kiri,0000,0000,0000,,A really strong one.
+Dialogue: 0,0:19:45.31,0:19:47.86,Default,Kiri,0000,0000,0000,,Breaking it will take time.
+Dialogue: 0,0:19:47.86,0:19:50.75,Default,Kiri,0000,0000,0000,,However, I can get through.
+Dialogue: 0,0:19:51.41,0:19:53.04,Default,Kiri,0000,0000,0000,,I have to do it.
+Dialogue: 0,0:20:15.77,0:20:17.07,Default - italic,Shir,0000,0000,0000,,Kerry,
+Dialogue: 0,0:20:21.07,0:20:23.03,Default - italic,Shir,0000,0000,0000,,what do you want to be \Nwhen you grow up?
+Dialogue: 0,0:20:50.29,0:20:54.40,Default,Nat,0000,0000,0000,,That barrier wasn't nearly as \Ntough as you made it sound.
+Dialogue: 0,0:20:55.59,0:20:58.01,Default,Kiri,0000,0000,0000,,Are you mad?
+Dialogue: 0,0:20:58.99,0:21:02.35,Default,Kiri,0000,0000,0000,,There was no guarantee you'd be in time.
+Dialogue: 0,0:21:02.35,0:21:03.89,Default,Kiri,0000,0000,0000,,If he'd gotten away,
+Dialogue: 0,0:21:03.89,0:21:07.24,Default,,0000,0000,0000,,he would've continued his \Nresearch somewhere else.
+Dialogue: 0,0:21:07.99,0:21:12.02,Default,Nat,0000,0000,0000,,That's a poor reason for a son to kill his father.
+Dialogue: 0,0:21:14.55,0:21:18.00,Default,Kiri,0000,0000,0000,,You really are a good person.
+Dialogue: 0,0:21:18.64,0:21:21.04,Default,Nat,0000,0000,0000,,I'll get you off the island.
+Dialogue: 0,0:21:21.41,0:21:23.58,Default,Nat,0000,0000,0000,,After that, you must decide things for yourself.
+Dialogue: 0,0:21:24.31,0:21:26.01,Default,Nat,0000,0000,0000,,Anything you want to take with you?
+Dialogue: 0,0:21:27.61,0:21:29.14,Default,Kiri,0000,0000,0000,,Nothing.
+Dialogue: 0,0:21:52.04,0:21:55.04,Title,Kiri,0000,0000,0000,,Episode 18: \NDistant Memories
+Dialogue: 0,0:23:25.74,0:23:28.51,Default,Kiri,0000,0000,0000,,After fleeing the island,
+Dialogue: 0,0:23:28.51,0:23:33.05,Default,Kiri,0000,0000,0000,,I spent the next several years with \Nthat woman, Natalia Kaminski.
+Dialogue: 0,0:23:33.05,0:23:37.07,Default,Kiri,0000,0000,0000,,That meant following the same path,
+Dialogue: 0,0:23:37.07,0:23:39.85,Default,Kiri,0000,0000,0000,,the path of the hunter.
+Dialogue: 0,0:23:37.52,0:23:40.59,Title,Kiri,0000,0000,0000,,Next Time: \NWhere Justice Dwells

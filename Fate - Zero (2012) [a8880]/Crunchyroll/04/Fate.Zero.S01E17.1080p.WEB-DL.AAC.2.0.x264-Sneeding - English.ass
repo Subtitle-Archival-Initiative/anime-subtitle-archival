@@ -1,0 +1,353 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0005,0
+Style: Default - italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Title,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,0
+Style: Sign17A,Arial,26,&H00B7C6B8,&H000000FF,&H004F584E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:02:08.84,0:02:10.02,Default,Toki,0000,0000,0000,,Murdered?
+Dialogue: 0,0:02:13.70,0:02:16.20,Default,Toki,0000,0000,0000,,But that's just...
+Dialogue: 0,0:02:16.81,0:02:18.88,Default,Toki,0000,0000,0000,,Why the Father?
+Dialogue: 0,0:02:18.88,0:02:20.90,Default,Toki,0000,0000,0000,,This cannot...
+Dialogue: 0,0:02:20.90,0:02:22.91,Default,Toki,0000,0000,0000,,This cannot be permitted!
+Dialogue: 0,0:02:36.36,0:02:39.01,Default,Arch,0000,0000,0000,,Why didn't you tell Tokiomi?
+Dialogue: 0,0:02:40.86,0:02:42.18,Default,Kire,0000,0000,0000,,Tell him what?
+Dialogue: 0,0:02:42.62,0:02:44.93,Default,Arch,0000,0000,0000,,Your poor father...
+Dialogue: 0,0:02:44.93,0:02:48.98,Default,Arch,0000,0000,0000,,He left this world, \Nconvinced his son was a man of God.
+Dialogue: 0,0:02:48.98,0:02:50.31,Default,Arch,0000,0000,0000,,Or perhaps,
+Dialogue: 0,0:02:50.61,0:02:53.16,Default,Arch,0000,0000,0000,,was that his salvation?
+Dialogue: 0,0:02:54.54,0:02:58.00,Default,Arch,0000,0000,0000,,Do you even care that your father is dead?
+Dialogue: 0,0:02:59.20,0:03:01.43,Default,Arch,0000,0000,0000,,He was murdered, after all.
+Dialogue: 0,0:03:01.43,0:03:04.43,Default,Arch,0000,0000,0000,,Should you not, at least, \Npretend to be upset?
+Dialogue: 0,0:03:05.20,0:03:07.58,Default,Kire,0000,0000,0000,,I'm very frustrated, yes.
+Dialogue: 0,0:03:08.47,0:03:10.65,Default,Arch,0000,0000,0000,,Are you?
+Dialogue: 0,0:03:11.71,0:03:12.58,Default,Arch,0000,0000,0000,,Is it...
+Dialogue: 0,0:03:13.03,0:03:16.02,Default,Arch,0000,0000,0000,,because you could not kill \Nhim with your own hands?
+Dialogue: 0,0:03:25.41,0:03:26.85,Default,Iri,0000,0000,0000,,Saber?
+Dialogue: 0,0:03:28.27,0:03:30.73,Default,Saber,0000,0000,0000,,Irisviel, are you all right?
+Dialogue: 0,0:03:32.51,0:03:35.63,Default,Iri,0000,0000,0000,,You must have been so worried.
+Dialogue: 0,0:03:35.63,0:03:36.73,Default,Iri,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:03:36.97,0:03:42.35,Default,Saber,0000,0000,0000,,As long as you're safe, \Nthat is all that matters.
+Dialogue: 0,0:03:42.81,0:03:43.74,Default,Saber,0000,0000,0000,,Still...
+Dialogue: 0,0:03:48.36,0:03:52.12,Default,Iri,0000,0000,0000,,Don't worry. \NI can sense it's just Maiya-san.
+Dialogue: 0,0:03:52.91,0:03:54.38,Default,Iri,0000,0000,0000,,From Tohsaka?
+Dialogue: 0,0:03:54.38,0:03:55.56,Default,Maiya,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:55.56,0:03:58.46,Default,Maiya,0000,0000,0000,,Tohsaka Tokiomi has proposed an alliance.
+Dialogue: 0,0:03:58.46,0:04:01.34,Default,Saber,0000,0000,0000,,An alliance? At this stage?
+Dialogue: 0,0:04:01.34,0:04:04.34,Default,Iri,0000,0000,0000,,Rider and Berserker are the \Nonly other Servants left.
+Dialogue: 0,0:04:04.34,0:04:06.89,Default,Iri,0000,0000,0000,,Tohsaka's probably uneasy about facing them.
+Dialogue: 0,0:04:07.37,0:04:12.15,Default,Iri,0000,0000,0000,,He's reached out, thinking us the \Neasiest group to convince.
+Dialogue: 0,0:04:12.71,0:04:16.15,Default,Iri,0000,0000,0000,,Essentially, he considers us weaker \Nthan the other pairs.
+Dialogue: 0,0:04:16.15,0:04:17.91,Default,Maiya,0000,0000,0000,,He said he'd like
+Dialogue: 0,0:04:17.91,0:04:21.19,Default,,0000,0000,0000,,to meet with you at the \NFuyuki City church tonight.
+Dialogue: 0,0:04:21.19,0:04:24.85,Default,Maiya,0000,0000,0000,,In my view, Tohsaka Tokiomi has been
+Dialogue: 0,0:04:24.85,0:04:26.70,Default,,0000,0000,0000,,meticulous in his planning
+Dialogue: 0,0:04:26.70,0:04:29.16,Default,Maiya,0000,0000,0000,,for this Holy Grail War since the very start.
+Dialogue: 0,0:04:29.48,0:04:32.74,Default,Maiya,0000,0000,0000,,And there's evidence to suggest \Nthat Assassin's Master,
+Dialogue: 0,0:04:32.74,0:04:36.40,Default,Maiya,0000,0000,0000,,Kotomine Kirei, is his pawn, as well.
+Dialogue: 0,0:04:38.63,0:04:43.34,Default,Maiya,0000,0000,0000,,If Tohsaka has Kotomine Kirei in his pocket,
+Dialogue: 0,0:04:43.34,0:04:47.00,Default,Maiya,0000,0000,0000,,I'm not sure we should ignore his offer.
+Dialogue: 0,0:04:47.43,0:04:48.39,Default,Iri,0000,0000,0000,,Maybe not.
+Dialogue: 0,0:04:50.09,0:04:52.23,Default,Saber,0000,0000,0000,,Kotomine Kirei...
+Dialogue: 0,0:04:52.88,0:04:54.95,Default,Iri,0000,0000,0000,,Remember this, Saber.
+Dialogue: 0,0:04:55.38,0:04:57.51,Default,Iri,0000,0000,0000,,If anyone in this Grail War
+Dialogue: 0,0:04:57.51,0:05:01.57,Default,Iri,0000,0000,0000,,can defeat Kiritsugu, to win the Grail,
+Dialogue: 0,0:05:01.57,0:05:04.42,Default,Iri,0000,0000,0000,,it is Kotomine Kirei.
+Dialogue: 0,0:05:08.71,0:05:11.58,Default,Iri,0000,0000,0000,,Very well, we'll accept.
+Dialogue: 0,0:05:21.99,0:05:23.55,Default,Rin,0000,0000,0000,,Father?
+Dialogue: 0,0:05:28.05,0:05:29.18,Default,Rin,0000,0000,0000,,Father!
+Dialogue: 0,0:05:43.45,0:05:44.19,Default,Aoi,0000,0000,0000,,Rin,
+Dialogue: 0,0:05:44.62,0:05:47.08,Default,Aoi,0000,0000,0000,,your father wants to talk to you.
+Dialogue: 0,0:06:06.37,0:06:07.22,Default,Toki,0000,0000,0000,,Rin...
+Dialogue: 0,0:06:07.88,0:06:11.13,Default,Toki,0000,0000,0000,,As you grow up, always try to \Nkeep the Church in your debt.
+Dialogue: 0,0:06:11.98,0:06:14.47,Default,Toki,0000,0000,0000,,Beyond that, I trust your judgment.
+Dialogue: 0,0:06:15.02,0:06:18.42,Default,Toki,0000,0000,0000,,I know you will succeed, even on your own.
+Dialogue: 0,0:06:19.06,0:06:21.40,Default,Toki,0000,0000,0000,,Eventually, the Holy Grail will appear.
+Dialogue: 0,0:06:21.40,0:06:24.74,Default,Toki,0000,0000,0000,,The Tohsaka are duty-bound to obtain it.
+Dialogue: 0,0:06:24.74,0:06:25.73,Default,Toki,0000,0000,0000,,But more than that,
+Dialogue: 0,0:06:25.73,0:06:29.82,Default,Toki,0000,0000,0000,,if you want to be a mage, \Nthat is the path you must follow.
+Dialogue: 0,0:06:31.46,0:06:33.24,Default,Toki,0000,0000,0000,,This is for you, Rin.
+Dialogue: 0,0:06:39.47,0:06:41.20,Default,Toki,0000,0000,0000,,I have to go now.
+Dialogue: 0,0:06:41.77,0:06:44.09,Default,Toki,0000,0000,0000,,You understand what to do, don't you?
+Dialogue: 0,0:06:44.62,0:06:45.60,Default,Rin,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:48.70,0:06:51.14,Default,Rin,0000,0000,0000,,Goodbye, Father!
+Dialogue: 0,0:07:08.24,0:07:12.82,Default,Toki,0000,0000,0000,,I, Tohsaka Tokiomi, offer you \Nmy most humble gratitude
+Dialogue: 0,0:07:12.82,0:07:15.13,Default,Toki,0000,0000,0000,,for accepting my invitation.
+Dialogue: 0,0:07:16.67,0:07:19.74,Default,Toki,0000,0000,0000,,Allow me to introduce Kotomine Kirei.
+Dialogue: 0,0:07:19.74,0:07:21.80,Default,Toki,0000,0000,0000,,My disciple,
+Dialogue: 0,0:07:21.80,0:07:25.88,Default,,0000,0000,0000,,and until recently, our fellow \Ncompetitor in the Holy Grail War.
+Dialogue: 0,0:07:25.88,0:07:28.33,Default,Toki,0000,0000,0000,,But that is now in the past.
+Dialogue: 0,0:07:29.07,0:07:31.22,Default,Toki,0000,0000,0000,,He has lost his Servant,
+Dialogue: 0,0:07:31.22,0:07:34.39,Default,Toki,0000,0000,0000,,and has relinquished his rights as a Master.
+Dialogue: 0,0:07:34.78,0:07:38.81,Default,Toki,0000,0000,0000,,The Holy Grail War has \Nentered its final stages.
+Dialogue: 0,0:07:39.26,0:07:43.79,Default,Toki,0000,0000,0000,,We, of the three original families, \Nare the remaining Masters,
+Dialogue: 0,0:07:43.79,0:07:46.32,Default,Toki,0000,0000,0000,,alongside one outsider.
+Dialogue: 0,0:07:46.64,0:07:50.02,Default,Toki,0000,0000,0000,,What think you of the \Ncurrent state of affairs?
+Dialogue: 0,0:07:51.63,0:07:53.60,Default,Toki,0000,0000,0000,,We cannot, under any circumstances,
+Dialogue: 0,0:07:53.60,0:07:55.53,Default,,0000,0000,0000,,allow an outsider to claim the Grail.
+Dialogue: 0,0:07:55.95,0:07:59.54,Default,Toki,0000,0000,0000,,I am sure you must agree on that.
+Dialogue: 0,0:07:59.54,0:08:02.04,Default,Iri,0000,0000,0000,,The idea of an alliance is absurd.
+Dialogue: 0,0:08:02.04,0:08:03.01,Default,Iri,0000,0000,0000,,However,
+Dialogue: 0,0:08:03.01,0:08:06.34,Default,Iri,0000,0000,0000,,if you wish to decide on the order in which \Nwe fight our remaining enemies,
+Dialogue: 0,0:08:06.34,0:08:09.17,Default,Iri,0000,0000,0000,,we may be able to reach some consensus.
+Dialogue: 0,0:08:10.55,0:08:11.67,Default,Toki,0000,0000,0000,,Meaning?
+Dialogue: 0,0:08:11.98,0:08:14.93,Default,Iri,0000,0000,0000,,Meaning that we are \Nprepared to agree to wait
+Dialogue: 0,0:08:14.93,0:08:17.64,Default,Iri,0000,0000,0000,,until the other two are defeated
+Dialogue: 0,0:08:17.64,0:08:20.51,Default,Iri,0000,0000,0000,,before we turn our attention to the Tohsaka.
+Dialogue: 0,0:08:20.51,0:08:23.22,Default,Toki,0000,0000,0000,,A temporary, conditional truce?
+Dialogue: 0,0:08:23.76,0:08:25.96,Default,Toki,0000,0000,0000,,That is a fair compromise.
+Dialogue: 0,0:08:26.54,0:08:28.49,Default,Iri,0000,0000,0000,,We have two conditions.
+Dialogue: 0,0:08:29.18,0:08:30.86,Default,Iri,0000,0000,0000,,First,
+Dialogue: 0,0:08:30.86,0:08:32.94,Default,Iri,0000,0000,0000,,that you give us any and all information
+Dialogue: 0,0:08:32.94,0:08:36.66,Default,,0000,0000,0000,,you've gathered on Rider and his Master.
+Dialogue: 0,0:08:37.45,0:08:38.41,Default,Toki,0000,0000,0000,,Done.
+Dialogue: 0,0:08:38.69,0:08:40.87,Default,Iri,0000,0000,0000,,Second,
+Dialogue: 0,0:08:40.87,0:08:44.67,Default,Iri,0000,0000,0000,,that Kotomine Kirei be fully \Nremoved from the Holy Grail War.
+Dialogue: 0,0:08:48.07,0:08:50.34,Default,Toki,0000,0000,0000,,May I ask why?
+Dialogue: 0,0:08:50.34,0:08:52.46,Default,Iri,0000,0000,0000,,There is substantial animosity
+Dialogue: 0,0:08:52.46,0:08:54.10,Default,Iri,0000,0000,0000,,between the Einzberns
+Dialogue: 0,0:08:54.10,0:08:55.84,Default,Iri,0000,0000,0000,,and the Executor.
+Dialogue: 0,0:08:56.58,0:08:59.85,Default,Iri,0000,0000,0000,,If you intend to keep that man \Nunder your protection,
+Dialogue: 0,0:08:59.85,0:09:04.14,Default,Iri,0000,0000,0000,,it will be impossible for us to place \Neven a sliver of trust in you!
+Dialogue: 0,0:09:04.91,0:09:06.55,Default,Toki,0000,0000,0000,,What is this about,
+Dialogue: 0,0:09:08.52,0:09:09.73,Default,Toki,0000,0000,0000,,Kirei?
+Dialogue: 0,0:09:13.74,0:09:16.87,Default,Iri,0000,0000,0000,,What do you think of Kiritsugu's gift?
+Dialogue: 0,0:09:16.87,0:09:22.58,Default,Saber,0000,0000,0000,,This vehicle is similar to a horse,\N so it will serve me better than the automobile.
+Dialogue: 0,0:09:22.58,0:09:25.19,Default,Saber,0000,0000,0000,,I'll go on ahead,
+Dialogue: 0,0:09:25.19,0:09:27.33,Default,Saber,0000,0000,0000,,and secure the route back.
+Dialogue: 0,0:09:32.88,0:09:34.84,Default,Iri,0000,0000,0000,,We should go, too.
+Dialogue: 0,0:09:39.25,0:09:40.60,Default,Maiya,0000,0000,0000,,M-Madam?
+Dialogue: 0,0:09:41.07,0:09:42.49,Default,Maiya,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:09:42.49,0:09:44.60,Default,Iri,0000,0000,0000,,Go, Maiya-san...
+Dialogue: 0,0:09:44.93,0:09:46.07,Default,Maiya,0000,0000,0000,,But...
+Dialogue: 0,0:09:46.07,0:09:49.45,Default,Iri,0000,0000,0000,,Tohsaka will suspect that something's wrong.
+Dialogue: 0,0:09:56.76,0:10:00.08,Default,Iri,0000,0000,0000,,This is normal.
+Dialogue: 0,0:10:00.08,0:10:02.25,Default,Iri,0000,0000,0000,,It would have always happened.
+Dialogue: 0,0:10:02.80,0:10:06.91,Default,Iri,0000,0000,0000,,Actually, it's a miracle I've been able to
+Dialogue: 0,0:10:06.91,0:10:10.81,Default,Iri,0000,0000,0000,,function as a human for this long.
+Dialogue: 0,0:10:12.50,0:10:16.45,Default,Iri,0000,0000,0000,,I'm a homunculus created solely \Nfor the Holy Grail War.
+Dialogue: 0,0:10:17.19,0:10:19.58,Default,Iri,0000,0000,0000,,You knew that, didn't you?
+Dialogue: 0,0:10:19.58,0:10:20.64,Default,Maiya,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:20.64,0:10:22.81,Default,Iri,0000,0000,0000,,Grandfather Acht wanted
+Dialogue: 0,0:10:22.81,0:10:26.04,Default,,0000,0000,0000,,the Grail's vessel to have a survival instinct,
+Dialogue: 0,0:10:26.04,0:10:28.15,Default,Iri,0000,0000,0000,,so that it could avoid danger
+Dialogue: 0,0:10:28.15,0:10:30.60,Default,Iri,0000,0000,0000,,and ensure the Grail's completion.
+Dialogue: 0,0:10:30.96,0:10:35.99,Default,Iri,0000,0000,0000,,He dressed the vessel in a \Ndisguise called Irisviel.
+Dialogue: 0,0:10:36.32,0:10:38.86,Default,Iri,0000,0000,0000,,That is what I am.
+Dialogue: 0,0:10:39.12,0:10:42.14,Default,Maiya,0000,0000,0000,,How... But then you...
+Dialogue: 0,0:10:42.14,0:10:43.65,Default,Iri,0000,0000,0000,,Very soon,
+Dialogue: 0,0:10:43.65,0:10:46.63,Default,,0000,0000,0000,,I shall revert to what I was originally.
+Dialogue: 0,0:10:46.63,0:10:48.83,Default,Iri,0000,0000,0000,,Next time we meet,
+Dialogue: 0,0:10:48.83,0:10:52.88,Default,Iri,0000,0000,0000,,I doubt we'll even be able to converse like this.
+Dialogue: 0,0:10:53.46,0:10:58.38,Default,Iri,0000,0000,0000,,That's why Kiritsugu left Saber's \Nscabbard with me.
+Dialogue: 0,0:10:58.65,0:10:59.58,Default,Iri,0000,0000,0000,,Avalon...
+Dialogue: 0,0:11:00.23,0:11:01.95,Default,Iri,0000,0000,0000,,Do you know about its effects?
+Dialogue: 0,0:11:02.37,0:11:03.98,Default,Maiya,0000,0000,0000,,I've been told it prevents aging
+Dialogue: 0,0:11:03.98,0:11:07.68,Default,,0000,0000,0000,,and has unlimited healing power.
+Dialogue: 0,0:11:07.68,0:11:10.22,Default,Iri,0000,0000,0000,,Avalon has staved off the
+Dialogue: 0,0:11:10.22,0:11:13.02,Default,,0000,0000,0000,,collapse of the shell that is my body.
+Dialogue: 0,0:11:13.54,0:11:17.67,Default,Iri,0000,0000,0000,,Naturally, things deteriorate quickly
+Dialogue: 0,0:11:17.67,0:11:19.78,Default,Iri,0000,0000,0000,,when I'm separated from Saber.
+Dialogue: 0,0:11:20.11,0:11:23.05,Default,Maiya,0000,0000,0000,,Why tell me this?
+Dialogue: 0,0:11:23.67,0:11:25.46,Default,Iri,0000,0000,0000,,Because, Hisau Maiya...
+Dialogue: 0,0:11:25.99,0:11:29.16,Default,Iri,0000,0000,0000,,I knew that you wouldn't pity me.
+Dialogue: 0,0:11:29.99,0:11:32.19,Default,Iri,0000,0000,0000,,You'd just accept me as I am.
+Dialogue: 0,0:11:32.82,0:11:34.36,Default,Iri,0000,0000,0000,,That's why.
+Dialogue: 0,0:11:34.36,0:11:35.36,Default,Maiya,0000,0000,0000,,Madam,
+Dialogue: 0,0:11:35.36,0:11:38.10,Default,Maiya,0000,0000,0000,,I've always seen you as someone
+Dialogue: 0,0:11:38.10,0:11:40.17,Default,,0000,0000,0000,,quite distant from myself.
+Dialogue: 0,0:11:40.17,0:11:42.29,Default,Iri,0000,0000,0000,,That's not true...
+Dialogue: 0,0:11:43.07,0:11:44.48,Default,Iri,0000,0000,0000,,Do you understand?
+Dialogue: 0,0:11:44.48,0:11:45.77,Default,Maiya,0000,0000,0000,,I do.
+Dialogue: 0,0:11:45.77,0:11:48.22,Default,Maiya,0000,0000,0000,,Even if it costs my life,
+Dialogue: 0,0:11:48.22,0:11:52.28,Default,Maiya,0000,0000,0000,,Irisviel, I will protect you to the end.
+Dialogue: 0,0:11:53.09,0:11:54.19,Default,Maiya,0000,0000,0000,,So please...
+Dialogue: 0,0:11:55.60,0:11:58.44,Default,Maiya,0000,0000,0000,,When the time comes, die for Emiya Kiritsugu.
+Dialogue: 0,0:11:58.94,0:12:01.37,Default,Maiya,0000,0000,0000,,Die, for the sake of his dream.
+Dialogue: 0,0:12:05.82,0:12:07.29,Default,Iri,0000,0000,0000,,Thank you.
+Dialogue: 0,0:12:09.37,0:12:11.78,Default,Toki,0000,0000,0000,,I wish
+Dialogue: 0,0:12:11.78,0:12:14.92,Default,Toki,0000,0000,0000,,you had informed me of your \Ndealings with Einzbern.
+Dialogue: 0,0:12:15.20,0:12:18.17,Default,Toki,0000,0000,0000,,I'm afraid I have no other choice.
+Dialogue: 0,0:12:19.57,0:12:22.55,Default,Toki,0000,0000,0000,,You must withdraw from the Grail War,
+Dialogue: 0,0:12:23.11,0:12:24.17,Default,Toki,0000,0000,0000,,Kirei.
+Dialogue: 0,0:12:38.47,0:12:40.30,Default - italic,Kirei,0000,0000,0000,,Emiya Kiritsugu...
+Dialogue: 0,0:12:40.30,0:12:42.68,Default - italic,Kirei,0000,0000,0000,,Who are you?
+Dialogue: 0,0:12:45.06,0:12:49.56,Default - italic,Kirei,0000,0000,0000,,Must I leave, not even finding my answer?
+Dialogue: 0,0:12:51.15,0:12:54.19,Default,Arch,0000,0000,0000,,Still considering options, at this late hour?
+Dialogue: 0,0:12:54.19,0:12:57.28,Default,Arch,0000,0000,0000,,You couldn't possibly be so dense, Kirei.
+Dialogue: 0,0:12:58.58,0:13:01.59,Default,Arch,0000,0000,0000,,The Grail beckons you still.
+Dialogue: 0,0:13:02.37,0:13:04.52,Default,Arch,0000,0000,0000,,And in your heart of hearts,
+Dialogue: 0,0:13:04.52,0:13:07.59,Default,Arch,0000,0000,0000,,you long to continue the fight.
+Dialogue: 0,0:13:08.74,0:13:10.89,Default,Kire,0000,0000,0000,,As far back as I can recall,
+Dialogue: 0,0:13:10.89,0:13:14.10,Default,Kire,0000,0000,0000,,I've spent my life searching for one thing.
+Dialogue: 0,0:13:14.60,0:13:18.28,Default,Kire,0000,0000,0000,,I've squandered my time, endured great pain,
+Dialogue: 0,0:13:18.28,0:13:20.94,Default,,0000,0000,0000,,all for nothing.
+Dialogue: 0,0:13:21.60,0:13:25.08,Default,Kire,0000,0000,0000,,But now, I feel as though \NI am closer than ever before
+Dialogue: 0,0:13:25.08,0:13:28.37,Default,,0000,0000,0000,,to the answer I've sought for so long.
+Dialogue: 0,0:13:28.37,0:13:31.15,Default,Arch,0000,0000,0000,,Then why, after all that introspection,
+Dialogue: 0,0:13:31.15,0:13:32.87,Default,Arch,0000,0000,0000,,do you still hesitate?
+Dialogue: 0,0:13:33.49,0:13:35.00,Default,Kire,0000,0000,0000,,I have a foreboding...
+Dialogue: 0,0:13:35.57,0:13:37.87,Default,Kire,0000,0000,0000,,That when I learn that which I seek,
+Dialogue: 0,0:13:37.87,0:13:40.72,Default,Kire,0000,0000,0000,,it will destroy me.
+Dialogue: 0,0:13:46.82,0:13:48.85,Default,Kire,0000,0000,0000,,I see. Good work.
+Dialogue: 0,0:13:50.55,0:13:54.52,Default,Arch,0000,0000,0000,,Did you receive some good news,\N to lift your spirits?
+Dialogue: 0,0:13:54.52,0:13:57.34,Default,Kire,0000,0000,0000,,We've finally learned where the Einzberns
+Dialogue: 0,0:13:57.34,0:13:59.31,Default,,0000,0000,0000,,have been hiding.
+Dialogue: 0,0:14:01.39,0:14:04.62,Default,Arch,0000,0000,0000,,You really are a piece of work, Kirei!
+Dialogue: 0,0:14:05.46,0:14:08.38,Default,Arch,0000,0000,0000,,You've planned to continue \Nall along, haven't you?
+Dialogue: 0,0:14:08.38,0:14:10.18,Default,Kire,0000,0000,0000,,I was hesitant,
+Dialogue: 0,0:14:10.75,0:14:12.48,Default,Kire,0000,0000,0000,,and I nearly retired.
+Dialogue: 0,0:14:12.48,0:14:14.33,Default,Kire,0000,0000,0000,,But in the end,
+Dialogue: 0,0:14:14.60,0:14:17.86,Default,Kire,0000,0000,0000,,it is as you've noted, King of Heroes.
+Dialogue: 0,0:14:17.86,0:14:23.21,Default,Kire,0000,0000,0000,,I know of no other way \Nbut to continue asking.
+Dialogue: 0,0:14:23.90,0:14:24.96,Default,Arch,0000,0000,0000,,What is that?
+Dialogue: 0,0:14:26.46,0:14:28.72,Default,Kire,0000,0000,0000,,A gift from my father.
+Dialogue: 0,0:14:32.03,0:14:34.22,Default,Kire,0000,0000,0000,,JN 424.
+Dialogue: 0,0:14:34.90,0:14:36.76,Default,Kire,0000,0000,0000,,The Gospel of John.
+Dialogue: 0,0:14:38.60,0:14:40.19,Default,Kire,0000,0000,0000,,God is spirit.
+Dialogue: 0,0:14:40.69,0:14:45.71,Default,Kire,0000,0000,0000,,And those who worship him must \Nworship in spirit and in truth.
+Dialogue: 0,0:14:50.86,0:14:52.69,Default,Arch,0000,0000,0000,,But, Kirei...
+Dialogue: 0,0:14:52.69,0:14:55.58,Default,Arch,0000,0000,0000,,You have quite a problem here.
+Dialogue: 0,0:14:56.27,0:15:00.61,Default,Arch,0000,0000,0000,,If you were to enter the Holy \NGrail War for yourself,
+Dialogue: 0,0:15:00.61,0:15:03.74,Default,Arch,0000,0000,0000,,Tohsaka Tokiomi would be your enemy.
+Dialogue: 0,0:15:04.40,0:15:07.90,Default,Arch,0000,0000,0000,,Meaning that you now stand in this room,
+Dialogue: 0,0:15:07.90,0:15:11.47,Default,,0000,0000,0000,,alone and helpless, before an enemy Servant.
+Dialogue: 0,0:15:11.47,0:15:14.48,Default,Arch,0000,0000,0000,,Quite a dire situation, no?
+Dialogue: 0,0:15:14.48,0:15:16.39,Default,Kire,0000,0000,0000,,I think not.
+Dialogue: 0,0:15:16.39,0:15:18.98,Default,Kire,0000,0000,0000,,I'm not above begging for my life.
+Dialogue: 0,0:15:19.29,0:15:20.52,Default,Arch,0000,0000,0000,,Oh?
+Dialogue: 0,0:15:20.52,0:15:21.82,Default,Kire,0000,0000,0000,,Gilgamesh...
+Dialogue: 0,0:15:22.42,0:15:26.45,Default,Kire,0000,0000,0000,,Allow me to tell you the truth \Nof this Holy Grail War.
+Dialogue: 0,0:15:27.14,0:15:28.11,Default,Arch,0000,0000,0000,,What?
+Dialogue: 0,0:15:28.48,0:15:31.35,Default,Kire,0000,0000,0000,,When it began, this ritual of Fuyuki
+Dialogue: 0,0:15:31.35,0:15:35.66,Default,Kire,0000,0000,0000,,was an attempt to open a passage to the Root,
+Dialogue: 0,0:15:35.66,0:15:39.14,Default,Kire,0000,0000,0000,,through the sacrifice of \Nseven Heroic Spirits' souls.
+Dialogue: 0,0:15:39.80,0:15:43.10,Default,Kire,0000,0000,0000,,The deaths of these seven Servants
+Dialogue: 0,0:15:43.10,0:15:45.52,Default,,0000,0000,0000,,would activate the Great Grail.
+Dialogue: 0,0:15:45.91,0:15:47.76,Default,Kire,0000,0000,0000,,Indeed, all seven.
+Dialogue: 0,0:15:48.60,0:15:49.79,Default,Kire,0000,0000,0000,,Do you understand?
+Dialogue: 0,0:15:50.55,0:15:55.15,Default,Kire,0000,0000,0000,,That is why my master has been so fixated\Non conserving his Command Spells.
+Dialogue: 0,0:15:55.15,0:15:57.75,Default,Kire,0000,0000,0000,,When the last battle has been fought,
+Dialogue: 0,0:15:57.75,0:16:02.08,Default,Kire,0000,0000,0000,,he will need one to force his \NServant to commit suicide.
+Dialogue: 0,0:16:02.62,0:16:08.28,Default,Arch,0000,0000,0000,,You claim the loyalty Tokiomi \Nhas shown me was all a lie?
+Dialogue: 0,0:16:08.28,0:16:10.01,Default,Kire,0000,0000,0000,,Ultimately,
+Dialogue: 0,0:16:10.01,0:16:14.29,Default,Kire,0000,0000,0000,,my master is a mage, down to his core.
+Dialogue: 0,0:16:15.17,0:16:17.29,Default,Kire,0000,0000,0000,,Even if he were to \Nadmire a Heroic Spirit,
+Dialogue: 0,0:16:17.29,0:16:20.04,Default,Kire,0000,0000,0000,,he would never hold even\N the semblance of loyalty.
+Dialogue: 0,0:16:21.00,0:16:22.93,Default,Arch,0000,0000,0000,,Tokiomi...
+Dialogue: 0,0:16:22.93,0:16:25.97,Default,Arch,0000,0000,0000,,You have finally proven your worth.
+Dialogue: 0,0:16:25.97,0:16:28.00,Default,Arch,0000,0000,0000,,At last, that boring, tiresome man
+Dialogue: 0,0:16:28.00,0:16:31.30,Default,,0000,0000,0000,,will provide me some entertainment.
+Dialogue: 0,0:16:31.30,0:16:34.27,Default,Kire,0000,0000,0000,,It is your move, King of Heroes.
+Dialogue: 0,0:16:34.27,0:16:38.14,Default,Kire,0000,0000,0000,,Will you remain loyal to my master,
+Dialogue: 0,0:16:38.14,0:16:40.68,Default,Kire,0000,0000,0000,,and accuse me of having ulterior motives?
+Dialogue: 0,0:16:40.68,0:16:43.47,Default,Arch,0000,0000,0000,,Indeed, what to do...
+Dialogue: 0,0:16:43.47,0:16:45.61,Default,Arch,0000,0000,0000,,Ignoring his disloyalty,
+Dialogue: 0,0:16:45.61,0:16:49.18,Default,,0000,0000,0000,,Tokiomi remains my source of mana.
+Dialogue: 0,0:16:49.18,0:16:51.53,Default,Arch,0000,0000,0000,,Completely turning my back on my Master
+Dialogue: 0,0:16:51.53,0:16:53.82,Default,,0000,0000,0000,,would hamper my ability \Nto remain materialized.
+Dialogue: 0,0:16:54.57,0:16:57.00,Default,Arch,0000,0000,0000,,Oh... Of course,
+Dialogue: 0,0:16:57.00,0:16:59.67,Default,Arch,0000,0000,0000,,I seem to remember a free Master
+Dialogue: 0,0:16:59.67,0:17:04.16,Default,Arch,0000,0000,0000,,with Command Spells, searching for \Na Servant unbound by contract.
+Dialogue: 0,0:17:05.15,0:17:07.01,Default,Kire,0000,0000,0000,,I believe you're right.
+Dialogue: 0,0:17:07.84,0:17:10.18,Default,Kire,0000,0000,0000,,But I wonder if the King of Heroes
+Dialogue: 0,0:17:10.18,0:17:14.13,Default,,0000,0000,0000,,would deem him a worthy Master.
+Dialogue: 0,0:17:14.53,0:17:16.17,Default,Arch,0000,0000,0000,,He will suffice.
+Dialogue: 0,0:17:16.88,0:17:19.59,Default,Arch,0000,0000,0000,,He is somewhat stiff,
+Dialogue: 0,0:17:19.59,0:17:21.75,Default,Arch,0000,0000,0000,,but overall, I find him very promising.
+Dialogue: 0,0:17:22.30,0:17:26.53,Default,Arch,0000,0000,0000,,Perhaps he'll even manage to entertain me.
+Dialogue: 0,0:17:31.63,0:17:33.34,Default,Toki,0000,0000,0000,,I'm glad you came, Kirei.
+Dialogue: 0,0:17:33.34,0:17:37.32,Default,Kire,0000,0000,0000,,I couldn't leave Fuyuki without saying goodbye.
+Dialogue: 0,0:17:40.25,0:17:45.09,Default,Toki,0000,0000,0000,,I'm extremely proud to have \Nhad you as my disciple.
+Dialogue: 0,0:17:45.99,0:17:47.51,Default,Toki,0000,0000,0000,,In the years ahead,
+Dialogue: 0,0:17:47.51,0:17:50.00,Default,Toki,0000,0000,0000,,I hope that you, like your late father,
+Dialogue: 0,0:17:50.00,0:17:53.56,Default,Toki,0000,0000,0000,,will maintain close ties with the Tohsaka.
+Dialogue: 0,0:17:53.56,0:17:54.69,Default,Toki,0000,0000,0000,,Can I count on you?
+Dialogue: 0,0:17:55.51,0:17:57.59,Default,Kire,0000,0000,0000,,There is no need to ask.
+Dialogue: 0,0:17:57.59,0:18:01.43,Default,Toki,0000,0000,0000,,And when the Holy Grail War ends, Kirei,
+Dialogue: 0,0:18:01.43,0:18:05.29,Default,Toki,0000,0000,0000,,I would request that, as my senior student, \Nyou will help in Rin's education.
+Dialogue: 0,0:18:07.71,0:18:11.49,Default,Toki,0000,0000,0000,,This is brief, but consider it my will.
+Dialogue: 0,0:18:12.26,0:18:13.69,Default,Toki,0000,0000,0000,,Just in case.
+Dialogue: 0,0:18:13.69,0:18:16.24,Default,,0000,0000,0000,,It seemed best to prepare, \Neven for remote possibilities.
+Dialogue: 0,0:18:17.28,0:18:20.97,Default,Toki,0000,0000,0000,,It names Rin as successor to the Tohsaka Estate,
+Dialogue: 0,0:18:20.97,0:18:25.79,Default,Toki,0000,0000,0000,,and you as her guardian until \Nshe reaches adulthood.
+Dialogue: 0,0:18:27.24,0:18:28.75,Default,Kire,0000,0000,0000,,I will not let you down.
+Dialogue: 0,0:18:28.75,0:18:33.92,Default,Kire,0000,0000,0000,,I shall take full responsibility in \Nlooking after your daughter.
+Dialogue: 0,0:18:34.52,0:18:37.42,Default,Toki,0000,0000,0000,,Thank you, Kirei.
+Dialogue: 0,0:18:37.77,0:18:38.93,Default,Kire,0000,0000,0000,,What's this?
+Dialogue: 0,0:18:39.21,0:18:42.91,Default,Toki,0000,0000,0000,,A parting gift, from me to you.
+Dialogue: 0,0:18:43.43,0:18:44.57,Default,Toki,0000,0000,0000,,Open it.
+Dialogue: 0,0:18:48.21,0:18:50.19,Default,Toki,0000,0000,0000,,An Azoth dagger.
+Dialogue: 0,0:18:50.58,0:18:53.24,Default,Toki,0000,0000,0000,,Proof that you have mastered \Nthe Tohsaka family magic,
+Dialogue: 0,0:18:53.24,0:18:56.19,Default,Toki,0000,0000,0000,,and graduated from student \Nto full-fledged mage.
+Dialogue: 0,0:18:57.18,0:19:00.46,Default,Kire,0000,0000,0000,,I don't deserve such kindness.
+Dialogue: 0,0:19:00.81,0:19:04.70,Default,Kire,0000,0000,0000,,I cannot thank you enough, my master.
+Dialogue: 0,0:19:05.01,0:19:08.08,Default,Toki,0000,0000,0000,,It is I who should thank you, Kotomine Kirei.
+Dialogue: 0,0:19:08.78,0:19:12.74,Default,Toki,0000,0000,0000,,Now I can focus completely on the final battle.
+Dialogue: 0,0:19:14.83,0:19:16.92,Default,Toki,0000,0000,0000,,It's getting late.
+Dialogue: 0,0:19:18.07,0:19:20.34,Default,Toki,0000,0000,0000,,I apologize for keeping you so long.
+Dialogue: 0,0:19:22.90,0:19:25.76,Default,Toki,0000,0000,0000,,I hope you won't miss your flight.
+Dialogue: 0,0:19:32.81,0:19:33.94,Default,Kire,0000,0000,0000,,No...
+Dialogue: 0,0:19:35.36,0:19:38.98,Default,Kire,0000,0000,0000,,You needn't worry, my master.
+Dialogue: 0,0:19:47.29,0:19:51.23,Default,Kire,0000,0000,0000,,I never booked a flight.
+Dialogue: 0,0:20:06.43,0:20:07.43,Default,Kire,0000,0000,0000,,Master...
+Dialogue: 0,0:20:08.60,0:20:10.82,Default,Kire,0000,0000,0000,,Just like my father,
+Dialogue: 0,0:20:10.82,0:20:16.51,Default,Kire,0000,0000,0000,,you never truly understood me, \Neven at your end.
+Dialogue: 0,0:20:22.78,0:20:24.57,Default,Arch,0000,0000,0000,,What a tedious demise.
+Dialogue: 0,0:20:24.98,0:20:28.58,Default,Arch,0000,0000,0000,,Look at that ridiculous face.
+Dialogue: 0,0:20:28.58,0:20:32.92,Default,Kire,0000,0000,0000,,Well, he had a dematerialized \NServant by his side.
+Dialogue: 0,0:20:33.46,0:20:35.58,Default,Kire,0000,0000,0000,,Who can blame him \Nfor being taken by surprise?
+Dialogue: 0,0:20:35.58,0:20:39.04,Default,Arch,0000,0000,0000,,You're making jokes now, too?
+Dialogue: 0,0:20:39.04,0:20:42.09,Default,Arch,0000,0000,0000,,You impress me with your progress.
+Dialogue: 0,0:20:42.61,0:20:44.25,Default,Arch,0000,0000,0000,,Well, Kirei?
+Dialogue: 0,0:20:44.25,0:20:48.10,Default,Arch,0000,0000,0000,,Do you feel better about not \Ngetting to kill your father?
+Dialogue: 0,0:20:49.03,0:20:51.04,Default,Kire,0000,0000,0000,,You truly have no objections,
+Dialogue: 0,0:20:51.64,0:20:53.85,Default,Kire,0000,0000,0000,,Gilgamesh, King of Heroes?
+Dialogue: 0,0:20:54.48,0:20:58.54,Default,Arch,0000,0000,0000,,No, not as long as you keep my interest.
+Dialogue: 0,0:20:58.54,0:21:00.36,Default,Arch,0000,0000,0000,,Otherwise, Kirei,
+Dialogue: 0,0:21:01.10,0:21:04.99,Default,Arch,0000,0000,0000,,you're the one who will need \Nto prepare for death.
+Dialogue: 0,0:21:07.53,0:21:09.73,Default - italic,Kire,0000,0000,0000,,Thy body, born of my will.
+Dialogue: 0,0:21:09.73,0:21:12.04,Default - italic,Kire,0000,0000,0000,,My fate, resting on thy sword!
+Dialogue: 0,0:21:12.04,0:21:14.62,Default - italic,Kire,0000,0000,0000,,If thou wilt bend to my will, my justice,
+Dialogue: 0,0:21:14.62,0:21:16.88,Default - italic,Kire,0000,0000,0000,,heed the Grail's call...
+Dialogue: 0,0:21:17.30,0:21:18.62,Default - italic,Arch,0000,0000,0000,,I swear before you.
+Dialogue: 0,0:21:18.62,0:21:21.42,Default - italic,Arch,0000,0000,0000,,Thine offering shalt be my flesh and blood,
+Dialogue: 0,0:21:21.42,0:21:22.63,Default - italic,Arch,0000,0000,0000,,Kotomine Kirei.
+Dialogue: 0,0:21:23.09,0:21:24.97,Default - italic,Arch,0000,0000,0000,,My new Master.
+Dialogue: 0,0:21:28.21,0:21:31.34,Default,Arch,0000,0000,0000,,Shall we get started, Kirei?
+Dialogue: 0,0:21:31.82,0:21:33.64,Default,Arch,0000,0000,0000,,You may end this comedy
+Dialogue: 0,0:21:34.20,0:21:36.94,Default,Arch,0000,0000,0000,,at your own discretion.
+Dialogue: 0,0:21:36.94,0:21:39.02,Default,Arch,0000,0000,0000,,As a prize, I shall give you the Grail.
+Dialogue: 0,0:21:39.31,0:21:42.21,Default,Kire,0000,0000,0000,,As you like, King of Heroes.
+Dialogue: 0,0:21:42.21,0:21:44.65,Default,Kire,0000,0000,0000,,Please enjoy the show.
+Dialogue: 0,0:21:44.65,0:21:48.15,Default,Kire,0000,0000,0000,,Until I find my answer,
+Dialogue: 0,0:21:48.15,0:21:50.98,Default,Kire,0000,0000,0000,,I will gladly be your jester.
+Dialogue: 0,0:21:52.04,0:21:55.04,Title,Kire,0000,0000,0000,,Episode 17: \NThe Eighth Contract
+Dialogue: 0,0:23:25.78,0:23:28.60,Default,Girl,0000,0000,0000,,Kerry, what do you want to be \Nwhen you grow up?
+Dialogue: 0,0:23:28.60,0:23:30.73,Default,Man,0000,0000,0000,,Please don't go to that house.
+Dialogue: 0,0:23:30.73,0:23:32.14,Default,Boy,0000,0000,0000,,What is this?
+Dialogue: 0,0:23:32.14,0:23:34.00,Default,Boy2,0000,0000,0000,,From now on, you must decide for yourself.
+Dialogue: 0,0:23:34.00,0:23:35.68,Default,Man2,0000,0000,0000,,It's too early for you.
+Dialogue: 0,0:23:35.68,0:23:37.52,Default,Woman,0000,0000,0000,,Someday, you'll have the power
+Dialogue: 0,0:23:37.52,0:23:39.48,Default,Woman,0000,0000,0000,,to change the world.
+Dialogue: 0,0:23:37.52,0:23:40.01,Title,Woman,0000,0000,0000,,Next Time: \NDistant Memories

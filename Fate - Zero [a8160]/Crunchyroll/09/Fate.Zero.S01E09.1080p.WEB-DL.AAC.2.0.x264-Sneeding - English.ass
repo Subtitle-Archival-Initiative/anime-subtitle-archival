@@ -1,0 +1,348 @@
+﻿[Script Info]
+Title: English
+ScaledBorderAndShadow: yes
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Default - margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0005,0
+Style: Default - italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0020,0020,0015,0
+Style: Title,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,0
+Style: Sign9A,Georgia,26,&H00B7C6B8,&H000000FF,&H004F584E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.23,0:00:12.16,Default - italic,King,0000,0000,0000,,Fionn mac Cumhaill, hero of Aillen and \Nleader of the knights of Fianna,
+Dialogue: 0,0:00:12.16,0:00:17.16,Default - italic,King,0000,0000,0000,,is now formally betrothed to \Nmy daughter Gráinne.
+Dialogue: 0,0:00:17.51,0:00:21.62,Default - italic,King,0000,0000,0000,,My loyal subjects, let us celebrate!
+Dialogue: 0,0:00:22.68,0:00:25.25,Default - italic,Grain,0000,0000,0000,,That striking man with the mole \Nbeneath his eye...
+Dialogue: 0,0:00:25.25,0:00:27.29,Default - italic,Grain,0000,0000,0000,,What is his name?
+Dialogue: 0,0:00:28.59,0:00:32.38,Default - italic,Maid,0000,0000,0000,,He is a knight of Fianna, \NDiarmuid Ua Duibhne.
+Dialogue: 0,0:00:33.51,0:00:34.88,Default - italic,Grain,0000,0000,0000,,Diarmuid...
+Dialogue: 0,0:00:46.90,0:00:48.90,Default - italic,Fionn,0000,0000,0000,,Traitor...
+Dialogue: 0,0:00:48.90,0:00:50.75,Default - italic,Fionn,0000,0000,0000,,You will pay, Diarmuid!
+Dialogue: 0,0:00:51.48,0:00:52.78,Default - italic,Grain,0000,0000,0000,,Take me from here...
+Dialogue: 0,0:00:54.30,0:00:55.55,Default - italic,Grain,0000,0000,0000,,Let us run, together.
+Dialogue: 0,0:01:08.33,0:01:09.89,Default - italic,Lance,0000,0000,0000,,Rejoice, Gráinne!
+Dialogue: 0,0:01:09.89,0:01:12.23,Default - italic,Lance,0000,0000,0000,,Fionn has accepted our love!
+Dialogue: 0,0:01:20.21,0:01:23.77,Default - italic,Fionn,0000,0000,0000,,You thought I'd forgiven you \Nfor stealing Gráinne away?
+Dialogue: 0,0:01:29.84,0:01:31.37,Default,Kaye,0000,0000,0000,,A dream?
+Dialogue: 0,0:03:02.92,0:03:05.06,Default,Kaye,0000,0000,0000,,That dream was...
+Dialogue: 0,0:03:05.68,0:03:08.26,Default,Kaye,0000,0000,0000,,It was Diarmuid's legend.
+Dialogue: 0,0:03:09.21,0:03:11.92,Default,Kaye,0000,0000,0000,,My Servant's memories?
+Dialogue: 0,0:03:16.03,0:03:17.94,Default,Kaye,0000,0000,0000,,Where am I?
+Dialogue: 0,0:03:19.60,0:03:21.43,Default,Sola,0000,0000,0000,,You're awake.
+Dialogue: 0,0:03:26.21,0:03:27.65,Default,Kaye,0000,0000,0000,,Sola-Ui...
+Dialogue: 0,0:03:28.70,0:03:30.31,Default,Kaye,0000,0000,0000,,What is this?
+Dialogue: 0,0:03:31.17,0:03:33.31,Default,,0000,0000,0000,,What am I doing here?
+Dialogue: 0,0:03:35.16,0:03:38.97,Default,Sola,0000,0000,0000,,You remember nothing, do you?
+Dialogue: 0,0:03:40.22,0:03:41.70,Default,Kaye,0000,0000,0000,,I...
+Dialogue: 0,0:03:42.13,0:03:43.11,Default,Kaye,0000,0000,0000,,I was shot.
+Dialogue: 0,0:03:43.65,0:03:47.99,Default,Kaye,0000,0000,0000,,I remember defending myself with \NVolumen Hydragram, but...
+Dialogue: 0,0:03:49.28,0:03:51.79,Default,Kaye,0000,0000,0000,,What's happened to me?
+Dialogue: 0,0:03:52.12,0:03:55.93,Default,Sola,0000,0000,0000,,Apparently, every Magic Circuit in \Nyour body has shorted out.
+Dialogue: 0,0:03:56.31,0:03:58.30,Default,Sola,0000,0000,0000,,It's a miracle you weren't \Nkilled instantly.
+Dialogue: 0,0:04:00.10,0:04:03.59,Default,Sola,0000,0000,0000,,I was able to save your \Ninternal organs, but that's all.
+Dialogue: 0,0:04:07.42,0:04:10.10,Default,Sola,0000,0000,0000,,Your Magic Circuits were destroyed.
+Dialogue: 0,0:04:10.49,0:04:13.60,Default,Sola,0000,0000,0000,,You'll never cast a spell again.
+Dialogue: 0,0:04:15.91,0:04:19.98,Default,Kaye,0000,0000,0000,,I... I...
+Dialogue: 0,0:04:21.44,0:04:23.49,Default,Sola,0000,0000,0000,,Don't cry, Kayneth.
+Dialogue: 0,0:04:24.93,0:04:27.20,Default,Sola,0000,0000,0000,,It's too early to give up.
+Dialogue: 0,0:04:28.20,0:04:31.52,Default,Sola,0000,0000,0000,,We haven't been defeated yet.
+Dialogue: 0,0:04:32.54,0:04:34.00,Default,Kaye,0000,0000,0000,,Sola-Ui...
+Dialogue: 0,0:04:34.61,0:04:37.89,Default,Sola,0000,0000,0000,,If the Holy Grail can truly grant \Nwishes with its omnipotence,
+Dialogue: 0,0:04:37.89,0:04:43.10,Default,Sola,0000,0000,0000,,full restoration of your body is sure \Nto be well within its ability.
+Dialogue: 0,0:04:43.10,0:04:45.27,Default,Sola,0000,0000,0000,,We merely need to win.
+Dialogue: 0,0:04:45.27,0:04:47.86,Default,Sola,0000,0000,0000,,If we are victorious \N and claim the Grail,
+Dialogue: 0,0:04:47.86,0:04:50.14,Default,,0000,0000,0000,,everything will return to normal.
+Dialogue: 0,0:04:50.78,0:04:54.18,Default,Sola,0000,0000,0000,,So... My dear Kayneth?
+Dialogue: 0,0:04:55.16,0:04:58.15,Default,Sola,0000,0000,0000,,Please give me your Command Spells...
+Dialogue: 0,0:04:58.15,0:05:01.65,Default,Sola,0000,0000,0000,,I'll stand in for you, as Lancer's Master,
+Dialogue: 0,0:05:02.45,0:05:04.90,Default,Sola,0000,0000,0000,,to bring you the Holy Grail.
+Dialogue: 0,0:05:04.90,0:05:07.41,Default,Kaye,0000,0000,0000,,N-No!
+Dialogue: 0,0:05:07.41,0:05:09.94,Default,Sola,0000,0000,0000,,Don't you trust me?
+Dialogue: 0,0:05:10.59,0:05:13.29,Default,Sola,0000,0000,0000,,The woman who would marry into \Nthe Archibald family?
+Dialogue: 0,0:05:13.97,0:05:16.04,Default,Kaye,0000,0000,0000,,I do, but...
+Dialogue: 0,0:05:18.75,0:05:20.27,Default,Kaye,0000,0000,0000,,Sola-Ui,
+Dialogue: 0,0:05:20.74,0:05:23.01,Default,Kaye,0000,0000,0000,,do you believe that Lancer
+Dialogue: 0,0:05:23.49,0:05:28.85,Default,Kaye,0000,0000,0000,,will swear his allegiance to you\Ninstead of me?
+Dialogue: 0,0:05:28.85,0:05:29.75,Default,Sola,0000,0000,0000,,Yes.
+Dialogue: 0,0:05:29.75,0:05:33.00,Default,Sola,0000,0000,0000,,He is a Heroic Spirit who responded \Nto the Holy Grail's invitation.
+Dialogue: 0,0:05:33.65,0:05:37.47,Default,Sola,0000,0000,0000,,He desires the Grail, just as we do.
+Dialogue: 0,0:05:37.47,0:05:40.57,Default,Sola,0000,0000,0000,,I'd expect even a change in Masters \Nwould be acceptable,
+Dialogue: 0,0:05:40.57,0:05:43.15,Default,,0000,0000,0000,,if it will bring him closer to his goal.
+Dialogue: 0,0:05:43.15,0:05:44.15,Default,Kaye,0000,0000,0000,,Sola-Ui!
+Dialogue: 0,0:05:44.69,0:05:47.78,Default,Kaye,0000,0000,0000,,Lancer isn't as admirable as he seems!
+Dialogue: 0,0:05:48.33,0:05:50.16,Default,Sola,0000,0000,0000,,Why would you say a thing like that?
+Dialogue: 0,0:05:50.16,0:05:53.30,Default,Kaye,0000,0000,0000,,When I asked him of his wish,
+Dialogue: 0,0:05:53.30,0:05:57.41,Default,Kaye,0000,0000,0000,,he told me, "I have no interest \Nin the Holy Grail."
+Dialogue: 0,0:05:57.99,0:06:01.28,Default,Kaye,0000,0000,0000,,A Servant who cares nothing \Nfor the Grail is impossible.
+Dialogue: 0,0:06:01.28,0:06:03.99,Default,Kaye,0000,0000,0000,,He is hiding his true intentions.
+Dialogue: 0,0:06:03.99,0:06:07.40,Default,Kaye,0000,0000,0000,,But whatever he's trying to conceal,
+Dialogue: 0,0:06:07.40,0:06:09.43,Default,Kaye,0000,0000,0000,,so long as I have these Command Spells,
+Dialogue: 0,0:06:09.43,0:06:11.57,Default,Kaye,0000,0000,0000,,he must obey.
+Dialogue: 0,0:06:11.57,0:06:12.84,Default,Sola,0000,0000,0000,,Kayneth...
+Dialogue: 0,0:06:13.56,0:06:16.56,Default,Kaye,0000,0000,0000,,I won't give them up...
+Dialogue: 0,0:06:19.75,0:06:22.76,Default,Sola,0000,0000,0000,,Kayneth, you don't seem to realize...
+Dialogue: 0,0:06:23.35,0:06:27.47,Default,Sola,0000,0000,0000,,That we must win, no matter the cost.
+Dialogue: 0,0:06:47.70,0:06:49.47,Default,Sola,0000,0000,0000,,You see, Kayneth...
+Dialogue: 0,0:06:50.06,0:06:53.08,Default,Sola,0000,0000,0000,,My spiritual healing ability
+Dialogue: 0,0:06:53.08,0:06:57.22,Default,Sola,0000,0000,0000,,cannot forcefully remove those \NCommand Spells from you.
+Dialogue: 0,0:06:57.75,0:06:59.60,Default,Sola,0000,0000,0000,,Only through your willing agreement
+Dialogue: 0,0:06:59.60,0:07:02.60,Default,Sola,0000,0000,0000,,may I take them without resistance.
+Dialogue: 0,0:07:02.60,0:07:06.61,Default,Sola,0000,0000,0000,,If you continue to categorically refuse, \NI'll have no choice
+Dialogue: 0,0:07:07.01,0:07:09.75,Default,Sola,0000,0000,0000,,but to remove your right arm.
+Dialogue: 0,0:07:09.75,0:07:11.11,Default,Sola,0000,0000,0000,,So?
+Dialogue: 0,0:07:23.56,0:07:24.57,Default,Saber,0000,0000,0000,,Irisviel?
+Dialogue: 0,0:07:24.57,0:07:26.38,Default,Iri,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:07:26.38,0:07:29.76,Default,Iri,0000,0000,0000,,Magical healing takes quite \Na toll on the target.
+Dialogue: 0,0:07:30.18,0:07:33.76,Default,Iri,0000,0000,0000,,It will be a while before she \Nregains consciousness.
+Dialogue: 0,0:07:35.45,0:07:37.46,Default,Iri,0000,0000,0000,,Could you keep an eye \Non her for me?
+Dialogue: 0,0:07:38.67,0:07:40.24,Default,Saber,0000,0000,0000,,Are you going to report to Kiritsugu?
+Dialogue: 0,0:07:41.35,0:07:44.02,Default,Iri,0000,0000,0000,,I'm sure he's worried, too.
+Dialogue: 0,0:07:44.46,0:07:47.02,Default,Saber,0000,0000,0000,,Irisviel, I have a request.
+Dialogue: 0,0:07:47.97,0:07:50.53,Default,Saber,0000,0000,0000,,Please tell Kiritsugu something...
+Dialogue: 0,0:07:51.17,0:07:53.64,Default,Saber,0000,0000,0000,,Please urge him to prioritize \NCaster's elimination.
+Dialogue: 0,0:07:55.20,0:07:56.99,Default,Iri,0000,0000,0000,,Saber...
+Dialogue: 0,0:07:57.42,0:08:00.03,Default,Saber,0000,0000,0000,,If he's allowed free reign,
+Dialogue: 0,0:08:00.03,0:08:02.04,Default,Saber,0000,0000,0000,,more innocent children \Nwill be murdered.
+Dialogue: 0,0:08:06.15,0:08:07.37,Default,Iri,0000,0000,0000,,Kiritsugu?
+Dialogue: 0,0:08:13.93,0:08:16.30,Default,Kiri,0000,0000,0000,,How long until we can use Maiya?
+Dialogue: 0,0:08:16.84,0:08:20.56,Default,Iri,0000,0000,0000,,She won't be able to move for a day or two.
+Dialogue: 0,0:08:21.03,0:08:22.03,Default,Kiri,0000,0000,0000,,I see.
+Dialogue: 0,0:08:23.71,0:08:26.07,Default,Kiri,0000,0000,0000,,You and Saber stand by here.
+Dialogue: 0,0:08:26.83,0:08:28.94,Default,Kiri,0000,0000,0000,,I'm going to finish off Kayneth.
+Dialogue: 0,0:08:30.58,0:08:31.82,Default,Iri,0000,0000,0000,,Wait, Kiritsugu!
+Dialogue: 0,0:08:32.34,0:08:36.69,Default,Kiri,0000,0000,0000,,Did Saber argue that we \Nshould deal with Caster immediately?
+Dialogue: 0,0:08:36.72,0:08:37.66,Default,Iri,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:38.19,0:08:39.17,Default,Kiri,0000,0000,0000,,I thought so.
+Dialogue: 0,0:08:39.99,0:08:44.21,Default,Iri,0000,0000,0000,,Are you mad at Saber for \Nletting Lancer go?
+Dialogue: 0,0:08:45.57,0:08:46.31,Default,Kiri,0000,0000,0000,,Iri...
+Dialogue: 0,0:08:47.12,0:08:48.71,Default,Kiri,0000,0000,0000,,Saving a few children,
+Dialogue: 0,0:08:48.71,0:08:51.27,Default,Kiri,0000,0000,0000,,or even a few dozen,
+Dialogue: 0,0:08:51.27,0:08:52.97,Default,Kiri,0000,0000,0000,,is not our priority.
+Dialogue: 0,0:08:53.46,0:08:57.44,Default,Kiri,0000,0000,0000,,Saber trusted Lancer not to kill me,
+Dialogue: 0,0:08:58.22,0:09:00.76,Default,Kiri,0000,0000,0000,,but what if he had betrayed his word?
+Dialogue: 0,0:09:01.51,0:09:04.35,Default,Kiri,0000,0000,0000,,Our Holy Grail War would \Nhave ended there.
+Dialogue: 0,0:09:07.03,0:09:09.74,Default,Kiri,0000,0000,0000,,Don't tell her where I'm going, either.
+Dialogue: 0,0:09:15.36,0:09:16.35,Default,Sola,0000,0000,0000,,Lancer?
+Dialogue: 0,0:09:16.95,0:09:18.37,Default,Sola,0000,0000,0000,,Please come out here.
+Dialogue: 0,0:09:23.59,0:09:26.58,Default,Lance,0000,0000,0000,,Lady Sola-Ui, how is Lord Kayneth's condition?
+Dialogue: 0,0:09:27.85,0:09:29.47,Default,Sola,0000,0000,0000,,It's very serious...
+Dialogue: 0,0:09:30.24,0:09:32.88,Default,Sola,0000,0000,0000,,I've done all I can for him, but...
+Dialogue: 0,0:09:35.38,0:09:37.78,Default,Sola,0000,0000,0000,,Don't blame yourself!
+Dialogue: 0,0:09:37.78,0:09:39.68,Default,Sola,0000,0000,0000,,It's Kayneth's fault!
+Dialogue: 0,0:09:40.16,0:09:45.04,Default,Sola,0000,0000,0000,,All it means is that he couldn't \Nhandle the Grail War.
+Dialogue: 0,0:09:45.04,0:09:46.72,Default,Sola,0000,0000,0000,,No, but...
+Dialogue: 0,0:09:48.86,0:09:52.90,Default,Sola,0000,0000,0000,,He simply isn't a suitable Master \Nfor you, Diarmuid.
+Dialogue: 0,0:09:58.94,0:10:01.20,Default,Sola,0000,0000,0000,,Kayneth has retired from this War,
+Dialogue: 0,0:10:01.20,0:10:03.74,Default,,0000,0000,0000,,transferring his authority, \Nas Master, to me!
+Dialogue: 0,0:10:07.54,0:10:11.98,Default,Lance,0000,0000,0000,,I've sworn my fealty as a knight \Nto Lord Kayneth.
+Dialogue: 0,0:10:13.25,0:10:17.38,Default,Lance,0000,0000,0000,,Lady Sola-Ui, I cannot agree to that.
+Dialogue: 0,0:10:17.38,0:10:18.64,Default,Sola,0000,0000,0000,,What?
+Dialogue: 0,0:10:18.64,0:10:20.12,Default,Sola,0000,0000,0000,,But as a Servant,
+Dialogue: 0,0:10:20.12,0:10:23.44,Default,,0000,0000,0000,,is it not my mana that maintains \Nyour physical form?
+Dialogue: 0,0:10:23.44,0:10:27.02,Default,Sola,0000,0000,0000,,And I even have his \NCommand Spells now!
+Dialogue: 0,0:10:27.42,0:10:31.37,Default,Lance,0000,0000,0000,,Before I am a Servant, I am a knight.
+Dialogue: 0,0:10:31.87,0:10:35.53,Default,Lance,0000,0000,0000,,I can only serve one lord.
+Dialogue: 0,0:10:35.53,0:10:38.34,Default,Sola,0000,0000,0000,,So I'm not worthy to be your Master?
+Dialogue: 0,0:10:38.34,0:10:40.55,Default,Lance,0000,0000,0000,,That isn't what I'm saying...
+Dialogue: 0,0:10:40.55,0:10:42.53,Default,Sola,0000,0000,0000,,Look me in the eye when \Nyou address me!
+Dialogue: 0,0:10:48.58,0:10:50.06,Default,Sola,0000,0000,0000,,Lancer...
+Dialogue: 0,0:10:50.06,0:10:53.67,Default,Sola,0000,0000,0000,,Fight with me, and protect me!
+Dialogue: 0,0:10:54.21,0:10:58.67,Default,Sola,0000,0000,0000,,Support me, and we'll claim \Nthe Holy Grail together!
+Dialogue: 0,0:10:59.90,0:11:00.80,Default,Lance,0000,0000,0000,,I cannot.
+Dialogue: 0,0:11:02.59,0:11:05.58,Default,Lance,0000,0000,0000,,If Lord Kayneth has truly withdrawn,
+Dialogue: 0,0:11:05.58,0:11:08.13,Default,Lance,0000,0000,0000,,I shall no longer seek the Grail.
+Dialogue: 0,0:11:10.64,0:11:14.71,Default,Sola,0000,0000,0000,,A miracle is his only chance \Nto be healed!
+Dialogue: 0,0:11:15.27,0:11:18.28,Default,Sola,0000,0000,0000,,And the Grail is the single way to \Nbring about that miracle.
+Dialogue: 0,0:11:18.75,0:11:21.62,Default,Sola,0000,0000,0000,,If you feel regret over his condition...
+Dialogue: 0,0:11:22.06,0:11:25.53,Default,Sola,0000,0000,0000,,If you would restore Lord El-Melloi \Nto his former stature...
+Dialogue: 0,0:11:25.83,0:11:29.04,Default,Sola,0000,0000,0000,,Then you must deliver the Grail \Nto your Master!
+Dialogue: 0,0:11:31.84,0:11:33.19,Default,Lance,0000,0000,0000,,Lady Sola-Ui,
+Dialogue: 0,0:11:33.19,0:11:35.83,Default,Lance,0000,0000,0000,,you, as Lord Kayneth's partner,
+Dialogue: 0,0:11:35.83,0:11:39.28,Default,Lance,0000,0000,0000,,seek the Grail solely to save him?
+Dialogue: 0,0:11:39.28,0:11:41.22,Default,Lance,0000,0000,0000,,Correct?
+Dialogue: 0,0:11:41.62,0:11:43.16,Default,Sola,0000,0000,0000,,Y-Yes...
+Dialogue: 0,0:11:43.16,0:11:44.47,Default,Sola,0000,0000,0000,,Of course!
+Dialogue: 0,0:11:45.02,0:11:47.06,Default,Lance,0000,0000,0000,,Then will you swear to it?
+Dialogue: 0,0:11:47.06,0:11:48.47,Default,Lance,0000,0000,0000,,You have no other motive?
+Dialogue: 0,0:11:49.90,0:11:51.30,Default,Sola,0000,0000,0000,,I swear...
+Dialogue: 0,0:11:51.30,0:11:54.58,Default,Sola,0000,0000,0000,,As Kayneth El-Melloi's wife,
+Dialogue: 0,0:11:54.58,0:11:56.98,Default,,0000,0000,0000,,I shall bring the Grail to him.
+Dialogue: 0,0:12:06.18,0:12:07.87,Default,Lance,0000,0000,0000,,{\i1}She has the same look in her eyes
+Dialogue: 0,0:12:09.49,0:12:11.36,Default,Lance,0000,0000,0000,,{\i1}that Gráinne did.
+Dialogue: 0,0:12:15.25,0:12:17.38,Default,Lance,0000,0000,0000,,{\i1}I bear no grudge against anyone.
+Dialogue: 0,0:12:17.38,0:12:18.80,Default,Lance,0000,0000,0000,,{\i1}However,
+Dialogue: 0,0:12:18.80,0:12:22.88,Default,Lance,0000,0000,0000,,{\i1}fate has truly treated me unkindly.
+Dialogue: 0,0:12:25.55,0:12:27.68,Default,Lance,0000,0000,0000,,{\i1}In this era, my wish is but to
+Dialogue: 0,0:12:27.68,0:12:30.39,Default,Lance,0000,0000,0000,,{\i1}tread the path of loyalty I was \Nunable to hold to before.
+Dialogue: 0,0:12:31.84,0:12:34.54,Default,Lance,0000,0000,0000,,{\i1}I do not wish to repeat that pain.
+Dialogue: 0,0:12:34.54,0:12:35.40,Default,Lance,0000,0000,0000,,{\i1}But...
+Dialogue: 0,0:12:45.22,0:12:46.13,Default,Waver,0000,0000,0000,,Er...
+Dialogue: 0,0:12:47.94,0:12:51.41,Default,Glenn,0000,0000,0000,,Quite a drinker, eh?
+Dialogue: 0,0:12:52.08,0:12:54.42,Default,Rider,0000,0000,0000,,Ah, many thanks!
+Dialogue: 0,0:12:54.42,0:12:58.65,Default,Martha,0000,0000,0000,,You should have told us you were \N bringing a guest!
+Dialogue: 0,0:12:58.65,0:13:00.71,Default,Rider,0000,0000,0000,,Oh, I wouldn't have it any \Nother way, ma'am.
+Dialogue: 0,0:13:00.71,0:13:04.79,Default,Rider,0000,0000,0000,,A simple, home-cooked meal is the greatest form hospitality.
+Dialogue: 0,0:13:04.79,0:13:07.47,Default,Martha,0000,0000,0000,,Such flattery!
+Dialogue: 0,0:13:10.47,0:13:12.35,Default,Waver,0000,0000,0000,,I told you...
+Dialogue: 0,0:13:12.61,0:13:14.60,Default,Waver,0000,0000,0000,,to dematerialize...
+Dialogue: 0,0:13:14.92,0:13:16.64,Default,Waver,0000,0000,0000,,when you come and go!
+Dialogue: 0,0:13:16.64,0:13:20.15,Default,Rider,0000,0000,0000,,But then I wouldn't have been \Nable to carry this.
+Dialogue: 0,0:13:20.15,0:13:23.44,Default,Rider,0000,0000,0000,,To do so, I also obtained \Nthis fine pair of pants.
+Dialogue: 0,0:13:23.82,0:13:27.66,Default,Rider,0000,0000,0000,,Besides, boy, you were the one \Nwho ordered me to go.
+Dialogue: 0,0:13:31.00,0:13:33.13,Default,Rider,0000,0000,0000,,And why should the King of Conquerors
+Dialogue: 0,0:13:33.13,0:13:37.05,Default,,0000,0000,0000,,need to fetch water from a \Ncommon country river?
+Dialogue: 0,0:13:37.05,0:13:39.55,Default,Waver,0000,0000,0000,,Because it's more useful than sitting around,
+Dialogue: 0,0:13:39.55,0:13:41.63,Default,,0000,0000,0000,,stuffing your face and watching TV.
+Dialogue: 0,0:13:48.33,0:13:49.35,Default,Rider,0000,0000,0000,,What's this?
+Dialogue: 0,0:13:49.35,0:13:51.10,Default,Rider,0000,0000,0000,,Pretend alchemy?
+Dialogue: 0,0:13:51.10,0:13:52.63,Default,Waver,0000,0000,0000,,Not pretend alchemy.
+Dialogue: 0,0:13:52.63,0:13:54.85,Default,Waver,0000,0000,0000,,It's actual alchemy, dummy.
+Dialogue: 0,0:13:57.58,0:13:59.88,Default,Rider,0000,0000,0000,,So what's that?
+Dialogue: 0,0:13:59.88,0:14:01.84,Default,Waver,0000,0000,0000,,Spell casting residue.
+Dialogue: 0,0:14:01.84,0:14:04.36,Default,Waver,0000,0000,0000,,Basically, the traces of magic \Nthat remain in the water.
+Dialogue: 0,0:14:04.71,0:14:06.47,Default,Waver,0000,0000,0000,,It indicates that someone
+Dialogue: 0,0:14:06.47,0:14:09.62,Default,,0000,0000,0000,,was using magic near the river's mouth.
+Dialogue: 0,0:14:09.62,0:14:11.40,Default,Waver,0000,0000,0000,,If we follow this trail,
+Dialogue: 0,0:14:11.40,0:14:14.37,Default,Waver,0000,0000,0000,,we might find some clues.
+Dialogue: 0,0:14:15.15,0:14:18.73,Default,Rider,0000,0000,0000,,Boy, did you know from the start \Nthat you'd find something
+Dialogue: 0,0:14:18.73,0:14:20.53,Default,,0000,0000,0000,,like that in the water?
+Dialogue: 0,0:14:20.53,0:14:21.38,Default,Waver,0000,0000,0000,,Of course not.
+Dialogue: 0,0:14:22.01,0:14:25.38,Default,Waver,0000,0000,0000,,But the river cuts right through \Nthe city center.
+Dialogue: 0,0:14:25.72,0:14:28.63,Default,Waver,0000,0000,0000,,It was the obvious place to start.
+Dialogue: 0,0:14:36.11,0:14:37.06,Default,Waver,0000,0000,0000,,Rider.
+Dialogue: 0,0:14:37.46,0:14:40.60,Default,Waver,0000,0000,0000,,Did you notice anything between \Nthese two points?
+Dialogue: 0,0:14:41.00,0:14:44.29,Default,Waver,0000,0000,0000,,Like a drainage pipe or an \Nirrigation channel?
+Dialogue: 0,0:14:44.29,0:14:45.08,Default,Rider,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:45.08,0:14:47.49,Default,Rider,0000,0000,0000,,I saw a large one around there.
+Dialogue: 0,0:14:47.98,0:14:49.24,Default,Waver,0000,0000,0000,,That's it.
+Dialogue: 0,0:14:49.24,0:14:51.38,Default,Waver,0000,0000,0000,,If we follow it, it'll probably take us
+Dialogue: 0,0:14:51.38,0:14:53.12,Default,,0000,0000,0000,,straight to Caster's laboratory.
+Dialogue: 0,0:14:54.29,0:14:56.57,Default,Rider,0000,0000,0000,,Boy, could you actually be
+Dialogue: 0,0:14:56.57,0:14:59.70,Default,,0000,0000,0000,,an incredibly talented mage?
+Dialogue: 0,0:14:59.70,0:15:02.86,Default,Waver,0000,0000,0000,,This isn't the method a talented \Nmage would use.
+Dialogue: 0,0:15:03.49,0:15:06.17,Default,Waver,0000,0000,0000,,It's probably the simplest possible way.
+Dialogue: 0,0:15:06.17,0:15:08.92,Default,Waver,0000,0000,0000,,You're mocking me, aren't you?
+Dialogue: 0,0:15:09.43,0:15:11.20,Default,Rider,0000,0000,0000,,Certainly not!
+Dialogue: 0,0:15:11.20,0:15:13.82,Default,Rider,0000,0000,0000,,It's a much greater accomplishment\N to achieve your ends through simple means.
+Dialogue: 0,0:15:13.82,0:15:18.14,Default,Rider,0000,0000,0000,,rather than starting with a grand plan.
+Dialogue: 0,0:15:18.70,0:15:21.15,Default,Rider,0000,0000,0000,,As your Servant, I'm filled with pride!
+Dialogue: 0,0:15:21.51,0:15:22.84,Default,Rider,0000,0000,0000,,Okay...
+Dialogue: 0,0:15:22.84,0:15:25.52,Default,Rider,0000,0000,0000,,If we can but locate him, \Nvictory will be ours.
+Dialogue: 0,0:15:25.87,0:15:29.00,Default,Rider,0000,0000,0000,,What say we go and give him \Na good thrashing, boy?
+Dialogue: 0,0:15:31.12,0:15:32.48,Default,Waver,0000,0000,0000,,Hold on.
+Dialogue: 0,0:15:32.48,0:15:34.29,Default,Waver,0000,0000,0000,,We're fighting Caster, remember?
+Dialogue: 0,0:15:34.83,0:15:35.71,Default,Rider,0000,0000,0000,,I know.
+Dialogue: 0,0:15:35.71,0:15:36.70,Default,Waver,0000,0000,0000,,You don't know!
+Dialogue: 0,0:15:37.24,0:15:39.28,Default,Waver,0000,0000,0000,,He'll have every advantage
+Dialogue: 0,0:15:39.28,0:15:41.96,Default,,0000,0000,0000,,when it comes to defending his territory.
+Dialogue: 0,0:15:42.36,0:15:45.65,Default,Waver,0000,0000,0000,,What kind of idiot would just \Ncharge straight in?
+Dialogue: 0,0:15:46.91,0:15:48.03,Default,Rider,0000,0000,0000,,Listen...
+Dialogue: 0,0:15:48.03,0:15:52.93,Default,Rider,0000,0000,0000,,In war, control over territory may \Nshift at any moment.
+Dialogue: 0,0:15:53.56,0:15:56.85,Default,Rider,0000,0000,0000,,If you do not strike at your opponents\N the moment you locate them,
+Dialogue: 0,0:15:56.85,0:16:00.27,Default,Rider,0000,0000,0000,,you will regret your inaction if they escape.
+Dialogue: 0,0:16:00.27,0:16:03.48,Default,Waver,0000,0000,0000,,Why are you so pumped up today?
+Dialogue: 0,0:16:03.48,0:16:05.13,Default,Rider,0000,0000,0000,,Why do you think?
+Dialogue: 0,0:16:05.13,0:16:09.49,Default,Rider,0000,0000,0000,,My Master has finally accomplished \Nsomething worthwhile.
+Dialogue: 0,0:16:09.49,0:16:11.18,Default,Rider,0000,0000,0000,,As his Servant,
+Dialogue: 0,0:16:11.18,0:16:13.82,Default,Rider,0000,0000,0000,,it spurs me further onward,
+Dialogue: 0,0:16:13.82,0:16:17.03,Default,Rider,0000,0000,0000,,to go forth and retrieve \Nthe enemy's head!
+Dialogue: 0,0:16:18.02,0:16:21.75,Default,Rider,0000,0000,0000,,Do not give up when \Nwe've yet to start.
+Dialogue: 0,0:16:22.13,0:16:25.24,Default,Rider,0000,0000,0000,,At any rate, what say you \Nto simply venturing in?
+Dialogue: 0,0:16:25.24,0:16:28.09,Default,Rider,0000,0000,0000,,It may pay off in ways you \Ncannot yet conceive.
+Dialogue: 0,0:16:32.55,0:16:34.35,Default,Rider,0000,0000,0000,,Here it is!
+Dialogue: 0,0:16:34.35,0:16:36.26,Default,Rider,0000,0000,0000,,See, this pays off already!
+Dialogue: 0,0:16:43.75,0:16:44.47,Default,Rider,0000,0000,0000,,Bah...
+Dialogue: 0,0:16:44.47,0:16:47.03,Default,Rider,0000,0000,0000,,Unfortunately, Caster's not at home.
+Dialogue: 0,0:16:50.06,0:16:52.61,Default,Waver,0000,0000,0000,,Is this some kind of water storage?
+Dialogue: 0,0:16:53.08,0:16:54.81,Default,Rider,0000,0000,0000,,Ah, boy...
+Dialogue: 0,0:16:54.81,0:16:57.62,Default,Rider,0000,0000,0000,,I think it's better if you don't see this.
+Dialogue: 0,0:16:57.62,0:16:59.13,Default,Waver,0000,0000,0000,,Are you kidding me?
+Dialogue: 0,0:16:59.13,0:17:00.58,Default,Waver,0000,0000,0000,,If Caster isn't here,
+Dialogue: 0,0:17:00.58,0:17:03.18,Default,Waver,0000,0000,0000,,we should at least look for clues \Nto where he went,
+Dialogue: 0,0:17:03.18,0:17:04.29,Default,Waver,0000,0000,0000,,or we'll never find him.
+Dialogue: 0,0:17:04.91,0:17:08.07,Default,Rider,0000,0000,0000,,That may be so, but don't do it.
+Dialogue: 0,0:17:08.07,0:17:10.97,Default,Rider,0000,0000,0000,,This is too much for you.
+Dialogue: 0,0:17:10.97,0:17:12.27,Default,Waver,0000,0000,0000,,Shut up.
+Dialogue: 0,0:17:44.10,0:17:48.39,Default,Rider,0000,0000,0000,,I did try to warn you.
+Dialogue: 0,0:17:48.39,0:17:49.38,Default,Waver,0000,0000,0000,,Shut up!
+Dialogue: 0,0:17:49.72,0:17:52.77,Default,Waver,0000,0000,0000,,Damn it, don't make fun of me...
+Dialogue: 0,0:17:53.22,0:17:54.22,Default,Waver,0000,0000,0000,,Damn it...
+Dialogue: 0,0:17:55.02,0:17:58.47,Default,Rider,0000,0000,0000,,This is no time for stoicism, fool.
+Dialogue: 0,0:17:58.47,0:18:00.35,Default,Rider,0000,0000,0000,,Well, this is right...
+Dialogue: 0,0:18:01.23,0:18:05.10,Default,Rider,0000,0000,0000,,I'd pummel any man who \Ncould look upon this
+Dialogue: 0,0:18:05.10,0:18:07.23,Default,Rider,0000,0000,0000,,without flinching.
+Dialogue: 0,0:18:07.23,0:18:10.93,Default,Waver,0000,0000,0000,,Pummeling who exactly?
+Dialogue: 0,0:18:11.50,0:18:13.14,Default,Waver,0000,0000,0000,,You, yourself,
+Dialogue: 0,0:18:13.14,0:18:16.67,Default,Waver,0000,0000,0000,,appear perfectly calm!
+Dialogue: 0,0:18:17.92,0:18:19.14,Default,Rider,0000,0000,0000,,Trust me...
+Dialogue: 0,0:18:19.14,0:18:22.02,Default,Rider,0000,0000,0000,,This is no time to be emotional.
+Dialogue: 0,0:18:28.38,0:18:32.38,Default,Rider,0000,0000,0000,,It's because my Master is in danger!
+Dialogue: 0,0:18:33.95,0:18:34.79,Default,Waver,0000,0000,0000,,Assassin?
+Dialogue: 0,0:18:35.27,0:18:36.55,Default,Waver,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:18:37.03,0:18:40.02,Default,Waver,0000,0000,0000,,Assassin's already dead.
+Dialogue: 0,0:18:41.29,0:18:43.76,Default,Rider,0000,0000,0000,,There isn't time for surprise, boy.
+Dialogue: 0,0:19:01.10,0:19:02.06,Default,Waver,0000,0000,0000,,H-How?
+Dialogue: 0,0:19:02.52,0:19:06.08,Default,Rider,0000,0000,0000,,The how of it matters not to us.
+Dialogue: 0,0:19:06.45,0:19:09.04,Default,Rider,0000,0000,0000,,There is one thing we know for sure.
+Dialogue: 0,0:19:09.04,0:19:11.65,Default,Rider,0000,0000,0000,,Any who believed Assassin was dead
+Dialogue: 0,0:19:11.65,0:19:14.59,Default,,0000,0000,0000,,has been gravely fooled...
+Dialogue: 0,0:19:20.23,0:19:21.57,Default,Waver,0000,0000,0000,,They ran...
+Dialogue: 0,0:19:21.57,0:19:22.60,Default,Waver,0000,0000,0000,,Didn't they?
+Dialogue: 0,0:19:23.13,0:19:24.90,Default,Rider,0000,0000,0000,,Do not relax your guard.
+Dialogue: 0,0:19:24.90,0:19:27.57,Default,Rider,0000,0000,0000,,Two have fallen, but at least two remain.
+Dialogue: 0,0:19:28.64,0:19:32.04,Default,Rider,0000,0000,0000,,And we have no means to \Nknow how many more
+Dialogue: 0,0:19:32.04,0:19:33.48,Default,Rider,0000,0000,0000,,Assassins there may be.
+Dialogue: 0,0:19:34.32,0:19:36.60,Default,Rider,0000,0000,0000,,This location favors their strengths.
+Dialogue: 0,0:19:37.07,0:19:38.99,Default,Rider,0000,0000,0000,,We should withdraw immediately.
+Dialogue: 0,0:19:39.72,0:19:43.03,Default,Waver,0000,0000,0000,,Should we really just leave it like this?
+Dialogue: 0,0:19:43.59,0:19:46.03,Default,Rider,0000,0000,0000,,We may learn something by investigating,
+Dialogue: 0,0:19:46.03,0:19:47.24,Default,Rider,0000,0000,0000,,But leave it.
+Dialogue: 0,0:19:49.25,0:19:52.05,Default,Rider,0000,0000,0000,,If we destroy the place,
+Dialogue: 0,0:19:52.05,0:19:56.50,Default,Rider,0000,0000,0000,,it should at least set Caster back.
+Dialogue: 0,0:20:23.51,0:20:25.85,Default,Rider,0000,0000,0000,,With his lair in ruins,
+Dialogue: 0,0:20:25.85,0:20:28.31,Default,,0000,0000,0000,,Caster will have nowhere to run or hide.
+Dialogue: 0,0:20:28.82,0:20:32.37,Default,Rider,0000,0000,0000,,He'll be forced into the open.
+Dialogue: 0,0:20:33.39,0:20:38.30,Default,Rider,0000,0000,0000,,It won't be long before we can\Nbe finished with them.
+Dialogue: 0,0:20:40.67,0:20:42.58,Default,Waver,0000,0000,0000,,I get it...
+Dialogue: 0,0:20:42.58,0:20:44.01,Default,Waver,0000,0000,0000,,Knock it off!
+Dialogue: 0,0:20:46.90,0:20:48.77,Default,Rider,0000,0000,0000,,Let us leave, boy.
+Dialogue: 0,0:20:55.55,0:20:57.69,Default,Toki,0000,0000,0000,,Don't dwell on it, Kirei.
+Dialogue: 0,0:20:58.37,0:21:01.83,Default,Toki,0000,0000,0000,,It's doubly unfortunate that \NAssassin was revealed
+Dialogue: 0,0:21:01.83,0:21:05.20,Default,Toki,0000,0000,0000,,before we uncovered Rider's \Nfinal attack.
+Dialogue: 0,0:21:05.20,0:21:07.13,Default,Toki,0000,0000,0000,,But we've learned
+Dialogue: 0,0:21:07.13,0:21:10.54,Default,,0000,0000,0000,,that Rider's Master is no more \Nthan a third-rate mage.
+Dialogue: 0,0:21:10.92,0:21:14.37,Default,Kirei,0000,0000,0000,,Which is why, had they not been seen...
+Dialogue: 0,0:21:14.37,0:21:17.29,Default,Toki,0000,0000,0000,,You would have had more options?
+Dialogue: 0,0:21:17.56,0:21:18.22,Default,Kirei,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:20.39,0:21:22.34,Default,Toki,0000,0000,0000,,Naturally, planning is paramount,
+Dialogue: 0,0:21:22.80,0:21:25.56,Default,Toki,0000,0000,0000,,but you must always retain your \Nconfidence and elegance.
+Dialogue: 0,0:21:27.74,0:21:30.85,Default,Toki,0000,0000,0000,,Even battles should be fought with dignity.
+Dialogue: 0,0:21:31.10,0:21:34.69,Default,Arch,0000,0000,0000,,{\i1}But I had no idea he'd be so insufferable.
+Dialogue: 0,0:21:37.00,0:21:41.19,Default,Toki,0000,0000,0000,,Another chance to see Rider's final \NNoble Phantasm will come.
+Dialogue: 0,0:21:42.07,0:21:44.65,Default,Toki,0000,0000,0000,,Have Assassin take extra precautions,
+Dialogue: 0,0:21:44.65,0:21:46.70,Default,,0000,0000,0000,,but continue to observe him.
+Dialogue: 0,0:21:47.81,0:21:50.55,Default,Kirei,0000,0000,0000,,Understood, my mentor.
+Dialogue: 0,0:21:51.93,0:21:54.12,Title,Kirei,0000,0000,0000,,Episode 9: \NMaster and Servant
+Dialogue: 0,0:23:25.82,0:23:28.01,Default,Toki,0000,0000,0000,,Did I expend too much mana at once?
+Dialogue: 0,0:23:28.01,0:23:30.59,Default,Rin,0000,0000,0000,,There's gotta be some way I can help!
+Dialogue: 0,0:23:30.59,0:23:32.35,Default,Aoi,0000,0000,0000,,She couldn't have gone to Fuyuki...
+Dialogue: 0,0:23:32.35,0:23:34.89,Default,Kari,0000,0000,0000,,Here is the Matou family magic.
+Dialogue: 0,0:23:34.89,0:23:37.61,Default,Ryuu,0000,0000,0000,,The party's just about to start.
+Dialogue: 0,0:23:37.61,0:23:40.04,Default,Rin,0000,0000,0000,,I can't do anything!
+Dialogue: 0,0:23:37.93,0:23:38.24,Title,Rin,0000,0000,0000,,Next Time: \NRin's Adventure
