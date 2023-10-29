@@ -19,17 +19,3 @@
 | Batch Status | Complete  |
 | Source       | TV        |
 | Resolution   | 1280x720  |
-
-## Notes
-Track names for 01v4: ASS
-Track names for 02: ASS
-Track names for 03: ASS
-Track names for 04: ASS
-Track names for 05: ASS
-Track names for 06v2: ASS
-Track names for 07: ASS
-Track names for 08v3: MAID ASS EIGHT
-Track names for 09: MAID ASS NINE
-Track names for 10: ASS
-Track names for 11v2: ASS
-Track names for 12: ass
