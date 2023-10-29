@@ -1,0 +1,618 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: SongCap,Arial Black,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-2,Mead Bold,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-3,Arial Narrow,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle,Swis721 BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-4,Kristen ITC,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-5,Kristen ITC,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-6,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-7,Mead Bold,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-8,Mead Bold,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-9,Mead Bold,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-10,Mead Bold,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-11,Bradley Hand ITC,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-12,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-13,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-14,squeaky chalk sound,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-15,BakerSignet BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-16,squeaky chalk sound,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-17,Times New Roman,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-18,Eraser,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-19,squeaky chalk sound,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-20,squeaky chalk sound,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-21,Times New Roman,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-22,Times New Roman,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-23,squeaky chalk sound,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-24,Bradley Hand ITC,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-25,Bradley Hand ITC,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-26,BakerSignet BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-27,Staccato555 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-28,Bradley Hand ITC,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-29,Arial Rounded MT Bold,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-30,Bradley Hand ITC,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-31,Creeper,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-2,Swis721 BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-32,Staccato555 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-33,Staccato555 BT,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-34,Arial Narrow,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-35,Bradley Hand ITC,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-36,Kristen ITC,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-37,Tempus Sans ITC,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-38,Tempus Sans ITC,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-3,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-4,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-39,BakerSignet BT,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-40,BakerSignet BT,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-41,BakerSignet BT,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-42,BakerSignet BT,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-43,Babelfish,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.33,0:00:12.83,Subtitle,,0,0,0,,This should do it.
+Dialogue: 0,0:00:12.83,0:00:14.92,Subtitle,,0,0,0,,I wonder if it's any cleaner now?
+Dialogue: 0,0:00:15.08,0:00:18.25,Subtitle,,0,0,0,,You're so enthusiastic. Did you make\Nan appointment to see someone?
+Dialogue: 0,0:00:18.38,0:00:21.42,Subtitle,,0,0,0,,I don't have an appointment, but they may come, right?
+Dialogue: 0,0:00:21.42,0:00:22.83,Subtitle,,0,0,0,,Like Mr. Moriaki.
+Dialogue: 0,0:00:22.83,0:00:23.96,Subtitle,,0,0,0,,Oh?
+Dialogue: 0,0:00:23.96,0:00:26.50,Subtitle,,0,0,0,,I thought you gave up on him\Nbecause you had no chance?
+Dialogue: 0,0:00:26.50,0:00:32.58,Subtitle,,0,0,0,,On this morning's TV horoscope, they said this week I'd\Nhave a close encounter with the person of my destiny,
+Dialogue: 0,0:00:32.58,0:00:33.54,Subtitle,,0,0,0,,according to 6-channel.
+Dialogue: 0,0:00:33.75,0:00:35.29,Subtitle,,0,0,0,,According to 6-channel?
+Dialogue: 0,0:00:37.29,0:00:40.04,Subtitle,,0,0,0,,I flip the channel and look at all of them.
+Dialogue: 0,0:00:41.38,0:00:44.92,Subtitle,,0,0,0,,Then, the last one I see is the real fortune.
+Dialogue: 0,0:00:46.83,0:00:52.46,Subtitle,,0,0,0,,The other day, the first fortune wasn't all that great,\Nso I took my chances on the next channel.
+Dialogue: 0,0:00:52.46,0:00:53.88,Subtitle,,0,0,0,,Then it just kept getting worse and worse,
+Dialogue: 0,0:00:53.88,0:00:56.92,Subtitle,,0,0,0,,and by the end I was the worst out of the 13 signs.
+Dialogue: 0,0:00:56.92,0:00:59.29,Subtitle,,0,0,0,,They still had the 13 signs?
+Dialogue: 0,0:00:59.46,0:01:03.33,Subtitle,,0,0,0,,I don't quite trust the 13 signs, though.
+Dialogue: 0,0:01:03.33,0:01:08.58,Subtitle,,0,0,0,,According to the 12 zodiac signs,\NI am a romantic, diligent Taurus,
+Dialogue: 0,0:01:08.58,0:01:15.08,Subtitle,,0,0,0,,but in the 13 signs, I become\Na hyperactive but insensitive Aries.
+Dialogue: 0,0:01:15.21,0:01:16.92,Subtitle,,0,0,0,,The 13 signs is correct!
+Dialogue: 0,0:01:17.04,0:01:20.71,Subtitle,,0,0,0,,Really, you seem so happy every day. I envy you.
+Dialogue: 0,0:01:21.50,0:01:22.58,Subtitle,,0,0,0,,Do I look that way?
+Dialogue: 0,0:01:22.58,0:01:26.92,Subtitle,,0,0,0,,Does this mean the person of destiny\NI'm going to meet is Mr. Moriaki after all?
+Dialogue: 0,0:01:27.83,0:01:31.42,Subtitle,,0,0,0,,"Person of destiny" can mean many different things...
+Dialogue: 0,0:01:31.42,0:01:34.38,Subtitle,,0,0,0,,Like an arch nemesis, or a rival, or a natural enemy.
+Dialogue: 0,0:01:34.50,0:01:37.21,Subtitle,,0,0,0,,Why an enemy when it's my love fortune?!
+Dialogue: 0,0:01:41.13,0:01:44.38,Subtitle,,0,0,0,,Oh, a close encounter with Mr. Moriaki.
+Dialogue: 0,0:01:44.38,0:01:45.54,Subtitle,,0,0,0,,Oh?
+Dialogue: 0,0:01:47.67,0:01:49.04,Subtitle,,0,0,0,,Detention?!
+Dialogue: 0,0:01:49.04,0:01:52.00,Subtitle,,0,0,0,,Good for you! Your horoscope came true.
+Dialogue: 0,0:03:22.38,0:03:23.92,Subtitle,,0,0,0,,An equation...
+Dialogue: 0,0:03:23.92,0:03:26.46,Subtitle,,0,0,0,,It signifies an equality in which\Nan unknown quantity is included,
+Dialogue: 0,0:03:26.46,0:03:31.04,Subtitle,,0,0,0,,and only when you give that unknown quantity a specific\Nnumber will the equality become realized.
+Dialogue: 0,0:03:31.25,0:03:35.13,Subtitle,,0,0,0,,That specific number is called\Nthe "solution of the equation."
+Dialogue: 0,0:03:40.21,0:03:45.17,Subtitle,,0,0,0,,Now, in front of me,\Nis the second natural enemy of my life.
+Dialogue: 0,0:03:45.75,0:03:51.42,Subtitle,,0,0,0,,Come to think of it, my first natural enemy\Nwas my homeroom teacher from second grade...
+Dialogue: 0,0:03:53.08,0:03:54.00,Subtitle,,0,0,0,,For example...
+Dialogue: 0,0:03:54.00,0:03:58.92,Subtitle,,0,0,0,,When you read a story,\Neach person has their own impression, right?
+Dialogue: 0,0:03:59.08,0:04:02.96,Subtitle,,0,0,0,,The fact that there are as many answers as\Nthere are people is what makes language fun!
+Dialogue: 0,0:04:05.08,0:04:10.67,Subtitle,,0,0,0,,On the other hand, in math there is\Nonly one answer for one question.
+Dialogue: 0,0:04:10.67,0:04:12.63,Subtitle,,0,0,0,,That's what makes arithmetic fun!
+Dialogue: 0,0:04:12.96,0:04:16.25,Subtitle,,0,0,0,,I see! I like arithmetic.
+Dialogue: 0,0:04:17.67,0:04:18.83,Subtitle,,0,0,0,,Oh?
+Dialogue: 0,0:04:18.83,0:04:23.71,Subtitle,,0,0,0,,We're still in the middle of division,\Nbut we can't divide any further.
+Dialogue: 0,0:04:23.96,0:04:25.83,Subtitle,,0,0,0,,What should we do at a time like this?
+Dialogue: 0,0:04:26.00,0:04:28.21,Subtitle,,0,0,0,,That's true, what will happen?!
+Dialogue: 0,0:04:28.33,0:04:33.33,Subtitle,,0,0,0,,We can't do anything about the remainder,\Nso we will write "with a remainder of 5" here.
+Dialogue: 0,0:04:35.67,0:04:36.88,Subtitle,,0,0,0,,Sensei!
+Dialogue: 0,0:04:37.21,0:04:38.58,Subtitle,,0,0,0,,What is it, Moriaki?
+Dialogue: 0,0:04:38.75,0:04:39.71,Subtitle,,0,0,0,,Um...
+Dialogue: 0,0:04:39.83,0:04:43.17,Subtitle,,0,0,0,,How should I say this... that's so half-baked...
+Dialogue: 0,0:04:43.29,0:04:44.79,Subtitle,,0,0,0,,Is that okay?
+Dialogue: 0,0:04:45.04,0:04:47.71,Subtitle,,0,0,0,,That's true, I'm at a loss.
+Dialogue: 0,0:04:47.71,0:04:50.38,Subtitle,,0,0,0,,But, there's nothing we can do about it, you know?
+Dialogue: 0,0:04:50.38,0:04:52.04,Subtitle,,0,0,0,,What would you do, Moriaki?
+Dialogue: 0,0:04:54.96,0:04:56.25,Subtitle,,0,0,0,,I don't know.
+Dialogue: 0,0:04:56.38,0:05:01.42,Subtitle,,0,0,0,,B-but you said don't leave anything\Nremaining on your lunch plate...
+Dialogue: 0,0:05:01.54,0:05:04.08,Subtitle,,0,0,0,,So is it okay to leave a remainder in division?
+Dialogue: 0,0:05:04.88,0:05:06.04,Subtitle,,0,0,0,,I agree!
+Dialogue: 0,0:05:06.04,0:05:07.67,Subtitle,,0,0,0,,I agree with Moriaki.
+Dialogue: 0,0:05:08.25,0:05:09.38,Subtitle,,0,0,0,,Thank goodness...
+Dialogue: 0,0:05:09.50,0:05:12.79,Subtitle,,0,0,0,,I said it while struggling for an answer,\Nbut that got everyone to agree with me!
+Dialogue: 0,0:05:12.92,0:05:17.67,Subtitle,,0,0,0,,That's true, it's not good to stop\Nwhen there's still something remaining.
+Dialogue: 0,0:05:17.67,0:05:22.04,Subtitle,,0,0,0,,But when persimmon is served during lunch,\Nyou'd leave the seeds, right?
+Dialogue: 0,0:05:22.21,0:05:24.38,Subtitle,,0,0,0,,In division, the remainder...
+Dialogue: 0,0:05:24.54,0:05:25.63,Subtitle,,0,0,0,,...is the same as those seeds.
+Dialogue: 0,0:05:25.63,0:05:27.38,Subtitle,,0,0,0,,Ohhh!
+Dialogue: 0,0:05:27.38,0:05:29.54,Subtitle,,0,0,0,,Moriaki, sit down already.
+Dialogue: 0,0:05:29.54,0:05:32.96,Subtitle,,0,0,0,,You're so stupid... Are you going to eat\Nthe seeds of a persimmon?
+Dialogue: 0,0:05:33.67,0:05:34.71,Subtitle,,0,0,0,,Who's the idiot?!
+Dialogue: 0,0:05:35.08,0:05:39.83,Subtitle,,0,0,0,,This greatly affected my life later on.
+Dialogue: 0,0:05:40.21,0:05:43.79,Subtitle,,0,0,0,,As a result, I became a math teacher.
+Dialogue: 0,0:05:45.46,0:05:51.38,Subtitle,,0,0,0,,My homeroom teacher at the time\Nwas the first natural enemy of my life...
+Dialogue: 0,0:05:51.50,0:05:56.00,Subtitle,,0,0,0,,Now, my second natural enemy is in front of me.
+Dialogue: 0,0:05:58.29,0:05:59.46,Subtitle,,0,0,0,,Um...
+Dialogue: 0,0:05:59.46,0:06:02.88,Subtitle,,0,0,0,,Am I the only one in detention?
+Dialogue: 0,0:06:04.13,0:06:08.25,Subtitle,,0,0,0,,In math, the only one who scored a zero\Non both the test and the makeup test
+Dialogue: 0,0:06:08.25,0:06:11.33,Subtitle,,0,0,0,,was Hotori Arashiyama... you alone.
+Dialogue: 0,0:06:11.33,0:06:13.67,Subtitle,,0,0,0,,I see. That's right.
+Dialogue: 0,0:06:14.88,0:06:20.04,Subtitle,,0,0,0,,Oh well! It is just the two of us,\Nso if I thought of this as a date, then, tee hee...
+Dialogue: 0,0:06:21.63,0:06:25.13,Subtitle,,0,0,0,,My stomach is hurting earlier than expected...
+Dialogue: 0,0:06:25.79,0:06:27.38,Subtitle,,0,0,0,,Hotori Arashiyama...
+Dialogue: 0,0:06:27.63,0:06:30.63,Subtitle,,0,0,0,,I value my morals as a teacher.
+Dialogue: 0,0:06:32.04,0:06:35.58,Subtitle,,0,0,0,,And I think I do consider my students to a degree...
+Dialogue: 0,0:06:35.92,0:06:37.58,Subtitle,,0,0,0,,Even then...
+Dialogue: 0,0:06:37.58,0:06:41.75,Subtitle,,0,0,0,,If you can sense what I'm trying to tell you,\Nthen I would greatly appreciate it.
+Dialogue: 0,0:06:42.08,0:06:44.96,Subtitle,,0,0,0,,Somehow, I sense it clearly.
+Dialogue: 0,0:06:45.17,0:06:48.21,Subtitle,,0,0,0,,Good. Then, listen as you are.
+Dialogue: 0,0:06:48.58,0:06:50.79,Subtitle,,0,0,0,,This happened when I was grading the tests...
+Dialogue: 0,0:06:53.54,0:06:55.00,Subtitle,,0,0,0,,Next is...
+Dialogue: 0,0:06:56.33,0:06:57.46,Subtitle,,0,0,0,,Arashiyama...
+Dialogue: 0,0:06:57.46,0:06:59.54,Subtitle,,0,0,0,,That always happens.
+Dialogue: 0,0:06:59.54,0:07:04.13,Subtitle,,0,0,0,,When it comes to grading yours,\Nthat alone is enough to make my stomach sink.
+Dialogue: 0,0:07:07.21,0:07:11.08,Subtitle,,0,0,0,,It's obvious that you've given up\Ntrying to figure out the problem,
+Dialogue: 0,0:07:11.21,0:07:13.71,Subtitle,,0,0,0,,but there's an answer confidently written there...
+Dialogue: 0,0:07:13.92,0:07:16.42,Subtitle,,0,0,0,,And of course that answer is wrong.
+Dialogue: 0,0:07:16.54,0:07:19.75,Subtitle,,0,0,0,,When I see that my stomach starts burning.
+Dialogue: 0,0:07:22.63,0:07:24.67,Subtitle,,0,0,0,,Leaving aside what the answer is or how you got to it...
+Dialogue: 0,0:07:24.79,0:07:28.42,Subtitle,,0,0,0,,When I see that the shape of the square root\Nsign is wrong, my head starts to hurt.
+Dialogue: 0,0:07:29.46,0:07:30.38,Subtitle,,0,0,0,,And...
+Dialogue: 0,0:07:33.54,0:07:36.33,Subtitle,,0,0,0,,If you don't know the answer, then at least leave it blank!
+Dialogue: 0,0:07:41.71,0:07:45.88,Subtitle,,0,0,0,,When I finally see a place where\NI can put a circle on your answer sheet...
+Dialogue: 0,0:07:46.04,0:07:46.88,Subtitle,,0,0,0,,Oh?
+Dialogue: 0,0:07:48.79,0:07:50.96,Subtitle,,0,0,0,,It's the circle I draw to mark a zero.
+Dialogue: 0,0:07:52.38,0:07:56.54,Subtitle,,0,0,0,,Your answers are surely eating up my life...
+Dialogue: 0,0:07:57.50,0:08:02.50,Subtitle,,0,0,0,,Clearly, you are using your test answers\Nto carry out a premeditated murder!
+Dialogue: 0,0:08:02.63,0:08:04.50,Subtitle,,0,0,0,,That can't be!
+Dialogue: 0,0:08:04.92,0:08:09.25,Subtitle,,0,0,0,,You like dramatized and exaggerated\Nthings like this, don't you?
+Dialogue: 0,0:08:10.79,0:08:15.96,Subtitle,,0,0,0,,What I can't forgive the most is that you make\Ndecent grades on everything except math.
+Dialogue: 0,0:08:16.08,0:08:18.83,Subtitle,,0,0,0,,If it comes to this, I can only think\Nthat you have an ulterior motive.
+Dialogue: 0,0:08:18.96,0:08:23.58,Subtitle,,0,0,0,,Well, you know... math has nothing to do\Nwith being a detective...
+Dialogue: 0,0:08:23.79,0:08:24.83,Subtitle,,0,0,0,,"A detective"?
+Dialogue: 0,0:08:25.38,0:08:32.13,Subtitle,,0,0,0,,Right now, I'm a run-of-the-mill high school girl, but\Neventually I'm going to be a high school detective girl.
+Dialogue: 0,0:08:32.92,0:08:37.00,Subtitle,,0,0,0,,Eventually? How long do you intend\Non staying in high school?
+Dialogue: 0,0:08:37.13,0:08:38.29,Subtitle,,0,0,0,,Though in fact...
+Dialogue: 0,0:08:38.29,0:08:42.13,Subtitle,,0,0,0,,If we continue like this, you won't be able to\Nadvance, so your wish may come true.
+Dialogue: 0,0:08:43.25,0:08:47.08,Subtitle,,0,0,0,,It's not impossible for you to be over 20\Nand still be a high school detective girl.
+Dialogue: 0,0:08:50.29,0:08:53.04,Subtitle,,0,0,0,,Detention is so that you don't end up like that.
+Dialogue: 0,0:08:53.04,0:08:55.08,Subtitle,,0,0,0,,Now, solve those problems.
+Dialogue: 0,0:08:57.04,0:08:58.17,Subtitle,,0,0,0,,Good...
+Dialogue: 0,0:08:58.67,0:08:59.58,Subtitle,,0,0,0,,Sensei.
+Dialogue: 0,0:08:59.71,0:09:01.33,Subtitle,,0,0,0,,Well, that was fast.
+Dialogue: 0,0:09:04.38,0:09:05.75,Subtitle,,0,0,0,,Now what is this?
+Dialogue: 0,0:09:05.75,0:09:10.46,Subtitle,,0,0,0,,Do you know how they were able\Nto put that metal sphere into the house?
+Dialogue: 0,0:09:10.46,0:09:14.83,Subtitle,,0,0,0,,This... You've written in all the necessary numbers, right?
+Dialogue: 0,0:09:14.83,0:09:16.38,Subtitle,,0,0,0,,But of course.
+Dialogue: 0,0:09:18.29,0:09:22.42,Subtitle,,0,0,0,,The sphere's diameter is the same\Ndistance from all angles.
+Dialogue: 0,0:09:22.54,0:09:27.88,Subtitle,,0,0,0,,On the other hand, the parallel sides of the\Nrectangle are equal no matter which direction.
+Dialogue: 0,0:09:28.00,0:09:32.21,Subtitle,,0,0,0,,That means a metal sphere cannot pass\Nthrough any of the doors.
+Dialogue: 0,0:09:32.33,0:09:33.54,Subtitle,,0,0,0,,This is impossible.
+Dialogue: 0,0:09:37.50,0:09:39.29,Subtitle,,0,0,0,,The answer is:
+Dialogue: 0,0:09:39.29,0:09:41.83,Subtitle,,0,0,0,,they didn't bring the metal sphere in through a door,
+Dialogue: 0,0:09:41.83,0:09:44.54,Subtitle,,0,0,0,,but they built the house around the metal sphere.
+Dialogue: 0,0:09:45.46,0:09:47.00,Subtitle,,0,0,0,,Just like this...
+Dialogue: 0,0:09:47.00,0:09:50.79,Subtitle,,0,0,0,,It's important to have the imagination\Nto think backwards in life.
+Dialogue: 0,0:09:50.92,0:09:56.29,Subtitle,,0,0,0,,And so in math, if you could just give me\Nthe answer first, I can understand quickly...
+Dialogue: 0,0:10:01.21,0:10:04.38,Subtitle,,0,0,0,,Corn is delicious, poko.
+Dialogue: 0,0:10:06.67,0:10:09.96,Subtitle,,0,0,0,,What's going on, Hotori? Are you reading a textbook?
+Dialogue: 0,0:10:09.96,0:10:13.42,Subtitle,,0,0,0,,That's rare! I hope lightning doesn't strike...
+Dialogue: 0,0:10:13.42,0:10:18.25,Subtitle,,0,0,0,,It struck already. If I continue like this,\NI'll be a high school girl forever.
+Dialogue: 0,0:10:18.25,0:10:19.88,Subtitle,,0,0,0,,My, I'm jealous.
+Dialogue: 0,0:10:20.00,0:10:22.25,Subtitle,,0,0,0,,Moriaki got mad.
+Dialogue: 0,0:10:22.25,0:10:25.75,Subtitle,,0,0,0,,If you show him a riddle like this, he would get mad.
+Dialogue: 0,0:10:25.75,0:10:27.63,Subtitle,,0,0,0,,He's such a straight-arrow.
+Dialogue: 0,0:10:27.79,0:10:30.38,Subtitle,,0,0,0,,To show you how straight-arrow he is...
+Dialogue: 0,0:10:30.38,0:10:33.13,Subtitle,,0,0,0,,This is something that I heard\Nfrom one of the upperclassmen...
+Dialogue: 0,0:10:33.67,0:10:38.21,Subtitle,,0,0,0,,Once, there was a female student\Nwho was in love with Mr. Moriaki.
+Dialogue: 0,0:10:38.21,0:10:42.00,Subtitle,,0,0,0,,They say she was a clean and lovely lady\Nwho had a love for literature.
+Dialogue: 0,0:10:42.13,0:10:46.17,Subtitle,,0,0,0,,She's the same exact character as me,\Nanything and everything!
+Dialogue: 0,0:10:46.17,0:10:46.92,Subtitle,,0,0,0,,What?!
+Dialogue: 0,0:10:47.25,0:10:53.96,Subtitle,,0,0,0,,One day, the female student wrote her feelings\Nin a love letter and handed it to Mr. Moriaki.
+Dialogue: 0,0:10:54.54,0:10:57.54,Subtitle,,0,0,0,,The next day a reply letter came.
+Dialogue: 0,0:10:57.67,0:11:00.58,Subtitle,,0,0,0,,Wh-what were the contents?! I want to hear it!
+Dialogue: 0,0:11:00.58,0:11:02.54,Subtitle,,0,0,0,,Oh, but I'm scared.
+Dialogue: 0,0:11:02.54,0:11:04.42,Subtitle,,0,0,0,,My maiden heart shakes in anxiety!
+Dialogue: 0,0:11:04.58,0:11:05.83,Subtitle,,0,0,0,,Shaking, shaking...
+Dialogue: 0,0:11:06.13,0:11:08.58,Subtitle,,0,0,0,,Just one line of a math equation...
+Dialogue: 0,0:11:09.88,0:11:16.79,Subtitle,,0,0,0,,They say the formula bluntly stated that morally,\Nlove cannot exist between a teacher and student.
+Dialogue: 0,0:11:20.42,0:11:26.75,Subtitle,,0,0,0,,The female student raised a fuss in spite,\Nand the principal found out about this.
+Dialogue: 0,0:11:26.75,0:11:29.38,Subtitle,,0,0,0,,Oh. Now it sounds more like you.
+Dialogue: 0,0:11:29.63,0:11:31.25,Subtitle,,0,0,0,,But the principal said...
+Dialogue: 0,0:11:31.46,0:11:35.42,Subtitle,,0,0,0,,Despite the rise of shameless teachers these days,
+Dialogue: 0,0:11:35.42,0:11:37.71,Subtitle,,0,0,0,,Moriaki is the model teacher!
+Dialogue: 0,0:11:37.88,0:11:39.42,Subtitle,,0,0,0,,The principal was deeply touched,
+Dialogue: 0,0:11:39.42,0:11:44.13,Subtitle,,0,0,0,,and so that letter remains on display\Nin the principal's office to this day.
+Dialogue: 0,0:11:44.58,0:11:45.88,Subtitle,,0,0,0,,Happily ever after.
+Dialogue: 0,0:11:46.00,0:11:48.00,Subtitle,,0,0,0,,It's not happy at all!
+Dialogue: 0,0:11:48.33,0:11:50.67,Subtitle,,0,0,0,,That's how rigid he is.
+Dialogue: 0,0:11:50.67,0:11:55.33,Subtitle,,0,0,0,,And so if you don't study hard,\Nyou are really going to be held back.
+Dialogue: 0,0:11:58.88,0:12:02.67,Subtitle,,0,0,0,,So similar... My two natural enemies\Nhave similar characteristics!
+Dialogue: 0,0:12:03.21,0:12:06.96,Subtitle,,0,0,0,,Not only does she distract me\Nwith stories totally unrelated to math...
+Dialogue: 0,0:12:07.54,0:12:10.46,Subtitle,,0,0,0,,...but I'm beginning to think that\Neven their faces look similar...
+Dialogue: 0,0:12:11.21,0:12:12.21,Subtitle,,0,0,0,,Don't tell me...
+Dialogue: 0,0:12:12.33,0:12:17.29,Subtitle,,0,0,0,,A grown-up Hotori Arashiyama traveled back\Nthrough time to become my homeroom teacher...
+Dialogue: 0,0:12:17.54,0:12:18.33,Subtitle,,0,0,0,,No...
+Dialogue: 0,0:12:18.50,0:12:22.38,Subtitle,,0,0,0,,That can't be... I don't believe\Nin science fiction or the occult...
+Dialogue: 0,0:12:23.25,0:12:24.83,Subtitle,,0,0,0,,What has gotten into me...?
+Dialogue: 0,0:12:28.83,0:12:29.29,Subtitle,,0,0,0,,Oh!
+Dialogue: 0,0:12:29.29,0:12:30.38,Subtitle,,0,0,0,,I did it!
+Dialogue: 0,0:12:30.88,0:12:31.88,Subtitle,,0,0,0,,Show it to me.
+Dialogue: 0,0:12:31.88,0:12:33.79,Subtitle,,0,0,0,,I'll check your answers.
+Dialogue: 0,0:12:35.71,0:12:37.08,Subtitle,,0,0,0,,What is this?
+Dialogue: 0,0:12:37.25,0:12:40.33,Subtitle,,0,0,0,,It's an equation that would overturn\Nthe equation from the story.
+Dialogue: 0,0:12:40.33,0:12:42.96,Subtitle,,0,0,0,,I'm going to show him the next time I get detention.
+Dialogue: 0,0:12:42.96,0:12:45.46,Subtitle,,0,0,0,,You're going to be held back for sure, you know?
+Dialogue: 0,0:12:47.13,0:12:53.88,Subtitle,,0,0,0,,The unknown quantity that makes the equality\Nbecome true is called the "solution to the equation."
+Dialogue: 0,0:12:54.92,0:12:59.17,Subtitle,,0,0,0,,At times, "there is no solution" is the correct answer.
+Dialogue: 0,0:13:05.50,0:13:07.46,Subtitle,,0,0,0,,Mr. Moriaki, have some coffee.
+Dialogue: 0,0:13:08.04,0:13:09.33,Subtitle,,0,0,0,,Thank you.
+Dialogue: 0,0:13:09.54,0:13:11.29,Subtitle,,0,0,0,,Here, Mr. Kameda as well.
+Dialogue: 0,0:13:11.29,0:13:13.88,Subtitle,,0,0,0,,Oh, why, thank you. I'll have some.
+Dialogue: 0,0:13:14.38,0:13:16.83,Subtitle,,0,0,0,,A long time ago, we used to say\Nif you pour cream in here,
+Dialogue: 0,0:13:16.83,0:13:21.67,Subtitle,,0,0,0,,the initials of the person you like will float up.
+Dialogue: 0,0:13:21.67,0:13:25.42,Subtitle,,0,0,0,,Despite your looks, you're such a romantic, Mr. Kameda.
+Dialogue: 0,0:13:25.42,0:13:27.17,Subtitle,,0,0,0,,Despite my looks...?
+Dialogue: 0,0:13:27.63,0:13:31.42,Subtitle,,0,0,0,,Hmm, I should try to see if "N. M." comes up...
+Dialogue: 0,0:13:31.63,0:13:34.04,Subtitle,,0,0,0,,N. M. for Natsuhiko Moriaki!
+Dialogue: 0,0:13:34.21,0:13:35.25,Subtitle,,0,0,0,,I see...
+Dialogue: 0,0:13:35.25,0:13:36.83,Subtitle,,0,0,0,,Mine looks like pi.
+Dialogue: 0,0:13:36.83,0:13:39.04,Subtitle,,0,0,0,,Whoa! He totally ignored my N. M.!
+Dialogue: 0,0:13:39.21,0:13:41.75,Subtitle,,0,0,0,,It's not an initial or anything?!
+Dialogue: 0,0:13:41.75,0:13:44.54,Subtitle,,0,0,0,,That means that I'm in love with the ratio\Nof a circle's circumference to its diameter.
+Dialogue: 0,0:13:44.54,0:13:46.08,Subtitle,,0,0,0,,Well, I do like it...
+Dialogue: 0,0:13:46.29,0:13:48.38,Subtitle,,0,0,0,,What about you, Mr. Kameda?
+Dialogue: 0,0:13:48.38,0:13:53.04,Subtitle,,0,0,0,,Mine should be my wife's initials,\Nor else I'd be in big trouble.
+Dialogue: 0,0:13:55.04,0:13:56.17,Subtitle,,0,0,0,,Curse?!
+Dialogue: 0,0:13:59.88,0:14:03.21,Subtitle,,0,0,0,,What?! The chair suddenly collapsed!
+Dialogue: 0,0:14:04.63,0:14:07.83,Subtitle,,0,0,0,,The height adjustment lever is broken...
+Dialogue: 0,0:14:07.83,0:14:09.42,Subtitle,,0,0,0,,Oh no...
+Dialogue: 0,0:14:09.42,0:14:11.75,Subtitle,,0,0,0,,If I put weight on it, it'll collapse...
+Dialogue: 0,0:14:11.75,0:14:13.83,Subtitle,,0,0,0,,The desk next to mine is open...
+Dialogue: 0,0:14:14.50,0:14:16.46,Subtitle,,0,0,0,,How about exchanging that chair with this one?
+Dialogue: 0,0:14:16.46,0:14:18.00,Subtitle,,0,0,0,,I'll do that.
+Dialogue: 0,0:14:18.17,0:14:22.38,Subtitle,,0,0,0,,Such an ominous way to start the day...\NMaybe because of the curse initial...
+Dialogue: 0,0:14:22.54,0:14:25.79,Subtitle,,0,0,0,,Don't say such a bad thing, Ms. Nishi!
+Dialogue: 0,0:14:25.79,0:14:27.63,Subtitle,,0,0,0,,Besides, it's not an initial...
+Dialogue: 0,0:14:30.63,0:14:32.46,Subtitle,,0,0,0,,Hey, Mom! Something is wrong!
+Dialogue: 0,0:14:32.46,0:14:34.50,Subtitle,,0,0,0,,Hotori is putting something on her face!
+Dialogue: 0,0:14:34.50,0:14:38.33,Subtitle,,0,0,0,,I told her to put some moisturizer on\Nbecause the air is dry.
+Dialogue: 0,0:14:39.42,0:14:42.79,Subtitle,,0,0,0,,Hmm, she's becoming more girly, huh.
+Dialogue: 0,0:14:42.79,0:14:44.13,Subtitle,,0,0,0,,I wonder.
+Dialogue: 0,0:14:44.13,0:14:48.04,Subtitle,,0,0,0,,I suspect she can't even tell the\Ndifference between lipstick and a glue stick.
+Dialogue: 0,0:14:52.33,0:14:54.21,Subtitle,,0,0,0,,What? What's wrong?!
+Dialogue: 0,0:14:54.46,0:14:56.25,Subtitle,,0,0,0,,My eyes! My eyes!
+Dialogue: 0,0:14:56.38,0:14:58.29,Subtitle,,0,0,0,,My face is burning...
+Dialogue: 0,0:14:58.29,0:14:58.83,Subtitle,,0,0,0,,And it's feeling cool!
+Dialogue: 0,0:14:58.83,0:15:00.25,Subtitle-2,,0,0,0,,What did you put on?!\N{\rSubtitle}And it's feeling cool!{\r}
+Dialogue: 0,0:15:00.71,0:15:01.63,Subtitle,,0,0,0,,Oh!
+Dialogue: 0,0:15:01.63,0:15:04.54,Subtitle,,0,0,0,,The shape of the bottle is similar,\Nso you must've made a mistake...
+Dialogue: 0,0:15:04.67,0:15:06.25,Subtitle,,0,0,0,,I hate you Dad!
+Dialogue: 0,0:15:06.25,0:15:09.21,Subtitle,,0,0,0,,Why do you have hair growth formula\Nwhen you still have hair?!
+Dialogue: 0,0:15:09.21,0:15:12.29,Subtitle,,0,0,0,,Idiot! It's because of the hair growth formula\NI haven't gone bald, you see!
+Dialogue: 0,0:15:12.58,0:15:16.50,Subtitle,,0,0,0,,Arrgh, it burns. I can't open my eyes,\Nso I'm going to be absent from school!
+Dialogue: 0,0:15:16.50,0:15:18.54,Subtitle,,0,0,0,,Don't say such a stupid thing!
+Dialogue: 0,0:15:19.79,0:15:22.88,Subtitle,,0,0,0,,...and that's why I was so late.
+Dialogue: 0,0:15:24.04,0:15:29.00,Subtitle,,0,0,0,,How do you come up with stories upon\Nstories about why you're late?
+Dialogue: 0,0:15:29.00,0:15:32.17,Subtitle,,0,0,0,,I would like to mention, truth is stranger than fiction.
+Dialogue: 0,0:15:33.46,0:15:37.54,Subtitle,,0,0,0,,To think you have to put on something\Nthat stings so badly...
+Dialogue: 0,0:15:37.54,0:15:40.13,Subtitle,,0,0,0,,Adult men must have it hard.
+Dialogue: 0,0:15:40.42,0:15:43.17,Subtitle,,0,0,0,,Is your hair okay?
+Dialogue: 0,0:15:43.17,0:15:45.71,Subtitle,,0,0,0,,I'm fine right now, thank you.
+Dialogue: 0,0:15:46.00,0:15:49.21,Subtitle,,0,0,0,,If it starts to fall out from stress, it's your fault.
+Dialogue: 0,0:15:49.21,0:15:50.46,Subtitle,,0,0,0,,You're transferring responsibility on to me!
+Dialogue: 0,0:15:52.46,0:15:54.79,Subtitle,,0,0,0,,You show no sign of remorse...
+Dialogue: 0,0:15:55.04,0:15:57.25,Subtitle,,0,0,0,,I am going to start class, so go to your seat.
+Dialogue: 0,0:15:57.25,0:15:59.04,Subtitle,,0,0,0,,The continuation to your story will have to wait.
+Dialogue: 0,0:15:59.04,0:16:00.38,Subtitle,,0,0,0,,Stay behind after school.
+Dialogue: 0,0:16:02.92,0:16:06.04,Subtitle,,0,0,0,,Hmm. Well, I can't say it never happened.
+Dialogue: 0,0:16:06.42,0:16:10.00,Subtitle,,0,0,0,,I almost brushed my teeth with face wash.
+Dialogue: 0,0:16:11.00,0:16:12.25,Subtitle,,0,0,0,,You're so careless!
+Dialogue: 0,0:16:12.25,0:16:14.42,Subtitle,,0,0,0,,You're one to talk!
+Dialogue: 0,0:16:14.42,0:16:16.25,Subtitle,,0,0,0,,I got scolded.
+Dialogue: 0,0:16:16.25,0:16:19.21,Subtitle,,0,0,0,,I was trying to come to your rescue, and what do I get?
+Dialogue: 0,0:16:19.21,0:16:22.13,Subtitle,,0,0,0,,Normally if you put something\Nthat nasty in your mouth,
+Dialogue: 0,0:16:22.13,0:16:24.54,Subtitle,,0,0,0,,you'd never make the same mistake again.
+Dialogue: 0,0:16:24.54,0:16:27.17,Subtitle,,0,0,0,,So you have gotten the two confused.
+Dialogue: 0,0:16:30.04,0:16:31.25,Subtitle,,0,0,0,,Oh! What is this!
+Dialogue: 0,0:16:31.25,0:16:35.13,Subtitle,,0,0,0,,Oh man. Being summoned because of tardiness,\Nare you in middle school or something?
+Dialogue: 0,0:16:35.38,0:16:37.88,Subtitle,,0,0,0,,He was serious about me staying after school?
+Dialogue: 0,0:16:38.00,0:16:41.25,Subtitle,,0,0,0,,The math teacher Moriaki is a straight-arrow.
+Dialogue: 0,0:16:41.25,0:16:43.25,Subtitle,,0,0,0,,To show you how straight-arrow he is...
+Dialogue: 0,0:16:43.25,0:16:45.25,Subtitle,,0,0,0,,The story about the love letter, right?
+Dialogue: 0,0:16:45.25,0:16:47.29,Subtitle,,0,0,0,,I heard it before from Tattsun.
+Dialogue: 0,0:16:47.42,0:16:51.50,Subtitle,,0,0,0,,"Morally, a love relationship between\Nteacher and student cannot be realized."
+Dialogue: 0,0:16:51.63,0:16:53.75,Subtitle,,0,0,0,,I have info on the continuation.
+Dialogue: 0,0:16:53.75,0:16:54.63,Subtitle,,0,0,0,,The continuation?
+Dialogue: 0,0:16:54.83,0:16:58.42,Subtitle,,0,0,0,,Who would've guessed that the female student,\Nafter a period of 5 or 6 years had passed,
+Dialogue: 0,0:16:58.42,0:17:01.38,Subtitle,,0,0,0,,became a teacher at this school.
+Dialogue: 0,0:17:01.38,0:17:05.08,Subtitle,,0,0,0,,But it doesn't seem like they are going to become lovers.
+Dialogue: 0,0:17:07.46,0:17:10.21,Subtitle,,0,0,0,,It's important to know when to give up, poko.
+Dialogue: 0,0:17:12.79,0:17:15.04,Subtitle,,0,0,0,,My! What beautiful weather today, too.
+Dialogue: 0,0:17:16.46,0:17:19.75,Subtitle,,0,0,0,,Before it gets dark, let's go home, go home.
+Dialogue: 0,0:17:24.38,0:17:29.46,Subtitle,,0,0,0,,I was going to make such a natural escape,\Nbut I couldn't fool him...
+Dialogue: 0,0:17:29.46,0:17:33.79,Subtitle,,0,0,0,,You were very unnatural,\Nso I remembered that I had summoned you.
+Dialogue: 0,0:17:35.79,0:17:38.67,Subtitle,,0,0,0,,I have work, so please keep it short.
+Dialogue: 0,0:17:38.79,0:17:40.54,Subtitle,,0,0,0,,That's up to you...
+Dialogue: 0,0:17:42.54,0:17:46.00,Subtitle,,0,0,0,,I thought of something I should never think as a teacher!
+Dialogue: 0,0:17:46.33,0:17:51.29,Subtitle,,0,0,0,,To Arashiyama, who troubles me daily, a little payback...
+Dialogue: 0,0:17:54.88,0:17:55.83,Subtitle,,0,0,0,,Whoa!
+Dialogue: 0,0:17:55.83,0:18:00.17,Subtitle,,0,0,0,,If I let her sit on that broken chair,\Nshe would be so surprised...
+Dialogue: 0,0:18:01.25,0:18:02.75,Subtitle,,0,0,0,,How could this be?!
+Dialogue: 0,0:18:02.88,0:18:05.54,Subtitle,,0,0,0,,I didn't know I had such a sense of humor in me!
+Dialogue: 0,0:18:13.42,0:18:15.79,Subtitle,,0,0,0,,What happened, Ms. Nishi?
+Dialogue: 0,0:18:16.04,0:18:18.54,Subtitle,,0,0,0,,I'm sorry, I spilled the coffee...
+Dialogue: 0,0:18:18.54,0:18:20.58,Subtitle,,0,0,0,,But I finished wiping it up.
+Dialogue: 0,0:18:20.58,0:18:22.00,Subtitle,,0,0,0,,I see...
+Dialogue: 0,0:18:22.00,0:18:22.96,Subtitle,,0,0,0,,Oh?!
+Dialogue: 0,0:18:24.83,0:18:27.92,Subtitle,,0,0,0,,I don't know which one is the chair\Nthat collapses when you sit on it!
+Dialogue: 0,0:18:28.38,0:18:29.58,Subtitle,,0,0,0,,Unfortunately...
+Dialogue: 0,0:18:29.71,0:18:32.29,Subtitle,,0,0,0,,I'll have to cancel Operation: Make Arashiyama Fall...
+Dialogue: 0,0:18:32.42,0:18:33.29,Subtitle,,0,0,0,,Oh!
+Dialogue: 0,0:18:33.29,0:18:36.42,Subtitle,,0,0,0,,That means, on which chair am I supposed to sit?!
+Dialogue: 0,0:18:36.88,0:18:39.33,Subtitle,,0,0,0,,Lecture style when the offense is minor.
+Dialogue: 0,0:18:39.79,0:18:42.04,Subtitle,,0,0,0,,Lecture style when the offense is slightly major.
+Dialogue: 0,0:18:42.75,0:18:45.75,Subtitle,,0,0,0,,Lecture style when the offense is major.
+Dialogue: 0,0:18:46.54,0:18:50.17,Subtitle,,0,0,0,,Regardless of the style, I'll have to sit\Non one of these chairs!
+Dialogue: 0,0:18:50.63,0:18:54.13,Subtitle,,0,0,0,,Say the chair collapses while in front of Arashiyama...
+Dialogue: 0,0:18:56.04,0:18:57.00,Subtitle,,0,0,0,,Whoa!
+Dialogue: 0,0:18:57.75,0:19:01.13,Subtitle,,0,0,0,,Without a doubt, my dignity will collapse as well.
+Dialogue: 0,0:19:07.21,0:19:08.75,Subtitle,,0,0,0,,Which one is the bad chair?
+Dialogue: 0,0:19:09.21,0:19:12.17,Subtitle,,0,0,0,,I can't tell just by pressing on it with my hand...
+Dialogue: 0,0:19:12.38,0:19:16.04,Subtitle,,0,0,0,,If this was going to happen, I should've\Nmarked it or something this morning...
+Dialogue: 0,0:19:17.92,0:19:20.13,Subtitle,,0,0,0,,Cancel today's lecture.
+Dialogue: 0,0:19:20.58,0:19:23.71,Subtitle,,0,0,0,,Is an educator going to run away\Nfrom the place of education?!
+Dialogue: 0,0:19:25.50,0:19:27.75,Subtitle,,0,0,0,,Okay, I will sit down!
+Dialogue: 0,0:19:27.92,0:19:29.46,Subtitle,,0,0,0,,Huh... Go ahead.
+Dialogue: 0,0:19:29.58,0:19:32.04,Subtitle,,0,0,0,,Damn it! You don't even understand how I feel!
+Dialogue: 0,0:19:32.96,0:19:38.54,Subtitle,,0,0,0,,I just noticed, but the letter\N"pi" looks like "death"... Ominous...
+Dialogue: 0,0:19:38.79,0:19:43.21,Subtitle,,0,0,0,,Snap out of it! Omens and luck do not exist!
+Dialogue: 0,0:19:43.33,0:19:49.33,Subtitle,,0,0,0,,What is certain is that the possibility\Nof this chair collapsing is 33.3333 percent...
+Dialogue: 0,0:19:50.92,0:19:52.21,Subtitle,,0,0,0,,What are you doing?
+Dialogue: 0,0:19:52.42,0:19:53.96,Subtitle,,0,0,0,,Ah, n-nothing.
+Dialogue: 0,0:19:54.25,0:19:56.88,Subtitle,,0,0,0,,Okay, Arashiyama. I'm going to sit down.
+Dialogue: 0,0:19:56.88,0:19:59.46,Subtitle,,0,0,0,,So you sit down, too.
+Dialogue: 0,0:19:59.46,0:20:01.04,Subtitle,,0,0,0,,Okay... then...
+Dialogue: 0,0:20:02.33,0:20:03.96,Subtitle,,0,0,0,,No hard feelings.
+Dialogue: 0,0:20:20.29,0:20:22.54,Subtitle,,0,0,0,,Teacher, is something wrong with you?
+Dialogue: 0,0:20:22.54,0:20:25.38,Subtitle,,0,0,0,,You were mumbling about 33% and whatnot...
+Dialogue: 0,0:20:25.38,0:20:27.25,Subtitle,,0,0,0,,O-oh...
+Dialogue: 0,0:20:27.25,0:20:34.04,Subtitle,,0,0,0,,In other words! Out of a month,\Nyou are about 33% late! That's it.
+Dialogue: 0,0:20:34.04,0:20:35.67,Subtitle,,0,0,0,,I am not late that many times!
+Dialogue: 0,0:20:35.67,0:20:37.92,Subtitle,,0,0,0,,At most, twice a week.
+Dialogue: 0,0:20:37.92,0:20:39.46,Subtitle,,0,0,0,,Arashiyama...
+Dialogue: 0,0:20:39.58,0:20:42.79,Subtitle,,0,0,0,,Mathematics aside, are you not\Neven capable of arithmetic?
+Dialogue: 0,0:20:42.96,0:20:43.96,Subtitle,,0,0,0,,Wha-?
+Dialogue: 0,0:20:43.96,0:20:50.08,Subtitle,,0,0,0,,There's school six times a week,\Nand let's say I was tardy two days each...
+Dialogue: 0,0:20:50.08,0:20:51.00,Subtitle,,0,0,0,,Man!
+Dialogue: 0,0:20:51.00,0:20:53.00,Subtitle,,0,0,0,,I thought we were going to talk about tardiness?
+Dialogue: 0,0:20:53.00,0:20:55.92,Subtitle,,0,0,0,,Why are we doing something like math class?!
+Dialogue: 0,0:20:56.13,0:21:00.83,Subtitle,,0,0,0,,She thought of my class as the\Nsame level as simple arithmetic...
+Dialogue: 0,0:21:01.08,0:21:01.88,Subtitle,,0,0,0,,No!
+Dialogue: 0,0:21:01.88,0:21:04.13,Subtitle,,0,0,0,,I went through all that trouble\Nto avoid the collapsing chair,
+Dialogue: 0,0:21:04.13,0:21:06.25,Subtitle,,0,0,0,,so what am I doing collapsing myself?
+Dialogue: 0,0:21:06.38,0:21:09.54,Subtitle,,0,0,0,,For Arashiyama's sake, I'm going to tell her firmly!
+Dialogue: 0,0:21:09.63,0:21:11.75,Subtitle,,0,0,0,,As a teacher, strictly!
+Dialogue: 0,0:21:21.17,0:21:23.42,Subtitle,,0,0,0,,Today, after this, maintaining my dignity\Nas a teacher is 100% impossible!
+Dialogue: 0,0:21:23.42,0:21:27.25,Subtitle-2,,0,0,0,,Oh, heave ho.\N{\rSubtitle}Today, after this, maintaining my dignity{\r}\N{\rSubtitle}as a teacher is 100% impossible!{\r}
+Dialogue: 0,0:21:29.21,0:21:32.63,Subtitle,,0,0,0,,Not pasta, but spaghetti, poko.
+Dialogue: 0,0:21:34.38,0:21:35.25,Subtitle-3,,0,0,0,,Today, Taurus is having a decline in love fortune.
+Dialogue: 0,0:21:35.25,0:21:37.54,Subtitle,,0,0,0,,Sis, are you still watching the horoscopes?\N{\rSubtitle-4}Today, Taurus is having a decline in love fortune.{\r}
+Dialogue: 0,0:21:37.54,0:21:38.29,Subtitle,,0,0,0,,Shut up.\N{\rSubtitle-4}Today, Taurus is having a decline in love fortune.{\r}
+Dialogue: 0,0:21:38.29,0:21:38.79,Subtitle,,0,0,0,,Shut up.
+Dialogue: 0,0:21:38.79,0:21:40.71,Subtitle-3,,0,0,0,,Be careful of trouble with love.
+Dialogue: 0,0:21:40.71,0:21:42.42,Subtitle,,0,0,0,,Hmm, not quite.
+Dialogue: 0,0:21:43.21,0:21:43.79,Subtitle,,0,0,0,,Takeru, did you pack your handkerchief?
+Dialogue: 0,0:21:43.79,0:21:44.79,Subtitle,,0,0,0,,Takeru, did you pack your handkerchief?\N{\rSubtitle-4}Today, Taurus is having a decline in study fortune.{\r}
+Dialogue: 0,0:21:44.79,0:21:46.21,Subtitle,,0,0,0,,I put it in, I put it in.\N{\rSubtitle-4}Today, Taurus is having a decline in study fortune.{\r}
+Dialogue: 0,0:21:46.21,0:21:47.17,Subtitle-3,,0,0,0,,Today, Taurus is having a decline in study fortune.
+Dialogue: 0,0:21:47.42,0:21:49.25,Subtitle-3,,0,0,0,,Don't fall asleep during your test.
+Dialogue: 0,0:21:49.25,0:21:50.67,Subtitle,,0,0,0,,This isn't quite it, either...
+Dialogue: 0,0:21:51.54,0:21:52.92,Subtitle,,0,0,0,,I'll see you later!
+Dialogue: 0,0:21:52.92,0:21:53.46,Subtitle,,0,0,0,,Look out for cars!
+Dialogue: 0,0:21:53.46,0:21:54.88,Subtitle,,0,0,0,,Look out for cars!\N{\rSubtitle-4}Today on the 13 signs,{\r}
+Dialogue: 0,0:21:54.88,0:21:55.63,Subtitle-3,,0,0,0,,Today on the 13 signs,
+Dialogue: 0,0:21:55.63,0:22:00.08,Subtitle-3,,0,0,0,,Aries has the worst of luck in finances.
+Dialogue: 0,0:22:00.08,0:22:00.21,Subtitle,,0,0,0,,No, no, this is bad, too!\N{\rSubtitle-4}Aries has the worst of luck in finances.{\r}
+Dialogue: 0,0:22:00.21,0:22:02.29,Subtitle,,0,0,0,,No, no, this is bad, too!\N{\rSubtitle-4}Don't drop your wallet!{\r}
+Dialogue: 0,0:22:03.08,0:22:04.92,Subtitle,,0,0,0,,And so, that's why I was late.
+Dialogue: 0,0:22:07.75,0:22:08.88,Subtitle,,0,0,0,,I can't figure you out!
+Dialogue: 0,0:23:40.96,0:23:44.21,Subtitle,,0,0,0,,Hey, Senpai, don't you think Tattsun is a bit awkward?
+Dialogue: 0,0:23:44.21,0:23:46.50,Subtitle,,0,0,0,,Yeah. It's true, she's kind of awkward.
+Dialogue: 0,0:23:46.50,0:23:48.79,Subtitle,,0,0,0,,How should I say it but awkward.
+Dialogue: 0,0:23:48.79,0:23:51.75,Subtitle,,0,0,0,,If she's subtly leaning toward either,
+Dialogue: 0,0:23:51.75,0:23:54.42,Subtitle,,0,0,0,,then she's not awkward, but subtly\Nnestled in an awkward place.
+Dialogue: 0,0:23:54.42,0:23:56.75,Subtitle,,0,0,0,,When it comes down to it, it is a bit awkward...
+Dialogue: 0,0:23:56.88,0:23:58.54,Subtitle,,0,0,0,,What?! What is it that I'm so awkward about?!
+Dialogue: 0,0:23:58.54,0:23:59.75,Subtitle,,0,0,0,,Hmmmm...
+Dialogue: 0,0:23:59.88,0:24:01.54,Subtitle,,0,0,0,,It's something that you can't clearly say?!
+Dialogue: 0,0:24:01.54,0:24:03.33,Subtitle,,0,0,0,,It's awkward...
+Dialogue: 0,0:24:03.63,0:24:07.33,Subtitle,,0,0,0,,Next episode, Street Number Five,\N"The Truly Awkward Toshiko Tatsuno."
+Dialogue: 0,0:24:07.33,0:24:09.71,Subtitle,,0,0,0,,Sometimes we turn around and around, poko.
+Dialogue: 0,0:00:03.92,0:00:06.00,SongCap,,0,0,0,,{\pos(524.8,187.2)}{\an7}Street No. 04
+Dialogue: 0,0:00:03.92,0:00:06.00,SongCap-2,,0,0,0,,{\pos(384,345.6)}{\an7}"The Equation of Curses"
+Dialogue: 0,0:00:03.92,0:00:06.00,SongCap-3,,0,0,0,,{\pos(473.6,432)}{\an7}And Yet the Town Moves
+Dialogue: 0,0:00:35.29,0:00:36.42,SongCap-4,,0,0,0,,{\pos(409.6,100.8)}{\an7}7th Scorpio: You want to think about
+Dialogue: 0,0:00:35.29,0:00:36.42,SongCap-5,,0,0,0,,{\pos(588.8,151.2)}{\an7}being nice to others first today.
+Dialogue: 0,0:00:35.29,0:00:36.42,SongCap-4,,0,0,0,,{\pos(435.2,208.8)}{\an7}8th Aries: Be conscious of keeping
+Dialogue: 0,0:00:35.30,0:00:36.42,SongCap-5,,0,0,0,,{\pos(576,259.2)}{\an7}a regular lifestyle
+Dialogue: 0,0:00:35.30,0:00:36.42,SongCap-4,,0,0,0,,{\pos(435.2,324)}{\an7}9th Libra: Even if you're not benefiting,
+Dialogue: 0,0:00:35.30,0:00:36.42,SongCap-5,,0,0,0,,{\pos(576,374.4)}{\an7}it's important to be honest
+Dialogue: 0,0:00:35.30,0:00:36.42,SongCap-4,,0,0,0,,{\pos(409.6,432)}{\an7}10th Taurus: A tiring day from dealing
+Dialogue: 0,0:00:35.30,0:00:36.42,SongCap-5,,0,0,0,,{\pos(576,482.4)}{\an7}with an older person
+Dialogue: 0,0:00:35.30,0:00:36.42,SongCap-4,,0,0,0,,11th Capricorn: It's important to listen\Ncarefully to what others say
+Dialogue: 0,0:00:37.92,0:00:38.92,SongCap-5,,0,0,0,,{\pos(294.4,57.6)}{\an7}6th Cancer: A possibility that what you've
+Dialogue: 0,0:00:37.92,0:00:38.92,SongCap-5,,0,0,0,,{\pos(460.8,108)}{\an7}been doing backfires on you
+Dialogue: 0,0:00:37.92,0:00:38.92,SongCap-4,,0,0,0,,{\pos(460.8,158.4)}{\an7}Lucky color: White
+Dialogue: 0,0:00:37.92,0:00:38.92,SongCap-5,,0,0,0,,{\pos(332.8,208.8)}{\an7}7th Leo: You may be tested for
+Dialogue: 0,0:00:37.92,0:00:38.92,SongCap-5,,0,0,0,,{\pos(448,259.2)}{\an7}your everyday behavior.
+Dialogue: 0,0:00:37.92,0:00:38.92,SongCap-4,,0,0,0,,{\pos(460.8,309.6)}{\an7}Lucky color: Brown
+Dialogue: 0,0:00:37.92,0:00:38.92,SongCap-5,,0,0,0,,{\pos(294.4,360)}{\an7}8th Aries: A little extra effort will go a long way
+Dialogue: 0,0:00:37.92,0:00:38.92,SongCap-4,,0,0,0,,{\pos(473.6,410.4)}{\an7}Lucky color: Viridian
+Dialogue: 0,0:00:37.93,0:00:38.92,SongCap-5,,0,0,0,,{\pos(281.6,460.8)}{\an7}9th Taurus: Spend today being calm
+Dialogue: 0,0:00:37.92,0:00:38.92,SongCap-5,,0,0,0,,to prepare for tomorrow.\N{\rSongCap-4}Lucky color: Navy Blue{\r}
+Dialogue: 0,0:00:40.17,0:00:41.17,SongCap-6,,0,0,0,,{\pos(320,151.2)}{\an7}Today's Fortune: Taurus
+Dialogue: 0,0:00:40.17,0:00:41.17,SongCap-6,,0,0,0,,{\pos(358.4,259.2)}{\an7}Money
+Dialogue: 0,0:00:40.17,0:00:41.17,SongCap-6,,0,0,0,,{\pos(371.2,345.6)}{\an7}Love
+Dialogue: 0,0:00:40.17,0:00:41.17,SongCap-6,,0,0,0,,{\pos(371.2,453.6)}{\an7}Work
+Dialogue: 0,0:00:40.17,0:00:41.17,SongCap-6,,0,0,0,,Health
+Dialogue: 0,0:00:42.42,0:00:43.42,SongCap-7,,0,0,0,,{\pos(396.8,187.2)}{\an7}7th    TAURUS
+Dialogue: 0,0:00:42.42,0:00:43.42,SongCap-8,,0,0,0,,{\pos(537.6,252)}{\an7}(APRIL 21 THROUGH MAY 21)
+Dialogue: 0,0:00:42.42,0:00:43.42,SongCap-9,,0,0,0,,{\pos(409.6,316.8)}{\an7}Close encounter with the
+Dialogue: 0,0:00:42.42,0:00:43.42,SongCap-9,,0,0,0,,{\pos(409.6,374.4)}{\an7}person of your destiny!
+Dialogue: 0,0:00:42.42,0:00:43.42,SongCap-9,,0,0,0,,{\pos(422.4,424.8)}{\an7}-Don't forget to have
+Dialogue: 0,0:00:42.42,0:00:43.42,SongCap-9,,0,0,0,,{\pos(422.4,475.2)}{\an7}an active spirit at all times
+Dialogue: 0,0:00:42.42,0:00:43.42,SongCap-10,,0,0,0,,Lucky item: Mug cup
+Dialogue: 0,0:01:45.67,0:01:47.67,SongCap-11,,0,0,0,,{\pos(550.4,172.8)}{\an7}SUMMONS
+Dialogue: 0,0:01:45.67,0:01:47.67,SongCap-11,,0,0,0,,{\pos(576,230.4)}{\an7}1-A #020
+Dialogue: 0,0:01:45.67,0:01:47.67,SongCap-11,,0,0,0,,{\pos(499.2,280.8)}{\an7}Hotori Arashiyama
+Dialogue: 0,0:01:45.67,0:01:47.67,SongCap-11,,0,0,0,,{\pos(486.4,352.8)}{\an7}Detention for Math.
+Dialogue: 0,0:01:45.67,0:01:47.67,SongCap-11,,0,0,0,,{\pos(473.6,403.2)}{\an7}Stay back after school.
+Dialogue: 0,0:01:45.67,0:01:47.67,SongCap-11,,0,0,0,,NATSUHIKO MORIAKI
+Dialogue: 0,0:01:59.13,0:02:05.63,SongCap-12,,0,0,0,,Nanairo no tasogare orite kite
+Dialogue: 0,0:02:05.63,0:02:11.00,SongCap-12,,0,0,0,,Kaze wa nandaka suzushige
+Dialogue: 0,0:02:11.00,0:02:15.67,SongCap-12,,0,0,0,,Doyoubi no yoru wa nigiyaka
+Dialogue: 0,0:02:16.46,0:02:21.83,SongCap-12,,0,0,0,,Kurai kimochi sae
+Dialogue: 0,0:02:21.83,0:02:25.38,SongCap-12,,0,0,0,,Suguni harete
+Dialogue: 0,0:02:25.50,0:02:28.50,SongCap-12,,0,0,0,,Minna uki uki
+Dialogue: 0,0:02:29.25,0:02:30.42,SongCap-12,,0,0,0,,Uki uki
+Dialogue: 0,0:02:33.38,0:02:36.04,SongCap-12,,0,0,0,,Downtown e kuridasou
+Dialogue: 0,0:02:37.00,0:02:39.54,SongCap-12,,0,0,0,,Downtown e kuridasou
+Dialogue: 0,0:02:40.67,0:02:43.33,SongCap-12,,0,0,0,,Downtown e kuridasou
+Dialogue: 0,0:02:45.92,0:02:48.67,SongCap-12,,0,0,0,,Downtown e kuridasou
+Dialogue: 0,0:02:49.67,0:02:52.08,SongCap-12,,0,0,0,,Downtown e kuridasou
+Dialogue: 0,0:02:53.33,0:02:58.29,SongCap-12,,0,0,0,,Downtown e kuridasou
+Dialogue: 0,0:02:58.63,0:03:02.13,SongCap-12,,0,0,0,,Downtown e kuridasou
+Dialogue: 0,0:03:02.25,0:03:05.71,SongCap-12,,0,0,0,,Downtown e kuridasou
+Dialogue: 0,0:03:05.92,0:03:08.63,SongCap-12,,0,0,0,,Downtown e kuridasou
+Dialogue: 0,0:03:08.79,0:03:11.63,SongCap-12,,0,0,0,,Uki uki
+Dialogue: 0,0:03:11.75,0:03:15.46,SongCap-12,,0,0,0,,Uki uki
+Dialogue: 0,0:03:30.33,0:03:30.71,SongCap-13,,0,0,0,,{\pos(268.8,158.4)}{\an7}Key Points Regarding Finite Sequences (n-Particle Values)
+Dialogue: 0,0:04:04.96,0:04:10.96,SongCap-13,,0,0,0,,{\pos(640,417.6)}{\an7}Arithmetic
+Dialogue: 0,0:04:17.50,0:04:18.42,SongCap-14,,0,0,0,,{\pos(550.4,410.4)}{\an7}DIVISION
+Dialogue: 0,0:06:02.88,0:06:04.00,SongCap-15,,0,0,0,,{\pos(409.6,446.4)}{\an7}Math
+Dialogue: 0,0:06:02.88,0:06:04.00,SongCap-15,,0,0,0,,{\pos(371.2,496.8)}{\an7}Detention
+Dialogue: 0,0:06:20.04,0:06:21.17,SongCap-15,,0,0,0,,{\pos(409.6,446.4)}{\an7}Math
+Dialogue: 0,0:06:20.04,0:06:21.17,SongCap-15,,0,0,0,,{\pos(371.2,496.8)}{\an7}Detention
+Dialogue: 0,0:06:25.54,0:06:27.50,SongCap-16,,0,0,0,,{\pos(102.4,266.4)}{\an7}ARASHIYAMA,
+Dialogue: 0,0:06:25.54,0:06:27.50,SongCap-16,,0,0,0,,{\pos(102.4,345.6)}{\an7}HOTORI
+Dialogue: 0,0:06:27.50,0:06:30.63,SongCap-17,,0,0,0,,{\pos(102.4,43.2)}{\an7}Note: With him standing in front of Hotori's name on the blackboard,
+Dialogue: 0,0:06:27.50,0:06:30.63,SongCap-17,,0,0,0,,{\pos(179.2,93.6)}{\an7}the visible letters "A" and "Ho," in Japanese, spell "idiot."
+Dialogue: 0,0:06:27.50,0:06:30.63,SongCap-18,,0,0,0,,{\pos(409.6,432)}{\an7}A
+Dialogue: 0,0:06:27.50,0:06:30.63,SongCap-18,,0,0,0,,HO
+Dialogue: 0,0:06:36.75,0:06:41.75,SongCap-19,,0,0,0,,{\pos(345.6,460.8)}{\an7}IDIOT
+Dialogue: 0,0:06:44.96,0:06:50.79,SongCap-20,,0,0,0,,{\pos(473.6,316.8)}{\an7}IDIOT
+Dialogue: 0,0:06:50.79,0:06:54.46,SongCap-17,,0,0,0,,{\pos(102.4,43.2)}{\an7}Note: In Japanese schools, circles represent correct answers
+Dialogue: 0,0:06:50.79,0:06:54.46,SongCap-17,,0,0,0,,{\pos(179.2,93.6)}{\an7}while check marks indicate incorrect answers
+Dialogue: 0,0:07:04.83,0:07:06.21,SongCap-21,,0,0,0,,{\pos(230.4,79.2)}{\an7}5.   When the equation x³-3x²+bx-2=0
+Dialogue: 0,0:07:04.83,0:07:06.21,SongCap-22,,0,0,0,,{\pos(307.2,180)}{\an7}and has the solution x=1+i
+Dialogue: 0,0:07:04.83,0:07:06.21,SongCap-22,,0,0,0,,{\pos(307.2,280.8)}{\an7}solve the quantity for b
+Dialogue: 0,0:07:07.08,0:07:13.79,SongCap-21,,0,0,0,,{\pos(230.4,79.2)}{\an7}5.   When the equation x³-3x²+bx-2=0
+Dialogue: 0,0:07:07.08,0:07:13.79,SongCap-22,,0,0,0,,{\pos(307.2,180)}{\an7}and has the solution x=1+i
+Dialogue: 0,0:07:07.08,0:07:13.79,SongCap-22,,0,0,0,,{\pos(307.2,280.8)}{\an7}solve the quantity for b
+Dialogue: 0,0:08:00.46,0:08:01.54,SongCap-23,,0,0,0,,{\pos(512,295.2)}{\an7}IDIOT
+Dialogue: 0,0:08:11.58,0:08:16.83,SongCap-20,,0,0,0,,{\pos(320,496.8)}{\an7}IDIOT
+Dialogue: 0,0:08:32.83,0:08:38.04,SongCap-20,,0,0,0,,{\pos(294.4,446.4)}{\an7}IDIOT
+Dialogue: 0,0:09:01.33,0:09:04.04,SongCap-11,,0,0,0,,{\pos(384,136.8)}{\an7}How did this metal sphere of
+Dialogue: 0,0:09:01.33,0:09:04.04,SongCap-11,,0,0,0,,{\pos(384,187.2)}{\an7}1 meter diameter fit into this house?
+Dialogue: 0,0:09:01.34,0:09:04.04,SongCap-11,,0,0,0,,{\pos(499.2,324)}{\an7}Door
+Dialogue: 0,0:09:01.34,0:09:04.04,SongCap-11,,0,0,0,,{\pos(627.2,381.6)}{\an7}Metal sphere
+Dialogue: 0,0:09:16.38,0:09:18.13,SongCap-11,,0,0,0,,{\pos(409.6,165.6)}{\an7}Door
+Dialogue: 0,0:09:16.38,0:09:18.13,SongCap-11,,0,0,0,,{\pos(704,244.8)}{\an7}Metal sphere
+Dialogue: 0,0:09:37.29,0:09:41.42,SongCap-11,,0,0,0,,{\pos(409.6,237.6)}{\an7}Door
+Dialogue: 0,0:09:37.29,0:09:41.42,SongCap-11,,0,0,0,,{\pos(704,324)}{\an7}Metal sphere
+Dialogue: 0,0:10:04.54,0:10:06.29,SongCap-24,,0,0,0,,{\pos(550.4,244.8)}{\an7}Maid
+Dialogue: 0,0:10:04.54,0:10:06.29,SongCap-25,,0,0,0,,{\pos(576,345.6)}{\an7}Cafe
+Dialogue: 0,0:10:04.54,0:10:06.29,SongCap-25,,0,0,0,,{\pos(524.8,403.2)}{\an7}SEASIDE
+Dialogue: 0,0:10:06.29,0:10:12.54,SongCap-26,,0,0,0,,Math
+Dialogue: 0,0:11:09.38,0:11:16.79,SongCap-11,,0,0,0,,{\pos(332.8,417.6)}{\an7}(MAN + WOMAN) ÷ MORALS = 0
+Dialogue: 0,0:11:29.38,0:11:31.25,SongCap-27,,0,0,0,,{\pos(435.2,360)}{\an7}PRINCIPAL'S OFFICE
+Dialogue: 0,0:12:35.42,0:12:37.08,SongCap-28,,0,0,0,,{\pos(396.8,410.4)}{\an7}MORALS * LOVE
+Dialogue: 0,0:12:59.33,0:13:01.58,SongCap-29,,0,0,0,,{\pos(512,252)}{\an7}As a result of
+Dialogue: 0,0:12:59.33,0:13:01.58,SongCap-29,,0,0,0,,{\pos(524.8,331.2)}{\an7}showing him
+Dialogue: 0,0:12:59.34,0:13:01.58,SongCap-29,,0,0,0,,{\pos(524.8,410.4)}{\an7}the equation
+Dialogue: 0,0:13:01.58,0:13:03.63,SongCap-30,,0,0,0,,{\pos(473.6,432)}{\an7}MORALS * LOVE
+Dialogue: 0,0:13:53.92,0:13:55.04,SongCap-31,,0,0,0,,{\pos(550.4,331.2)}{\an7}CURSE
+Dialogue: 0,0:15:00.42,0:15:01.25,SongCap-32,,0,0,0,,{\pos(499.2,295.2)}{\an7}HAIR
+Dialogue: 0,0:15:00.42,0:15:01.25,SongCap-32,,0,0,0,,{\pos(435.2,345.6)}{\an7}RESTORATION
+Dialogue: 0,0:15:00.42,0:15:01.25,SongCap-32,,0,0,0,,{\pos(499.2,396)}{\an7}KING
+Dialogue: 0,0:15:01.46,0:15:02.33,SongCap-33,,0,0,0,,{\pos(460.8,216)}{\an7}HAIR
+Dialogue: 0,0:15:01.46,0:15:02.33,SongCap-33,,0,0,0,,{\pos(448,266.4)}{\an7}RESTORATION
+Dialogue: 0,0:15:01.46,0:15:02.33,SongCap-33,,0,0,0,,{\pos(486.4,316.8)}{\an7}KING
+Dialogue: 0,0:15:02.33,0:15:04.54,SongCap-33,,0,0,0,,{\pos(460.8,223.2)}{\an7}HAIR
+Dialogue: 0,0:15:02.33,0:15:04.54,SongCap-33,,0,0,0,,{\pos(448,273.6)}{\an7}RESTORATION
+Dialogue: 0,0:15:02.34,0:15:04.54,SongCap-33,,0,0,0,,{\pos(486.4,324)}{\an7}KING
+Dialogue: 0,0:15:02.34,0:15:04.54,SongCap-34,,0,0,0,,{\pos(678.4,496.8)}{\an7}Skin Miss
+Dialogue: 0,0:16:01.67,0:16:02.92,SongCap-32,,0,0,0,,{\pos(153.6,158.4)}{\an7}YES,
+Dialogue: 0,0:16:01.67,0:16:02.92,SongCap-32,,0,0,0,,{\pos(153.6,208.8)}{\an7}TEA
+Dialogue: 0,0:16:27.92,0:16:29.92,SongCap-35,,0,0,0,,{\pos(102.4,129.6)}{\an7}Summons                                             Summons                                                 Summons
+Dialogue: 0,0:16:27.92,0:16:29.92,SongCap-35,,0,0,0,,{\pos(102.4,180)}{\an7}2-B Oda                                    2-A #020    Hotori Arashiyama                   3D-009 Shikao
+Dialogue: 0,0:16:27.92,0:16:29.92,SongCap-35,,0,0,0,,{\pos(115.2,244.8)}{\an7}You'll know when                        Re: Your tardiness                           Please return manual.
+Dialogue: 0,0:16:27.92,0:16:29.92,SongCap-35,,0,0,0,,{\pos(102.4,295.2)}{\an7}you get here.
+Dialogue: 0,0:16:27.92,0:16:29.92,SongCap-35,,0,0,0,,Amano                                         NATSUHIKO MORIAKI                             Serizawa
+Dialogue: 0,0:17:55.04,0:18:00.17,SongCap-36,,0,0,0,,{\pos(550.4,223.2)}{\an7}Whoa!
+Dialogue: 0,0:18:08.58,0:18:09.17,SongCap-37,,0,0,0,,{\pos(524.8,388.8)}{\an7}Faculty Room
+Dialogue: 0,0:18:36.42,0:18:39.42,SongCap-38,,0,0,0,,{\pos(908.8,252)}{\an7}* Basic lecture styles
+Dialogue: 0,0:18:36.42,0:18:39.42,SongCap-38,,0,0,0,,{\pos(179.2,302.4)}{\an7}MINOR                                                                                         depending on
+Dialogue: 0,0:18:36.42,0:18:39.42,SongCap-38,,0,0,0,,{\pos(844.8,352.8)}{\an7}the weight of the offense
+Dialogue: 0,0:18:39.42,0:18:42.21,SongCap-38,,0,0,0,,{\pos(883.2,288)}{\an7}* Basic lecture styles
+Dialogue: 0,0:18:39.42,0:18:42.21,SongCap-38,,0,0,0,,{\pos(102.4,338.4)}{\an7}INDISCRETION                                                                           depending on the
+Dialogue: 0,0:18:39.42,0:18:42.21,SongCap-38,,0,0,0,,{\pos(870.4,388.8)}{\an7}weight of the offense
+Dialogue: 0,0:18:42.21,0:18:46.29,SongCap-38,,0,0,0,,{\pos(908.8,288)}{\an7}* Basic lecture styles
+Dialogue: 0,0:18:42.21,0:18:46.29,SongCap-38,,0,0,0,,{\pos(166.4,338.4)}{\an7}SERIOUS                                                                                  depending on the
+Dialogue: 0,0:18:42.21,0:18:46.29,SongCap-38,,0,0,0,,{\pos(896,388.8)}{\an7}weight of the offense
+Dialogue: 0,0:19:35.58,0:19:36.21,SongCap-31,,0,0,0,,{\pos(563.2,331.2)}{\an7}Death
+Dialogue: 0,0:21:32.63,0:21:34.13,SongCap-5,,0,0,0,,{\pos(435.2,108)}{\an7}2nd Libra: You may hear something
+Dialogue: 0,0:21:32.63,0:21:34.13,SongCap-5,,0,0,0,,{\pos(588.8,158.4)}{\an7}valuable from a stranger.
+Dialogue: 0,0:21:32.63,0:21:34.13,SongCap-5,,0,0,0,,{\pos(448,208.8)}{\an7}3rd Virgo: Today's encounters
+Dialogue: 0,0:21:32.63,0:21:34.13,SongCap-5,,0,0,0,,{\pos(588.8,259.2)}{\an7}are sure to be wonderful
+Dialogue: 0,0:21:32.63,0:21:34.13,SongCap-5,,0,0,0,,{\pos(435.2,324)}{\an7}4th Aries: You will come up with
+Dialogue: 0,0:21:32.63,0:21:34.13,SongCap-5,,0,0,0,,{\pos(588.8,374.4)}{\an7}lots of ideas at work
+Dialogue: 0,0:21:32.63,0:21:34.13,SongCap-5,,0,0,0,,{\pos(422.4,424.8)}{\an7}5th Cancer: You may hear something
+Dialogue: 0,0:21:32.63,0:21:34.13,SongCap-5,,0,0,0,,{\pos(588.8,475.2)}{\an7}valuable from a stranger.
+Dialogue: 0,0:21:32.63,0:21:34.13,SongCap-5,,0,0,0,,6th Taurus: You may hear something\Nvaluable from a stranger.
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-5,,0,0,0,,{\pos(294.4,57.6)}{\an7}6th Pisces: Maybe one of those days
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-5,,0,0,0,,{\pos(448,108)}{\an7}you have to work hard.
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-4,,0,0,0,,{\pos(473.6,158.4)}{\an7}Lucky color: Yellow
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-5,,0,0,0,,{\pos(281.6,208.8)}{\an7}7th Scorpio: If you get your colleagues to help,
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-5,,0,0,0,,{\pos(460.8,259.2)}{\an7}you'll succeed!
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-4,,0,0,0,,{\pos(473.6,309.6)}{\an7}Lucky color: pink
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-5,,0,0,0,,{\pos(281.6,360)}{\an7}8th Taurus: Talk to family about deep problems.
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-4,,0,0,0,,{\pos(473.6,410.4)}{\an7}Lucky color: Black
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-5,,0,0,0,,{\pos(320,460.8)}{\an7}9th Aries: Instead of worrying,
+Dialogue: 0,0:21:51.38,0:21:52.92,SongCap-5,,0,0,0,,think about moving forward.\N{\rSongCap-4}Lucky color: Light Blue{\r}
+Dialogue: 0,0:22:09.79,0:22:12.67,SongCap-12,,0,0,0,,Hi, Fu, Hi, Fu, Mi, Yo!
+Dialogue: 0,0:22:18.46,0:22:23.13,SongCap-12,,0,0,0,,Taikutsuya rock damashi tazusaete
+Dialogue: 0,0:22:23.13,0:22:27.42,SongCap-12,,0,0,0,,Hitorigurashi no bakuon jinsei
+Dialogue: 0,0:22:28.96,0:22:33.33,SongCap-12,,0,0,0,,Tennen no chouchin fugu na hoppeta de
+Dialogue: 0,0:22:33.50,0:22:37.75,SongCap-12,,0,0,0,,Machi wo kaosu ni kyo mo makikomu
+Dialogue: 0,0:22:39.33,0:22:43.88,SongCap-12,,0,0,0,,Tsundere wa intelligence no akashi nari
+Dialogue: 0,0:22:43.88,0:22:49.00,SongCap-12,,0,0,0,,Kyou mo kareni wa naze ka kokurezu
+Dialogue: 0,0:22:49.67,0:22:54.13,SongCap-12,,0,0,0,,Takkyu ni inochi wo sasage ashikoshi wo
+Dialogue: 0,0:22:54.13,0:22:58.67,SongCap-12,,0,0,0,,Kitaeru tame ni doramu tatako
+Dialogue: 0,0:23:00.00,0:23:03.13,SongCap-12,,0,0,0,,Konna band mo yarase ja ne
+Dialogue: 0,0:23:03.13,0:23:05.96,SongCap-12,,0,0,0,,Konna member rock ja ne
+Dialogue: 0,0:23:06.13,0:23:09.00,SongCap-12,,0,0,0,,Mezashite iruno wa ondo ja ne
+Dialogue: 0,0:23:09.13,0:23:11.92,SongCap-12,,0,0,0,,Tadori tsuku no wa nehan ja ne
+Dialogue: 0,0:23:11.92,0:23:13.50,SongCap-12,,0,0,0,,Warera wa Meido "Yeah!"
+Dialogue: 0,0:23:13.50,0:23:14.79,SongCap-12,,0,0,0,,Meido sugata de
+Dialogue: 0,0:23:14.79,0:23:16.38,SongCap-12,,0,0,0,,Sanjo sanjo!
+Dialogue: 0,0:23:16.38,0:23:17.83,SongCap-12,,0,0,0,,"Ach-ohhhhh!"
+Dialogue: 0,0:23:17.83,0:23:19.50,SongCap-12,,0,0,0,,Kokora wa meido "Yeah!"
+Dialogue: 0,0:23:19.50,0:23:20.79,SongCap-12,,0,0,0,,Jiken genba wa
+Dialogue: 0,0:23:20.79,0:23:22.21,SongCap-12,,0,0,0,,Sanjo sanjo!
+Dialogue: 0,0:23:22.21,0:23:23.79,SongCap-12,,0,0,0,,"Ach-ahhhh..."
+Dialogue: 0,0:23:23.79,0:23:25.21,SongCap-12,,0,0,0,,Muteki no meido "Yeah!"
+Dialogue: 0,0:23:25.21,0:23:26.71,SongCap-12,,0,0,0,,Benpi wa nanzan
+Dialogue: 0,0:23:26.71,0:23:28.17,SongCap-12,,0,0,0,,Kancho kancho!
+Dialogue: 0,0:23:28.17,0:23:29.71,SongCap-12,,0,0,0,,"Ach-ohhhhh!"
+Dialogue: 0,0:23:29.83,0:23:32.88,SongCap-12,,0,0,0,,Kiyoku tadashiku isagiyoku
+Dialogue: 0,0:23:32.88,0:23:35.92,SongCap-12,,0,0,0,,Seaside wa zessan! Eigyouchu!!
+Dialogue: 0,0:23:35.92,0:23:38.67,SongCap-12,,0,0,0,,"Meido arigatou gozaimasu!"
+Dialogue: 0,0:23:40.33,0:23:40.96,SongCap-39,,0,0,0,,{\pos(320,288)}{\an7}And Yet the Town Moves
+Dialogue: 0,0:23:40.33,0:23:40.96,SongCap-40,,0,0,0,,Next Episode
+Dialogue: 0,0:24:03.33,0:24:03.88,SongCap-41,,0,0,0,,{\pos(537.6,129.6)}{\an7}Cafe Seaside
+Dialogue: 0,0:24:03.88,0:24:08.13,SongCap-42,,0,0,0,,{\pos(537.6,129.6)}{\an7}Cafe Seaside
+Dialogue: 0,0:24:03.88,0:24:08.13,SongCap-43,,0,0,0,,{\pos(140.8,439.2)}{\an7}STREET NO. 05 "THE TRULY AWKWARD TOSHIKO TATSUNO"
+Dialogue: 0,0:24:08.13,0:24:10.33,SongCap-41,,0,0,0,,{\pos(537.6,129.6)}{\an7}Cafe Seaside

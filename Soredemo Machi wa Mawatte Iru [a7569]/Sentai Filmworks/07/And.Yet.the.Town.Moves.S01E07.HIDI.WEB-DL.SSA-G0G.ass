@@ -1,0 +1,508 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: SongCap,Arial Black,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-2,Mead Bold,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-3,Arial Narrow,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-4,Arial Rounded MT Bold,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-5,Gorilla BT,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle,Swis721 BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-6,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-7,Staccato555 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-8,Balloon Lt BT,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-9,Comic Sans MS,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-2,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-3,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-10,Times New Roman,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-11,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-12,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-13,Swis721 BT,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-14,Staccato555 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-15,MS Mincho,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-16,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-17,Tempus Sans ITC,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-18,FormalScrp421 BT,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-19,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-20,Arial Rounded MT Bold,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-21,Tempus Sans ITC,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-22,FormalScrp421 BT,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-23,AdLib BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-24,AdLib BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-25,Staccato555 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-26,Bradley Hand ITC,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-27,BakerSignet BT,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-4,Swis721 BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-28,Arial Rounded MT Bold,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-29,Babelfish,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-30,Staccato555 BT,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-31,Times New Roman,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-32,BakerSignet BT,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-33,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-34,Times New Roman,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-35,Arial Black,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-36,Arial Black,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-37,Garamond,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-38,BakerSignet BT,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-39,BakerSignet BT,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-40,Babelfish,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.67,0:00:11.13,Subtitle,,0,0,0,,We will compare love to foreign foods.
+Dialogue: 0,0:00:14.04,0:00:16.25,Subtitle,,0,0,0,,Love is like spaghetti with meat sauce.
+Dialogue: 0,0:00:16.67,0:00:20.00,Subtitle,,0,0,0,,It is very average but each person has their own taste.
+Dialogue: 0,0:00:20.46,0:00:22.54,Subtitle,,0,0,0,,Love is like rice enveloped in an omelet.
+Dialogue: 0,0:00:22.79,0:00:28.29,Subtitle,,0,0,0,,You can't be distracted by the beautiful egg on the\Nsurface and neglect the chicken fried rice on the inside.
+Dialogue: 0,0:00:28.83,0:00:30.79,Subtitle,,0,0,0,,Love is like curry.
+Dialogue: 0,0:00:30.79,0:00:34.29,Subtitle,,0,0,0,,The more you let it mature with time,\Nthe more the flavor increases in depth.
+Dialogue: 0,0:00:38.04,0:00:40.00,Subtitle,,0,0,0,,That's a dirty picture.
+Dialogue: 0,0:02:15.75,0:02:18.96,Subtitle-2,,0,0,0,,Your fortune according to your blood type!\NToday's first place is blood type A!
+Dialogue: 0,0:02:18.96,0:02:22.96,Subtitle-3,,0,0,0,,If you travel far, the distance between you\Nand the person you admire may shrink!
+Dialogue: 0,0:02:23.08,0:02:27.04,Subtitle,,0,0,0,,Keh. Where am I supposed to travel to on a weekday?
+Dialogue: 0,0:02:28.58,0:02:29.83,Subtitle,,0,0,0,,I'm off.
+Dialogue: 0,0:02:29.83,0:02:33.71,Subtitle,,0,0,0,,To make snarky comments to the TV first thing\Nin the morning means you're getting old.
+Dialogue: 0,0:02:33.96,0:02:35.88,Subtitle,,0,0,0,,Don't be listening in on me, Baldy.
+Dialogue: 0,0:02:35.88,0:02:37.67,Subtitle,,0,0,0,,How dare you call your parent bald!
+Dialogue: 0,0:02:38.42,0:02:41.42,Subtitle,,0,0,0,,Also, having crab for breakfast, are you kidding me?!
+Dialogue: 0,0:02:42.08,0:02:45.00,Subtitle,,0,0,0,,You should consider yourself fortunate\Nto have crab this early in the morning.
+Dialogue: 0,0:02:45.00,0:02:48.25,Subtitle,,0,0,0,,What part of having crab with your bread is fortunate?!
+Dialogue: 0,0:02:49.38,0:02:51.63,Subtitle,,0,0,0,,This is what you really call Kani-pan!
+Dialogue: 0,0:03:00.29,0:03:03.79,Subtitle,,0,0,0,,Whoa! It's Arashiyama. What's up with that awful face?
+Dialogue: 0,0:03:03.92,0:03:06.21,Subtitle,,0,0,0,,Morning...
+Dialogue: 0,0:03:06.58,0:03:10.67,Subtitle,,0,0,0,,You're usually just barely tardy,\Nbut today you're awfully early.
+Dialogue: 0,0:03:11.13,0:03:12.00,Subtitle,,0,0,0,,Oh.
+Dialogue: 0,0:03:13.08,0:03:15.58,Subtitle,,0,0,0,,Yesterday, I was counted tardy by a hair.
+Dialogue: 0,0:03:17.46,0:03:22.29,Subtitle,,0,0,0,,Because the bus stopped at every red light, I was late!
+Dialogue: 0,0:03:22.29,0:03:23.71,Subtitle,,0,0,0,,Of course it would!
+Dialogue: 0,0:03:26.96,0:03:28.96,Subtitle,,0,0,0,,Maybe... I should give up...
+Dialogue: 0,0:03:29.75,0:03:32.08,Subtitle,,0,0,0,,Arashiyama! Let's not give up and run!
+Dialogue: 0,0:03:32.54,0:03:33.71,Subtitle,,0,0,0,,Wajima...
+Dialogue: 0,0:03:34.29,0:03:35.17,Subtitle,,0,0,0,,Misawa...
+Dialogue: 0,0:03:35.17,0:03:36.17,Subtitle,,0,0,0,,Here.
+Dialogue: 0,0:03:36.50,0:03:37.25,Subtitle,,0,0,0,,Mori...
+Dialogue: 0,0:03:37.25,0:03:38.00,Subtitle,,0,0,0,,Here.
+Dialogue: 0,0:03:38.29,0:03:39.17,Subtitle,,0,0,0,,Yamakawa...
+Dialogue: 0,0:03:39.17,0:03:40.21,Subtitle,,0,0,0,,Here.
+Dialogue: 0,0:03:40.46,0:03:41.29,Subtitle,,0,0,0,,Wajima...
+Dialogue: 0,0:03:41.63,0:03:42.63,Subtitle,,0,0,0,,Here!
+Dialogue: 0,0:03:42.79,0:03:43.88,Subtitle,,0,0,0,,Go sit down.
+Dialogue: 0,0:03:43.88,0:03:44.96,Subtitle,,0,0,0,,Safe!
+Dialogue: 0,0:03:44.96,0:03:48.42,Subtitle,,0,0,0,,The tardy Arashiyama can stand in the hallway\Nwhile we have homeroom.
+Dialogue: 0,0:03:50.17,0:03:51.96,Subtitle,,0,0,0,,That's not fair!
+Dialogue: 0,0:03:52.21,0:03:54.75,Subtitle,,0,0,0,,Wajima is the only one safe\Njust because of her last name?!
+Dialogue: 0,0:03:55.00,0:03:58.96,Subtitle,,0,0,0,,A difference in the order of attendance\Nis Heaven and Hell?!
+Dialogue: 0,0:04:00.13,0:04:04.46,Subtitle,,0,0,0,,If I were "Warashiyama" then I would've been\Ncalled last and I would've been safe...
+Dialogue: 0,0:04:04.46,0:04:05.92,Subtitle,,0,0,0,,Sob sob...
+Dialogue: 0,0:04:06.33,0:04:08.83,Subtitle,,0,0,0,,Sob. Struggle. Pfft.
+Dialogue: 0,0:04:08.83,0:04:09.96,Subtitle,,0,0,0,,Or something like that!
+Dialogue: 0,0:04:11.50,0:04:13.92,Subtitle,,0,0,0,,If you don't take standing there seriously,\NI will mark you as absent.
+Dialogue: 0,0:04:13.92,0:04:15.63,Subtitle,,0,0,0,,Whoa!
+Dialogue: 0,0:04:16.33,0:04:20.42,Subtitle,,0,0,0,,Is that why you're up so early today?\NThat's a good mindset.
+Dialogue: 0,0:04:20.42,0:04:21.58,Subtitle,,0,0,0,,That's not it.
+Dialogue: 0,0:04:22.75,0:04:24.79,Subtitle,,0,0,0,,I stayed up all night and finished reading it.
+Dialogue: 0,0:04:24.79,0:04:26.96,Subtitle,,0,0,0,,Another mystery novel, huh.
+Dialogue: 0,0:04:26.96,0:04:28.08,Subtitle,,0,0,0,,I'll lend it to you.
+Dialogue: 0,0:04:29.38,0:04:32.04,Subtitle,,0,0,0,,Hmm. So, who's the culprit?
+Dialogue: 0,0:04:32.04,0:04:33.92,Subtitle,,0,0,0,,Some woman named Misuzu.
+Dialogue: 0,0:04:35.67,0:04:36.46,Subtitle,,0,0,0,,I'll give it back to you.
+Dialogue: 0,0:04:36.46,0:04:37.33,Subtitle,,0,0,0,,Oh!
+Dialogue: 0,0:04:37.33,0:04:44.42,Subtitle,,0,0,0,,Aww, that's beside the point!\NJust read the book, it's interesting!
+Dialogue: 0,0:04:47.08,0:04:49.29,Subtitle,,0,0,0,,She's just like a bad drunk.
+Dialogue: 0,0:05:13.13,0:05:17.00,Subtitle,,0,0,0,,Thank you, God! Thank you!
+Dialogue: 0,0:05:18.25,0:05:20.50,Subtitle-2,,0,0,0,,Next stop is Oya High School...
+Dialogue: 0,0:05:25.67,0:05:29.92,Subtitle,,0,0,0,,How merciless! Is there no God or Buddha in this world?!
+Dialogue: 0,0:05:33.54,0:05:35.54,Subtitle,,0,0,0,,This extreme bliss...
+Dialogue: 0,0:05:40.75,0:05:44.33,Subtitle,,0,0,0,,I have to put an end to it with my very own index finger.
+Dialogue: 0,0:05:44.33,0:05:46.08,Subtitle,,0,0,0,,How cruel...!
+Dialogue: 0,0:05:46.29,0:05:47.00,Subtitle,,0,0,0,,Oh!
+Dialogue: 0,0:05:47.00,0:05:51.33,Subtitle-2,,0,0,0,,Your fortune according to your blood type!\NToday's first place is blood type A! A, A...
+Dialogue: 0,0:05:53.59,0:05:58.63,Subtitle-2,,0,0,0,,If you travel far, the distance between you and the\Nperson you admire may shrink! May shrink! May...
+Dialogue: 0,0:06:00.63,0:06:03.38,Subtitle,,0,0,0,,If I get off here, I'm not a man!
+Dialogue: 0,0:06:05.25,0:06:09.38,Subtitle,,0,0,0,,Just as I am, I'm going to go as far\Nas I can go and rendezvous!
+Dialogue: 0,0:06:11.25,0:06:13.13,Subtitle,,0,0,0,,Where is this?
+Dialogue: 0,0:06:14.13,0:06:15.38,Subtitle,,0,0,0,,It's the last stop, so they say.
+Dialogue: 0,0:06:16.00,0:06:19.17,Subtitle,,0,0,0,,In one day, I gained 2 kilos, poko.
+Dialogue: 0,0:06:19.67,0:06:22.75,Subtitle,,0,0,0,,Are you kidding?! First period has already started.
+Dialogue: 0,0:06:24.00,0:06:28.88,Subtitle,,0,0,0,,I'm sorry... Um... I... f-fell asleep too...
+Dialogue: 0,0:06:29.13,0:06:32.50,Subtitle,,0,0,0,,Don't busses go around and around the same route?
+Dialogue: 0,0:06:32.75,0:06:35.63,Subtitle,,0,0,0,,I thought so too, but that wasn't the case.
+Dialogue: 0,0:06:36.04,0:06:38.17,Subtitle,,0,0,0,,There are so many things we don't know about the world.
+Dialogue: 0,0:06:38.83,0:06:42.21,Subtitle,,0,0,0,,The returning bus will arrive in about 20 minutes.
+Dialogue: 0,0:06:47.79,0:06:51.42,Subtitle,,0,0,0,,At the earliest, we'll get back to school\Nduring second period.
+Dialogue: 0,0:07:01.00,0:07:02.92,Subtitle,,0,0,0,,It's so nice out.
+Dialogue: 0,0:07:06.42,0:07:08.42,Subtitle,,0,0,0,,We don't have gym today, do we?
+Dialogue: 0,0:07:12.46,0:07:14.79,Subtitle,,0,0,0,,It's such a waste to be inside the classroom all day.
+Dialogue: 0,0:07:28.54,0:07:31.63,Subtitle,,0,0,0,,Shall we just stay out here and play hooky?
+Dialogue: 0,0:07:32.25,0:07:33.50,Subtitle,,0,0,0,,What do you think?
+Dialogue: 0,0:07:35.88,0:07:36.75,Subtitle,,0,0,0,,Really?
+Dialogue: 0,0:07:37.04,0:07:38.00,Subtitle,,0,0,0,,Eh?
+Dialogue: 0,0:07:38.21,0:07:42.00,Subtitle,,0,0,0,,After eating barbecue, ramen would\Nsit heavily in your stomach, poko.
+Dialogue: 0,0:07:44.92,0:07:48.08,Subtitle,,0,0,0,,Wow, it's a town I don't know!
+Dialogue: 0,0:07:48.38,0:07:50.50,Subtitle,,0,0,0,,She switches over quickly.
+Dialogue: 0,0:07:50.88,0:07:55.50,Subtitle,,0,0,0,,Man, there are people living\Neven in places you'd never see.
+Dialogue: 0,0:07:58.50,0:08:04.04,Subtitle,,0,0,0,,Somehow I'm relieved and at the same time\Na bit disappointed; it's a strange feeling.
+Dialogue: 0,0:08:07.54,0:08:08.33,Subtitle,,0,0,0,,Right?
+Dialogue: 0,0:08:09.17,0:08:10.17,Subtitle,,0,0,0,,Right.
+Dialogue: 0,0:08:16.71,0:08:20.17,Subtitle,,0,0,0,,Okay, Sanada! Let's go exploring!
+Dialogue: 0,0:08:20.17,0:08:21.46,Subtitle,,0,0,0,,You look so happy.
+Dialogue: 0,0:08:32.71,0:08:37.92,Subtitle,,0,0,0,,Oh, sorry, I have siblings who are much younger\Nthan me, so it's a habit for me to hold hands.
+Dialogue: 0,0:08:37.92,0:08:38.67,Subtitle,,0,0,0,,Did you not like it?
+Dialogue: 0,0:08:39.92,0:08:43.88,Subtitle,,0,0,0,,Not at all! Not even a single bit did I dislike it!
+Dialogue: 0,0:08:43.88,0:08:44.71,Subtitle,,0,0,0,,But...!
+Dialogue: 0,0:08:45.71,0:08:51.83,Subtitle,,0,0,0,,To hold just anyone's hand is a bit of a concern,\Nconsidering you're a high school girl...
+Dialogue: 0,0:08:52.29,0:08:54.96,Subtitle,,0,0,0,,No, I at least choose the person.
+Dialogue: 0,0:08:56.63,0:09:00.38,Subtitle,,0,0,0,,I, Hiroyuki Sanada! I have successfully been chosen!
+Dialogue: 0,0:09:00.38,0:09:03.46,Subtitle,,0,0,0,,I sincerely thank you for your warm support!
+Dialogue: 0,0:09:24.33,0:09:25.83,Subtitle,,0,0,0,,My mind can't take it!
+Dialogue: 0,0:09:25.83,0:09:29.63,Subtitle,,0,0,0,,I bet the remainder of my life's\Nhappiness meter is depleting fast!
+Dialogue: 0,0:09:34.50,0:09:35.88,Subtitle,,0,0,0,,Oh, it's a river.
+Dialogue: 0,0:09:38.17,0:09:39.25,Subtitle,,0,0,0,,It's the Tama River!
+Dialogue: 0,0:09:45.21,0:09:48.29,Subtitle,,0,0,0,,Do you think we can get home\Nby walking alongside the river?
+Dialogue: 0,0:09:48.29,0:09:51.25,Subtitle,,0,0,0,,Yeah, if we kept walking until our legs felt like sticks.
+Dialogue: 0,0:09:55.50,0:09:58.13,Subtitle,,0,0,0,,I skipped school...
+Dialogue: 0,0:09:58.13,0:09:59.50,Subtitle,,0,0,0,,What are you saying so late in the game?
+Dialogue: 0,0:10:02.58,0:10:04.42,Subtitle,,0,0,0,,Don't you think it's okay to do this once in a while?
+Dialogue: 0,0:10:04.42,0:10:08.54,Subtitle,,0,0,0,,That's true! Aside from studying,\Nthere are other important things, right?
+Dialogue: 0,0:10:08.54,0:10:09.29,Subtitle,,0,0,0,,Right?
+Dialogue: 0,0:10:12.33,0:10:16.04,Subtitle,,0,0,0,,Oh, but what if I'm summoned tomorrow?
+Dialogue: 0,0:10:16.25,0:10:20.92,Subtitle,,0,0,0,,I'm your accomplice. If you are summoned,\NI'll get summoned with you.
+Dialogue: 0,0:10:20.92,0:10:21.71,Subtitle,,0,0,0,,Uh-huh.
+Dialogue: 0,0:10:24.08,0:10:27.08,Subtitle,,0,0,0,,The last time we hung out together,\Nhow many years ago was that?
+Dialogue: 0,0:10:27.46,0:10:28.33,Subtitle,,0,0,0,,I wonder.
+Dialogue: 0,0:10:31.21,0:10:34.04,Subtitle,,0,0,0,,When we were little, we used to hang out more often.
+Dialogue: 0,0:10:34.88,0:10:37.83,Subtitle,,0,0,0,,Wh-why do you think we stopped hanging out...?
+Dialogue: 0,0:10:38.13,0:10:39.13,Subtitle,,0,0,0,,What?
+Dialogue: 0,0:10:40.04,0:10:41.58,Subtitle,,0,0,0,,You don't remember?!
+Dialogue: 0,0:10:41.58,0:10:42.96,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:10:42.96,0:10:44.00,Subtitle,,0,0,0,,It was you!
+Dialogue: 0,0:10:44.13,0:10:46.50,Subtitle,,0,0,0,,Who wants to hang out with a girl, stupid!
+Dialogue: 0,0:10:46.50,0:10:47.58,Subtitle,,0,0,0,,Let's go!
+Dialogue: 0,0:10:48.29,0:10:49.79,Subtitle,,0,0,0,,You said that!
+Dialogue: 0,0:10:53.17,0:10:54.54,Subtitle,,0,0,0,,I may have said it.
+Dialogue: 0,0:10:55.67,0:10:57.63,Subtitle,,0,0,0,,I'm terribly sorry.
+Dialogue: 0,0:10:57.63,0:11:02.08,Subtitle,,0,0,0,,Well, it's okay. But I did want to say it some day.
+Dialogue: 0,0:11:07.83,0:11:09.04,Subtitle,,0,0,0,,I'm home.
+Dialogue: 0,0:11:11.17,0:11:15.13,Subtitle,,0,0,0,,So that I won't forget how moved I was today,\NI shall start writing a journal.
+Dialogue: 0,0:11:18.54,0:11:21.67,Subtitle,,0,0,0,,Um... today...
+Dialogue: 0,0:11:21.67,0:11:25.58,Subtitle,,0,0,0,,Today I was with Arashiyama...\NWe skipped school and hung out.
+Dialogue: 0,0:11:26.92,0:11:29.00,Subtitle,,0,0,0,,Oh? Was that all?
+Dialogue: 0,0:11:30.92,0:11:34.21,Subtitle,,0,0,0,,In order to develop my strength in writing,\NI should read a novel...
+Dialogue: 0,0:11:34.63,0:11:36.50,Subtitle,,0,0,0,,I already know who the culprit is, though.
+Dialogue: 0,0:11:39.46,0:11:42.25,Subtitle,,0,0,0,,We will compare love to beverages.
+Dialogue: 0,0:11:42.63,0:11:45.79,Subtitle,,0,0,0,,Love is like a good cup of coffee.
+Dialogue: 0,0:11:45.88,0:11:51.29,Subtitle,,0,0,0,,Slightly bitter, it gives a sleepless night in exchange\Nfor a sense of dependency and comfort.
+Dialogue: 0,0:11:51.50,0:11:53.54,Subtitle,,0,0,0,,Arashiyama, rei-co...
+Dialogue: 0,0:11:54.67,0:11:59.42,Subtitle,,0,0,0,,The ingredients for which are: misinterpretation\Nand getting ideas stuck in your head.
+Dialogue: 0,0:11:59.58,0:12:01.54,Subtitle,,0,0,0,,Who are you calling Reiko!
+Dialogue: 0,0:12:01.54,0:12:03.83,Subtitle,,0,0,0,,Did you even forget the name of your childhood friend?!
+Dialogue: 0,0:12:03.83,0:12:06.63,Subtitle,,0,0,0,,Huh?! Wait, calm down, Arashiyama!
+Dialogue: 0,0:12:06.63,0:12:06.88,Subtitle,,0,0,0,,Rei-co is—
+Dialogue: 0,0:12:06.88,0:12:07.96,Subtitle-4,,0,0,0,,Grrr! So who is she?!\N{\rSubtitle}Rei-co is—{\r}
+Dialogue: 0,0:12:07.96,0:12:10.33,Subtitle-4,,0,0,0,,Grrr! So who is she?!
+Dialogue: 0,0:12:10.46,0:12:13.96,Subtitle,,0,0,0,,Sanada, I am surprised to hear you use\Na classical way of saying things.
+Dialogue: 0,0:12:14.08,0:12:14.83,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:12:14.83,0:12:16.50,Subtitle,,0,0,0,,Get out!
+Dialogue: 0,0:12:18.33,0:12:21.96,Subtitle,,0,0,0,,Even I did some bad stuff in the past, poko.
+Dialogue: 0,0:12:30.83,0:12:32.21,Subtitle,,0,0,0,,I can't sleep.
+Dialogue: 0,0:12:34.00,0:12:36.33,Subtitle,,0,0,0,,It must be because of that.
+Dialogue: 0,0:12:41.21,0:12:43.83,Subtitle,,0,0,0,,It's a bit early, but I'll go pee then go to bed.
+Dialogue: 0,0:12:48.96,0:12:51.54,Subtitle,,0,0,0,,Gyahhhh! A ghost!
+Dialogue: 0,0:12:54.75,0:12:58.38,Subtitle,,0,0,0,,Even when you're surprised,\Nyou're considerate to not be loud.
+Dialogue: 0,0:12:58.38,0:12:59.71,Subtitle,,0,0,0,,Wow, I admire that.
+Dialogue: 0,0:12:59.96,0:13:01.38,Subtitle,,0,0,0,,Oh, it's you, Takeru.
+Dialogue: 0,0:13:01.75,0:13:06.54,Subtitle,,0,0,0,,What are you doing up this late at night?\NChildren should go to bed at 9 and wake up at 6.
+Dialogue: 0,0:13:06.54,0:13:08.33,Subtitle,,0,0,0,,I can't sleep.
+Dialogue: 0,0:13:08.58,0:13:11.17,Subtitle,,0,0,0,,If I could sleep, I wouldn't come to your room.
+Dialogue: 0,0:13:11.17,0:13:12.50,Subtitle,,0,0,0,,What's that supposed to mean?!
+Dialogue: 0,0:13:12.71,0:13:15.13,Subtitle,,0,0,0,,It's partly your fault, too.
+Dialogue: 0,0:13:17.38,0:13:21.38,Subtitle,,0,0,0,,Hey, do you have any bottles about this big?\NI need it for crafts.
+Dialogue: 0,0:13:21.54,0:13:25.92,Subtitle,,0,0,0,,Here! To replenish your nutrients when you\Nexperience bodily fatigue! Napovitan C!
+Dialogue: 0,0:13:27.17,0:13:29.50,Subtitle,,0,0,0,,But I wanted empty bottles...
+Dialogue: 0,0:13:32.96,0:13:37.00,Subtitle,,0,0,0,,It was a very intense taste but\NI didn't want to waste it, so I drank it all.
+Dialogue: 0,0:13:39.21,0:13:41.00,Subtitle,,0,0,0,,I'm not sleepy at all yet...
+Dialogue: 0,0:13:41.29,0:13:44.92,Subtitle,,0,0,0,,Even for me it only takes half a bottle,\Nbut at your age you drank the whole thing?
+Dialogue: 0,0:13:45.21,0:13:48.25,Subtitle,,0,0,0,,But thanks to that, my castle came out perfect.
+Dialogue: 0,0:13:48.42,0:13:50.17,Subtitle,,0,0,0,,Well, aren't you hopeless.
+Dialogue: 0,0:13:50.17,0:13:53.63,Subtitle,,0,0,0,,Why don't we go for a walk for about\N30 minutes to use up that excess energy?
+Dialogue: 0,0:13:54.46,0:13:57.58,Subtitle,,0,0,0,,Is it okay?! No it's not! Isn't it not okay?
+Dialogue: 0,0:13:57.58,0:13:59.88,Subtitle,,0,0,0,,He seems so excited...
+Dialogue: 0,0:14:00.50,0:14:05.63,Subtitle,,0,0,0,,Well, for a child it's midnight, but for me\Nit's just the beginning of the evening.
+Dialogue: 0,0:14:06.33,0:14:09.42,Subtitle,,0,0,0,,I'll lend you my chest, poko.
+Dialogue: 0,0:14:13.50,0:14:15.63,Subtitle,,0,0,0,,Why are we going out the back door?
+Dialogue: 0,0:14:15.63,0:14:19.25,Subtitle,,0,0,0,,The front door makes a rolling noise,\Nand so Mom would find us out.
+Dialogue: 0,0:14:20.67,0:14:22.54,Subtitle,,0,0,0,,What's with the backpack?
+Dialogue: 0,0:14:22.75,0:14:23.92,Subtitle,,0,0,0,,It's preparation for my journey.
+Dialogue: 0,0:14:26.29,0:14:28.46,Subtitle,,0,0,0,,At night, the enemies are stronger.
+Dialogue: 0,0:14:28.63,0:14:31.08,Subtitle,,0,0,0,,What are you talking about? Your game?
+Dialogue: 0,0:14:31.08,0:14:33.67,Subtitle,,0,0,0,,The one good thing about this town\Nis how low the crime rate is.
+Dialogue: 0,0:14:35.67,0:14:39.33,Subtitle,,0,0,0,,Oh? Seaside's lights are on. Are they still open?
+Dialogue: 0,0:14:39.33,0:14:42.17,Subtitle,,0,0,0,,Oh, don't go near it during the night.
+Dialogue: 0,0:14:42.54,0:14:46.96,Subtitle,,0,0,0,,See, it becomes a place where\Nmiddle-aged rebels gather.
+Dialogue: 0,0:14:46.96,0:14:49.83,Subtitle,,0,0,0,,Takeru, never grow up to be like that!
+Dialogue: 0,0:14:50.58,0:14:51.92,Subtitle,,0,0,0,,But, they seem to be having fun.
+Dialogue: 0,0:14:52.29,0:14:53.17,Subtitle,,0,0,0,,Grr...
+Dialogue: 0,0:14:55.13,0:14:59.88,Subtitle,,0,0,0,,I'm going to grow up to be a lawyer\Nand I'll defend you, just like Mom asked.
+Dialogue: 0,0:14:59.88,0:15:01.50,Subtitle,,0,0,0,,You won't need to!
+Dialogue: 0,0:15:02.04,0:15:05.50,Subtitle,,0,0,0,,Carbonated fizzy fizzy dibon carboxide, poko.
+Dialogue: 0,0:15:05.88,0:15:09.42,Subtitle,,0,0,0,,Wow! The shopping district is mostly closed.
+Dialogue: 0,0:15:09.42,0:15:11.29,Subtitle,,0,0,0,,Now, where should we go?
+Dialogue: 0,0:15:16.71,0:15:21.04,Subtitle,,0,0,0,,He's still up. I'll call him up to be our bodyguard.
+Dialogue: 0,0:15:21.17,0:15:23.33,Subtitle,,0,0,0,,Oh, did I forget my cellphone?
+Dialogue: 0,0:15:23.33,0:15:24.67,Subtitle,,0,0,0,,Sis...
+Dialogue: 0,0:15:26.00,0:15:28.67,Subtitle,,0,0,0,,Oh! Is there something useful in there?!
+Dialogue: 0,0:15:30.00,0:15:32.04,Subtitle,,0,0,0,,There's a lot of junk in there...
+Dialogue: 0,0:15:32.04,0:15:33.17,Subtitle,,0,0,0,,SS!
+Dialogue: 0,0:15:33.17,0:15:36.17,Subtitle,,0,0,0,,Es... es? Here.
+Dialogue: 0,0:15:37.63,0:15:39.46,Subtitle,,0,0,0,,And what am I supposed to do with this?
+Dialogue: 0,0:15:39.46,0:15:43.54,Subtitle,,0,0,0,,This isn't it? I can't seem to find anything\Nthat fits the description of SS...
+Dialogue: 0,0:15:43.79,0:15:45.67,Subtitle,,0,0,0,,Man, I'll take it out myself.
+Dialogue: 0,0:15:46.25,0:15:48.88,Subtitle,,0,0,0,,SS is short for sling shot!
+Dialogue: 0,0:15:48.88,0:15:51.54,Subtitle,,0,0,0,,How should I know, you moron?! Call it a slingshot, idiot.
+Dialogue: 0,0:15:53.75,0:15:57.88,Subtitle,,0,0,0,,Hm, but because of the season, I only have 2 DDs left!
+Dialogue: 0,0:15:57.88,0:16:00.63,Subtitle,,0,0,0,,DD... Donguri Dan...
+Dialogue: 0,0:16:00.63,0:16:04.54,Subtitle,,0,0,0,,This time I figured it out by context.\NElementary school kids are so dumb.
+Dialogue: 0,0:16:07.79,0:16:10.83,Subtitle,,0,0,0,,Missed! Oh, my precious acorn...
+Dialogue: 0,0:16:10.83,0:16:12.96,Subtitle,,0,0,0,,Isn't it supposed to be called "DD"...?
+Dialogue: 0,0:16:18.71,0:16:20.46,Subtitle,,0,0,0,,If you pull on it too hard, it'll break!
+Dialogue: 0,0:16:20.67,0:16:22.04,Subtitle,,0,0,0,,I've been hearing voices for a while now...
+Dialogue: 0,0:16:28.13,0:16:31.50,Subtitle,,0,0,0,,Which one of you bastards did this?!\NI'm gonna kill you, damn it!
+Dialogue: 0,0:16:31.79,0:16:32.92,Subtitle,,0,0,0,,Yikes...
+Dialogue: 0,0:16:32.92,0:16:36.92,Subtitle,,0,0,0,,I meant for him to be our protection,\Nbut now we'll need protection from him!
+Dialogue: 0,0:16:36.92,0:16:40.00,Subtitle,,0,0,0,,If we apologize honestly, I think he'll forgive us.
+Dialogue: 0,0:16:41.96,0:16:45.38,Subtitle,,0,0,0,,I couldn't possibly think those eyes belong to someone\Nwho'd listen to what anyone is saying.
+Dialogue: 0,0:16:45.71,0:16:49.38,Subtitle,,0,0,0,,Because Sanada probably thinks of you as...
+Dialogue: 0,0:16:49.50,0:16:51.42,Subtitle,,0,0,0,,No... it's okay.
+Dialogue: 0,0:16:51.83,0:16:52.96,Subtitle,,0,0,0,,What?
+Dialogue: 0,0:16:52.96,0:16:54.63,Subtitle,,0,0,0,,No, it's nothing.
+Dialogue: 0,0:16:57.17,0:16:59.63,Subtitle,,0,0,0,,To Sanada... I'll apologize a year from now.
+Dialogue: 0,0:17:03.58,0:17:05.46,Subtitle,,0,0,0,,Takeru, aren't you hungry?
+Dialogue: 0,0:17:05.46,0:17:09.29,Subtitle,,0,0,0,,Eh? Oh yeah... now that you mention it,\NI kind of think so...
+Dialogue: 0,0:17:10.63,0:17:11.92,Subtitle,,0,0,0,,In front of the station...
+Dialogue: 0,0:17:11.92,0:17:14.92,Subtitle,,0,0,0,,No, I think I'm teaching him too many bad tricks already...
+Dialogue: 0,0:17:16.79,0:17:19.29,Subtitle,,0,0,0,,In front of the station, there's a food stand\Nthat serves ramen.
+Dialogue: 0,0:17:19.46,0:17:22.42,Subtitle,,0,0,0,,What?! So late at night?!
+Dialogue: 0,0:17:22.83,0:17:24.96,Subtitle,,0,0,0,,Again, he looks so happy.
+Dialogue: 0,0:17:25.63,0:17:28.83,Subtitle,,0,0,0,,I'm so sleepy, I'm dizzy, poko.
+Dialogue: 0,0:17:31.25,0:17:34.88,Subtitle,,0,0,0,,Now that I'm faced with it, will I gain weight?
+Dialogue: 0,0:17:35.67,0:17:38.21,Subtitle,,0,0,0,,I should be fine if I split it, my tummy says!
+Dialogue: 0,0:17:39.46,0:17:42.88,Subtitle,,0,0,0,,Hey Hotori! What are you doing so late at night?
+Dialogue: 0,0:17:46.67,0:17:50.21,Subtitle,,0,0,0,,Did you just say some nonsense?! Huh, Mister?!
+Dialogue: 0,0:17:51.75,0:17:52.71,Subtitle,,0,0,0,,Shhh!
+Dialogue: 0,0:17:52.88,0:17:55.46,Subtitle,,0,0,0,,No, I didn't, I didn't.
+Dialogue: 0,0:17:55.67,0:17:59.46,Subtitle,,0,0,0,,"Hosaki menma was boiling\Nand it got so late at night," I said...
+Dialogue: 0,0:17:59.46,0:18:03.83,Subtitle,,0,0,0,,"Hosaki menma was boiling"...\N"Hotori-chan what are you doing"...
+Dialogue: 0,0:18:04.83,0:18:07.08,Subtitle,,0,0,0,,That's too big a stretch!
+Dialogue: 0,0:18:07.96,0:18:12.50,Subtitle,,0,0,0,,Must've been hearing things. Is that so? Good...\NThought I was going to finally have to arrest her.
+Dialogue: 0,0:18:13.08,0:18:15.13,Subtitle,,0,0,0,,Why's he letting him eat ramen?!
+Dialogue: 0,0:18:15.13,0:18:18.25,Subtitle,,0,0,0,,He should just give the police\Na bit of fish cake and kick him out!
+Dialogue: 0,0:18:22.25,0:18:25.92,Subtitle,,0,0,0,,Until the day I arrest you, don't get caught!
+Dialogue: 0,0:18:27.92,0:18:29.92,Subtitle,,0,0,0,,Any counter-comments or disagreements?
+Dialogue: 0,0:18:30.04,0:18:32.13,Subtitle,,0,0,0,,What? Am I Lupin?!
+Dialogue: 0,0:18:32.13,0:18:34.13,Subtitle,,0,0,0,,Big Sister seems mortified!
+Dialogue: 0,0:18:34.25,0:18:37.25,Subtitle,,0,0,0,,I don't hear any. I guess she's really not here.
+Dialogue: 0,0:18:38.88,0:18:43.00,Subtitle,,0,0,0,,I can't shake the feeling that one day\Nshe's really going to get arrested...
+Dialogue: 0,0:18:44.34,0:18:47.00,Subtitle,,0,0,0,,My head is poko-poko!
+Dialogue: 0,0:18:48.88,0:18:52.46,Subtitle,,0,0,0,,Takeru... I may have to have you defend me after all...
+Dialogue: 0,0:18:54.00,0:18:58.08,Subtitle,,0,0,0,,In the end, the only place that automatically\Njust lets people in is the convenience store.
+Dialogue: 0,0:18:58.08,0:19:00.21,Subtitle,,0,0,0,,No wonder young people hang out here.
+Dialogue: 0,0:19:02.54,0:19:04.42,Subtitle,,0,0,0,,It's pitch black outside of the convenience store!
+Dialogue: 0,0:19:04.83,0:19:07.33,Subtitle,,0,0,0,,Again, he's being surprised by something very odd.
+Dialogue: 0,0:19:07.75,0:19:10.92,Subtitle,,0,0,0,,Well, it makes sense; after dinner,\Nyou don't go outside anymore, do you?
+Dialogue: 0,0:19:11.54,0:19:14.92,Subtitle-3,,0,0,0,,This midnight notification is brought to you\Nby Cameras by Yamamura.
+Dialogue: 0,0:19:20.54,0:19:21.67,Subtitle,,0,0,0,,Takeru!
+Dialogue: 0,0:19:22.79,0:19:26.25,Subtitle-3,,0,0,0,,Midnight has struck, and so it is May 1st now.
+Dialogue: 0,0:19:26.25,0:19:31.75,Subtitle-3,,0,0,0,,Nighthead Radio. Your DJ is Amigo Kirihara,\Nand I will continue to bring you more music!
+Dialogue: 0,0:19:31.75,0:19:35.25,Subtitle,,0,0,0,,Huh... midnight, as in zero hour?
+Dialogue: 0,0:19:35.25,0:19:36.42,Subtitle,,0,0,0,,Oh. Yeah.
+Dialogue: 0,0:19:38.25,0:19:40.25,Subtitle,,0,0,0,,Zero hour... zero hour...
+Dialogue: 0,0:19:40.25,0:19:44.08,Subtitle,,0,0,0,,Zero means nothing is there\Nbut zero hour exists... Scary...
+Dialogue: 0,0:19:46.21,0:19:51.42,Subtitle,,0,0,0,,It was April 30th until just a little while ago,\Nand now it's become May 1st.
+Dialogue: 0,0:19:52.46,0:19:56.29,Subtitle,,0,0,0,,You just now crossed the border of yesterday into today.
+Dialogue: 0,0:20:04.63,0:20:09.25,Subtitle,,0,0,0,,What was tomorrow just a little while ago became today,\Nand what was today became yesterday...
+Dialogue: 0,0:20:09.25,0:20:10.38,Subtitle,,0,0,0,,That's right.
+Dialogue: 0,0:20:10.38,0:20:13.25,Subtitle,,0,0,0,,You have witnessed the way the world works.
+Dialogue: 0,0:20:15.29,0:20:19.50,Subtitle,,0,0,0,,When was the first time I saw the border of the days?
+Dialogue: 0,0:20:20.17,0:20:22.71,Subtitle,,0,0,0,,I should've remembered it better.
+Dialogue: 0,0:20:32.54,0:20:36.33,Subtitle,,0,0,0,,Your shoes... You'll need to put them back\Nat the front entrance or else you'll get found out.
+Dialogue: 0,0:20:36.33,0:20:37.54,Subtitle,,0,0,0,,Oh yeah.
+Dialogue: 0,0:20:39.63,0:20:41.75,Subtitle,,0,0,0,,It was colder outside than I thought.
+Dialogue: 0,0:20:41.75,0:20:44.04,Subtitle,,0,0,0,,Your body lost some heat, so go soak\Nin the bath before you go to sleep.
+Dialogue: 0,0:20:46.17,0:20:48.50,Subtitle,,0,0,0,,Put the towel on there, and...
+Dialogue: 0,0:20:54.96,0:20:56.75,Subtitle,,0,0,0,,Will you be able to sleep?
+Dialogue: 0,0:20:57.46,0:20:58.29,Subtitle,,0,0,0,,Probably.
+Dialogue: 0,0:21:01.63,0:21:05.29,Subtitle,,0,0,0,,Big Sister, at night sometimes you go out, don't you?
+Dialogue: 0,0:21:05.50,0:21:07.29,Subtitle,,0,0,0,,Huh? Why?
+Dialogue: 0,0:21:08.33,0:21:11.58,Subtitle,,0,0,0,,The way you're being careful not to be found out\Nis all too well rehearsed.
+Dialogue: 0,0:21:12.29,0:21:14.29,Subtitle,,0,0,0,,Today isn't the first time, is it?
+Dialogue: 0,0:21:18.04,0:21:22.00,Subtitle,,0,0,0,,You may be better at being a prosecutor\Nthan an attorney.
+Dialogue: 0,0:21:25.63,0:21:29.00,Subtitle,,0,0,0,,Um... I learned who the culprit is, poko.
+Dialogue: 0,0:21:29.75,0:21:32.25,Subtitle,,0,0,0,,We will compare love to snacks.
+Dialogue: 0,0:21:33.13,0:21:36.63,Subtitle,,0,0,0,,Oh! I thought up a trick that would let me\Ncommit the perfect crime!
+Dialogue: 0,0:21:37.17,0:21:39.25,Subtitle,,0,0,0,,Love is like a banana.
+Dialogue: 0,0:21:39.63,0:21:45.13,Subtitle,,0,0,0,,That familiarity and those rich nutrients\Nmake it a staple in daily life.
+Dialogue: 0,0:21:45.33,0:21:50.50,Subtitle,,0,0,0,,I would use a frozen banana to beat the\Nvictim to death then eat the banana.
+Dialogue: 0,0:21:52.04,0:21:54.58,Subtitle,,0,0,0,,Then all that remains is just the banana peel.
+Dialogue: 0,0:21:54.58,0:21:56.04,Subtitle,,0,0,0,,A weapon would never be found,
+Dialogue: 0,0:21:56.04,0:21:59.96,Subtitle,,0,0,0,,and I can make it look like the victim accidentally\Nslipped and use that as the camouflage!
+Dialogue: 0,0:21:59.96,0:22:01.67,Subtitle,,0,0,0,,I'd be able to fool even the police...
+Dialogue: 0,0:22:02.08,0:22:05.04,Subtitle,,0,0,0,,A banana that was used as a weapon...\NI would never want to eat that.
+Dialogue: 0,0:22:05.17,0:22:07.42,Subtitle,,0,0,0,,Oh! I wouldn't, either!
+Dialogue: 0,0:23:43.13,0:23:44.92,Subtitle,,0,0,0,,The time is the 21st century!
+Dialogue: 0,0:23:44.92,0:23:49.13,Subtitle,,0,0,0,,Finally a modern convenience that is the fully\Nautomatic laundry dryer has been invented.
+Dialogue: 0,0:23:49.13,0:23:51.38,Subtitle,,0,0,0,,Even if you forget to hang your laundry out to dry,
+Dialogue: 0,0:23:51.38,0:23:56.04,Subtitle,,0,0,0,,a dream world in which your laundry\Nwon't smell like a wet rag is now here!
+Dialogue: 0,0:23:56.17,0:23:57.46,Subtitle,,0,0,0,,However!
+Dialogue: 0,0:23:57.58,0:24:01.29,Subtitle,,0,0,0,,It won't automatically fold and put away your laundry,
+Dialogue: 0,0:24:01.29,0:24:05.83,Subtitle,,0,0,0,,so there is still a long way to go\Nbefore it can be called truly, fully automatic!
+Dialogue: 0,0:24:06.04,0:24:09.79,Subtitle,,0,0,0,,Next episode, Street Number Eight,\N"Fully-Automatic Band Music."
+Dialogue: 0,0:24:09.79,0:24:12.54,Subtitle,,0,0,0,,We turn nihilistically round and around, poko.
+Dialogue: 0,0:00:03.92,0:00:06.00,SongCap,,0,0,0,,{\pos(512,187.2)}{\an7}Street No. 07
+Dialogue: 0,0:00:03.92,0:00:06.00,SongCap-2,,0,0,0,,{\pos(371.2,345.6)}{\an7}"The Naito Flight of Love"
+Dialogue: 0,0:00:03.92,0:00:06.00,SongCap-3,,0,0,0,,{\pos(473.6,432)}{\an7}And Yet the Town Moves
+Dialogue: 0,0:00:06.00,0:00:08.00,SongCap-4,,0,0,0,,{\pos(934.4,309.6)}{\an7}Naito
+Dialogue: 0,0:00:06.00,0:00:08.00,SongCap-4,,0,0,0,,{\pos(934.4,360)}{\an7}Dental Clinic
+Dialogue: 0,0:00:06.00,0:00:08.00,SongCap-5,,0,0,0,,{\pos(563.2,410.4)}{\an7}Seaside
+Dialogue: 0,0:00:47.13,0:00:53.63,SongCap-6,,0,0,0,,A rainbow colored sunset falls
+Dialogue: 0,0:00:53.63,0:00:59.00,SongCap-6,,0,0,0,,And the wind is a bit cool
+Dialogue: 0,0:00:59.00,0:01:03.71,SongCap-6,,0,0,0,,Saturday night is bustling
+Dialogue: 0,0:01:04.50,0:01:09.88,SongCap-6,,0,0,0,,Even the gloomy feeling
+Dialogue: 0,0:01:09.88,0:01:13.42,SongCap-6,,0,0,0,,Brightens up right away
+Dialogue: 0,0:01:13.54,0:01:16.50,SongCap-6,,0,0,0,,Everyone is in high spirits
+Dialogue: 0,0:01:17.71,0:01:18.71,SongCap-6,,0,0,0,,In high spirits
+Dialogue: 0,0:01:21.38,0:01:24.04,SongCap-6,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:25.00,0:01:27.54,SongCap-6,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:28.67,0:01:31.33,SongCap-6,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:33.92,0:01:36.67,SongCap-6,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:37.67,0:01:40.08,SongCap-6,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:41.33,0:01:46.33,SongCap-6,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:46.67,0:01:50.17,SongCap-6,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:50.29,0:01:53.75,SongCap-6,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:53.96,0:01:56.63,SongCap-6,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:56.79,0:01:59.63,SongCap-6,,0,0,0,,In high spirits
+Dialogue: 0,0:01:59.75,0:02:03.46,SongCap-6,,0,0,0,,In high spirits
+Dialogue: 0,0:02:12.96,0:02:15.58,SongCap-7,,0,0,0,,{\pos(371.2,187.2)}{\an7}FRESH FISH SANADA
+Dialogue: 0,0:02:15.58,0:02:18.21,SongCap-8,,0,0,0,,{\pos(409.6,86.4)}{\an7}1st Place: Type A
+Dialogue: 0,0:02:15.58,0:02:18.21,SongCap-9,,0,0,0,,{\pos(409.6,187.2)}{\an7}If you travel far, the distance
+Dialogue: 0,0:02:15.59,0:02:18.21,SongCap-9,,0,0,0,,{\pos(409.6,237.6)}{\an7}between you and the person
+Dialogue: 0,0:02:15.59,0:02:18.21,SongCap-9,,0,0,0,,{\pos(409.6,295.2)}{\an7}you admire may shrink!
+Dialogue: 0,0:02:15.59,0:02:18.21,SongCap-9,,0,0,0,,{\pos(588.8,360)}{\an7}Lucky Item:
+Dialogue: 0,0:02:15.59,0:02:18.21,SongCap-9,,0,0,0,,{\pos(640,410.4)}{\an7}A sash
+Dialogue: 0,0:02:49.38,0:02:51.63,SongCap-10,,0,0,0,,{\pos(102.4,57.6)}{\an7}Note: In Japanese, "kani" means "crab" and "pan" means "bread."
+Dialogue: 0,0:02:53.13,0:02:54.63,SongCap-11,,0,0,0,,{\pos(166.4,93.6)}{\an7}Bus Route
+Dialogue: 0,0:03:51.96,0:03:54.75,SongCap-12,,0,0,0,,{\pos(281.6,57.6)}{\an7}List of Surnames *Maruko, Ota City, Tokyo*
+Dialogue: 0,0:03:51.96,0:03:54.75,SongCap-13,,0,0,0,,{\pos(115.2,136.8)}{\an7}Arashiyama
+Dialogue: 0,0:05:07.33,0:05:08.50,SongCap-14,,0,0,0,,{\pos(524.8,381.6)}{\an7}1/4 INTENT TO KILL
+Dialogue: 0,0:05:17.00,0:05:17.13,SongCap-12,,0,0,0,,{\pos(230.4,165.6)}{\an7}Next Stop:
+Dialogue: 0,0:05:17.13,0:05:20.50,SongCap-12,,0,0,0,,{\pos(230.4,165.6)}{\an7}Next Stop:        Oya High School
+Dialogue: 0,0:05:46.83,0:05:51.33,SongCap-8,,0,0,0,,{\pos(409.6,79.2)}{\an7}1st Place: Type A
+Dialogue: 0,0:05:46.83,0:05:51.33,SongCap-9,,0,0,0,,{\pos(409.6,187.2)}{\an7}If you travel far, the distance
+Dialogue: 0,0:05:46.83,0:05:51.33,SongCap-9,,0,0,0,,{\pos(409.6,244.8)}{\an7}between you and the person
+Dialogue: 0,0:05:46.84,0:05:51.33,SongCap-9,,0,0,0,,{\pos(409.6,295.2)}{\an7}you admire may shrink!
+Dialogue: 0,0:05:46.84,0:05:51.33,SongCap-9,,0,0,0,,{\pos(588.8,367.2)}{\an7}Lucky Item:
+Dialogue: 0,0:05:46.84,0:05:51.33,SongCap-9,,0,0,0,,{\pos(640,417.6)}{\an7}A sash
+Dialogue: 0,0:05:53.58,0:05:58.63,SongCap-15,,0,0,0,,{\pos(396.8,86.4)}{\an7}If you travel far, the distance
+Dialogue: 0,0:05:53.58,0:05:58.63,SongCap-16,,0,0,0,,{\pos(217.6,136.8)}{\an7}Next Stop: between you and the person
+Dialogue: 0,0:05:53.58,0:05:58.63,SongCap-15,,0,0,0,,{\pos(396.8,187.2)}{\an7}you admire may shrink!
+Dialogue: 0,0:07:25.08,0:07:27.08,SongCap-17,,0,0,0,,{\pos(1049.6,374.4)}{\an7}Yamanoue
+Dialogue: 0,0:07:25.08,0:07:27.08,SongCap-17,,0,0,0,,{\pos(1088,424.8)}{\an7}Garage
+Dialogue: 0,0:07:27.83,0:07:29.33,SongCap-17,,0,0,0,,{\pos(358.4,403.2)}{\an7}Coffee
+Dialogue: 0,0:07:27.83,0:07:29.33,SongCap-17,,0,0,0,,{\pos(358.4,453.6)}{\an7}Daimyo
+Dialogue: 0,0:08:56.21,0:09:00.33,SongCap-18,,0,0,0,,{\pos(243.2,57.6)}{\an7}Hiroyuki Sanada Ultimate Victory
+Dialogue: 0,0:08:56.21,0:09:00.33,SongCap-19,,0,0,0,,{\pos(563.2,151.2)}{\an7}Arashiyama
+Dialogue: 0,0:08:56.21,0:09:00.33,SongCap-20,,0,0,0,,{\pos(102.4,208.8)}{\an7}CONGRATULATIONS
+Dialogue: 0,0:09:00.33,0:09:01.21,SongCap-18,,0,0,0,,{\pos(460.8,57.6)}{\an7}Sanada Ultimate Victory
+Dialogue: 0,0:09:00.33,0:09:01.21,SongCap-19,,0,0,0,,{\pos(563.2,151.2)}{\an7}Arashiyama
+Dialogue: 0,0:09:00.34,0:09:01.21,SongCap-20,,0,0,0,,{\pos(102.4,208.8)}{\an7}CONGRATULATIONS
+Dialogue: 0,0:09:00.34,0:09:01.21,SongCap-21,,0,0,0,,{\pos(486.4,374.4)}{\an7}Arashiyama
+Dialogue: 0,0:09:00.34,0:09:01.21,SongCap-21,,0,0,0,,{\pos(550.4,424.8)}{\an7}party
+Dialogue: 0,0:09:01.21,0:09:02.58,SongCap-18,,0,0,0,,{\pos(243.2,57.6)}{\an7}Hiroyuki                  Ultimate Victory
+Dialogue: 0,0:09:01.21,0:09:02.58,SongCap-20,,0,0,0,,{\pos(102.4,208.8)}{\an7}CONGRATULATIONS
+Dialogue: 0,0:09:02.58,0:09:03.46,SongCap-22,,0,0,0,,{\pos(243.2,57.6)}{\an7}Hiroyuki Sanada Ultimate Victory
+Dialogue: 0,0:09:02.58,0:09:03.46,SongCap-20,,0,0,0,,{\pos(102.4,208.8)}{\an7}CONGRATULATIONS
+Dialogue: 0,0:09:13.83,0:09:15.08,SongCap-23,,0,0,0,,5 seconds elapsed
+Dialogue: 0,0:09:16.58,0:09:17.83,SongCap-24,,0,0,0,,20 seconds elapsed
+Dialogue: 0,0:09:19.33,0:09:20.58,SongCap-24,,0,0,0,,35 seconds elapsed
+Dialogue: 0,0:11:02.54,0:11:04.54,SongCap-25,,0,0,0,,{\pos(294.4,201.6)}{\an7}FRESH FISH SANADA
+Dialogue: 0,0:11:23.67,0:11:26.46,SongCap-26,,0,0,0,,{\pos(102.4,345.6)}{\an7}TODAY I WAS WITH ARASHIYAMA...
+Dialogue: 0,0:11:23.67,0:11:26.46,SongCap-26,,0,0,0,,{\pos(102.4,396)}{\an7}WE SKIPPED SCHOOL AND HUNG OUT.
+Dialogue: 0,0:11:36.50,0:11:38.46,SongCap-27,,0,0,0,,{\pos(230.4,230.4)}{\an7}Hiroto Shimabe
+Dialogue: 0,0:11:36.50,0:11:38.46,SongCap-27,,0,0,0,,{\pos(486.4,403.2)}{\an7}1/4 Intent to Kill
+Dialogue: 0,0:11:52.83,0:11:55.38,SongCap-10,,0,0,0,,{\pos(102.4,57.6)}{\an7}Note: Slang abbreviation for "iced coffee" (冷コー). Sounds like a female name.
+Dialogue: 0,0:13:15.13,0:13:16.38,SongCap-28,,0,0,0,,{\pos(524.8,432)}{\an7}4 hours ago
+Dialogue: 0,0:13:25.92,0:13:27.17,SongCap-29,,0,0,0,,{\pos(588.8,468)}{\an7}NAPOVITAN
+Dialogue: 0,0:13:25.92,0:13:27.17,SongCap-29,,0,0,0,,C\NDRINK
+Dialogue: 0,0:15:21.04,0:15:24.67,SongCap-30,,0,0,0,,{\pos(396.8,108)}{\an7}FRESH FISH SANADA
+Dialogue: 0,0:15:59.83,0:16:00.83,SongCap-31,,0,0,0,,{\pos(102.4,57.6)}{\an7}Note: Donguri Dan = Acorn Ammo
+Dialogue: 0,0:17:03.42,0:17:09.29,SongCap-32,,0,0,0,,{\pos(832,165.6)}{\an7}Beware of
+Dialogue: 0,0:17:03.42,0:17:09.29,SongCap-32,,0,0,0,,{\pos(844.8,216)}{\an7}Perverts!
+Dialogue: 0,0:17:03.42,0:17:09.29,SongCap-32,,0,0,0,,{\pos(819.2,266.4)}{\an7}Raising your
+Dialogue: 0,0:17:03.42,0:17:09.29,SongCap-32,,0,0,0,,{\pos(806.4,316.8)}{\an7}voice and crime
+Dialogue: 0,0:17:03.42,0:17:09.29,SongCap-32,,0,0,0,,{\pos(832,367.2)}{\an7}prevention
+Dialogue: 0,0:17:03.42,0:17:09.29,SongCap-32,,0,0,0,,{\pos(819.2,417.6)}{\an7}alarms work
+Dialogue: 0,0:17:10.42,0:17:19.29,SongCap-32,,0,0,0,,{\pos(832,165.6)}{\an7}Beware of
+Dialogue: 0,0:17:10.42,0:17:19.29,SongCap-32,,0,0,0,,{\pos(844.8,216)}{\an7}Perverts!
+Dialogue: 0,0:17:10.42,0:17:19.29,SongCap-32,,0,0,0,,{\pos(819.2,266.4)}{\an7}Raising your
+Dialogue: 0,0:17:10.42,0:17:19.29,SongCap-32,,0,0,0,,{\pos(806.4,316.8)}{\an7}voice and crime
+Dialogue: 0,0:17:10.42,0:17:19.29,SongCap-32,,0,0,0,,{\pos(832,367.2)}{\an7}prevention
+Dialogue: 0,0:17:10.42,0:17:19.29,SongCap-32,,0,0,0,,{\pos(819.2,417.6)}{\an7}alarms work
+Dialogue: 0,0:17:39.21,0:17:40.46,SongCap-33,,0,0,0,,{\pos(716.8,367.2)}{\an7}Ramen
+Dialogue: 0,0:17:39.21,0:17:40.46,SongCap-33,,0,0,0,,{\pos(678.4,417.6)}{\an7}Line of Daimyos
+Dialogue: 0,0:17:41.08,0:17:42.88,SongCap-33,,0,0,0,,{\pos(716.8,367.2)}{\an7}Ramen
+Dialogue: 0,0:17:41.08,0:17:42.88,SongCap-33,,0,0,0,,{\pos(678.4,417.6)}{\an7}Line of Daimyos
+Dialogue: 0,0:17:52.71,0:17:55.46,SongCap-33,,0,0,0,,{\pos(640,216)}{\an7}Ramen
+Dialogue: 0,0:17:52.71,0:17:55.46,SongCap-33,,0,0,0,,{\pos(601.6,266.4)}{\an7}Line of Daimyos
+Dialogue: 0,0:17:55.46,0:17:58.21,SongCap-33,,0,0,0,,{\pos(768,381.6)}{\an7}Ramen
+Dialogue: 0,0:17:55.46,0:17:58.21,SongCap-33,,0,0,0,,{\pos(716.8,432)}{\an7}Line of Daimyos
+Dialogue: 0,0:18:07.75,0:18:18.25,SongCap-33,,0,0,0,,{\pos(640,216)}{\an7}Ramen
+Dialogue: 0,0:18:07.75,0:18:18.25,SongCap-33,,0,0,0,,{\pos(601.6,266.4)}{\an7}Line of Daimyos
+Dialogue: 0,0:18:37.25,0:18:38.75,SongCap-33,,0,0,0,,{\pos(640,216)}{\an7}Ramen
+Dialogue: 0,0:18:37.25,0:18:38.75,SongCap-33,,0,0,0,,{\pos(601.6,266.4)}{\an7}Line of Daimyos
+Dialogue: 0,0:18:44.33,0:18:48.00,SongCap-34,,0,0,0,,{\pos(102.4,43.2)}{\an7}Note: A reference to the theme of a very well-known children's anime,
+Dialogue: 0,0:18:44.33,0:18:48.00,SongCap-34,,0,0,0,,{\pos(179.2,93.6)}{\an7}Doraemon: "My head is teka teka (shiny)"
+Dialogue: 0,0:18:52.46,0:18:54.21,SongCap-35,,0,0,0,,{\pos(512,381.6)}{\an7}Green Mart
+Dialogue: 0,0:18:54.21,0:18:56.21,SongCap-13,,0,0,0,,{\pos(102.4,151.2)}{\an7}Plastic Bottles             Glass Bottles   Cans                          Paper & Plastic
+Dialogue: 0,0:18:58.21,0:19:00.21,SongCap-36,,0,0,0,,{\pos(832,187.2)}{\an7}Green Mart
+Dialogue: 0,0:18:58.21,0:19:00.21,SongCap-36,,0,0,0,,{\pos(806.4,302.4)}{\an7}Convenience
+Dialogue: 0,0:18:58.21,0:19:00.21,SongCap-36,,0,0,0,,{\pos(806.4,468)}{\an7}Liquor  Tobacco
+Dialogue: 0,0:19:14.92,0:19:16.17,SongCap-37,,0,0,0,,Shoujo Gaho
+Dialogue: 0,0:19:16.79,0:19:17.17,SongCap-37,,0,0,0,,{\pos(409.6,158.4)}{\an7}Shoujo Gaho
+Dialogue: 0,0:22:12.17,0:22:15.04,SongCap-6,,0,0,0,,One, two, one, two, three, four!
+Dialogue: 0,0:22:20.83,0:22:25.50,SongCap-6,,0,0,0,,I'm so bored, I have the heart of Rock n roll
+Dialogue: 0,0:22:25.50,0:22:29.79,SongCap-6,,0,0,0,,Living alone a life of loud music
+Dialogue: 0,0:22:31.33,0:22:35.75,SongCap-6,,0,0,0,,I'm oblivious with cheeks like a blowfish
+Dialogue: 0,0:22:35.92,0:22:40.13,SongCap-6,,0,0,0,,Today again, the town to chaos will I drag into
+Dialogue: 0,0:22:41.71,0:22:46.25,SongCap-6,,0,0,0,,Being tsundere is proof of my intelligence
+Dialogue: 0,0:22:46.25,0:22:51.38,SongCap-6,,0,0,0,,Again today, I'm unable to confess my love to this man
+Dialogue: 0,0:22:52.04,0:22:56.50,SongCap-6,,0,0,0,,I gave my life to table tennis
+Dialogue: 0,0:22:56.50,0:23:01.04,SongCap-6,,0,0,0,,To strengthen my legs and hips when I play the drums
+Dialogue: 0,0:23:02.38,0:23:05.50,SongCap-6,,0,0,0,,This band isn't a scam
+Dialogue: 0,0:23:05.50,0:23:08.33,SongCap-6,,0,0,0,,This band isn't rock
+Dialogue: 0,0:23:08.50,0:23:11.38,SongCap-6,,0,0,0,,We're not going for an ondo dance
+Dialogue: 0,0:23:11.50,0:23:14.29,SongCap-6,,0,0,0,,We're not going to arrive in Nirvana
+Dialogue: 0,0:23:14.29,0:23:15.92,SongCap-6,,0,0,0,,We are the Maids "Yeah!"
+Dialogue: 0,0:23:15.92,0:23:17.21,SongCap-6,,0,0,0,,Dressed as maids we
+Dialogue: 0,0:23:17.21,0:23:18.75,SongCap-6,,0,0,0,,Are here, we are here!
+Dialogue: 0,0:23:18.75,0:23:20.21,SongCap-6,,0,0,0,,"Ach-ohhhhh!"
+Dialogue: 0,0:23:20.21,0:23:21.88,SongCap-6,,0,0,0,,This is Hell "Yeah!"
+Dialogue: 0,0:23:21.88,0:23:23.17,SongCap-6,,0,0,0,,The crime scene is
+Dialogue: 0,0:23:23.17,0:23:24.58,SongCap-6,,0,0,0,,A terrible sight, a terrible sight!
+Dialogue: 0,0:23:24.58,0:23:26.17,SongCap-6,,0,0,0,,"Oh no!"
+Dialogue: 0,0:23:26.17,0:23:27.58,SongCap-6,,0,0,0,,We are the invincible Maids "Yeah!"
+Dialogue: 0,0:23:27.58,0:23:29.08,SongCap-6,,0,0,0,,Constipation is a difficult delivery
+Dialogue: 0,0:23:29.08,0:23:30.54,SongCap-6,,0,0,0,,Enema, enema!
+Dialogue: 0,0:23:30.54,0:23:32.08,SongCap-6,,0,0,0,,"Ach-ohhhhh!"
+Dialogue: 0,0:23:32.21,0:23:35.25,SongCap-6,,0,0,0,,Pure and right and frank
+Dialogue: 0,0:23:35.25,0:23:38.29,SongCap-6,,0,0,0,,Seaside is, with rave reviews, open for business!!
+Dialogue: 0,0:23:38.29,0:23:41.04,SongCap-6,,0,0,0,,"Thank you always for your business!"
+Dialogue: 0,0:24:05.83,0:24:06.29,SongCap-38,,0,0,0,,{\pos(524.8,136.8)}{\an7}Cafe Seaside
+Dialogue: 0,0:24:06.29,0:24:10.58,SongCap-39,,0,0,0,,{\pos(524.8,136.8)}{\an7}Cafe Seaside
+Dialogue: 0,0:24:06.29,0:24:10.58,SongCap-40,,0,0,0,,{\pos(230.4,460.8)}{\an7}STREET NO. 08 "FULLY-AUTOMATIC BAND MUSIC"
+Dialogue: 0,0:24:10.58,0:24:12.54,SongCap-38,,0,0,0,,{\pos(524.8,136.8)}{\an7}Cafe Seaside

@@ -1,0 +1,560 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: SongCap,Arial Black,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-2,Mead Bold,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-3,Arial Narrow,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle,Swis721 BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-4,Staccato555 BT,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-5,Quadrangle,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-6,Swis721 BT,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-7,Staccato555 BT,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-8,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-9,Garamond,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-10,Arial Rounded MT Bold,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-11,Mistral,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-12,Kristen ITC,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Subtitle-2,Swis721 BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-13,Times New Roman,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-14,Arial Rounded MT Bold,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-15,Gorilla BT,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-16,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-17,Kristen ITC,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-18,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-19,Swis721 BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-20,Times New Roman,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-21,Arial Black,26,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-22,AdLib BT,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-23,Comic Sans MS,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-24,Kristen ITC,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-25,Arial Rounded MT Bold,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-26,Garamond,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-27,Garamond,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-28,Comic Sans MS,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-29,Comic Sans MS,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-30,Segoe Print,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-31,BakerSignet BT,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-32,BakerSignet BT,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-33,BakerSignet BT,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-34,BakerSignet BT,51,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: SongCap-35,Babelfish,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.96,0:00:13.88,Subtitle,,0,0,0,,Even if you look up at the sky from the same place,\Nyou can never see the same cloud twice...
+Dialogue: 0,0:00:14.54,0:00:18.75,Subtitle,,0,0,0,,The day is surely ticking away...
+Dialogue: 0,0:00:19.38,0:00:22.88,Subtitle,,0,0,0,,Yay! I won tickets to a movie screening!
+Dialogue: 0,0:00:25.08,0:00:27.71,Subtitle,,0,0,0,,That was just like Arashiyama...
+Dialogue: 0,0:00:28.33,0:00:30.46,Subtitle,,0,0,0,,Her comedic style has contaminated me...
+Dialogue: 0,0:00:31.00,0:00:32.92,Subtitle,,0,0,0,,Oh no, I have to be careful...
+Dialogue: 0,0:00:33.58,0:00:36.25,Subtitle,,0,0,0,,In any case, I have passed the first stage...
+Dialogue: 0,0:00:38.58,0:00:42.00,Subtitle,,0,0,0,,I want to go to this with Sanada!
+Dialogue: 0,0:02:23.71,0:02:25.04,Subtitle,,0,0,0,,How did you get that?!
+Dialogue: 0,0:02:25.04,0:02:26.54,Subtitle,,0,0,0,,Oh, I want to see, I want to see!
+Dialogue: 0,0:02:26.54,0:02:28.42,Subtitle,,0,0,0,,A battle between evil organizations!
+Dialogue: 0,0:02:28.42,0:02:31.00,Subtitle,,0,0,0,,I'm sorry, but I'm going to invite Sanada!
+Dialogue: 0,0:02:33.25,0:02:36.04,Subtitle,,0,0,0,,But when it comes to actually inviting him, I get nervous...
+Dialogue: 0,0:02:36.17,0:02:39.04,Subtitle,,0,0,0,,Oh! It's so bittersweet, Haribara.
+Dialogue: 0,0:02:39.04,0:02:42.17,Subtitle,,0,0,0,,Yes! Isn't this youth, Arashiyama?
+Dialogue: 0,0:02:42.33,0:02:43.88,Subtitle,,0,0,0,,Sniff sniff...
+Dialogue: 0,0:02:43.88,0:02:45.04,Subtitle,,0,0,0,,Sour!
+Dialogue: 0,0:02:45.17,0:02:46.33,Subtitle,,0,0,0,,Stop it.
+Dialogue: 0,0:02:46.33,0:02:49.88,Subtitle,,0,0,0,,Instead of a screening, you should've\Ninvited him to an actual movie.
+Dialogue: 0,0:02:49.88,0:02:52.54,Subtitle,,0,0,0,,Yeah, a movie that sets the proper mood.
+Dialogue: 0,0:02:52.67,0:02:55.25,Subtitle,,0,0,0,,I don't care about the contents of the movie.
+Dialogue: 0,0:02:55.25,0:02:57.54,Subtitle,,0,0,0,,The fact is that at the point\Nof inviting someone to a screening,
+Dialogue: 0,0:02:57.54,0:02:59.79,Subtitle,,0,0,0,,a date is already set and so\Nthere's a better chance of success.
+Dialogue: 0,0:02:59.92,0:03:01.17,Subtitle,,0,0,0,,I see.
+Dialogue: 0,0:03:01.83,0:03:05.63,Subtitle,,0,0,0,,There's nothing more vague than the "sometime"\Nin "let's go to a movie together sometime."
+Dialogue: 0,0:03:06.42,0:03:09.33,Subtitle,,0,0,0,,Does that mean with a movie screening,\Nthe date is selective?
+Dialogue: 0,0:03:09.46,0:03:10.38,Subtitle,,0,0,0,,Yes.
+Dialogue: 0,0:03:10.38,0:03:14.25,Subtitle,,0,0,0,,That's why I picked a film whose giveaway\Nwas not so competitive; it was easy to win.
+Dialogue: 0,0:03:14.25,0:03:17.13,Subtitle,,0,0,0,,Aw, but I would want to see it!
+Dialogue: 0,0:03:17.13,0:03:21.29,Subtitle,,0,0,0,,If it's a rare event like a movie screening,\Nthen it'll be harder to say no.
+Dialogue: 0,0:03:21.29,0:03:22.83,Subtitle,,0,0,0,,Just like you to think of this, Tatsuno.
+Dialogue: 0,0:03:22.96,0:03:23.96,Subtitle,,0,0,0,,You people!
+Dialogue: 0,0:03:24.17,0:03:26.46,Subtitle,,0,0,0,,What are you eating during class?
+Dialogue: 0,0:03:28.17,0:03:30.29,Subtitle,,0,0,0,,Would you like one, too?
+Dialogue: 0,0:03:33.83,0:03:34.96,Subtitle,,0,0,0,,This is too cruel!
+Dialogue: 0,0:03:37.50,0:03:41.88,Subtitle,,0,0,0,,Arashiyama, I'll grade you on your progress;\Nshow me your drawing.
+Dialogue: 0,0:03:41.88,0:03:43.67,Subtitle,,0,0,0,,Hey hey ho.
+Dialogue: 0,0:03:45.67,0:03:47.71,Subtitle,,0,0,0,,Hmm? It's pretty good.
+Dialogue: 0,0:03:47.71,0:03:48.79,Subtitle,,0,0,0,,Can you tell?!
+Dialogue: 0,0:03:48.79,0:03:54.21,Subtitle,,0,0,0,,It's abstract, but I can sense the energy\Nof the horse galloping through the wind!
+Dialogue: 0,0:03:54.71,0:03:57.50,Subtitle,,0,0,0,,It's a sketch of a dog lying down...
+Dialogue: 0,0:03:58.83,0:04:00.38,Subtitle,,0,0,0,,A dog, huh?
+Dialogue: 0,0:04:00.38,0:04:01.75,Subtitle,,0,0,0,,A dog, sir.
+Dialogue: 0,0:04:01.96,0:04:04.17,Subtitle,,0,0,0,,Uh, next, Ebisu...
+Dialogue: 0,0:04:04.17,0:04:05.83,Subtitle,,0,0,0,,Oh?! No follow.
+Dialogue: 0,0:04:05.83,0:04:08.71,Subtitle,,0,0,0,,Hey, follow me!
+Dialogue: 0,0:04:19.50,0:04:21.04,Subtitle,,0,0,0,,I'll invite him, today!
+Dialogue: 0,0:04:21.04,0:04:22.83,Subtitle,,0,0,0,,When Sanada comes to the store today...
+Dialogue: 0,0:04:23.13,0:04:24.04,Subtitle,,0,0,0,,I'll invite him!
+Dialogue: 0,0:04:24.75,0:04:26.92,Subtitle,,0,0,0,,It's so hot!
+Dialogue: 0,0:04:27.67,0:04:30.00,Subtitle,,0,0,0,,What kind of dress do you have on?!
+Dialogue: 0,0:04:30.25,0:04:32.04,Subtitle,,0,0,0,,And you call yourself a Maid?!
+Dialogue: 0,0:04:32.04,0:04:34.54,Subtitle,,0,0,0,,I'm so embarrassed of you!
+Dialogue: 0,0:04:34.54,0:04:36.96,Subtitle-2,,0,0,0,,Why'd she snap all of a sudden?!\N{\rSubtitle}I can't let you out in public!{\r}
+Dialogue: 0,0:04:37.71,0:04:41.42,Subtitle,,0,0,0,,Take a chance on your possibility, poko.
+Dialogue: 0,0:04:41.83,0:04:43.96,Subtitle,,0,0,0,,Because these clothes are so hot.
+Dialogue: 0,0:04:45.46,0:04:47.88,Subtitle,,0,0,0,,Granny, sew us some summer clothes.
+Dialogue: 0,0:04:47.88,0:04:49.75,Subtitle,,0,0,0,,Summer clothes, huh...
+Dialogue: 0,0:04:50.00,0:04:54.04,Subtitle,,0,0,0,,Well, if I pull an all-nighter,\NI can't say I can't finish one outfit...
+Dialogue: 0,0:04:54.04,0:04:56.71,Subtitle,,0,0,0,,Oh, then tomorrow, the next day...
+Dialogue: 0,0:04:56.88,0:04:59.08,Subtitle,,0,0,0,,By the third day, we'll have all 3!
+Dialogue: 0,0:04:59.21,0:05:02.17,Subtitle,,0,0,0,,If we make her stay up for three consecutive days,\Nthe Head Maid will die!
+Dialogue: 0,0:05:02.17,0:05:03.42,Subtitle,,0,0,0,,I am not going to die!
+Dialogue: 0,0:05:10.04,0:05:11.42,Subtitle,,0,0,0,,All right!
+Dialogue: 0,0:05:11.42,0:05:13.67,Subtitle,,0,0,0,,Damn it...
+Dialogue: 0,0:05:13.67,0:05:19.17,Subtitle,,0,0,0,,I got caught up in Arashiyama's pace,\Nand now there are only 3 days left!
+Dialogue: 0,0:05:19.29,0:05:21.67,Subtitle,,0,0,0,,Really, today! Today!
+Dialogue: 0,0:05:21.67,0:05:24.17,Subtitle,,0,0,0,,I need to invite Sanada today...
+Dialogue: 0,0:05:24.38,0:05:27.08,Subtitle,,0,0,0,,Hey, what happened to asking him out on a date?!
+Dialogue: 0,0:05:28.17,0:05:29.79,Subtitle,,0,0,0,,I'll go now, so watch me.
+Dialogue: 0,0:05:31.63,0:05:35.42,Subtitle,,0,0,0,,With your personality,\NI'm sure you benefit in certain ways...
+Dialogue: 0,0:05:35.63,0:05:37.17,Subtitle,,0,0,0,,I'm sure with the person you like...
+Dialogue: 0,0:05:37.29,0:05:39.67,Subtitle,,0,0,0,,I'm going to take you to a movie!
+Dialogue: 0,0:05:39.92,0:05:42.42,Subtitle,,0,0,0,,...you'd say something like that.
+Dialogue: 0,0:05:43.54,0:05:44.96,Subtitle,,0,0,0,,Okay, this time.
+Dialogue: 0,0:05:53.58,0:05:55.08,Subtitle,,0,0,0,,Sanada...
+Dialogue: 0,0:05:55.29,0:05:56.25,Subtitle,,0,0,0,,Eh?
+Dialogue: 0,0:05:57.08,0:05:58.33,Subtitle,,0,0,0,,A movie...
+Dialogue: 0,0:05:59.75,0:06:02.63,Subtitle,,0,0,0,,Um... Movie...
+Dialogue: 0,0:06:02.88,0:06:04.92,Subtitle,,0,0,0,,Mo... mov...
+Dialogue: 0,0:06:05.33,0:06:07.71,Subtitle,,0,0,0,,Move along and clean well!
+Dialogue: 0,0:06:07.83,0:06:09.54,Subtitle,,0,0,0,,Yes! This kid is no good!
+Dialogue: 0,0:06:17.71,0:06:20.42,Subtitle,,0,0,0,,Sanada's going home... Are you sure you're okay?
+Dialogue: 0,0:06:22.13,0:06:24.50,Subtitle,,0,0,0,,You can catch up to him if you run!
+Dialogue: 0,0:06:25.21,0:06:25.58,Subtitle,,0,0,0,,"Will
+Dialogue: 0,0:06:25.58,0:06:25.79,Subtitle,,0,0,0,,"Will you
+Dialogue: 0,0:06:25.79,0:06:26.17,Subtitle,,0,0,0,,"Will you go
+Dialogue: 0,0:06:26.17,0:06:26.50,Subtitle,,0,0,0,,"Will you go see a
+Dialogue: 0,0:06:26.50,0:06:26.79,Subtitle,,0,0,0,,"Will you go see a movie
+Dialogue: 0,0:06:26.79,0:06:27.21,Subtitle,,0,0,0,,"Will you go see a movie with
+Dialogue: 0,0:06:27.21,0:06:28.38,Subtitle,,0,0,0,,"Will you go see a movie with me?"
+Dialogue: 0,0:06:28.96,0:06:33.83,Subtitle,,0,0,0,,It's just eight words and a question mark;\Nwhy can't I say it?
+Dialogue: 0,0:06:33.83,0:06:35.71,Subtitle,,0,0,0,,Should I invite him?
+Dialogue: 0,0:06:35.71,0:06:36.46,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:06:39.38,0:06:40.33,Subtitle,,0,0,0,,No...
+Dialogue: 0,0:06:40.33,0:06:41.46,Subtitle,,0,0,0,,I'll go!
+Dialogue: 0,0:06:43.58,0:06:45.83,Subtitle,,0,0,0,,Being happy for a second because\Nsomeone volunteered to take my place...
+Dialogue: 0,0:06:45.83,0:06:47.42,Subtitle,,0,0,0,,What's up with me?
+Dialogue: 0,0:06:48.17,0:06:49.83,Subtitle,,0,0,0,,This staircase...
+Dialogue: 0,0:06:50.13,0:06:51.67,Subtitle,,0,0,0,,Five or six steps...
+Dialogue: 0,0:06:52.71,0:06:54.25,Subtitle,,0,0,0,,I can jump over them!
+Dialogue: 0,0:06:56.38,0:06:58.17,Subtitle,,0,0,0,,Geh! It's the Western history teacher, Kameda!
+Dialogue: 0,0:07:01.13,0:07:13.58,Subtitle,,0,0,0,,Luther!
+Dialogue: 0,0:07:13.58,0:07:14.63,Subtitle,,0,0,0,,This is the worst...
+Dialogue: 0,0:07:14.63,0:07:19.71,Subtitle,,0,0,0,,Czar!
+Dialogue: 0,0:07:20.88,0:07:25.71,Subtitle,,0,0,0,,Western history teacher, Kameda...\NOnce he starts his lecture, he goes on forever...
+Dialogue: 0,0:07:25.71,0:07:28.08,Subtitle,,0,0,0,,Nicknamed "Soft Shell Turtle Kameda"!
+Dialogue: 0,0:07:28.08,0:07:29.46,Subtitle,,0,0,0,,Y-you...!
+Dialogue: 0,0:07:30.13,0:07:31.42,Subtitle,,0,0,0,,If I were Arashiyama...
+Dialogue: 0,0:07:31.42,0:07:35.54,Subtitle,,0,0,0,,Then I could dodge even a scene where\Nit's inevitable that I'd get yelled at.
+Dialogue: 0,0:07:35.79,0:07:37.92,Subtitle,,0,0,0,,What would she say?
+Dialogue: 0,0:07:37.92,0:07:40.88,Subtitle,,0,0,0,,How would she escape this situation?
+Dialogue: 0,0:07:42.54,0:07:43.38,Subtitle,,0,0,0,,No!
+Dialogue: 0,0:07:43.50,0:07:45.04,Subtitle,,0,0,0,,No! No!
+Dialogue: 0,0:07:45.04,0:07:49.04,Subtitle,,0,0,0,,What would I do, what would "I" do...
+Dialogue: 0,0:07:56.71,0:08:03.63,Subtitle,,0,0,0,,I'm sorry, Mr. Kameda, I missed a step on the staircase,\Nbut I was able to get away unscathed.
+Dialogue: 0,0:08:08.04,0:08:11.00,Subtitle,,0,0,0,,I-is that so? Be careful.
+Dialogue: 0,0:08:12.63,0:08:15.00,Subtitle,,0,0,0,,Yes. If you will excuse me...
+Dialogue: 0,0:08:15.00,0:08:15.75,Subtitle,,0,0,0,,Yes...
+Dialogue: 0,0:08:19.75,0:08:24.38,Subtitle,,0,0,0,,Oh? Weren't you going to go to a movie\Nwith the fishmonger kid?
+Dialogue: 0,0:08:24.58,0:08:30.67,Subtitle,,0,0,0,,Instead of working to make it a positive, it's sometimes\Nmore effective to work to make it a negative.
+Dialogue: 0,0:08:30.92,0:08:33.75,Subtitle,,0,0,0,,That's how I would use a weapon.
+Dialogue: 0,0:08:33.75,0:08:35.79,Subtitle,,0,0,0,,Huh? What's that supposed to mean?
+Dialogue: 0,0:08:36.63,0:08:39.17,Subtitle,,0,0,0,,Oh... I see.
+Dialogue: 0,0:08:41.88,0:08:44.96,Subtitle,,0,0,0,,Then, Granny is going to be considerate of that.
+Dialogue: 0,0:08:49.50,0:08:51.13,Subtitle,,0,0,0,,Oh, what about the store?
+Dialogue: 0,0:08:51.13,0:08:56.17,Subtitle,,0,0,0,,Granny's going to play pachinko,\Nso let the maids take care of you.
+Dialogue: 0,0:08:57.29,0:09:00.00,Subtitle,,0,0,0,,To have good fortune come to you without the hard work,
+Dialogue: 0,0:09:00.00,0:09:03.46,Subtitle,,0,0,0,,you must first work hard towards getting\Nthe foundation of that good fortune set up.
+Dialogue: 0,0:09:06.96,0:09:08.46,Subtitle,,0,0,0,,Welcome!
+Dialogue: 0,0:09:08.46,0:09:09.92,Subtitle,,0,0,0,,But on a rare occasion...
+Dialogue: 0,0:09:09.92,0:09:13.79,Subtitle,,0,0,0,,Yay! Free movie, yahoo!
+Dialogue: 0,0:09:14.29,0:09:19.42,Subtitle,,0,0,0,,...there are people with such great luck\Nthat they can obtain both.
+Dialogue: 0,0:09:19.79,0:09:23.46,Subtitle,,0,0,0,,A sneeze shows the person's true nature, poko.
+Dialogue: 0,0:09:25.79,0:09:30.54,Subtitle,,0,0,0,,A detective, you see, is required to have\Na great ability of observation and investigation.
+Dialogue: 0,0:09:30.71,0:09:33.50,Subtitle,,0,0,0,,In Japan, the job of a detective is,
+Dialogue: 0,0:09:33.50,0:09:38.71,Subtitle,,0,0,0,,upon request, mainly to investigate\Nthe subject's actions and secrets in private.
+Dialogue: 0,0:09:38.88,0:09:42.54,Subtitle,,0,0,0,,Only one with exceptional abilities\Nis able to have this job...
+Dialogue: 0,0:09:42.67,0:09:45.54,Subtitle,,0,0,0,,I'm going to observe you and investigate!
+Dialogue: 0,0:09:45.54,0:09:51.04,Subtitle,,0,0,0,,Okay, okay, Great Detective Yukiko,\Nexpose the truth behind your big sister.
+Dialogue: 0,0:09:51.04,0:09:52.54,Subtitle,,0,0,0,,Aye, aye, sir!
+Dialogue: 0,0:10:03.33,0:10:05.58,Subtitle,,0,0,0,,I have no breasts or waist.
+Dialogue: 0,0:10:05.79,0:10:07.54,Subtitle,,0,0,0,,Big Sister's truth!
+Dialogue: 0,0:10:07.88,0:10:11.29,Subtitle,,0,0,0,,You have quite the eye for observation...
+Dialogue: 0,0:10:11.79,0:10:15.33,Subtitle,,0,0,0,,Pill bugs can be eaten, poko.\NBut they don't taste good, poko.
+Dialogue: 0,0:10:15.92,0:10:18.50,Subtitle,,0,0,0,,Go! A flame attack by fire ball!
+Dialogue: 0,0:10:19.13,0:10:21.21,Subtitle,,0,0,0,,I reflect it with my mirror shield!
+Dialogue: 0,0:10:23.71,0:10:24.96,Subtitle,,0,0,0,,Damage, 4!
+Dialogue: 0,0:10:25.08,0:10:26.33,Subtitle,,0,0,0,,It's so hot!
+Dialogue: 0,0:10:26.33,0:10:27.58,Subtitle,,0,0,0,,Zombie Detective dies!
+Dialogue: 0,0:10:28.54,0:10:29.29,Subtitle,,0,0,0,,However!
+Dialogue: 0,0:10:29.29,0:10:34.25,Subtitle,,0,0,0,,When Zombie Detective dies, he takes down one\Nopponent monster of the same level or below with him!
+Dialogue: 0,0:10:36.00,0:10:38.92,Subtitle,,0,0,0,,O-oh no! Fairy Samurai dies!
+Dialogue: 0,0:10:39.08,0:10:41.67,Subtitle,,0,0,0,,On top of that, I attack Makky directly!
+Dialogue: 0,0:10:41.79,0:10:43.92,Subtitle,,0,0,0,,I'm going to have my Turtle Knight protect me!
+Dialogue: 0,0:10:44.04,0:10:45.21,Subtitle,,0,0,0,,It's no use!
+Dialogue: 0,0:10:45.58,0:10:49.96,Subtitle,,0,0,0,,My equipped weapon is a spear,\Nso it can pass through one monster's guard!
+Dialogue: 0,0:10:53.67,0:10:55.04,Subtitle,,0,0,0,,Darn it!
+Dialogue: 0,0:10:55.25,0:10:58.67,Subtitle,,0,0,0,,I have no life left over, and so I die...
+Dialogue: 0,0:10:58.79,0:11:00.67,Subtitle,,0,0,0,,Man, I lost.
+Dialogue: 0,0:11:00.88,0:11:02.25,Subtitle,,0,0,0,,Takeru, you're tough!
+Dialogue: 0,0:11:02.25,0:11:03.58,Subtitle,,0,0,0,,Really tough!
+Dialogue: 0,0:11:03.58,0:11:06.42,Subtitle,,0,0,0,,Takeru, your cards are pathetic,\Nbut you're really, really tough!
+Dialogue: 0,0:11:06.54,0:11:09.08,Subtitle,,0,0,0,,I bet you can beat Yamamoto in Class 4.
+Dialogue: 0,0:11:09.08,0:11:10.92,Subtitle,,0,0,0,,Let's challenge him during lunch recess!
+Dialogue: 0,0:11:11.08,0:11:12.50,Subtitle,,0,0,0,,Hey, guys!
+Dialogue: 0,0:11:13.17,0:11:15.88,Subtitle,,0,0,0,,Are you allowed to bring such a thing to school?!
+Dialogue: 0,0:11:15.88,0:11:16.79,Subtitle,,0,0,0,,Yeah!
+Dialogue: 0,0:11:16.92,0:11:18.50,Subtitle,,0,0,0,,Shut up, Ise-ebi!
+Dialogue: 0,0:11:18.50,0:11:20.21,Subtitle,,0,0,0,,Ise-ebi carpaccio!
+Dialogue: 0,0:11:20.71,0:11:23.21,Subtitle,,0,0,0,,I'm going to tell on you at the\Nhomeroom meeting next week.
+Dialogue: 0,0:11:23.21,0:11:24.71,Subtitle,,0,0,0,,Let's go, Ebi-chan.
+Dialogue: 0,0:11:24.92,0:11:27.75,Subtitle,,0,0,0,,You're nagging way too much, Ise-ebi!
+Dialogue: 0,0:11:27.75,0:11:29.50,Subtitle,,0,0,0,,Girls are so annyoing.
+Dialogue: 0,0:11:30.96,0:11:32.00,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:11:32.21,0:11:36.63,Subtitle,,0,0,0,,At this point, why did Hanse suddenly run away?
+Dialogue: 0,0:11:36.79,0:11:40.00,Subtitle,,0,0,0,,Do you know what he was feeling at that time?
+Dialogue: 0,0:11:41.46,0:11:43.29,Subtitle,,0,0,0,,Does anyone know?
+Dialogue: 0,0:11:49.33,0:11:51.25,Subtitle,,0,0,0,,It'll be on the test!
+Dialogue: 0,0:11:51.58,0:11:52.63,Subtitle,,0,0,0,,Huh?!
+Dialogue: 0,0:11:54.83,0:11:56.50,Subtitle,,0,0,0,,Huh?!
+Dialogue: 0,0:11:59.38,0:12:02.83,Subtitle,,0,0,0,,Don't tell me... she's not really coming...
+Dialogue: 0,0:12:03.17,0:12:04.79,Subtitle,,0,0,0,,She couldn't be...
+Dialogue: 0,0:12:07.83,0:12:09.83,Subtitle,,0,0,0,,Oh, sorry, the bathroom's free now.
+Dialogue: 0,0:12:10.46,0:12:13.08,Subtitle,,0,0,0,,No, I wasn't waiting for the bathroom.
+Dialogue: 0,0:12:14.46,0:12:15.71,Subtitle,,0,0,0,,Excuse me!
+Dialogue: 0,0:12:17.21,0:12:19.83,Subtitle,,0,0,0,,I-Isezaki...
+Dialogue: 0,0:12:19.83,0:12:20.83,Subtitle,,0,0,0,,Hello!
+Dialogue: 0,0:12:20.96,0:12:23.67,Subtitle,,0,0,0,,Oh my, oh my. Hello.
+Dialogue: 0,0:12:23.67,0:12:25.33,Subtitle,,0,0,0,,So you were waiting on a friend.
+Dialogue: 0,0:12:25.46,0:12:28.83,Subtitle,,0,0,0,,I wasn't waiting, and she's not a friend, either!
+Dialogue: 0,0:12:29.04,0:12:32.83,Subtitle,,0,0,0,,The world's hardest food is dried bonito, poko.
+Dialogue: 0,0:12:34.38,0:12:36.38,Subtitle,,0,0,0,,You really came...
+Dialogue: 0,0:12:36.38,0:12:38.83,Subtitle,,0,0,0,,Isezaki, what are you doing here?
+Dialogue: 0,0:12:39.88,0:12:41.83,Subtitle,,0,0,0,,I said we were going to hang out, didn't I?
+Dialogue: 0,0:12:41.83,0:12:43.58,Subtitle,,0,0,0,,Oh, oh yeah...
+Dialogue: 0,0:12:43.58,0:12:44.83,Subtitle,,0,0,0,,Takeru, Takeru!
+Dialogue: 0,0:12:45.00,0:12:47.83,Subtitle,,0,0,0,,H-hold on a little bit.
+Dialogue: 0,0:12:49.58,0:12:50.50,Subtitle,,0,0,0,,What?
+Dialogue: 0,0:12:52.67,0:12:55.42,Subtitle,,0,0,0,,Big Sister will give you some war funds.
+Dialogue: 0,0:12:55.42,0:12:56.25,Subtitle,,0,0,0,,Yes!
+Dialogue: 0,0:12:59.42,0:13:01.67,Subtitle,,0,0,0,,Hey, it's not an allowance.
+Dialogue: 0,0:13:01.92,0:13:03.25,Subtitle,,0,0,0,,Oh, yeah...
+Dialogue: 0,0:13:04.13,0:13:07.04,Subtitle,,0,0,0,,She's really cute. Good luck!
+Dialogue: 0,0:13:07.58,0:13:08.67,Subtitle,,0,0,0,,What for?
+Dialogue: 0,0:13:09.42,0:13:12.38,Subtitle,,0,0,0,,Tears are not an accessory, poko.
+Dialogue: 0,0:13:14.21,0:13:17.00,Subtitle,,0,0,0,,I received some money somehow.
+Dialogue: 0,0:13:17.00,0:13:18.25,Subtitle,,0,0,0,,Let's go outside.
+Dialogue: 0,0:13:18.25,0:13:19.17,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:13:30.08,0:13:35.38,Subtitle,,0,0,0,,If by chance the guys see me hanging out with a girl...
+Dialogue: 0,0:13:35.54,0:13:36.58,Subtitle,,0,0,0,,That'll be the end of me...
+Dialogue: 0,0:13:37.08,0:13:42.63,Subtitle,,0,0,0,,This past Sunday, Takeru was hanging out with a girl...\NIsezaki of all people, weren't you?!
+Dialogue: 0,0:13:42.63,0:13:43.33,Subtitle,,0,0,0,,Yes.
+Dialogue: 0,0:13:43.33,0:13:47.17,Subtitle,,0,0,0,,The same Isezaki who was going to\Ntattle on us at homeroom meeting!
+Dialogue: 0,0:13:47.17,0:13:49.25,Subtitle,,0,0,0,,I admit my sins...
+Dialogue: 0,0:13:49.50,0:13:50.46,Subtitle,,0,0,0,,Takeru!
+Dialogue: 0,0:13:52.58,0:13:55.42,Subtitle,,0,0,0,,I'm bored. Say something!
+Dialogue: 0,0:13:55.58,0:13:57.21,Subtitle,,0,0,0,,Well... um...
+Dialogue: 0,0:13:57.54,0:14:00.42,Subtitle,,0,0,0,,Say! Why are you calling me by my first name?
+Dialogue: 0,0:14:00.42,0:14:02.42,Subtitle,,0,0,0,,You usually call me Arashiyama...
+Dialogue: 0,0:14:02.42,0:14:05.42,Subtitle,,0,0,0,,Huh? That's my discretion.
+Dialogue: 0,0:14:05.42,0:14:08.21,Subtitle,,0,0,0,,Takeru, you should call me by my first name.
+Dialogue: 0,0:14:10.04,0:14:13.38,Subtitle,,0,0,0,,Come to think of it, Isezaki,\Nwhat is your first name anyway?
+Dialogue: 0,0:14:17.79,0:14:20.63,Subtitle,,0,0,0,,Oh?! I'm sorry, I just forgot.
+Dialogue: 0,0:14:20.63,0:14:22.04,Subtitle,,0,0,0,,I'll remember it now!
+Dialogue: 0,0:14:23.29,0:14:24.46,Subtitle,,0,0,0,,Give me a hint...
+Dialogue: 0,0:14:24.46,0:14:25.21,Subtitle,,0,0,0,,Ellie...
+Dialogue: 0,0:14:25.21,0:14:26.00,Subtitle,,0,0,0,,Eh?
+Dialogue: 0,0:14:26.42,0:14:27.63,Subtitle,,0,0,0,,ELLIE!
+Dialogue: 0,0:14:27.83,0:14:31.63,Subtitle,,0,0,0,,My bark doesn't go "hyan" but "huun," poko.
+Dialogue: 0,0:14:33.46,0:14:34.25,Subtitle,,0,0,0,,E-
+Dialogue: 0,0:14:34.58,0:14:35.63,Subtitle,,0,0,0,,"E"?
+Dialogue: 0,0:14:35.63,0:14:37.13,Subtitle,,0,0,0,,E... E...
+Dialogue: 0,0:14:37.63,0:14:38.21,Subtitle,,0,0,0,,"E"?
+Dialogue: 0,0:14:38.38,0:14:40.50,Subtitle,,0,0,0,,I can't, I can't, I can't!
+Dialogue: 0,0:14:40.50,0:14:43.83,Subtitle,,0,0,0,,I'm embarrassed to call a female character\Nin a manga by her first name.
+Dialogue: 0,0:14:43.83,0:14:45.46,Subtitle,,0,0,0,,I just can't!
+Dialogue: 0,0:14:45.58,0:14:48.75,Subtitle,,0,0,0,,Would you settle for "Ebi-chan," please?
+Dialogue: 0,0:14:48.75,0:14:50.46,Subtitle,,0,0,0,,The girls call you that.
+Dialogue: 0,0:14:51.92,0:14:53.63,Subtitle,,0,0,0,,Well, I guess so.
+Dialogue: 0,0:14:55.83,0:14:58.83,Subtitle,,0,0,0,,Hey, why don't we have some ice cream?
+Dialogue: 0,0:14:58.83,0:15:01.71,Subtitle,,0,0,0,,Huh... no thanks for me. Besides, it's cold...
+Dialogue: 0,0:15:02.00,0:15:04.08,Subtitle,,0,0,0,,Well, I want to have some! Buy me some!
+Dialogue: 0,0:15:04.09,0:15:07.25,Subtitle,,0,0,0,,And I don't like how you address yourself.\NI want you to be more rough!
+Dialogue: 0,0:15:07.25,0:15:08.83,Subtitle,,0,0,0,,How selfish!
+Dialogue: 0,0:15:10.17,0:15:11.71,Subtitle,,0,0,0,,What flavor do you want?
+Dialogue: 0,0:15:11.71,0:15:12.46,Subtitle,,0,0,0,,Vanilla.
+Dialogue: 0,0:15:15.50,0:15:16.25,Subtitle,,0,0,0,,They don't have any.
+Dialogue: 0,0:15:16.25,0:15:18.04,Subtitle,,0,0,0,,What flavors do they have?
+Dialogue: 0,0:15:19.08,0:15:21.13,Subtitle,,0,0,0,,They have everything except vanilla.
+Dialogue: 0,0:15:21.13,0:15:22.54,Subtitle,,0,0,0,,Then, strawberry.
+Dialogue: 0,0:15:24.75,0:15:26.67,Subtitle,,0,0,0,,I'm sorry, they didn't have that either!
+Dialogue: 0,0:15:26.67,0:15:29.21,Subtitle,,0,0,0,,And I'm about to die from the cold...
+Dialogue: 0,0:15:29.33,0:15:31.83,Subtitle,,0,0,0,,Then, whatever you like, Takeru...
+Dialogue: 0,0:15:33.42,0:15:35.67,Subtitle,,0,0,0,,You picked choco-melon!
+Dialogue: 0,0:15:37.21,0:15:38.83,Subtitle,,0,0,0,,Y-yeah...
+Dialogue: 0,0:15:38.96,0:15:41.08,Subtitle,,0,0,0,,It was just the one on top, though...
+Dialogue: 0,0:15:42.21,0:15:43.33,Subtitle,,0,0,0,,Thank you!
+Dialogue: 0,0:15:44.63,0:15:45.33,Subtitle,,0,0,0,,Yo, Takeru!
+Dialogue: 0,0:15:45.33,0:15:46.83,Subtitle,,0,0,0,,Oh no!
+Dialogue: 0,0:15:46.96,0:15:48.79,Subtitle,,0,0,0,,What's up with you? Are you on a date?
+Dialogue: 0,0:15:48.79,0:15:51.50,Subtitle,,0,0,0,,Hey, hey, hey, look at you!
+Dialogue: 0,0:15:51.63,0:15:53.88,Subtitle,,0,0,0,,No, it's not what you think. It's not.
+Dialogue: 0,0:15:53.88,0:15:54.58,Subtitle,,0,0,0,,Um...
+Dialogue: 0,0:15:55.58,0:15:58.75,Subtitle,,0,0,0,,Ah, she's a friend of my big sister...
+Dialogue: 0,0:15:58.75,0:15:59.88,Subtitle,,0,0,0,,Hello!
+Dialogue: 0,0:16:00.46,0:16:01.71,Subtitle,,0,0,0,,Hello.
+Dialogue: 0,0:16:02.21,0:16:06.29,Subtitle,,0,0,0,,She's really cute! Good luck!
+Dialogue: 0,0:16:06.29,0:16:07.71,Subtitle,,0,0,0,,Like I said, what for?
+Dialogue: 0,0:16:07.88,0:16:11.46,Subtitle,,0,0,0,,It's not good to be in the way, so, see you!
+Dialogue: 0,0:16:12.00,0:16:13.63,Subtitle,,0,0,0,,She's a pretty girl.
+Dialogue: 0,0:16:13.63,0:16:15.21,Subtitle,,0,0,0,,Y-yeah.
+Dialogue: 0,0:16:15.21,0:16:18.46,Subtitle,,0,0,0,,Whew, I thought the guys found me out.
+Dialogue: 0,0:16:18.96,0:16:22.21,Subtitle,,0,0,0,,The possibility for an encounter\Nin this shopping district is way too high!
+Dialogue: 0,0:16:22.21,0:16:24.00,Subtitle,,0,0,0,,I need to hide somewhere!
+Dialogue: 0,0:16:24.75,0:16:25.71,Subtitle,,0,0,0,,Isezaki!
+Dialogue: 0,0:16:28.54,0:16:31.04,Subtitle,,0,0,0,,"Ebi-chan"... I...
+Dialogue: 0,0:16:35.92,0:16:38.25,Subtitle,,0,0,0,,Lemme take you to this store I go to.
+Dialogue: 0,0:16:38.25,0:16:40.83,Subtitle,,0,0,0,,Oh, what, what? I want to go!
+Dialogue: 0,0:16:41.42,0:16:43.71,Subtitle,,0,0,0,,If I say the forbidden words, she'll punch me!
+Dialogue: 0,0:16:44.08,0:16:46.83,Subtitle,,0,0,0,,Is this what you call "oppression of free speech"?
+Dialogue: 0,0:16:54.13,0:16:55.17,Subtitle,,0,0,0,,Welcome.
+Dialogue: 0,0:16:55.50,0:16:56.75,Subtitle,,0,0,0,,Hello.
+Dialogue: 0,0:16:56.88,0:16:59.25,Subtitle,,0,0,0,,Oh, Takeru, are you on a date?
+Dialogue: 0,0:16:59.71,0:17:02.79,Subtitle,,0,0,0,,And this must be "miscarriage of justice."
+Dialogue: 0,0:17:04.50,0:17:05.71,Subtitle,,0,0,0,,Wow!
+Dialogue: 0,0:17:06.21,0:17:08.29,Subtitle,,0,0,0,,I've never been to a place like this.
+Dialogue: 0,0:17:08.29,0:17:11.63,Subtitle,,0,0,0,,I've always wanted to go to a snack store!
+Dialogue: 0,0:17:12.71,0:17:14.00,Subtitle,,0,0,0,,Oh...
+Dialogue: 0,0:17:14.00,0:17:15.29,Subtitle,,0,0,0,,Hey, this...
+Dialogue: 0,0:17:15.50,0:17:17.21,Subtitle,,0,0,0,,These are those cards that you boys collect.
+Dialogue: 0,0:17:17.38,0:17:18.33,Subtitle,,0,0,0,,Yeah...
+Dialogue: 0,0:17:19.63,0:17:20.67,Subtitle,,0,0,0,,I want this.
+Dialogue: 0,0:17:20.67,0:17:25.83,Subtitle,,0,0,0,,Okay, usually, it's 1 million 500 thousand yen,\Nbut I'll let you have it for 150 yen.
+Dialogue: 0,0:17:25.83,0:17:28.63,Subtitle,,0,0,0,,Huh?! Th-thank you...
+Dialogue: 0,0:17:29.79,0:17:32.92,Subtitle,,0,0,0,,Ugh, this sucks! I got the same one.
+Dialogue: 0,0:17:32.92,0:17:34.29,Subtitle,,0,0,0,,Are you going to buy a card?
+Dialogue: 0,0:17:34.29,0:17:35.38,Subtitle,,0,0,0,,I'll buy just one.
+Dialogue: 0,0:17:37.63,0:17:39.88,Subtitle,,0,0,0,,The worst possible situation!
+Dialogue: 0,0:17:39.88,0:17:42.92,Subtitle,,0,0,0,,They still had this month's allowance left to spend?!
+Dialogue: 0,0:17:42.92,0:17:45.67,Subtitle,,0,0,0,,I have no place to run, no possibility of an excuse.
+Dialogue: 0,0:17:45.67,0:17:48.38,Subtitle,,0,0,0,,My elementary school life ends here...
+Dialogue: 0,0:17:49.04,0:17:50.25,Subtitle,,0,0,0,,Oh, it's those guys!
+Dialogue: 0,0:17:52.54,0:17:53.67,Subtitle,,0,0,0,,Takeru...
+Dialogue: 0,0:17:53.67,0:17:55.50,Subtitle,,0,0,0,,Go hide in the VIP room.
+Dialogue: 0,0:17:55.50,0:17:56.33,Subtitle,,0,0,0,,Can I?!
+Dialogue: 0,0:18:02.63,0:18:04.79,Subtitle,,0,0,0,,Mummo, have you seen Takeru?
+Dialogue: 0,0:18:04.79,0:18:05.13,Subtitle,,0,0,0,,Hm?
+Dialogue: 0,0:18:05.13,0:18:06.13,Subtitle-2,,0,0,0,,Gulp!\N{\rSubtitle}Hm?{\r}
+Dialogue: 0,0:18:08.21,0:18:10.83,Subtitle,,0,0,0,,We went to his house, but he wasn't there.
+Dialogue: 0,0:18:10.83,0:18:14.33,Subtitle,,0,0,0,,Takeru may have gone to the world of adults.
+Dialogue: 0,0:18:15.54,0:18:16.38,Subtitle,,0,0,0,,Where?
+Dialogue: 0,0:18:18.67,0:18:20.58,Subtitle,,0,0,0,,Let's go to the Shinto temple.
+Dialogue: 0,0:18:24.71,0:18:27.46,Subtitle,,0,0,0,,That was a pinch bad enough to be in the movies...
+Dialogue: 0,0:18:27.46,0:18:30.29,Subtitle,,0,0,0,,If you don't give up, a path will open up...
+Dialogue: 0,0:18:30.92,0:18:32.08,Subtitle,,0,0,0,,Takeru...
+Dialogue: 0,0:18:32.54,0:18:33.54,Subtitle,,0,0,0,,I'll give this to you.
+Dialogue: 0,0:18:33.88,0:18:35.33,Subtitle,,0,0,0,,Huh?! Are you sure?
+Dialogue: 0,0:18:35.33,0:18:36.33,Subtitle,,0,0,0,,Uh-huh!
+Dialogue: 0,0:18:38.21,0:18:38.88,Subtitle,,0,0,0,,Open it!
+Dialogue: 0,0:18:38.88,0:18:39.88,Subtitle,,0,0,0,,Okay!
+Dialogue: 0,0:18:43.88,0:18:46.25,Subtitle,,0,0,0,,Hey, you're a bit too close.
+Dialogue: 0,0:18:46.25,0:18:47.75,Subtitle,,0,0,0,,Did you get a strong one?
+Dialogue: 0,0:18:49.54,0:18:51.67,Subtitle,,0,0,0,,There are only truly awkward ones in there...
+Dialogue: 0,0:18:51.88,0:18:53.21,Subtitle,,0,0,0,,Hey, are they strong?
+Dialogue: 0,0:18:53.21,0:18:55.58,Subtitle,,0,0,0,,Yeah, depending on how you use them...
+Dialogue: 0,0:18:56.13,0:18:58.58,Subtitle,,0,0,0,,Makky wanted this one...
+Dialogue: 0,0:18:58.83,0:19:00.83,Subtitle,,0,0,0,,I'll trade this one with Kabayan, and...
+Dialogue: 0,0:19:00.83,0:19:01.83,Subtitle,,0,0,0,,Takeru...
+Dialogue: 0,0:19:02.50,0:19:04.29,Subtitle,,0,0,0,,Take good care of them.
+Dialogue: 0,0:19:04.29,0:19:05.50,Subtitle,,0,0,0,,Yeah...
+Dialogue: 0,0:19:05.50,0:19:07.25,Subtitle,,0,0,0,,Don't trade them away.
+Dialogue: 0,0:19:07.25,0:19:07.88,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:19:13.96,0:19:16.13,Subtitle,,0,0,0,,She's very different from when she's at school...
+Dialogue: 0,0:19:17.04,0:19:17.75,Subtitle,,0,0,0,,What?
+Dialogue: 0,0:19:17.75,0:19:20.83,Subtitle,,0,0,0,,I... I won't use these cards!
+Dialogue: 0,0:19:20.83,0:19:23.13,Subtitle,,0,0,0,,Why?! Aren't they strong?
+Dialogue: 0,0:19:23.50,0:19:26.33,Subtitle,,0,0,0,,I wouldn't want them to get mixed up with the others.
+Dialogue: 0,0:19:29.88,0:19:32.08,Subtitle,,0,0,0,,Good luck, Takeru.
+Dialogue: 0,0:19:32.54,0:19:34.08,Subtitle,,0,0,0,,Come on, come on, hold on!
+Dialogue: 0,0:19:36.54,0:19:37.71,Subtitle,,0,0,0,,Good, good!
+Dialogue: 0,0:19:38.08,0:19:38.92,Subtitle,,0,0,0,,I'm going to let go!
+Dialogue: 0,0:19:38.92,0:19:40.71,Subtitle,,0,0,0,,No, don't let go yet!
+Dialogue: 0,0:19:40.83,0:19:42.88,Subtitle,,0,0,0,,Young people these days...
+Dialogue: 0,0:19:42.88,0:19:45.38,Subtitle,,0,0,0,,All over each other in broad daylight...
+Dialogue: 0,0:19:45.38,0:19:47.96,Subtitle,,0,0,0,,Oh, I like that girl.
+Dialogue: 0,0:19:47.96,0:19:50.00,Subtitle,,0,0,0,,She can greet properly.
+Dialogue: 0,0:19:50.00,0:19:52.13,Subtitle,,0,0,0,,Nobody said it was wrong.
+Dialogue: 0,0:19:52.54,0:19:55.67,Subtitle,,0,0,0,,Go tell those two outside that lunch is ready.
+Dialogue: 0,0:19:55.67,0:19:56.96,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:19:58.08,0:20:00.13,Subtitle,,0,0,0,,By the way, where's my lunch?
+Dialogue: 0,0:20:00.33,0:20:03.17,Subtitle,,0,0,0,,Eat with those kids.
+Dialogue: 0,0:20:03.17,0:20:05.63,Subtitle,,0,0,0,,I'm sure you'll hit it off with those\Nelementary school students.
+Dialogue: 0,0:20:05.88,0:20:07.42,Subtitle,,0,0,0,,What is that supposed to mean?
+Dialogue: 0,0:20:09.13,0:20:11.46,Subtitle,,0,0,0,,But, Hotori ends up eating lunch with them anyway...
+Dialogue: 0,0:20:11.79,0:20:13.00,Subtitle,,0,0,0,,Food's on...
+Dialogue: 0,0:20:17.00,0:20:18.17,Subtitle,,0,0,0,,Oh! Takeru.
+Dialogue: 0,0:20:18.38,0:20:19.29,Subtitle,,0,0,0,,Morning.
+Dialogue: 0,0:20:19.29,0:20:21.63,Subtitle,,0,0,0,,Takeru, where were you yesterday?
+Dialogue: 0,0:20:21.63,0:20:24.54,Subtitle,,0,0,0,,Oh, I was at a relative's house.
+Dialogue: 0,0:20:26.42,0:20:27.75,Subtitle,,0,0,0,,Makita! Look at this!
+Dialogue: 0,0:20:27.75,0:20:29.08,Subtitle,,0,0,0,,Huh? Which one?
+Dialogue: 0,0:20:29.63,0:20:31.46,Subtitle,,0,0,0,,Oh, wow!
+Dialogue: 0,0:20:36.33,0:20:37.83,Subtitle,,0,0,0,,Morning, Ebi-chan.
+Dialogue: 0,0:20:44.33,0:20:46.71,Subtitle,,0,0,0,,Don't you dare call me Ebi-chan.
+Dialogue: 0,0:20:50.96,0:20:51.96,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:20:54.46,0:20:55.38,Subtitle,,0,0,0,,I...
+Dialogue: 0,0:20:55.38,0:20:57.50,Subtitle,,0,0,0,,Did I do something wrong?
+Dialogue: 0,0:20:57.67,0:20:59.67,Subtitle,,0,0,0,,It's cold, it's cold...
+Dialogue: 0,0:21:02.50,0:21:03.29,Subtitle,,0,0,0,,Click.
+Dialogue: 0,0:21:03.50,0:21:04.75,Subtitle,,0,0,0,,Hey!
+Dialogue: 0,0:21:04.75,0:21:07.00,Subtitle,,0,0,0,,Sorry, sorry, were you watching?
+Dialogue: 0,0:21:07.46,0:21:08.88,Subtitle,,0,0,0,,Here, it's not over yet.
+Dialogue: 0,0:21:08.88,0:21:11.38,Subtitle,,0,0,0,,I wanted to watch the part where she transforms!
+Dialogue: 0,0:21:11.38,0:21:13.71,Subtitle,,0,0,0,,She transforms every week.
+Dialogue: 0,0:21:13.83,0:21:17.21,Subtitle,,0,0,0,,Women... I don't understand them.
+Dialogue: 0,0:21:20.42,0:21:22.92,Subtitle,,0,0,0,,Takeru said something really funny!
+Dialogue: 0,0:21:25.00,0:21:26.83,Subtitle,,0,0,0,,Memo... memo!
+Dialogue: 0,0:21:35.54,0:21:39.50,Subtitle,,0,0,0,,When I find two 50 yen coins, it's unsettling, poko.
+Dialogue: 0,0:21:39.83,0:21:46.25,Subtitle,,0,0,0,,In Japan, the job of a detective is to\Nuncover any illegal activities of civilians.
+Dialogue: 0,0:21:46.38,0:21:51.25,Subtitle,,0,0,0,,Whereas criminal cases, in which the\Npenal code applies, are solved by the police.
+Dialogue: 0,0:21:51.54,0:21:54.75,Subtitle,,0,0,0,,Now, were you able to reach\Nthe truth behind your big sister?
+Dialogue: 0,0:21:54.75,0:21:57.29,Subtitle,,0,0,0,,Uh-huh! I was able to reach the truth!
+Dialogue: 0,0:21:57.50,0:21:58.79,Subtitle,,0,0,0,,Ta-da!
+Dialogue: 0,0:21:58.79,0:22:00.29,Subtitle,,0,0,0,,G-geh!
+Dialogue: 0,0:22:00.29,0:22:02.58,Subtitle,,0,0,0,,Hey... where did you get such a thing?
+Dialogue: 0,0:22:02.88,0:22:05.04,Subtitle,,0,0,0,,In this, there are things that nobody knows...
+Dialogue: 0,0:22:06.96,0:22:10.25,Subtitle,,0,0,0,,I give up, I give up! Great job, Detective!
+Dialogue: 0,0:23:41.83,0:23:44.79,Subtitle,,0,0,0,,There's an old myth called Pandora's Box.
+Dialogue: 0,0:23:44.79,0:23:47.17,Subtitle,,0,0,0,,I know it. It's about a box that you can't open, right?
+Dialogue: 0,0:23:47.17,0:23:49.83,Subtitle,,0,0,0,,When you open it, a lot of bad things\Ncome out of it, right?
+Dialogue: 0,0:23:49.83,0:23:52.50,Subtitle,,0,0,0,,But, in the end there was one thing\Nthat came out: "hope."
+Dialogue: 0,0:23:52.50,0:23:55.17,Subtitle,,0,0,0,,But actually, that hope is a trap!
+Dialogue: 0,0:23:55.17,0:23:58.25,Subtitle,,0,0,0,,If there is no hope, you can give up on it,\Nbut when something so close comes up,
+Dialogue: 0,0:23:58.25,0:24:00.67,Subtitle,,0,0,0,,you think you'll get it next time\Nand pour more money into it!
+Dialogue: 0,0:24:00.67,0:24:02.79,Subtitle,,0,0,0,,Granny, did you lose at pachinko?
+Dialogue: 0,0:24:03.42,0:24:07.33,Subtitle,,0,0,0,,Next episode, Street Number Six,\N"The Pandora Maid Service."
+Dialogue: 0,0:24:07.33,0:24:10.21,Subtitle,,0,0,0,,We turn round and round after all, poko.
+Dialogue: 0,0:00:03.92,0:00:06.00,SongCap,,0,0,0,,{\pos(524.8,187.2)}{\an7}Street No. 05
+Dialogue: 0,0:00:03.92,0:00:06.00,SongCap-2,,0,0,0,,{\pos(256,345.6)}{\an7}"The Truly Awkward Toshiko Tatsuno"
+Dialogue: 0,0:00:03.92,0:00:06.00,SongCap-3,,0,0,0,,{\pos(473.6,432)}{\an7}And Yet the Town Moves
+Dialogue: 0,0:00:08.50,0:00:11.50,SongCap-4,,0,0,0,,{\pos(512,266.4)}{\an7}MARUKO SHOPPING DISTRICT
+Dialogue: 0,0:00:36.79,0:00:38.04,SongCap-5,,0,0,0,,{\pos(473.6,223.2)}{\an7}KAIRONS
+Dialogue: 0,0:00:36.79,0:00:38.04,SongCap-6,,0,0,0,,{\pos(614.4,360)}{\an7}vs
+Dialogue: 0,0:00:36.79,0:00:38.04,SongCap-7,,0,0,0,,TOKUGAWA NINJA CORPS
+Dialogue: 0,0:00:49.08,0:00:55.58,SongCap-8,,0,0,0,,A rainbow colored sunset falls
+Dialogue: 0,0:00:55.58,0:01:00.96,SongCap-8,,0,0,0,,And the wind is a bit cool
+Dialogue: 0,0:01:00.96,0:01:05.67,SongCap-8,,0,0,0,,Saturday night is bustling
+Dialogue: 0,0:01:06.46,0:01:11.83,SongCap-8,,0,0,0,,Even the gloomy feeling
+Dialogue: 0,0:01:11.83,0:01:15.38,SongCap-8,,0,0,0,,Brightens up right away
+Dialogue: 0,0:01:15.50,0:01:18.46,SongCap-8,,0,0,0,,Everyone is in high spirits
+Dialogue: 0,0:01:19.71,0:01:20.71,SongCap-8,,0,0,0,,In high spirits
+Dialogue: 0,0:01:23.33,0:01:26.00,SongCap-8,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:26.96,0:01:29.50,SongCap-8,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:30.63,0:01:33.29,SongCap-8,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:35.88,0:01:38.63,SongCap-8,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:39.63,0:01:42.04,SongCap-8,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:43.29,0:01:48.29,SongCap-8,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:48.63,0:01:52.13,SongCap-8,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:52.25,0:01:55.71,SongCap-8,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:55.92,0:01:58.58,SongCap-8,,0,0,0,,Let's go downtown
+Dialogue: 0,0:01:58.75,0:02:01.58,SongCap-8,,0,0,0,,In high spirits
+Dialogue: 0,0:02:01.71,0:02:05.42,SongCap-8,,0,0,0,,In high spirits
+Dialogue: 0,0:02:12.04,0:02:13.79,SongCap-9,,0,0,0,,{\pos(307.2,417.6)}{\an7}10 days until the movie screening
+Dialogue: 0,0:02:16.08,0:02:18.25,SongCap-10,,0,0,0,,{\pos(499.2,489.6)}{\an7}Art Classroom
+Dialogue: 0,0:03:22.83,0:03:23.96,SongCap-11,,0,0,0,,{\pos(537.6,345.6)}{\an7}YOU PEOPLE
+Dialogue: 0,0:04:07.21,0:04:08.96,SongCap-12,,0,0,0,,Translation: Follow me!!
+Dialogue: 0,0:04:08.96,0:04:10.96,SongCap-9,,0,0,0,,{\pos(332.8,417.6)}{\an7}7 days until the movie screening
+Dialogue: 0,0:05:03.42,0:05:05.42,SongCap-9,,0,0,0,,{\pos(332.8,417.6)}{\an7}3 days until the movie screening
+Dialogue: 0,0:07:25.71,0:07:28.08,SongCap-13,,0,0,0,,{\pos(102.4,43.2)}{\an7}Note: A wordplay based on the "Kame" (Turtle) in Kameda's name; the soft-shelled
+Dialogue: 0,0:07:25.71,0:07:28.08,SongCap-13,,0,0,0,,{\pos(179.2,93.6)}{\an7}turtle is infamous for its ability to latch onto something and never let go.
+Dialogue: 0,0:08:15.75,0:08:17.75,SongCap-9,,0,0,0,,{\pos(396.8,432)}{\an7}The day of the screening
+Dialogue: 0,0:08:44.96,0:08:45.54,SongCap-14,,0,0,0,,{\pos(819.2,115.2)}{\an7}Naito
+Dialogue: 0,0:08:44.96,0:08:45.54,SongCap-14,,0,0,0,,{\pos(819.2,165.6)}{\an7}Dental Clinic
+Dialogue: 0,0:08:44.96,0:08:45.54,SongCap-15,,0,0,0,,{\pos(153.6,273.6)}{\an7}Seaside
+Dialogue: 0,0:08:45.54,0:08:47.46,SongCap-14,,0,0,0,,{\pos(819.2,115.2)}{\an7}Naito
+Dialogue: 0,0:08:45.54,0:08:47.46,SongCap-14,,0,0,0,,{\pos(819.2,165.6)}{\an7}Dental Clinic
+Dialogue: 0,0:08:47.46,0:09:03.46,SongCap-14,,0,0,0,,{\pos(819.2,115.2)}{\an7}Naito
+Dialogue: 0,0:08:47.46,0:09:03.46,SongCap-14,,0,0,0,,{\pos(819.2,165.6)}{\an7}Dental Clinic
+Dialogue: 0,0:08:47.46,0:09:03.46,SongCap-15,,0,0,0,,{\pos(153.6,273.6)}{\an7}Seaside
+Dialogue: 0,0:11:30.00,0:11:32.00,SongCap-16,,0,0,0,,{\pos(396.8,280.8)}{\an7}4th Grade                     Class 3
+Dialogue: 0,0:11:47.75,0:11:51.25,SongCap-17,,0,0,0,,{\pos(435.2,237.6)}{\an7}Dear Arashiyama,
+Dialogue: 0,0:11:47.75,0:11:51.25,SongCap-17,,0,0,0,,{\pos(486.4,309.6)}{\an7}Can I come over to
+Dialogue: 0,0:11:47.75,0:11:51.25,SongCap-17,,0,0,0,,{\pos(486.4,367.2)}{\an7}your house this Sunday
+Dialogue: 0,0:11:47.75,0:11:51.25,SongCap-17,,0,0,0,,{\pos(486.4,417.6)}{\an7}to hang out?
+Dialogue: 0,0:11:47.75,0:11:51.25,SongCap-17,,0,0,0,,{\pos(627.2,489.6)}{\an7}From Ebi-chan.
+Dialogue: 0,0:12:57.88,0:12:59.25,SongCap-18,,0,0,0,,{\pos(563.2,216)}{\an7}1000 yen
+Dialogue: 0,0:12:57.88,0:12:59.25,SongCap-19,,0,0,0,,{\pos(243.2,424.8)}{\an7}500 yen                         200 yen                       300 yen
+Dialogue: 0,0:12:57.88,0:12:59.25,SongCap-19,,0,0,0,,to savings                      for snacks                       to cards
+Dialogue: 0,0:13:36.58,0:13:38.08,SongCap-9,,0,0,0,,{\pos(409.6,468)}{\an7}In-Brain Class Meeting
+Dialogue: 0,0:15:04.08,0:15:08.83,SongCap-20,,0,0,0,,{\pos(102.4,43.2)}{\an7}Note: Takeru refers to himself as "boku" which is a more boyish way to say
+Dialogue: 0,0:15:04.08,0:15:08.83,SongCap-20,,0,0,0,,{\pos(166.4,93.6)}{\an7}"me" in Japanese than "ore," which is more manly in Ellie's opinion
+Dialogue: 0,0:15:12.46,0:15:15.96,SongCap-21,,0,0,0,,Himalaya Ice  Cre  m
+Dialogue: 0,0:15:15.96,0:15:18.75,SongCap-21,,0,0,0,,Himalaya Ice  Cr    m
+Dialogue: 0,0:15:18.75,0:15:21.96,SongCap-21,,0,0,0,,Himalaya Ice  Cr  am
+Dialogue: 0,0:15:21.96,0:15:24.46,SongCap-21,,0,0,0,,Himalaya Ice  Cre  m
+Dialogue: 0,0:15:31.83,0:15:33.33,SongCap-22,,0,0,0,,{\pos(588.8,122.4)}{\an7}Choco-
+Dialogue: 0,0:15:31.83,0:15:33.33,SongCap-22,,0,0,0,,{\pos(665.6,172.8)}{\an7}Melon
+Dialogue: 0,0:16:46.83,0:16:48.29,SongCap-23,,0,0,0,,{\pos(563.2,302.4)}{\an7}Suzuya
+Dialogue: 0,0:17:04.79,0:17:06.00,SongCap-24,,0,0,0,,{\pos(102.4,496.8)}{\an7}All
+Dialogue: 0,0:17:04.79,0:17:06.00,SongCap-24,,0,0,0,,10 yen
+Dialogue: 0,0:17:59.33,0:18:02.63,SongCap-25,,0,0,0,,{\pos(102.4,460.8)}{\an7}Snack Store Suzuya's VIP room...
+Dialogue: 0,0:17:59.33,0:18:02.63,SongCap-25,,0,0,0,,Where you eat monja-yaki.\NNormally, elementary school\Nstudents not allowed to enter.
+Dialogue: 0,0:18:49.21,0:18:51.67,SongCap-26,,0,0,0,,{\pos(281.6,93.6)}{\an7}Freshwater Crab Squadron
+Dialogue: 0,0:18:49.21,0:18:51.67,SongCap-26,,0,0,0,,{\pos(396.8,144)}{\an7}Bamboo Broom
+Dialogue: 0,0:18:49.21,0:18:51.67,SongCap-26,,0,0,0,,{\pos(768,194.4)}{\an7}Boxed Lunch
+Dialogue: 0,0:18:49.21,0:18:51.67,SongCap-26,,0,0,0,,{\pos(883.2,280.8)}{\an7}Natural Bone Bone
+Dialogue: 0,0:20:14.17,0:20:16.17,SongCap-16,,0,0,0,,{\pos(384,201.6)}{\an7}4th Grade                      Class 3
+Dialogue: 0,0:20:14.17,0:20:16.17,SongCap-27,,0,0,0,,Next Morning
+Dialogue: 0,0:21:27.67,0:21:34.88,SongCap-28,,0,0,0,,{\pos(524.8,93.6)}{\an7}The Iron Maiden
+Dialogue: 0,0:21:27.67,0:21:34.88,SongCap-28,,0,0,0,,{\pos(448,489.6)}{\an7}Strength 3            Attack 2
+Dialogue: 0,0:21:27.67,0:21:34.88,SongCap-29,,0,0,0,,Thumbscrews:  Opponent, Ally,\N{\rSongCap-29}all creatures sustain 2 damage{\r}
+Dialogue: 0,0:21:58.79,0:22:00.29,SongCap-30,,0,0,0,,{\pos(384,165.6)}{\an7}Exchange Notebook
+Dialogue: 0,0:21:58.79,0:22:00.29,SongCap-30,,0,0,0,,{\pos(601.6,352.8)}{\an7}Hotori Arashiyama
+Dialogue: 0,0:21:58.79,0:22:00.29,SongCap-30,,0,0,0,,Middle School Edition
+Dialogue: 0,0:22:10.33,0:22:13.21,SongCap-8,,0,0,0,,One, two, one, two, three, four!
+Dialogue: 0,0:22:19.00,0:22:23.67,SongCap-8,,0,0,0,,I'm so bored, I have the heart of Rock n roll
+Dialogue: 0,0:22:23.67,0:22:27.96,SongCap-8,,0,0,0,,Living alone a life of loud music
+Dialogue: 0,0:22:29.50,0:22:33.88,SongCap-8,,0,0,0,,I'm oblivious with cheeks like a blowfish
+Dialogue: 0,0:22:34.08,0:22:38.29,SongCap-8,,0,0,0,,Today again, the town to chaos will I drag into
+Dialogue: 0,0:22:39.88,0:22:44.42,SongCap-8,,0,0,0,,Being tsundere is proof of my intelligence
+Dialogue: 0,0:22:44.42,0:22:49.54,SongCap-8,,0,0,0,,Again today, I'm unable to confess my love to this man
+Dialogue: 0,0:22:50.21,0:22:54.67,SongCap-8,,0,0,0,,I gave my life to table tennis
+Dialogue: 0,0:22:54.67,0:22:59.21,SongCap-8,,0,0,0,,To strengthen my legs and hips when I play the drums
+Dialogue: 0,0:23:00.54,0:23:03.67,SongCap-8,,0,0,0,,This band isn't a scam
+Dialogue: 0,0:23:03.67,0:23:06.50,SongCap-8,,0,0,0,,This band isn't rock
+Dialogue: 0,0:23:06.67,0:23:09.54,SongCap-8,,0,0,0,,We're not going for an ondo dance
+Dialogue: 0,0:23:09.67,0:23:12.46,SongCap-8,,0,0,0,,We're not going to arrive in Nirvana
+Dialogue: 0,0:23:12.46,0:23:14.04,SongCap-8,,0,0,0,,We are the Maids "Yeah!"
+Dialogue: 0,0:23:14.04,0:23:15.33,SongCap-8,,0,0,0,,Dressed as maids we
+Dialogue: 0,0:23:15.33,0:23:16.92,SongCap-8,,0,0,0,,Are here, we are here!
+Dialogue: 0,0:23:16.92,0:23:18.38,SongCap-8,,0,0,0,,"Ach-ohhhhh!"
+Dialogue: 0,0:23:18.38,0:23:20.04,SongCap-8,,0,0,0,,This is Hell "Yeah!"
+Dialogue: 0,0:23:20.04,0:23:21.33,SongCap-8,,0,0,0,,The crime scene is
+Dialogue: 0,0:23:21.33,0:23:22.75,SongCap-8,,0,0,0,,A terrible sight, a terrible sight!
+Dialogue: 0,0:23:22.75,0:23:24.33,SongCap-8,,0,0,0,,"Oh no!"
+Dialogue: 0,0:23:24.33,0:23:25.75,SongCap-8,,0,0,0,,We are the invincible Maids "Yeah!"
+Dialogue: 0,0:23:25.75,0:23:27.25,SongCap-8,,0,0,0,,Constipation is a difficult delivery
+Dialogue: 0,0:23:27.25,0:23:28.71,SongCap-8,,0,0,0,,Enema, enema!
+Dialogue: 0,0:23:28.71,0:23:30.25,SongCap-8,,0,0,0,,"Ach-ohhhhh!"
+Dialogue: 0,0:23:30.38,0:23:33.42,SongCap-8,,0,0,0,,Pure and right and frank
+Dialogue: 0,0:23:33.42,0:23:36.46,SongCap-8,,0,0,0,,Seaside is, with rave reviews, open for business!!
+Dialogue: 0,0:23:36.46,0:23:39.21,SongCap-8,,0,0,0,,"Thank you always for your business!"
+Dialogue: 0,0:23:41.04,0:23:41.71,SongCap-31,,0,0,0,,{\pos(320,273.6)}{\an7}And Yet the Town Moves
+Dialogue: 0,0:23:41.04,0:23:41.71,SongCap-32,,0,0,0,,{\pos(550.4,468)}{\an7}Next Episode
+Dialogue: 0,0:24:03.13,0:24:03.67,SongCap-33,,0,0,0,,{\pos(537.6,129.6)}{\an7}Cafe Seaside
+Dialogue: 0,0:24:03.67,0:24:08.08,SongCap-34,,0,0,0,,{\pos(537.6,129.6)}{\an7}Cafe Seaside
+Dialogue: 0,0:24:03.67,0:24:08.08,SongCap-35,,0,0,0,,{\pos(256,439.2)}{\an7}STREET NO. 06 "THE PANDORA MAID SERVICE"
+Dialogue: 0,0:24:08.08,0:24:11.04,SongCap-33,,0,0,0,,{\pos(537.6,129.6)}{\an7}Cafe Seaside
