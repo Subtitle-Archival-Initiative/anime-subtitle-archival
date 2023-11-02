@@ -2,7 +2,7 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | Daisuki                             |
+| Translation       | Daisuki, fnord (Songs)              |
 | Translation Check | -                                   |
 | Editing           | Ephemere                            |
 | Typesetting       | Ephemere                            |
