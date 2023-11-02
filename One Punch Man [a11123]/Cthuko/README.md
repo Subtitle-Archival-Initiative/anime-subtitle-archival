@@ -2,7 +2,7 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | Daisuki                             |
+| Translation       | Daisuki, Vale (Songs)               |
 | Translation Check | Vale                                |
 | Editing           | ryuu_zer0                           |
 | Typesetting       | ntr                                 |
