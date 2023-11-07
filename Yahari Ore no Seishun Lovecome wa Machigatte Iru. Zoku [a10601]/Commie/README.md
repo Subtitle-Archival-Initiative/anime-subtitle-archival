@@ -5,7 +5,7 @@
 | Translation       | rotpain                             |
 | Translation Check | -                                   |
 | Editing           | corti                               |
-| Typesetting       | ?                                   |
+| Typesetting       | skiddiks                            |
 | Styling           | ?                                   |
 | Timing            | skiddiks                            |
 | Encoding          | ?                                   |
