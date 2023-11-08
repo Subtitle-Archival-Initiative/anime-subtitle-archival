@@ -17,7 +17,7 @@
 |--------------|-----------|
 | Status       | Complete  |
 | Batch Status | -         |
-| Source       | WEBRip    |
+| Source       | TVRip     |
 | Resolution   | 1280x720  |
 
 ## Notes
