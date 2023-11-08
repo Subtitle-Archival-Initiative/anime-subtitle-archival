@@ -2,23 +2,23 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | -                                   |
-| Translation Check | -                                   |
-| Editing           | -                                   |
-| Typesetting       | -                                   |
-| Styling           | -                                   |
-| Timing            | -                                   |
-| Encoding          | -                                   |
-| Quality Control   | -                                   |
+| Translation       | ?                                   |
+| Translation Check | ?                                   |
+| Editing           | ?                                   |
+| Typesetting       | ?                                   |
+| Styling           | ?                                   |
+| Timing            | ?                                   |
+| Encoding          | ?                                   |
+| Quality Control   | ?                                   |
 
 ## Release Info
 
-|              |           |
-|--------------|-----------|
-| Status       | -         |
-| Batch Status | -         |
-| Source       | HDTV      |
-| Resolution   | 1280x720  |
+|              |            |
+|--------------|------------|
+| Status       | Incomplete |
+| Batch Status | -          |
+| Source       | TV         |
+| Resolution   | 1280x720   |
 
 ## Notes
-Missing Ep3
+Episode 03 is a partial recreation based on the hardsubbed version.
