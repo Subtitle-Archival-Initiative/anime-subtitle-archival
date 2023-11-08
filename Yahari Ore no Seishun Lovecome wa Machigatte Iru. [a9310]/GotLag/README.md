@@ -19,6 +19,3 @@
 | Batch Status | -          |
 | Source       | TVRip      |
 | Resolution   | 1280x720   |
-
-## Notes
-Missing Episodes 1 and 6.
