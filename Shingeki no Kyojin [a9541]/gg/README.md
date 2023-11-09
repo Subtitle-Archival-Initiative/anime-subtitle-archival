@@ -2,7 +2,7 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | valerauko                           |
+| Translation       | blakbunny27 (1), valerauko (2+)     |
 | Translation Check | -                                   |
 | Editing           | returnity                           |
 | Typesetting       | neto_rare                           |

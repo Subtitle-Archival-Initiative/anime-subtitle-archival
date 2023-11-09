@@ -2,7 +2,7 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | Annie (bb27?)                       |
+| Translation       | Annie (blakbunny27)                 |
 | Translation Check | -                                   |
 | Editing           | FalseDawn                           |
 | Typesetting       | triviper                            |
