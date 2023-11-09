@@ -2,7 +2,7 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Base Script       | [Baal](../Coalgirls) (CGi with [EveTaku](../EveTaku)) styling |
+| Base Script       | [Baal](../Coalgirls) (CGi with [EveTaku](../EveTaku) styling) |
 | Typesetting       | Scyrous                             |
 | Quality Control   | Scyrous                             |
 | Encoding          | Scyrous                             | 
