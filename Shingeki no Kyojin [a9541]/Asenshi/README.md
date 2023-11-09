@@ -5,11 +5,11 @@
 | Translation       | Crunchyroll                         |
 | Translation Check | ?                                   |
 | Editing           | Ianu                                |
-| Typesetting       | ?                                   |
-| Styling           | ?                                   |
+| Typesetting       | HeavenlyArmed (Based on [EveTaku's](../EveTaku))                    |
+| Styling           | Leona                               |
 | Timing            | ?                                   |
-| Encoding          | ?                                   |
-| Quality Control   | ?                                   |
+| Encoding          | joletb                              |
+| Quality Control   | joletb, Ianu                        |
 
 ## Release Info
 
