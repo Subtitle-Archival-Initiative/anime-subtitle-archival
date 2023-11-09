@@ -1,15 +1,15 @@
 ## Staff
 
-| Role              | Staff                                     |
-|-------------------|-------------------------------------------|
-| Translation       | blak(?), vale(?)                          |
-| Translation Check | -                                         |
-| Editing           | The Fresh Prince of Bel-Air (Will_Smith?) |
-| Typesetting       | netorare                                  |
-| Styling           | -                                         |
-| Timing            | Jaka                                      |
-| Encoding          | Jaka                                      |
-| Quality Control   | -                                         |
+| Role              | Staff                                           |
+|-------------------|-------------------------------------------------|
+| Translation       | blakbunny27(1-3, 5), vale(4, 6+)                |
+| Translation Check | -                                               |
+| Editing           | The Fresh Prince of Bel-Air (Will_Smith?)(6+?)  |
+| Typesetting       | netorare                                        |
+| Styling           | -                                               |
+| Timing            | Jaka                                            |
+| Encoding          | Jaka                                            |
+| Quality Control   | -                                               |
 
 ## Release Info
 
