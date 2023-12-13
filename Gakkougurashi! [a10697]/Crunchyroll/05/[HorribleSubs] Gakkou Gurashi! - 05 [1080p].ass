@@ -1,0 +1,351 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Signs,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Italics Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main Dialogue Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Italics Dialogue Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Flashback Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,13,13,24,0
+Style: Flashback Italics Dialogue,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Flashback Dialogue Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,24,0
+Style: Episode Title,Open Sans Semibold,42,&H00EDF6FB,&H000000FF,&H001E4F80,&H00466484,1,0,0,0,100,100,0,0,1,1,2,7,233,13,33,1
+Style: Next Time,Open Sans Semibold,45,&H002F2C5C,&H000000FF,&H00F9F5FB,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,13,293,40,1
+Style: Next Episode,Open Sans Semibold,45,&H00302F38,&H000000FF,&H00F4F9FA,&H00557C8B,1,0,0,0,100,100,0,32,1,4,0,7,53,13,53,1
+Style: School Living Club,Open Sans Semibold,45,&H00131719,&H000000FF,&H00A2A8A9,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,13,13,27,1
+Style: Black Signs,Open Sans Semibold,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,24,1
+Style: Album Sign,Open Sans Semibold,30,&H006C0C64,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,6,1,2,0,9,27,80,167,1
+Style: J-Rock Sign,Open Sans Semibold,24,&H0000324D,&H000000FF,&H0069ADBF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,240,27,29,1
+Style: Concert,Open Sans Semibold,30,&H00C6CFDB,&H000000FF,&H00393F53,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,200,27,27,1
+Style: Hmph,Open Sans Semibold,24,&H004A5169,&H000000FF,&H00EFF9FE,&H00A0A4A6,1,0,0,0,100,100,0,0,1,2,1,8,607,27,93,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.57,0:00:04.33,Italics Dialogue,Alarm,0000,0000,0000,,Morning, sleepyhead! Time to wake up.
+Dialogue: 0,0:00:04.62,0:00:06.91,Italics Dialogue,Alarm,0000,0000,0000,,Morning, sleepyhead! Time to wake up.
+Dialogue: 0,0:00:07.25,0:00:09.74,Italics Dialogue,Alarm,0000,0000,0000,,Morning, sleepyhead! Time to wake up.
+Dialogue: 0,0:00:09.74,0:00:12.11,Italics Dialogue,Alarm,0000,0000,0000,,Morning, sleepyhead! Time to—
+Dialogue: 0,0:00:16.07,0:00:17.27,Main Dialogue,Miki,0000,0000,0000,,I have to get up.
+Dialogue: 0,0:00:41.02,0:00:43.45,Main Dialogue,Miki,0000,0000,0000,,Taroumaru, breakfast.
+Dialogue: 0,0:00:51.36,0:00:52.46,Main Dialogue,Miki,0000,0000,0000,,Taroumaru?
+Dialogue: 0,0:00:53.25,0:00:54.61,Main Dialogue,Miki,0000,0000,0000,,Taroumaru!
+Dialogue: 0,0:01:04.01,0:01:05.11,Main Dialogue,Miki,0000,0000,0000,,It's not him...
+Dialogue: 0,0:01:08.24,0:01:09.25,Main Dialogue,Miki,0000,0000,0000,,No!
+Dialogue: 0,0:01:21.17,0:01:22.52,Main Dialogue,Miki,0000,0000,0000,,Why...
+Dialogue: 0,0:01:24.27,0:01:25.56,Main Dialogue,Miki,0000,0000,0000,,Why?!
+Dialogue: 0,0:01:28.02,0:01:30.02,School Living Club,Miki,0000,0000,0000,,School Living Club
+Dialogue: 0,0:02:58.07,0:03:02.11,Album Sign,Miki,0000,0000,0000,,Graduation Album
+Dialogue: 0,0:02:58.49,0:03:02.11,Episode Title,Miki,0000,0000,0000,,{\fad(709,1)}#5 \N"Meeting"
+Dialogue: 0,0:03:04.05,0:03:06.12,Main Dialogue,Yuki,0000,0000,0000,,Club outing!
+Dialogue: 0,0:03:06.42,0:03:08.02,Main Dialogue,Megu,0000,0000,0000,,Club outing!
+Dialogue: 0,0:03:08.02,0:03:11.12,Main Dialogue,Both,0000,0000,0000,,A fun-filled club outing!
+Dialogue: 0,0:03:11.12,0:03:15.31,Main Dialogue,Yuki,0000,0000,0000,,Megu-nee, do we have any bananas?
+Dialogue: 0,0:03:14.22,0:03:15.66,Main Dialogue,Kuru,0000,0000,0000,,Someone's in a good mood.
+Dialogue: 0,0:03:15.31,0:03:17.29,Main Dialogue,Megu,0000,0000,0000,,We... do!
+Dialogue: 0,0:03:17.29,0:03:19.33,Main Dialogue,Rii,0000,0000,0000,,We should be there soon.
+Dialogue: 0,0:03:17.70,0:03:19.33,Main Dialogue,Rii,0000,0000,0000,,Yay!
+Dialogue: 0,0:03:19.33,0:03:20.63,Main Dialogue,Kuru,0000,0000,0000,,Oh, that's it!
+Dialogue: 0,0:03:23.67,0:03:25.64,Main Dialogue,Yuki,0000,0000,0000,,We're here!
+Dialogue: 0,0:03:25.95,0:03:27.77,Main Dialogue,Megu,0000,0000,0000,,You're too hyper.
+Dialogue: 0,0:03:27.77,0:03:29.92,Main Dialogue,Kuru,0000,0000,0000,,You're the type to get \Noverheated on outings, huh?
+Dialogue: 0,0:03:29.92,0:03:32.89,Main Dialogue,Yuki,0000,0000,0000,,N-No I don't! I do not!
+Dialogue: 0,0:03:32.89,0:03:35.31,Main Dialogue,Kuru,0000,0000,0000,,See? Your face is already flushed.
+Dialogue: 0,0:03:35.31,0:03:36.52,Main Dialogue,Rii,0000,0000,0000,,Now, now.
+Dialogue: 0,0:03:36.52,0:03:39.18,Main Dialogue,Megu,0000,0000,0000,,I really am worried, though.
+Dialogue: 0,0:03:39.18,0:03:41.82,Main Dialogue,Yuki,0000,0000,0000,,Wh-What was that?! What about you?
+Dialogue: 0,0:03:41.82,0:03:44.03,Main Dialogue,Kuru,0000,0000,0000,,Well, so far, so good.
+Dialogue: 0,0:03:41.82,0:03:44.75,Main Dialogue Top,yuki-BG,0000,0000,0000,,Your presence is barely noticeable!\NYou could get lost!
+Dialogue: 0,0:03:44.76,0:03:49.00,Main Dialogue,Rii,0000,0000,0000,,I'm guessing there aren't many of them \Nout because it's a weekday.
+Dialogue: 0,0:03:44.76,0:03:49.00,Main Dialogue Top,Megu-BG,0000,0000,0000,,I-I will not! I'm your teacher, you know!
+Dialogue: 0,0:03:49.00,0:03:51.48,Main Dialogue Top,Megu-BG,0000,0000,0000,,And I have a perfectly\Nnoticeable presence, okay?!
+Dialogue: 0,0:03:49.00,0:03:52.92,Main Dialogue,Kuru,0000,0000,0000,,They're all probably at school, or work...
+Dialogue: 0,0:03:51.48,0:03:54.24,Main Dialogue Top,Yuki,0000,0000,0000,,Oh, all right. I'll hold your hand.
+Dialogue: 0,0:03:53.54,0:03:55.95,Main Dialogue,Kuru,0000,0000,0000,,Like they still have memories \Nof when they were alive.
+Dialogue: 0,0:03:54.80,0:03:58.25,Main Dialogue Top,Megu-BG,0000,0000,0000,,"Oh, all right," nothing!
+Dialogue: 0,0:03:56.59,0:04:00.42,Main Dialogue,Rii,0000,0000,0000,,Well, let's keep our guard up \Nand try to enjoy our outing.
+Dialogue: 0,0:03:58.25,0:04:00.42,Main Dialogue Top,Yuki-BG,0000,0000,0000,,Aww, meanie...
+Dialogue: 0,0:04:01.01,0:04:03.72,Main Dialogue,Rii,0000,0000,0000,,It's been so long since we went shopping.
+Dialogue: 0,0:04:03.72,0:04:05.43,Main Dialogue,Yuki,0000,0000,0000,,Hey, you two!
+Dialogue: 0,0:04:05.72,0:04:07.27,Main Dialogue,Yuki,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:04:07.90,0:04:08.93,Main Dialogue,Kuru,0000,0000,0000,,You're right.
+Dialogue: 0,0:04:09.60,0:04:12.43,Main Dialogue,Kuru,0000,0000,0000,,And we have to keep an eye \Non that little troublemaker.
+Dialogue: 0,0:04:17.21,0:04:18.44,Main Dialogue,Yuki,0000,0000,0000,,The door's open?
+Dialogue: 0,0:04:18.44,0:04:22.49,Main Dialogue,Yuki,0000,0000,0000,,Are you guys closed? Hello?
+Dialogue: 0,0:04:21.80,0:04:24.95,Main Dialogue,Kuru,0000,0000,0000,,Hey, don't be so loud.
+Dialogue: 0,0:04:25.39,0:04:26.51,Main Dialogue,yuki,0000,0000,0000,,Why?
+Dialogue: 0,0:04:26.51,0:04:27.95,Main Dialogue,Kuru,0000,0000,0000,,Well, because...
+Dialogue: 0,0:04:27.95,0:04:30.10,Concert,,0000,0000,0000,,Inugami Yasutaka Piano Concert
+Dialogue: 0,0:04:31.22,0:04:33.80,Main Dialogue,Rii,0000,0000,0000,,Looks like there's an event happening.
+Dialogue: 0,0:04:33.80,0:04:36.46,Main Dialogue,Yuki,0000,0000,0000,,Event? Like a festival?
+Dialogue: 0,0:04:36.77,0:04:41.33,Main Dialogue,Rii,0000,0000,0000,,I think there's a concert going on. \NLet's be quiet so we don't interrupt.
+Dialogue: 0,0:04:41.33,0:04:42.26,Main Dialogue,Yuki,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:42.26,0:04:43.54,Main Dialogue,Both,0000,0000,0000,,Shh!
+Dialogue: 0,0:04:45.60,0:04:46.83,Main Dialogue,Rii,0000,0000,0000,,Thank you.
+Dialogue: 0,0:04:46.83,0:04:49.14,Main Dialogue,Rii,0000,0000,0000,,Okay, everyone, let's go.
+Dialogue: 0,0:04:55.43,0:04:56.65,Main Dialogue,Yuki,0000,0000,0000,,It's so big!
+Dialogue: 0,0:04:56.65,0:04:58.56,Main Dialogue,Rii,0000,0000,0000,,So there are some in here.
+Dialogue: 0,0:04:58.56,0:05:00.98,Main Dialogue,Kuru,0000,0000,0000,,This many is nothing I can't handle.
+Dialogue: 0,0:05:00.98,0:05:03.36,Main Dialogue,Kuru,0000,0000,0000,,Stay close and try to keep quiet.
+Dialogue: 0,0:05:03.36,0:05:04.14,Main Dialogue,Rii,0000,0000,0000,,Okay.
+Dialogue: 0,0:05:04.14,0:05:05.18,Main Dialogue,Yuki,0000,0000,0000,,Gotcha!
+Dialogue: 0,0:05:05.18,0:05:06.09,Main Dialogue,Kuru,0000,0000,0000,,Shh!
+Dialogue: 0,0:05:06.09,0:05:07.16,Main Dialogue,Yuki,0000,0000,0000,,Sorry.
+Dialogue: 0,0:05:08.12,0:05:09.66,Main Dialogue,Kuru,0000,0000,0000,,Okay, let's go!
+Dialogue: 0,0:05:21.66,0:05:23.78,Main Dialogue,Rii,0000,0000,0000,,Looks like there are none in here.
+Dialogue: 0,0:05:23.78,0:05:25.42,Main Dialogue,Kuru,0000,0000,0000,,Thanks, Rii-san.
+Dialogue: 0,0:05:25.42,0:05:28.01,J-Rock Sign,[sign,0000,0000,0000,,This is J-Rock!
+Dialogue: 0,0:05:25.93,0:05:28.01,Main Dialogue,Yuki,0000,0000,0000,,I wonder what they've got here.
+Dialogue: 0,0:05:31.75,0:05:34.26,Main Dialogue,Kuru,0000,0000,0000,,Rii-san, I'm gonna check downstairs.
+Dialogue: 0,0:05:34.26,0:05:38.45,Main Dialogue,Rii,0000,0000,0000,,To the supermarket? But I'm sure \Neverything's spoiled by now.
+Dialogue: 0,0:05:38.45,0:05:40.27,Main Dialogue,Kuru,0000,0000,0000,,We need canned goods, right?
+Dialogue: 0,0:05:42.59,0:05:44.37,Main Dialogue,Rii,0000,0000,0000,,Don't do anything reckless.
+Dialogue: 0,0:05:44.37,0:05:45.81,Main Dialogue,Kuru,0000,0000,0000,,I know.
+Dialogue: 0,0:05:50.83,0:05:53.04,Main Dialogue,Yuki,0000,0000,0000,,Hey, Rii-san, check this out!
+Dialogue: 0,0:05:54.18,0:05:55.29,Main Dialogue,Rii,0000,0000,0000,,What's up?
+Dialogue: 0,0:06:13.60,0:06:17.18,Flashback Dialogue,Kei,0000,0000,0000,,Don't worry. I promise I'll bring help.
+Dialogue: 0,0:06:18.66,0:06:19.74,Main Dialogue,Miki,0000,0000,0000,,Kei...
+Dialogue: 0,0:06:26.03,0:06:26.94,Main Dialogue,Kuru,0000,0000,0000,,There.
+Dialogue: 0,0:06:29.73,0:06:31.95,Main Dialogue,Kuru,0000,0000,0000,,All right! Jackpot, jackpot!
+Dialogue: 0,0:06:32.53,0:06:33.95,Main Dialogue,Can label/Kuru,0000,0000,0000,,Ginger soy beef!
+Dialogue: 0,0:06:38.47,0:06:39.66,Main Dialogue,Kuru,0000,0000,0000,,A d-dog?
+Dialogue: 0,0:06:42.62,0:06:44.12,Main Dialogue,Kuru,0000,0000,0000,,What? What is it?
+Dialogue: 0,0:06:47.69,0:06:49.89,Main Dialogue,Kuru,0000,0000,0000,,No fair! That's mine!
+Dialogue: 0,0:06:51.99,0:06:52.93,Main Dialogue,Kuru,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:07:01.19,0:07:03.33,Italics Dialogue,Rii,0000,0000,0000,,I hope Kurumi's okay...
+Dialogue: 0,0:07:03.77,0:07:07.26,Main Dialogue,Yuki,0000,0000,0000,,Hey, Rii-san, Kurumi-chan still isn't back.
+Dialogue: 0,0:07:07.56,0:07:10.35,Main Dialogue,Rii,0000,0000,0000,,I know. Let's wait a little longer.
+Dialogue: 0,0:07:11.95,0:07:16.95,Black Signs,Rii,0000,0000,0000,,{\3c&HD8D8D8&}Enka Corner
+Dialogue: 0,0:07:12.75,0:07:14.71,Main Dialogue,Yuki,0000,0000,0000,,Wow, Rii-san, you're so refined.
+Dialogue: 0,0:07:14.71,0:07:15.52,Main Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:17.81,0:07:19.23,Main Dialogue,Kuru,0000,0000,0000,,Safe...
+Dialogue: 0,0:07:19.23,0:07:20.46,Main Dialogue,Rii,0000,0000,0000,,Kurumi.
+Dialogue: 0,0:07:24.61,0:07:25.46,Main Dialogue,Kuru,0000,0000,0000,,It's you!
+Dialogue: 0,0:07:25.46,0:07:26.96,Main Dialogue,Yuki,0000,0000,0000,,A puppy!
+Dialogue: 0,0:07:37.42,0:07:38.47,Main Dialogue,Kuru,0000,0000,0000,,They can communicate?
+Dialogue: 0,0:07:40.73,0:07:42.66,Main Dialogue,Kuru,0000,0000,0000,,Whoa, whoa, whoa.
+Dialogue: 0,0:07:43.96,0:07:46.39,Main Dialogue,Rii,0000,0000,0000,,Sorry. Hang on a second.
+Dialogue: 0,0:07:48.76,0:07:49.99,Main Dialogue,Rii,0000,0000,0000,,Here you go.
+Dialogue: 0,0:07:49.99,0:07:51.64,Main Dialogue,Yuki,0000,0000,0000,,My ginger soy beef!
+Dialogue: 0,0:07:55.03,0:07:56.62,Main Dialogue,Kuru,0000,0000,0000,,Rii-san, hurry.
+Dialogue: 0,0:07:56.62,0:07:58.52,Main Dialogue,Rii,0000,0000,0000,,Just a second...
+Dialogue: 0,0:08:07.26,0:08:08.63,Main Dialogue,Yuki,0000,0000,0000,,Rii-san, no fair.
+Dialogue: 0,0:08:09.62,0:08:12.13,Main Dialogue,Rii,0000,0000,0000,,It's okay. He's not bitten.
+Dialogue: 0,0:08:12.86,0:08:14.61,Main Dialogue,Rii,0000,0000,0000,,Here, Yuki-chan.
+Dialogue: 0,0:08:15.28,0:08:17.63,Main Dialogue,Yuki,0000,0000,0000,,Hi there, puppy.
+Dialogue: 0,0:08:21.52,0:08:25.01,Main Dialogue,Yuki,0000,0000,0000,,Yay! It's a puppy!
+Dialogue: 0,0:08:22.99,0:08:25.01,Main Dialogue,Megu,0000,0000,0000,,Yuki-chan, settle down!
+Dialogue: 0,0:08:25.52,0:08:26.80,Main Dialogue,Rii,0000,0000,0000,,Where'd he come from?
+Dialogue: 0,0:08:26.80,0:08:28.52,Main Dialogue,Kuru,0000,0000,0000,,I ran into him downstairs.
+Dialogue: 0,0:08:28.80,0:08:30.84,Main Dialogue,Rii,0000,0000,0000,,I wonder where his owner is.
+Dialogue: 0,0:08:30.84,0:08:32.64,Main Dialogue,Kuru,0000,0000,0000,,If he had one, they'd be with him.
+Dialogue: 0,0:08:33.18,0:08:36.82,Main Dialogue,Yuki,0000,0000,0000,,Hey, Kurumi-chan, \Nwhat do you think his name is?
+Dialogue: 0,0:08:36.82,0:08:40.06,Main Dialogue,Kuru,0000,0000,0000,,No idea. Isn't it written on his collar?
+Dialogue: 0,0:08:41.41,0:08:43.00,Main Dialogue,Yuki,0000,0000,0000,,Oh, you're right.
+Dialogue: 0,0:08:43.00,0:08:45.66,Main Dialogue,Yuki,0000,0000,0000,,Um... Taroumaru...
+Dialogue: 0,0:08:45.66,0:08:47.49,Main Dialogue,Yuki,0000,0000,0000,,Taroumaru?
+Dialogue: 0,0:08:47.49,0:08:50.55,Main Dialogue,Yuki,0000,0000,0000,,Okay! Nice to meet you, Taroumaru!
+Dialogue: 0,0:08:52.41,0:08:54.80,Main Dialogue,Yuki,0000,0000,0000,,Are the escalators all broken?
+Dialogue: 0,0:08:59.71,0:09:02.12,Main Dialogue,Kuru,0000,0000,0000,,There aren't many on the upper floors.
+Dialogue: 0,0:09:02.12,0:09:04.29,Main Dialogue,Rii,0000,0000,0000,,I don't think they handle stairs well.
+Dialogue: 0,0:09:04.29,0:09:06.89,Main Dialogue,Rii,0000,0000,0000,,Let's try the home appliances store.
+Dialogue: 0,0:09:06.89,0:09:08.06,Main Dialogue,Kuru,0000,0000,0000,,Roger.
+Dialogue: 0,0:09:10.95,0:09:12.57,Main Dialogue,Rii,0000,0000,0000,,Camping stove, gas canisters,
+Dialogue: 0,0:09:12.57,0:09:14.09,Main Dialogue,Rii,0000,0000,0000,,and...
+Dialogue: 0,0:09:14.09,0:09:15.07,Main Dialogue,,0000,0000,0000,,Here!
+Dialogue: 0,0:09:16.13,0:09:17.28,Main Dialogue,Rii,0000,0000,0000,,This is it!
+Dialogue: 0,0:09:17.54,0:09:18.82,Main Dialogue,Kuru,0000,0000,0000,,An emergency alarm?
+Dialogue: 0,0:09:18.82,0:09:19.68,Main Dialogue,Rii,0000,0000,0000,,Yup.
+Dialogue: 0,0:09:19.68,0:09:21.06,Main Dialogue,Yuki,0000,0000,0000,,How cute!
+Dialogue: 0,0:09:21.06,0:09:23.08,Main Dialogue,Yuki,0000,0000,0000,,So, when you pull the string...
+Dialogue: 0,0:09:23.08,0:09:24.51,Main Dialogue,Rii,0000,0000,0000,,Don't mess with it.
+Dialogue: 0,0:09:24.51,0:09:26.45,Main Dialogue,Rii,0000,0000,0000,,There's a concert going on, remember?
+Dialogue: 0,0:09:26.45,0:09:28.79,Main Dialogue,Yuki,0000,0000,0000,,Aww, just a little...
+Dialogue: 0,0:09:29.78,0:09:31.80,Main Dialogue,Rii,0000,0000,0000,,I said no.
+Dialogue: 0,0:09:33.59,0:09:35.11,Main Dialogue,Yuki,0000,0000,0000,,Understood.
+Dialogue: 0,0:09:35.11,0:09:36.59,Main Dialogue,Rii,0000,0000,0000,,What do we need that for?
+Dialogue: 0,0:09:36.79,0:09:39.77,Main Dialogue,Rii,0000,0000,0000,,To scare off bad guys. Crime prevention.
+Dialogue: 0,0:09:40.85,0:09:44.16,Main Dialogue,Rii,0000,0000,0000,,Well, we've got everything we need, right?
+Dialogue: 0,0:09:44.16,0:09:45.01,Main Dialogue,,0000,0000,0000,,Yup!
+Dialogue: 0,0:09:45.01,0:09:47.89,Main Dialogue,Rii,0000,0000,0000,,Then let's go look at clothes next.
+Dialogue: 0,0:09:47.89,0:09:48.69,Main Dialogue,All,0000,0000,0000,,Yay!
+Dialogue: 0,0:09:48.69,0:09:49.98,Main Dialogue,Rii,0000,0000,0000,,Shh.
+Dialogue: 0,0:09:49.98,0:09:51.86,Main Dialogue,All,0000,0000,0000,,Sorry.
+Dialogue: 0,0:09:59.93,0:10:02.16,Main Dialogue,Kuru,0000,0000,0000,,Should we really be doing this?
+Dialogue: 0,0:10:03.51,0:10:05.79,Main Dialogue,Rii,0000,0000,0000,,What better time than now?
+Dialogue: 0,0:10:10.36,0:10:13.71,Main Dialogue,Rii,0000,0000,0000,,We are girls, after all.
+Dialogue: 0,0:10:59.71,0:11:05.76,Main Dialogue,Megu,0000,0000,0000,,I-It's fine... It'll be fine...\NI can still fit in these...
+Dialogue: 0,0:11:09.26,0:11:11.40,Main Dialogue,Kuru,0000,0000,0000,,Hey, we're heading to the next stop.
+Dialogue: 0,0:11:12.87,0:11:15.02,Main Dialogue,Yuki,0000,0000,0000,,Can we please wait a bit?
+Dialogue: 0,0:11:15.02,0:11:18.31,Main Dialogue,Yuki,0000,0000,0000,,Megu-nee's fallen and she can't \Nget up, in more ways than one.
+Dialogue: 0,0:11:19.10,0:11:22.21,Main Dialogue,Yuki,0000,0000,0000,,We'll apologize to the owner together, okay?
+Dialogue: 0,0:11:23.65,0:11:25.62,Main Dialogue,Megu,0000,0000,0000,,I couldn't still fit...
+Dialogue: 0,0:11:27.18,0:11:28.35,Main Dialogue,Rii,0000,0000,0000,,Megu-nee?
+Dialogue: 0,0:11:28.35,0:11:31.03,Main Dialogue,Yuki,0000,0000,0000,,Yeah. I wanna cheer her up.
+Dialogue: 0,0:11:31.03,0:11:32.71,Main Dialogue,Rii,0000,0000,0000,,Let's see...
+Dialogue: 0,0:11:33.37,0:11:35.34,Main Dialogue,Rii,0000,0000,0000,,Why don't we get her a present?
+Dialogue: 0,0:11:35.34,0:11:37.08,Main Dialogue,Yuki,0000,0000,0000,,Yeah! Let's!
+Dialogue: 0,0:11:37.08,0:11:39.34,Main Dialogue,Rii,0000,0000,0000,,Do you know what she likes?
+Dialogue: 0,0:11:39.97,0:11:41.31,Main Dialogue,Yuki,0000,0000,0000,,I don't know...
+Dialogue: 0,0:11:42.83,0:11:44.64,Main Dialogue,Kuru,0000,0000,0000,,That'd be this, right?
+Dialogue: 0,0:11:47.67,0:11:51.39,Main Dialogue,Yuki,0000,0000,0000,,Here, Megu-nee, this is for you.
+Dialogue: 0,0:11:52.18,0:11:54.21,Main Dialogue,Megu,0000,0000,0000,,You're buying that for me?
+Dialogue: 0,0:11:54.21,0:11:55.17,Main Dialogue,Yuki,0000,0000,0000,,Yup!
+Dialogue: 0,0:11:55.17,0:11:56.02,Main Dialogue,Megu,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:11:56.31,0:11:57.48,Main Dialogue,Yuki,0000,0000,0000,,Of course!
+Dialogue: 0,0:11:58.39,0:12:02.75,Main Dialogue,Megu,0000,0000,0000,,Thank you, Yuki-chan.\NI want you to keep it, though.
+Dialogue: 0,0:12:02.75,0:12:04.03,Main Dialogue,Yuki,0000,0000,0000,,What? Why?
+Dialogue: 0,0:12:04.48,0:12:06.80,Main Dialogue,Yuki,0000,0000,0000,,Do you already have one?
+Dialogue: 0,0:12:07.53,0:12:09.03,Main Dialogue,Megu,0000,0000,0000,,That's part of it, yes.
+Dialogue: 0,0:12:09.03,0:12:10.27,Main Dialogue,Yuki,0000,0000,0000,,I should've known.
+Dialogue: 0,0:12:10.27,0:12:14.55,Main Dialogue,Megu,0000,0000,0000,,But that's exactly why \NI want you to have one, too.
+Dialogue: 0,0:12:14.55,0:12:16.42,Main Dialogue,Yuki,0000,0000,0000,,I see! So we'll match!
+Dialogue: 0,0:12:17.10,0:12:21.35,Main Dialogue,Yuki,0000,0000,0000,,Okay, I'll take care of him \Nas if he was you, Megu-nee.
+Dialogue: 0,0:12:21.35,0:12:24.17,Main Dialogue,Yuki,0000,0000,0000,,Actually, he kinda looks like you.
+Dialogue: 0,0:12:24.17,0:12:25.72,Main Dialogue,Megu,0000,0000,0000,,H-How so?
+Dialogue: 0,0:12:25.72,0:12:27.25,Main Dialogue,Yuki,0000,0000,0000,,This, mainly.
+Dialogue: 0,0:12:29.85,0:12:34.85,Black Signs,Rii,0000,0000,0000,,{\3c&H9A9A9A&}4th Floor Map
+Dialogue: 0,0:12:30.04,0:12:32.66,Main Dialogue,Rii,0000,0000,0000,,So in the end, you got to keep it.
+Dialogue: 0,0:12:32.66,0:12:33.37,Main Dialogue,Yuki,0000,0000,0000,,Yup.
+Dialogue: 0,0:12:33.37,0:12:34.85,Main Dialogue,Kuru,0000,0000,0000,,Figures...
+Dialogue: 0,0:12:36.20,0:12:38.49,Main Dialogue,Yuki,0000,0000,0000,,First place!
+Dialogue: 0,0:12:38.49,0:12:40.33,Main Dialogue,Kuru,0000,0000,0000,,Finally, the top floor.
+Dialogue: 0,0:12:42.61,0:12:43.73,Main Dialogue,Yuki,0000,0000,0000,,Taroumaru?
+Dialogue: 0,0:12:43.73,0:12:44.97,Main Dialogue,Kuru,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:12:58.13,0:13:01.17,Black Signs,Kuru,0000,0000,0000,,{\3c&H9A9A9A&}4th Floor Map
+Dialogue: 0,0:13:03.20,0:13:04.66,Main Dialogue,Yuki,0000,0000,0000,,Taroumaru?
+Dialogue: 0,0:13:04.66,0:13:07.30,Main Dialogue,Rii,0000,0000,0000,,Taroumaru, hush.
+Dialogue: 0,0:13:10.04,0:13:11.26,Main Dialogue,Miki,0000,0000,0000,,Taroumaru?
+Dialogue: 0,0:13:20.52,0:13:23.15,Main Dialogue,Rii,0000,0000,0000,,Taroumaru, be quiet, okay?
+Dialogue: 0,0:13:24.92,0:13:26.57,Main Dialogue,Rii,0000,0000,0000,,Thank you.
+Dialogue: 0,0:13:26.57,0:13:27.82,Main Dialogue,Kuru,0000,0000,0000,,Rii-san.
+Dialogue: 0,0:13:28.51,0:13:29.64,Main Dialogue,Rii,0000,0000,0000,,What is it?
+Dialogue: 0,0:13:30.06,0:13:33.62,Main Dialogue,Kuru,0000,0000,0000,,I heard something. Sounded like \Na chair getting knocked over.
+Dialogue: 0,0:13:33.62,0:13:35.25,Main Dialogue,Rii,0000,0000,0000,,Is it them?
+Dialogue: 0,0:13:35.25,0:13:38.97,Main Dialogue,Kuru,0000,0000,0000,,But there were barely any on the floor below.
+Dialogue: 0,0:13:38.97,0:13:41.34,Main Dialogue,Kuru,0000,0000,0000,,What if the reason Taroumaru was barking...
+Dialogue: 0,0:13:41.94,0:13:45.64,Main Dialogue,Rii,0000,0000,0000,,A survivor? Maybe it's Taroumaru's owner?
+Dialogue: 0,0:13:46.14,0:13:48.38,Main Dialogue,Kuru,0000,0000,0000,,If that's true, we've gotta save them.
+Dialogue: 0,0:13:51.75,0:13:52.78,Main Dialogue,Rii,0000,0000,0000,,Here?
+Dialogue: 0,0:13:52.78,0:13:54.85,Main Dialogue,Kuru,0000,0000,0000,,Yeah, definitely.
+Dialogue: 0,0:13:55.65,0:13:57.48,Main Dialogue,Yuki,0000,0000,0000,,A movie theater.
+Dialogue: 0,0:13:57.48,0:13:59.88,Main Dialogue,Kuru,0000,0000,0000,,Hello? Anyone here?
+Dialogue: 0,0:14:01.72,0:14:03.23,Main Dialogue,Rii,0000,0000,0000,,Looks like no one's here.
+Dialogue: 0,0:14:04.45,0:14:07.20,Main Dialogue,Kuru,0000,0000,0000,,Stay here. I'll check inside.
+Dialogue: 0,0:14:07.52,0:14:09.95,Main Dialogue,Rii,0000,0000,0000,,We'll wait here. Be careful.
+Dialogue: 0,0:14:46.87,0:14:51.24,Main Dialogue,Yuki,0000,0000,0000,,Look at this, Rii-san! \NDoesn't this dog look like Taroumaru?
+Dialogue: 0,0:14:51.24,0:14:52.76,Main Dialogue,Rii,0000,0000,0000,,I-I suppose.
+Dialogue: 0,0:14:53.16,0:14:54.33,Main Dialogue,Kuru,0000,0000,0000,,Run!
+Dialogue: 0,0:14:55.14,0:14:57.12,Main Dialogue,Kuru,0000,0000,0000,,There's a huge group of them!
+Dialogue: 0,0:14:58.08,0:14:59.93,Main Dialogue,Kuru,0000,0000,0000,,Yuki, we've gotta go!
+Dialogue: 0,0:15:04.15,0:15:05.00,Main Dialogue,Kuru,0000,0000,0000,,Yuki!
+Dialogue: 0,0:15:08.70,0:15:11.76,Main Dialogue,Yuki,0000,0000,0000,,Kurumi-chan? Rii-san? Megu-nee?
+Dialogue: 0,0:15:12.01,0:15:14.35,Main Dialogue,Kuru,0000,0000,0000,,It'll be okay. Just run!
+Dialogue: 0,0:15:19.17,0:15:22.51,Main Dialogue,Miki,0000,0000,0000,,I guess... it was my imagination...
+Dialogue: 0,0:15:25.04,0:15:26.02,Main Dialogue,Kuru,0000,0000,0000,,Hurry!
+Dialogue: 0,0:15:59.65,0:16:00.92,Main Dialogue,Kuru,0000,0000,0000,,That's bad.
+Dialogue: 0,0:16:03.33,0:16:04.85,Main Dialogue,Rii,0000,0000,0000,,There are so many...
+Dialogue: 0,0:16:08.31,0:16:10.92,Main Dialogue,Kuru,0000,0000,0000,,Rii-san, throw those glowsticks downstairs.
+Dialogue: 0,0:16:10.92,0:16:11.90,Main Dialogue,,0000,0000,0000,,Understood.
+Dialogue: 0,0:16:16.57,0:16:18.50,Main Dialogue,Kuru,0000,0000,0000,,We'll bust through. Stay behind me!
+Dialogue: 0,0:16:18.50,0:16:19.91,Main Dialogue,Megu,0000,0000,0000,,Yuki-chan, let's go.
+Dialogue: 0,0:16:55.94,0:16:58.45,Main Dialogue,Rii,0000,0000,0000,,Yuki-chan... Yuki-chan.
+Dialogue: 0,0:16:59.16,0:17:00.52,Main Dialogue,Yuki,0000,0000,0000,,What?
+Dialogue: 0,0:17:00.52,0:17:01.95,Main Dialogue,Rii,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:17:03.55,0:17:05.15,Main Dialogue,Rii,0000,0000,0000,,She has a fever.
+Dialogue: 0,0:17:05.15,0:17:06.70,Main Dialogue,Yuki,0000,0000,0000,,I'm okay.
+Dialogue: 0,0:17:06.70,0:17:07.74,Main Dialogue,Kuru,0000,0000,0000,,Is she hurt?
+Dialogue: 0,0:17:08.13,0:17:09.55,Main Dialogue,Rii,0000,0000,0000,,No, she's uninjured.
+Dialogue: 0,0:17:11.31,0:17:14.39,Main Dialogue,Kuru,0000,0000,0000,,You really are the type to \Nget overheated on outings.
+Dialogue: 0,0:17:15.45,0:17:16.74,Main Dialogue,Yuki,0000,0000,0000,,Sorry.
+Dialogue: 0,0:17:16.74,0:17:18.98,Main Dialogue,Megu,0000,0000,0000,,Just rest, okay?
+Dialogue: 0,0:17:18.98,0:17:20.47,Main Dialogue,Yuki,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:25.29,0:17:26.97,Main Dialogue,Yuki,0000,0000,0000,,Taroumaru...
+Dialogue: 0,0:17:27.60,0:17:29.48,Main Dialogue,Kuru,0000,0000,0000,,Let's let her sleep a bit.
+Dialogue: 0,0:17:29.92,0:17:33.37,Main Dialogue,Rii,0000,0000,0000,,You should rest, too. \NYou must be the most tired.
+Dialogue: 0,0:17:33.37,0:17:34.32,Main Dialogue,Kuru,0000,0000,0000,,Yeah...
+Dialogue: 0,0:17:35.00,0:17:36.59,Main Dialogue,Rii,0000,0000,0000,,Have some water.
+Dialogue: 0,0:17:36.59,0:17:37.68,Main Dialogue,Kuru,0000,0000,0000,,Thanks.
+Dialogue: 0,0:17:42.60,0:17:45.69,Main Dialogue,Rii,0000,0000,0000,,We didn't see anyone who was still alive.
+Dialogue: 0,0:17:47.40,0:17:49.00,Main Dialogue,Kuru,0000,0000,0000,,That group in the theater...
+Dialogue: 0,0:17:49.54,0:17:51.24,Main Dialogue,Kuru,0000,0000,0000,,A lot of them were kids.
+Dialogue: 0,0:17:52.20,0:17:54.64,Main Dialogue,Rii,0000,0000,0000,,They must've been waiting \Nfor help the whole time.
+Dialogue: 0,0:17:55.45,0:17:59.51,Main Dialogue,Kuru,0000,0000,0000,,No... The door was barricaded,
+Dialogue: 0,0:17:59.51,0:18:02.01,Main Dialogue,Kuru,0000,0000,0000,,like someone was trying to keep them in.
+Dialogue: 0,0:18:02.53,0:18:07.87,Main Dialogue,Kuru,0000,0000,0000,,They weren't attacked from the outside. \NSomeone in that room had been bitten.
+Dialogue: 0,0:18:10.31,0:18:13.04,Main Dialogue,Kuru,0000,0000,0000,,I can't stand that. I hate it.
+Dialogue: 0,0:18:13.52,0:18:19.53,Main Dialogue,Kuru,0000,0000,0000,,I mean, some of those people probably \Nretreated there to protect their loved ones!
+Dialogue: 0,0:18:20.84,0:18:23.53,Main Dialogue,Kuru,0000,0000,0000,,To protect the people I care about...
+Dialogue: 0,0:18:24.50,0:18:28.35,Main Dialogue,Kuru,0000,0000,0000,,If I get infected, don't hesitate for a second.
+Dialogue: 0,0:18:28.84,0:18:30.54,Main Dialogue,Rii,0000,0000,0000,,What're you saying?
+Dialogue: 0,0:18:31.48,0:18:33.07,Main Dialogue,Kuru,0000,0000,0000,,Promise me.
+Dialogue: 0,0:18:37.03,0:18:38.05,Main Dialogue,Kuru,0000,0000,0000,,Pinky-swear.
+Dialogue: 0,0:18:48.02,0:18:49.70,Main Dialogue,Rii,0000,0000,0000,,What's the matter, Yuki-chan?
+Dialogue: 0,0:18:52.08,0:18:54.07,Main Dialogue,Yuki,0000,0000,0000,,I'm hungry.
+Dialogue: 0,0:18:55.35,0:18:58.24,Main Dialogue,Rii,0000,0000,0000,,So I see. Why don't we \Nhead back and have dinner?
+Dialogue: 0,0:18:58.24,0:18:59.07,Main Dialogue,Kuru,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:59.92,0:19:02.68,Main Dialogue,Kuru,0000,0000,0000,,Let's go home... to school.
+Dialogue: 0,0:19:07.08,0:19:09.08,Main Dialogue,Miki,0000,0000,0000,,So someone was here.
+Dialogue: 0,0:19:17.34,0:19:18.59,Main Dialogue,Miki,0000,0000,0000,,I'm scared...
+Dialogue: 0,0:19:19.29,0:19:21.13,Flashback Dialogue,Kei,0000,0000,0000,,Is just staying alive enough?
+Dialogue: 0,0:19:22.44,0:19:24.39,Main Dialogue,Miki,0000,0000,0000,,No excuses!
+Dialogue: 0,0:19:24.83,0:19:26.72,Main Dialogue,Kuru,0000,0000,0000,,We're finally out of there!
+Dialogue: 0,0:19:27.05,0:19:28.97,Main Dialogue,Rii,0000,0000,0000,,Let's head home.
+Dialogue: 0,0:19:28.97,0:19:30.83,Main Dialogue,Kuru,0000,0000,0000,,We're leaving, Yuki.
+Dialogue: 0,0:19:32.70,0:19:33.81,Main Dialogue,Kuru,0000,0000,0000,,Yuki?
+Dialogue: 0,0:19:34.27,0:19:37.31,Main Dialogue,Yuki,0000,0000,0000,,Did you guys hear something?
+Dialogue: 0,0:19:38.15,0:19:39.56,Main Dialogue,Kuru,0000,0000,0000,,No...
+Dialogue: 0,0:19:39.56,0:19:42.51,Main Dialogue,Yuki,0000,0000,0000,,I heard a voice. Someone's calling for us.
+Dialogue: 0,0:19:47.51,0:19:49.72,Main Dialogue,Kuru,0000,0000,0000,,You're imagining things, Yuki.
+Dialogue: 0,0:19:49.72,0:19:51.00,Main Dialogue,Kuru,0000,0000,0000,,Let's hurry home.
+Dialogue: 0,0:19:51.00,0:19:54.11,Main Dialogue,Yuki,0000,0000,0000,,I'm not imagining it! I really heard a voice!
+Dialogue: 0,0:19:54.81,0:19:56.72,Main Dialogue,Megu,0000,0000,0000,,Yuki-chan, calm down.
+Dialogue: 0,0:19:56.72,0:19:58.83,Main Dialogue,Yuki,0000,0000,0000,,Megu-nee, you heard it too, right?
+Dialogue: 0,0:19:59.44,0:20:00.76,Main Dialogue,Megu,0000,0000,0000,,I...
+Dialogue: 0,0:20:02.63,0:20:04.47,Main Dialogue,Kuru,0000,0000,0000,,Hey, Taroumaru!
+Dialogue: 0,0:20:04.47,0:20:05.75,Main Dialogue,Yuki,0000,0000,0000,,I'm going with him!
+Dialogue: 0,0:20:05.75,0:20:07.17,Main Dialogue,Rii,0000,0000,0000,,No, Yuki-chan!
+Dialogue: 0,0:20:07.17,0:20:08.14,Main Dialogue,Kuru,0000,0000,0000,,Yuki!
+Dialogue: 0,0:20:19.34,0:20:20.42,Main Dialogue,Miki,0000,0000,0000,,No!
+Dialogue: 0,0:20:33.89,0:20:35.33,Main Dialogue,Miki,0000,0000,0000,,Get away...
+Dialogue: 0,0:20:35.69,0:20:36.79,Main Dialogue,Miki,0000,0000,0000,,Help...
+Dialogue: 0,0:20:37.78,0:20:38.54,Main Dialogue,Miki,0000,0000,0000,,Someone!
+Dialogue: 0,0:20:39.22,0:20:41.05,Main Dialogue,Miki,0000,0000,0000,,Someone, help!
+Dialogue: 0,0:20:41.55,0:20:42.73,Main Dialogue,Miki,0000,0000,0000,,Please!
+Dialogue: 0,0:20:43.23,0:20:44.35,Main Dialogue,Miki,0000,0000,0000,,Please...
+Dialogue: 0,0:20:45.70,0:20:47.05,Main Dialogue,Yuki,0000,0000,0000,,There! Over there!
+Dialogue: 0,0:20:53.71,0:20:56.06,Main Dialogue,Miki,0000,0000,0000,,Taroumaru... and...
+Dialogue: 0,0:20:57.07,0:20:58.66,Main Dialogue,Miki,0000,0000,0000,,There {\i1}are{\i0} others...
+Dialogue: 0,0:21:00.08,0:21:02.63,Main Dialogue,Rii,0000,0000,0000,,No! Yuki-chan, it's too dangerous!
+Dialogue: 0,0:21:02.63,0:21:03.32,Main Dialogue,Yuki,0000,0000,0000,,But...
+Dialogue: 0,0:21:04.71,0:21:06.28,Main Dialogue,Yuki,0000,0000,0000,,But...!
+Dialogue: 0,0:21:13.08,0:21:14.37,Main Dialogue,Rii,0000,0000,0000,,Yuki-chan!
+Dialogue: 0,0:21:14.71,0:21:15.58,Main Dialogue,Kuru,0000,0000,0000,,Damn it!
+Dialogue: 0,0:21:16.68,0:21:17.82,Main Dialogue,Miki,0000,0000,0000,,They're coming to...
+Dialogue: 0,0:21:26.46,0:21:27.90,Main Dialogue,Kuru,0000,0000,0000,,There are too many!
+Dialogue: 0,0:21:27.90,0:21:29.10,Main Dialogue,Rii,0000,0000,0000,,Everyone!
+Dialogue: 0,0:21:29.30,0:21:30.78,Main Dialogue,Rii,0000,0000,0000,,Cover your ears!
+Dialogue: 0,0:21:42.45,0:21:44.24,Main Dialogue,Yuki,0000,0000,0000,,Come on, let's go.
+Dialogue: 0,0:21:47.34,0:21:48.96,Main Dialogue,Kuru,0000,0000,0000,,Yuki, hurry!
+Dialogue: 0,0:22:00.76,0:22:02.15,Italics Dialogue,Miki,0000,0000,0000,,Taroumaru...
+Dialogue: 0,0:22:03.54,0:22:05.94,Italics Dialogue,Miki,0000,0000,0000,,Thank goodness you're safe.
+Dialogue: 0,0:22:07.39,0:22:09.62,Main Dialogue,Miki,0000,0000,0000,,Um... Excuse me.
+Dialogue: 0,0:22:10.53,0:22:15.87,Main Dialogue,Miki,0000,0000,0000,,Did you see another girl about my age?
+Dialogue: 0,0:22:16.39,0:22:18.98,Main Dialogue,Rii,0000,0000,0000,,No, we didn't see any others.
+Dialogue: 0,0:22:19.46,0:22:20.69,Main Dialogue,Miki,0000,0000,0000,,I see...
+Dialogue: 0,0:22:23.70,0:22:28.95,Italics Dialogue,Miki,0000,0000,0000,,I'm a bit late, but I'm leaving too, Kei.
+Dialogue: 0,0:24:01.21,0:24:02.00,Next Time,Miki,0000,0000,0000,,Next time!!
+Dialogue: 0,0:24:02.51,0:24:05.75,Main Dialogue,Yuki,0000,0000,0000,,Shopping, shopping!
+Dialogue: 0,0:24:05.75,0:24:07.64,Main Dialogue,Megu,0000,0000,0000,,Don't waste your money.
+Dialogue: 0,0:24:07.64,0:24:08.98,Hmph,Yuki,0000,0000,0000,,{\fad(1,1293)}Hmph
+Dialogue: 0,0:24:07.64,0:24:09.71,Main Dialogue,Yuki,0000,0000,0000,,Manga is never a waste of money.
+Dialogue: 0,0:24:09.71,0:24:10.96,Main Dialogue,Megu,0000,0000,0000,,Do your homework.
+Dialogue: 0,0:24:10.96,0:24:12.63,Main Dialogue,Yuki,0000,0000,0000,,I wonder if they have the latest volume.
+Dialogue: 0,0:24:12.63,0:24:16.26,Main Dialogue,Both,0000,0000,0000,,Next time on Episode 6 of \N{\i1}SCHOOL-LIVE,{\i0} "Welcome."
+Dialogue: 0,0:24:12.63,0:24:16.26,Next Episode,Both,0000,0000,0000,,#6 \NWelcome
