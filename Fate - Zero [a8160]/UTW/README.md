@@ -7,7 +7,7 @@
 | Editing           | Raze                                                                            |
 | Typesetting       | ar                                                                              |
 | Styling           | ?                                                                               |
-| Timing            | Kusion (1-2), ar (3-6, 8-9, 11+), commander\`A (4) Raze (7, 10), fgghjjkll (S1) |
+| Timing            | Kusion (1-2), ar (3-6, 8-9, 11+), commander\`A (4) Raze (7, 10), fgghjjkll (S1-S3) |
 | Encoding          | ar                                                                              |
 | Quality Control   | Raze                                                                            |
 
