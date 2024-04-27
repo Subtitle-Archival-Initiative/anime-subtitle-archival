@@ -5,7 +5,7 @@
 | Translation       | blakbunny27 (1), valerauko (2+)     |
 | Translation Check | -                                   |
 | Editing           | returnity                           |
-| Typesetting       | neto_rare                           |
+| Typesetting       | Jaka, neto_rare                     |
 | Styling           | ?                                   |
 | Timing            | fgghjjkll                           |
 | Encoding          | Jaka                                |
