@@ -2,7 +2,7 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | Crunchyroll                         |
+| Translation       | [Crunchyroll](../Crunchyroll)       |
 | Translation Check | ?                                   |
 | Editing           | Ianu                                |
 | Typesetting       | HeavenlyArmed (Based on [EveTaku's](../EveTaku))                    |
