@@ -23,4 +23,4 @@
 | Resolution   | 1280x720   |
 
 ## Notes
-TS and KFX is hardsubbed.
+TS and KFX are hardsubbed.
