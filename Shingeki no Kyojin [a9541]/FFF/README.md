@@ -17,4 +17,4 @@
 
 ## Notes
 
-From FFF Vol. 1 description: "We’re using gg batch scripts, courtesy of returnity."
+From FFF's Vol. 1 description: "We’re using gg batch scripts, courtesy of returnity."
