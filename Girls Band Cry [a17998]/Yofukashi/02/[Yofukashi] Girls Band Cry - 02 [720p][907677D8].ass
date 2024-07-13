@@ -1,0 +1,411 @@
+﻿[Script Info]
+; Script downloaded from ADN with Auto Multi Downloader v2.0.4-beta [Roselia]
+; discord.gg/CqME4VWUnD
+Title: [Yofukashi] Girls Band Cry - 02
+Original Script: 
+Original Translation: /a/nonymous
+Original Editing:
+Original Timing: AnimationDigitalNetwork [https://animationdigitalnetwork.fr/]
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,75,75,75,1
+Style: TLnote,Trebuchet MS,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,75,75,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:27.19,0:00:28.98,Default,,0,0,0,,{\i1}It's been a few days since I came to Tokyo...{\i0}
+Dialogue: 0,0:00:29.36,0:00:32.94,Default,,0,0,0,,{\i1}And this is the sight I wake up to.{\i0}
+Dialogue: 0,0:00:34.28,0:00:34.95,Default,,0,0,0,,
+Dialogue: 0,0:00:44.96,0:00:47.13,Default,,0,0,0,,How many times do I have to tell you?
+Dialogue: 0,0:00:47.63,0:00:48.71,Default,,0,0,0,,Morning.
+Dialogue: 0,0:00:48.88,0:00:51.21,Default,,0,0,0,,I wrote my name on that.
+Dialogue: 0,0:00:51.38,0:00:52.26,Default,,0,0,0,,Cheapass.
+Dialogue: 0,0:00:52.42,0:00:53.55,Default,,0,0,0,,What's the harm?
+Dialogue: 0,0:00:52.42,0:00:55.76,Default,,0,0,0,,{\an8}FATHER'S FARM YOGHURT DRINK (NINA)
+Dialogue: 0,0:00:53.97,0:00:56.38,Default,,0,0,0,,I've got a hangover. Let's go halfsies.
+Dialogue: 0,0:00:56.55,0:00:57.26,Default,,0,0,0,,Not happening.
+Dialogue: 0,0:00:57.55,0:01:01.39,Default,,0,0,0,,I asked you so many times if you wanted to buy your own\Nat the convenience store last night.
+Dialogue: 0,0:01:01.56,0:01:03.27,Default,,0,0,0,,I was drunk.
+Dialogue: 0,0:01:06.02,0:01:08.40,Default,,0,0,0,,So did you manage to get in touch?
+Dialogue: 0,0:01:08.73,0:01:09.48,Default,,0,0,0,,Not yet.
+Dialogue: 0,0:01:09.65,0:01:13.82,Default,,0,0,0,,It's tricky to move back into a place you've just left.
+Dialogue: 0,0:01:13.99,0:01:16.20,Default,,0,0,0,,- What about your job?\N- Also TBC.
+Dialogue: 0,0:01:16.36,0:01:18.91,Default,,0,0,0,,I have to head out today, you know.
+Dialogue: 0,0:02:50.58,0:02:55.67,Default,,0,0,0,,{\an3}Three Creatures of the Night
+Dialogue: 0,0:02:50.58,0:02:55.67,TLnote,,0,0,0,,{\an1}TL note: reference to a song by\NYura Yura Teikoku https://youtu.be/n_dk8ChdCA8
+Dialogue: 0,0:02:51.33,0:02:54.04,Default,,0,0,0,,{\an8}This looks more like a hospital than a school.
+Dialogue: 0,0:02:54.25,0:02:55.67,Default,,0,0,0,,{\an8}It's a prep school.
+Dialogue: 0,0:02:55.84,0:03:01.43,Default,,0,0,0,,{\an9}
+Dialogue: 0,0:02:56.00,0:02:57.21,Default,,0,0,0,,Do you have class every day?
+Dialogue: 0,0:02:57.38,0:03:00.09,Default,,0,0,0,,No way. I don't have that kind of money.
+Dialogue: 0,0:03:01.59,0:03:05.43,Default,,0,0,0,,{\an8}ADMISSION FORM
+Dialogue: 0,0:03:01.63,0:03:05.43,Default,,0,0,0,,I have to study hard and get into a good university.
+Dialogue: 0,0:03:05.72,0:03:07.31,Default,,0,0,0,,Oh, you want to go to uni?
+Dialogue: 0,0:03:07.52,0:03:10.19,Default,,0,0,0,,I don't care about uni all that much,
+Dialogue: 0,0:03:10.48,0:03:13.56,Default,,0,0,0,,but life as a high school dropout will be tough.
+Dialogue: 0,0:03:13.77,0:03:15.86,Default,,0,0,0,,Yeah, that's true.
+Dialogue: 0,0:03:16.02,0:03:18.32,Default,,0,0,0,,Shallow folk will look down on you for it.
+Dialogue: 0,0:03:18.99,0:03:21.86,Default,,0,0,0,,Well, whatever. I won't pry.
+Dialogue: 0,0:03:22.03,0:03:24.57,Default,,0,0,0,,All's good as long as you can practice in your spare time.
+Dialogue: 0,0:03:25.62,0:03:28.83,Default,,0,0,0,,You'll be free on weeknights and Saturdays, right?
+Dialogue: 0,0:03:29.04,0:03:31.37,Default,,0,0,0,,Then we just have to think about what shifts you take.
+Dialogue: 0,0:03:31.92,0:03:33.29,Default,,0,0,0,,Hang on a minute.
+Dialogue: 0,0:03:37.30,0:03:38.17,Default,,0,0,0,,A band?
+Dialogue: 0,0:03:38.34,0:03:40.34,Default,,0,0,0,,- Isn't that what you said?\N- I never said that.
+Dialogue: 0,0:03:40.67,0:03:41.55,Default,,0,0,0,,Sure you did.
+Dialogue: 0,0:03:41.72,0:03:44.34,Default,,0,0,0,,"Let's flip 'em off together."
+Dialogue: 0,0:03:44.51,0:03:47.68,Default,,0,0,0,,Don't go flipping everyone off like that.
+Dialogue: 0,0:03:47.85,0:03:48.85,Default,,0,0,0,,Ouch.
+Dialogue: 0,0:03:49.10,0:03:51.48,Default,,0,0,0,,I didn't mean I was going to sing.
+Dialogue: 0,0:03:51.64,0:03:53.48,Default,,0,0,0,,I was talking about our respective lives.
+Dialogue: 0,0:03:53.85,0:03:57.11,Default,,0,0,0,,Studies for me, music for you.
+Dialogue: 0,0:03:57.36,0:03:59.03,Default,,0,0,0,,What, really?
+Dialogue: 0,0:03:59.40,0:04:01.86,Default,,0,0,0,,No wonder something felt off about it.
+Dialogue: 0,0:04:02.20,0:04:04.66,Default,,0,0,0,,I was just as surprised.
+Dialogue: 0,0:04:06.41,0:04:09.12,Default,,0,0,0,,It's pretty busy at this hour, huh?
+Dialogue: 0,0:04:09.87,0:04:11.29,Default,,0,0,0,,Spoken like a real bumpkin.
+Dialogue: 0,0:04:11.58,0:04:12.50,Default,,0,0,0,,Shut up.
+Dialogue: 0,0:04:12.96,0:04:16.33,Default,,0,0,0,,But hey, studying is all well and good...
+Dialogue: 0,0:04:17.21,0:04:19.13,Default,,0,0,0,,But don't you want to try being in a band, too?
+Dialogue: 0,0:04:19.42,0:04:21.26,Default,,0,0,0,,I could never.
+Dialogue: 0,0:04:21.55,0:04:23.76,Default,,0,0,0,,Look, I won't ask you to play an instrument.
+Dialogue: 0,0:04:24.09,0:04:27.51,Default,,0,0,0,,I think you'd make a good vocalist.
+Dialogue: 0,0:04:27.76,0:04:29.31,Default,,0,0,0,,Huh? Vocalist?
+Dialogue: 0,0:04:29.76,0:04:32.60,Default,,0,0,0,,You've got a great voice, and more importantly\Nyou've got the heart.
+Dialogue: 0,0:04:33.06,0:04:34.31,Default,,0,0,0,,Who, me?
+Dialogue: 0,0:04:34.48,0:04:35.15,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:04:35.48,0:04:36.65,Default,,0,0,0,,The way I see it,
+Dialogue: 0,0:04:37.11,0:04:41.57,Default,,0,0,0,,bands are where people with pent up feelings get together.
+Dialogue: 0,0:04:42.65,0:04:45.03,Default,,0,0,0,,Like, "I wanna fall in love!"
+Dialogue: 0,0:04:45.28,0:04:47.78,Default,,0,0,0,,Or "fuck this world!"
+Dialogue: 0,0:04:48.20,0:04:50.87,Default,,0,0,0,,Or "the feels, man!"
+Dialogue: 0,0:04:51.33,0:04:54.62,Default,,0,0,0,,Or "fuck those self-centered pricks!"
+Dialogue: 0,0:04:56.58,0:04:58.92,Default,,0,0,0,,Weren't you going to go solo?
+Dialogue: 0,0:04:59.59,0:05:03.76,Default,,0,0,0,,That was the plan, but I do love being in a band.
+Dialogue: 0,0:05:04.38,0:05:08.30,Default,,0,0,0,,When other people are around, there's gossip,\Nthere's backbiting, things get awkward,
+Dialogue: 0,0:05:08.47,0:05:12.72,Default,,0,0,0,,you know that speaking up will ruin everything\Nbut you're always together so the stress builds,
+Dialogue: 0,0:05:13.02,0:05:16.02,Default,,0,0,0,,you start to hate sharing the space,\Nand eventually you explode-
+Dialogue: 0,0:05:16.19,0:05:17.81,Default,,0,0,0,,None of that sounds very appealing.
+Dialogue: 0,0:05:18.61,0:05:19.98,Default,,0,0,0,,Huh? Oh, you're right.
+Dialogue: 0,0:05:20.61,0:05:22.48,Default,,0,0,0,,But it's all good fun.
+Dialogue: 0,0:05:22.65,0:05:27.07,Default,,0,0,0,,What you can't do alone, you can do with others.
+Dialogue: 0,0:05:28.53,0:05:29.16,Default,,0,0,0,,What are you looking at?
+Dialogue: 0,0:05:29.32,0:05:30.74,Default,,0,0,0,,Nothing.
+Dialogue: 0,0:05:32.04,0:05:35.37,Default,,0,0,0,,I reckon this station is closest to your place.
+Dialogue: 0,0:05:35.91,0:05:39.21,Default,,0,0,0,,It doesn't really feel like the big city here.
+Dialogue: 0,0:05:39.54,0:05:41.34,Default,,0,0,0,,That's what makes this area great.
+Dialogue: 0,0:05:41.50,0:05:43.00,Default,,0,0,0,,Your place is that way,
+Dialogue: 0,0:05:43.17,0:05:45.30,Default,,0,0,0,,but there's a supermarket over there. I'll show you.
+Dialogue: 0,0:05:45.47,0:05:46.68,Default,,0,0,0,,Huh? Okay.
+Dialogue: 0,0:05:46.93,0:05:47.43,Default,,0,0,0,,Ow.
+Dialogue: 0,0:05:50.01,0:05:51.35,Default,,0,0,0,,Are you sure about this?
+Dialogue: 0,0:05:51.68,0:05:52.47,Default,,0,0,0,,Totally.
+Dialogue: 0,0:05:52.93,0:05:55.35,Default,,0,0,0,,I am older than you after all. Consider it my rent for the night.
+Dialogue: 0,0:05:55.81,0:05:57.48,Default,,0,0,0,,- But...\N- Just forget about it.
+Dialogue: 0,0:05:57.73,0:05:59.98,Default,,0,0,0,,Can you put the rest in the fridge?
+Dialogue: 0,0:06:00.23,0:06:02.77,Default,,0,0,0,,I'll warn you though, it's not like I'm a master.
+Dialogue: 0,0:06:02.94,0:06:05.03,Default,,0,0,0,,But you {\i1}can{\i0} cook.
+Dialogue: 0,0:06:05.19,0:06:06.65,Default,,0,0,0,,I kinda enjoy it.
+Dialogue: 0,0:06:06.82,0:06:09.36,Default,,0,0,0,,Let's see, where's the knife...
+Dialogue: 0,0:06:10.62,0:06:13.62,Default,,0,0,0,,It's sort of like writing a song.
+Dialogue: 0,0:06:13.95,0:06:16.45,Default,,0,0,0,,Boil the water while you cut up the ingredients.
+Dialogue: 0,0:06:16.62,0:06:19.75,Default,,0,0,0,,Make the sauce while the water boils.
+Dialogue: 0,0:06:19.92,0:06:21.67,Default,,0,0,0,,You do a bunch of things at the same time,
+Dialogue: 0,0:06:21.84,0:06:25.46,Default,,0,0,0,,you put it all together, and you end up with a complete dish.
+Dialogue: 0,0:06:26.51,0:06:27.97,Default,,0,0,0,,Whoa, this thing's blunt!
+Dialogue: 0,0:06:28.13,0:06:30.64,Default,,0,0,0,,Sorry I don't have a better knife.
+Dialogue: 0,0:06:30.93,0:06:32.89,Default,,0,0,0,,That's nothing to apologize for.
+Dialogue: 0,0:06:33.22,0:06:36.73,Default,,0,0,0,,It makes me realize that I can't do anything.
+Dialogue: 0,0:06:37.10,0:06:38.89,Default,,0,0,0,,Yet here I am, trying to live alone.
+Dialogue: 0,0:06:40.27,0:06:41.56,Default,,0,0,0,,What's so funny?
+Dialogue: 0,0:06:41.73,0:06:43.90,Default,,0,0,0,,Nothing. Just thinking I used to be the same way.
+Dialogue: 0,0:06:45.28,0:06:48.11,Default,,0,0,0,,You've just gotta tackle it head on.
+Dialogue: 0,0:06:48.49,0:06:51.16,Default,,0,0,0,,"Crap", "I screwed up", "is that right?"
+Dialogue: 0,0:06:51.32,0:06:53.41,Default,,0,0,0,,{\an8}{\i1}Flip 'em off!{\i0}
+Dialogue: 0,0:06:51.78,0:06:54.20,Default,,0,0,0,,Rinse and repeat until you learn.
+Dialogue: 0,0:06:55.33,0:06:57.33,Default,,0,0,0,,And you could start by getting some plates to serve this on.
+Dialogue: 0,0:06:57.87,0:06:58.75,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:06:59.58,0:07:01.42,Default,,0,0,0,,{\i1}Things to get:\N- Plates\N- Ladle\N- Tension rod\N- Colander{\i0}
+Dialogue: 0,0:06:59.87,0:07:01.42,Default,,0,0,0,,{\an8}Thanks for waiting.
+Dialogue: 0,0:07:02.75,0:07:04.67,Default,,0,0,0,,You should buy a light too.
+Dialogue: 0,0:07:05.05,0:07:07.42,Default,,0,0,0,,Are we really eating this?
+Dialogue: 0,0:07:08.05,0:07:11.09,Default,,0,0,0,,You really are a princess, huh?
+Dialogue: 0,0:07:11.55,0:07:13.55,Default,,0,0,0,,You sound like a rich girl.
+Dialogue: 0,0:07:14.30,0:07:17.85,Default,,0,0,0,,No way, not at all. My family's totally normal.
+Dialogue: 0,0:07:18.77,0:07:21.44,Default,,0,0,0,,Though they can be a bit eccentric...
+Dialogue: 0,0:07:21.90,0:07:23.81,Default,,0,0,0,,Like, we have these family rules.
+Dialogue: 0,0:07:24.06,0:07:24.86,Default,,0,0,0,,Family rules?
+Dialogue: 0,0:07:25.98,0:07:27.82,Default,,0,0,0,,Oh, like household traditions?
+Dialogue: 0,0:07:28.40,0:07:29.15,Default,,0,0,0,,That's right.
+Dialogue: 0,0:07:30.49,0:07:34.91,Default,,0,0,0,,1. Dinner is to be eaten at home, with the whole family.
+Dialogue: 0,0:07:35.12,0:07:39.45,Default,,0,0,0,,{\an8}{\i1}Family rules{\i0}
+Dialogue: 0,0:07:35.74,0:07:39.45,Default,,0,0,0,,2. No smartphones in the living room.
+Dialogue: 0,0:07:40.50,0:07:44.79,Default,,0,0,0,,3. There will be a family meeting every Sunday evening.
+Dialogue: 0,0:07:45.46,0:07:46.17,Default,,0,0,0,,Like that.
+Dialogue: 0,0:07:47.59,0:07:48.25,Default,,0,0,0,,Yikes.
+Dialogue: 0,0:07:48.55,0:07:53.22,Default,,0,0,0,,My parents seem to think that's what a good family is like.
+Dialogue: 0,0:07:53.43,0:07:55.39,Default,,0,0,0,,We were kinda famous at school.
+Dialogue: 0,0:07:55.55,0:07:58.10,Default,,0,0,0,,I think I getcha.
+Dialogue: 0,0:07:58.52,0:08:03.27,Default,,0,0,0,,But then I stopped going to school, and ultimately dropped out.
+Dialogue: 0,0:08:03.44,0:08:04.35,Default,,0,0,0,,Why?
+Dialogue: 0,0:08:04.65,0:08:07.11,Default,,0,0,0,,Why does it matter?
+Dialogue: 0,0:08:10.86,0:08:11.61,Default,,0,0,0,,Is that why?
+Dialogue: 0,0:08:11.95,0:08:13.45,Default,,0,0,0,,How did you know?!
+Dialogue: 0,0:08:14.24,0:08:15.53,Default,,0,0,0,,You've got no poker face.
+Dialogue: 0,0:08:17.74,0:08:20.25,Default,,0,0,0,,She's the most popular girl in school. She's pretty.
+Dialogue: 0,0:08:20.58,0:08:23.16,Default,,0,0,0,,She jumps from one boys school hottie to the next.
+Dialogue: 0,0:08:23.54,0:08:26.38,Default,,0,0,0,,And what, she bullied you?
+Dialogue: 0,0:08:26.71,0:08:27.42,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:08:27.96,0:08:28.84,Default,,0,0,0,,Why?
+Dialogue: 0,0:08:29.46,0:08:30.80,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:08:31.17,0:08:33.43,Default,,0,0,0,,I guess she didn't like me.
+Dialogue: 0,0:08:33.59,0:08:35.30,Default,,0,0,0,,Did you get her back?
+Dialogue: 0,0:08:35.68,0:08:36.76,Default,,0,0,0,,Girls like that only mess with you
+Dialogue: 0,0:08:36.93,0:08:40.85,Default,,0,0,0,,once they're sure they've got numbers on their side,\Nso you can't fight back.
+Dialogue: 0,0:08:41.56,0:08:44.60,Default,,0,0,0,,They'll get their friends to ignore you and hurt you.
+Dialogue: 0,0:08:44.89,0:08:47.23,Default,,0,0,0,,I had to get taken to the hospital,
+Dialogue: 0,0:08:47.40,0:08:50.90,Default,,0,0,0,,but school, and even my parents, told me not to make a fuss.
+Dialogue: 0,0:08:51.07,0:08:51.86,Default,,0,0,0,,Stop.
+Dialogue: 0,0:08:52.40,0:08:54.74,Default,,0,0,0,,The hotpot's boiling over.
+Dialogue: 0,0:08:55.11,0:08:57.66,Default,,0,0,0,,It's fine. I like my veggies mushy.
+Dialogue: 0,0:08:58.74,0:09:01.41,Default,,0,0,0,,I really do think you should sing.
+Dialogue: 0,0:09:02.04,0:09:04.96,Default,,0,0,0,,I could write like five songs based on what you just said.
+Dialogue: 0,0:09:05.29,0:09:09.71,Default,,0,0,0,,I've always wanted to be in a band without being the vocalist.
+Dialogue: 0,0:09:09.92,0:09:12.96,Default,,0,0,0,,I want to know what it's like to just focus on the guitar.
+Dialogue: 0,0:09:13.51,0:09:14.59,Default,,0,0,0,,Are you serious?
+Dialogue: 0,0:09:14.92,0:09:15.88,Default,,0,0,0,,Sure am.
+Dialogue: 0,0:09:20.14,0:09:21.97,Default,,0,0,0,,{\i1}Quitting school means{\i0}
+Dialogue: 0,0:09:22.27,0:09:25.48,Default,,0,0,0,,{\i1}y'got fewer options in the future.{\i0}
+Dialogue: 0,0:09:25.94,0:09:29.44,Default,,0,0,0,,{\i1}Even if yer figure out what yer wanna do with yer life,\Nit'll be too late fer regrets.{\i0}
+Dialogue: 0,0:09:31.23,0:09:31.98,Default,,0,0,0,,{\i1}Then...{\i0}
+Dialogue: 0,0:09:32.23,0:09:34.61,Default,,0,0,0,,{\i1}I just need to go to university, right?{\i0}
+Dialogue: 0,0:09:34.78,0:09:37.20,Default,,0,0,0,,{\i1}As long as I study and get into university...!{\i0}
+Dialogue: 0,0:09:38.57,0:09:41.37,Default,,0,0,0,,No. If I don't get into university
+Dialogue: 0,0:09:41.53,0:09:44.04,Default,,0,0,0,,and end up as just a high school dropout, it'll all be over.
+Dialogue: 0,0:09:44.91,0:09:45.66,Default,,0,0,0,,Over, you say?
+Dialogue: 0,0:09:45.91,0:09:48.63,Default,,0,0,0,,Oh, I didn't mean it like that.
+Dialogue: 0,0:09:48.92,0:09:53.09,Default,,0,0,0,,It's just, if things don't change, it'll be my loss.
+Dialogue: 0,0:09:53.63,0:09:56.93,Default,,0,0,0,,I'll have lost to the bullies, my parents, and my teachers.
+Dialogue: 0,0:09:58.18,0:09:59.01,Default,,0,0,0,,Fine.
+Dialogue: 0,0:09:59.59,0:10:01.14,Default,,0,0,0,,I won't ask you again.
+Dialogue: 0,0:10:02.10,0:10:03.06,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:10:03.72,0:10:05.60,Default,,0,0,0,,Again, it's nothing to apologize over.
+Dialogue: 0,0:10:06.31,0:10:08.44,Default,,0,0,0,,We had more beer, didn't we?
+Dialogue: 0,0:10:14.73,0:10:15.49,Default,,0,0,0,,Ugh, it's so heavy!
+Dialogue: 0,0:10:15.99,0:10:17.74,Default,,0,0,0,,That one's filled with books.
+Dialogue: 0,0:10:17.90,0:10:20.62,Default,,0,0,0,,I'll take the heavy ones, so you get the others.
+Dialogue: 0,0:10:21.12,0:10:23.95,Default,,0,0,0,,It's alright. Is one trip going to be enough?
+Dialogue: 0,0:10:24.20,0:10:26.62,Default,,0,0,0,,Yeah, this is the last of the big boxes.
+Dialogue: 0,0:10:26.96,0:10:28.75,Default,,0,0,0,,Can you check inside?
+Dialogue: 0,0:10:28.92,0:10:29.58,Default,,0,0,0,,Sure.
+Dialogue: 0,0:10:32.59,0:10:33.92,Default,,0,0,0,,There's nothing else left, is there?
+Dialogue: 0,0:10:35.92,0:10:37.59,Default,,0,0,0,,I've really got to study.
+Dialogue: 0,0:10:41.64,0:10:42.22,Default,,0,0,0,,Here.
+Dialogue: 0,0:10:42.51,0:10:44.26,Default,,0,0,0,,You're going to need this.
+Dialogue: 0,0:10:44.51,0:10:46.39,Default,,0,0,0,,Ah, I suppose so.
+Dialogue: 0,0:10:47.02,0:10:50.27,Default,,0,0,0,,I can't play it, anyway.
+Dialogue: 0,0:10:53.19,0:10:55.78,Default,,0,0,0,,I guess I should take it then.
+Dialogue: 0,0:10:58.07,0:10:58.99,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:11:01.03,0:11:01.91,Default,,0,0,0,,Okay, I'm off.
+Dialogue: 0,0:11:02.74,0:11:05.79,Default,,0,0,0,,- Shouldn't I come with you?\N- I'll be fine.
+Dialogue: 0,0:11:06.45,0:11:07.16,Default,,0,0,0,,Alright.
+Dialogue: 0,0:11:09.21,0:11:12.67,Default,,0,0,0,,Could you do me one last favor?
+Dialogue: 0,0:11:12.88,0:11:13.92,Default,,0,0,0,,What is it?
+Dialogue: 0,0:11:19.63,0:11:21.55,Default,,0,0,0,,I wasn't expecting a place like this here.
+Dialogue: 0,0:11:21.93,0:11:24.30,Default,,0,0,0,,It's the Tama river. I'm sure you've heard of it.
+Dialogue: 0,0:11:24.72,0:11:26.39,Default,,0,0,0,,It's more open than I thought it'd be.
+Dialogue: 0,0:11:26.68,0:11:29.06,Default,,0,0,0,,I didn't think Tokyo had anywhere like this.
+Dialogue: 0,0:11:29.85,0:11:31.56,Default,,0,0,0,,Tokyo is on the other side.
+Dialogue: 0,0:11:31.90,0:11:32.98,Default,,0,0,0,,You were close, though.
+Dialogue: 0,0:11:33.23,0:11:35.15,Default,,0,0,0,,Talk about splitting hairs...
+Dialogue: 0,0:11:36.57,0:11:38.57,Default,,0,0,0,,Do you have any requests?
+Dialogue: 0,0:11:38.82,0:11:39.99,Default,,0,0,0,,Anything's fine.
+Dialogue: 0,0:11:40.24,0:11:43.57,Default,,0,0,0,,I just want to hear you one more time.
+Dialogue: 0,0:11:43.95,0:11:45.37,Default,,0,0,0,,Sing whatever you want.
+Dialogue: 0,0:11:46.41,0:11:49.00,Default,,0,0,0,,Oh, and good luck with your studies.
+Dialogue: 0,0:11:49.37,0:11:52.58,Default,,0,0,0,,I'll just be moving back into the house I took you to last time,
+Dialogue: 0,0:11:52.83,0:11:55.59,Default,,0,0,0,,so let's go for dinner again when you're free.
+Dialogue: 0,0:11:56.67,0:11:57.30,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:11:57.50,0:12:00.34,Default,,0,0,0,,Good luck with your music, too.
+Dialogue: 0,0:12:03.80,0:12:07.22,Default,,0,0,0,,I'll write some killer songs that you'll really love.
+Dialogue: 0,0:12:07.60,0:12:08.18,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:12:08.52,0:12:10.73,Default,,0,0,0,,Give them the finger and show them who's boss.
+Dialogue: 0,0:12:11.27,0:12:12.23,Default,,0,0,0,,You too.
+Dialogue: 0,0:12:13.81,0:12:14.48,Default,,0,0,0,,Actually,
+Dialogue: 0,0:12:15.77,0:12:18.86,Default,,0,0,0,,when you feel like giving them the finger,\Ntry giving them a pinky instead.
+Dialogue: 0,0:12:19.94,0:12:21.24,Default,,0,0,0,,I'll do it too.
+Dialogue: 0,0:12:22.49,0:12:23.28,Default,,0,0,0,,Gotcha.
+Dialogue: 0,0:12:31.20,0:12:31.83,Default,,0,0,0,,Here goes.
+Dialogue: 0,0:12:34.17,0:12:40.30,Default,,0,0,0,,{\i1}How would you move forward?{\i0}
+Dialogue: 0,0:12:41.84,0:12:44.72,Default,,0,0,0,,{\i1}It's so blank\NIt's so long{\i0}
+Dialogue: 0,0:12:45.09,0:12:50.22,Default,,0,0,0,,{\i1}The answers tend to be superficial cliches{\i0}
+Dialogue: 0,0:12:50.39,0:12:54.73,Default,,0,0,0,,{\i1}Whether my fingers tremble or not{\i0}
+Dialogue: 0,0:12:54.89,0:12:57.94,Default,,0,0,0,,{\i1}There's no right answer\NThere's no losing{\i0}
+Dialogue: 0,0:12:58.11,0:13:03.19,Default,,0,0,0,,{\i1}I've been me all my life\NThat's all there is{\i0}
+Dialogue: 0,0:13:03.36,0:13:09.16,Default,,0,0,0,,{\i1}No matter how much I fight\NThere's no tomorrow{\i0}
+Dialogue: 0,0:13:16.08,0:13:16.88,Default,,0,0,0,,Crap.
+Dialogue: 0,0:13:20.21,0:13:21.13,Default,,0,0,0,,Uhh...
+Dialogue: 0,0:13:22.80,0:13:25.38,Default,,0,0,0,,"'You can't give up,' said Jim."
+Dialogue: 0,0:13:25.55,0:13:28.76,Default,,0,0,0,,"'The light of hope will eventually shine in the darkness.'"
+Dialogue: 0,0:13:35.73,0:13:37.06,Default,,0,0,0,,I'll have to go shopping.
+Dialogue: 0,0:13:38.77,0:13:40.11,Default,,0,0,0,,{\i1}Girls Band Cry.{\i0}
+Dialogue: 0,0:13:49.95,0:13:54.29,Default,,0,0,0,,Here's the key point.\NThe possible pronouns that could be used here are...
+Dialogue: 0,0:14:02.59,0:14:04.09,Default,,0,0,0,,Dodgeball was so much fun!
+Dialogue: 0,0:14:04.26,0:14:06.26,Default,,0,0,0,,I hit two people!
+Dialogue: 0,0:14:06.72,0:14:08.51,Default,,0,0,0,,- Whoa, you rock!\N- I know, right?
+Dialogue: 0,0:14:14.43,0:14:15.93,Default,,0,0,0,,I haven't spoken to anyone.
+Dialogue: 0,0:14:19.02,0:14:22.61,Default,,0,0,0,,I haven't said a word to anyone all week.
+Dialogue: 0,0:14:23.61,0:14:25.19,Default,,0,0,0,,{\i1}Are you done moving?{\i0}
+Dialogue: 0,0:14:25.36,0:14:27.70,Default,,0,0,0,,{\i1}Yep, all done. My back is killing me.{\i0}
+Dialogue: 0,0:14:27.86,0:14:29.61,Default,,0,0,0,,{\i1}Take it easy!{\i0}
+Dialogue: 0,0:14:29.95,0:14:30.70,Default,,0,0,0,,{\i1}Thanks.{\i0}
+Dialogue: 0,0:14:33.66,0:14:34.33,Default,,0,0,0,,It's been a wh...
+Dialogue: 0,0:14:37.37,0:14:38.71,Default,,0,0,0,,{\an8}UPDATE ON TOMORROW'S WEATHER
+Dialogue: 0,0:14:39.79,0:14:41.63,Default,,0,0,0,,I should hit the books.
+Dialogue: 0,0:14:43.88,0:14:44.46,Default,,0,0,0,,{\an8}1 NEW MESSAGE FROM MOMOKA-SAN
+Dialogue: 0,0:14:45.13,0:14:49.01,Default,,0,0,0,,{\i1}Bought a light yet?\NSomeone gave me one they weren't using today, want it?{\i0}
+Dialogue: 0,0:14:50.18,0:14:52.10,Default,,0,0,0,,{\i1}Thanks! Yes please!{\i0}
+Dialogue: 0,0:14:54.72,0:14:55.72,Default,,0,0,0,,{\an8}CAN I COME PICK IT UP RIGHT NOW?
+Dialogue: 0,0:14:56.56,0:14:57.56,Default,,0,0,0,,Good evening!
+Dialogue: 0,0:14:57.81,0:14:58.77,Default,,0,0,0,,Good evening.
+Dialogue: 0,0:15:02.90,0:15:05.48,Default,,0,0,0,,Uhh, I think it was this way...
+Dialogue: 0,0:15:07.82,0:15:08.90,Default,,0,0,0,,I found it.
+Dialogue: 0,0:15:09.40,0:15:10.78,Default,,0,0,0,,Hello?
+Dialogue: 0,0:15:11.95,0:15:13.62,Default,,0,0,0,,Oh, that was quick.
+Dialogue: 0,0:15:13.99,0:15:15.29,Default,,0,0,0,,I'm coming in.
+Dialogue: 0,0:15:16.16,0:15:18.12,Default,,0,0,0,,Sorry for the short notice.
+Dialogue: 0,0:15:18.29,0:15:22.17,Default,,0,0,0,,It's that one there.\NLooks like it should do, right?
+Dialogue: 0,0:15:22.67,0:15:26.00,Default,,0,0,0,,Thank you very much. As long as it's bright, it's fine.
+Dialogue: 0,0:15:26.34,0:15:28.13,Default,,0,0,0,,How's things? Have you gotten used to life here?
+Dialogue: 0,0:15:28.63,0:15:30.76,Default,,0,0,0,,Good question.
+Dialogue: 0,0:15:32.51,0:15:34.93,Default,,0,0,0,,Since you're here, how about we go for dinner?
+Dialogue: 0,0:15:35.10,0:15:36.77,Default,,0,0,0,,I've started working, so I'll treat you.
+Dialogue: 0,0:15:38.27,0:15:39.89,Default,,0,0,0,,Sure, I'll go.
+Dialogue: 0,0:15:40.94,0:15:42.27,Default,,0,0,0,,So this is Nina-chan?
+Dialogue: 0,0:15:43.36,0:15:43.90,Default,,0,0,0,,Yep.
+Dialogue: 0,0:15:44.31,0:15:45.77,Default,,0,0,0,,This is Awa-san. She gave me the light.
+Dialogue: 0,0:15:45.94,0:15:48.03,Default,,0,0,0,,She's going to be my drummer.
+Dialogue: 0,0:15:48.49,0:15:50.20,Default,,0,0,0,,I'm Awa Subaru.
+Dialogue: 0,0:15:50.70,0:15:51.61,Default,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:15:52.78,0:15:54.28,Default,,0,0,0,,Uh, I'm Iseri.
+Dialogue: 0,0:15:54.45,0:15:57.33,Default,,0,0,0,,You wanna come eat with us, Subaru?\NI'm not treating you though.
+Dialogue: 0,0:15:57.49,0:15:59.04,Default,,0,0,0,,What? How stingy.
+Dialogue: 0,0:15:59.29,0:16:01.16,Default,,0,0,0,,I'm not made of money.
+Dialogue: 0,0:16:01.87,0:16:02.54,Default,,0,0,0,,Is that alright?
+Dialogue: 0,0:16:05.04,0:16:07.21,Default,,0,0,0,,Ah, it's alright, I'll just go home.
+Dialogue: 0,0:16:07.38,0:16:10.84,Default,,0,0,0,,Oh, come on. Nina's new to Tokyo.
+Dialogue: 0,0:16:11.01,0:16:13.05,Default,,0,0,0,,You two are the same age, y'know.
+Dialogue: 0,0:16:16.55,0:16:18.56,Default,,0,0,0,,This is more like hotpot than shabu-shabu.
+Dialogue: 0,0:16:18.85,0:16:20.52,Default,,0,0,0,,You put in too many vegetables.
+Dialogue: 0,0:16:20.85,0:16:25.31,Default,,0,0,0,,If you overcook cabbage, it loses its texture and tastes gross.
+Dialogue: 0,0:16:25.65,0:16:26.15,Default,,0,0,0,,Here.
+Dialogue: 0,0:16:27.69,0:16:28.40,Default,,0,0,0,,Dig in.
+Dialogue: 0,0:16:28.65,0:16:29.32,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:16:29.61,0:16:32.70,Default,,0,0,0,,What kind of music do you like, Nina-chan?
+Dialogue: 0,0:16:33.53,0:16:35.45,Default,,0,0,0,,Like, your favorite bands or Vocaloid songs.
+Dialogue: 0,0:16:36.16,0:16:39.66,Default,,0,0,0,,Her grandma got her into Showa music.
+Dialogue: 0,0:16:40.75,0:16:43.08,Default,,0,0,0,,Not bad. I listen to that stuff sometimes, too.
+Dialogue: 0,0:16:43.25,0:16:44.33,Default,,0,0,0,,Which artists do you like?
+Dialogue: 0,0:16:44.87,0:16:48.13,Default,,0,0,0,,Uh, I wouldn't say I'm that into it...
+Dialogue: 0,0:16:48.29,0:16:49.63,Default,,0,0,0,,Oh, isn't this GureRuchi?
+Dialogue: 0,0:16:48.29,0:16:49.63,TLnote,,0,0,0,,{\an8}TL note: seems to be a fictional band
+Dialogue: 0,0:16:50.38,0:16:51.26,Default,,0,0,0,,You're right.
+Dialogue: 0,0:16:51.42,0:16:53.26,Default,,0,0,0,,Wait, you listen to GureRuchi?
+Dialogue: 0,0:16:53.43,0:16:56.59,Default,,0,0,0,,I've been to one of their concerts,\Nand seen them at a festival once.
+Dialogue: 0,0:16:56.89,0:17:00.10,Default,,0,0,0,,- You mean the festival last year in Chiba?\N- That's the one.
+Dialogue: 0,0:17:00.43,0:17:02.35,Default,,0,0,0,,That was a real mess.
+Dialogue: 0,0:17:03.14,0:17:04.48,Default,,0,0,0,,It was?
+Dialogue: 0,0:17:04.89,0:17:06.98,Default,,0,0,0,,They'll never get invited again.
+Dialogue: 0,0:17:07.27,0:17:10.03,Default,,0,0,0,,They haven't held any proper concerts since.
+Dialogue: 0,0:17:10.19,0:17:14.36,Default,,0,0,0,,I wasn't really paying attention,\Nbut now that you mention it...
+Dialogue: 0,0:17:14.65,0:17:16.82,Default,,0,0,0,,They had a good debut, though.
+Dialogue: 0,0:17:17.28,0:17:19.95,Default,,0,0,0,,Do you go to any concerts, Nina-chan?
+Dialogue: 0,0:17:20.33,0:17:21.24,Default,,0,0,0,,Not really.
+Dialogue: 0,0:17:21.41,0:17:22.12,Default,,0,0,0,,I see.
+Dialogue: 0,0:17:22.29,0:17:24.54,Default,,0,0,0,,The pot's emptying out, so how about we add the meat now?
+Dialogue: 0,0:17:25.17,0:17:26.17,Default,,0,0,0,,Are you not a fan of meat?
+Dialogue: 0,0:17:26.58,0:17:27.38,Default,,0,0,0,,Nina-chan?
+Dialogue: 0,0:17:29.00,0:17:31.34,Default,,0,0,0,,Pardon me, nature calls.
+Dialogue: 0,0:17:37.39,0:17:38.18,Default,,0,0,0,,Not your type?
+Dialogue: 0,0:17:39.80,0:17:40.56,Default,,0,0,0,,It's not like that.
+Dialogue: 0,0:17:40.72,0:17:42.81,Default,,0,0,0,,Then talk a bit more.
+Dialogue: 0,0:17:42.97,0:17:45.14,Default,,0,0,0,,We worked hard to set this up.
+Dialogue: 0,0:17:45.52,0:17:47.40,Default,,0,0,0,,What do you mean, you worked hard?
+Dialogue: 0,0:17:47.85,0:17:50.40,Default,,0,0,0,,Is she forcing herself to make conversation?
+Dialogue: 0,0:17:50.82,0:17:53.03,Default,,0,0,0,,Everyone's like that at first.
+Dialogue: 0,0:17:53.19,0:17:55.57,Default,,0,0,0,,You don't know anything about each other.
+Dialogue: 0,0:17:56.20,0:17:59.32,Default,,0,0,0,,She's kind of patronizing.\NIt irritates me.
+Dialogue: 0,0:17:59.70,0:18:01.12,Default,,0,0,0,,You've got the wrong impression.
+Dialogue: 0,0:18:01.28,0:18:05.33,Default,,0,0,0,,She said something about going to an acting school,\Nso that's normal for her.
+Dialogue: 0,0:18:05.50,0:18:07.04,Default,,0,0,0,,She doesn't mean anything by it.
+Dialogue: 0,0:18:07.79,0:18:09.21,Default,,0,0,0,,You're such a softie.
+Dialogue: 0,0:18:09.54,0:18:11.34,Default,,0,0,0,,She's basically screaming
+Dialogue: 0,0:18:11.50,0:18:15.30,Default,,0,0,0,,"look at what a good girl I am,\Nmaking friends with such an antisocial girl."
+Dialogue: 0,0:18:15.47,0:18:16.80,Default,,0,0,0,,What's with that cynicism?
+Dialogue: 0,0:18:16.97,0:18:18.05,Default,,0,0,0,,I'm not being cynical!
+Dialogue: 0,0:18:18.22,0:18:22.43,Default,,0,0,0,,If you see everyone like that,\Nyou'll never speak with anyone.
+Dialogue: 0,0:18:28.44,0:18:29.06,Default,,0,0,0,,Hey!
+Dialogue: 0,0:18:30.86,0:18:31.65,Default,,0,0,0,,You're right.
+Dialogue: 0,0:18:31.90,0:18:35.19,Default,,0,0,0,,I doubt I'll ever have any friends.
+Dialogue: 0,0:18:35.36,0:18:36.78,Default,,0,0,0,,I'm a difficult girl.
+Dialogue: 0,0:18:37.03,0:18:37.95,Default,,0,0,0,,Now see here...
+Dialogue: 0,0:18:38.24,0:18:40.53,Default,,0,0,0,,I'm sure I'll die alone.
+Dialogue: 0,0:18:41.24,0:18:42.49,Default,,0,0,0,,Thank you for the food.
+Dialogue: 0,0:18:47.91,0:18:51.21,Default,,0,0,0,,Thank you for the light.\NYou're...welcome...?
+Dialogue: 0,0:18:53.88,0:18:55.71,Default,,0,0,0,,Sheesh, what an idiot.
+Dialogue: 0,0:18:56.26,0:18:58.55,Default,,0,0,0,,She's already got what really matters.
+Dialogue: 0,0:19:02.85,0:19:04.35,Default,,0,0,0,,What am I doing?
+Dialogue: 0,0:19:13.90,0:19:15.48,Default,,0,0,0,,What the heck am I doing?
+Dialogue: 0,0:19:16.19,0:19:18.07,Default,,0,0,0,,She was kind enough to reach out to me,
+Dialogue: 0,0:19:18.74,0:19:21.53,Default,,0,0,0,,she was kind enough to be considerate of me...
+Dialogue: 0,0:19:24.08,0:19:25.29,Default,,0,0,0,,I'm such an idiot...
+Dialogue: 0,0:19:27.41,0:19:28.75,Default,,0,0,0,,I'm so stupid...
+Dialogue: 0,0:19:30.62,0:19:33.25,Default,,0,0,0,,Am I fucking dumb?!
+Dialogue: 0,0:19:33.54,0:19:36.88,Default,,0,0,0,,Stupid! Fucking! Idiot!
+Dialogue: 0,0:19:40.09,0:19:41.38,Default,,0,0,0,,I'm so dumb...
+Dialogue: 0,0:19:41.55,0:19:42.72,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:19:42.89,0:19:44.51,Default,,0,0,0,,You shut up!\NWhat?!
+Dialogue: 0,0:19:47.10,0:19:48.39,Default,,0,0,0,,The hell does that mean?
+Dialogue: 0,0:19:49.64,0:19:51.77,Default,,0,0,0,,Shut the hell up!
+Dialogue: 0,0:19:52.69,0:19:54.02,Default,,0,0,0,,H-Hey, watch it!
+Dialogue: 0,0:19:54.73,0:19:55.90,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:19:59.19,0:20:01.53,Default,,0,0,0,,Get fucked!
+Dialogue: 0,0:20:31.06,0:20:34.19,Default,,0,0,0,,I can't even plug in the light on my own.
+Dialogue: 0,0:20:35.65,0:20:37.61,Default,,0,0,0,,I'll spend my whole life in darkness.
+Dialogue: 0,0:20:38.02,0:20:41.15,Default,,0,0,0,,I'll be gloomy forever...
+Dialogue: 0,0:20:43.11,0:20:44.32,Default,,0,0,0,,and ever...
+Dialogue: 0,0:20:46.70,0:20:49.08,Default,,0,0,0,,You'd be wise to join my band.
+Dialogue: 0,0:20:51.33,0:20:52.33,Default,,0,0,0,,Momoka-san?
+Dialogue: 0,0:20:52.83,0:20:54.33,Default,,0,0,0,,Subaru-chan?
+Dialogue: 0,0:20:54.75,0:20:57.13,Default,,0,0,0,,Find a better place to hide the key.
+Dialogue: 0,0:20:57.34,0:20:59.21,Default,,0,0,0,,The light's in pieces.
+Dialogue: 0,0:21:03.38,0:21:06.47,Default,,0,0,0,,I told you, I love your voice.
+Dialogue: 0,0:21:07.05,0:21:10.27,Default,,0,0,0,,Why are you lying?
+Dialogue: 0,0:21:10.97,0:21:12.10,Default,,0,0,0,,I'm not lying.
+Dialogue: 0,0:21:12.35,0:21:15.02,Default,,0,0,0,,You get all twisted up, and you complicate things,
+Dialogue: 0,0:21:15.19,0:21:18.52,Default,,0,0,0,,but that's because you can't lie to yourself.
+Dialogue: 0,0:21:18.90,0:21:22.99,Default,,0,0,0,,You're so fragile, but you'd rather die than change.
+Dialogue: 0,0:21:24.70,0:21:29.08,Default,,0,0,0,,Just like that song of mine that I'd forgotten.
+Dialogue: 0,0:21:29.33,0:21:32.33,Default,,0,0,0,,The song I love so much
+Dialogue: 0,0:21:33.37,0:21:34.37,Default,,0,0,0,,and hold so dear.
+Dialogue: 0,0:21:41.21,0:21:45.38,Default,,0,0,0,,I don't...I don't need that!
+Dialogue: 0,0:21:51.47,0:21:53.64,Default,,0,0,0,,What's so funny?!
+Dialogue: 0,0:21:54.39,0:21:55.39,Default,,0,0,0,,You're such a pain in the ass!
+Dialogue: 0,0:21:57.48,0:21:58.40,Default,,0,0,0,,Ow!
+Dialogue: 0,0:22:00.61,0:22:03.90,Default,,0,0,0,,Just cram all that frustration
+Dialogue: 0,0:22:04.74,0:22:05.49,Default,,0,0,0,,into your songs.
+Dialogue: 0,0:22:04.86,0:22:05.90,Default,,0,0,0,,{\an8}FATHER'S FARM YOGHURT DRINK
+Dialogue: 0,0:22:06.07,0:22:06.78,Default,,0,0,0,,Come on.
+Dialogue: 0,0:23:47.42,0:23:49.38,Default,,0,0,0,,Next episode:\N"Stupid Q&A".
+Dialogue: 0,0:23:47.42,0:23:49.38,TLnote,,0,0,0,,{\an7}TL note: reference to a song by Eastern Youth https://youtu.be/NL5D6-7C9hg
