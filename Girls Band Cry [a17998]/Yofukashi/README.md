@@ -4,7 +4,7 @@
 |-------------------|-------------------------------------|
 | Translation       | Yofukashi                           |
 | Timing            | ADN                                   |
-| Songs             | [Toei](../Toei), [SobsPlease](../Sobsplease) |
+| Songs             | [Toei](../Toei), [SobsPlease](../SobsPlease) |
 
 ## Release Info
 
