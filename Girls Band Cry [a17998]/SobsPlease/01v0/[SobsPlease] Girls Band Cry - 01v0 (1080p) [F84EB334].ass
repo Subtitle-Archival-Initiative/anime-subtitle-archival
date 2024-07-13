@@ -1,0 +1,710 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Fira Sans Medium,69,&H00FFFFFF,&H00000000,&H0012291F,&HA012291F,0,0,0,0,100,100,0,0,1,4.4,2.2,2,275,275,60,1
+Style: Alt,Fira Sans Medium,69,&H00FFFFFF,&H00000000,&H0048214C,&HA048214C,0,0,0,0,100,100,0,0,1,4.4,2.2,2,275,275,45,1
+Style: MarySigns,Open Sans Semibold,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,60,60,50,0
+Style: akemisigns,Bahnschrift,50,&H00FFFFFF,&H000000FF,&H7F444444,&HA0000000,-1,0,0,0,100,100,3,0,1,3,0,3,100,100,64,1
+Style: Insert - Void,Bahnschrift,63,&H00FFFFFF,&H00000000,&H002B61B9,&H0012291F,0,0,0,0,100,100,0,0,1,4.4,2.2,2,150,150,50,1
+Style: OPStyle,A-OTF Maru Folk Pro M,66,&H00FCFCFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,90,90,50,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:10.99,0:00:10.99,Default,,0,0,0,chapter,{Intro}
+Comment: 0,0:02:21.00,0:02:21.00,Default,,0,0,0,chapter,{OP}
+Comment: 0,0:02:21.83,0:02:21.83,Default,,0,0,0,opsync,
+Comment: 0,0:03:51.09,0:03:51.09,Default,,0,0,0,chapter,{Part A}
+Comment: 0,0:14:17.04,0:14:17.04,Default,,0,0,0,chapter,{Part B}
+Comment: 0,0:22:09.98,0:22:09.98,Default,,0,0,0,chapter,{ED}
+Comment: 0,0:23:46.07,0:23:46.07,Default,,0,0,0,chapter,{Preview}
+Comment: 0,0:03:51.59,0:03:55.84,MarySigns,ep title,0,0,0,,{\fnDFBronzeInscriptionAJP13N-W6\fs70\fscy110\pos(1564,893)}Tokyo Hype
+Comment: 0,0:03:51.59,0:03:55.84,MarySigns,ep title,0,0,0,,{\fnDFCinemaRinJP13N-W3\fs60\alpha&HFF&\4a&H00&\ko0\shad0.01\4c&HFFFFFF&\bord0.6\fscy110\pos(1564,891)}Tokyo Hype
+Comment: 0,0:03:51.59,0:03:55.84,MarySigns,ep title,0,0,0,,{\fnDFHannotateStd-W5\fs80\fsp1\fscy110\pos(1564,893)}Tokyo Hype
+Comment: 0,0:03:59.34,0:04:02.85,MarySigns,door plate,0,0,0,,{\pos(582,526)}Closed
+Comment: 0,0:03:59.34,0:04:02.85,MarySigns,door decal - skippable,0,0,0,,{\pos(624,890)}Kawasaki Station\N\N\N\N\N\NReal Estate
+Comment: 0,0:04:02.85,0:04:06.23,MarySigns,door decal - skippable,0,0,0,,{\pos(396,806)}Kawasaki Station\N\N\N\N\N\NReal Estate
+Comment: 0,0:05:58.55,0:05:59.55,MarySigns,phone,0,0,0,,{\pos(770,474)\b1}Mom{\b0}  9 Missed Calls\N{\b1}Suzune{\b0}  8 Missed Calls\N{\b1}Suzune{\b0}  9 New Messages
+Comment: 0,0:06:00.80,0:06:00.97,MarySigns,phone,0,0,0,,{see previous}
+Comment: 0,0:06:00.97,0:06:02.05,MarySigns,phone,0,0,0,,{\pos(818,340)\b1}Suzune{\b0}\NMobile
+Comment: 0,0:06:40.46,0:06:40.88,MarySigns,instagram,0,0,0,,{\pos(528,924)}Went to a temple in Kyoto~\N#Kyoto #Travel
+Comment: 0,0:06:41.26,0:06:41.30,MarySigns,instagram,0,0,0,,{\pos(492,844)}Haven't been to this shopping mall{street} in ages\N#daily_life #walking
+Comment: 0,0:06:41.59,0:06:41.63,MarySigns,instagram,0,0,0,,{\pos(486,666)}At the train depot.\NWhat a find!\N#what_year_is_it_from #kumamoto_trains\N#quiz
+Comment: 0,0:06:42.26,0:06:42.30,MarySigns,instagram,0,0,0,,{\pos(484,802)}Tried my hand at pottery! lol\N#pottery_wheel #pottery #too_hard\N#managed_somehow
+Comment: 0,0:06:43.72,0:06:43.76,MarySigns,instagram,0,0,0,,{\pos(472,756)}Visiting temples is great\N#kyoto #travel
+Comment: 0,0:06:45.05,0:06:46.47,MarySigns,instagram,0,0,0,,{\pos(546,646)}Around here
+Comment: 0,0:06:45.05,0:06:46.47,MarySigns,instagram,0,0,0,,{\pos(500,940)}I'll be performing here today\N#kawasaki_station #momoka #music\N#street_concert
+Comment: 0,0:06:47.22,0:06:48.35,MarySigns,insta; tilted,0,0,0,,{see previous}
+Comment: 0,0:06:49.22,0:06:49.97,MarySigns,insta; tilted,0,0,0,,{\pos(1070,258)}Kawasaki Station East Exit\NStarting 10 PM
+Comment: 0,0:06:49.22,0:06:49.97,MarySigns,insta; tilted,0,0,0,,{\pos(514,668)}I'll be performing in front of the East Exit at Kawasaki Station at 10 PM\N#kawasaki_station #momoka\N#street_concert
+Comment: 0,0:11:30.67,0:11:32.38,MarySigns,rules,0,0,0,,{\pos(956,536)}Family rules\N1. Dinner is eaten at home together as a family.\N2. No smartphones are allowed in the living room.\N3. Family meetings are every Sunday night.
+Comment: 0,0:20:21.49,0:20:22.87,MarySigns,ticket,0,0,0,,{\pos(984,502)}Good luck!!
+Comment: 0,0:20:21.49,0:20:22.87,MarySigns,ticket - skippable,0,0,0,,{\pos(668,236)}"Summer with Diamond Dust"
+Comment: 0,0:20:31.42,0:20:34.25,MarySigns,guitar,0,0,0,,Flip 'em off!
+Comment: 0,0:20:50.06,0:20:52.27,MarySigns,guitar - skippable,0,0,0,,{see previous}
+Comment: 0,0:20:55.78,0:20:56.78,MarySigns,guitar - skippable,0,0,0,,{see previous}
+Comment: 0,0:21:25.06,0:21:27.56,MarySigns,guitar - skippable,0,0,0,,{see previous}
+Comment: 0,0:21:57.46,0:21:58.71,MarySigns,guitar - skippable,0,0,0,,{see previous}
+Comment: 0,0:23:47.07,0:23:51.08,MarySigns,next ep title,0,0,0,,{\pos(394,934)}Next Time\NThree Nocturnal Creatures
+Comment: 0,0:00:00.00,0:00:00.00,Insert - Void,,0,0,0,template line loop layer 2,!relayer($loop_layer)!!retime('line', -150, 150)!{!ln.tag.pos(nil, nil, 0, 200)!\yshad-200}
+Comment: 0,0:00:00.00,0:00:00.00,Insert - Void,,0,0,0,mixin line layer 1,{\bord3.2\4c!gc(3)!}
+Comment: 0,0:00:00.00,0:00:00.00,Insert - Void,,0,0,0,mixin line layer 2,{\bord0\4c!gc()!}
+Comment: 0,0:00:00.00,0:00:00.00,Insert - Void,,0,0,0,mixin line,!line.next and (line.end_time > line.next.start_time-150) and retime('abs', line.start_time, line.next.start_time-150) or nil!
+Comment: 0,0:00:00.00,0:00:00.00,Insert - Void,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Insert - Void,preline,0,0,0,mixin line layer 1,{\blur20\t(0,150,\blur4)\t(!line.duration - 150!,0,\blur20)}
+Comment: 0,0:00:00.00,0:00:00.00,Insert - Void,preline,0,0,0,mixin line layer 2,{\blur10\t(0,150,\blur0)\t(!line.duration - 150!,0,\blur10)}
+Comment: 0,0:00:00.00,0:00:00.00,Insert - Void,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Insert - Void,,0,0,0,,
+Comment: 0,0:22:10.61,0:22:13.72,Insert - Void,,0,0,0,kara,All the blank white pages that are set before me
+Comment: 0,0:22:13.91,0:22:17.13,Insert - Void,,0,0,0,kara,Full of simple questions anyone could answer
+Comment: 0,0:22:17.13,0:22:18.86,Insert - Void,,0,0,0,kara,It's form over function
+Comment: 0,0:22:19.16,0:22:23.41,Insert - Void,,0,0,0,kara,But my fingers are trembling anxiously
+Comment: 0,0:22:23.77,0:22:27.76,Insert - Void,,0,0,0,kara,Wandering alone, I find a crossroads looming ahead
+Comment: 0,0:22:28.08,0:22:30.27,Insert - Void,,0,0,0,kara,There's no map here to guide me
+Comment: 0,0:22:30.52,0:22:35.25,Insert - Void,,0,0,0,kara,How am I to know which way will lead to the best path
+Comment: 0,0:22:35.76,0:22:36.96,Insert - Void,,0,0,0,kara,To walk down
+Comment: 0,0:22:37.39,0:22:40.29,Insert - Void,,0,0,0,kara,They tell you that your textbooks have the answers that you need
+Comment: 0,0:22:40.62,0:22:42.75,Insert - Void,,0,0,0,kara,They always seemed so difficult to read
+Comment: 0,0:22:43.07,0:22:48.53,Insert - Void,,0,0,0,kara,And even as I grow, I'm just as clueless now as I've ever been
+Comment: 0,0:22:49.90,0:22:53.01,Insert - Void,,0,0,0,kara,Will the answer that I'm searching for
+Comment: 0,0:22:53.22,0:22:56.50,Insert - Void,,0,0,0,kara,Really scratch this itch, or lead me to more?
+Comment: 0,0:22:56.84,0:22:59.49,Insert - Void,,0,0,0,kara,If you found yourself inside my shoes
+Comment: 0,0:22:59.67,0:23:02.19,Insert - Void,,0,0,0,kara,How would you decide which path to ignore?
+Comment: 0,0:23:02.45,0:23:05.61,Insert - Void,,0,0,0,kara,All the blank white pages that are set before me
+Comment: 0,0:23:05.79,0:23:08.98,Insert - Void,,0,0,0,kara,Full of simple questions anyone could answer
+Comment: 0,0:23:09.06,0:23:10.72,Insert - Void,,0,0,0,kara,It's form over function
+Comment: 0,0:23:11.06,0:23:15.13,Insert - Void,,0,0,0,kara,But my fingers are trembling anxiously
+Comment: 0,0:23:15.43,0:23:16.94,Insert - Void,,0,0,0,kara,There's no right answer
+Comment: 0,0:23:17.13,0:23:18.55,Insert - Void,,0,0,0,kara,No one wins or loses
+Comment: 0,0:23:18.74,0:23:20.18,Insert - Void,,0,0,0,kara,And it's all so simple
+Comment: 0,0:23:20.37,0:23:21.87,Insert - Void,,0,0,0,kara,I can only march on
+Comment: 0,0:23:21.89,0:23:23.65,Insert - Void,,0,0,0,kara,And carve out my own path
+Comment: 0,0:23:23.99,0:23:25.26,Insert - Void,,0,0,0,kara,No more brooding
+Comment: 0,0:23:25.65,0:23:29.53,Insert - Void,,0,0,0,kara,If I keep on debating, I'll waste my life
+Comment: 0,0:23:38.64,0:23:42.33,Insert - Void,,0,0,0,kara,If I keep up this struggle, I'll waste my life
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,,
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,code once,function is_actor() return orgline.actor ~= "" end
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,,
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,mixin line t_actor main,!retime('line', -100, 100)!{\fad(100,100)!ln.tag.pos()!}
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,mixin line t_actor main,!line.next and (line.end_time > line.next.start_time-100) and retime('abs', line.start_time, line.next.start_time-100) or nil!
+Comment: 2,0:02:21.04,0:02:21.04,OPStyle,main text,0,0,0,template line,
+Comment: 1,0:02:21.04,0:02:21.04,OPStyle,main glow,0,0,0,template line,
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,,
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,mixin line t_actor glow,{\bord3.2\blur6}
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,mixin line t_actor glow actor nina,{\3c&H6A6BFF&}
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,mixin line t_actor glow actor momoka,{\3c&HF0EC61&}
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,mixin line t_actor glow actor subaru,{\3c&HB4FF4B&}
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,mixin line t_actor glow actor tomo,{\3c&HEB6AEE&}
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,mixin line t_actor glow actor rupa,{\3c&H33ECEF&}
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,mixin line t_actor glow unless is_actor,{\3c&HFEB56A&}
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,,
+Comment: 0,0:02:21.04,0:02:21.04,OPStyle,,0,0,0,,
+Comment: 0,0:02:21.37,0:02:24.12,OPStyle,,0,0,0,kara,The dark of night hides away behind an unfinished beat
+Comment: 0,0:02:24.29,0:02:26.96,OPStyle,,0,0,0,kara,We take a single breath of its embrace before we're crushed beneath
+Comment: 0,0:02:27.08,0:02:28.84,OPStyle,,0,0,0,kara,Although you try and fail and try and fail again
+Comment: 0,0:02:29.00,0:02:31.42,OPStyle,,0,0,0,kara,You can seize your chosen future by your own hand
+Comment: 0,0:02:31.76,0:02:34.63,OPStyle,,0,0,0,kara,Nothing's set in stone until you make it, so reach your hands out
+Comment: 0,0:02:40.18,0:02:41.56,OPStyle,nina,0,0,0,kara,Trapped in an endless crowd
+Comment: 0,0:02:41.97,0:02:44.39,OPStyle,nina,0,0,0,kara,Crying out with a voice that can't make a sound
+Comment: 0,0:02:44.44,0:02:45.81,OPStyle,nina,0,0,0,kara,And by the break of day
+Comment: 0,0:02:46.19,0:02:48.69,OPStyle,nina,0,0,0,kara,Sounds of footsteps will smother all you can say
+Comment: 0,0:02:48.77,0:02:50.11,OPStyle,,0,0,0,kara,Time's march will carry on
+Comment: 0,0:02:50.40,0:02:52.23,OPStyle,,0,0,0,kara,But the silent calls remain
+Comment: 0,0:02:52.86,0:02:54.40,OPStyle,,0,0,0,kara,The cold, filthy water flows
+Comment: 0,0:02:54.65,0:02:57.24,OPStyle,,0,0,0,kara,Through a city full of raw pain
+Comment: 0,0:02:57.45,0:02:58.91,OPStyle,tomo,0,0,0,kara,In a world where nothing ever changes
+Comment: 0,0:03:00.16,0:03:01.70,OPStyle,tomo,0,0,0,kara,We still have to live to see tomorrow
+Comment: 0,0:03:02.66,0:03:04.83,OPStyle,tomo,0,0,0,kara,Though the scorn pervades your voice, we've got no other choice
+Comment: 0,0:03:05.00,0:03:05.87,OPStyle,tomo,0,0,0,kara,No other path to tread
+Comment: 0,0:03:06.04,0:03:07.92,OPStyle,tomo,0,0,0,kara,We've only got the future ahead
+Comment: 0,0:03:08.13,0:03:10.84,OPStyle,,0,0,0,kara,I promise you it's real, this stupid dream I feel
+Comment: 0,0:03:10.96,0:03:14.47,OPStyle,,0,0,0,kara,It's like there's no hope left living in this city, but still I try
+Comment: 0,0:03:14.63,0:03:15.88,OPStyle,,0,0,0,kara,Looking out and seeing there's a future for me
+Comment: 0,0:03:16.01,0:03:17.38,OPStyle,,0,0,0,kara,Reaching out and seizing hold of what I can be
+Comment: 0,0:03:17.43,0:03:18.89,OPStyle,,0,0,0,kara,Look around and see
+Comment: 0,0:03:19.14,0:03:20.68,OPStyle,,0,0,0,kara,I've been saying it all along
+Comment: 0,0:03:20.80,0:03:22.01,OPStyle,,0,0,0,kara,This stupid-sounding song
+Comment: 0,0:03:22.18,0:03:24.93,OPStyle,,0,0,0,kara,We're shining a light through streets of hopeless darkness
+Comment: 0,0:03:24.98,0:03:25.73,OPStyle,,0,0,0,kara,It's not a dream
+Comment: 0,0:03:25.85,0:03:27.10,OPStyle,,0,0,0,kara,Though this town is full of rot and decay
+Comment: 0,0:03:27.23,0:03:28.52,OPStyle,,0,0,0,kara,There's no point in giving in to dismay
+Comment: 0,0:03:28.69,0:03:30.90,OPStyle,,0,0,0,kara,Even now, there's time, there's time!
+Comment: 0,0:03:30.98,0:03:33.61,OPStyle,,0,0,0,kara,The dark of night hides away behind an unfinished beat
+Comment: 0,0:03:33.78,0:03:36.45,OPStyle,,0,0,0,kara,We take a single breath of its embrace before we're crushed beneath
+Comment: 0,0:03:36.53,0:03:38.32,OPStyle,,0,0,0,kara,Although you try and fail and try and fail again
+Comment: 0,0:03:38.45,0:03:40.95,OPStyle,,0,0,0,kara,You can seize your chosen future by your own hand
+Comment: 0,0:03:41.33,0:03:44.12,OPStyle,,0,0,0,kara,Nothing's set in stone until you make it, so reach your hands out
+Dialogue: 0,0:00:11.54,0:00:13.99,Alt,,0,0,0,,{\an8}Thank you for choosing the Tōkaidō Shinkansen.
+Dialogue: 0,0:00:13.99,0:00:16.17,Alt,,0,0,0,,{\an8}Change here for Chūō Line, Yamanote Line,
+Dialogue: 0,0:00:16.17,0:00:20.06,Alt,,0,0,0,,{\an8}Keihin-Tōhoku Line, Tōkaidō Line, Jōban Line,
+Dialogue: 0,0:00:20.06,0:00:22.24,Alt,,0,0,0,,{\an8}Sōbu Line, Keiyō Line,
+Dialogue: 0,0:00:22.24,0:00:25.17,Alt,,0,0,0,,{\an8}Tōhoku, Hokuriku and Jōetsu Shinkansen,
+Dialogue: 0,0:00:25.17,0:00:27.11,Alt,,0,0,0,,{\an8}and Tokyo Metro lines.
+Dialogue: 0,0:00:27.45,0:00:32.01,Alt,,0,0,0,,{\an8}This train will begin its journey back at 5:54 PM.
+Dialogue: 0,0:00:32.71,0:00:34.47,Alt,,0,0,0,,{\an8}Hikari 519 will—
+Dialogue: 0,0:00:44.01,0:00:45.28,Default,,0,0,0,,Miss.
+Dialogue: 0,0:00:45.48,0:00:47.94,Default,,0,0,0,,Miss? Miss!
+Dialogue: 0,0:00:51.68,0:00:53.72,Default,,0,0,0,,Are you awake now? You're in Tokyo.
+Dialogue: 0,0:00:54.68,0:00:56.16,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:01:00.27,0:01:03.92,Default,,0,0,0,,{\q2}I was told to get off at Shinagawa,\N then take the blue line...
+Dialogue: 0,0:01:04.93,0:01:06.61,Default,,0,0,0,,I ended up at Tokyo Station.
+Dialogue: 0,0:01:06.89,0:01:08.49,Default,,0,0,0,,Let's see...
+Dialogue: 0,0:01:08.49,0:01:10.87,Default,,0,0,0,,Blue... Blue?
+Dialogue: 0,0:01:11.80,0:01:14.56,Default,,0,0,0,,There's both light blue and dark blue.
+Dialogue: 0,0:01:16.06,0:01:17.91,Default,,0,0,0,,Towards Kamata and Kannai...
+Dialogue: 0,0:01:17.91,0:01:19.66,Default,,0,0,0,,Towards Kamata and Kannai....
+Dialogue: 0,0:01:19.66,0:01:21.43,Default,,0,0,0,,Towards Kamata and Kannai.....
+Dialogue: 0,0:01:21.43,0:01:23.06,Default,,0,0,0,,Towards Kamata and Kannai......
+Dialogue: 0,0:01:23.29,0:01:24.90,Default,,0,0,0,,Towards Kamata and Kannai...
+Dialogue: 0,0:01:24.90,0:01:26.65,Default,,0,0,0,,Towards Kamata and Kannai....
+Dialogue: 0,0:01:26.65,0:01:28.32,Default,,0,0,0,,Towards Kamata and Kannai.....
+Dialogue: 0,0:01:26.29,0:01:29.82,Alt,,0,0,0,,Kabayaki, katsu sandwiches, katsu curry!
+Dialogue: 0,0:01:30.18,0:01:34.07,Alt,,0,0,0,,{\an8}Kabayaki, katsu sandwiches, katsu curry!
+Dialogue: 0,0:01:30.73,0:01:32.64,Default,,0,0,0,,Kabayaki, katsu sandwiches...
+Dialogue: 0,0:01:32.64,0:01:35.43,Default,,0,0,0,,Kabayaki, katsu sandwiches, katsu curry...
+Dialogue: 0,0:01:35.43,0:01:37.18,Default,,0,0,0,,Kabayaki, katsu sandwiches...
+Dialogue: 0,0:01:37.18,0:01:40.21,Default,,0,0,0,,Kabayaki, katsu sandwiches, katsu curry.
+Dialogue: 0,0:01:41.14,0:01:43.08,Default,,0,0,0,,Woah...
+Dialogue: 0,0:01:46.66,0:01:48.40,Default,,0,0,0,,So, uh...
+Dialogue: 0,0:01:49.48,0:01:52.09,Default,,0,0,0,,Yokohama, Yokohama, Yokohama...
+Dialogue: 0,0:01:56.83,0:01:59.72,Default,,0,0,0,,{\i1}Age 17, March.
+Dialogue: 0,0:01:59.96,0:02:01.67,Default,,0,0,0,,{\i1}I've come to Tokyo.
+Dialogue: 0,0:02:02.34,0:02:03.92,Default,,0,0,0,,{\i1}'Cause I don't want to give in.
+Dialogue: 0,0:02:03.92,0:02:05.42,Default,,0,0,0,,{\i1}'Cause it's not me who's wrong.
+Dialogue: 0,0:02:11.41,0:02:12.24,Default,,0,0,0,,It's snowing!{intentional cutoff at the swipe for visual flair; no clipping shenans because it would be too distracting -p}
+Dialogue: 0,0:03:55.32,0:03:56.84,Default,,0,0,0,,Excuse me!
+Dialogue: 0,0:03:57.08,0:03:59.34,Default,,0,0,0,,Is anyone there?
+Dialogue: 0,0:03:59.55,0:04:02.10,Default,,0,0,0,,My name is Iseri. I came to pick up the key...
+Dialogue: 0,0:04:03.40,0:04:06.23,Default,,0,0,0,,No surprise. I'm way too late.
+Dialogue: 0,0:04:07.22,0:04:08.23,Default,,0,0,0,,Totally dead.
+Dialogue: 0,0:04:12.39,0:04:13.80,Default,,0,0,0,,Let's see...
+Dialogue: 0,0:04:16.58,0:04:17.74,Default,,0,0,0,,Here, I guess?
+Dialogue: 0,0:04:22.57,0:04:24.49,Default,,0,0,0,,Excuse me, is this—
+Dialogue: 0,0:04:39.75,0:04:40.81,Default,,0,0,0,,Keep it down!
+Dialogue: 0,0:04:40.81,0:04:42.19,Default,,0,0,0,,I'm sorry!
+Dialogue: 0,0:04:47.23,0:04:48.14,Default,,0,0,0,,This is it.
+Dialogue: 0,0:04:51.52,0:04:53.62,Default,,0,0,0,,What did I even expect?
+Dialogue: 0,0:04:59.17,0:05:03.03,Default,,0,0,0,,Maybe... they could have hidden a spare key here...
+Dialogue: 0,0:05:03.48,0:05:04.44,Default,,0,0,0,,Or not.
+Dialogue: 0,0:05:04.44,0:05:05.59,Default,,0,0,0,,Um...
+Dialogue: 0,0:05:05.59,0:05:06.40,Default,,0,0,0,,Ow!
+Dialogue: 0,0:05:07.66,0:05:10.67,Default,,0,0,0,,Excuse me, I live here. Can I help you?
+Dialogue: 0,0:05:12.68,0:05:16.11,Default,,0,0,0,,Um, I'm Iseri. I'm moving in next door.
+Dialogue: 0,0:05:16.11,0:05:18.65,Default,,0,0,0,,O-Oh, is that so? Nice to meet you.
+Dialogue: 0,0:05:18.65,0:05:19.80,Default,,0,0,0,,Th-thanks.
+Dialogue: 0,0:05:20.20,0:05:22.18,Default,,0,0,0,,It's just... I don't have my keys...
+Dialogue: 0,0:05:22.43,0:05:25.46,Default,,0,0,0,,{\q2}I was supposed to pick them\N up from the agency today,
+Dialogue: 0,0:05:25.46,0:05:27.07,Default,,0,0,0,,but I got here very late...
+Dialogue: 0,0:05:27.07,0:05:28.18,Default,,0,0,0,,Did you call them?
+Dialogue: 0,0:05:29.19,0:05:31.44,Default,,0,0,0,,Unfortunately, my phone died...
+Dialogue: 0,0:05:31.44,0:05:32.35,Default,,0,0,0,,Want to use mine?
+Dialogue: 0,0:05:33.03,0:05:35.65,Default,,0,0,0,,{\q2}Without my phone,\N I don't know the number either...
+Dialogue: 0,0:05:35.85,0:05:38.90,Default,,0,0,0,,I see. Wanna come in to charge it, then?
+Dialogue: 0,0:05:39.88,0:05:42.41,Default,,0,0,0,,Come on. Don't be shy.
+Dialogue: 0,0:05:45.03,0:05:46.71,Default,,0,0,0,,No, no, it's alright.
+Dialogue: 0,0:05:46.71,0:05:48.53,Default,,0,0,0,,I'll manage somehow.
+Dialogue: 0,0:05:48.53,0:05:50.15,Default,,0,0,0,,Thank you for the offer!
+Dialogue: 0,0:05:50.56,0:05:53.65,Default,,0,0,0,,I'm sorry, if you could just look after my suitcase!
+Dialogue: 0,0:05:58.00,0:05:58.55,Default,,0,0,0,,There!
+Dialogue: 0,0:05:59.55,0:06:00.80,Default,,0,0,0,,Not surprising.
+Dialogue: 0,0:06:04.30,0:06:05.05,Default,,0,0,0,,Hello?
+Dialogue: 0,0:06:05.27,0:06:06.82,Default,,0,0,0,,Oh, you finally picked up.
+Dialogue: 0,0:06:06.82,0:06:09.31,Default,,0,0,0,,Mom, Nina picked up!
+Dialogue: 0,0:06:09.31,0:06:11.56,Default,,0,0,0,,Sorry, I ran out of battery.
+Dialogue: 0,0:06:12.06,0:06:13.52,Default,,0,0,0,,Where'd you go off to?{dialect}
+Dialogue: 0,0:06:13.52,0:06:15.93,Default,,0,0,0,,Uncle rang us earlier today, you know.{dialect}
+Dialogue: 0,0:06:15.93,0:06:17.82,Default,,0,0,0,,He waited ages for you.{dialect}
+Dialogue: 0,0:06:18.61,0:06:19.82,Default,,0,0,0,,I know.{dialect}
+Dialogue: 0,0:06:20.33,0:06:21.87,Default,,0,0,0,,I'll sort out the keys tomorrow.{dialect}
+Dialogue: 0,0:06:21.87,0:06:23.59,Default,,0,0,0,,Enough chit-chat. Let it go.{dialect}
+Dialogue: 0,0:06:23.59,0:06:24.32,Default,,0,0,0,,Bye.
+Dialogue: 0,0:06:24.54,0:06:27.65,Default,,0,0,0,,Hey. Are you sure you're gonna manage on your own?{think this strikes a good overbearing/concerned/condescending cocktail -B}
+Dialogue: 0,0:06:27.65,0:06:29.83,Default,,0,0,0,,Sorry, my battery's running out.
+Dialogue: 0,0:06:46.68,0:06:48.82,Default,,0,0,0,,Wait. That's right around here.
+Dialogue: 0,0:06:49.36,0:06:50.47,Default,,0,0,0,,At 10 PM?
+Dialogue: 0,0:06:52.50,0:06:53.48,Default,,0,0,0,,No way!
+Dialogue: 0,0:07:39.17,0:07:41.23,Default,,0,0,0,,{\i1}She's really here.
+Dialogue: 0,0:07:51.27,0:07:52.45,Default,,0,0,0,,Excuse me...
+Dialogue: 0,0:07:53.95,0:07:55.16,Default,,0,0,0,,E-Excuse me!
+Dialogue: 0,0:07:56.17,0:07:59.40,Default,,0,0,0,,You're Kawaragi Momoka, right?
+Dialogue: 0,0:07:59.40,0:07:59.96,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:08:00.32,0:08:02.03,Default,,0,0,0,,I'm a huge fan of yours.
+Dialogue: 0,0:08:02.03,0:08:03.62,Default,,0,0,0,,Of Diamond Dust,
+Dialogue: 0,0:08:04.09,0:08:05.32,Default,,0,0,0,,and you personally.
+Dialogue: 0,0:08:06.07,0:08:07.09,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:08:07.68,0:08:08.53,Default,,0,0,0,,Um...
+Dialogue: 0,0:08:08.53,0:08:11.31,Default,,0,0,0,,I really, really like your songs.
+Dialogue: 0,0:08:11.31,0:08:14.04,Default,,0,0,0,,I moved here to Tokyo from the countryside today.
+Dialogue: 0,0:08:14.04,0:08:16.48,Default,,0,0,0,,Your songs gave me the strength to take this step. {consider alternatives maybe}
+Dialogue: 0,0:08:16.84,0:08:17.97,Default,,0,0,0,,I see.
+Dialogue: 0,0:08:17.97,0:08:19.32,Default,,0,0,0,,I really mean it!
+Dialogue: 0,0:08:19.32,0:08:20.30,Default,,0,0,0,,I really do.
+Dialogue: 0,0:08:20.69,0:08:24.23,Default,,0,0,0,,I think I've listened to your songs over a thousand times by now.
+Dialogue: 0,0:08:24.50,0:08:28.49,Default,,0,0,0,,I saw on the internet that you were going to perform here today...
+Dialogue: 0,0:08:28.67,0:08:30.07,Default,,0,0,0,,Thought it was fate.
+Dialogue: 0,0:08:30.49,0:08:32.74,Default,,0,0,0,,Wanna buy my CD, then?
+Dialogue: 0,0:08:32.93,0:08:35.08,Default,,0,0,0,,Oh, of course!
+Dialogue: 0,0:08:36.39,0:08:37.50,Default,,0,0,0,,One thousand yen...
+Dialogue: 0,0:08:39.64,0:08:40.39,Default,,0,0,0,,There.
+Dialogue: 0,0:08:41.29,0:08:42.63,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:08:44.28,0:08:46.38,Default,,0,0,0,,That ain't a thousand...{dialect}
+Dialogue: 0,0:08:48.90,0:08:50.60,Default,,0,0,0,,And that's {\i1}your{\i0} problem?
+Dialogue: 0,0:08:50.60,0:08:54.41,Default,,0,0,0,,Huh? Did I say something dumb?
+Dialogue: 0,0:08:55.68,0:08:56.95,Default,,0,0,0,,Not really.
+Dialogue: 0,0:08:56.95,0:08:59.53,Default,,0,0,0,,I'm just happy to have a fan like you.
+Dialogue: 0,0:08:59.53,0:09:00.77,Default,,0,0,0,,Warms my heart.
+Dialogue: 0,0:09:03.24,0:09:04.40,Default,,0,0,0,,You there.
+Dialogue: 0,0:09:07.79,0:09:09.48,Default,,0,0,0,,Didn't hear me last time? {Previous was totally fine, but this feels a bit more threatening/punk-y. Additional thoughts if we feel implied physical confrontation previously, like "Didn't get it through your head last time?" -B}
+Dialogue: 0,0:09:09.48,0:09:12.28,Default,,0,0,0,,This is {\i1}our{\i0} spot, little girl.
+Dialogue: 0,0:09:13.33,0:09:15.53,Default,,0,0,0,,Should've put your name on it, then.
+Dialogue: 0,0:09:15.87,0:09:18.29,Default,,0,0,0,,Point is: get out of here.
+Dialogue: 0,0:09:22.32,0:09:23.20,Default,,0,0,0,,Come on.
+Dialogue: 0,0:09:24.13,0:09:25.27,Default,,0,0,0,,O-Okay!
+Dialogue: 0,0:09:25.55,0:09:26.05,Default,,0,0,0,,Hey!
+Dialogue: 0,0:09:31.30,0:09:32.83,Default,,0,0,0,,You little...
+Dialogue: 0,0:09:32.83,0:09:33.76,Default,,0,0,0,,Run!
+Dialogue: 0,0:09:34.20,0:09:36.31,Default,,0,0,0,,You're dead!
+Dialogue: 0,0:09:38.03,0:09:39.95,Default,,0,0,0,,Why me, though?
+Dialogue: 0,0:09:39.95,0:09:41.54,Default,,0,0,0,,Oh, actually, you're right.
+Dialogue: 0,0:09:41.54,0:09:45.01,Default,,0,0,0,,We just need to explain you're a random person who was passing by. {"random"+"happened to" felt overemphasized}
+Dialogue: 0,0:09:45.01,0:09:46.02,Default,,0,0,0,,They'll probably...
+Dialogue: 0,0:09:46.02,0:09:47.56,Default,,0,0,0,,Stop right there!
+Dialogue: 0,0:09:47.56,0:09:48.70,Default,,0,0,0,,...not let you go, actually.
+Dialogue: 0,0:09:49.36,0:09:50.15,Default,,0,0,0,,This way!
+Dialogue: 0,0:09:51.64,0:09:52.55,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:10:00.64,0:10:01.66,Default,,0,0,0,,Jackass. {The fact that she's also flipping the bird makes it feel like it warrants something more vulgar than "idiot"}
+Dialogue: 0,0:10:02.15,0:10:04.67,Default,,0,0,0,,What does that gesture mean?
+Dialogue: 0,0:10:04.67,0:10:06.52,Default,,0,0,0,,"Thank you."
+Dialogue: 0,0:10:06.52,0:10:09.25,Default,,0,0,0,,Why were they so angry, then?
+Dialogue: 0,0:10:11.13,0:10:12.17,Default,,0,0,0,,What's your name?
+Dialogue: 0,0:10:13.24,0:10:14.43,Default,,0,0,0,,Nina.
+Dialogue: 0,0:10:15.16,0:10:16.39,Default,,0,0,0,,Iseri Nina.
+Dialogue: 0,0:10:18.17,0:10:20.06,Default,,0,0,0,,Kawasaki and Shin-Kawasaki?
+Dialogue: 0,0:10:20.34,0:10:24.43,Default,,0,0,0,,Yeah. Normally you'd expect Kawasaki to be next after Shin-Kawasaki, right?
+Dialogue: 0,0:10:24.43,0:10:25.66,Default,,0,0,0,,But turns out it wasn't...
+Dialogue: 0,0:10:25.66,0:10:27.42,Default,,0,0,0,,Should've checked the map.
+Dialogue: 0,0:10:27.42,0:10:29.44,Default,,0,0,0,,My phone battery died.
+Dialogue: 0,0:10:29.78,0:10:31.69,Default,,0,0,0,,And that's how you missed getting the keys?
+Dialogue: 0,0:10:31.92,0:10:36.48,Default,,0,0,0,,My uncle told me Kawasaki was the easiest to settle into if I wanted to live in Tokyo.
+Dialogue: 0,0:10:36.48,0:10:37.83,Default,,0,0,0,,So much for that.{Could see "Didn't really work out that way" depending on how much face we imagine she's giving her uncle}
+Dialogue: 0,0:10:37.83,0:10:38.70,Default,,0,0,0,,Tokyo?
+Dialogue: 0,0:10:38.70,0:10:39.70,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:10:39.94,0:10:41.94,Default,,0,0,0,,Kawasaki isn't part of Tokyo.
+Dialogue: 0,0:10:41.94,0:10:43.94,Default,,0,0,0,,Technically, it's in Kanagawa. {Changed this and following to be a bit more casual/breezy, which is the vibe I'm getting from Momoka. If it doesn't fit here, let me know, but the originals seemed pretty stiff to me -B}
+Dialogue: 0,0:10:43.94,0:10:45.13,Default,,0,0,0,,Same as Yokohama.
+Dialogue: 0,0:10:45.13,0:10:47.82,Default,,0,0,0,,What? I was told it was on the edge of Tokyo.
+Dialogue: 0,0:10:47.82,0:10:50.94,Default,,0,0,0,,Your uncle and the agency fooled you.
+Dialogue: 0,0:10:50.94,0:10:53.22,Default,,0,0,0,,I bet they gave you a place no one else wanted.
+Dialogue: 0,0:10:53.65,0:10:56.00,Default,,0,0,0,,So {\i1}that's{\i0} why the rent is so cheap…
+Dialogue: 0,0:10:56.00,0:10:58.70,Default,,0,0,0,,I actually think Kawasaki is a nice place, though.
+Dialogue: 0,0:10:58.70,0:11:00.03,Default,,0,0,0,,I agree.
+Dialogue: 0,0:11:00.03,0:11:02.32,Default,,0,0,0,,I only met you because I came here.
+Dialogue: 0,0:11:02.32,0:11:06.09,Default,,0,0,0,,I have a ticket for a Diamond Dust concert in my hometown that got canceled.
+Dialogue: 0,0:11:06.09,0:11:07.46,Default,,0,0,0,,I carry it with me as a charm.
+Dialogue: 0,0:11:07.82,0:11:09.92,Default,,0,0,0,,Could you maybe sign it for me?
+Dialogue: 0,0:11:11.73,0:11:13.24,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:11:13.46,0:11:15.24,Default,,0,0,0,,Here, your medium beef bowl.
+Dialogue: 0,0:11:16.45,0:11:17.57,Default,,0,0,0,,So this is a... beef bowl!
+Dialogue: 0,0:11:17.57,0:11:18.12,Default,,0,0,0,shenan,So this is a... {\fs+2}beef {\r}bowl!
+Dialogue: 0,0:11:18.12,0:11:19.24,Default,,0,0,0,,So this is a... {\fs+2}beef bowl!
+Dialogue: 0,0:11:19.61,0:11:21.13,Default,,0,0,0,,What, never had it before?
+Dialogue: 0,0:11:21.13,0:11:22.40,Default,,0,0,0,,What planet did you come from?{Living under a rock is a binary state, generally, so it's an awkward use when the question is phrased as if there were multiple possible "rocks". You can say "What rock have you been living under?" but I do think planet lands better here. -B}
+Dialogue: 0,0:11:22.40,0:11:23.53,Default,,0,0,0,,Kumamoto.
+Dialogue: 0,0:11:23.53,0:11:25.35,Default,,0,0,0,,No beef bowl places there?
+Dialogue: 0,0:11:25.35,0:11:26.25,Default,,0,0,0,,There are!
+Dialogue: 0,0:11:26.25,0:11:30.80,Default,,0,0,0,,But my family rules included always eating all meals at home.
+Dialogue: 0,0:11:31.17,0:11:32.38,Default,,0,0,0,,Wait a sec...
+Dialogue: 0,0:11:32.60,0:11:33.93,Default,,0,0,0,,Are you from a rich home?
+Dialogue: 0,0:11:33.93,0:11:36.03,Default,,0,0,0,,I wouldn't really call my family rich...
+Dialogue: 0,0:11:38.17,0:11:39.01,Default,,0,0,0,,It's so good!
+Dialogue: 0,0:11:39.30,0:11:41.39,Default,,0,0,0,,How? How is it this good?!
+Dialogue: 0,0:11:41.39,0:11:42.72,Default,,0,0,0,,I'm glad you're enjoying it.
+Dialogue: 0,0:11:42.72,0:11:43.67,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:11:45.53,0:11:47.08,Default,,0,0,0,,It was delicious, thank you.
+Dialogue: 0,0:11:49.22,0:11:51.02,Default,,0,0,0,,The last train'll be leaving soon.
+Dialogue: 0,0:11:51.44,0:11:52.88,Default,,0,0,0,,What's your plan?
+Dialogue: 0,0:11:52.88,0:11:54.29,Default,,0,0,0,,I'll figure something out.
+Dialogue: 0,0:11:54.79,0:11:56.03,Default,,0,0,0,,So you don't have a plan.
+Dialogue: 0,0:11:59.01,0:12:00.03,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:12:00.37,0:12:01.56,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:12:01.56,0:12:03.24,Default,,0,0,0,,I'm covering both meals, it's on the counter!
+Dialogue: 0,0:12:03.86,0:12:05.63,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:12:06.70,0:12:09.54,Default,,0,0,0,,I might not seem like it, but I do care for my fans.
+Dialogue: 0,0:12:12.23,0:12:13.71,Default,,0,0,0,,It was quite delicious.
+Dialogue: 0,0:12:14.11,0:12:16.05,Default,,0,0,0,,Thank you so much!
+Dialogue: 0,0:12:16.28,0:12:17.91,Default,,0,0,0,,You wanna fight?
+Dialogue: 0,0:12:17.91,0:12:19.80,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:12:21.27,0:12:23.76,Default,,0,0,0,,You told me it meant "thank you"!
+Dialogue: 0,0:12:23.76,0:12:25.44,Default,,0,0,0,,It's like, the complete opposite!
+Dialogue: 0,0:12:25.44,0:12:26.56,Default,,0,0,0,,I'm sorry, really.
+Dialogue: 0,0:12:27.07,0:12:28.69,Default,,0,0,0,,Here?
+Dialogue: 0,0:12:28.69,0:12:30.67,Default,,0,0,0,,It'll be cold inside, just as a heads up.
+Dialogue: 0,0:12:30.67,0:12:32.84,Default,,0,0,0,,The heating here doesn't work.
+Dialogue: 0,0:12:32.84,0:12:34.64,Default,,0,0,0,,Do you live with family?
+Dialogue: 0,0:12:34.64,0:12:36.16,Default,,0,0,0,,Nope, no one's here.{maybe shenan -p}
+Dialogue: 0,0:12:38.55,0:12:41.21,Default,,0,0,0,,It'll take me a bit to take these off, so go on ahead.
+Dialogue: 0,0:12:41.21,0:12:42.32,Default,,0,0,0,,It's the room at the end.
+Dialogue: 0,0:12:42.65,0:12:44.16,Default,,0,0,0,,A-Alright.
+Dialogue: 0,0:12:51.64,0:12:53.76,Default,,0,0,0,,The light switch's on your left!
+Dialogue: 0,0:13:01.20,0:13:02.57,Default,,0,0,0,,You okay with cats?
+Dialogue: 0,0:13:02.57,0:13:03.20,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:13:04.07,0:13:05.09,Default,,0,0,0,,Sit down.
+Dialogue: 0,0:13:05.09,0:13:06.96,Default,,0,0,0,,I'll make us some coffee.
+Dialogue: 0,0:13:06.96,0:13:08.32,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:13:10.23,0:13:11.48,Default,,0,0,0,,It's so cool!
+Dialogue: 0,0:13:11.48,0:13:12.79,Default,,0,0,0,,What, can you play?
+Dialogue: 0,0:13:12.79,0:13:14.11,Default,,0,0,0,,Absolutely not.
+Dialogue: 0,0:13:14.11,0:13:15.98,Default,,0,0,0,,But I've always wanted to.
+Dialogue: 0,0:13:16.46,0:13:17.88,Default,,0,0,0,,Wanna try holding it?
+Dialogue: 0,0:13:17.88,0:13:18.99,Default,,0,0,0,,Can I?
+Dialogue: 0,0:13:21.21,0:13:22.24,Default,,0,0,0,,There you go.
+Dialogue: 0,0:13:23.93,0:13:25.49,Default,,0,0,0,,It's heavier than I thought.
+Dialogue: 0,0:13:25.77,0:13:27.32,Default,,0,0,0,,Looking pretty awkward there.
+Dialogue: 0,0:13:28.24,0:13:29.25,Default,,0,0,0,,Of course I am.
+Dialogue: 0,0:13:29.47,0:13:30.86,Default,,0,0,0,,Come on, I was teasing you!
+Dialogue: 0,0:13:30.86,0:13:34.00,Default,,0,0,0,,Just need to get used to it and you'll look super cool.
+Dialogue: 0,0:13:34.23,0:13:36.14,Default,,0,0,0,,Aren't you still in high school?
+Dialogue: 0,0:13:36.14,0:13:38.57,Default,,0,0,0,,Well, I'm seventeen.
+Dialogue: 0,0:13:38.57,0:13:41.22,Default,,0,0,0,,I'd be in my last year if I actually went to school.
+Dialogue: 0,0:13:43.69,0:13:44.99,Default,,0,0,0,,Sugar?
+Dialogue: 0,0:13:44.99,0:13:46.26,Default,,0,0,0,,Yes, please.
+Dialogue: 0,0:13:46.49,0:13:49.27,Default,,0,0,0,,I was exactly your age
+Dialogue: 0,0:13:49.27,0:13:52.52,Default,,0,0,0,,when I quit school and came here with my friends.
+Dialogue: 0,0:13:52.75,0:13:54.67,Default,,0,0,0,,It's already been three years, huh?
+Dialogue: 0,0:13:54.67,0:13:57.44,Default,,0,0,0,,Wait, you're only twenty?
+Dialogue: 0,0:13:57.44,0:13:59.78,Default,,0,0,0,,That doesn't really feel like a compliment.
+Dialogue: 0,0:14:00.18,0:14:02.80,Default,,0,0,0,,You know, it might really be that fate brought us together.
+Dialogue: 0,0:14:02.80,0:14:04.46,Default,,0,0,0,,Yeah! For real!
+Dialogue: 0,0:14:05.16,0:14:05.78,Default,,0,0,0,,So...
+Dialogue: 0,0:14:06.04,0:14:08.04,Default,,0,0,0,,You only came here today, right?
+Dialogue: 0,0:14:08.04,0:14:09.00,Default,,0,0,0,,Yes.
+Dialogue: 0,0:14:09.00,0:14:10.29,Default,,0,0,0,,Um, if you could...
+Dialogue: 0,0:14:10.50,0:14:12.52,Default,,0,0,0,,I'm going back home tomorrow.
+Dialogue: 0,0:14:12.52,0:14:13.67,Default,,0,0,0,,To Asahikawa.
+Dialogue: 0,0:14:14.98,0:14:16.46,Default,,0,0,0,,{\i1}Girls Band Cry.
+Dialogue: 0,0:14:18.12,0:14:19.05,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:14:19.28,0:14:21.84,Default,,0,0,0,,I'm moving out of here.
+Dialogue: 0,0:14:21.84,0:14:23.31,Default,,0,0,0,,I'm going home
+Dialogue: 0,0:14:23.31,0:14:24.80,Default,,0,0,0,,and quitting music.
+Dialogue: 0,0:14:25.80,0:14:27.21,Default,,0,0,0,,But why?
+Dialogue: 0,0:14:27.21,0:14:29.93,Default,,0,0,0,,Your songs are so good, why would you stop?
+Dialogue: 0,0:14:30.87,0:14:31.95,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:14:31.95,0:14:32.94,Default,,0,0,0,,Try your coffee.
+Dialogue: 0,0:14:34.71,0:14:35.69,Default,,0,0,0,,Momoka, please.
+Dialogue: 0,0:14:35.91,0:14:37.11,Default,,0,0,0,,It's all settled already.
+Dialogue: 0,0:14:37.11,0:14:38.95,Default,,0,0,0,,My music wasn't selling, y'know.
+Dialogue: 0,0:14:38.95,0:14:42.19,Default,,0,0,0,,Can't live off concerts and music sales alone.
+Dialogue: 0,0:14:42.19,0:14:44.45,Default,,0,0,0,,You end up working shift after shift after shift.
+Dialogue: 0,0:14:44.93,0:14:47.79,Default,,0,0,0,,But you're the one that wrote {\i1}Void{\i0}, right?
+Dialogue: 0,0:14:47.79,0:14:49.58,Default,,0,0,0,,It has so many views...
+Dialogue: 0,0:14:52.31,0:14:53.82,Default,,0,0,0,,Wellll, it's not mine anymore.
+Dialogue: 0,0:14:53.82,0:14:54.60,Default,,0,0,0,,What?
+Dialogue: 0,0:14:54.60,0:14:57.19,Default,,0,0,0,,I don't have the rights to that song anymore.
+Dialogue: 0,0:15:00.30,0:15:01.40,Default,,0,0,0,,Tell me more.
+Dialogue: 0,0:15:02.29,0:15:03.29,Default,,0,0,0,,Details, please.
+Dialogue: 0,0:15:03.29,0:15:04.84,Default,,0,0,0,,Nothing for you to worry about.
+Dialogue: 0,0:15:05.08,0:15:05.96,Default,,0,0,0,,Tell me, please!
+Dialogue: 0,0:15:05.96,0:15:08.54,Default,,0,0,0,,{\i1}You{\i0} wrote that song, Momoka. Am I wrong?
+Dialogue: 0,0:15:08.54,0:15:10.85,Default,,0,0,0,,There's no way you can change that! {It's not like you can change that fact.}
+Dialogue: 0,0:15:11.13,0:15:12.05,Default,,0,0,0,,Of course you can!
+Dialogue: 0,0:15:12.05,0:15:13.22,Default,,0,0,0,,No, you can't!
+Dialogue: 0,0:15:13.85,0:15:14.62,Default,,0,0,0,,You can.
+Dialogue: 0,0:15:14.62,0:15:15.37,Default,,0,0,0,,You cannot!
+Dialogue: 0,0:15:15.37,0:15:16.06,Default,,0,0,0,,You can.
+Dialogue: 0,0:15:16.06,0:15:16.85,Default,,0,0,0,,No, you can't!
+Dialogue: 0,0:15:17.40,0:15:18.67,Default,,0,0,0,,You're so stubborn.
+Dialogue: 0,0:15:18.67,0:15:20.04,Default,,0,0,0,,Just like the stereotype.
+Dialogue: 0,0:15:20.04,0:15:21.31,Default,,0,0,0,,What else didya expect?{dialect}
+Dialogue: 0,0:15:23.75,0:15:24.99,Default,,0,0,0,,Stop that, please.
+Dialogue: 0,0:15:27.97,0:15:28.87,Default,,0,0,0,,Don't.
+Dialogue: 0,0:15:30.08,0:15:31.03,Default,,0,0,0,,Jeez.
+Dialogue: 0,0:15:31.03,0:15:34.01,Default,,0,0,0,,What happened to the little lost lamb from before?
+Dialogue: 0,0:15:34.01,0:15:34.87,Default,,0,0,0,,I don't get it.
+Dialogue: 0,0:15:35.08,0:15:36.64,Default,,0,0,0,,It's because that song's...
+Dialogue: 0,0:15:38.72,0:15:40.30,Default,,0,0,0,,Evening.
+Dialogue: 0,0:15:40.30,0:15:41.71,Default,,0,0,0,,Good evening...
+Dialogue: 0,0:15:41.71,0:15:44.94,Default,,0,0,0,,{\q2}Don't make too much noise,\N or the neighbors will complain again.
+Dialogue: 0,0:15:44.94,0:15:47.26,Default,,0,0,0,,You're going out at this hour?
+Dialogue: 0,0:15:48.70,0:15:49.60,Default,,0,0,0,,Who was that?
+Dialogue: 0,0:15:49.60,0:15:50.72,Default,,0,0,0,,He's my...
+Dialogue: 0,0:15:50.94,0:15:51.93,Default,,0,0,0,,B-Boyfriend?
+Dialogue: 0,0:15:51.93,0:15:53.14,Default,,0,0,0,,Your boyfriend, right?
+Dialogue: 0,0:15:53.14,0:15:53.97,Default,,0,0,0,,Y-Y-You're living toge—
+Dialogue: 0,0:15:54.81,0:15:57.41,Default,,0,0,0,,Calm. The. Hell. Down.
+Dialogue: 0,0:15:57.41,0:15:58.46,Default,,0,0,0,,Roommate.
+Dialogue: 0,0:15:58.46,0:15:59.53,Default,,0,0,0,,He's my roommate.
+Dialogue: 0,0:15:59.53,0:16:02.22,Default,,0,0,0,,I couldn't afford a place this big on my own.
+Dialogue: 0,0:16:02.22,0:16:04.23,Default,,0,0,0,,But he's a guy!
+Dialogue: 0,0:16:04.50,0:16:05.02,Default,,0,0,0,,Correct.
+Dialogue: 0,0:16:05.02,0:16:06.95,Default,,0,0,0,,But, he's into guys.
+Dialogue: 0,0:16:06.95,0:16:09.72,Default,,0,0,0,,He's probably heading over to his boyfriend's to stay the night.
+Dialogue: 0,0:16:09.72,0:16:10.81,Default,,0,0,0,,Boyfriend's?
+Dialogue: 0,0:16:13.44,0:16:14.83,Default,,0,0,0,,My gosh!{dialect}
+Dialogue: 0,0:16:14.83,0:16:16.92,Default,,0,0,0,,Tokyo's just insane!{dialect}
+Dialogue: 0,0:16:16.92,0:16:17.75,Default,,0,0,0,,Kawasaki.
+Dialogue: 0,0:16:18.07,0:16:20.59,Default,,0,0,0,,{\q2}We have our own rooms, \Nand rarely run into each other.
+Dialogue: 0,0:16:20.59,0:16:22.49,Default,,0,0,0,,I barely notice that he lives here too.
+Dialogue: 0,0:16:22.49,0:16:23.25,Default,,0,0,0,,But...
+Dialogue: 0,0:16:23.46,0:16:27.00,Default,,0,0,0,,{\q2}You should consider sharing\N a place with someone too, you know.
+Dialogue: 0,0:16:27.00,0:16:28.91,Default,,0,0,0,,In a city this big,
+Dialogue: 0,0:16:28.91,0:16:31.51,Default,,0,0,0,,you'll end up working two jobs \Nto afford living alone.
+Dialogue: 0,0:16:31.75,0:16:32.81,Default,,0,0,0,,What's your rent?
+Dialogue: 0,0:16:33.22,0:16:34.01,Default,,0,0,0,,50,000 yen.
+Dialogue: 0,0:16:34.31,0:16:35.30,Default,,0,0,0,,Your income?
+Dialogue: 0,0:16:35.30,0:16:37.74,Default,,0,0,0,,I'll get a job, but haven't looked into it yet.
+Dialogue: 0,0:16:37.74,0:16:39.97,Default,,0,0,0,,Are you sure you're gonna be okay?
+Dialogue: 0,0:16:39.97,0:16:41.54,Default,,0,0,0,,I have some savings.
+Dialogue: 0,0:16:41.54,0:16:44.40,Default,,0,0,0,,And I did get some money from my parents.
+Dialogue: 0,0:16:44.61,0:16:46.90,Default,,0,0,0,,Ah, you've got it easy, then.
+Dialogue: 0,0:16:46.90,0:16:49.19,Default,,0,0,0,,You can do whatever you want.
+Dialogue: 0,0:16:49.19,0:16:50.71,Default,,0,0,0,,In a city like this, having money lets you—
+Dialogue: 0,0:16:50.71,0:16:53.70,Default,,0,0,0,,Sorry, but what do you know about me?
+Dialogue: 0,0:16:56.25,0:16:57.91,Default,,0,0,0,,You say I've got it easy.
+Dialogue: 0,0:16:57.91,0:16:59.67,Default,,0,0,0,,But you've got no idea what I struggle with!
+Dialogue: 0,0:17:00.00,0:17:01.75,Default,,0,0,0,,Thank you for the coffee.
+Dialogue: 0,0:17:01.75,0:17:02.96,Default,,0,0,0,,Sorry to bother you.
+Dialogue: 0,0:17:14.63,0:17:15.93,Default,,0,0,0,,Nina, wait!
+Dialogue: 0,0:17:16.70,0:17:18.71,Default,,0,0,0,,You're really fast.
+Dialogue: 0,0:17:21.92,0:17:23.69,Default,,0,0,0,,I'm sorry. I wasn't thinking.
+Dialogue: 0,0:17:24.17,0:17:27.66,Default,,0,0,0,,{\q2}You quit school at such a young age\N and came here all alone.
+Dialogue: 0,0:17:28.42,0:17:29.95,Default,,0,0,0,,No way you've got it easy.
+Dialogue: 0,0:17:30.89,0:17:32.27,Default,,0,0,0,,Do you have a dream?
+Dialogue: 0,0:17:32.71,0:17:35.02,Default,,0,0,0,,Nothing in particular, really.
+Dialogue: 0,0:17:35.02,0:17:36.20,Default,,0,0,0,,Surely you do.
+Dialogue: 0,0:17:37.05,0:17:39.52,Default,,0,0,0,,I didn't come here for a dream.
+Dialogue: 0,0:17:39.94,0:17:42.46,Default,,0,0,0,,I just felt like there wasn't a place for me.
+Dialogue: 0,0:17:42.76,0:17:44.64,Default,,0,0,0,,I didn't do anything wrong,
+Dialogue: 0,0:17:44.64,0:17:47.61,Default,,0,0,0,,but it seemed like everyone thought otherwise.
+Dialogue: 0,0:17:47.61,0:17:49.46,Default,,0,0,0,,I didn't want to lay down and take it.
+Dialogue: 0,0:17:49.78,0:17:50.90,Default,,0,0,0,,I see.
+Dialogue: 0,0:17:50.90,0:17:52.88,Default,,0,0,0,,All the more reason to apologize.
+Dialogue: 0,0:17:53.58,0:17:55.47,Default,,0,0,0,,And what about you?
+Dialogue: 0,0:17:55.69,0:17:56.84,Default,,0,0,0,,What's your story?
+Dialogue: 0,0:17:57.17,0:17:59.20,Default,,0,0,0,,Why are you going back to Asahikawa?
+Dialogue: 0,0:17:59.20,0:18:01.25,Default,,0,0,0,,It wasn't anything in particular.
+Dialogue: 0,0:18:01.25,0:18:02.96,Default,,0,0,0,,We had a disagreement and disbanded.
+Dialogue: 0,0:18:04.30,0:18:06.23,Default,,0,0,0,,You mean Diamond Dust did?
+Dialogue: 0,0:18:06.54,0:18:08.71,Default,,0,0,0,,Yep. And as we were sorting out the details,
+Dialogue: 0,0:18:08.71,0:18:11.24,Default,,0,0,0,,the problem of song ownership came up.
+Dialogue: 0,0:18:11.72,0:18:14.96,Default,,0,0,0,,{\q2}The other members said\N they were gonna continue without me, so...
+Dialogue: 0,0:18:15.36,0:18:16.62,Default,,0,0,0,,You just gave them the song?
+Dialogue: 0,0:18:16.82,0:18:19.00,Default,,0,0,0,,I could write another one any time.
+Dialogue: 0,0:18:19.00,0:18:21.80,Default,,0,0,0,,Or, that's what I thought back then.
+Dialogue: 0,0:18:23.12,0:18:23.87,Default,,0,0,0,,What?
+Dialogue: 0,0:18:25.51,0:18:27.63,Default,,0,0,0,,You're such a softie, Momoka.
+Dialogue: 0,0:18:28.32,0:18:31.38,Default,,0,0,0,,But I think you're really cool, too.
+Dialogue: 0,0:18:33.45,0:18:34.99,Default,,0,0,0,,Ah! Take it easy!{dialect}
+Dialogue: 0,0:18:34.99,0:18:36.39,Default,,0,0,0,,Oh, you're blushing.
+Dialogue: 0,0:18:36.39,0:18:37.18,Default,,0,0,0,,I'm not!
+Dialogue: 0,0:18:37.18,0:18:40.14,Default,,0,0,0,,You're gonna completely ruin my hair!{dialect}
+Dialogue: 0,0:18:44.38,0:18:45.73,Default,,0,0,0,,Wanna do some karaoke?
+Dialogue: 0,0:18:46.08,0:18:47.15,Default,,0,0,0,,Like, right now?
+Dialogue: 0,0:18:52.36,0:18:54.65,Default,,0,0,0,,You know some pretty old songs, huh?
+Dialogue: 0,0:18:54.85,0:18:56.66,Default,,0,0,0,,My grandma listened to them a lot.
+Dialogue: 0,0:18:56.87,0:18:59.66,Default,,0,0,0,,{\q2}And you ended up liking Diamond Dust songs?
+Dialogue: 0,0:18:59.97,0:19:00.82,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:19:00.82,0:19:03.66,Default,,0,0,0,,I found them while I was at rock bottom.
+Dialogue: 0,0:19:03.92,0:19:07.67,Default,,0,0,0,,{\q2}It felt like they were shouting \N all the things I had bottled up.
+Dialogue: 0,0:19:09.45,0:19:11.03,Default,,0,0,0,,They told me to stay strong.
+Dialogue: 0,0:19:11.90,0:19:13.66,Default,,0,0,0,,To me, they're my life's soundtrack.
+Dialogue: 0,0:19:18.53,0:19:21.38,Default,,0,0,0,,What I sang earlier today was the last of it, for me.
+Dialogue: 0,0:19:21.38,0:19:24.81,Default,,0,0,0,,The last Diamond Dust song I'll ever sing.
+Dialogue: 0,0:19:25.97,0:19:26.88,Default,,0,0,0,,I...
+Dialogue: 0,0:19:26.88,0:19:28.44,Default,,0,0,0,,Okay, next!
+Dialogue: 0,0:19:39.01,0:19:40.56,Default,,0,0,0,,Ow.
+Dialogue: 0,0:19:42.84,0:19:44.45,Default,,0,0,0,,Oh, it's just the cat.
+Dialogue: 0,0:19:45.66,0:19:46.60,Default,,0,0,0,,{\i1}Good morning.
+Dialogue: 0,0:19:46.98,0:19:49.86,Default,,0,0,0,,{\i1}When you read this letter, \NI'll probably be gone already.
+Dialogue: 0,0:19:49.86,0:19:51.79,Default,,0,0,0,,{\i1}The movers ought to be there, too.
+Dialogue: 0,0:19:52.39,0:19:54.90,Default,,0,0,0,,{\i1}I'm gonna pick up my paycheck,
+Dialogue: 0,0:19:54.90,0:19:57.04,Default,,0,0,0,,{\i1}wander around a bit, then take the train home.
+Dialogue: 0,0:19:57.56,0:19:58.22,Default,,0,0,0,,{\i1}Also,
+Dialogue: 0,0:19:58.91,0:20:01.25,Default,,0,0,0,,{\i1}I'm leaving you my guitar.
+Dialogue: 0,0:20:02.31,0:20:04.72,Default,,0,0,0,,Enjoy your life in Tokyo!
+Dialogue: 0,0:20:07.89,0:20:09.10,Default,,0,0,0,,I'm sorry!
+Dialogue: 0,0:20:09.10,0:20:10.41,Default,,0,0,0,,I'll unlock it for you.
+Dialogue: 0,0:20:11.36,0:20:14.17,Default,,0,0,0,,Yes! Thank you for bringing it all in.
+Dialogue: 0,0:20:35.12,0:20:36.63,Default,,0,0,0,,I'll be right back!
+Dialogue: 0,0:20:57.88,0:20:58.78,Default,,0,0,0,,Momoka...
+Dialogue: 0,0:20:59.24,0:21:00.53,Default,,0,0,0,,Momoka.
+Dialogue: 0,0:21:02.58,0:21:03.66,Default,,0,0,0,,Momoka...
+Dialogue: 0,0:21:03.84,0:21:05.06,Default,,0,0,0,,Momoka!
+Dialogue: 0,0:21:12.15,0:21:13.12,Default,,0,0,0,,Excuse me for a bit.
+Dialogue: 0,0:21:13.12,0:21:14.80,Default,,0,0,0,,Hey, you can't just...
+Dialogue: 0,0:21:15.08,0:21:17.55,Default,,0,0,0,,Momoka. Momoka!
+Dialogue: 0,0:21:18.00,0:21:19.77,Default,,0,0,0,,Are you really okay with this?
+Dialogue: 0,0:21:19.77,0:21:22.40,Default,,0,0,0,,Once you leave, there's no turning back!
+Dialogue: 0,0:21:22.72,0:21:25.06,Default,,0,0,0,,It really doesn't have to be the end!
+Dialogue: 0,0:21:25.06,0:21:27.56,Default,,0,0,0,,But if you give up now, it'll be truly over!
+Dialogue: 0,0:21:28.31,0:21:29.60,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:21:29.90,0:21:31.40,Default,,0,0,0,,I know I'm being stubborn right now!
+Dialogue: 0,0:21:31.40,0:21:34.00,Default,,0,0,0,,Maybe I shouldn't be saying this, but who cares!
+Dialogue: 0,0:21:34.00,0:21:37.07,Default,,0,0,0,,I came here because I didn't want to lay down and take it!
+Dialogue: 0,0:21:37.53,0:21:40.31,Default,,0,0,0,,And I don't want you to have to take it either, Momoka!
+Dialogue: 0,0:21:40.31,0:21:41.33,Default,,0,0,0,,Please.
+Dialogue: 0,0:21:42.02,0:21:42.86,Default,,0,0,0,,Please...
+Dialogue: 0,0:21:44.45,0:21:48.54,Default,,0,0,0,,flip 'em off with me!
+Dialogue: 0,0:22:00.93,0:22:02.36,Default,,0,0,0,,You can sing, right?
+Dialogue: 0,0:22:05.04,0:22:05.72,Default,,0,0,0,,Of course!
+Dialogue: 0,0:23:47.07,0:23:50.08,Default,,0,0,0,,{\an8}Next time: "Three Nocturnal Creatures".
+Dialogue: 0,0:00:11.03,0:00:16.70,MarySigns,disclaimer,0,0,0,,{\q2\blur0.5\fnMaruFoPro-Medium\fs45\shad0.01\alpha&HFF&\4c&HFFFFFF&\4a&HEC&\t(23,523,\4a&H00&)\t(5153,5653,\4a&HED&)\ko0\bord0.3\pos(1189,924.67)}This is a work of fiction. Any resemblance to real people, \Norganizations, names, laws, or locations is purely coincidental.
+Dialogue: 0,0:03:51.59,0:03:52.21,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur7\fs95\fsp-1\fscy115\alpha&HFF&\4a&H50&\ko0\shad0.01\4c&HDEFDFF&\bord0.5\pos(1561,888.67)}Tokyo Hype
+Dialogue: 1,0:03:51.59,0:03:52.21,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur5\fs95\fsp-1\fscy115\alpha&HFF&\4a&HA0&\ko0\xshad-2.5\yshad1\4c&H60669E&\bord0.5\pos(1561,888.67)}Tokyo Hype
+Dialogue: 2,0:03:51.59,0:03:52.21,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur1\fs95\fsp-1\fscy115\alpha&HFF&\4a&H50&\ko0\xshad-2.5\yshad1\4c&H60669E&\bord0.5\pos(1561,888.67)}Tokyo Hype
+Dialogue: 3,0:03:51.59,0:03:52.21,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur5\fs95\fsp-1\fscy115\alpha&HFF&\4a&HA0&\ko0\xshad0#7DC9B7.5\yshad-0.5\4c&HB7C97D&\bord0.5\pos(1561,888.67)}Tokyo Hype
+Dialogue: 4,0:03:51.59,0:03:52.21,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur1\fs95\fsp-1\fscy115\alpha&HFF&\4a&H50&\ko0\xshad0#7DC9B7.5\yshad-0.5\4c&HB7C97D&\bord0.5\pos(1561,888.67)}Tokyo Hype
+Dialogue: 5,0:03:51.59,0:03:52.21,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur0.6\fs95\fsp-1\fscy115\alpha&HFF&\4a&H00&\ko0\shad0.01\4c&HFEFFFF&\bord0.5\pos(1561,888.67)}Tokyo Hype
+Dialogue: 6,0:03:51.59,0:03:52.21,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur5\fs95\fsp-1\fscy115\alpha&HFF&\4a&HA0&\ko0\xshad-10\yshad-3\4c&HAFFFB1&\bord0.5\pos(1561,888.67)}T{*\xshad-8.111\4c&HAFFDAE&}o{*\xshad-6.222\4c&HAFFBAB&}k{*\xshad-4.333\4c&HAFF9A9&}y{*\xshad-2.444\4c&HAFF7A6&}o {*\xshad1.333\4c&HAFF3A1&}H{*\xshad3.222\4c&HAFF19F&}y{*\xshad5.111\4c&HAFEF9C&}p{\xshad7\yshad-3\4c&HAFED9A&}e
+Dialogue: 7,0:03:51.59,0:03:52.21,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur1\fs95\fsp-1\fscy115\alpha&HFF&\4a&H50&\ko0\xshad-10\yshad-3\4c&HAFFFB1&\bord0.5\pos(1561,888.67)}T{*\xshad-8.111\4c&HAFFDAE&}o{*\xshad-6.222\4c&HAFFBAB&}k{*\xshad-4.333\4c&HAFF9A9&}y{*\xshad-2.444\4c&HAFF7A6&}o {*\xshad1.333\4c&HAFF3A1&}H{*\xshad3.222\4c&HAFF19F&}y{*\xshad5.111\4c&HAFEF9C&}p{\xshad7\yshad-3\4c&HAFED9A&}e
+Dialogue: 0,0:03:52.21,0:03:55.84,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur7\fs95\fsp-1\fscy115\alpha&HFF&\4a&H50&\ko0\shad0.01\4c&HDEFDFF&\bord0.3\pos(1561,888.67)}Tokyo Hype
+Dialogue: 1,0:03:52.21,0:03:55.84,MarySigns,ep title,0,0,0,,{\fnDFTegakiMegumiStd-W3\blur0.6\fs95\fsp-1\fscy115\alpha&HFF&\4a&H00&\ko0\shad0.01\4c&HFEFFFF&\bord0.3\pos(1561,888.67)}Tokyo Hype
+Dialogue: 0,0:03:59.34,0:04:02.85,akemisigns,door plate,0,0,0,,{\blur3\an9}Kawasaki Station Real Estate — Closed
+Dialogue: 0,0:05:58.55,0:05:59.55,akemisigns,,0,0,0,,{\blur3}9 missed calls from Mom\N8 missed calls from Suzune\N9 messages from Suzune
+Dialogue: 0,0:06:00.80,0:06:00.97,akemisigns,,0,0,0,,{\blur3}9 missed calls from Mom\N8 missed calls from Suzune\N9 messages from Suzune
+Dialogue: 0,0:06:00.97,0:06:02.05,akemisigns,phone,0,0,0,,{\blur3}Incoming call: Suzune
+Dialogue: 0,0:06:40.46,0:06:42.42,akemisigns,,960,0,0,,{\an4\blur3}@o4traveler\NWent to a temple in Kyoto~\N#Kyoto #Travel\N\N\N@k4hvi_hyvaa\NHaven't been to this shopping mall{street} in ages\N#daily_life #walking\N\N\N@yuyaptpt\NAt the train depot.\NWhat a find!\N#what_year_is_it_from #kumamoto_trains\N#quiz
+Dialogue: 0,0:06:42.42,0:06:44.88,akemisigns,,960,0,0,,{\an4\blur3}@aaya229\NTried my hand at pottery! lol\N#pottery_wheel #pottery #too_hard\N#managed_somehow
+Dialogue: 0,0:06:44.88,0:06:46.47,akemisigns,,960,0,0,,{\an4\blur3}@momokan_1209\NI'll be performing here today\N#kawasaki_station #momoka #music\N#street_concert
+Dialogue: 0,0:06:48.47,0:06:50.97,akemisigns,,960,0,0,,{\an4\bord5\3a&H60&\blur9}@momokan_1209\NI'll be performing in front of the\N East Exit at Kawasaki Station at 10 PM\N#kawasaki_station #momoka\N#street_concert
+Dialogue: 0,0:11:30.54,0:11:32.38,akemisigns,,0,0,0,,{\an7\fad(600,0)\blur3}Family rules\N— Dinner is eaten at home together as a family.\N— No smartphones are allowed in the living room.\N— Family meetings are every Sunday night.
+Dialogue: 0,0:20:21.12,0:20:23.12,akemisigns,ticket,0,0,0,,{\an3\blur3}Good luck!!
+Dialogue: 0,0:20:31.42,0:20:34.25,akemisigns,guitar,0,0,0,,{\an3\blur3}Flip 'em off!
+Dialogue: 1,0:22:10.46,0:22:13.76,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(3150,0,\blur20)}All the blank white pages that are set before me
+Dialogue: 2,0:22:10.46,0:22:13.76,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(3150,0,\blur10)}All the blank white pages that are set before me
+Dialogue: 1,0:22:13.76,0:22:16.98,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(3070,0,\blur20)}Full of simple questions anyone could answer
+Dialogue: 2,0:22:13.76,0:22:16.98,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(3070,0,\blur10)}Full of simple questions anyone could answer
+Dialogue: 1,0:22:16.98,0:22:19.01,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(1880,0,\blur20)}It's form over function
+Dialogue: 2,0:22:16.98,0:22:19.01,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(1880,0,\blur10)}It's form over function
+Dialogue: 1,0:22:19.01,0:22:23.56,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(4400,0,\blur20)}But my fingers are trembling anxiously
+Dialogue: 2,0:22:19.01,0:22:23.56,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(4400,0,\blur10)}But my fingers are trembling anxiously
+Dialogue: 1,0:22:23.62,0:22:27.91,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(4140,0,\blur20)}Wandering alone, I find a crossroads looming ahead
+Dialogue: 2,0:22:23.62,0:22:27.91,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(4140,0,\blur10)}Wandering alone, I find a crossroads looming ahead
+Dialogue: 1,0:22:27.93,0:22:30.37,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(2290,0,\blur20)}There's no map here to guide me
+Dialogue: 2,0:22:27.93,0:22:30.37,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(2290,0,\blur10)}There's no map here to guide me
+Dialogue: 1,0:22:30.37,0:22:35.40,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(4880,0,\blur20)}How am I to know which way will lead to the best path
+Dialogue: 2,0:22:30.37,0:22:35.40,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(4880,0,\blur10)}How am I to know which way will lead to the best path
+Dialogue: 1,0:22:35.61,0:22:37.11,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(1350,0,\blur20)}To walk down
+Dialogue: 2,0:22:35.61,0:22:37.11,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(1350,0,\blur10)}To walk down
+Dialogue: 1,0:22:37.24,0:22:40.44,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(3050,0,\blur20)}They tell you that your textbooks have the answers that you need
+Dialogue: 2,0:22:37.24,0:22:40.44,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(3050,0,\blur10)}They tell you that your textbooks have the answers that you need
+Dialogue: 1,0:22:40.47,0:22:42.90,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(2280,0,\blur20)}They always seemed so difficult to read
+Dialogue: 2,0:22:40.47,0:22:42.90,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(2280,0,\blur10)}They always seemed so difficult to read
+Dialogue: 1,0:22:42.92,0:22:48.68,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(5610,0,\blur20)}And even as I grow, I'm just as clueless now as I've ever been
+Dialogue: 2,0:22:42.92,0:22:48.68,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(5610,0,\blur10)}And even as I grow, I'm just as clueless now as I've ever been
+Dialogue: 1,0:22:49.75,0:22:53.07,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(3170,0,\blur20)}Will the answer that I'm searching for
+Dialogue: 2,0:22:49.75,0:22:53.07,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(3170,0,\blur10)}Will the answer that I'm searching for
+Dialogue: 1,0:22:53.07,0:22:56.65,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(3430,0,\blur20)}Really scratch this itch, or lead me to more?
+Dialogue: 2,0:22:53.07,0:22:56.65,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(3430,0,\blur10)}Really scratch this itch, or lead me to more?
+Dialogue: 1,0:22:56.69,0:22:59.52,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(2680,0,\blur20)}If you found yourself inside my shoes
+Dialogue: 2,0:22:56.69,0:22:59.52,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(2680,0,\blur10)}If you found yourself inside my shoes
+Dialogue: 1,0:22:59.52,0:23:02.30,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(2630,0,\blur20)}How would you decide which path to ignore?
+Dialogue: 2,0:22:59.52,0:23:02.30,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(2630,0,\blur10)}How would you decide which path to ignore?
+Dialogue: 1,0:23:02.30,0:23:05.64,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(3190,0,\blur20)}All the blank white pages that are set before me
+Dialogue: 2,0:23:02.30,0:23:05.64,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(3190,0,\blur10)}All the blank white pages that are set before me
+Dialogue: 1,0:23:05.64,0:23:08.91,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(3120,0,\blur20)}Full of simple questions anyone could answer
+Dialogue: 2,0:23:05.64,0:23:08.91,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(3120,0,\blur10)}Full of simple questions anyone could answer
+Dialogue: 1,0:23:08.91,0:23:10.87,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(1810,0,\blur20)}It's form over function
+Dialogue: 2,0:23:08.91,0:23:10.87,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(1810,0,\blur10)}It's form over function
+Dialogue: 1,0:23:10.91,0:23:15.28,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(4220,0,\blur20)}But my fingers are trembling anxiously
+Dialogue: 2,0:23:10.91,0:23:15.28,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(4220,0,\blur10)}But my fingers are trembling anxiously
+Dialogue: 1,0:23:15.28,0:23:16.98,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(1550,0,\blur20)}There's no right answer
+Dialogue: 2,0:23:15.28,0:23:16.98,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(1550,0,\blur10)}There's no right answer
+Dialogue: 1,0:23:16.98,0:23:18.59,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(1460,0,\blur20)}No one wins or loses
+Dialogue: 2,0:23:16.98,0:23:18.59,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(1460,0,\blur10)}No one wins or loses
+Dialogue: 1,0:23:18.59,0:23:20.22,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(1480,0,\blur20)}And it's all so simple
+Dialogue: 2,0:23:18.59,0:23:20.22,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(1480,0,\blur10)}And it's all so simple
+Dialogue: 1,0:23:20.22,0:23:21.74,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(1370,0,\blur20)}I can only march on
+Dialogue: 2,0:23:20.22,0:23:21.74,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(1370,0,\blur10)}I can only march on
+Dialogue: 1,0:23:21.74,0:23:23.80,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(1910,0,\blur20)}And carve out my own path
+Dialogue: 2,0:23:21.74,0:23:23.80,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(1910,0,\blur10)}And carve out my own path
+Dialogue: 1,0:23:23.84,0:23:25.41,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(1420,0,\blur20)}No more brooding
+Dialogue: 2,0:23:23.84,0:23:25.41,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(1420,0,\blur10)}No more brooding
+Dialogue: 1,0:23:25.50,0:23:29.68,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(4030,0,\blur20)}If I keep on debating, I'll waste my life
+Dialogue: 2,0:23:25.50,0:23:29.68,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(4030,0,\blur10)}If I keep on debating, I'll waste my life
+Dialogue: 1,0:23:38.49,0:23:42.48,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord3.2\4c&H2B61B9&\blur20\t(0,150,\blur4)\t(3840,0,\blur20)}If I keep up this struggle, I'll waste my life
+Dialogue: 2,0:23:38.49,0:23:42.48,Insert - Void,,0,0,0,fx,{\an2\pos(960.00,1230.00)\yshad-200\bord0\4c&HFFFFFF&\blur10\t(0,150,\blur0)\t(3840,0,\blur10)}If I keep up this struggle, I'll waste my life
+Dialogue: 2,0:02:21.29,0:02:24.21,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}The dark of night hides away behind an unfinished beat
+Dialogue: 1,0:02:21.29,0:02:24.21,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}The dark of night hides away behind an unfinished beat
+Dialogue: 2,0:02:24.21,0:02:27.00,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}We take a single breath of its embrace before we're crushed beneath
+Dialogue: 1,0:02:24.21,0:02:27.00,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}We take a single breath of its embrace before we're crushed beneath
+Dialogue: 2,0:02:27.00,0:02:28.92,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Although you try and fail and try and fail again
+Dialogue: 1,0:02:27.00,0:02:28.92,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Although you try and fail and try and fail again
+Dialogue: 2,0:02:28.92,0:02:31.55,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}You can seize your chosen future by your own hand
+Dialogue: 1,0:02:28.92,0:02:31.55,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}You can seize your chosen future by your own hand
+Dialogue: 2,0:02:31.67,0:02:34.72,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Nothing's set in stone until you make it, so reach your hands out
+Dialogue: 1,0:02:31.67,0:02:34.72,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Nothing's set in stone until you make it, so reach your hands out
+Dialogue: 2,0:02:40.10,0:02:41.64,OPStyle,nina,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Trapped in an endless crowd
+Dialogue: 1,0:02:40.10,0:02:41.64,OPStyle,nina,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&H6A6BFF&}Trapped in an endless crowd
+Dialogue: 2,0:02:41.85,0:02:44.31,OPStyle,nina,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Crying out with a voice that can't make a sound
+Dialogue: 1,0:02:41.85,0:02:44.31,OPStyle,nina,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&H6A6BFF&}Crying out with a voice that can't make a sound
+Dialogue: 2,0:02:44.31,0:02:45.89,OPStyle,nina,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}And by the break of day
+Dialogue: 1,0:02:44.31,0:02:45.89,OPStyle,nina,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&H6A6BFF&}And by the break of day
+Dialogue: 2,0:02:46.10,0:02:48.65,OPStyle,nina,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Sounds of footsteps will smother all you can say
+Dialogue: 1,0:02:46.10,0:02:48.65,OPStyle,nina,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&H6A6BFF&}Sounds of footsteps will smother all you can say
+Dialogue: 2,0:02:48.65,0:02:50.23,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Time's march will carry on
+Dialogue: 1,0:02:48.65,0:02:50.23,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Time's march will carry on
+Dialogue: 2,0:02:50.32,0:02:52.32,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}But the silent calls remain
+Dialogue: 1,0:02:50.32,0:02:52.32,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}But the silent calls remain
+Dialogue: 2,0:02:52.78,0:02:54.49,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}The cold, filthy water flows
+Dialogue: 1,0:02:52.78,0:02:54.49,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}The cold, filthy water flows
+Dialogue: 2,0:02:54.53,0:02:57.36,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Through a city full of raw pain
+Dialogue: 1,0:02:54.53,0:02:57.36,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Through a city full of raw pain
+Dialogue: 2,0:02:57.36,0:02:58.99,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}In a world where nothing ever changes
+Dialogue: 1,0:02:57.36,0:02:58.99,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HEB6AEE&}In a world where nothing ever changes
+Dialogue: 2,0:03:00.08,0:03:01.79,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}We still have to live to see tomorrow
+Dialogue: 1,0:03:00.08,0:03:01.79,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HEB6AEE&}We still have to live to see tomorrow
+Dialogue: 2,0:03:02.58,0:03:04.87,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Though the scorn pervades your voice, we've got no other choice
+Dialogue: 1,0:03:02.58,0:03:04.87,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HEB6AEE&}Though the scorn pervades your voice, we've got no other choice
+Dialogue: 2,0:03:04.87,0:03:05.91,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}No other path to tread
+Dialogue: 1,0:03:04.87,0:03:05.91,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HEB6AEE&}No other path to tread
+Dialogue: 2,0:03:05.91,0:03:08.00,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}We've only got the future ahead
+Dialogue: 1,0:03:05.91,0:03:08.00,OPStyle,tomo,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HEB6AEE&}We've only got the future ahead
+Dialogue: 2,0:03:08.00,0:03:10.84,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}I promise you it's real, this stupid dream I feel
+Dialogue: 1,0:03:08.00,0:03:10.84,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}I promise you it's real, this stupid dream I feel
+Dialogue: 2,0:03:10.84,0:03:14.51,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}It's like there's no hope left living in this city, but still I try
+Dialogue: 1,0:03:10.84,0:03:14.51,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}It's like there's no hope left living in this city, but still I try
+Dialogue: 2,0:03:14.51,0:03:15.92,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Looking out and seeing there's a future for me
+Dialogue: 1,0:03:14.51,0:03:15.92,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Looking out and seeing there's a future for me
+Dialogue: 2,0:03:15.92,0:03:17.34,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Reaching out and seizing hold of what I can be
+Dialogue: 1,0:03:15.92,0:03:17.34,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Reaching out and seizing hold of what I can be
+Dialogue: 2,0:03:17.34,0:03:18.97,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Look around and see
+Dialogue: 1,0:03:17.34,0:03:18.97,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Look around and see
+Dialogue: 2,0:03:19.05,0:03:20.68,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}I've been saying it all along
+Dialogue: 1,0:03:19.05,0:03:20.68,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}I've been saying it all along
+Dialogue: 2,0:03:20.68,0:03:22.10,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}This stupid-sounding song
+Dialogue: 1,0:03:20.68,0:03:22.10,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}This stupid-sounding song
+Dialogue: 2,0:03:22.10,0:03:24.89,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}We're shining a light through streets of hopeless darkness
+Dialogue: 1,0:03:22.10,0:03:24.89,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}We're shining a light through streets of hopeless darkness
+Dialogue: 2,0:03:24.89,0:03:25.77,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}It's not a dream
+Dialogue: 1,0:03:24.89,0:03:25.77,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}It's not a dream
+Dialogue: 2,0:03:25.77,0:03:27.14,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Though this town is full of rot and decay
+Dialogue: 1,0:03:25.77,0:03:27.14,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Though this town is full of rot and decay
+Dialogue: 2,0:03:27.14,0:03:28.56,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}There's no point in giving in to dismay
+Dialogue: 1,0:03:27.14,0:03:28.56,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}There's no point in giving in to dismay
+Dialogue: 2,0:03:28.56,0:03:30.90,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Even now, there's time, there's time!
+Dialogue: 1,0:03:28.56,0:03:30.90,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Even now, there's time, there's time!
+Dialogue: 2,0:03:30.90,0:03:33.65,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}The dark of night hides away behind an unfinished beat
+Dialogue: 1,0:03:30.90,0:03:33.65,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}The dark of night hides away behind an unfinished beat
+Dialogue: 2,0:03:33.65,0:03:36.45,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}We take a single breath of its embrace before we're crushed beneath
+Dialogue: 1,0:03:33.65,0:03:36.45,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}We take a single breath of its embrace before we're crushed beneath
+Dialogue: 2,0:03:36.45,0:03:38.36,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Although you try and fail and try and fail again
+Dialogue: 1,0:03:36.45,0:03:38.36,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Although you try and fail and try and fail again
+Dialogue: 2,0:03:38.36,0:03:41.08,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}You can seize your chosen future by your own hand
+Dialogue: 1,0:03:38.36,0:03:41.08,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}You can seize your chosen future by your own hand
+Dialogue: 2,0:03:41.20,0:03:44.20,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)}Nothing's set in stone until you make it, so reach your hands out
+Dialogue: 1,0:03:41.20,0:03:44.20,OPStyle,,0,0,0,fx,{\fad(100,100)\an1\pos(90.00,1030.00)\bord3.2\blur6\3c&HFEB56A&}Nothing's set in stone until you make it, so reach your hands out
