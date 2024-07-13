@@ -5,6 +5,7 @@
 | Translation       | [Yofukashi](../Yofukashi)           |
 | Translation Check | 路宇図シカ                            |
 | Typesetting       | 路宇図シカ                            |
+| Songs             | [Toei](../Toei), [SobsPlease](../SobsPlease) |
 
 ## Release Info
 
