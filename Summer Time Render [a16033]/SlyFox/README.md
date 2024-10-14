@@ -2,7 +2,7 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | Manga PLUS, [Commie](../Commie) (Songs)                          |
+| Translation       | Manga PLUS (01-24), ? (25), [Commie](../Commie) (Songs)                          |
 | Translation Check | ?                                   |
 | Editing           | torn                                |
 | Typesetting       | [Commie](../Commie)                                   |
