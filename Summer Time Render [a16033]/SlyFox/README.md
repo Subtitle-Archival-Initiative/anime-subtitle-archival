@@ -2,13 +2,13 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | Manga PLUS (01-24), ? (25), [Commie](../Commie) (Songs)                          |
-| Translation Check | ?                                   |
-| Editing           | torn                                |
-| Typesetting       | [Commie](../Commie)                                   |
-| Styling           | [Commie](../Commie)                 |
-| Timing            | torn                                |
-| Encoding          | ?                                   |
+| Translation       | Manga PLUS (01-25), Kitsube (25), anon (25), [Commie](../Commie) (Songs)                          |
+| Translation Check | Kitsune, anon                                   |
+| Editing           | Kitsune                                |
+| Typesetting       | [Commie](../Commie) (v2), Kitsune (v1)                                   |
+| Styling           | [Commie](../Commie) (OP1, OP2, ED1, ED2), Kitsune (Inserts)                 |
+| Timing            | Kitsune                                |
+| Encoding          | -                                   |
 
 ## Release Info
 
@@ -16,5 +16,5 @@
 |--------------|-----------|
 | Status       | Complete  |
 | Batch Status | Complete  |
-| Source       | WEBRip    |
+| Source       | WEB-DL    |
 | Resolution   | 1920x1080 |
