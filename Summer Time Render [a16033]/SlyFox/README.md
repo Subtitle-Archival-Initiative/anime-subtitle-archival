@@ -2,7 +2,7 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | Manga PLUS (01-25), Kitsube (25), anon (25), [Commie](../Commie) (Songs)                          |
+| Translation       | Manga PLUS (01-25), Kitsune (25), anon (25), [Commie](../Commie) (Songs)                          |
 | Translation Check | Kitsune, anon                                   |
 | Editing           | Kitsune                                |
 | Typesetting       | [Commie](../Commie) (v2), Kitsune (v1)                                   |
