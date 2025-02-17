@@ -15,4 +15,4 @@
 
 ### Notes
 
-This is an OCR from the Platinum Complete DVD by ADV Films. It likely contains OCR mistakes.
+This is an OCR from Funimation's DVD boxset. It likely contains OCR mistakes.
