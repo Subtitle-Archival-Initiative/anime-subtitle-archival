@@ -5,6 +5,7 @@
 | Translation       | Areki (01-06, 08-13), Yon (07)      |
 | Translation Check | Yon (01-06, 08-13), Areki (07)      |
 | Editing           | Balduran                            |
+| Typesetting       | witchymary, Nyarthur (01, 03, 05-06, 09), Yon (06, 08, 10-13), petzku (01, 04, 06), Areki (01-02, ED) |
 | Timing            | petzku                              |
 | Encoding          | Zewia                               |
 | K-Timing          | arctan, Period                      |
