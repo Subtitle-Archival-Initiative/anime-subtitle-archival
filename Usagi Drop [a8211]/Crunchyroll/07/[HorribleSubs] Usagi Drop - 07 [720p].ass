@@ -1,0 +1,493 @@
+﻿[Script Info]
+Title: fuckoff
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Caption Top,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Caption Top Left,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Caption Top Right,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Main Dialog,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Main Dialog Italic,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Opening Song,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Ending Song,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.65,0:00:07.40,Main Dialog,Daikichi,0000,0000,0000,,How is it?
+Dialogue: 0,0:00:07.94,0:00:08.90,Main Dialog,Rin,0000,0000,0000,,Good!
+Dialogue: 0,0:00:12.11,0:00:13.53,Main Dialog,Haruko,0000,0000,0000,,Is anyone home?
+Dialogue: 0,0:00:13.53,0:00:14.20,Main Dialog,Rin,0000,0000,0000,,Yes!
+Dialogue: 0,0:00:14.20,0:00:15.28,Main Dialog,Daikichi,0000,0000,0000,,Coming...
+Dialogue: 0,0:00:21.79,0:00:24.12,Main Dialog,Haruko,0000,0000,0000,,Dai-chan, long time no see.
+Dialogue: 0,0:00:25.08,0:00:26.50,Main Dialog,Daikichi,0000,0000,0000,,Haruko!
+Dialogue: 0,0:00:26.50,0:00:27.54,Main Dialog,Daikichi,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:00:27.54,0:00:28.96,Main Dialog,Reina,0000,0000,0000,,Rin-chan!
+Dialogue: 0,0:00:28.96,0:00:29.92,Main Dialog,Rin,0000,0000,0000,,Reina-chan?!
+Dialogue: 0,0:00:29.92,0:00:31.30,Main Dialog,Reina,0000,0000,0000,,Rin-chan!
+Dialogue: 0,0:00:31.30,0:00:33.59,Main Dialog,Rin,0000,0000,0000,,What's going on, Reina-chan?
+Dialogue: 0,0:00:33.59,0:00:34.80,Main Dialog,Rin,0000,0000,0000,,Are you going somewhere?
+Dialogue: 0,0:00:34.80,0:00:35.43,Main Dialog,Daikichi,0000,0000,0000,,Haruko...
+Dialogue: 0,0:00:35.43,0:00:37.14,Main Dialog,Reina,0000,0000,0000,,Uh-uh. We came to visit.
+Dialogue: 0,0:00:37.14,0:00:37.76,Main Dialog,Rin,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:00:37.76,0:00:38.89,Main Dialog,Haruko,0000,0000,0000,,Um...
+Dialogue: 0,0:00:38.89,0:00:41.02,Main Dialog,Daikichi,0000,0000,0000,,Reina-chan, do you like sweet buns?
+Dialogue: 0,0:00:41.02,0:00:42.02,Main Dialog,Reina,0000,0000,0000,,What's that?
+Dialogue: 0,0:00:42.27,0:00:43.98,Main Dialog,Rin,0000,0000,0000,,Round sweets.
+Dialogue: 0,0:00:43.98,0:00:45.23,Main Dialog,Reina,0000,0000,0000,,Then I like it!
+Dialogue: 0,0:00:45.23,0:00:48.31,Main Dialog,Daikichi,0000,0000,0000,,Then Rin, pour some barley \Ntea for Reina-chan.
+Dialogue: 0,0:00:48.31,0:00:50.07,Main Dialog,Rin,0000,0000,0000,,Okay. Reina-chan, let's go.
+Dialogue: 0,0:00:50.32,0:00:52.11,Main Dialog,Rin,0000,0000,0000,,You came right during snack time!
+Dialogue: 0,0:00:52.11,0:00:53.82,Main Dialog,Reina,0000,0000,0000,,I wanna eat snacks, too!
+Dialogue: 0,0:01:04.00,0:01:07.08,Opening Song,Opening Song,0000,0000,0000,,I dunno about tomorrow.
+Dialogue: 0,0:01:07.08,0:01:12.21,Opening Song,Opening Song,0000,0000,0000,,It's different than a sacrifice. Something's off.
+Dialogue: 0,0:01:12.21,0:01:15.88,Opening Song,Opening Song,0000,0000,0000,,I don't think it's like some penalty game.
+Dialogue: 0,0:01:15.88,0:01:19.14,Opening Song,Opening Song,0000,0000,0000,,So, why? I don't get it at all.
+Dialogue: 0,0:01:19.14,0:01:24.22,Opening Song,Opening Song,0000,0000,0000,,I'm a little bit unsatisfied, but your presence
+Dialogue: 0,0:01:24.22,0:01:28.15,Opening Song,Opening Song,0000,0000,0000,,right now is more than just important.
+Dialogue: 0,0:01:28.44,0:01:31.23,Opening Song,Opening Song,0000,0000,0000,,There's no such thing in this world
+Dialogue: 0,0:01:31.23,0:01:34.49,Opening Song,Opening Song,0000,0000,0000,,as something never-ending.
+Dialogue: 0,0:01:35.36,0:01:41.70,Opening Song,Opening Song,0000,0000,0000,,Crying isn't painful, it's love's sweet drops, sweet drops!
+Dialogue: 0,0:01:41.70,0:01:44.83,Opening Song,Opening Song,0000,0000,0000,,I want to keep dreaming forever, ya know?
+Dialogue: 0,0:01:44.83,0:01:48.29,Opening Song,Opening Song,0000,0000,0000,,I want to be more kind, ya know?
+Dialogue: 0,0:01:48.29,0:01:51.88,Opening Song,Opening Song,0000,0000,0000,,As long as I’m with you, I’m happy.
+Dialogue: 0,0:01:51.88,0:01:55.38,Opening Song,Opening Song,0000,0000,0000,,Girls sure are strong, ya know?
+Dialogue: 0,0:01:55.38,0:01:58.63,Opening Song,Opening Song,0000,0000,0000,,But sometimes we're weak, ya know?
+Dialogue: 0,0:01:58.63,0:02:04.89,Opening Song,Opening Song,0000,0000,0000,,Our wish is to be happy, happy, happy!
+Dialogue: 0,0:02:04.89,0:02:08.81,Opening Song,Opening Song,0000,0000,0000,,And those days will be happy, too!
+Dialogue: 0,0:02:12.02,0:02:16.44,Opening Song,Opening Song,0000,0000,0000,,Just wanna make you happy!
+Dialogue: 0,0:02:28.71,0:02:30.25,Main Dialog,Reina,0000,0000,0000,,Yummy!
+Dialogue: 0,0:02:30.25,0:02:31.21,Main Dialog,Rin,0000,0000,0000,,I know, right?
+Dialogue: 0,0:02:31.21,0:02:33.13,Main Dialog,Reina,0000,0000,0000,,This is the first time I've had it!
+Dialogue: 0,0:02:38.76,0:02:39.97,Main Dialog,Haruko,0000,0000,0000,,Thank you.
+Dialogue: 0,0:02:39.97,0:02:43.97,Main Dialog,Haruko,0000,0000,0000,,Wow. This is my first time here, \Nbut it's like Grandpa's house...
+Dialogue: 0,0:02:43.97,0:02:45.68,Main Dialog,Daikichi,0000,0000,0000,,More importantly, what's wrong?
+Dialogue: 0,0:02:45.68,0:02:47.89,Main Dialog,Daikichi,0000,0000,0000,,You bring a school satchel \Nover on a Sunday...
+Dialogue: 0,0:02:47.89,0:02:48.89,Main Dialog,Haruko,0000,0000,0000,,Sorry.
+Dialogue: 0,0:02:50.06,0:02:53.44,Main Dialog,Haruko,0000,0000,0000,,Actually, we... ran away from home.
+Dialogue: 0,0:02:53.44,0:02:54.65,Main Dialog,Daikichi,0000,0000,0000,,Wh-wh-wha...?!
+Dialogue: 0,0:02:54.65,0:02:56.57,Main Dialog,Daikichi,0000,0000,0000,,The folks at the house will worry!
+Dialogue: 0,0:02:56.57,0:02:57.44,Main Dialog,Daikichi,0000,0000,0000,,Why would you do that?!
+Dialogue: 0,0:03:00.36,0:03:02.70,Main Dialog,Daikichi,0000,0000,0000,,Is it... uh... you know...?
+Dialogue: 0,0:03:03.12,0:03:04.49,Main Dialog,Haruko,0000,0000,0000,,Is it what?!
+Dialogue: 0,0:03:04.49,0:03:07.29,Main Dialog,Daikichi,0000,0000,0000,,Y-You know. Your husband...
+Dialogue: 0,0:03:07.29,0:03:08.16,Main Dialog,Haruko,0000,0000,0000,,That's part of it.
+Dialogue: 0,0:03:09.54,0:03:10.12,Main Dialog,Daikichi,0000,0000,0000,,Part of it?
+Dialogue: 0,0:03:10.12,0:03:10.96,Main Dialog,Haruko,0000,0000,0000,,Part of it!
+Dialogue: 0,0:03:12.17,0:03:13.83,Main Dialog,Daikichi,0000,0000,0000,,And is there something \Nwith his parents there...
+Dialogue: 0,0:03:13.83,0:03:14.84,Main Dialog,Haruko,0000,0000,0000,,That's part of it, too!
+Dialogue: 0,0:03:15.59,0:03:20.34,Main Dialog,Daikichi,0000,0000,0000,,I-I guess it's difficult living \Nwith your husband's parents...?
+Dialogue: 0,0:03:21.93,0:03:26.81,Main Dialog,Haruko,0000,0000,0000,,I wonder if peaceful cohabitation \Nbetween a wife and her in-laws even exists...
+Dialogue: 0,0:03:27.60,0:03:28.89,Main Dialog,Daikichi,0000,0000,0000,,Scary!
+Dialogue: 0,0:03:28.89,0:03:32.48,Main Dialog,Haruko,0000,0000,0000,,I have no brothers or sisters and \Nthere's nowhere else for me to go.
+Dialogue: 0,0:03:30.48,0:03:33.06,Main Dialog,Rin,0000,0000,0000,,{\a6}That's the arithmetic book we use, too!
+Dialogue: 0,0:03:33.06,0:03:34.77,Main Dialog,Haruko,0000,0000,0000,,Can we stay here, Dai-chan?
+Dialogue: 0,0:03:33.35,0:03:34.77,Main Dialog,Reina,0000,0000,0000,,{\a6}Really?
+Dialogue: 0,0:03:34.77,0:03:37.02,Main Dialog,Rin,0000,0000,0000,,{\a6}Let me see your other textbooks, too!
+Dialogue: 0,0:03:34.77,0:03:38.82,Main Dialog,Daikichi,0000,0000,0000,,F-First, let's talk things through.
+Dialogue: 0,0:03:37.02,0:03:39.07,Main Dialog,Reina,0000,0000,0000,,{\a6}Sure. Um...
+Dialogue: 0,0:03:39.07,0:03:40.24,Main Dialog,Daikichi,0000,0000,0000,,Now what about your in-laws?
+Dialogue: 0,0:03:39.40,0:03:41.86,Main Dialog,Rin,0000,0000,0000,,{\a6}Your Japanese book is \Ndifferent than mine!
+Dialogue: 0,0:03:40.24,0:03:41.15,Main Dialog,Haruko,0000,0000,0000,,It's okay.
+Dialogue: 0,0:03:41.40,0:03:43.16,Main Dialog,Haruko,0000,0000,0000,,I left a note.
+Dialogue: 0,0:03:41.86,0:03:43.53,Main Dialog,Reina,0000,0000,0000,,{\a6}I wanna see yours!
+Dialogue: 0,0:03:43.53,0:03:45.24,Main Dialog,Haruko,0000,0000,0000,,I didn't say where we \Nwere going, though...
+Dialogue: 0,0:03:43.53,0:03:45.24,Main Dialog,Rin,0000,0000,0000,,{\a6}Sure, let's go!
+Dialogue: 0,0:03:45.24,0:03:47.66,Main Dialog,Haruko,0000,0000,0000,,And I'll take Reina to school...
+Dialogue: 0,0:03:48.20,0:03:49.24,Main Dialog,Haruko,0000,0000,0000,,Other than that...
+Dialogue: 0,0:03:49.24,0:03:51.04,Main Dialog,Haruko,0000,0000,0000,,I haven't given it much thought.
+Dialogue: 0,0:03:51.04,0:03:52.12,Main Dialog,Haruko,0000,0000,0000,,I haven't even told my parents yet...
+Dialogue: 0,0:03:52.12,0:03:53.92,Main Dialog,Daikichi,0000,0000,0000,,Haven't given it much thought?
+Dialogue: 0,0:03:53.92,0:03:55.13,Main Dialog,Daikichi,0000,0000,0000,,You've got your daughter with you...
+Dialogue: 0,0:03:55.13,0:03:56.25,Main Dialog,Daikichi,0000,0000,0000,,Haruko...
+Dialogue: 0,0:03:57.13,0:03:59.09,Main Dialog,Haruko,0000,0000,0000,,Well, I had no other choice!
+Dialogue: 0,0:03:59.09,0:04:01.67,Main Dialog,Haruko,0000,0000,0000,,I just had to get out of that house!
+Dialogue: 0,0:04:01.67,0:04:03.01,Main Dialog,Haruko,0000,0000,0000,,I couldn't stand it another second!
+Dialogue: 0,0:04:05.97,0:04:08.06,Main Dialog,Daikichi,0000,0000,0000,,Fine...
+Dialogue: 0,0:04:08.06,0:04:10.85,Main Dialog,Daikichi,0000,0000,0000,,For now, why don't we go \Ngrocery shopping for tonight?
+Dialogue: 0,0:04:10.85,0:04:11.93,Main Dialog,Haruko,0000,0000,0000,,Dai-chan...
+Dialogue: 0,0:04:12.64,0:04:15.40,Main Dialog,Daikichi,0000,0000,0000,,I don't have anything, but you \Ncan use the room on the right.
+Dialogue: 0,0:04:13.48,0:04:15.40,Main Dialog,Reina,0000,0000,0000,,{\a6}It really is different!
+Dialogue: 0,0:04:18.98,0:04:21.40,Main Dialog,Haruko,0000,0000,0000,,Thank you. It's a little heavy.
+Dialogue: 0,0:04:21.99,0:04:24.57,Main Dialog,Daikichi,0000,0000,0000,,What the hell did you cram in here?!
+Dialogue: 0,0:04:24.57,0:04:28.03,Main Dialog,Haruko,0000,0000,0000,,Reina's slippers and textbooks \Nare in there, too...
+Dialogue: 0,0:04:28.41,0:04:30.29,Main Dialog,Daikichi,0000,0000,0000,,I'm surprised you made it this far.
+Dialogue: 0,0:04:35.25,0:04:37.38,Main Dialog,Haruko,0000,0000,0000,,Dai-chan, usually you just make \Ndo with whatever, right?
+Dialogue: 0,0:04:37.38,0:04:39.46,Main Dialog,Haruko,0000,0000,0000,,Well, tonight I'll cook \Nyou a decent meal.
+Dialogue: 0,0:04:39.46,0:04:41.26,Main Dialog,Daikichi,0000,0000,0000,,I do not "just make do"!
+Dialogue: 0,0:04:41.26,0:04:43.80,Main Dialog,Rin,0000,0000,0000,,Daikichi, can we look at the sweets?
+Dialogue: 0,0:04:44.47,0:04:45.97,Main Dialog,Daikichi,0000,0000,0000,,You can each choose one thing.
+Dialogue: 0,0:04:45.97,0:04:47.26,Main Dialog,Girls,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:47.89,0:04:49.81,Main Dialog,Haruko,0000,0000,0000,,What kind of meat should we get?
+Dialogue: 0,0:04:51.35,0:04:53.06,Main Dialog,Daikichi,0000,0000,0000,,It's all the same to me.
+Dialogue: 0,0:04:53.06,0:04:54.10,Main Dialog,Haruko,0000,0000,0000,,Not that one!
+Dialogue: 0,0:04:54.10,0:04:54.85,Main Dialog,Haruko,0000,0000,0000,,This one.
+Dialogue: 0,0:04:55.98,0:04:57.40,Main Dialog,Haruko,0000,0000,0000,,No, this one's a little...
+Dialogue: 0,0:05:02.32,0:05:04.03,Main Dialog,Kouki's Mom,0000,0000,0000,,Daikichi-san! Hello.
+Dialogue: 0,0:05:04.03,0:05:07.03,Main Dialog,Haruko,0000,0000,0000,,Dai-chan, this ground beef and \Npork combo is really cheap...
+Dialogue: 0,0:05:07.41,0:05:09.66,Main Dialog,Daikichi,0000,0000,0000,,Oh, crap!
+Dialogue: 0,0:05:09.99,0:05:13.75,Main Dialog,Daikichi,0000,0000,0000,,Uh... This isn't what it looks like!
+Dialogue: 0,0:05:13.75,0:05:16.92,Main Dialog,Daikichi,0000,0000,0000,,This is Haruko, my cousin \Nfrom my mother's side!
+Dialogue: 0,0:05:16.92,0:05:19.08,Main Dialog,Haruko,0000,0000,0000,,Who cares what "side" I'm from?
+Dialogue: 0,0:05:19.08,0:05:20.88,Main Dialog,Kouki's Mom,0000,0000,0000,,O-Oh, really?
+Dialogue: 0,0:05:20.88,0:05:21.92,Main Dialog,Kouki's Mom,0000,0000,0000,,Nice to meet you!
+Dialogue: 0,0:05:22.84,0:05:28.43,Main Dialog,Kouki's Mom,0000,0000,0000,,{\a6}My son is a classmate of Rin-chan, and \NI'm always obliged to Daikichi-san...
+Dialogue: 0,0:05:24.13,0:05:27.09,Main Dialog,Daikichi,0000,0000,0000,,What the hell am I saying?! \NShe didn't ask who it was!
+Dialogue: 0,0:05:27.09,0:05:30.76,Main Dialog,Daikichi,0000,0000,0000,,Why did I feel the need \Nto explain it to her?!
+Dialogue: 0,0:05:28.43,0:05:30.76,Main Dialog,Haruko,0000,0000,0000,,{\a6}Oh? Then my daughter is the same age.
+Dialogue: 0,0:05:30.76,0:05:32.26,Main Dialog,Kouki's Mom,0000,0000,0000,,{\a6}Oh, really?
+Dialogue: 0,0:05:30.76,0:05:32.56,Main Dialog,Daikichi,0000,0000,0000,,"This isn't what it looks \Nlike!" What the hell...?!
+Dialogue: 0,0:05:32.56,0:05:34.60,Main Dialog,Reina,0000,0000,0000,,{\a6}I'm Reina!
+Dialogue: 0,0:05:32.56,0:05:35.39,Main Dialog,Haruko,0000,0000,0000,,She's a first-grader \Nfrom this year, so...
+Dialogue: 0,0:05:34.60,0:05:36.10,Main Dialog,Kouki,0000,0000,0000,,{\a6}I'm Kouki.
+Dialogue: 0,0:05:35.39,0:05:36.10,Main Dialog,Kouki's Mom,0000,0000,0000,,Oh, my!
+Dialogue: 0,0:05:37.23,0:05:38.65,Main Dialog,Daikichi,0000,0000,0000,,Yo, Kouki!
+Dialogue: 0,0:05:38.65,0:05:40.27,Main Dialog,Daikichi,0000,0000,0000,,What kind of sweets did you pick?
+Dialogue: 0,0:05:40.27,0:05:41.48,Main Dialog,Kouki,0000,0000,0000,,What's up, Daikichi!
+Dialogue: 0,0:05:41.48,0:05:42.52,Main Dialog,Kouki,0000,0000,0000,,This one!
+Dialogue: 0,0:05:42.52,0:05:44.61,Main Dialog,Kouki,0000,0000,0000,,Deluxe Big Nyan Gum!
+Dialogue: 0,0:05:45.11,0:05:47.11,Main Dialog,Rin,0000,0000,0000,,I'm getting vegetable sponge cake!
+Dialogue: 0,0:05:47.11,0:05:50.87,Main Dialog,Reina,0000,0000,0000,,I'm getting Meow Meow Kitty candy!
+Dialogue: 0,0:05:52.08,0:05:54.83,Main Dialog,Moms,0000,0000,0000,,Are those really sweets?!
+Dialogue: 0,0:06:01.25,0:06:03.96,Main Dialog,Haruko,0000,0000,0000,,She's pretty, isn't she?
+Dialogue: 0,0:06:04.25,0:06:09.43,Main Dialog,Daikichi,0000,0000,0000,,Y-Yeah, I suppose she's one \Nof the more attractive moms...
+Dialogue: 0,0:06:09.43,0:06:13.31,Main Dialog,Haruko,0000,0000,0000,,But I don't think you should \Nhave an affair with her!
+Dialogue: 0,0:06:13.64,0:06:15.81,Main Dialog,Daikichi,0000,0000,0000,,A-Are you out of your mind?!
+Dialogue: 0,0:06:15.81,0:06:17.69,Main Dialog,Daikichi,0000,0000,0000,,It's not like that at all!
+Dialogue: 0,0:06:17.69,0:06:20.40,Main Dialog,Daikichi,0000,0000,0000,,In the first place, she has enough trouble \Njust taking care of Kouki on her own,
+Dialogue: 0,0:06:20.40,0:06:21.61,Main Dialog,Daikichi,0000,0000,0000,,so who has time...
+Dialogue: 0,0:06:21.61,0:06:22.56,Main Dialog,Haruko,0000,0000,0000,,"On her own"?!
+Dialogue: 0,0:06:21.61,0:06:24.32,Main Dialog,Reina,0000,0000,0000,,{\a6}So during lunch at school...
+Dialogue: 0,0:06:22.56,0:06:23.48,Main Dialog,Daikichi,0000,0000,0000,,Dope!
+Dialogue: 0,0:06:23.48,0:06:25.15,Main Dialog,Daikichi,0000,0000,0000,,You watch too many weird dramas!
+Dialogue: 0,0:06:24.32,0:06:25.40,Main Dialog,Rin,0000,0000,0000,,{\a6}Uh-huh?
+Dialogue: 0,0:06:25.40,0:06:27.57,Main Dialog,Reina,0000,0000,0000,,{\a6}A bug got out of its cage!
+Dialogue: 0,0:06:25.40,0:06:28.49,Main Dialog,Haruko,0000,0000,0000,,I'm guessing she's two or three \Nyears older than we are...
+Dialogue: 0,0:06:28.49,0:06:30.61,Main Dialog,Daikichi,0000,0000,0000,,W-What the hell do I care \Nabout how old she is?!
+Dialogue: 0,0:06:28.82,0:06:30.20,Main Dialog,Rin,0000,0000,0000,,{\a6}Really?!
+Dialogue: 0,0:06:31.74,0:06:33.58,Main Dialog,Haruko,0000,0000,0000,,So, is she divorced?
+Dialogue: 0,0:06:35.66,0:06:37.33,Main Dialog,Daikichi,0000,0000,0000,,I don't know the details...
+Dialogue: 0,0:06:40.25,0:06:41.71,Main Dialog,Rin,0000,0000,0000,,It looks delicious!
+Dialogue: 0,0:06:42.08,0:06:44.29,Main Dialog,Reina,0000,0000,0000,,I haven't had this before!
+Dialogue: 0,0:06:44.29,0:06:46.30,Main Dialog,Haruko,0000,0000,0000,,I experimented some.
+Dialogue: 0,0:06:46.30,0:06:49.01,Main Dialog,Haruko,0000,0000,0000,,Usually, everything is made \Nto my mother-in-law's taste.
+Dialogue: 0,0:06:50.30,0:06:52.89,Main Dialog,Reina,0000,0000,0000,,Mama, I wanna have this at home, too!
+Dialogue: 0,0:06:54.89,0:06:57.98,Main Dialog,Haruko,0000,0000,0000,,Well, thank you for the \Nfood we're about to eat.
+Dialogue: 0,0:06:57.98,0:07:00.10,Main Dialog,Girls,0000,0000,0000,,Thank you for the food \Nwe're about to eat!
+Dialogue: 0,0:06:58.43,0:06:59.69,Main Dialog,Daikichi,0000,0000,0000,,{\a6}Thank you for the food \Nwe're about to eat...
+Dialogue: 0,0:07:00.10,0:07:01.44,Main Dialog,Rin,0000,0000,0000,,It's good!
+Dialogue: 0,0:07:01.44,0:07:03.23,Main Dialog,Haruko,0000,0000,0000,,Thank you, Rin-chan!
+Dialogue: 0,0:07:03.23,0:07:05.48,Main Dialog,Haruko,0000,0000,0000,,Come on, Reina. Hold your \Nchopsticks properly.
+Dialogue: 0,0:07:05.48,0:07:06.65,Main Dialog,Reina,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:08.24,0:07:10.32,Main Dialog,Reina,0000,0000,0000,,The floor creaks!
+Dialogue: 0,0:07:08.69,0:07:11.28,Main Dialog,Haruko,0000,0000,0000,,Here, Reina, use this towel!
+Dialogue: 0,0:07:11.28,0:07:12.45,Main Dialog,Reina,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:12.45,0:07:13.66,Main Dialog,Rin,0000,0000,0000,,What's that?
+Dialogue: 0,0:07:13.66,0:07:14.74,Main Dialog,Reina,0000,0000,0000,,A bra!
+Dialogue: 0,0:07:15.03,0:07:16.20,Main Dialog,Haruko,0000,0000,0000,,Hey, Reina!
+Dialogue: 0,0:07:16.20,0:07:18.08,Main Dialog,Haruko,0000,0000,0000,,Don't pull on it like that!
+Dialogue: 0,0:07:27.42,0:07:28.34,Main Dialog,Daikichi,0000,0000,0000,,Did they fall asleep?
+Dialogue: 0,0:07:28.34,0:07:29.97,Main Dialog,Haruko,0000,0000,0000,,Yeah, finally...
+Dialogue: 0,0:07:30.59,0:07:32.55,Main Dialog,Haruko,0000,0000,0000,,It seems they were both excited.
+Dialogue: 0,0:07:32.97,0:07:36.01,Main Dialog,Haruko,0000,0000,0000,,I moved Rin-chan to \Nyour futon, Dai-chan.
+Dialogue: 0,0:07:36.01,0:07:36.97,Main Dialog,Daikichi,0000,0000,0000,,Thank you...
+Dialogue: 0,0:07:37.31,0:07:38.02,Main Dialog,Haruko,0000,0000,0000,,Thanks.
+Dialogue: 0,0:07:41.06,0:07:42.27,Main Dialog,Haruko,0000,0000,0000,,That's delicious!
+Dialogue: 0,0:07:42.27,0:07:43.77,Main Dialog,Haruko,0000,0000,0000,,It's been so long since I had alcohol.
+Dialogue: 0,0:07:43.77,0:07:45.11,Main Dialog,Daikichi,0000,0000,0000,,Want something to eat?
+Dialogue: 0,0:07:45.11,0:07:47.52,Main Dialog,Haruko,0000,0000,0000,,I gain weight easily \Nthese days, so no thanks.
+Dialogue: 0,0:07:47.90,0:07:49.19,Main Dialog,Daikichi,0000,0000,0000,,I'm not surprised...
+Dialogue: 0,0:07:49.49,0:07:51.49,Main Dialog,Haruko,0000,0000,0000,,Then I have gained weight?!
+Dialogue: 0,0:07:51.49,0:07:52.78,Main Dialog,Daikichi,0000,0000,0000,,No, no, not that.
+Dialogue: 0,0:07:52.78,0:07:54.95,Main Dialog,Daikichi,0000,0000,0000,,I just meant, now that \Nwe've hit our thirties...
+Dialogue: 0,0:07:55.99,0:07:58.16,Main Dialog,Haruko,0000,0000,0000,,I'd be happy just to be 30 again...
+Dialogue: 0,0:07:58.45,0:08:00.66,Main Dialog,Haruko,0000,0000,0000,,You can't act the same as when \Nyou were younger, you know?
+Dialogue: 0,0:08:01.04,0:08:02.41,Main Dialog,Haruko,0000,0000,0000,,You've gotta be careful.
+Dialogue: 0,0:08:02.96,0:08:05.92,Main Dialog,Haruko,0000,0000,0000,,On the other hand, my husband \Ndoesn't look at me anymore...
+Dialogue: 0,0:08:05.92,0:08:08.00,Main Dialog,Haruko,0000,0000,0000,,It's like, who am I \Nmaking an effort for?
+Dialogue: 0,0:08:13.38,0:08:14.22,Main Dialog,Daikichi,0000,0000,0000,,Haruko...
+Dialogue: 0,0:08:14.22,0:08:15.01,Main Dialog,Haruko,0000,0000,0000,,What?
+Dialogue: 0,0:08:15.01,0:08:19.18,Main Dialog,Daikichi,0000,0000,0000,,While you were all taking a \Nbath, I called your house.
+Dialogue: 0,0:08:19.72,0:08:20.72,Main Dialog,Haruko,0000,0000,0000,,Why?!
+Dialogue: 0,0:08:20.72,0:08:23.06,Main Dialog,Haruko,0000,0000,0000,,Don't do anything weird, Dai-chan!
+Dialogue: 0,0:08:23.06,0:08:24.40,Main Dialog,Daikichi,0000,0000,0000,,It's not weird.
+Dialogue: 0,0:08:24.40,0:08:26.48,Main Dialog,Daikichi,0000,0000,0000,,You want everyone there \Nto worry about you?!
+Dialogue: 0,0:08:26.48,0:08:31.40,Main Dialog,Daikichi,0000,0000,0000,,All I said was that you two were fine \Nand are going to stay here for a while.
+Dialogue: 0,0:08:31.40,0:08:33.07,Main Dialog,Daikichi,0000,0000,0000,,I didn't even give my address.
+Dialogue: 0,0:08:33.07,0:08:35.70,Main Dialog,Haruko,0000,0000,0000,,I told you already, I left a note!
+Dialogue: 0,0:08:35.70,0:08:36.70,Main Dialog,Haruko,0000,0000,0000,,So leave me alone!
+Dialogue: 0,0:08:36.70,0:08:37.74,Main Dialog,Daikichi,0000,0000,0000,,It's not about you.
+Dialogue: 0,0:08:37.74,0:08:40.58,Main Dialog,Daikichi,0000,0000,0000,,You can do what you want, but \Nthere's Reina to consider.
+Dialogue: 0,0:08:40.58,0:08:45.25,Main Dialog,Haruko,0000,0000,0000,,Reina's with me and she's doing \Nfine, so there's no problem!
+Dialogue: 0,0:08:45.25,0:08:51.92,Main Dialog,Daikichi,0000,0000,0000,,Even if that's true, if you don't tell \Nthem where you are and that Reina's okay,
+Dialogue: 0,0:08:51.92,0:08:55.47,Main Dialog,Daikichi,0000,0000,0000,,how the hell are the people \Nwho are waiting gonna know?
+Dialogue: 0,0:08:55.47,0:08:57.34,Main Dialog,Haruko,0000,0000,0000,,I don't care about the \Npeople who are waiting...
+Dialogue: 0,0:08:57.34,0:08:59.35,Main Dialog,Daikichi,0000,0000,0000,,You need to be a little more \Nlevel-headed about this.
+Dialogue: 0,0:08:59.35,0:09:01.77,Main Dialog,Daikichi,0000,0000,0000,,Do you just wanna make \Ntrouble for your family?!
+Dialogue: 0,0:08:59.43,0:09:00.43,Main Dialog,Reina,0000,0000,0000,,Rin-chan!
+Dialogue: 0,0:09:06.15,0:09:07.02,Main Dialog,Reina,0000,0000,0000,,Come in here!
+Dialogue: 0,0:09:07.02,0:09:07.81,Main Dialog,Rin,0000,0000,0000,,Okay!
+Dialogue: 0,0:09:12.07,0:09:13.90,Main Dialog,Reina,0000,0000,0000,,That's my nose!
+Dialogue: 0,0:09:17.24,0:09:20.03,Main Dialog,Reina,0000,0000,0000,,Papa and Mama are always fighting.
+Dialogue: 0,0:09:20.03,0:09:21.41,Main Dialog,Rin,0000,0000,0000,,Even though they're married?
+Dialogue: 0,0:09:21.41,0:09:25.83,Main Dialog,Reina,0000,0000,0000,,Yeah. Even though they're married, but \NI always pretend like I'm sleeping...
+Dialogue: 0,0:09:28.46,0:09:29.34,Main Dialog,Reina,0000,0000,0000,,Let's jumble up!
+Dialogue: 0,0:09:29.34,0:09:30.04,Main Dialog,Rin,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:30.25,0:09:31.75,Main Dialog,Reina,0000,0000,0000,,That tickles!
+Dialogue: 0,0:09:32.17,0:09:33.55,Main Dialog,Rin,0000,0000,0000,,That's my cheek!
+Dialogue: 0,0:09:37.09,0:09:40.43,Main Dialog,Haruko,0000,0000,0000,,Every day, I...
+Dialogue: 0,0:09:41.06,0:09:45.64,Main Dialog,Haruko,0000,0000,0000,,Ever since I got married, I've been \Nliving with my feelings bottled up!
+Dialogue: 0,0:09:45.64,0:09:48.77,Main Dialog,Haruko,0000,0000,0000,,I think I deserve to cause them \Nat least a little trouble!
+Dialogue: 0,0:09:54.19,0:09:55.53,Main Dialog,Haruko,0000,0000,0000,,Sorry, Dai-chan.
+Dialogue: 0,0:09:55.99,0:09:57.36,Main Dialog,Haruko,0000,0000,0000,,I shouldn't have said those things.
+Dialogue: 0,0:09:57.74,0:09:58.61,Main Dialog,Daikichi,0000,0000,0000,,It's okay...
+Dialogue: 0,0:09:59.32,0:10:00.70,Main Dialog,Haruko,0000,0000,0000,,I'm going to bed.
+Dialogue: 0,0:10:09.50,0:10:10.38,Main Dialog,Haruko,0000,0000,0000,,Dai-chan...
+Dialogue: 0,0:10:25.27,0:10:28.14,Main Dialog,Haruko,0000,0000,0000,,Dai-chan, good night.
+Dialogue: 0,0:10:29.90,0:10:30.73,Main Dialog,Daikichi,0000,0000,0000,,Good night.
+Dialogue: 0,0:10:42.91,0:10:44.41,Main Dialog,Haruko,0000,0000,0000,,Rin-chan...
+Dialogue: 0,0:10:44.95,0:10:46.41,Main Dialog,Rin,0000,0000,0000,,Good morning!
+Dialogue: 0,0:10:46.70,0:10:47.96,Main Dialog,Haruko,0000,0000,0000,,Good morning...
+Dialogue: 0,0:10:47.96,0:10:50.08,Main Dialog,Haruko,0000,0000,0000,,Rin-chan, are you making breakfast?
+Dialogue: 0,0:10:50.08,0:10:51.13,Main Dialog,Rin,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:10:51.13,0:10:52.79,Main Dialog,Rin,0000,0000,0000,,Daikichi, good morning!
+Dialogue: 0,0:10:52.79,0:10:54.50,Main Dialog,Rin,0000,0000,0000,,You're up early today, huh?
+Dialogue: 0,0:10:54.50,0:10:55.88,Main Dialog,Daikichi,0000,0000,0000,,Yeah, well...
+Dialogue: 0,0:10:55.88,0:10:57.51,Main Dialog,Haruko,0000,0000,0000,,Hey, Dai-chan!
+Dialogue: 0,0:10:57.51,0:10:59.38,Main Dialog,Haruko,0000,0000,0000,,You have Rin-chan make breakfast?!
+Dialogue: 0,0:10:59.38,0:11:01.22,Main Dialog,Daikichi,0000,0000,0000,,W-What do you think I am?!
+Dialogue: 0,0:11:01.22,0:11:03.60,Main Dialog,Daikichi,0000,0000,0000,,We always cook together!
+Dialogue: 0,0:11:03.60,0:11:04.56,Main Dialog,Daikichi,0000,0000,0000,,And when we use the stove, I...
+Dialogue: 0,0:11:04.56,0:11:06.68,Main Dialog,Rin,0000,0000,0000,,Be nice to each other!
+Dialogue: 0,0:11:10.19,0:11:12.98,Main Dialog,Haruko,0000,0000,0000,,Look, you've got rice on your face.
+Dialogue: 0,0:11:15.02,0:11:16.65,Main Dialog,Haruko,0000,0000,0000,,Don't take too long eating.
+Dialogue: 0,0:11:16.65,0:11:18.99,Main Dialog,Haruko,0000,0000,0000,,We're going to school by train today...
+Dialogue: 0,0:11:17.99,0:11:19.95,Main Dialog,Kouki,0000,0000,0000,,Rin-chan!
+Dialogue: 0,0:11:20.07,0:11:22.57,Main Dialog,Kouki,0000,0000,0000,,Rin-chan!
+Dialogue: 0,0:11:20.32,0:11:22.36,Main Dialog,Haruko,0000,0000,0000,,What is it? This early in the morning...
+Dialogue: 0,0:11:22.57,0:11:23.70,Main Dialog,Rin,0000,0000,0000,,It's Kouki-kun!
+Dialogue: 0,0:11:23.70,0:11:24.70,Main Dialog,Daikichi,0000,0000,0000,,Yeah, yeah!
+Dialogue: 0,0:11:24.70,0:11:26.16,Main Dialog,Daikichi,0000,0000,0000,,Just come in!
+Dialogue: 0,0:11:26.16,0:11:27.95,Main Dialog,Daikichi,0000,0000,0000,,You're disturbing the neighbors!
+Dialogue: 0,0:11:27.95,0:11:29.87,Main Dialog,Haruko,0000,0000,0000,,Is your school far, Rin-chan?
+Dialogue: 0,0:11:29.87,0:11:30.79,Main Dialog,Haruko,0000,0000,0000,,You already have to leave?
+Dialogue: 0,0:11:30.79,0:11:32.17,Main Dialog,Rin,0000,0000,0000,,Uh-uh.
+Dialogue: 0,0:11:32.17,0:11:36.71,Main Dialog,Rin,0000,0000,0000,,Kouki's mom is busy, so he \Nalways comes over early.
+Dialogue: 0,0:11:39.09,0:11:41.09,Main Dialog,Haruko,0000,0000,0000,,G-Good morning.
+Dialogue: 0,0:11:41.09,0:11:43.14,Main Dialog,Kouki,0000,0000,0000,,Daikichi, did you get married?!
+Dialogue: 0,0:11:43.14,0:11:45.85,Main Dialog,Daikichi,0000,0000,0000,,Of course not! She's my cousin!
+Dialogue: 0,0:11:45.85,0:11:48.18,Main Dialog,Kouki,0000,0000,0000,,Oh. Then like I figured, you're \Nnot gonna get married, huh?
+Dialogue: 0,0:11:48.18,0:11:50.31,Main Dialog,Daikichi,0000,0000,0000,,What's "like I figured" \Nsupposed to mean?!
+Dialogue: 0,0:11:50.73,0:11:52.48,Main Dialog,Reina,0000,0000,0000,,Daikichi, do you wanna get married?
+Dialogue: 0,0:11:52.98,0:11:54.69,Main Dialog,Daikichi,0000,0000,0000,,Look, I don't even know...
+Dialogue: 0,0:11:54.69,0:11:57.23,Main Dialog,Reina,0000,0000,0000,,Mama, for you, single is better, right?
+Dialogue: 0,0:11:58.90,0:12:00.65,Main Dialog,Rin,0000,0000,0000,,What's "single"?
+Dialogue: 0,0:12:00.65,0:12:02.49,Main Dialog,Reina,0000,0000,0000,,It's not getting married.
+Dialogue: 0,0:12:02.49,0:12:04.32,Main Dialog,Rin,0000,0000,0000,,I know that one! "Divorce", right?!
+Dialogue: 0,0:12:04.62,0:12:06.45,Main Dialog,Reina,0000,0000,0000,,I don't know "divorce"!
+Dialogue: 0,0:12:07.41,0:12:11.37,Main Dialog,Rin,0000,0000,0000,,Reina-chan, your mom is married \Nbut single is better...
+Dialogue: 0,0:12:11.37,0:12:14.25,Main Dialog,Rin,0000,0000,0000,,Daikichi, you're single, but \Nis married better for you?
+Dialogue: 0,0:12:14.25,0:12:16.67,Main Dialog,Reina,0000,0000,0000,,Adults really are weird, you know?
+Dialogue: 0,0:12:16.67,0:12:18.42,Main Dialog,Rin,0000,0000,0000,,They are, aren't they?
+Dialogue: 0,0:12:20.59,0:12:23.01,Main Dialog,Kouki,0000,0000,0000,,Daikichi, can I have a rice ball?
+Dialogue: 0,0:12:23.63,0:12:25.26,Main Dialog,Daikichi,0000,0000,0000,,You had breakfast before \Ncoming, didn't you?
+Dialogue: 0,0:12:25.26,0:12:26.30,Main Dialog,Kouki,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:27.22,0:12:28.76,Main Dialog,Daikichi,0000,0000,0000,,Fine, have one.
+Dialogue: 0,0:12:28.76,0:12:29.77,Main Dialog,Daikichi,0000,0000,0000,,It was supposed to be for me, though...
+Dialogue: 0,0:12:29.77,0:12:30.93,Main Dialog,Kouki,0000,0000,0000,,Yes!!
+Dialogue: 0,0:12:32.10,0:12:34.06,Main Dialog,Rin,0000,0000,0000,,{\a6}You didn't eat breakfast?
+Dialogue: 0,0:12:34.06,0:12:35.81,Main Dialog,Rin,0000,0000,0000,,{\a6}Why did you eat again?
+Dialogue: 0,0:12:34.06,0:12:36.56,Main Dialog,Haruko,0000,0000,0000,,You're good-natured \Nto a fault, Dai-chan.
+Dialogue: 0,0:12:35.81,0:12:36.56,Main Dialog,Kouki,0000,0000,0000,,{\a6}What's the problem?
+Dialogue: 0,0:12:36.56,0:12:38.02,Main Dialog,Kouki,0000,0000,0000,,{\a6}I had one because I wanted one!
+Dialogue: 0,0:12:36.81,0:12:39.07,Main Dialog,Daikichi,0000,0000,0000,,What, 'cause I gave him a rice ball?
+Dialogue: 0,0:12:38.02,0:12:39.07,Main Dialog,Reina,0000,0000,0000,,{\a6}You're strange.
+Dialogue: 0,0:12:39.07,0:12:40.19,Main Dialog,Haruko,0000,0000,0000,,No, not that.
+Dialogue: 0,0:12:40.19,0:12:41.03,Main Dialog,Daikichi,0000,0000,0000,,Hah?
+Dialogue: 0,0:12:41.53,0:12:44.41,Main Dialog,Haruko,0000,0000,0000,,You must be just as \Nbusy as she is, right?
+Dialogue: 0,0:12:44.41,0:12:47.03,Main Dialog,Haruko,0000,0000,0000,,You really must have a thing \Nfor that beautiful mother...
+Dialogue: 0,0:12:47.87,0:12:50.24,Main Dialog,Daikichi,0000,0000,0000,,St-Stu... Dumbass!
+Dialogue: 0,0:12:50.24,0:12:51.58,Main Dialog,Daikichi,0000,0000,0000,,That again?!
+Dialogue: 0,0:12:53.33,0:12:56.67,Main Dialog,Daikichi,0000,0000,0000,,I just thought I could help \Nher out a little, is all...
+Dialogue: 0,0:12:56.67,0:12:59.38,Main Dialog,Daikichi,0000,0000,0000,,And Rin gets along with them, too, so...
+Dialogue: 0,0:12:59.75,0:13:01.17,Main Dialog,Daikichi,0000,0000,0000,,But that's all it is.
+Dialogue: 0,0:13:01.51,0:13:03.47,Main Dialog,Daikichi,0000,0000,0000,,I don't know the details,
+Dialogue: 0,0:13:03.47,0:13:07.05,Main Dialog,Daikichi,0000,0000,0000,,but I'm pretty sure Kouki and his \Nmother have been through a lot.
+Dialogue: 0,0:13:07.05,0:13:09.81,Main Dialog,Daikichi,0000,0000,0000,,It would be rude of \Nme to be too forward.
+Dialogue: 0,0:13:12.43,0:13:15.77,Main Dialog,Haruko,0000,0000,0000,,It must be hard, being \Na woman on her own...
+Dialogue: 0,0:13:17.48,0:13:21.94,Main Dialog,Haruko,0000,0000,0000,,Reina! I told you before, if you \Ndon't hurry up, you're gonna be late!
+Dialogue: 0,0:13:18.69,0:13:20.27,Main Dialog,Reina,0000,0000,0000,,{\a6}Mama always has just one piece of toast.
+Dialogue: 0,0:13:19.57,0:13:20.69,Main Dialog,Daikichi,0000,0000,0000,,Haruko...
+Dialogue: 0,0:13:20.27,0:13:21.94,Main Dialog,Reina,0000,0000,0000,,{\a6}She says she's on a diet.
+Dialogue: 0,0:13:22.19,0:13:24.03,Main Dialog,Kid A,0000,0000,0000,,Good morning!
+Dialogue: 0,0:13:24.03,0:13:25.86,Main Dialog,Teacher,0000,0000,0000,,Good morning.
+Dialogue: 0,0:13:25.86,0:13:27.82,Main Dialog,Haruko,0000,0000,0000,,It's a secret that we're \Nstaying with Daikichi.
+Dialogue: 0,0:13:28.45,0:13:29.62,Main Dialog,Reina,0000,0000,0000,,Why?
+Dialogue: 0,0:13:29.62,0:13:31.49,Main Dialog,Haruko,0000,0000,0000,,Because I said so! Understand?
+Dialogue: 0,0:13:31.74,0:13:32.62,Main Dialog,Reina,0000,0000,0000,,Okay!
+Dialogue: 0,0:13:32.62,0:13:33.87,Main Dialog,Reina,0000,0000,0000,,Good morning!
+Dialogue: 0,0:13:33.87,0:13:34.79,Main Dialog,Friend A,0000,0000,0000,,Good morning!
+Dialogue: 0,0:13:35.12,0:13:37.29,Main Dialog,Friend B,0000,0000,0000,,Reina-chan, did you \Ncome with your mother?
+Dialogue: 0,0:13:37.29,0:13:38.83,Main Dialog,Reina,0000,0000,0000,,Yeah, that's right!
+Dialogue: 0,0:13:38.83,0:13:42.42,Main Dialog,Reina,0000,0000,0000,,We secretly ran away from home, \Nso I came by train today!
+Dialogue: 0,0:13:43.09,0:13:44.76,Main Dialog,Friend A,0000,0000,0000,,What the...?!
+Dialogue: 0,0:14:08.91,0:14:10.12,Main Dialog,Boy,0000,0000,0000,,Wait!
+Dialogue: 0,0:14:10.12,0:14:11.24,Main Dialog,Boy,0000,0000,0000,,Hey!
+Dialogue: 0,0:14:11.70,0:14:14.58,Main Dialog,Mom,0000,0000,0000,,Didn't I tell you to \Nhold onto it tight?!
+Dialogue: 0,0:14:14.58,0:14:16.83,Main Dialog,Mom,0000,0000,0000,,I'm not gonna get another one for you!
+Dialogue: 0,0:14:19.29,0:14:21.88,Main Dialog,Boy,0000,0000,0000,,But maybe it'll get home before us!
+Dialogue: 0,0:14:23.17,0:14:25.42,Main Dialog,Mom,0000,0000,0000,,Maybe! Maybe it will...
+Dialogue: 0,0:14:31.47,0:14:32.93,Main Dialog,Gotou,0000,0000,0000,,Have a nice evening.
+Dialogue: 0,0:14:32.93,0:14:34.97,Main Dialog,Daikichi,0000,0000,0000,,Huh? You're working late.
+Dialogue: 0,0:14:34.97,0:14:37.06,Main Dialog,Gotou,0000,0000,0000,,Yeah, my husband's watching him at home.
+Dialogue: 0,0:14:37.06,0:14:38.64,Main Dialog,Daikichi,0000,0000,0000,,Oh. How's Yuu-kun doing?
+Dialogue: 0,0:14:38.64,0:14:40.06,Main Dialog,Gotou,0000,0000,0000,,He's fine!
+Dialogue: 0,0:14:40.06,0:14:43.32,Main Dialog,Gotou,0000,0000,0000,,Actually, he's so rambunctious these \Ndays, he's more than I can handle.
+Dialogue: 0,0:14:44.78,0:14:47.36,Main Dialog,Daikichi,0000,0000,0000,,But it's nice that your \Nhusband helps out.
+Dialogue: 0,0:14:47.36,0:14:48.86,Main Dialog,Gotou,0000,0000,0000,,This is the first time!
+Dialogue: 0,0:14:48.86,0:14:51.24,Main Dialog,Gotou,0000,0000,0000,,His business trip was suddenly \Nrescheduled, so he has the day off.
+Dialogue: 0,0:14:51.24,0:14:52.07,Main Dialog,Daikichi,0000,0000,0000,,Oh...
+Dialogue: 0,0:14:52.07,0:14:55.79,Main Dialog,Gotou,0000,0000,0000,,There's no way I can rely on \Nmy husband to raise our kid.
+Dialogue: 0,0:14:57.75,0:14:59.29,Main Dialog,Rin,0000,0000,0000,,Hurry up! Hurry up!
+Dialogue: 0,0:14:59.58,0:15:01.58,Main Dialog,Rin,0000,0000,0000,,Reina-chan is waiting!
+Dialogue: 0,0:15:02.00,0:15:02.79,Main Dialog,Daikichi,0000,0000,0000,,Okay, okay...
+Dialogue: 0,0:15:18.35,0:15:21.44,Main Dialog,Rin,0000,0000,0000,,We're home! Reina-chan!
+Dialogue: 0,0:15:29.49,0:15:31.49,Main Dialog,Haruko,0000,0000,0000,,They fell asleep right away tonight.
+Dialogue: 0,0:15:32.24,0:15:34.62,Main Dialog,Daikichi,0000,0000,0000,,Haruko, don't tell me...
+Dialogue: 0,0:15:34.62,0:15:36.95,Main Dialog,Daikichi,0000,0000,0000,,You don't intend to make a \Nbig thing of this, do you?
+Dialogue: 0,0:15:38.91,0:15:41.29,Main Dialog,Haruko,0000,0000,0000,,Oh, you mean divorce \Nor something like that?
+Dialogue: 0,0:15:41.87,0:15:43.63,Main Dialog,Daikichi,0000,0000,0000,,Yeah, that.
+Dialogue: 0,0:15:44.84,0:15:47.13,Main Dialog,Haruko,0000,0000,0000,,No, no. That won't happen.
+Dialogue: 0,0:15:48.26,0:15:50.97,Main Dialog,Daikichi,0000,0000,0000,,W-What the hell? I wasted \Ntime worrying about it.
+Dialogue: 0,0:15:50.97,0:15:54.35,Main Dialog,Haruko,0000,0000,0000,,Well, I have thought about \Nit any number of times...
+Dialogue: 0,0:15:55.10,0:15:57.89,Main Dialog,Haruko,0000,0000,0000,,In fact, I think about \Nit almost every day...
+Dialogue: 0,0:15:58.52,0:16:01.44,Main Dialog,Haruko,0000,0000,0000,,After all, if I come to think \Nof my husband as the enemy
+Dialogue: 0,0:16:01.44,0:16:03.48,Main Dialog,Haruko,0000,0000,0000,,while living in his family's house...
+Dialogue: 0,0:16:04.69,0:16:07.78,Main Dialog,Haruko,0000,0000,0000,,Except for Reina, they're \Nall enemies to me.
+Dialogue: 0,0:16:07.78,0:16:10.28,Main Dialog,Haruko,0000,0000,0000,,I think of just the two of us as family.
+Dialogue: 0,0:16:10.28,0:16:14.62,Main Dialog,Haruko,0000,0000,0000,,But that isn't being realistic, is it?
+Dialogue: 0,0:16:14.62,0:16:18.58,Main Dialog,Haruko,0000,0000,0000,,There's Reina... and the question \Nof my ability to earn a living...
+Dialogue: 0,0:16:18.58,0:16:22.25,Main Dialog,Haruko,0000,0000,0000,,And all the problems I'd have to face \Nbefore I could reach that point...
+Dialogue: 0,0:16:22.83,0:16:27.92,Main Dialog,Haruko,0000,0000,0000,,In my case, at the end of the day, it \Nlooks like I'm better off where I am.
+Dialogue: 0,0:16:28.34,0:16:31.72,Main Dialog,Haruko,0000,0000,0000,,I got engaged soon after \NI joined the company...
+Dialogue: 0,0:16:32.97,0:16:37.51,Main Dialog,Haruko,0000,0000,0000,,When I was young, all I thought \Nabout was becoming a good wife.
+Dialogue: 0,0:16:38.18,0:16:40.60,Main Dialog,Haruko,0000,0000,0000,,I have no choice... do I?
+Dialogue: 0,0:16:40.93,0:16:43.35,Main Dialog,Haruko,0000,0000,0000,,And that's the only way \NI can protect Reina...
+Dialogue: 0,0:16:44.44,0:16:48.77,Main Dialog,Daikichi,0000,0000,0000,,You know, I've never been married, \Nbut it seems like it's hard,
+Dialogue: 0,0:16:48.77,0:16:50.07,Main Dialog,Daikichi,0000,0000,0000,,even for a normal family.
+Dialogue: 0,0:16:50.69,0:16:52.74,Main Dialog,Haruko,0000,0000,0000,,Dai-chan, you do it all by yourself.
+Dialogue: 0,0:16:52.74,0:16:54.11,Main Dialog,Haruko,0000,0000,0000,,It's amazing.
+Dialogue: 0,0:16:54.11,0:16:56.66,Main Dialog,Daikichi,0000,0000,0000,,Nah, I haven't been able \Nto do anything for her.
+Dialogue: 0,0:16:56.66,0:16:59.79,Main Dialog,Haruko,0000,0000,0000,,That's not true. Rin-chan \Nlooks really happy.
+Dialogue: 0,0:17:00.37,0:17:03.00,Main Dialog,Haruko,0000,0000,0000,,When she's cooking for \Nyou, for example...
+Dialogue: 0,0:17:04.33,0:17:07.50,Main Dialog,Haruko,0000,0000,0000,,Kouki-kun and his mom are doing their \Nbest too, with just the two of them.
+Dialogue: 0,0:17:07.50,0:17:10.17,Main Dialog,Haruko,0000,0000,0000,,So Reina and I can hang in there.
+Dialogue: 0,0:17:10.17,0:17:11.80,Main Dialog,Daikichi,0000,0000,0000,,All this "the two of us"...
+Dialogue: 0,0:17:12.05,0:17:14.09,Main Dialog,Daikichi,0000,0000,0000,,Do you talk to your husband about this?
+Dialogue: 0,0:17:14.34,0:17:18.80,Main Dialog,Haruko,0000,0000,0000,,Mmm, he works overtime every night and \Nwe never have a decent conversation.
+Dialogue: 0,0:17:19.81,0:17:22.22,Main Dialog,Haruko,0000,0000,0000,,That's why Reina and I will do our best.
+Dialogue: 0,0:17:22.60,0:17:26.23,Main Dialog,Haruko,0000,0000,0000,,Besides, I've been putting \Nup with it for years now.
+Dialogue: 0,0:17:26.23,0:17:28.02,Main Dialog,Haruko,0000,0000,0000,,I'm sure I can keep at it.
+Dialogue: 0,0:17:28.40,0:17:32.74,Main Dialog,Haruko,0000,0000,0000,,As long as I try to not feel anything, \NI can hold out, more or less.
+Dialogue: 0,0:17:34.11,0:17:36.07,Main Dialog,Daikichi,0000,0000,0000,,That sounds really unhealthy...
+Dialogue: 0,0:17:36.07,0:17:37.07,Main Dialog,Haruko,0000,0000,0000,,It's just the opposite!
+Dialogue: 0,0:17:37.07,0:17:38.70,Main Dialog,Haruko,0000,0000,0000,,My health would be messed \Nup if I {\i1}didn't{\i0} do that.
+Dialogue: 0,0:17:40.87,0:17:43.25,Main Dialog,Daikichi,0000,0000,0000,,You've gotten stronger, Haruko...
+Dialogue: 0,0:17:43.62,0:17:45.50,Main Dialog,Haruko,0000,0000,0000,,Mmm, I don't know about that...
+Dialogue: 0,0:17:45.50,0:17:47.29,Main Dialog,Haruko,0000,0000,0000,,After you give birth and raise a kid,
+Dialogue: 0,0:17:47.29,0:17:50.42,Main Dialog,Haruko,0000,0000,0000,,there are times when you need \Nenormous strength, right?
+Dialogue: 0,0:17:50.42,0:17:52.34,Main Dialog,Haruko,0000,0000,0000,,Especially when they're still a baby...
+Dialogue: 0,0:17:53.92,0:17:57.43,Main Dialog,Daikichi,0000,0000,0000,,I don't know what it's \Nlike with a baby, but...
+Dialogue: 0,0:17:57.76,0:18:01.06,Main Dialog,Haruko,0000,0000,0000,,And while you're keeping \Nthat up, for some reason...
+Dialogue: 0,0:18:01.06,0:18:02.97,Main Dialog,Haruko,0000,0000,0000,,You naturally become like this.
+Dialogue: 0,0:18:03.60,0:18:06.44,Main Dialog,Haruko,0000,0000,0000,,I really don't wanna be an old woman...
+Dialogue: 0,0:18:06.44,0:18:09.77,Main Dialog,Haruko,0000,0000,0000,,I never wanted to become \Nstrong, especially...
+Dialogue: 0,0:18:12.48,0:18:16.11,Main Dialog,Haruko,0000,0000,0000,,If I could, I'd be a girl forever...
+Dialogue: 0,0:18:20.66,0:18:22.12,Main Dialog,Haruko,0000,0000,0000,,I'm sorry, Dai-chan.
+Dialogue: 0,0:18:22.12,0:18:23.12,Main Dialog,Haruko,0000,0000,0000,,Thank you.
+Dialogue: 0,0:18:23.12,0:18:25.08,Main Dialog,Haruko,0000,0000,0000,,We'll go home tomorrow.
+Dialogue: 0,0:18:25.91,0:18:27.04,Main Dialog,Daikichi,0000,0000,0000,,I see...
+Dialogue: 0,0:18:29.71,0:18:31.75,Main Dialog,Daikichi,0000,0000,0000,,What is "marriage"?
+Dialogue: 0,0:18:32.42,0:18:34.42,Main Dialog,Daikichi,0000,0000,0000,,What does it mean to become a parent?
+Dialogue: 0,0:18:41.43,0:18:42.55,Main Dialog,Daikichi,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:18:42.55,0:18:43.97,Main Dialog,Daikichi,0000,0000,0000,,It's your turn, Reina.
+Dialogue: 0,0:18:45.06,0:18:46.14,Main Dialog,Haruko,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:18:46.68,0:18:47.56,Main Dialog,Reina,0000,0000,0000,,I knew it!
+Dialogue: 0,0:18:47.56,0:18:48.48,Main Dialog,Haruko,0000,0000,0000,,What?
+Dialogue: 0,0:18:48.48,0:18:49.73,Main Dialog,Reina,0000,0000,0000,,Papa's car!
+Dialogue: 0,0:18:51.56,0:18:54.02,Main Dialog,Haruko,0000,0000,0000,,Papa's coming after \Nhe finishes his work.
+Dialogue: 0,0:18:54.02,0:18:55.86,Main Dialog,Haruko,0000,0000,0000,,You know he wouldn't be this early.
+Dialogue: 0,0:18:55.86,0:18:57.86,Main Dialog,Reina,0000,0000,0000,,I'm positive it's Papa!
+Dialogue: 0,0:18:57.86,0:18:59.74,Main Dialog,Reina,0000,0000,0000,,I'm not wrong!
+Dialogue: 0,0:18:59.74,0:19:02.07,Main Dialog,Haruko,0000,0000,0000,,It's not him, I say! Reina!
+Dialogue: 0,0:19:04.03,0:19:05.58,Main Dialog,Reina,0000,0000,0000,,Papa!
+Dialogue: 0,0:19:05.83,0:19:07.58,Main Dialog,Hideyuki,0000,0000,0000,,I was worried about you, Reina.
+Dialogue: 0,0:19:07.58,0:19:09.50,Main Dialog,Reina,0000,0000,0000,,I was worried, too!
+Dialogue: 0,0:19:10.29,0:19:11.50,Main Dialog,Hideyuki,0000,0000,0000,,Sorry.
+Dialogue: 0,0:19:11.50,0:19:15.84,Main Dialog,Haruko,0000,0000,0000,,What? So if he wants to get off \Nwork at this time, he {\i1}can{\i0}, huh?
+Dialogue: 0,0:19:16.21,0:19:18.09,Main Dialog,Daikichi,0000,0000,0000,,Hey, don't put it like that!
+Dialogue: 0,0:19:18.09,0:19:19.72,Main Dialog,Daikichi,0000,0000,0000,,It's tough working for a company, too...
+Dialogue: 0,0:19:19.72,0:19:21.18,Main Dialog,Haruko,0000,0000,0000,,Stupid Hideyuki-san...
+Dialogue: 0,0:19:21.84,0:19:23.39,Main Dialog,Hideyuki,0000,0000,0000,,I apologize.
+Dialogue: 0,0:19:23.39,0:19:25.18,Main Dialog,Hideyuki,0000,0000,0000,,Haruko caused you so much trouble...
+Dialogue: 0,0:19:25.18,0:19:29.02,Main Dialog,Daikichi,0000,0000,0000,,Oh, no, no... I didn't really...
+Dialogue: 0,0:19:28.23,0:19:31.15,Main Dialog,Hideyuki,0000,0000,0000,,{\a6}I really don't know what to say...
+Dialogue: 0,0:19:29.52,0:19:31.15,Main Dialog,Daikichi,0000,0000,0000,,I'm wearing the wrong clothes!
+Dialogue: 0,0:19:33.77,0:19:35.82,Main Dialog,Haruko,0000,0000,0000,,Thanks a lot, Dai-chan.
+Dialogue: 0,0:19:36.98,0:19:39.95,Main Dialog,Haruko,0000,0000,0000,,You'd think Papa would at \Nleast carry our bags, right?
+Dialogue: 0,0:19:39.95,0:19:41.45,Main Dialog,Haruko,0000,0000,0000,,He's so inconsiderate.
+Dialogue: 0,0:19:41.45,0:19:43.53,Main Dialog,Reina,0000,0000,0000,,I know! He's {\i1}inconsirit{\i0}!
+Dialogue: 0,0:19:46.41,0:19:50.00,Main Dialog,Daikichi,0000,0000,0000,,If you ever feel like it, \Nyou can come back anytime.
+Dialogue: 0,0:19:50.00,0:19:53.58,Main Dialog,Haruko,0000,0000,0000,,Oh... I can't put you out \Nmore than I already have.
+Dialogue: 0,0:19:53.58,0:19:55.59,Main Dialog,Daikichi,0000,0000,0000,,No... That's not what I mean.
+Dialogue: 0,0:19:56.59,0:19:59.63,Main Dialog,Daikichi,0000,0000,0000,,Rin is always saying that \Nshe wants to see Reina-chan.
+Dialogue: 0,0:20:04.05,0:20:06.10,Main Dialog,Haruko,0000,0000,0000,,Thank you... Dai-chan...
+Dialogue: 0,0:20:06.10,0:20:06.93,Main Dialog,Reina,0000,0000,0000,,Mama! Mama!
+Dialogue: 0,0:20:06.93,0:20:09.35,Main Dialog,Reina,0000,0000,0000,,Then can we come again on Sunday?
+Dialogue: 0,0:20:09.77,0:20:11.39,Main Dialog,Haruko,0000,0000,0000,,L-Listen, Reina...
+Dialogue: 0,0:20:12.02,0:20:15.36,Main Dialog,Daikichi,0000,0000,0000,,When she was a girl, \NHaruka was a crybaby.
+Dialogue: 0,0:20:15.90,0:20:20.36,Main Dialog,Daikichi,0000,0000,0000,,Last night, she muttered that she \Nwanted to stay a girl forever.
+Dialogue: 0,0:20:21.95,0:20:23.16,Main Dialog,Haruko,0000,0000,0000,,Well...
+Dialogue: 0,0:20:23.16,0:20:26.53,Main Dialog,Daikichi,0000,0000,0000,,Next time you come, why \Nnot pack a little lighter?
+Dialogue: 0,0:20:26.53,0:20:27.91,Main Dialog,Daikichi,0000,0000,0000,,I hate even looking at that bag.
+Dialogue: 0,0:20:29.79,0:20:31.16,Main Dialog,Haruko,0000,0000,0000,,Impossible!
+Dialogue: 0,0:20:31.16,0:20:33.29,Main Dialog,Haruko,0000,0000,0000,,Girls always have a heavy load to bear.
+Dialogue: 0,0:20:33.87,0:20:36.13,Main Dialog,Haruko,0000,0000,0000,,This is nothing.
+Dialogue: 0,0:20:34.92,0:20:36.00,Main Dialog,Reina,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:20:36.13,0:20:37.42,Main Dialog,Rin,0000,0000,0000,,I'll see you off!
+Dialogue: 0,0:20:47.85,0:20:53.02,Ending Song,Ending Song,0000,0000,0000,,A sunny early Sunday afternoon
+Dialogue: 0,0:20:53.02,0:20:56.06,Ending Song,Ending Song,0000,0000,0000,,Let's go somewhere today
+Dialogue: 0,0:20:58.32,0:21:02.86,Ending Song,Ending Song,0000,0000,0000,,It's the same road I'm used to traveling
+Dialogue: 0,0:21:02.86,0:21:07.45,Ending Song,Ending Song,0000,0000,0000,,But I can see it sparkling so bright
+Dialogue: 0,0:21:08.62,0:21:12.91,Ending Song,Ending Song,0000,0010,0000,,With the sun shining down its warmth
+Dialogue: 0,0:21:13.87,0:21:17.84,Ending Song,Ending Song,0000,0000,0000,,And you here by my side...
+Dialogue: 0,0:21:17.84,0:21:22.55,Ending Song,Ending Song,0000,0000,0000,,I'm already high, high, high
+Dialogue: 0,0:21:22.55,0:21:28.26,Ending Song,Ending Song,0000,0000,0000,,I feel like dashing out
+Dialogue: 0,0:21:28.26,0:21:32.73,Ending Song,Ending Song,0000,0000,0000,,Sing, la, la, la
+Dialogue: 0,0:21:33.06,0:21:38.69,Ending Song,Ending Song,0000,0000,0000,,My voice out to forever
+Dialogue: 0,0:21:38.69,0:21:43.40,Ending Song,Ending Song,0000,0000,0000,,I'm already high, high, high
+Dialogue: 0,0:21:43.40,0:21:49.07,Ending Song,Ending Song,0000,0000,0000,,Ride the dancing wind
+Dialogue: 0,0:21:49.07,0:21:53.91,Ending Song,Ending Song,0000,0000,0000,,Sing, la, la, la
+Dialogue: 0,0:21:53.91,0:21:58.88,Ending Song,Ending Song,0000,0000,0000,,My voice springs up
+Dialogue: 0,0:22:11.51,0:22:12.93,Main Dialog,Kouki's Mom,0000,0000,0000,,How about this one?
+Dialogue: 0,0:22:12.93,0:22:13.68,Main Dialog,Rin,0000,0000,0000,,Yeah!
+Dialogue: 0,0:22:14.06,0:22:17.27,Main Dialog,Kouki's Mom,0000,0000,0000,,But maybe this one suits \Nyou more, Rin-chan...
+Dialogue: 0,0:22:17.27,0:22:17.94,Main Dialog,Kouki's Mom,0000,0000,0000,,Here, what do you think?
+Dialogue: 0,0:22:18.19,0:22:20.06,Main Dialog,Rin,0000,0000,0000,,Can I try this one on too?
+Dialogue: 0,0:22:20.06,0:22:21.23,Main Dialog,Kouki's Mom,0000,0000,0000,,Yes, sure.
+Dialogue: 0,0:22:21.23,0:22:22.86,Main Dialog,Kouki,0000,0000,0000,,I'm thirsty!
+Dialogue: 0,0:22:22.86,0:22:25.28,Main Dialog,Kouki's Mom,0000,0000,0000,,She just has to try this one on...
+Dialogue: 0,0:22:25.28,0:22:27.91,Main Dialog,Kouki's Mom,0000,0000,0000,,Oh, don't you like this one?!
+Dialogue: 0,0:22:27.91,0:22:31.41,Main Dialog,Daikichi,0000,0000,0000,,Um, Kouki and I are gonna stroll around.
+Dialogue: 0,0:22:31.41,0:22:32.83,Main Dialog,Kouki's Mom,0000,0000,0000,,Okay!
+Dialogue: 0,0:22:32.83,0:22:35.20,Main Dialog,Kouki's Mom,0000,0000,0000,,See, this one is really you!
+Dialogue: 0,0:22:33.24,0:22:34.24,Main Dialog,Daikichi,0000,0000,0000,,Let's go.
+Dialogue: 0,0:22:35.20,0:22:37.12,Main Dialog,Kouki's Mom,0000,0000,0000,,You look so cute, Rin-chan!
+Dialogue: 0,0:22:42.54,0:22:43.38,Main Dialog,Daikichi,0000,0000,0000,,{\i1}That{\i0} good?  {I exaggerate a little}
+Dialogue: 0,0:22:43.84,0:22:45.13,Main Dialog,Kouki,0000,0000,0000,,It tastes like summer!
+Dialogue: 0,0:22:47.55,0:22:48.38,Main Dialog,Daikichi,0000,0000,0000,,I hear ya!

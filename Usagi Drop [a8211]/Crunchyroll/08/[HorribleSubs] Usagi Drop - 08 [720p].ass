@@ -1,0 +1,320 @@
+﻿[Script Info]
+Title: fuckoff
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Caption Top,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Caption Top Left,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Caption Top Right,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Main Dialog,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Main Dialog Italic,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Opening Song,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+Style: Ending Song,Calibri,32,&H00F9F9F9,&HFFFFFFFF,&H002B2B2B,&H96000000,-1,0,0,0,100,110,0,0,1,2.5,0,2,150,150,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:35.72,0:00:38.01,Caption Top,Sign,0000,0000,0000,,August
+Dialogue: 0,0:01:10.96,0:01:14.09,Opening Song,Opening Song,0000,0000,0000,,I dunno about tomorrow.
+Dialogue: 0,0:01:14.09,0:01:19.22,Opening Song,Opening Song,0000,0000,0000,,It's different than a sacrifice. Something's off.
+Dialogue: 0,0:01:19.22,0:01:22.89,Opening Song,Opening Song,0000,0000,0000,,I don't think it's like some penalty game.
+Dialogue: 0,0:01:22.89,0:01:26.14,Opening Song,Opening Song,0000,0000,0000,,So, why? I don't get it at all.
+Dialogue: 0,0:01:26.14,0:01:31.19,Opening Song,Opening Song,0000,0000,0000,,I'm a little bit unsatisfied, but your presence
+Dialogue: 0,0:01:31.19,0:01:35.15,Opening Song,Opening Song,0000,0000,0000,,right now is more than just important.
+Dialogue: 0,0:01:35.40,0:01:38.24,Opening Song,Opening Song,0000,0000,0000,,There's no such thing in this world
+Dialogue: 0,0:01:38.24,0:01:41.45,Opening Song,Opening Song,0000,0000,0000,,as something never-ending.
+Dialogue: 0,0:01:42.37,0:01:48.71,Opening Song,Opening Song,0000,0000,0000,,Crying isn't painful, it's love's sweet drops, sweet drops!
+Dialogue: 0,0:01:48.71,0:01:51.84,Opening Song,Opening Song,0000,0000,0000,,I want to keep dreaming forever, ya know?
+Dialogue: 0,0:01:51.84,0:01:55.30,Opening Song,Opening Song,0000,0000,0000,,I want to be more kind, ya know?
+Dialogue: 0,0:01:55.30,0:01:58.88,Opening Song,Opening Song,0000,0000,0000,,As long as I’m with you, I’m happy.
+Dialogue: 0,0:01:58.88,0:02:02.39,Opening Song,Opening Song,0000,0000,0000,,Girls sure are strong, ya know?
+Dialogue: 0,0:02:02.39,0:02:05.64,Opening Song,Opening Song,0000,0000,0000,,But sometimes we're weak, ya know?
+Dialogue: 0,0:02:05.64,0:02:11.90,Opening Song,Opening Song,0000,0000,0000,,Our wish is to be happy, happy, happy!
+Dialogue: 0,0:02:11.90,0:02:15.82,Opening Song,Opening Song,0000,0000,0000,,And those days will be happy, too!
+Dialogue: 0,0:02:19.03,0:02:23.41,Opening Song,Opening Song,0000,0000,0000,,Just wanna make you happy!
+Dialogue: 0,0:02:46.27,0:02:47.77,Main Dialog,Boyfriend,0000,0000,0000,,Saionji-sensei...
+Dialogue: 0,0:02:49.52,0:02:51.40,Main Dialog,Boyfriend,0000,0000,0000,,Please get a little sleep.
+Dialogue: 0,0:02:52.90,0:02:54.19,Main Dialog,Masako,0000,0000,0000,,I'm fine...
+Dialogue: 0,0:02:56.32,0:02:59.11,Main Dialog,Masako,0000,0000,0000,,In fact, if I fall asleep \Nnow, I won't get this done.
+Dialogue: 0,0:02:59.53,0:03:00.57,Main Dialog,Boyfriend,0000,0000,0000,,Hey.
+Dialogue: 0,0:03:01.78,0:03:03.62,Main Dialog,Boyfriend,0000,0000,0000,,Let's get a breath of fresh air.
+Dialogue: 0,0:03:05.41,0:03:06.83,Main Dialog,Boyfriend,0000,0000,0000,,We're taking a break.
+Dialogue: 0,0:03:06.83,0:03:07.79,Main Dialog,Assistant A,0000,0000,0000,,Okay.
+Dialogue: 0,0:03:08.00,0:03:09.04,Main Dialog,Assistant B,0000,0000,0000,,See you later.
+Dialogue: 0,0:03:09.83,0:03:11.67,Main Dialog,Boyfriend,0000,0000,0000,,You guys take a break too \Nwhen you get a chance.
+Dialogue: 0,0:03:13.17,0:03:16.09,Main Dialog,Boyfriend,0000,0000,0000,,Call my cell if you need anything.
+Dialogue: 0,0:03:19.30,0:03:21.47,Main Dialog,Boyfriend,0000,0000,0000,,We'll squeak by tonight.
+Dialogue: 0,0:03:22.34,0:03:23.22,Main Dialog,Boyfriend,0000,0000,0000,,Let's go.
+Dialogue: 0,0:03:53.54,0:03:55.00,Main Dialog,Rin,0000,0000,0000,,Daikichi!
+Dialogue: 0,0:03:58.42,0:03:59.76,Main Dialog,Masako,0000,0000,0000,,It's hot...
+Dialogue: 0,0:04:03.59,0:04:05.14,Main Dialog,Boyfriend,0000,0000,0000,,It's like ice.
+Dialogue: 0,0:04:05.47,0:04:07.05,Main Dialog,Boyfriend,0000,0000,0000,,You're too cold.
+Dialogue: 0,0:04:07.05,0:04:12.81,Main Dialog,Masako,0000,0000,0000,,Well, if I turn off the AC, the boys \Nmess up the manuscript with their sweat.
+Dialogue: 0,0:04:12.81,0:04:15.73,Main Dialog,Boyfriend,0000,0000,0000,,The body can cool down \Nfrom stress, too...
+Dialogue: 0,0:04:15.98,0:04:17.19,Main Dialog,Masako,0000,0000,0000,,Oh yeah?
+Dialogue: 0,0:04:28.12,0:04:31.41,Main Dialog,Boyfriend,0000,0000,0000,,About that new offer you were \Ntalking about the other day...
+Dialogue: 0,0:04:32.20,0:04:34.87,Main Dialog,Boyfriend,0000,0000,0000,,I don't think letting the quality \Nof your current work drop
+Dialogue: 0,0:04:34.87,0:04:37.25,Main Dialog,Boyfriend,0000,0000,0000,,is worth taking it on...
+Dialogue: 0,0:04:40.55,0:04:43.67,Main Dialog,Boyfriend,0000,0000,0000,,But Ma-chan, you don't really have \Na strong constitution or will.
+Dialogue: 0,0:04:43.88,0:04:46.68,Main Dialog,Boyfriend,0000,0000,0000,,And you're making a \Ndecent living as it is,
+Dialogue: 0,0:04:46.68,0:04:48.35,Main Dialog,Boyfriend,0000,0000,0000,,so there's no need to be greedy.
+Dialogue: 0,0:04:48.35,0:04:49.05,Main Dialog,Masako,0000,0000,0000,,But...
+Dialogue: 0,0:04:49.60,0:04:50.35,Main Dialog,Boyfriend,0000,0000,0000,,What?
+Dialogue: 0,0:04:50.60,0:04:53.06,Main Dialog,Masako,0000,0000,0000,,Right now, the spotlight's on me,
+Dialogue: 0,0:04:53.06,0:04:55.44,Main Dialog,Masako,0000,0000,0000,,but who knows what'll happen next year.
+Dialogue: 0,0:04:55.85,0:05:00.27,Main Dialog,Masako,0000,0000,0000,,There'll be younger artists \Ncoming out of the woodwork.
+Dialogue: 0,0:05:03.15,0:05:06.24,Main Dialog,Masako,0000,0000,0000,,They could turn their back \Non me, just like that.
+Dialogue: 0,0:05:07.32,0:05:10.41,Main Dialog,Boyfriend,0000,0000,0000,,Ma-chan, you worry too much \Nabout what could go wrong.
+Dialogue: 0,0:05:10.74,0:05:12.37,Main Dialog,Boyfriend,0000,0000,0000,,It's unhealthy.
+Dialogue: 0,0:05:14.50,0:05:16.67,Main Dialog,Boyfriend,0000,0000,0000,,You have an ink mark on your face again.
+Dialogue: 0,0:05:16.67,0:05:17.79,Main Dialog,Masako,0000,0000,0000,,Oh yeah?
+Dialogue: 0,0:05:20.54,0:05:21.59,Main Dialog,Boyfriend,0000,0000,0000,,Tch...
+Dialogue: 0,0:05:22.84,0:05:25.38,Main Dialog,Boyfriend,0000,0000,0000,,Ma-chan, you're a girl, so...
+Dialogue: 0,0:05:28.39,0:05:30.18,Main Dialog,Masako,0000,0000,0000,,I'm not a girl!
+Dialogue: 0,0:05:30.64,0:05:32.01,Main Dialog,Masako,0000,0000,0000,,I'm a manga artist!
+Dialogue: 0,0:05:34.60,0:05:36.06,Main Dialog,Masako,0000,0000,0000,,I'm going home to work!
+Dialogue: 0,0:05:39.86,0:05:42.65,Main Dialog,Boyfriend,0000,0000,0000,,I'm sorry for making a scene...
+Dialogue: 0,0:05:45.24,0:05:46.74,Main Dialog,Daikichi,0000,0000,0000,,Jeez...
+Dialogue: 0,0:05:47.28,0:05:50.66,Main Dialog,Daikichi,0000,0000,0000,,Pain in the ass to go to work...
+Dialogue: 0,0:05:55.70,0:05:57.08,Main Dialog,Rin,0000,0000,0000,,Good morning...
+Dialogue: 0,0:05:57.75,0:05:59.21,Main Dialog,Daikichi,0000,0000,0000,,Morning...
+Dialogue: 0,0:05:59.21,0:06:01.04,Main Dialog,Rin,0000,0000,0000,,I called you before.
+Dialogue: 0,0:06:01.46,0:06:04.30,Main Dialog,Daikichi,0000,0000,0000,,Sorry. It was just so hot...
+Dialogue: 0,0:06:05.34,0:06:07.30,Main Dialog,Rin,0000,0000,0000,,Are you cooling off by doing that?
+Dialogue: 0,0:06:07.68,0:06:08.72,Main Dialog,Daikichi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:11.30,0:06:13.68,Main Dialog,Daikichi,0000,0000,0000,,Wanna make your lunch?
+Dialogue: 0,0:06:13.68,0:06:14.18,Main Dialog,Rin,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:28.11,0:06:29.41,Main Dialog,Daikichi,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:06:29.41,0:06:30.82,Main Dialog,Daikichi,0000,0000,0000,,Give me a hand here!
+Dialogue: 0,0:06:32.12,0:06:33.49,Main Dialog,Rin,0000,0000,0000,,Okay!
+Dialogue: 0,0:06:35.12,0:06:37.25,Main Dialog,Daikichi,0000,0000,0000,,Rin's summer vacation has started.
+Dialogue: 0,0:06:37.96,0:06:40.08,Main Dialog,Daikichi,0000,0000,0000,,In the morning, we make \Nher lunch together,
+Dialogue: 0,0:06:40.08,0:06:42.21,Main Dialog,Daikichi,0000,0000,0000,,and then Rin goes to a day-care center.
+Dialogue: 0,0:06:44.46,0:06:48.01,Main Dialog,Daikichi,0000,0000,0000,,How about we visit Grandpa's \Ngrave next Saturday?
+Dialogue: 0,0:06:48.01,0:06:49.63,Main Dialog,Daikichi,0000,0000,0000,,It's almost O-Bon,
+Dialogue: 0,0:06:48.13,0:06:54.18,Caption Top,Sign,0000,0000,0000,,{\fs24}[ Note: O-Bon = Holiday in which \Npeople honor their ancestors ]
+Dialogue: 0,0:06:49.63,0:06:50.84,Main Dialog,Daikichi,0000,0000,0000,,and since it's your...
+Dialogue: 0,0:06:52.26,0:06:53.85,Main Dialog,Daikichi,0000,0000,0000,,What? You don't wanna go?
+Dialogue: 0,0:06:55.01,0:06:58.35,Main Dialog,Rin,0000,0000,0000,,After all, the bellflowers \Nhaven't bloomed yet...
+Dialogue: 0,0:07:00.89,0:07:03.48,Main Dialog,Daikichi,0000,0000,0000,,It looks like it'll take \Na little more time.
+Dialogue: 0,0:07:03.48,0:07:06.36,Main Dialog,Daikichi,0000,0000,0000,,Well, this time, we'll \Nbuy flowers at a florist,
+Dialogue: 0,0:07:06.36,0:07:09.24,Main Dialog,Daikichi,0000,0000,0000,,and we can go again when \Nyour flowers bloom.
+Dialogue: 0,0:07:09.57,0:07:10.53,Main Dialog,Rin,0000,0000,0000,,I guess...
+Dialogue: 0,0:07:13.37,0:07:18.87,Main Dialog,Daikichi,0000,0000,0000,,You'd make Grandpa happy bringing \Nhim the bellflowers that you grew.
+Dialogue: 0,0:07:18.87,0:07:21.46,Main Dialog,Rin,0000,0000,0000,,See? That's what I thought!
+Dialogue: 0,0:07:21.92,0:07:27.34,Main Dialog,Daikichi,0000,0000,0000,,But what would make Grandpa \Nhappiest is for you to visit.
+Dialogue: 0,0:07:27.34,0:07:28.92,Main Dialog,Daikichi,0000,0000,0000,,That's number one.
+Dialogue: 0,0:07:30.88,0:07:31.55,Main Dialog,Rin,0000,0000,0000,,Yeah...
+Dialogue: 0,0:07:32.01,0:07:33.14,Main Dialog,Rin,0000,0000,0000,,Okay.
+Dialogue: 0,0:07:40.52,0:07:46.61,Main Dialog,Daikichi,0000,0000,0000,,If Rin weren't here, I probably \Nwouldn't be thinking of Grandpa like this.
+Dialogue: 0,0:07:47.07,0:07:50.78,Main Dialog,Kouki,0000,0000,0000,,Rin-chan! Rin-chan!
+Dialogue: 0,0:07:51.32,0:07:52.57,Main Dialog,Rin,0000,0000,0000,,Kouki-kun!
+Dialogue: 0,0:07:53.61,0:07:56.58,Main Dialog,Daikichi,0000,0000,0000,,If you move, it screws \Nthe whole thing up!
+Dialogue: 0,0:07:56.58,0:07:57.83,Main Dialog,Rin,0000,0000,0000,,Whoopsie!
+Dialogue: 0,0:07:58.41,0:08:01.87,Main Dialog,Daikichi,0000,0000,0000,,Why is your hair so fine to begin with?
+Dialogue: 0,0:07:58.58,0:08:03.79,Caption Top Right,Sign,0000,0000,0000,,Apricot
+Dialogue: 0,0:08:01.87,0:08:02.71,Main Dialog,Rin,0000,0000,0000,,I dunno!
+Dialogue: 0,0:08:13.76,0:08:14.68,Main Dialog,Daikichi,0000,0000,0000,,What?
+Dialogue: 0,0:08:15.51,0:08:17.10,Main Dialog,Kouki,0000,0000,0000,,Wait a second!
+Dialogue: 0,0:08:17.47,0:08:19.89,Main Dialog,Daikichi,0000,0000,0000,,Hey! We're gonna be late!
+Dialogue: 0,0:08:21.89,0:08:23.69,Main Dialog,Daikichi,0000,0000,0000,,What's with him?
+Dialogue: 0,0:08:24.14,0:08:27.31,Main Dialog,Rin,0000,0000,0000,,Daikichi, how many more days?
+Dialogue: 0,0:08:28.52,0:08:31.49,Caption Top,Sign,0000,0000,0000,,O-Bon Festival
+Dialogue: 0,0:08:32.78,0:08:34.57,Main Dialog,Daikichi,0000,0000,0000,,About ten, I guess...
+Dialogue: 0,0:08:34.57,0:08:36.20,Main Dialog,Kouki,0000,0000,0000,,I found one!
+Dialogue: 0,0:08:37.57,0:08:39.45,Main Dialog,Kouki,0000,0000,0000,,A cicada shell!
+Dialogue: 0,0:08:39.45,0:08:40.41,Main Dialog,Daikichi,0000,0000,0000,,A shell?
+Dialogue: 0,0:08:41.12,0:08:45.62,Main Dialog,Daikichi,0000,0000,0000,,Huh. This brings back memories...
+Dialogue: 0,0:08:46.25,0:08:48.88,Main Dialog,Kouki,0000,0000,0000,,I've got a bunch of 'em in here.
+Dialogue: 0,0:08:50.80,0:08:52.30,Main Dialog,Daikichi,0000,0000,0000,,Gross!
+Dialogue: 0,0:08:53.22,0:08:54.43,Main Dialog,Daikichi,0000,0000,0000,,Don't shake 'em!
+Dialogue: 0,0:08:55.76,0:08:57.93,Main Dialog,Kouki,0000,0000,0000,,We're gonna be late!
+Dialogue: 0,0:08:59.89,0:09:01.77,Main Dialog,Daikichi,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:01.77,0:09:04.06,Main Dialog,Daikichi,0000,0000,0000,,Watch out for cars!
+Dialogue: 0,0:09:07.60,0:09:10.40,Main Dialog,Rin,0000,0000,0000,,I've been here a lot of times before.
+Dialogue: 0,0:09:11.03,0:09:12.23,Main Dialog,Daikichi,0000,0000,0000,,With Grandpa?
+Dialogue: 0,0:09:12.23,0:09:13.03,Main Dialog,Rin,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:13.03,0:09:17.20,Main Dialog,Daikichi,0000,0000,0000,,I see. Grandma's laid to rest \Nhere too, come to think of it.
+Dialogue: 0,0:09:17.49,0:09:19.37,Main Dialog,Rin,0000,0000,0000,,Grandpa's grandma?
+Dialogue: 0,0:09:19.37,0:09:21.33,Main Dialog,Daikichi,0000,0000,0000,,No, my grandma.
+Dialogue: 0,0:09:21.33,0:09:26.42,Main Dialog,Daikichi,0000,0000,0000,,Um, Grandpa and Grandma's \Nchild is my mom.
+Dialogue: 0,0:09:26.67,0:09:29.13,Main Dialog,Daikichi,0000,0000,0000,,And I'm her son.
+Dialogue: 0,0:09:29.92,0:09:32.42,Main Dialog,Rin,0000,0000,0000,,Your mother is Grandpa's daughter!
+Dialogue: 0,0:09:33.67,0:09:34.47,Main Dialog,Rin,0000,0000,0000,,But...
+Dialogue: 0,0:09:34.97,0:09:38.59,Main Dialog,Rin,0000,0000,0000,,Then that makes me your \Nmother's sister...
+Dialogue: 0,0:09:39.22,0:09:42.93,Main Dialog,Daikichi,0000,0000,0000,,Crap! I don't want her to \Ngo in this direction...
+Dialogue: 0,0:09:43.81,0:09:44.93,Main Dialog,Rin,0000,0000,0000,,Over here!
+Dialogue: 0,0:09:47.02,0:09:48.60,Main Dialog,Rin,0000,0000,0000,,Here it is!
+Dialogue: 0,0:09:48.60,0:09:52.07,Caption Top,Sign,0000,0000,0000,,Kaga Family Grave
+Dialogue: 0,0:09:52.52,0:09:54.28,Main Dialog,Rin,0000,0000,0000,,The grave's wet.
+Dialogue: 0,0:10:04.41,0:10:05.62,Main Dialog,Rin,0000,0000,0000,,That jar...
+Dialogue: 0,0:10:07.25,0:10:09.12,Main Dialog,Rin,0000,0000,0000,,Masako-san had it...
+Dialogue: 0,0:10:11.29,0:10:12.04,Main Dialog,Daikichi,0000,0000,0000,,Ma...
+Dialogue: 0,0:10:18.38,0:10:21.80,Main Dialog,Daikichi,0000,0000,0000,,What the hell? When she didn't \Neven come to his funeral!
+Dialogue: 0,0:10:23.22,0:10:25.35,Main Dialog,Daikichi,0000,0000,0000,,Rin, I'll be right back!
+Dialogue: 0,0:10:26.39,0:10:27.81,Main Dialog,Daikichi,0000,0000,0000,,Stay here for a bit!
+Dialogue: 0,0:10:30.85,0:10:32.40,Main Dialog,Daikichi,0000,0000,0000,,Pull up the weeds for me!
+Dialogue: 0,0:10:33.07,0:10:34.40,Main Dialog,Rin,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:55.38,0:10:57.30,Main Dialog,Daikichi,0000,0000,0000,,What should I do?
+Dialogue: 0,0:10:57.51,0:11:00.55,Main Dialog,Daikichi,0000,0000,0000,,I mean, she goes with a \Nman to visit the grave?!
+Dialogue: 0,0:11:11.44,0:11:12.90,Main Dialog,Daikichi,0000,0000,0000,,Bark! Bark!
+Dialogue: 0,0:11:23.20,0:11:26.49,Main Dialog,Masako,0000,0000,0000,,What?! What are you doing here?
+Dialogue: 0,0:11:27.16,0:11:28.95,Main Dialog,Masako,0000,0000,0000,,I thought you were some \Nderanged person...
+Dialogue: 0,0:11:28.95,0:11:31.29,Main Dialog,Daikichi,0000,0000,0000,,I'm supposed to be visiting a grave.
+Dialogue: 0,0:11:31.83,0:11:33.42,Main Dialog,Daikichi,0000,0000,0000,,Accent on the "supposed to be"...
+Dialogue: 0,0:11:33.79,0:11:36.21,Main Dialog,Daikichi,0000,0000,0000,,But I thought maybe I \Nshould let you know...
+Dialogue: 0,0:11:37.96,0:11:40.30,Main Dialog,Daikichi,0000,0000,0000,,Rin's here, too.
+Dialogue: 0,0:11:41.93,0:11:43.30,Main Dialog,Daikichi,0000,0000,0000,,At Grandpa's grave...
+Dialogue: 0,0:11:46.10,0:11:48.60,Main Dialog,Masako,0000,0000,0000,,Um, I...
+Dialogue: 0,0:11:52.85,0:11:58.53,Main Dialog,Daikichi,0000,0000,0000,,Um, look, Rin's dear to me, so to be \Nhonest, I don't often think about you.
+Dialogue: 0,0:11:59.32,0:12:01.65,Main Dialog,Daikichi,0000,0000,0000,,I don't give a damn about \Nyour circumstances either.
+Dialogue: 0,0:12:01.65,0:12:06.49,Main Dialog,Daikichi,0000,0000,0000,,Unless Rin wishes for it, I have no \Nintention of ever getting you two together.
+Dialogue: 0,0:12:06.49,0:12:08.87,Main Dialog,Masako,0000,0000,0000,,I know that.
+Dialogue: 0,0:12:10.08,0:12:14.00,Main Dialog,Masako,0000,0000,0000,,But you went out of your way \Nto follow me, to say what?
+Dialogue: 0,0:12:14.00,0:12:19.13,Main Dialog,Daikichi,0000,0000,0000,,Do you want to at least get \Na look at Rin secretly?
+Dialogue: 0,0:12:21.01,0:12:25.18,Main Dialog,Daikichi,0000,0000,0000,,Now, we're going to clean the grave off, \Nlight incense and go home like normal.
+Dialogue: 0,0:12:25.18,0:12:27.60,Main Dialog,Daikichi,0000,0000,0000,,I think it'll take some time...
+Dialogue: 0,0:12:28.43,0:12:31.02,Main Dialog,Daikichi,0000,0000,0000,,Well, Rin is waiting for me.
+Dialogue: 0,0:12:35.90,0:12:38.27,Main Dialog,Daikichi,0000,0000,0000,,So do what you want.
+Dialogue: 0,0:12:38.61,0:12:40.65,Main Dialog,Daikichi,0000,0000,0000,,We're just gonna go about our business.
+Dialogue: 0,0:12:52.66,0:12:54.87,Main Dialog,Daikichi,0000,0000,0000,,Rin... Sorry...
+Dialogue: 0,0:12:55.33,0:12:56.08,Main Dialog,Daikichi,0000,0000,0000,,Was I gone long?
+Dialogue: 0,0:13:05.63,0:13:07.34,Main Dialog,Rin,0000,0000,0000,,Um...
+Dialogue: 0,0:13:09.43,0:13:10.72,Main Dialog,Daikichi,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:13:10.72,0:13:13.23,Main Dialog,Daikichi,0000,0000,0000,,Um... I had to do something...
+Dialogue: 0,0:13:14.56,0:13:15.64,Main Dialog,Daikichi,0000,0000,0000,,Never mind, sorry.
+Dialogue: 0,0:13:15.64,0:13:16.69,Main Dialog,Daikichi,0000,0000,0000,,Did you wait long?
+Dialogue: 0,0:13:16.69,0:13:17.86,Main Dialog,Rin,0000,0000,0000,,Not too long.
+Dialogue: 0,0:13:18.27,0:13:20.02,Main Dialog,Daikichi,0000,0000,0000,,Were you lonely?
+Dialogue: 0,0:13:22.03,0:13:23.69,Main Dialog,Rin,0000,0000,0000,,You're weird!
+Dialogue: 0,0:13:23.69,0:13:25.95,Main Dialog,Rin,0000,0000,0000,,Why are you so nervous?
+Dialogue: 0,0:13:27.16,0:13:28.82,Main Dialog,Daikichi,0000,0000,0000,,I'm not weird.
+Dialogue: 0,0:13:30.45,0:13:31.41,Main Dialog,Daikichi,0000,0000,0000,,Here.
+Dialogue: 0,0:13:31.41,0:13:32.16,Main Dialog,Rin,0000,0000,0000,,Right.
+Dialogue: 0,0:13:32.83,0:13:34.50,Main Dialog,Daikichi,0000,0000,0000,,Hold it out there.
+Dialogue: 0,0:13:34.50,0:13:35.62,Main Dialog,Rin,0000,0000,0000,,Okay.
+Dialogue: 0,0:13:45.13,0:13:48.64,Main Dialog,Masako,0000,0000,0000,,She's no longer a baby...
+Dialogue: 0,0:13:51.39,0:13:53.56,Main Dialog,Masako,0000,0000,0000,,Blood ties are an amazing thing.
+Dialogue: 0,0:13:53.56,0:13:56.48,Main Dialog,Boyfriend,0000,0000,0000,,Yep. She looks just like you, Ma-chan.
+Dialogue: 0,0:13:56.89,0:13:59.02,Main Dialog,Masako,0000,0000,0000,,From behind...
+Dialogue: 0,0:13:59.02,0:14:01.11,Main Dialog,Boyfriend,0000,0000,0000,,She's pretty cute.
+Dialogue: 0,0:14:03.07,0:14:04.74,Main Dialog,Masako,0000,0000,0000,,From this sense of distance...
+Dialogue: 0,0:14:05.69,0:14:07.86,Main Dialog,Masako,0000,0000,0000,,He closely resembles Souichi-san...
+Dialogue: 0,0:14:16.75,0:14:17.83,Main Dialog,Masako,0000,0000,0000,,Good...
+Dialogue: 0,0:14:20.88,0:14:22.29,Main Dialog,Boyfriend,0000,0000,0000,,That was a surprise.
+Dialogue: 0,0:14:22.63,0:14:26.05,Main Dialog,Boyfriend,0000,0000,0000,,Maybe a coincidence like this happens \Nbecause it's nearly O-Bon...
+Dialogue: 0,0:14:26.38,0:14:29.72,Main Dialog,Masako,0000,0000,0000,,She's seven years old today...
+Dialogue: 0,0:14:30.01,0:14:31.51,Main Dialog,Boyfriend,0000,0000,0000,,I see...
+Dialogue: 0,0:14:31.76,0:14:34.31,Main Dialog,Boyfriend,0000,0000,0000,,I was surprised about \Nyour daughter, of course,
+Dialogue: 0,0:14:34.31,0:14:36.73,Main Dialog,Boyfriend,0000,0000,0000,,but I thought maybe he \Nwas your ex-boyfriend...
+Dialogue: 0,0:14:36.73,0:14:37.89,Main Dialog,Masako,0000,0000,0000,,Give me a break.
+Dialogue: 0,0:14:38.52,0:14:42.27,Main Dialog,Masako,0000,0000,0000,,I don't think that man's \Ngot a lick of intelligence.
+Dialogue: 0,0:14:49.99,0:14:54.16,Main Dialog,Masako,0000,0000,0000,,Although I can't say what he'd be \Nlike given another half a century...
+Dialogue: 0,0:14:54.16,0:14:57.08,Main Dialog,Boyfriend,0000,0000,0000,,Half... a century?
+Dialogue: 0,0:14:59.00,0:15:03.75,Main Dialog,Daikichi,0000,0000,0000,,I suppose that man was her boyfriend...
+Dialogue: 0,0:15:04.80,0:15:07.09,Main Dialog,Rin,0000,0000,0000,,Hey, Daikichi?
+Dialogue: 0,0:15:07.09,0:15:09.80,Main Dialog,Daikichi,0000,0000,0000,,And far be it for me to say it's bad...
+Dialogue: 0,0:15:10.18,0:15:11.47,Main Dialog,Rin,0000,0000,0000,,Daikichi!
+Dialogue: 0,0:15:11.47,0:15:13.18,Main Dialog,Daikichi,0000,0000,0000,,But some people...
+Dialogue: 0,0:15:13.18,0:15:16.02,Main Dialog,Daikichi,0000,0000,0000,,Well, she sure found herself \Na sweetheart fast enough...
+Dialogue: 0,0:15:16.31,0:15:18.18,Main Dialog,Rin,0000,0000,0000,,Daikichi, I said!
+Dialogue: 0,0:15:18.18,0:15:19.02,Main Dialog,Daikichi,0000,0000,0000,,Yes?!
+Dialogue: 0,0:15:19.52,0:15:21.85,Main Dialog,Rin,0000,0000,0000,,Can we go to Grandpa's house?
+Dialogue: 0,0:15:22.65,0:15:24.40,Main Dialog,Rin,0000,0000,0000,,It's near here, isn't it?
+Dialogue: 0,0:15:25.73,0:15:29.49,Main Dialog,Daikichi,0000,0000,0000,,But that's not Grandpa's house anymore.
+Dialogue: 0,0:15:30.03,0:15:31.74,Main Dialog,Rin,0000,0000,0000,,Is somebody living there?
+Dialogue: 0,0:15:31.74,0:15:36.99,Main Dialog,Daikichi,0000,0000,0000,,No. No one's living there now, \Nbut the house is my uncle's...
+Dialogue: 0,0:15:37.33,0:15:40.16,Main Dialog,Daikichi,0000,0000,0000,,My mom's older brother's house, so...
+Dialogue: 0,0:15:40.62,0:15:42.71,Main Dialog,Daikichi,0000,0000,0000,,The family altar is there, too.
+Dialogue: 0,0:15:44.67,0:15:45.92,Main Dialog,Rin,0000,0000,0000,,I see...
+Dialogue: 0,0:15:49.05,0:15:54.22,Main Dialog,Daikichi,0000,0000,0000,,Fine. I'll ask my uncle if \Nwe can just go in the yard.
+Dialogue: 0,0:15:54.85,0:15:55.80,Main Dialog,Rin,0000,0000,0000,,Really?!
+Dialogue: 0,0:15:56.14,0:15:57.68,Main Dialog,Daikichi,0000,0000,0000,,Only the yard!
+Dialogue: 0,0:15:57.68,0:15:58.39,Main Dialog,Rin,0000,0000,0000,,Right!
+Dialogue: 0,0:15:58.85,0:16:00.81,Main Dialog,Rin,0000,0000,0000,,I know the way!
+Dialogue: 0,0:16:07.82,0:16:11.82,Main Dialog,Masako,0000,0000,0000,,I'm going to try and do \Nthat assignment after all.
+Dialogue: 0,0:16:12.24,0:16:13.57,Main Dialog,Boyfriend,0000,0000,0000,,Seriously?!
+Dialogue: 0,0:16:13.95,0:16:16.08,Main Dialog,Boyfriend,0000,0000,0000,,Are you sure about this, Ma-chan?!
+Dialogue: 0,0:16:16.08,0:16:19.62,Main Dialog,Masako,0000,0000,0000,,I'm alone for the sake of my work.
+Dialogue: 0,0:16:20.00,0:16:21.71,Main Dialog,Masako,0000,0000,0000,,I have to do more work.
+Dialogue: 0,0:16:21.71,0:16:23.58,Main Dialog,Boyfriend,0000,0000,0000,,You're already working plenty!
+Dialogue: 0,0:16:23.79,0:16:25.79,Main Dialog,Boyfriend,0000,0000,0000,,You work enough for two people!
+Dialogue: 0,0:16:26.79,0:16:28.21,Main Dialog,Masako,0000,0000,0000,,It's not enough yet...
+Dialogue: 0,0:16:29.13,0:16:32.51,Main Dialog,Masako,0000,0000,0000,,I have to work so hard I forget \Nwhat I had for dinner last night.
+Dialogue: 0,0:16:32.51,0:16:36.80,Main Dialog,Boyfriend,0000,0000,0000,,Oh, come on. I always forget what I \Nhad for dinner the previous night...
+Dialogue: 0,0:16:36.80,0:16:37.93,Main Dialog,Masako,0000,0000,0000,,If I don't...
+Dialogue: 0,0:16:39.10,0:16:40.85,Main Dialog,Masako,0000,0000,0000,,If I don't forget many things...
+Dialogue: 0,0:16:41.60,0:16:42.52,Main Dialog,Masako,0000,0000,0000,,I...
+Dialogue: 0,0:16:49.94,0:16:51.99,Main Dialog,Rin,0000,0000,0000,,We're almost there!
+Dialogue: 0,0:17:03.08,0:17:04.67,Caption Top,Sign,0000,0000,0000,,Kaga
+Dialogue: 0,0:17:10.59,0:17:12.21,Main Dialog,Rin,0000,0000,0000,,It's the same as before, huh?
+Dialogue: 0,0:17:14.47,0:17:17.30,Main Dialog,Daikichi,0000,0000,0000,,But you've totally changed...
+Dialogue: 0,0:17:35.90,0:17:37.32,Main Dialog,Rin,0000,0000,0000,,They're gone!
+Dialogue: 0,0:17:37.32,0:17:38.28,Main Dialog,Rin,0000,0000,0000,,The bellflowers!
+Dialogue: 0,0:17:38.57,0:17:40.58,Main Dialog,Rin,0000,0000,0000,,The dirt is gone too!
+Dialogue: 0,0:17:41.16,0:17:45.04,Main Dialog,Rin,0000,0000,0000,,The bellflowers were \Nprecious to Grandpa!
+Dialogue: 0,0:17:46.92,0:17:50.00,Main Dialog,Daikichi,0000,0000,0000,,I'm sure he didn't mean to remove them.
+Dialogue: 0,0:17:51.13,0:17:55.22,Main Dialog,Daikichi,0000,0000,0000,,Uncle knows Grandpa's \Nfavorite flower at least.
+Dialogue: 0,0:17:55.76,0:17:59.01,Main Dialog,Daikichi,0000,0000,0000,,But they wither up when winter comes...
+Dialogue: 0,0:17:59.55,0:18:03.85,Main Dialog,Daikichi,0000,0000,0000,,Maybe he didn't know that they \Nput out buds again in the spring.
+Dialogue: 0,0:18:06.10,0:18:07.39,Main Dialog,Daikichi,0000,0000,0000,,The rocks, too...
+Dialogue: 0,0:18:07.90,0:18:10.61,Main Dialog,Daikichi,0000,0000,0000,,If you don't spread them \Nall over like this,
+Dialogue: 0,0:18:10.61,0:18:13.19,Main Dialog,Daikichi,0000,0000,0000,,weeds will spring up soon and \Nbecome tough to deal with.
+Dialogue: 0,0:18:17.66,0:18:21.37,Main Dialog,Daikichi,0000,0000,0000,,Thankfully, we moved \NRin's fragrant olive.
+Dialogue: 0,0:18:21.37,0:18:22.49,Main Dialog,Daikichi,0000,0000,0000,,That saved its life.
+Dialogue: 0,0:18:26.50,0:18:31.92,Main Dialog,Rin,0000,0000,0000,,But thankfully we have Grandpa's \Nbellflowers at our house too, right?!
+Dialogue: 0,0:18:34.63,0:18:36.26,Main Dialog,Rin,0000,0000,0000,,Because of that, they're still alive!
+Dialogue: 0,0:18:38.88,0:18:39.84,Main Dialog,Daikichi,0000,0000,0000,,Exactly!
+Dialogue: 0,0:18:44.18,0:18:47.85,Main Dialog,Daikichi,0000,0000,0000,,Maybe change isn't all bad.
+Dialogue: 0,0:18:48.56,0:18:52.48,Main Dialog,Daikichi,0000,0000,0000,,But that grave will always \Nbe Grandpa's grave, right?
+Dialogue: 0,0:18:52.77,0:18:53.44,Main Dialog,Rin,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:02.28,0:19:03.24,Main Dialog,Daikichi,0000,0000,0000,,Rin!
+Dialogue: 0,0:19:08.16,0:19:10.08,Main Dialog,Daikichi,0000,0000,0000,,Happy birthday.
+Dialogue: 0,0:19:10.67,0:19:13.63,Caption Top,Sign,0000,0000,0000,,Happy Birthday, Rin-chan
+Dialogue: 0,0:19:11.38,0:19:13.17,Main Dialog,Rin,0000,0000,0000,,It's a chocolate one!
+Dialogue: 0,0:19:16.38,0:19:20.63,Main Dialog,Boyfriend,0000,0000,0000,,Saionji-sensei, can you \Ndo the final check?
+Dialogue: 0,0:19:21.89,0:19:23.47,Main Dialog,Boyfriend,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:19:24.14,0:19:26.97,Main Dialog,Boyfriend,0000,0000,0000,,You really do seem to be in \Nover your head this time...
+Dialogue: 0,0:19:27.52,0:19:31.85,Main Dialog,Masako,0000,0000,0000,,When you put it into words like that, \Nmy hand stops working, so cut it out!
+Dialogue: 0,0:19:43.99,0:19:45.12,Main Dialog,Daikichi,0000,0000,0000,,Go ahead.
+Dialogue: 0,0:19:50.79,0:19:53.58,Main Dialog,Masako,0000,0000,0000,,I'll finish it, for sure.
+Dialogue: 0,0:20:11.94,0:20:17.11,Ending Song,Ending Song,0000,0000,0000,,A sunny early Sunday afternoon
+Dialogue: 0,0:20:17.11,0:20:20.15,Ending Song,Ending Song,0000,0000,0000,,Let's go somewhere today
+Dialogue: 0,0:20:22.40,0:20:26.95,Ending Song,Ending Song,0000,0000,0000,,It's the same road I'm used to traveling
+Dialogue: 0,0:20:26.95,0:20:31.54,Ending Song,Ending Song,0000,0000,0000,,But I can see it sparkling so bright
+Dialogue: 0,0:20:32.71,0:20:37.00,Ending Song,Ending Song,0000,0010,0000,,With the sun shining down its warmth
+Dialogue: 0,0:20:37.96,0:20:41.92,Ending Song,Ending Song,0000,0000,0000,,And you here by my side...
+Dialogue: 0,0:20:41.92,0:20:46.64,Ending Song,Ending Song,0000,0000,0000,,I'm already high, high, high
+Dialogue: 0,0:20:46.64,0:20:52.31,Ending Song,Ending Song,0000,0000,0000,,I feel like dashing out
+Dialogue: 0,0:20:52.31,0:20:56.77,Ending Song,Ending Song,0000,0000,0000,,Sing, la, la, la
+Dialogue: 0,0:20:57.15,0:21:02.78,Ending Song,Ending Song,0000,0000,0000,,My voice out to forever
+Dialogue: 0,0:21:02.78,0:21:07.49,Ending Song,Ending Song,0000,0000,0000,,I'm already high, high, high
+Dialogue: 0,0:21:07.49,0:21:13.12,Ending Song,Ending Song,0000,0000,0000,,Ride the dancing wind
+Dialogue: 0,0:21:13.12,0:21:18.00,Ending Song,Ending Song,0000,0000,0000,,Sing, la, la, la
+Dialogue: 0,0:21:18.00,0:21:22.97,Ending Song,Ending Song,0000,0000,0000,,My voice springs up
+Dialogue: 0,0:21:43.78,0:21:47.20,Main Dialog,Rin,0000,0000,0000,,Daikichi, the festival \Nstalls are gonna close!
+Dialogue: 0,0:21:47.20,0:21:49.03,Main Dialog,Daikichi,0000,0000,0000,,No, they won't!
+Dialogue: 0,0:21:51.87,0:21:53.16,Main Dialog,Rin,0000,0000,0000,,It sounds like Grandpa.
+Dialogue: 0,0:21:56.96,0:21:58.58,Main Dialog,Rin,0000,0000,0000,,Kouki-kun is here!
+Dialogue: 0,0:22:02.88,0:22:04.01,Main Dialog,Daikichi,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:22:04.01,0:22:05.80,Main Dialog,Daikichi,0000,0000,0000,,We're supposed to meet up \Nat the shrine, remember?
+Dialogue: 0,0:22:05.80,0:22:07.76,Main Dialog,Kouki,0000,0000,0000,,Mom is taking too long!
+Dialogue: 0,0:22:07.76,0:22:09.80,Main Dialog,Daikichi,0000,0000,0000,,You're not wearing a yukata?
+Dialogue: 0,0:22:09.80,0:22:11.93,Main Dialog,Kouki,0000,0000,0000,,I can't jump with that!
+Dialogue: 0,0:22:13.02,0:22:14.73,Main Dialog,Kouki,0000,0000,0000,,Was that awesome or what?
+Dialogue: 0,0:22:16.10,0:22:17.35,Main Dialog,Daikichi,0000,0000,0000,,Where's your mom?
+Dialogue: 0,0:22:17.90,0:22:20.40,Main Dialog,Daikichi,0000,0000,0000,,She said she'll leave after her yukata \Nis on, so we should meet at the shrine.
+Dialogue: 0,0:22:28.28,0:22:28.99,Main Dialog,Daikichi,0000,0000,0000,,Let's go!
+Dialogue: 0,0:22:28.99,0:22:30.70,Main Dialog,Daikichi,0000,0000,0000,,Before the festival stalls close!
+Dialogue: 0,0:22:35.79,0:22:38.79,Main Dialog,Kouki,0000,0000,0000,,Daikichi, watch out for cars!
+Dialogue: 0,0:22:38.79,0:22:39.92,Main Dialog,Daikichi,0000,0000,0000,,I know!
+Dialogue: 0,0:22:39.92,0:22:42.63,Main Dialog,Rin,0000,0000,0000,,Wait! It's hard to run in geta!
+Dialogue: 0,0:22:42.63,0:22:43.42,Main Dialog,Daikichi,0000,0000,0000,,I'll carry you!
+Dialogue: 0,0:22:43.42,0:22:44.34,Main Dialog,Rin,0000,0000,0000,,Forget it!
+Dialogue: 0,0:22:44.34,0:22:45.76,Main Dialog,Kouki,0000,0000,0000,,You can carry me!
+Dialogue: 0,0:22:45.76,0:22:47.09,Main Dialog,Daikichi,0000,0000,0000,,Forget it!
