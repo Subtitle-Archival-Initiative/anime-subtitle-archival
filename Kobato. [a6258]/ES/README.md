@@ -16,4 +16,3 @@
 
 ## Notes
 
-Episode 17 could not be found, and as such is not included
