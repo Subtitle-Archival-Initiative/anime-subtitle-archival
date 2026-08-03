@@ -2,7 +2,11 @@
 
 | Role              | Staff                               |
 |-------------------|-------------------------------------|
-| Translation       | -                                   |
+| Translation       | midsummer                           |
+| Editing           | TextAloud                           |
+| Timing            | -                                   |
+| Typesetting       | freya                               |
+| Encoding          | freya                               |
 
 
 ## Release Info
